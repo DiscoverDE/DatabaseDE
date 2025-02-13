@@ -1,0 +1,27 @@
+	Extract words and provide output in json format with the following structure:
+
+	export interface Word {
+		de: string, -> our word (if noun provide with article)
+		en: string, -> english translation
+		ru: string, -> russian translation
+		descriptionEN: string, -> explanation in english
+		descriptionRU: string, -> explanation in russian
+		descriptionDE: string, -> explanation in german
+	}
+
+	Selected words are not allowed to be phrases only single words.
+	Generate 12 nouns  with its article (der / die / das)
+	Generate 6 verbs in infinite form
+	
+	Rest should be adjectives and adverbs
+	example:
+	{
+		de: "die Erfahrung",
+		en: "Experience"
+		ru: "Опыт"
+		descriptionEN: "practical contact with and observation of facts or events."
+		descriptionRU: "Совокупность практически усвоенных знаний, навыков, умения."
+		descriptionDE: "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+	}
+
+	Answer should be in json.

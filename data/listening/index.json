@@ -1,0 +1,105 @@
+[
+    {
+        "name": {
+            "de": "Einfach Stadt",
+            "en": "Simple city",
+            "ru": "Просто город"
+        },
+        "folder": "einfach",
+        "description": {
+            "de": "Stadt für Anfänger",
+            "en": "City for beginners",
+            "ru": "Город для новичков"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.mp4",
+        "amountOfStories": 15 ,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
+            "de": "Cologne",
+            "en": "Cologne",
+            "ru": "Кёльн"
+        },
+        "folder": "cologne",
+        "description": {
+            "de": "Domstadt",
+            "en": "Cathedral city",
+            "ru": "Город собора"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
+        "amountOfStories": 15,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
+            "de": "Bonn",
+            "en": "Bonn",
+            "ru": "Бонн"
+        },
+        "folder": "bonn",
+        "description": {
+            "de": "Der Geburtsort von Beethoven",
+            "en": "The birthplace of Beethoven",
+            "ru": "Родина Бетховена"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.mp4",
+        "amountOfStories": 15,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
+            "de": "Düsseldorf",
+            "en": "Düsseldorf",
+            "ru": "Дюссельдорф"
+        },
+        "folder": "dusseldorf",
+        "description": {
+            "de": "Belebte Mode- und Handelsmessen",
+            "en": "Bustling fashion and trade fairs",
+            "ru": "Оживленные ярмарки моды и торговли"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dus1.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorfLISTEN.mp4",
+        "amountOfStories": 15,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
+            "de": "Koblenz",
+            "en": "Koblenz",
+            "ru": "Кобленц"
+        },
+        "folder": "koblenz",
+        "description": {
+            "de": "Der Zusammenfluss von Rhein und Mosel",
+            "en": "The confluence of the Rhine and Moselle",
+            "ru": "Слияние рек Рейн и Мозель"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
+        "amountOfStories": 15,
+        "active": true,
+        "hasVideo": true
+    }, {
+        "name": {
+            "de": "Mosel",
+            "en": "Moselle",
+            "ru": "Мозель"
+        },
+        "folder": "mosel",
+        "description": {
+            "de": "Ein Weinbaugebiet",
+            "en": "A wine region",
+            "ru": "Винодельческий регион"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/moselLISTEN.jpg",
+        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/moselLISTEN.mp4",
+        "amountOfStories": 15,
+        "active": true,
+        "hasVideo": true
+    }
+]

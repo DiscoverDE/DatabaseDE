@@ -1,0 +1,58 @@
+[
+    {
+        "name": "sollen - wollen",
+        "description": {
+            "en": "Modal Verbs",
+            "de": "Modalverben",
+            "ru": "Модальные глаголы"
+        },
+        "file": "modalverben.json",
+        "level": "B1",
+        "icon": "run-fast",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "von - mit",
+        "description": {
+            "en": "Verbs with prepositions",
+            "de": "Verben mit Präpositionen",
+            "ru": "Глаголы с предлогами"
+        },
+        "file": "verbPrepo.json",
+        "level": "B1",
+        "icon": "typewriter",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "um - nach",
+        "description": {
+            "en": "Verbs with prepositions II",
+            "de": "Verben mit Präpositionen II",
+            "ru": "Глаголы с предлогами II"
+        },
+        "file": "verbPrepoII.json",
+        "level": "B1",
+        "icon": "pen-tool",
+        "iconFamily": "Feather"
+    }, {
+        "name": "mich",
+        "description": {
+            "en": "Reflexive pronoun",
+            "de": "Reflexivpronomen",
+            "ru": "Возвратное местоимение"
+        },
+        "file": "reflexive.json",
+        "level": "B1",
+        "icon": "person-search",
+        "iconFamily": "MaterialIcons"
+    }, {
+        "name": "der - dem",
+        "description": {
+            "en": "Dative",
+            "de": "Dativ",
+            "ru": "Датив"
+        },
+        "file": "dativ.json",
+        "level": "B1",
+        "icon": "hardware",
+        "iconFamily": "MaterialIcons"
+    }
+]

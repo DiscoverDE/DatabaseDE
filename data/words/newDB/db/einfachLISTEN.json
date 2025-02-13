@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "Family Celebration",
+            "de": "Familienfeier",
+            "ru": "Семейное торжество"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Familienfeier.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Familienfeier.json"
+    }, {
+        "id": 2,
+        "title": {
+            "en": "Nature's Haven",
+            "de": "Naturparadies",
+            "ru": "Убежище природы"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Naturparadies.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Naturparadies.json"
+    }, {
+        "id": 3,
+        "title": {
+            "en": "Pizza Dream",
+            "de": "Pizzatraum",
+            "ru": "Мечта о пицце"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Pizzatraum.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Pizzatraum.json"
+    }, {
+        "id": 4,
+        "title": {
+            "en": "Missis Wilson's Bike",
+            "de": "Frau Wilsons Fahrrad",
+            "ru": "Велосипед Фрау Уилсон"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Radfahren.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Radfahren.json"
+    }, {
+        "id": 5,
+        "title": {
+            "en": "Garden Success",
+            "de": "Garten Erfolg",
+            "ru": "Успех сада"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Tomaten.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Tomaten.json"
+    }, {
+        "id": 6,
+        "title": {
+            "en": "New Friend",
+            "de": "Neue Freundin",
+            "ru": "Новая подруга"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Freundin.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Freundin.json"
+    }, {
+        "id": 7,
+        "title": {
+            "en": "Lily's Kindness",
+            "de": "Lilys Güte",
+            "ru": "Доброта Лили"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Verlorener.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Verlorener.json"
+    }, {
+        "id": 8,
+        "title": {
+            "en": "Dream Job",
+            "de": "Traumjob",
+            "ru": "Работа мечты"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Joel.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Joel.json"
+    }, {
+        "id": 9,
+        "title": {
+            "en": "Stormy Week",
+            "de": "Stürmische Woche",
+            "ru": "Штормовая неделя"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Stormy.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Stormy.json"
+    }, {
+        "id": 10,
+        "title": {
+            "en": "Sophie's Move",
+            "de": "Sophies Umzug",
+            "ru": "Переезд Софи"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Sophie.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Sophie.json"
+    }, {
+        "id": 11,
+        "title": {
+            "en": "A Chef's Day",
+            "de": "Ein Tag eines Kochs",
+            "ru": "День шеф-повара"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/KulinarikNew.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Kulinarik.json"
+    }, {
+        "id": 12,
+        "title": {
+            "en": "Lena's Journey",
+            "de": "Lenas Reise",
+            "ru": "Путешествие Лены"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Lena.png",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lena.json"
+    }, {
+        "id": 13,
+        "title": {
+            "en": "Thomas's Favorites",
+            "de": "Thomas' Favoriten",
+            "ru": "Любимое Томаса"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Thomas.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Thomas.json"
+    }, {
+        "id": 14,
+        "title": {
+            "en": "Lily's Adventure",
+            "de": "Lilys Abenteuer",
+            "ru": "Приключения Лили"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Lily.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lily.json"
+    }, {
+        "id": 15,
+        "title": {
+            "en": "Coffee Tradition",
+            "de": "Kaffeetradition",
+            "ru": "Традиция кофе"
+        },
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Kaffeetradition.jpg",
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Kaffeetradition.json"
+    }
+]

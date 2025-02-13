@@ -1,0 +1,193 @@
+[
+    {
+        "name": "Was war Max' Geburtsort?",
+        "answers": [
+            {
+                "text": "Hamburg",
+                "correct": false
+            }, {
+                "text": "Köln",
+                "correct": true
+            }, {
+                "text": "Berlin",
+                "correct": false
+            }, {
+                "text": "München",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Warum musste Max die Universität wechseln?",
+        "answers": [
+            {
+
+                "text": "Er hat die Stadt nicht gemocht.",
+                "correct": false
+            }, {
+
+                "text": "Er wollte näher bei seiner Familie sein.",
+                "correct": false
+            }, {
+                "text": "Er war ein Transferstudent.",
+                "correct": true
+            }, {
+                "text": "Die Universität war geschlossen.",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was beeindruckte Maria in Köln?",
+        "answers": [
+            {
+
+                "text": "Die modernen Gebäude.",
+                "correct": false
+            }, {
+
+                "text": "Der Kölner Dom.",
+                "correct": true
+            }, {
+
+                "text": "Die Parks und Gärten.",
+                "correct": false
+            }, {
+
+                "text": "Die Einkaufsmöglichkeiten.",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was erzählte Max stolz über die Kölner Kultur?",
+        "answers": [
+            {
+
+                "text": "Die kulinarischen Spezialitäten.",
+                "correct": false
+            }, {
+
+                "text": "Die Musiktradition.",
+                "correct": false
+            }, {
+
+                "text": "Die kölsche Mundart.",
+                "correct": true
+            }, {
+
+                "text": "Die Theateraufführungen.",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was teilte Herr Müller über seine Zeit im Dom mit?",
+        "answers": [
+            {
+
+                "text": "Er hat im Dom gearbeitet.",
+                "correct": false
+            }, {
+
+                "text": "Er hat die Zeit dort genossen.",
+                "correct": true
+            }, {
+
+                "text": "Er hat den Dom restauriert.",
+                "correct": false
+            }, {
+
+                "text": "Er hat im Dom übernachtet.",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Worauf freute sich Herr Müller besonders?",
+        "answers": [
+            {
+
+                "text": "Die lebhaften Karnevalsfeierlichkeiten.",
+                "correct": false
+            }, {
+
+                "text": "Die Zeit im Dom.",
+                "correct": false
+            }, {
+
+                "text": "Das Treffen mit seinen Enkelkindern.",
+                "correct": true
+            }, {
+
+                "text": "Die Vielfalt der deutschen Städte.",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was beeindruckte Maria an Köln?",
+        "answers": [
+            {
+
+                "text": "Die Menschen",
+                "correct": false
+            }, {
+
+                "text": "Der Dom",
+                "correct": true
+            }, {
+
+                "text": "Die Kultur",
+                "correct": false
+            }, {
+
+                "text": "Das Essen",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was war das Hauptthema von Max' Gespräch?",
+        "answers": [
+            {
+
+                "text": "Kölner Kultur",
+                "correct": true
+            }, {
+
+                "text": "Karnevalsfeierlichkeiten",
+                "correct": false
+            }, {
+
+                "text": "Kölscher Dialekt",
+                "correct": false
+            }, {
+
+                "text": "Transferstudium",
+                "correct": false
+            }
+        ]
+    }, {
+
+        "name": "Was musste Herr Müller aufgrund einer Zugverspätung tun?",
+        "answers": [
+            {
+
+                "text": "Flugzeug nehmen",
+                "correct": false
+            }, {
+
+                "text": "Taxi nehmen",
+                "correct": false
+            }, {
+
+                "text": "Wartezeit im Kölner Dom verbringen",
+                "correct": true
+            }, {
+
+                "text": "Zu Fuß gehen",
+                "correct": false
+            }
+        ]
+    }
+]

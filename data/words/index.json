@@ -1,0 +1,499 @@
+[
+    {
+        "title": {
+            "de": "Haushalt",
+            "en": "Household",
+            "ru": "Быт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/household/image.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg"
+    }, {
+        "title": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg"
+    }, {
+        "title": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg"
+    }, {
+        "title": {
+            "de": "Wilde Entdeckungen",
+            "en": "Wild Explorations",
+            "ru": "Дикие исследования"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Zoopark.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Begegnung",
+            "en": "Meeting in Cologne",
+            "ru": "Знакомство в Кельне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Meeting_Cologne.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Meeting_Cologne.jpg"
+    }, {
+        "title": {
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg"
+    }, {
+        "title": {
+            "de": "Flughafen Bonn/Köln",
+            "en": "Bonn/Cologne Airport",
+            "ru": "Аэропорт Бонн/Кельн"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Flughafen_Cologne_Bonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Flughafen_Cologne_Bonn.jpg"
+    }, {
+        "title": {
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg"
+    }, {
+        "title": {
+            "de": "Schokoladenparadies",
+            "en": "Chocolate Paradise",
+            "ru": "Шоколадный рай"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Schokoladenparadies.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Schokoladenparadies.jpg"
+    }, {
+        "title": {
+            "de": "Köln im Dialog: ",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg"
+    }, {
+        "title": {
+            "de": "Wandern durch die Geschichte",
+            "en": "Hiking through History",
+            "ru": "Путешествие в прошлое"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg"
+    }, {
+        "title": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/NeuStadt.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/NeuStadt.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 1)",
+            "en": "Exploring Cologne (Part 1)",
+            "ru": "Знакомство с Кельном (часть 1)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 2)",
+            "en": "Exploring Cologne (Part 2)",
+            "ru": "Знакомство с Кельном (часть 2)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg"
+    }, {
+        "title": {
+            "de": "Köln erkunden (Teil 3)",
+            "en": "Exploring Cologne (Part 3)",
+            "ru": "Знакомство с Кельном (часть 3)"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg"
+    }, {
+        "title": {
+            "de": "Am Flughafen",
+            "en": "At the airport",
+            "ru": "В аэропорту"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Am_Flughafen.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg"
+    }, {
+        "title": {
+            "de": "Beethoven-Haus I",
+            "en": "Beethoven House I",
+            "ru": "Дом Бетховена I"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenI.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenI.jpg"
+    }, {
+        "title": {
+            "de": "Beethoven-Haus II",
+            "en": "Beethoven House II",
+            "ru": "Дом Бетховена II"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BeethovenII.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BeethovenII.jpg"
+    }, {
+        "title": {
+            "de": "COVID mit Beethoven",
+            "en": "COVID with Beethoven",
+            "ru": "КОВИД с Бетховеном"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.png"
+    }, {
+        "title": {
+            "de": "Das Arithmeum in Bonn",
+            "en": "The Arithmeum in Bonn",
+            "ru": "Аритмеум в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Arithmeum.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Arithmeum.jpg"
+    }, {
+        "title": {
+            "de": "Die Geschichte des 1. FC Köln",
+            "en": "The history of 1. FC Köln",
+            "ru": "История 1. ФК Кёльн"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/FC_Koeln.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/FC_Koeln.jpg"
+    }, {
+        "title": {
+            "de": "Hofgarten",
+            "en": "Court garden",
+            "ru": "Сад во дворе"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Hofgarten.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Hofgarten.jpg"
+    }, {
+        "title": {
+            "de": "Kölner Bierboom",
+            "en": "Cologne beer boom",
+            "ru": "Кельнский пивной бум"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg"
+    }, {
+        "title": {
+            "de": "Morgenerlebnisse von Felix",
+            "en": "Morning Explorations of Felix",
+            "ru": "Утренние приключения Феликса"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/MorgenerlebnisseI.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/MorgenerlebnisseI.jpg"
+    }, {
+        "title": {
+            "de": "Schönes Wochenende",
+            "en": "Warm Weekend",
+            "ru": "Теплый выходной"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Weekend.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Weekend.jpg"
+    }, {
+        "title": {
+            "de": "Bonner Farben",
+            "en": "Colors of Bonn",
+            "ru": "Краски Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg"
+    }, {
+        "title": {
+            "de": "Länderübergreifende Freundschaft",
+            "en": "International friendship",
+            "ru": "Интернациональная дружба"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Friendship.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Friendship.jpg"
+    }, {
+        "title": {
+            "de": "Julias Neue Welt",
+            "en": "Julia's New Horizons",
+            "ru": "Новые горизонты Юлии"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Fahrradtour.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Fahrradtour.jpg"
+    }, {
+        "title": {
+            "de": "Harmonien der Vergangenheit",
+            "en": "Harmonies of the Past",
+            "ru": "Гармонии прошлого"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg"
+    }, {
+        "title": {
+            "de": "Magie im Kölner Zoo",
+            "en": "Magic at Cologne Zoo",
+            "ru": "Волшебство в Кёльнском зоопарке"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Magic.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg"
+    }, {
+        "title": {
+            "de": "Köln gegen Düsseldorf",
+            "en": "Cologne vs. Düsseldorf",
+            "ru": "Кёльн против Дюссельдорфа"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg"
+    }, {
+        "title": {
+            "de": "Adrians Köln",
+            "en": "Adrian's Cologne",
+            "ru": "Кельн Адриана"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/ExploringCologne.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/ExploringCologne.jpg"
+    }, {
+        "title": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Frank.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg"
+    }, {
+        "title": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Ostern.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Ostern.jpg"
+    }, {
+        "title": {
+            "de": "Das erste Mal in Bonn",
+            "en": "First Time in Bonn",
+            "ru": "Первый раз в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/ErsteMal.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/ErsteMal.jpg"
+    }, {
+        "title": {
+            "de": "Die Geheimnisse der verlorenen Tasche",
+            "en": "The Mysteries of the Lost Purse",
+            "ru": "Тайны потерянной сумки"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Geheimnisse.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Geheimnisse.jpg"
+    }, {
+        "title": {
+            "de": "Süße Geheimnisse von Bonn",
+            "en": "Sweet Secrets of Bonn",
+            "ru": "Сладкие тайны Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg"
+    }, {
+        "title": {
+            "de": "Ein Blick in die Welt legendärer Sportler",
+            "en": "A Glimpse into the World of Legendary Athletes",
+            "ru": "Взгляд в мир легендарных спортсменов"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg"
+    }, {
+        "title": {
+            "de": "Unvergessliche Begegnungen",
+            "en": "Memorable Encounters",
+            "ru": "Незабвенные встречи"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Seilbahn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Seilbahn.jpg"
+    }, {
+        "title": {
+            "de": "Weihnachtsbräuche in Deutschland",
+            "en": "Christmas Traditions in Germany",
+            "ru": "Рождественские традиции в Германии"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg"
+    }, {
+        "title": {
+            "de": "Mein erstes Weihnachten",
+            "en": "My First Christmas",
+            "ru": "Моё первое Рождество"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/MeinWeihnachten.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/MeinWeihnachten.jpg"
+    }, {
+        "title": {
+            "de": "Lebensfreude in Bonn",
+            "en": "Joy of Life in Bonn",
+            "ru": "Радость жизни в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg"
+    }, {
+        "title": {
+            "de": "Einkaufsabenteuer",
+            "en": "Shopping Adventure",
+            "ru": "Приключение в магазине"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Einkaufen.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Einkaufen.jpg"
+    }, {
+        "title": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg"
+    }, {
+        "title": {
+            "de": "Meine Familie",
+            "en": "My family",
+            "ru": "Моя семья"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Sarah.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Sarah.jpg"
+    }, {
+        "title": {
+            "de": "Suche nach einem Wohnsitz",
+            "en": "Searching for accommodation",
+            "ru": "Поиск жилья"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg"
+    }, {
+        "title": {
+            "de": "Zugverspätungen",
+            "en": "Train Delays",
+            "ru": "Задержки поездов"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg"
+    }, {
+        "title": {
+            "de": "Der rosa Zwischenfall",
+            "en": "The Pink Incident",
+            "ru": "Розовый инцидент"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg"
+    }, {
+        "title": {
+            "de": "Haustiere",
+            "en": "Domestic animals",
+            "ru": "Домашние животные"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/haustiere/image.jpg"
+    }, {
+        "title": {
+            "de": "Reisen",
+            "en": "Travel",
+            "ru": "Путешествие"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/travel/image.jpg"
+    }, {
+        "title": {
+            "de": "Sports",
+            "en": "Sport",
+            "ru": "Спорт"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/sport/image.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmittel",
+            "en": "Food",
+            "ru": "Питание"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/food/image.jpg"
+    }, {
+        "title": {
+            "de": "Unterhaltung",
+            "en": "Entertainment",
+            "ru": "Развлечение"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/index.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/words/entertainment/image.jpg"
+    }, {
+        "title": {
+            "de": "Eine Reisegeschichte",
+            "en": "A Traveler's Tale",
+            "ru": "Путешественнический рассказ"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/words/Dusseldorf_Erkunden.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/dusseldorf/img/Dusseldorf_Erkunden.jpg"
+    }, {
+        "title": {
+            "de": "Erster Eindruck",
+            "en": "First Impressions",
+            "ru": "Первые впечатления"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/words/Rheinuferpromenade.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/dusseldorf/img/Rheinuferpromenade.jpg"
+    }, {
+        "title": {
+            "de": "Ein Tag in Köln",
+            "en": "A Day in Cologne",
+            "ru": "День в Кёльне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/words/Maraike.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/cologne/img/Maraike.jpg"
+      }
+        "title":{
+            "de": "Leben in Bonn",
+            "en": "Life in Bonn",
+            "ru": "Жизнь в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/LebenBonn.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/LebenBonn.jpg"
+    }, {
+        "title": {
+            "de": "Straßen von Bonn",
+            "en": "Streets of Bonn",
+            "ru": "Улицы Бонна"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnStreets.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnStreets.jpg"
+    }, {
+        "title": {
+            "de": "Berühmte Karnevale",
+            "en": "Famous carnavals",
+            "ru": "Знаменитые карнавалы"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/BonnCarnavals.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/BonnCarnavals.jpg"
+    }, {
+        "title": {
+            "de": "Lebensmitteleinkauf in Bonn",
+            "en": "Grocery Shopping in Bonn",
+            "ru": "Продуктовые магазины в Бонне"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg"
+    }, {
+        "title": {
+            "de": "Das gestohlene Gold",
+            "en": "The Stolen Gold",
+            "ru": "Украденное золото"
+        },
+        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/words/Gold.json",
+        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/bonn/img/Gold.jpg"
+    }
+]

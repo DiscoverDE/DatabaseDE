@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Introduction I",
+            "de": "Vorstellung I",
+            "ru": "Знакомство I"
+        },
+        "file": "introduction.json",
+        "level": "A1",
+        "icon": "handshake-o",
+        "iconFamily": "FontAwesome"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Introduction II",
+            "de": "Vorstellung II",
+            "ru": "Знакомство II"
+        },
+        "file": "hallo.json",
+        "level": "A1",
+        "icon": "hand",
+        "iconFamily": "Entypo"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Family",
+            "de": "Familie",
+            "ru": "Семья"
+        },
+        "file": "family.json",
+        "level": "A1",
+        "icon": "people",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Colors",
+            "de": "Farben",
+            "ru": "Цвета"
+        },
+        "file": "farben.json",
+        "level": "A1",
+        "icon": "color-palette-outline",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Correct response",
+            "de": "Richtige Antwort",
+            "ru": "Правильный ответ"
+        },
+        "file": "fragenbogen.json",
+        "level": "A1",
+        "icon": "question-circle-o",
+        "iconFamily": "FontAwesome"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks I",
+            "de": "Füllen Sie die Leerstellen aus I",
+            "ru": "Заполните пробелы I"
+        },
+        "file": "blanksA1.json",
+        "level": "A1",
+        "icon": "puzzle-star",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Fill in the blanks II",
+            "de": "Füllen Sie die Leerstellen aus II",
+            "ru": "Заполните пробелы II"
+        },
+        "file": "blanksA11.json",
+        "level": "A1",
+        "icon": "puzzle-star-outline",
+        "iconFamily": "MaterialCommunityIcons"
+    }, {
+        "name": "11 - elf",
+        "description": {
+            "en": "Numbers",
+            "de": "Zahlen",
+            "ru": "Цифры"
+        },
+        "file": "zahlen.json",
+        "level": "A1",
+        "icon": "number",
+        "iconFamily": "Octicons"
+    }, {
+        "name": "Wortschatz",
+        "description": {
+            "en": "Sentences",
+            "de": "Sätze",
+            "ru": "Предложения"
+        },
+        "file": "sentences.json",
+        "level": "A1",
+        "icon": "construct-outline",
+        "iconFamily": "Ionicons"
+    }, {
+        "name": "der / die / das",
+        "description": {
+            "en": "Articles",
+            "de": "Artikel",
+            "ru": "Aртикли"
+        },
+        "file": "article.json",
+        "level": "A1",
+        "icon": "robot-confused",
+        "iconFamily": "MaterialCommunityIcons"
+    }
+]

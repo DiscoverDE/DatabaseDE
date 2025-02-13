@@ -1,0 +1,243 @@
+[
+    {
+        "name": {
+            "de": "Lebensfreude in Bonn",
+            "en": "Joy of Life in Bonn",
+            "ru": "Радость жизни в Бонне"
+        },
+        "description": {
+            "de": "Ein Tag im Leben von Anna",
+            "en": "A Day in Anna's Life",
+            "ru": "День в жизни Анны"
+        },
+        "level": "A2",
+        "image": "Anna.jpg",
+        "file": "Anna.txt",
+        "words": "Anna.json",
+        "yesNo": "Anna.json"
+    }, {
+        "name": {
+            "de": "Süße Geheimnisse",
+            "en": "Sweet Secrets",
+            "ru": "Сладкие тайны"
+        },
+        "description": {
+            "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
+            "en": "Maria Schmidt's Whimsical Candy Map",
+            "ru": "Волшебная карта конфет от Марии Шмидт"
+        },
+        "level": "A2",
+        "image": "Geheimnisse.jpg",
+        "file": "Geheimnisse.txt",
+        "words": "Geheimnisse.json",
+        "multi": "Geheimnisse.json"
+    }, {
+        "name": {
+            "de": "Gesundheitsberatung",
+            "en": "Health Consultation",
+            "ru": "Опыт консультации по здоровью"
+        },
+        "description": {
+            "de": "Besuch beim Arzt",
+            "en": "A Visit to the Doctor",
+            "ru": "Визит к врачу"
+        },
+        "level": "A2",
+        "image": "Krankheit.jpg",
+        "file": "Krankheit.txt",
+        "words": "Krankheit.json",
+        "yesNo": "Krankheit.json"
+    }, {
+        "name": {
+            "de": "Schönes Wochenende",
+            "en": "Warm Weekend",
+            "ru": "Теплый выходной"
+        },
+        "description": {
+            "de": "Bonn Rückzug",
+            "en": "Bonn Retreat",
+            "ru": "Отдых в Бонне"
+        },
+        "level": "A2",
+        "image": "Weekend.jpg",
+        "file": "Weekend.txt",
+        "words": "Weekend.json",
+        "multi": "Weekend.json"
+    }, {
+        "name": {
+            "de": "Wohnungssuche",
+            "en": "Flat search",
+            "ru": "Поиск жилья"
+        },
+        "description": {
+            "de": "Annas neue Wohnung",
+            "en": "Anna's New Home",
+            "ru": "Новая квартира Анны"
+        },
+        "level": "A2",
+        "image": "Wohnung.jpg",
+        "file": "Wohnung.txt",
+        "words": "Wohnung.json",
+        "multi": "Wohnung.json"
+    }, {
+        "name": {
+            "de": "Der rosa Zwischenfall",
+            "en": "The Pink Incident",
+            "ru": "Розовый инцидент"
+        },
+        "description": {
+            "de": "Die verlorene Geldbörse",
+            "en": "The Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "level": "A2",
+        "image": "PinkIncident.jpg",
+        "file": "PinkIncident.txt",
+        "words": "PinkIncident.json",
+        "yesNo": "PinkIncident.json"
+    }, {
+        "name": {
+            "de": "Karnevalsfreude",
+            "en": "Carnival joy",
+            "ru": "Радость карнавала"
+        },
+        "description": {
+            "de": "Bonner Farben",
+            "en": "Colors of Bonn",
+            "ru": "Краски Бонна"
+        },
+        "level": "B1",
+        "image": "Karnevalsfreude.jpg",
+        "file": "Karnevalsfreude.txt",
+        "words": "Karnevalsfreude.json",
+        "yesNo": "Karnevalsfreude.json"
+    }, {
+        "name": {
+            "de": "Warum Bonn?",
+            "en": "Why Bonn?",
+            "ru": "Почему Бонн?"
+        },
+        "description": {
+            "de": "Bonner Charme",
+            "en": "Charm in Bonn",
+            "ru": "Очарование Бонна"
+        },
+        "level": "A2",
+        "image": "Bonn.jpg",
+        "file": "Warum_Bonn.txt",
+        "words": "Warum_Bonn.json",
+        "yesNo": "Warum_Bonn.json"
+    }, {
+        "name": {
+            "de": "Diamanten und Täuschung",
+            "en": "Diamonds and deception",
+            "ru": "Бриллианты и обман"
+        },
+        "description": {
+            "de": "Der letzte Fall von Frank",
+            "en": "The last case of Frank",
+            "ru": "Последнее дело Фрэнка"
+        },
+        "level": "B1",
+        "image": "Frank.jpg",
+        "file": "Frank.txt",
+        "words": "Frank.json",
+        "yesNo": "Frank.json"
+    }, {
+        "name": {
+            "de": "Harmonien der Vergangenheit",
+            "en": "Harmonies of the Past",
+            "ru": "Гармонии прошлого"
+        },
+        "description": {
+            "de": "Eine Rock-Symphonie im Beethoven-Haus",
+            "en": "A Rock Symphony in Beethoven's House",
+            "ru": "Рок-симфония в Доме Бетховена"
+        },
+        "level": "B1",
+        "image": "Rock_Symphony.jpg",
+        "file": "Rock_Symphony.txt",
+        "words": "Rock_Symphony.json",
+        "multi": "Rock_Symphony.json"
+    }, {
+        "name": {
+            "de": "Wandern durch die Geschichte",
+            "en": "Hiking through History",
+            "ru": "Путешествие в прошлое"
+        },
+        "description": {
+            "de": "Maximilians Wochenendabenteuer",
+            "en": "Maximilian's Weekend Adventure",
+            "ru": "Выходные Максимилиана"
+        },
+        "level": "B2",
+        "image": "Wandern.jpg",
+        "file": "Wandern.txt",
+        "words": "Wandern.json",
+        "yesNo": "Wandern.json"
+    }, {
+        "name": {
+            "de": "Karnevalsfeier",
+            "en": "Carnival Celebration",
+            "ru": "Празднование карнавала"
+        },
+        "description": {
+            "de": "Mein erster Rosenmontag",
+            "en": "My first Rosenmontag",
+            "ru": "Мой первый Розенмонтаг"
+        },
+        "level": "B2",
+        "image": "RosenmontagBonn.jpg",
+        "file": "RosenmontagBonn.txt",
+        "words": "RosenmontagBonn.json",
+        "yesNo": "RosenmontagBonn.json"
+    }, {
+        "name": {
+            "de": "Zugverspätungen",
+            "en": "Train Delays",
+            "ru": "Задержки поездов"
+        },
+        "description": {
+            "de": "Matej Nováks Erfahrungen",
+            "en": "Matej Novák's Experience",
+            "ru": "Опыт Матея Новака"
+        },
+        "level": "B2",
+        "image": "Zugverspetung.jpg",
+        "file": "Zugverspetung.txt",
+        "words": "Zugverspetung.json",
+        "multi": "Zugverspetung.json"
+    }, {
+        "name": {
+            "de": "COVID mit Beethoven",
+            "en": "COVID with Beethoven",
+            "ru": "КОВИД с Бетховеном"
+        },
+        "description": {
+            "de": "Beethovens Museum im Zeitalter des COVID-19",
+            "en": "Beethoven's Museum in the Age of COVID-19",
+            "ru": "Музей Бетховена в эпоху COVID-19"
+        },
+        "level": "B2",
+        "image": "COVID_Beethoven.jpg",
+        "file": "COVID_Beethoven.txt",
+        "words": "COVID_Beethoven.json",
+        "multi": "COVID_Beethoven.json"
+    }, {
+        "name": {
+            "de": "Das Arithmeum ",
+            "en": "The Arithmeum",
+            "ru": "Аритмеум"
+        },
+        "description": {
+            "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
+            "en": "A Journey through the History of Calculating Machines",
+            "ru": "Путешествие по истории вычислительных машин"
+        },
+        "level": "B2",
+        "image": "Arithmeum.jpg",
+        "file": "Arithmeum.txt",
+        "words": "Arithmeum.json",
+        "multi": "Arithmeum.json"
+    }
+]

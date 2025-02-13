@@ -1,0 +1,243 @@
+[
+    {
+        "name": {
+            "de": "Stolpersteine",
+            "en": "Stumbling blocks",
+            "ru": "Камни преткновения"
+        },
+        "description": {
+            "de": "Enthüllung von Erinnerungen auf Straßen",
+            "en": "Unveiling Memories on Streets",
+            "ru": "Воспоминания на улицах"
+        },
+        "level": "A2",
+        "image": "Stolpersteine.jpg",
+        "file": "Stolpersteine.txt",
+        "words": "Stolpersteine.json",
+        "multi": "Stolpersteine.json"
+    }, {
+        "name": {
+            "de": "Fremde im Dom",
+            "en": "Strangers in the cathedral",
+            "ru": "Незнакомцы в соборе"
+        },
+        "description": {
+            "de": "Zufällige Freundschaft",
+            "en": "Accidental Friendship",
+            "ru": "Случайная дружба"
+        },
+        "level": "A2",
+        "image": "Fremde_im_Dom.jpg",
+        "file": "Fremde_im_Dom.txt",
+        "words": "Fremde_im_Dom.json",
+        "multi": "Fremde_im_Dom.json"
+    }, {
+        "name": {
+            "de": "Verlorene Brieftasche",
+            "en": "Lost Wallet",
+            "ru": "Потерянный кошелек"
+        },
+        "description": {
+            "de": "Unerwartete Anleihen",
+            "en": "Unexpected Bonds",
+            "ru": "Неожиданные узы"
+        },
+        "level": "A2",
+        "image": "Lost_Wallet.jpg",
+        "file": "Lost_Wallet.txt",
+        "words": "Lost_Wallet.json",
+        "yesNo": "Lost_Wallet.json"
+    }, {
+        "name": {
+            "de": "Köln im Dialog",
+            "en": "Cologne in Dialogue",
+            "ru": "Кёльн в диалоге"
+        },
+        "description": {
+            "en": "People and Their Favorite Places",
+            "de": "Menschen und ihre Lieblingsplätze",
+            "ru": "Люди и их любимые места"
+        },
+        "level": "A2",
+        "image": "Dialog.jpg",
+        "file": "Dialog.txt",
+        "words": "Dialog.json",
+        "multi": "Dialog.json"
+    }, {
+        "name": {
+            "de": "Wilde Entdeckungen",
+            "en": "Wild Explorations",
+            "ru": "Дикие исследования"
+        },
+        "description": {
+            "en": "Adventure in Animal Kingdom",
+            "de": "Abenteuer im Tierreich",
+            "ru": "Приключение в мире животных"
+        },
+        "level": "A2",
+        "image": "Zoopark.jpg",
+        "file": "Zoo.txt",
+        "words": "Zoo.json",
+        "yesNo": "Zoo.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden I",
+            "en": "Exploring Cologne I",
+            "ru": "Знакомство с Кельном I"
+        },
+        "description": {
+            "de": "Stadtführer",
+            "en": "City Guide",
+            "ru": "Путеводитель"
+        },
+        "level": "B1",
+        "image": "Cologne_Erkunden_I.jpg",
+        "file": "Cologne_Erkunden_I.txt",
+        "words": "Cologne_Erkunden_I.json",
+        "yesNo": "Cologne_Erkunden_I.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden II",
+            "en": "Exploring Cologne II",
+            "ru": "Знакомство с Кельном II"
+        },
+        "description": {
+            "de": "Stadtführer",
+            "en": "City Guide",
+            "ru": "Путеводитель"
+        },
+        "level": "B1",
+        "image": "Cologne_Erkunden_II.jpg",
+        "file": "Cologne_Erkunden_II.txt",
+        "words": "Cologne_Erkunden_II.json",
+        "yesNo": "Cologne_Erkunden_II.json"
+    }, {
+        "name": {
+            "de": "Köln erkunden III",
+            "en": "Exploring Cologne III",
+            "ru": "Знакомство с Кельном III"
+        },
+        "description": {
+            "de": "Stadtführer",
+            "en": "City Guide",
+            "ru": "Путеводитель"
+        },
+        "level": "B1",
+        "image": "Cologne_Erkunden_III.jpg",
+        "file": "Cologne_Erkunden_III.txt",
+        "words": "Cologne_Erkunden_III.json",
+        "yesNo": "Cologne_Erkunden_III.json"
+    }, {
+        "name": {
+            "en": "Panda Surprise",
+            "de": "Panda-Überraschung",
+            "ru": "Пандовый сюрприз"
+        },
+        "description":  {
+            "en": "Unexpected zoo encounter",
+            "de": "Unerwartete Zoo-Begegnung",
+            "ru": "Неожиданная встреча в зоопарке"
+        },
+        "level": "B1",
+        "image": "Magic.jpg",
+        "file": "Magic.txt",
+        "words": "Magic.json",
+        "yesNo": "Magic.json"
+    }, {
+        "name": {
+            "de": "Kölner Dom",
+            "en": "Cologne cathedral",
+            "ru": "Кельнский собор"
+        },
+        "description": {
+            "en": "Gothic architectural marvel",
+            "de": "Gotisches Architekturwunder",
+            "ru": "Готическое архитектурное чудо"
+        },
+        "level": "B1",
+        "image": "Dom.jpg",
+        "file": "Dom.txt",
+        "words": "Dom.json",
+        "multi": "Dom.json"
+    }, {
+        "name": {
+            "de": "Köln gegen Düsseldorf",
+            "en": "Cologne vs. Düsseldorf",
+            "ru": "Кёльн против Дюссельдорфа"
+        },
+        "description": {
+            "de": "Zwei deutsche Städte im Vergleich",
+            "en": "A Tale of Two German Cities",
+            "ru": "История двух немецких городов"
+        },
+        "level": "B2",
+        "image": "KoelnDus.jpg",
+        "file": "KoelnDus.txt",
+        "words": "KoelnDus.json",
+        "multi": "KoelnDus.json"
+    }, {
+        "name": {
+            "de": "Kölsch",
+            "en": "Kölsch",
+            "ru": "Kölsch"
+        },
+        "description": {
+            "de": "Kölner Bierboom",
+            "en": "Cologne beer boom",
+            "ru": "Кельнский пивной бум"
+        },
+        "level": "B2",
+        "image": "Bierboom.jpg",
+        "file": "Bierboom.txt",
+        "words": "Bierboom.json",
+        "yesNo": "Bierboom.json"
+    }, {
+        "name": {
+            "de": "FC Köln",
+            "en": "FC Köln",
+            "ru": "ФК Кёльн"
+        },
+        "description": {
+            "de": "Von den Anfängen bis zur Gegenwart",
+            "en": "From Its Beginnings to the Present",
+            "ru": "От первых шагов до наших дней"
+        },
+        "level": "B2",
+        "image": "FC_Koeln.jpg",
+        "file": "FC_Koeln.txt",
+        "words": "FC_Koeln.json",
+        "multi": "FC_Koeln.json"
+    }, {
+        "name": {
+            "de": "Weihnachtsbräuche",
+            "en": "Christmas Traditions",
+            "ru": "Рождественские традиции"
+        },
+        "description": {
+            "en": "Customs and Celebrations",
+            "de": "Traditionen und Festlichkeiten",
+            "ru": "Обычаи and празднования"
+        },
+        "level": "B2",
+        "image": "Christmas.jpg",
+        "file": "Christmas.txt",
+        "words": "Christmas.json",
+        "multi": "Christmas.json"
+    }, {
+        "name": {
+            "en": "Spirit Guardians",
+            "de": "Geisterwächter",
+            "ru": "Стражи духов"
+        },
+        "description": {
+            "de": "Nächtliche Begegnungen",
+            "en": "Night Encounters",
+            "ru": "Ночные встречи"
+        },
+        "level": "B2",
+        "image": "Athletes.jpg",
+        "file": "Athletes.txt",
+        "words": "Athletes.json",
+        "multi": "Athletes.json"
+    }
+]
