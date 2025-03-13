@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Es regnet stark, _______ gehen wir spazieren.",
+        "answers": [
+            {
+                "text": "aber",
+                "correct": false
+            }, {
+                "text": "wenn",
+                "correct": false
+            }, {
+                "text": "trotzdem",
+                "correct": true
+            }, {
+                "text": "weil",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich habe kein Geld, _______ kann ich nichts kaufen.",
+        "answers": [
+            {
+                "text": "deshalb",
+                "correct": true
+            }, {
+                "text": "denn",
+                "correct": false
+            }, {
+                "text": "obwohl",
+                "correct": false
+            }, {
+                "text": "damit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er ist krank, _______ bleibt er zu Hause.",
+        "answers": [
+            {
+                "text": "aber",
+                "correct": false
+            }, {
+                "text": "deshalb",
+                "correct": true
+            }, {
+                "text": "sobald",
+                "correct": false
+            }, {
+                "text": "ob",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich gehe ins Kino, _______ treffe ich meine Freunde.",
+        "answers": [
+            {
+                "text": "obwohl",
+                "correct": false
+            }, {
+                "text": "da",
+                "correct": false
+            }, {
+                "text": "weil",
+                "correct": false
+            }, {
+                "text": "danach",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Sie ist müde, _______ arbeitet sie weiter.",
+        "answers": [
+            {
+                "text": "damit",
+                "correct": false
+            }, {
+                "text": "dass",
+                "correct": false
+            }, {
+                "text": "dennoch",
+                "correct": true
+            }, {
+                "text": "während",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Er hat kein Auto, _______ fährt er mit dem Bus.",
+        "answers": [
+            {
+                "text": "deshalb",
+                "correct": true
+            }, {
+                "text": "wenn",
+                "correct": false
+            }, {
+                "text": "ob",
+                "correct": false
+            }, {
+                "text": "da",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich hatte keine Zeit, _______ konnte ich nicht kommen.",
+        "answers": [
+            {
+                "text": "obwohl",
+                "correct": false
+            }, {
+                "text": "weil",
+                "correct": false
+            }, {
+                "text": "denn",
+                "correct": false
+            }, {
+                "text": "deshalb",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Es war sehr kalt, _______ haben wir das Fenster geschlossen.",
+        "answers": [
+            {
+                "text": "deshalb",
+                "correct": true
+            }, {
+                "text": "doch",
+                "correct": false
+            }, {
+                "text": "während",
+                "correct": false
+            }, {
+                "text": "falls",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Ich muss lernen, _______ kann ich nicht mitkommen.",
+        "answers": [
+            {
+                "text": "deshalb",
+                "correct": true
+            }, {
+                "text": "wenn",
+                "correct": false
+            }, {
+                "text": "sonst",
+                "correct": false
+            }, {
+                "text": "damit",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Zuerst essen wir, _______ sehen wir einen Film.",
+        "answers": [
+            {
+                "text": "während",
+                "correct": false
+            }, {
+                "text": "dann",
+                "correct": true
+            }, {
+                "text": "doch",
+                "correct": false
+            }, {
+                "text": "aber",
+                "correct": false
+            }
+        ]
+    }
+]
