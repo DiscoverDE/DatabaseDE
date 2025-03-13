@@ -54,5 +54,17 @@
         "level": "B1",
         "icon": "hardware",
         "iconFamily": "MaterialIcons"
+    },
+    {
+        "name": "dem - des",
+        "description": {
+            "en": "Genitive",
+            "de": "Genitiv",
+            "ru": "Родительный падеж"
+        },
+        "file": "genitiv.json",
+        "level": "B1",
+        "icon": "bulb1",
+        "iconFamily": "AntDesign"
     }
 ]

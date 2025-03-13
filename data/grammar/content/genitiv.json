@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Das Auto _______ ist blau.",
+        "answers": [
+            {
+                "text": "mein Vater",
+                "correct": false
+            }, {
+                "text": "meiner Vater",
+                "correct": false
+            }, {
+                "text": "meines Vaters",
+                "correct": true
+            }, {
+                "text": "meine Vaters",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Hut _______ liegt auf dem Tisch.",
+        "answers": [
+            {
+                "text": "der Mann",
+                "correct": false
+            }, {
+                "text": "des Mannes",
+                "correct": true
+            }, {
+                "text": "dem Mannes",
+                "correct": false
+            }, {
+                "text": "den Mann",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Farbe _______ gefällt mir.",
+        "answers": [
+            {
+                "text": "die Blumen",
+                "correct": false
+            }, {
+                "text": "den Blumen",
+                "correct": false
+            }, {
+                "text": "des Blumen",
+                "correct": false
+            }, {
+                "text": "der Blumen",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Das Haus _______ ist groß.",
+        "answers": [
+            {
+                "text": "der Nachbarn",
+                "correct": true
+            }, {
+                "text": "die Nachbarn",
+                "correct": false
+            }, {
+                "text": "des Nachbarn",
+                "correct": false
+            }, {
+                "text": "dem Nachbarn",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Augen _______ sind blau.",
+        "answers": [
+            {
+                "text": "des Kindes",
+                "correct": true
+            }, {
+                "text": "der Kind",
+                "correct": false
+            }, {
+                "text": "dem Kind",
+                "correct": false
+            }, {
+                "text": "den Kindes",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Name _______ ist interessant.",
+        "answers": [
+            {
+                "text": "der Buch",
+                "correct": false
+            }, {
+                "text": "dem Buch",
+                "correct": false
+            }, {
+                "text": "des Buches",
+                "correct": true
+            }, {
+                "text": "den Buches",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Wohnung _______ ist in der Stadt.",
+        "answers": [
+            {
+                "text": "die Lehrerin",
+                "correct": false
+            }, {
+                "text": "der Lehrerin",
+                "correct": true
+            }, {
+                "text": "dem Lehrerin",
+                "correct": false
+            }, {
+                "text": "des Lehrerin",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Der Klang _______ ist wunderschön.",
+        "answers": [
+            {
+                "text": "der Musik",
+                "correct": true
+            }, {
+                "text": "die Musik",
+                "correct": false
+            }, {
+                "text": "des Musik",
+                "correct": false
+            }, {
+                "text": "dem Musik",
+                "correct": false
+            }
+        ]
+    }, {
+        "name": "Die Adresse _______ steht auf der Karte.",
+        "answers": [
+            {
+                "text": "der Restaurant",
+                "correct": false
+            }, {
+                "text": "dem Restaurant",
+                "correct": false
+            }, {
+                "text": "den Restaurants",
+                "correct": false
+            }, {
+                "text": "des Restaurants",
+                "correct": true
+            }
+        ]
+    }, {
+        "name": "Die Meinung _______ ist wichtig.",
+        "answers": [
+            {
+                "text": "der Schüler",
+                "correct": true
+            }, {
+                "text": "die Schüler",
+                "correct": false
+            }, {
+                "text": "des Schüler",
+                "correct": false
+            }, {
+                "text": "den Schüler",
+                "correct": false
+            }
+        ]
+    }
+]

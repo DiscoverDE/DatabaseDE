@@ -1,71 +1,34 @@
-B1
-Future in the present tense - Zukunft im Präsens
-Learn different indications of time for the future - Zeitangaben - Zukunft
-Learn how to use the German modal particles - Modalpartikel
-Causal conjunctional adverbs - Kausale Konjunktionaladverbien
-Causal adverbs - Kausaladverbien
-Article word "Welch-" - Artikelwort "Welch-"
-Article word "Irgendein-" - Artikelwort "Irgendein-"
-As if - als ob
-The Verb "Brauchen" And Its Correct Usage
-conjunctions - Konjunktionen
-The German Word "nämlich"
-Pronoun - Pronomen
-Subclauses With "dass"
-Adjective ending -bar - Adjektivendung -bar
-Final indications - Finalangaben
-Learn the difference between "von" and "aus"
-The verb lassen" and its correct usage in the German language
-Impersonal expressions - Unpersönliche Ausdrücke
-Classes of irregular verbs - Klassen der unregelmäßigen Verben
-Genitive - Genitiv
-Genitive possessive articles - Genitiv Possessivartikel
-Demonstrative pronoun in the genitive - Demonstrativpronomen Genitiv
-"indem" and sodass"
-adjective declension - Adjektivdeklination
-Concessional sentences - Konzessivsätze
-Modal verbs and their different meanings
-Directional adverbs - Direktionaladverbien
-German Perfect tense - Perfekt
-Modals - Modalangaben
-Indirect questions - Indirekte Fragen
-conditional clauses - Konditionalsätze
-Infinitive clauses - Infinitivsätze
-Compounds - Komposita
-ast tense - Präteritum
-Past tense - Präteritum
-The German word "werden" as an indication of change - Veränderung
-weil - da - denn
-Unreal wishes - Konjunktiv II - irreale Wünsche
-Wishful sentences - Konjunktiv II - Wunschsätze
-Modal verbs - Konjunktiv II - Modalverben
-The word "falls"
-Verbs with infinitive - Verben mit Infinitiv
-Prefix -un - Präfix -un
-Prepositional adverbs - Präpositionaladverbien
-Verbs with a prepositional object - Verben mit Präpositionalobjekt
-relative pronouns - Relativpronomen
-Temporal subordinate clauses - Temporale Nebensätze
-Process passive - Vorgangspassiv
-Passive in the subordinate clause - Passiv im Nebensatz
-Passive without a subject - Passiv ohne Subjekt
-Passive in the perfect tense - Passiv im Perfekt
-Passive in past tense - Passiv im Präteritum
-Passive in the past perfect - Passiv im Plusquamperfekt
-Adjectives as nouns - Adjektive als Nomen
-Adjective combination - Adjektiv-Kombination
-Multipart conjunctions - Mehrteilige Konjunktionen
-Modal adverbs - Modaladverbien
-Participle II as a noun - Partizip II als Substantiv
-Learn German Idioms
-Learn about the German educational system
-Learn about German Celebrations
-Learn about German Culture (Food, Places, Virtues)
-Tips on how to learn a language more efficiently
-German Tongue Twisters
-Question Marathon
-German Mnemonics
-Cognates – identical or very similar words in English and German
-Dictations
-Preparation for the speaking part of the official German B1 exam
-Final exam
+Demonstrativpronomen - demonstrative pronouns
+Futur I - future I
+Genitiv - genitive
+indirekte Fragen - indirect quesitions
+Komparativ - comparative
+Adjektivdeklination - adjective declination
+Konditionalsätze - conditional clauses
+Konjunktiv II - subjunctive
+das Verb "lassen" - the verb "lassen"
+Modalverben im Präteritum - modal verbs in the preterit
+n-Deklination - n-declination
+Possessivartikel - possessive articles
+Präpositionaladverbien - prepositional adverbs
+Präteritum - preterit
+Pronomen - pronouns
+reflexive Verben - reflexive verbs
+Relativpronomen - relative pronouns
+Satzstellung mit Akkusativ und Dativ - sentence structure with accusative and dative
+Subjunktionen - subjunctions
+Verben mit Präpositionalobjekt - verbs with prepositional objects
+Vorgangspassiv - process passive
+Wechselpräpositionen - two-way prepositions
+Wortbildung - word formation
+Zeitadverbien - temporal adverbs
+Learn Interesting Facts About The German Culture
+Preparation For The Writing Part Of The A2 German Language Exam
+Preparation For The Speaking Part Of The A2 German Language Exam
+Deutsche Redewendungen - German Idioms
+What are false friends in languages?
+Vocabulary: travelling & keyboard (German names of keyboard keys and symbols)
+Understanding the difference between "von" and "aus"
+Understanding the difference between "kennen" and "wissen"
+Understanding the difference between "hier", "da" and "dort"
+Understanding the difference between “mögen“, “lieben“, “gern haben“, “lieb haben“ and “verliebt sein“
