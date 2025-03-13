@@ -11,8 +11,8 @@
             "en": "City for beginners",
             "ru": "Город для новичков"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.mp4",
         "amountOfStories": 15 ,
         "active": true,
         "hasVideo": true
@@ -28,8 +28,8 @@
             "en": "Cathedral city",
             "ru": "Город собора"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
         "hasVideo": true
@@ -45,8 +45,8 @@
             "en": "The birthplace of Beethoven",
             "ru": "Родина Бетховена"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
         "hasVideo": true
@@ -62,8 +62,8 @@
             "en": "Bustling fashion and trade fairs",
             "ru": "Оживленные ярмарки моды и торговли"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dus1.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorfLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/dus1.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/dusseldorfLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
         "hasVideo": true
@@ -79,8 +79,8 @@
             "en": "The confluence of the Rhine and Moselle",
             "ru": "Слияние рек Рейн и Мозель"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
         "hasVideo": true
@@ -96,8 +96,8 @@
             "en": "A wine region",
             "ru": "Винодельческий регион"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/moselLISTEN.jpg",
-        "video": "https://sideprojects-777.github.io/DatabaseDE/locations/moselLISTEN.mp4",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.jpg",
+        "video": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.mp4",
         "amountOfStories": 15,
         "active": true,
         "hasVideo": true

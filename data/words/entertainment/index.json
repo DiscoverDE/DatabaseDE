@@ -3,281 +3,521 @@
         "de": "das Kino",
         "en": "cinema",
         "ru": "кинотеатр",
+        "uk": "кінотеатр",
+        "tr": "sinema",
+        "az": "kino",
         "descriptionEN": "A theater where films are shown for public entertainment.",
         "descriptionRU": "Театр, где для общественного развлечения показываются фильмы.",
-        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden."
+        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden.",
+        "descriptionUK": "Театр, де для громадського розваги показуються фільми.",
+        "descriptionTR": "Halk eğlencesi için filmlerin gösterildiği bir tiyatro.",
+        "descriptionAZ": "İctimai əyləncə üçün filmlərin nümayiş etdirildiyi teatr."
     }, {
         "de": "das Theater",
         "en": "theater",
         "ru": "театр",
+        "uk": "театр",
+        "tr": "tiyatro",
+        "az": "teatr",
         "descriptionEN": "A building or outdoor area in which plays and other dramatic performances are given.",
         "descriptionRU": "Здание или открытая площадка, на которой проводятся спектакли и другие драматические представления.",
-        "descriptionDE": "Ein Gebäude oder ein Freigelände, auf dem Theaterstücke und andere dramatische Aufführungen stattfinden."
+        "descriptionDE": "Ein Gebäude oder ein Freigelände, auf dem Theaterstücke und andere dramatische Aufführungen stattfinden.",
+        "descriptionUK": "Будівля або відкрита площадка, на якій проводяться вистави та інші драматичні вистави.",
+        "descriptionTR": "Oyunların ve diğer dramatik performansların sergilendiği bir bina veya açık alan.",
+        "descriptionAZ": "Teatr əsərlərinin və digər dramatik çıxışların təqdim olunduğu bina və ya açıq sahə."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "uk": "музика",
+        "tr": "müzik",
+        "az": "musiqi",
         "descriptionEN": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
         "descriptionRU": "Вокальные или инструментальные звуки (или оба) комбинируются таким образом, чтобы производить красоту формы, гармонии и выражения эмоций.",
-        "descriptionDE": "Vokale oder instrumentale Klänge (oder beides), die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen hervorbringen."
+        "descriptionDE": "Vokale oder instrumentale Klänge (oder beides), die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen hervorbringen.",
+        "descriptionUK": "Вокальні або інструментальні звуки (або обидва) поєднуються таким чином, щоб створювати красу форми, гармонії та вираження емоцій.",
+        "descriptionTR": "Ses veya enstrümantal sesler (veya her ikisi) formun güzelliğini, uyumunu ve duygu ifadesini üretecek şekilde birleştirilir.",
+        "descriptionAZ": "Vokal və ya instrumental səslər (və ya hər ikisi) forma gözəlliyi, harmoniya və emosiyaların ifadəsini yaratmaq üçün birləşdirilir."
     }, {
         "de": "die Show",
         "en": "show",
         "ru": "шоу",
+        "uk": "шоу",
+        "tr": "gösteri",
+        "az": "şou",
         "descriptionEN": "A spectacle or display, typically one held in a theater or arena.",
         "descriptionRU": "Зрелище или дисплей, обычно проводимый в театре или арене.",
-        "descriptionDE": "Ein Spektakel oder eine Vorstellung, normalerweise in einem Theater oder einer Arena abgehalten."
+        "descriptionDE": "Ein Spektakel oder eine Vorstellung, normalerweise in einem Theater oder einer Arena abgehalten.",
+        "descriptionUK": "Вистава або показ, який зазвичай проводиться в театрі чи арені.",
+        "descriptionTR": "Genellikle bir tiyatroda veya arenada düzenlenen bir gösteri veya sergi.",
+        "descriptionAZ": "Adətən teatrda və ya arenada keçirilən bir şou və ya nümayiş."
     }, {
         "de": "das Konzert",
         "en": "concert",
         "ru": "концерт",
+        "uk": "концерт",
+        "tr": "konser",
+        "az": "konsert",
         "descriptionEN": "A musical performance given in public, typically by several performers or of several separate compositions.",
         "descriptionRU": "Музыкальное выступление в публичном исполнении, обычно несколькими исполнителями или несколькими отдельными произведениями.",
-        "descriptionDE": "Eine musikalische Darbietung in der Öffentlichkeit, normalerweise von mehreren Künstlern oder mehreren separaten Kompositionen."
+        "descriptionDE": "Eine musikalische Darbietung in der Öffentlichkeit, normalerweise von mehreren Künstlern oder mehreren separaten Kompositionen.",
+        "descriptionUK": "Музичний виступ у публічному виконанні, зазвичай кількома виконавцями або кількома окремими творами.",
+        "descriptionTR": "Halka açık bir şekilde verilen, genellikle birkaç sanatçı veya birkaç ayrı beste içeren bir müzik performansı.",
+        "descriptionAZ": "İctimai şəkildə təqdim olunan, adətən bir neçə ifaçı və ya bir neçə ayrı kompozisiyadan ibarət musiqi çıxışı."
     }, {
         "de": "die Vorstellung",
         "en": "performance",
         "ru": "выступление",
+        "uk": "виступ",
+        "tr": "performans",
+        "az": "çıxış",
         "descriptionEN": "An act of presenting a play, concert, or other form of entertainment.",
         "descriptionRU": "Акт представления спектакля, концерта или другой формы развлечений.",
-        "descriptionDE": "Eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird."
+        "descriptionDE": "Eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird.",
+        "descriptionUK": "Акт представлення вистави, концерту або іншої форми розваг.",
+        "descriptionTR": "Bir oyun, konser veya başka bir eğlence biçimini sunma eylemi.",
+        "descriptionAZ": "Bir tamaşa, konsert və ya başqa bir əyləncə formasını təqdim etmək aktı."
     }, {
         "de": "das Spiel",
         "en": "game",
         "ru": "игра",
+        "uk": "гра",
+        "tr": "oyun",
+        "az": "oyun",
         "descriptionEN": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
         "descriptionRU": "Форма игры или спорта, особенно соревновательная, играющаяся по правилам и решаемая с помощью умения, силы или удачи.",
-        "descriptionDE": "Eine Form des Spiels oder Sports, insbesondere ein Wettkampf, der nach Regeln gespielt wird und durch Geschicklichkeit, Stärke oder Glück entschieden wird."
+        "descriptionDE": "Eine Form des Spiels oder Sports, insbesondere ein Wettkampf, der nach Regeln gespielt wird und durch Geschicklichkeit, Stärke oder Glück entschieden wird.",
+        "descriptionUK": "Форма гри або спорту, особливо змагальна, яка грається за правилами і вирішується за допомогою вміння, сили чи удачі.",
+        "descriptionTR": "Özellikle kurallara göre oynanan ve beceri, güç veya şansla kararlaştırılan bir oyun veya spor biçimi.",
+        "descriptionAZ": "Xüsusilə qaydalara uyğun oynanılan və bacarıq, güc və ya şansla qərarlaşdırılan bir oyun və ya idman forması."
     }, {
         "de": "der Film",
         "en": "film",
         "ru": "фильм",
+        "uk": "фільм",
+        "tr": "film",
+        "az": "film",
         "descriptionEN": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television; a motion picture.",
         "descriptionRU": "История или событие, записанное камерой в виде набора движущихся изображений и показываемое в театре или по телевидению; кинофильм.",
-        "descriptionDE": "Eine Geschichte oder ein Ereignis, das von einer Kamera als eine Reihe von bewegten Bildern aufgezeichnet und in einem Theater oder im Fernsehen gezeigt wird; ein Spielfilm."
+        "descriptionDE": "Eine Geschichte oder ein Ereignis, das von einer Kamera als eine Reihe von bewegten Bildern aufgezeichnet und in einem Theater oder im Fernsehen gezeigt wird; ein Spielfilm.",
+        "descriptionUK": "Історія або подія, записана камерою у вигляді набору рухомих зображень і показується в театрі або на телебаченні; кінофільм.",
+        "descriptionTR": "Bir kamera tarafından hareketli görüntüler olarak kaydedilen ve bir tiyatroda veya televizyonda gösterilen bir hikaye veya olay; bir sinema filmi.",
+        "descriptionAZ": "Kamera tərəfindən hərəkətli şəkillər kimi qeyd edilən və teatrda və ya televiziyada göstərilən bir hekayə və ya hadisə; kinofilm."
     }, {
         "de": "die Veranstaltung",
         "en": "event",
         "ru": "событие",
+        "uk": "подія",
+        "tr": "etkinlik",
+        "az": "tədbir",
         "descriptionEN": "A planned public or social occasion.",
         "descriptionRU": "Запланированное общественное или социальное мероприятие.",
-        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung.",
+        "descriptionUK": "Запланована громадська або соціальна подія.",
+        "descriptionTR": "Planlanmış bir kamu veya sosyal etkinlik.",
+        "descriptionAZ": "Planlaşdırılmış ictimai və ya sosial tədbir."
     }, {
         "de": "die Bühne",
         "en": "stage",
         "ru": "сцена",
+        "uk": "сцена",
+        "tr": "sahne",
+        "az": "səhnə",
         "descriptionEN": "A raised floor or platform, typically in a theater, on which actors, musicians, or speakers perform.",
         "descriptionRU": "Поднятый пол или платформа, обычно в театре, на котором актеры, музыканты или ораторы выступают.",
-        "descriptionDE": "Ein erhöhter Boden oder eine Plattform, normalerweise in einem Theater, auf dem Schauspieler, Musiker oder Redner auftreten."
+        "descriptionDE": "Ein erhöhter Boden oder eine Plattform, normalerweise in einem Theater, auf dem Schauspieler, Musiker oder Redner auftreten.",
+        "descriptionUK": "Піднята підлога або платформа, зазвичай у театрі, на якій виступають актори, музиканти чи оратори.",
+        "descriptionTR": "Genellikle bir tiyatroda bulunan, oyuncuların, müzisyenlerin veya konuşmacıların performans sergilediği yükseltilmiş bir zemin veya platform.",
+        "descriptionAZ": "Adətən teatrda olan, aktyorların, musiqiçilərin və ya natiqlərin çıxış etdiyi yüksək mərtəbə və ya platforma."
     }, {
         "de": "unterhalten",
         "en": "entertain",
         "ru": "развлекать",
+        "uk": "розважати",
+        "tr": "eğlendirmek",
+        "az": "əyləndirmək",
         "descriptionEN": "To provide amusement or enjoyment.",
         "descriptionRU": "Предоставить развлечение или удовольствие.",
-        "descriptionDE": "Vergnügen oder Genuss bieten."
+        "descriptionDE": "Vergnügen oder Genuss bieten.",
+        "descriptionUK": "Надавати розвагу чи задоволення.",
+        "descriptionTR": "Eğlence veya keyif sağlamak.",
+        "descriptionAZ": "Əyləncə və ya zövq təmin etmək."
     }, {
         "de": "auftreten",
         "en": "perform",
         "ru": "выступать",
+        "uk": "виступати",
+        "tr": "performans sergilemek",
+        "az": "çıxış etmək",
         "descriptionEN": "To present (a form of entertainment) to an audience.",
         "descriptionRU": "Представить (форму развлечения) аудитории.",
-        "descriptionDE": "Eine Form der Unterhaltung dem Publikum präsentieren."
+        "descriptionDE": "Eine Form der Unterhaltung dem Publikum präsentieren.",
+        "descriptionUK": "Представити (форму розваги) аудиторії.",
+        "descriptionTR": "Bir eğlence biçimini izleyicilere sunmak.",
+        "descriptionAZ": "Bir əyləncə formasını tamaşaçılara təqdim etmək."
     }, {
         "de": "tanzen",
         "en": "dance",
         "ru": "танцевать",
+        "uk": "танцювати",
+        "tr": "dans etmek",
+        "az": "rəqs etmək",
         "descriptionEN": "To move rhythmically to music, typically following a set sequence of steps.",
         "descriptionRU": "Двигаться ритмично под музыку, обычно следуя определенной последовательности шагов.",
-        "descriptionDE": "Sich rhythmisch zur Musik bewegen, in der Regel einer festgelegten Sequenz von Schritten folgend."
+        "descriptionDE": "Sich rhythmisch zur Musik bewegen, in der Regel einer festgelegten Sequenz von Schritten folgend.",
+        "descriptionUK": "Рухатися ритмічно під музику, зазвичай слідуючи певній послідовності кроків.",
+        "descriptionTR": "Müziğe ritmik bir şekilde hareket etmek, genellikle belirli bir adım dizisini takip ederek.",
+        "descriptionAZ": "Musiqiylə ritmik şəkildə hərəkət etmək, adətən müəyyən addım ardıcıllığını izləyərək."
     }, {
         "de": "spielen",
         "en": "play",
         "ru": "играть",
+        "uk": "грати",
+        "tr": "oynamak",
+        "az": "oynamaq",
         "descriptionEN": "To engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
         "descriptionRU": "Заниматься деятельностью для удовольствия и отдыха, а не для серьезной или практической цели.",
-        "descriptionDE": "Sich mit einer Aktivität beschäftigen, um sich zu amüsieren und zu erholen, anstatt einen ernsten oder praktischen Zweck zu verfolgen."
+        "descriptionDE": "Sich mit einer Aktivität beschäftigen, um sich zu amüsieren und zu erholen, anstatt einen ernsten oder praktischen Zweck zu verfolgen.",
+        "descriptionUK": "Займатися діяльністю для задоволення та відпочинку, а не для серйозної чи практичної мети.",
+        "descriptionTR": "Ciddi veya pratik bir amaç yerine keyif ve eğlence için bir aktiviteye katılmak.",
+        "descriptionAZ": "Ciddi və ya praktik məqsəd əvəzinə zövq və əyləncə üçün fəaliyyətlə məşğul olmaq."
     }, {
         "de": "singenn",
         "en": "sing",
         "ru": "петь",
+        "uk": "співати",
+        "tr": "şarkı söylemek",
+        "az": "oxumaq",
         "descriptionEN": "To make musical sounds with the voice, typically a melody with words.",
         "descriptionRU": "Издавать музыкальные звуки голосом, обычно мелодию с словами.",
-        "descriptionDE": "Musikalische Klänge mit der Stimme machen, normalerweise eine Melodie mit Worten."
+        "descriptionDE": "Musikalische Klänge mit der Stimme machen, normalerweise eine Melodie mit Worten.",
+        "descriptionUK": "Видавати музичні звуки голосом, зазвичай мелодію зі словами.",
+        "descriptionTR": "Sesle müzikal sesler çıkarmak, genellikle sözlerle bir melodi.",
+        "descriptionAZ": "Səslə musiqili səslər çıxarmaq, adətən sözlərlə bir melodiya."
     }, {
         "de": "aufnehmen",
         "en": "record",
         "ru": "записывать",
+        "uk": "записувати",
+        "tr": "kaydetmek",
+        "az": "yazmaq",
         "descriptionEN": "To store sounds or moving pictures using electronic equipment so that they can be heard or seen later.",
         "descriptionRU": "Хранить звуки или движущиеся картинки с помощью электронного оборудования, чтобы их можно было услышать или увидеть позже.",
-        "descriptionDE": "Geräusche oder bewegte Bilder mit elektronischen Geräten aufzeichnen, damit sie später gehört oder gesehen werden können."
+        "descriptionDE": "Geräusche oder bewegte Bilder mit elektronischen Geräten aufzeichnen, damit sie später gehört oder gesehen werden können.",
+        "descriptionUK": "Зберігати звуки або рухомі зображення за допомогою електронного обладнання, щоб їх можна було почути чи побачити пізніше.",
+        "descriptionTR": "Sesleri veya hareketli resimleri elektronik ekipman kullanarak kaydetmek, böylece daha sonra duyulabilir veya görülebilir.",
+        "descriptionAZ": "Səsləri və ya hərəkətli şəkilləri elektron avadanlıq vasitəsilə qeyd etmək, beləliklə daha sonra eşidilə və ya görülə bilər."
     }, {
         "de": "ausführen",
         "en": "execute",
         "ru": "выполнять",
+        "uk": "виконувати",
+        "tr": "gerçekleştirmek",
+        "az": "icra etmək",
         "descriptionEN": "To perform or carry out a task or action.",
         "descriptionRU": "Выполнять или осуществлять задачу или действие.",
-        "descriptionDE": "Eine Aufgabe oder Aktion ausführen oder durchführen."
+        "descriptionDE": "Eine Aufgabe oder Aktion ausführen oder durchführen.",
+        "descriptionUK": "Виконувати або здійснювати завдання чи дію.",
+        "descriptionTR": "Bir görevi veya eylemi gerçekleştirmek veya yerine getirmek.",
+        "descriptionAZ": "Bir tapşırığı və ya hərəkəti yerinə yetirmək və ya həyata keçirmək."
     }, {
         "de": "inszenieren",
         "en": "stage",
         "ru": "режиссировать",
+        "uk": "режисувати",
+        "tr": "sahnelemek",
+        "az": "səhnələşdirmək",
         "descriptionEN": "To arrange or present something, especially a play or other work of art, for public performance.",
         "descriptionRU": "Организовать или представить что-то, особенно пьесу или другое произведение искусства, для публичного выступления.",
-        "descriptionDE": "Etwas arrangieren oder präsentieren, insbesondere ein Theaterstück oder ein anderes Kunstwerk, für öffentliche Aufführungen."
+        "descriptionDE": "Etwas arrangieren oder präsentieren, insbesondere ein Theaterstück oder ein anderes Kunstwerk, für öffentliche Aufführungen.",
+        "descriptionUK": "Організувати або представити щось, особливо п'єсу чи інший твір мистецтва, для публічного виступу.",
+        "descriptionTR": "Bir şeyi, özellikle bir oyun veya başka bir sanat eserini, halka açık bir performans için düzenlemek veya sunmak.",
+        "descriptionAZ": "Bir şeyi, xüsusilə bir tamaşa və ya başqa bir sənət əsərini, ictimai çıxış üçün təşkil etmək və ya təqdim etmək."
     }, {
         "de": "gewinnen",
         "en": "win",
         "ru": "побеждать",
+        "uk": "перемагати",
+        "tr": "kazanmak",
+        "az": "qazanmaq",
         "descriptionEN": "To be successful in an event or competition.",
         "descriptionRU": "Быть успешным на мероприятии или в соревновании.",
-        "descriptionDE": "In einem Ereignis oder Wettbewerb erfolgreich sein."
+        "descriptionDE": "In einem Ereignis oder Wettbewerb erfolgreich sein.",
+        "descriptionUK": "Бути успішним на заході чи змаганні.",
+        "descriptionTR": "Bir etkinlikte veya yarışmada başarılı olmak.",
+        "descriptionAZ": "Bir tədbirdə və ya yarışda uğurlu olmaq."
     }, {
         "de": "verlieren",
         "en": "lose",
         "ru": "проигрывать",
+        "uk": "програвати",
+        "tr": "kaybetmek",
+        "az": "uduzmaq",
         "descriptionEN": "To be deprived of or cease to have or retain (something).",
         "descriptionRU": "Быть лишенным или перестать иметь или сохранять (что-то).",
-        "descriptionDE": "Etwas beraubt werden oder aufhören zu haben oder zu behalten."
+        "descriptionDE": "Etwas beraubt werden oder aufhören zu haben oder zu behalten.",
+        "descriptionUK": "Бути позбавленим або перестати мати чи зберігати (щось).",
+        "descriptionTR": "Bir şeyden mahrum olmak veya bir şeye sahip olmayı veya tutmayı bırakmak.",
+        "descriptionAZ": "Bir şeydən məhrum olmaq və ya bir şeyə sahib olmağı və ya saxlamağı dayandırmaq."
     }, {
         "de": "spannend",
         "en": "exciting",
         "ru": "захватывающий",
+        "uk": "захоплюючий",
+        "tr": "heyecan verici",
+        "az": "həyəcan verici",
         "descriptionEN": "Creating or causing excitement.",
         "descriptionRU": "Создание или вызов волнения.",
-        "descriptionDE": "Erzeugt oder verursacht Aufregung."
+        "descriptionDE": "Erzeugt oder verursacht Aufregung.",
+        "descriptionUK": "Створення або виклик хвилювання.",
+        "descriptionTR": "Heyecan yaratmak veya neden olmak.",
+        "descriptionAZ": "Həyəcan yaratmaq və ya səbəb olmaq."
     }, {
         "de": "lustig",
         "en": "funny",
         "ru": "смешной",
+        "uk": "смішний",
+        "tr": "komik",
+        "az": "gülməli",
         "descriptionEN": "Causing laughter or amusement.",
         "descriptionRU": "Вызывающий смех или развлечение.",
-        "descriptionDE": "Verursacht Lachen oder Unterhaltung."
+        "descriptionDE": "Verursacht Lachen oder Unterhaltung.",
+        "descriptionUK": "Викликає сміх чи розвагу.",
+        "descriptionTR": "Kahkaha veya eğlenceye neden olmak.",
+        "descriptionAZ": "Gülüş və ya əyləncəyə səbəb olmaq."
     }, {
         "de": "unterhaltsam",
         "en": "entertaining",
         "ru": "развлекательный",
+        "uk": "розважальний",
+        "tr": "eğlenceli",
+        "az": "əyləncəli",
         "descriptionEN": "Providing amusement or enjoyment.",
         "descriptionRU": "Обеспечение развлечения или удовольствия.",
-        "descriptionDE": "Bietet Unterhaltung oder Vergnügen."
+        "descriptionDE": "Bietet Unterhaltung oder Vergnügen.",
+        "descriptionUK": "Забезпечення розваги чи задоволення.",
+        "descriptionTR": "Eğlence veya keyif sağlamak.",
+        "descriptionAZ": "Əyləncə və ya zövq təmin etmək."
     }, {
         "de": "interessant",
         "en": "interesting",
         "ru": "интересный",
+        "uk": "цікавий",
+        "tr": "ilginç",
+        "az": "maraqlı",
         "descriptionEN": "Arousing curiosity or interest; holding or catching the attention.",
         "descriptionRU": "Будить любопытство или интерес; удерживание или привлечение внимания.",
-        "descriptionDE": "Weckt Neugier oder Interesse; hält oder fängt die Aufmerksamkeit ein."
+        "descriptionDE": "Weckt Neugier oder Interesse; hält oder fängt die Aufmerksamkeit ein.",
+        "descriptionUK": "Викликає цікавість чи інтерес; утримання або привернення уваги.",
+        "descriptionTR": "Merak veya ilgi uyandırmak; dikkati çekmek veya tutmak.",
+        "descriptionAZ": "Maraq və ya diqqət oyatmaq; diqqəti cəlb etmək və ya saxlamaq."
     }, {
         "de": "spektakulär",
         "en": "spectacular",
         "ru": "зрелищный",
+        "uk": "вражаючий",
+        "tr": "muhteşem",
+        "az": "gözəl",
         "descriptionEN": "Beautiful in a dramatic and eye-catching way.",
         "descriptionRU": "Прекрасный драматическим и привлекательным образом.",
-        "descriptionDE": "Schön auf dramatische und auffällige Weise."
+        "descriptionDE": "Schön auf dramatische und auffällige Weise.",
+        "descriptionUK": "Прекрасний драматичним і привабливим способом.",
+        "descriptionTR": "Dramatik ve göz alıcı bir şekilde güzel.",
+        "descriptionAZ": "Dramatik və gözəl bir şəkildə gözəl."
     }, {
         "de": "kreativ",
         "en": "creative",
         "ru": "творческий",
+        "uk": "творчий",
+        "tr": "yaratıcı",
+        "az": "yaradıcı",
         "descriptionEN": "Relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
         "descriptionRU": "Относящийся к или включающий в себя воображение или оригинальные идеи, особенно в создании художественного произведения.",
-        "descriptionDE": "Bezogen auf oder unter Einbeziehung der Vorstellungskraft oder origineller Ideen, insbesondere bei der Produktion eines Kunstwerks."
+        "descriptionDE": "Bezogen auf oder unter Einbeziehung der Vorstellungskraft oder origineller Ideen, insbesondere bei der Produktion eines Kunstwerks.",
+        "descriptionUK": "Стосується або включає уяву чи оригінальні ідеї, особливо у створенні художнього твору.",
+        "descriptionTR": "Hayal gücü veya özgün fikirlerle ilgili veya bunları içeren, özellikle bir sanat eseri üretiminde.",
+        "descriptionAZ": "Xəyal gücü və ya orijinal fikirlərlə əlaqəli və ya bunları əhatə edən, xüsusilə bir sənət əsəri istehsalında."
     }, {
         "de": "bemerkenswert",
         "en": "remarkable",
         "ru": "замечательный",
+        "uk": "чудовий",
+        "tr": "dikkat çekici",
+        "az": "diqqətəlayiq",
         "descriptionEN": "Worthy of attention; striking.",
         "descriptionRU": "Достойный внимания; поразительный.",
-        "descriptionDE": "Beachtenswert; auffallend."
+        "descriptionDE": "Beachtenswert; auffallend.",
+        "descriptionUK": "Гідний уваги; вражаючий.",
+        "descriptionTR": "Dikkate değer; çarpıcı.",
+        "descriptionAZ": "Diqqətəlayiq; təsirli."
     }, {
         "de": "fantastisch",
         "en": "fantastic",
         "ru": "фантастический",
+        "uk": "фантастичний",
+        "tr": "fantastik",
+        "az": "fantastik",
         "descriptionEN": "Extraordinarily good or attractive.",
         "descriptionRU": "Чрезвычайно хороший или привлекательный.",
-        "descriptionDE": "Außergewöhnlich gut oder attraktiv."
+        "descriptionDE": "Außergewöhnlich gut oder attraktiv.",
+        "descriptionUK": "Надзвичайно хороший або привабливий.",
+        "descriptionTR": "Olağanüstü derecede iyi veya çekici.",
+        "descriptionAZ": "Fövqəladə dərəcədə yaxşı və ya cəlbedici."
     }, {
         "de": "originell",
         "en": "original",
         "ru": "оригинальный",
+        "uk": "оригінальний",
+        "tr": "orijinal",
+        "az": "orijinal",
         "descriptionEN": "Present or existing from the beginning; first or earliest.",
         "descriptionRU": "Присутствует или существует с самого начала; первый или самый ранний.",
-        "descriptionDE": "Vorhanden oder von Anfang an vorhanden; erstens oder frühestens."
+        "descriptionDE": "Vorhanden oder von Anfang an vorhanden; erstens oder frühestens.",
+        "descriptionUK": "Присутній або існує з самого початку; перший або найраніший.",
+        "descriptionTR": "Başlangıçtan beri var olan veya mevcut olan; ilk veya en erken.",
+        "descriptionAZ": "Başlanğıcdan bəri mövcud olan və ya mövcud olan; ilk və ya ən erkən."
     }, {
         "de": "aufregend",
         "en": "thrilling",
         "ru": "захватывающий",
+        "uk": "захоплюючий",
+        "tr": "heyecan verici",
+        "az": "həyəcan verici",
         "descriptionEN": "Causing excitement and pleasure; exhilarating.",
         "descriptionRU": "Вызывающий волнение и удовольствие; оживляющий.",
-        "descriptionDE": "Verursacht Aufregung und Vergnügen; berauschend."
+        "descriptionDE": "Verursacht Aufregung und Vergnügen; berauschend.",
+        "descriptionUK": "Викликає хвилювання і задоволення; оживляючий.",
+        "descriptionTR": "Heyecan ve zevk veren; canlandırıcı.",
+        "descriptionAZ": "Həyəcan və zövq verən; canlandırıcı."
     }, {
         "de": "hervorragend",
         "en": "excellently",
         "ru": "отлично",
+        "uk": "відмінно",
+        "tr": "mükemmel",
+        "az": "əla",
         "descriptionEN": "To a very high standard or quality.",
         "descriptionRU": "На очень высоком уровне или качестве.",
-        "descriptionDE": "Auf einem sehr hohen Standard oder Qualitätsniveau."
+        "descriptionDE": "Auf einem sehr hohen Standard oder Qualitätsniveau.",
+        "descriptionUK": "На дуже високому рівні чи якості.",
+        "descriptionTR": "Çok yüksek bir standart veya kalitede.",
+        "descriptionAZ": "Çox yüksək bir standart və ya keyfiyyətdə."
     }, {
         "de": "geschickt",
         "en": "skillfully",
         "ru": "умело",
+        "uk": "вміло",
+        "tr": "becerikli",
+        "az": "bacarıqlı",
         "descriptionEN": "With great skill.",
         "descriptionRU": "С большим мастерством.",
-        "descriptionDE": "Mit großer Geschicklichkeit."
+        "descriptionDE": "Mit großer Geschicklichkeit.",
+        "descriptionUK": "З великою майстерністю.",
+        "descriptionTR": "Büyük bir beceriyle.",
+        "descriptionAZ": "Böyük bir bacarıqla."
     }, {
         "de": "professionell",
         "en": "professionally",
         "ru": "профессионально",
+        "uk": "професійно",
+        "tr": "profesyonelce",
+        "az": "peşəkar şəkildə",
         "descriptionEN": "In a professional manner.",
         "descriptionRU": "Профессиональным образом.",
-        "descriptionDE": "Auf professionelle Weise."
+        "descriptionDE": "Auf professionelle Weise.",
+        "descriptionUK": "Професійним чином.",
+        "descriptionTR": "Profesyonel bir şekilde.",
+        "descriptionAZ": "Peşəkar bir şəkildə."
     }, {
         "de": "erfolgreich",
         "en": "successfully",
         "ru": "успешно",
+        "uk": "успішно",
+        "tr": "başarılı bir şekilde",
+        "az": "uğurla",
         "descriptionEN": "In a way that accomplishes a desired aim or result.",
         "descriptionRU": "Таким образом, достигается желаемая цель или результат.",
-        "descriptionDE": "Auf eine Weise, die ein gewünschtes Ziel oder Ergebnis erreicht."
+        "descriptionDE": "Auf eine Weise, die ein gewünschtes Ziel oder Ergebnis erreicht.",
+        "descriptionUK": "Таким чином, досягається бажана мета чи результат.",
+        "descriptionTR": "İstenen bir amacı veya sonucu başaracak şekilde.",
+        "descriptionAZ": "İstənilən məqsəd və ya nəticəyə nail olmaq üçün."
     }, {
         "de": "beeindruckend",
         "en": "impressively",
         "ru": "впечатляюще",
+        "uk": "вражаюче",
+        "tr": "etkileyici bir şekilde",
+        "az": "təsirli şəkildə",
         "descriptionEN": "In a way that impresses or leaves a strong effect on others.",
         "descriptionRU": "Таким образом, что впечатляет или оставляет сильное впечатление на других.",
-        "descriptionDE": "Auf eine Weise, die beeindruckt oder einen starken Eindruck bei anderen hinterlässt."
+        "descriptionDE": "Auf eine Weise, die beeindruckt oder einen starken Eindruck bei anderen hinterlässt.",
+        "descriptionUK": "Таким чином, що вражає або залишає сильне враження на інших.",
+        "descriptionTR": "Başkalarını etkileyen veya güçlü bir etki bırakan bir şekilde.",
+        "descriptionAZ": "Başqalarını təsir edən və ya güclü bir təsir buraxan bir şəkildə."
     }, {
         "de": "authentisch",
         "en": "authentically",
         "ru": "подлинно",
+        "uk": "справжньо",
+        "tr": "gerçekten",
+        "az": "həqiqətən",
         "descriptionEN": "In a way that is genuine or true.",
         "descriptionRU": "Таким образом, что является подлинным или истинным.",
-        "descriptionDE": "Auf eine Weise, die echt oder wahr ist."
+        "descriptionDE": "Auf eine Weise, die echt oder wahr ist.",
+        "descriptionUK": "Таким чином, що є справжнім чи істинним.",
+        "descriptionTR": "Gerçek veya doğru bir şekilde.",
+        "descriptionAZ": "Həqiqi və ya doğru bir şəkildə."
     }, {
         "de": "magisch",
         "en": "magically",
         "ru": "волшебно",
+        "uk": "чарівно",
+        "tr": "büyüleyici bir şekilde",
+        "az": "sehrli şəkildə",
         "descriptionEN": "In a way that relates to magic or seems to work by magic.",
         "descriptionRU": "Таким образом, что связано с магией или кажется работающим волшебным образом.",
-        "descriptionDE": "Auf eine Weise, die sich auf Magie bezieht oder wie durch Magie zu funktionieren scheint."
+        "descriptionDE": "Auf eine Weise, die sich auf Magie bezieht oder wie durch Magie zu funktionieren scheint.",
+        "descriptionUK": "Таким чином, що пов'язано з магією або здається працюючим чарівним чином.",
+        "descriptionTR": "Büyüyle ilgili veya büyü gibi çalışıyormuş gibi görünen bir şekilde.",
+        "descriptionAZ": "Sehrlə əlaqəli və ya sehr kimi işləyir görünən bir şəkildə."
     }, {
         "de": "dynamisch",
         "en": "dynamically",
         "ru": "динамично",
+        "uk": "динамічно",
+        "tr": "dinamik bir şekilde",
+        "az": "dinamik şəkildə",
         "descriptionEN": "In a way that is characterized by constant change, activity, or progress.",
         "descriptionRU": "Таким образом, который характеризуется постоянным изменением, активностью или прогрессом.",
-        "descriptionDE": "Auf eine Weise, die durch ständige Veränderung, Aktivität oder Fortschritt gekennzeichnet ist."
+        "descriptionDE": "Auf eine Weise, die durch ständige Veränderung, Aktivität oder Fortschritt gekennzeichnet ist.",
+        "descriptionUK": "Таким чином, що характеризується постійною зміною, активністю чи прогресом.",
+        "descriptionTR": "Sürekli değişim, aktivite veya ilerleme ile karakterize edilen bir şekilde.",
+        "descriptionAZ": "Daimi dəyişiklik, fəallıq və ya irəliləyişlə xarakterizə olunan bir şəkildə."
     }, {
         "de": "faszinierend",
         "en": "fascinatingly",
         "ru": "очаровательно",
+        "uk": "чарівно",
+        "tr": "büyüleyici bir şekilde",
+        "az": "fəsilləndirici şəkildə",
         "descriptionEN": "In a way that is extremely interesting or attractive.",
         "descriptionRU": "Таким образом, что является чрезвычайно интересным или привлекательным.",
-        "descriptionDE": "Auf eine Weise, die äußerst interessant oder attraktiv ist."
+        "descriptionDE": "Auf eine Weise, die äußerst interessant oder attraktiv ist.",
+        "descriptionUK": "Таким чином, що є надзвичайно цікавим чи привабливим.",
+        "descriptionTR": "Son derece ilginç veya çekici bir şekilde.",
+        "descriptionAZ": "Son dərəcə maraqlı və ya cəlbedici bir şəkildə."
     }, {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбно",
+        "uk": "дружелюбно",
+        "tr": "dostça",
+        "az": "dostluqla",
         "descriptionEN": "In a kind and pleasant manner.",
         "descriptionRU": "Доброжелательным и приятным образом.",
-        "descriptionDE": "Auf eine freundliche und angenehme Weise."
+        "descriptionDE": "Auf eine freundliche und angenehme Weise.",
+        "descriptionUK": "Доброзичливим і приємним чином.",
+        "descriptionTR": "Nazik ve hoş bir şekilde.",
+        "descriptionAZ": "Xoş və mehriban bir şəkildə."
     }
 ]

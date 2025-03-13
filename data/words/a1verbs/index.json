@@ -3,113 +3,209 @@
         "de": "sein",
         "en": "to be",
         "ru": "быть",
+        "uk": "бути",
+        "tr": "olmak",
+        "az": "olmaq",
         "descriptionEN": "to exist; to have the qualities of; to occur; to occupy a place; to be present",
         "descriptionRU": "существовать; обладать качествами; происходить; занимать место; быть присутствующим",
-        "descriptionDE": "existieren; die Eigenschaften haben; stattfinden; einen Platz einnehmen; anwesend sein"
+        "descriptionDE": "existieren; die Eigenschaften haben; stattfinden; einen Platz einnehmen; anwesend sein",
+        "descriptionUK": "існувати; мати якості; відбуватися; займати місце; бути присутнім",
+        "descriptionTR": "var olmak; niteliklerine sahip olmak; meydana gelmek; bir yer işgal etmek; mevcut olmak",
+        "descriptionAZ": "mövcud olmaq; keyfiyyətlərə sahib olmaq; baş vermək; yer tutmaq; mövcud olmaq"
     }, {
         "de": "haben",
         "en": "to have",
         "ru": "иметь",
+        "uk": "мати",
+        "tr": "sahip olmak",
+        "az": "sahib olmaq",
         "descriptionEN": "to possess; to own; to hold; to experience; to contain",
         "descriptionRU": "владеть; иметь; держать; испытывать; содержать",
-        "descriptionDE": "besitzen; besitzen; halten; erleben; enthalten"
+        "descriptionDE": "besitzen; besitzen; halten; erleben; enthalten",
+        "descriptionUK": "володіти; мати; тримати; переживати; містити",
+        "descriptionTR": "sahip olmak; sahip olmak; tutmak; deneyimlemek; içermek",
+        "descriptionAZ": "sahib olmaq; sahib olmaq; tutmaq; təcrübə etmək; ehtiva etmək"
     }, {
         "de": "machen",
         "en": "to do; to make",
         "ru": "делать",
+        "uk": "робити",
+        "tr": "yapmak",
+        "az": "etmək",
         "descriptionEN": "to perform; to create; to produce; to cause something to exist or happen",
         "descriptionRU": "выполнять; создавать; производить; вызывать существование или возникновение чего-либо",
-        "descriptionDE": "ausführen; erstellen; produzieren; etwas existieren lassen oder geschehen lassen"
+        "descriptionDE": "ausführen; erstellen; produzieren; etwas existieren lassen oder geschehen lassen",
+        "descriptionUK": "виконувати; створювати; виробляти; викликати існування або виникнення чогось",
+        "descriptionTR": "gerçekleştirmek; yaratmak; üretmek; bir şeyin var olmasına veya gerçekleşmesine neden olmak",
+        "descriptionAZ": "həyata keçirmək; yaratmaq; istehsal etmək; bir şeyin mövcud olmasına və ya baş verməsinə səbəb olmaq"
     }, {
         "de": "gehen",
         "en": "to go",
         "ru": "идти",
+        "uk": "йти",
+        "tr": "gitmek",
+        "az": "getmək",
         "descriptionEN": "to move; to travel; to proceed; to depart",
         "descriptionRU": "двигаться; путешествовать; продолжать; уходить",
-        "descriptionDE": "sich bewegen; reisen; fortfahren; abreisen"
+        "descriptionDE": "sich bewegen; reisen; fortfahren; abreisen",
+        "descriptionUK": "рухатися; подорожувати; продовжувати; йти",
+        "descriptionTR": "hareket etmek; seyahat etmek; devam etmek; ayrılmak",
+        "descriptionAZ": "hərəkət etmək; səyahət etmək; davam etmək; ayrılmaq"
     }, {
         "de": "kommen",
         "en": "to come",
         "ru": "приходить",
+        "uk": "приходити",
+        "tr": "gelmek",
+        "az": "gəlmək",
         "descriptionEN": "to arrive; to approach; to move towards the speaker's location; to be brought",
         "descriptionRU": "прибывать; приближаться; двигаться в сторону местоположения говорящего; быть привезенным",
-        "descriptionDE": "ankommen; sich nähern; sich zum Standort des Sprechers bewegen; gebracht werden"
+        "descriptionDE": "ankommen; sich nähern; sich zum Standort des Sprechers bewegen; gebracht werden",
+        "descriptionUK": "прибувати; наближатися; рухатися до місця розташування мовця; бути привезеним",
+        "descriptionTR": "varmak; yaklaşmak; konuşmacının konumuna doğru hareket etmek; getirilmek",
+        "descriptionAZ": "gəlmək; yaxınlaşmaq; danışanın yerinə doğru hərəkət etmək; gətirilmək"
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "uk": "бачити",
+        "tr": "görmek",
+        "az": "görmək",
         "descriptionEN": "to perceive with the eyes; to observe; to watch",
         "descriptionRU": "воспринимать глазами; наблюдать; смотреть",
-        "descriptionDE": "mit den Augen wahrnehmen; beobachten; zuschauen"
+        "descriptionDE": "mit den Augen wahrnehmen; beobachten; zuschauen",
+        "descriptionUK": "сприймати очима; спостерігати; дивитися",
+        "descriptionTR": "gözlerle algılamak; gözlemlemek; izlemek",
+        "descriptionAZ": "gözlərlə qavramaq; müşahidə etmək; izləmək"
     }, {
         "de": "geben",
         "en": "to give",
         "ru": "давать",
+        "uk": "давати",
+        "tr": "vermek",
+        "az": "vermək",
         "descriptionEN": "to transfer the possession of something to someone; to provide; to offer; to present",
         "descriptionRU": "передавать владение чего-либо кому-либо; предоставлять; предлагать; представлять",
-        "descriptionDE": "den Besitz von etwas an jemanden übertragen; bereitstellen; anbieten; präsentieren"
+        "descriptionDE": "den Besitz von etwas an jemanden übertragen; bereitstellen; anbieten; präsentieren",
+        "descriptionUK": "передавати володіння чогось комусь; надавати; пропонувати; представляти",
+        "descriptionTR": "bir şeyin sahipliğini birine devretmek; sağlamak; teklif etmek; sunmak",
+        "descriptionAZ": "bir şeyin sahibliyini birinə vermək; təmin etmək; təqdim etmək; təqdim etmək"
     }, {
         "de": "sagen",
         "en": "to say",
         "ru": "говорить",
+        "uk": "говорити",
+        "tr": "söylemek",
+        "az": "demək",
         "descriptionEN": "to speak; to utter; to express in words; to communicate verbally",
         "descriptionRU": "говорить; произносить; выражать словами; общаться словесно",
-        "descriptionDE": "sprechen; aussprechen; in Worten ausdrücken; verbal kommunizieren"
+        "descriptionDE": "sprechen; aussprechen; in Worten ausdrücken; verbal kommunizieren",
+        "descriptionUK": "говорити; вимовляти; висловлювати словами; спілкуватися словесно",
+        "descriptionTR": "konuşmak; söylemek; kelimelerle ifade etmek; sözlü iletişim kurmak",
+        "descriptionAZ": "danışmaq; söyləmək; sözlərlə ifadə etmək; şifahi ünsiyyət qurmaq"
     }, {
         "de": "mögen",
         "en": "to like; to want",
         "ru": "нравиться; хотеть",
+        "uk": "подобатися; хотіти",
+        "tr": "beğenmek; istemek",
+        "az": "xoşlamaq; istəmək",
         "descriptionEN": "to enjoy; to find pleasant; to desire; to wish for",
         "descriptionRU": "наслаждаться; находить приятным; желать; желать",
-        "descriptionDE": "genießen; angenehm finden; wünschen; sich wünschen"
+        "descriptionDE": "genießen; angenehm finden; wünschen; sich wünschen",
+        "descriptionUK": "насолоджуватися; знаходити приємним; бажати; бажати",
+        "descriptionTR": "zevk almak; hoş bulmak; arzulamak; dilemek",
+        "descriptionAZ": "zövq almaq; xoş tapmaq; arzu etmək; istəmək"
     }, {
         "de": "können",
         "en": "to be able to; can",
         "ru": "мочь; уметь",
+        "uk": "могти; вміти",
+        "tr": "yapabilmek; -ebilmek",
+        "az": "bacarmaq; bilmək",
         "descriptionEN": "to have the ability; to have the opportunity; to have the power; to know how to",
         "descriptionRU": "иметь способность; иметь возможность; иметь силу; знать как",
-        "descriptionDE": "die Fähigkeit haben; die Gelegenheit haben; die Macht haben; wissen wie"
+        "descriptionDE": "die Fähigkeit haben; die Gelegenheit haben; die Macht haben; wissen wie",
+        "descriptionUK": "мати здатність; мати можливість; мати силу; знати як",
+        "descriptionTR": "yetenekli olmak; fırsatı olmak; gücü olmak; nasıl yapılacağını bilmek",
+        "descriptionAZ": "bacarıq olmaq; fürsət olmaq; güc olmaq; necə ediləcəyini bilmək"
     }, {
         "de": "wollen",
         "en": "to want",
         "ru": "хотеть",
+        "uk": "хотіти",
+        "tr": "istemek",
+        "az": "istəmək",
         "descriptionEN": "to desire; to wish; to intend; to be determined to do something",
         "descriptionRU": "желать; хотеть; намереваться; быть решительным сделать что-то",
-        "descriptionDE": "wünschen; wollen; beabsichtigen; entschlossen sein, etwas zu tun"
+        "descriptionDE": "wünschen; wollen; beabsichtigen; entschlossen sein, etwas zu tun",
+        "descriptionUK": "бажати; хотіти; мати намір; бути рішучим зробити щось",
+        "descriptionTR": "arzulamak; istemek; niyet etmek; bir şey yapmaya kararlı olmak",
+        "descriptionAZ": "arzu etmək; istəmək; niyyət etmək; bir şey etməyə qərar vermək"
     }, {
         "de": "müssen",
         "en": "to have to; must",
         "ru": "должен; надо",
+        "uk": "повинен; треба",
+        "tr": "zorunda olmak; -meli",
+        "az": "məcbur olmaq; lazımdır",
         "descriptionEN": "to be required or obligated to; to be compelled to",
         "descriptionRU": "быть обязанным или обязанным; быть вынужденным",
-        "descriptionDE": "müssen; müssen"
+        "descriptionDE": "müssen; müssen",
+        "descriptionUK": "бути зобов'язаним або змушеним; бути вимушеним",
+        "descriptionTR": "zorunlu olmak; mecbur olmak",
+        "descriptionAZ": "məcbur olmaq; məcbur olmaq"
     }, {
         "de": "möchten",
         "en": "to like to; would like",
         "ru": "хотелось бы",
+        "uk": "хотілося б",
+        "tr": "istemek; -mek isterdim",
+        "az": "istəmək; istərdim",
         "descriptionEN": "to wish for; to desire; to express a polite request or offer",
         "descriptionRU": "желать; желать; выразить вежливый запрос или предложение",
-        "descriptionDE": "sich wünschen; wünschen; eine höfliche Bitte oder ein Angebot ausdrücken"
+        "descriptionDE": "sich wünschen; wünschen; eine höfliche Bitte oder ein Angebot ausdrücken",
+        "descriptionUK": "бажати; бажати; висловити ввічливе прохання або пропозицію",
+        "descriptionTR": "istemek; arzulamak; nazik bir istek veya teklif ifade etmek",
+        "descriptionAZ": "arzu etmək; istəmək; nəzakətli bir sorğu və ya təklif ifadə etmək"
     }, {
         "de": "müssen",
         "en": "to need",
         "ru": "нуждаться",
+        "uk": "потребувати",
+        "tr": "ihtiyaç duymak",
+        "az": "ehtiyac duymaq",
         "descriptionEN": "to require something because it is essential or important",
         "descriptionRU": "требовать что-то, потому что это важно или важно",
-        "descriptionDE": "etwas benötigen, weil es wichtig oder wichtig ist"
+        "descriptionDE": "etwas benötigen, weil es wichtig oder wichtig ist",
+        "descriptionUK": "вимагати щось, тому що це важливо або важливо",
+        "descriptionTR": "bir şeye ihtiyaç duymak, çünkü bu gerekli veya önemlidir",
+        "descriptionAZ": "bir şeyə ehtiyac duymaq, çünki bu vacib və ya vacibdir"
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "uk": "працювати",
+        "tr": "çalışmak",
+        "az": "işləmək",
         "descriptionEN": "to perform tasks for a job; to be employed; to be engaged in labor",
         "descriptionRU": "выполнять задачи по работе; быть на службе; заниматься трудовой деятельностью",
-        "descriptionDE": "Aufgaben für einen Job ausführen; beschäftigt sein; sich mit Arbeit beschäftigen"
+        "descriptionDE": "Aufgaben für einen Job ausführen; beschäftigt sein; sich mit Arbeit beschäftigen",
+        "descriptionUK": "виконувати завдання на роботі; бути на службі; займатися трудовою діяльністю",
+        "descriptionTR": "bir iş için görevleri yerine getirmek; istihdam edilmek; emekle uğraşmak",
+        "descriptionAZ": "iş üçün vəzifələri yerinə yetirmək; işləmək; əməklə məşğul olmaq"
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
+        "uk": "грати",
+        "tr": "oynamak",
+        "az": "oynamaq",
         "descriptionEN": "to engage in activity for amusement or recreation; to participate in a game",
         "descriptionRU": "заниматься деятельностью для развлечения или отдыха; участвовать в игре",
-        "descriptionDE": "sich an einer Tätigkeit zur Unterhaltung oder Erholung beteiligen; an einem Spiel teilnehmen"
+        "descriptionDE": "sich an einer Tätigkeit zur Unterhaltung oder Erholung beteiligen; an einem Spiel teilnehmen",
+        "descriptionUK": "займатися діяльністю для розваги або відпочинку; брати участь у грі",
+        "descriptionTR": "eğlence veya dinlenme için bir etkinliğe katılmak; bir oyuna katılmak",
+        "descriptionAZ": "əyləncə və ya istirahət üçün fəaliyyətlə məşğul olmaq; bir oyunda iştirak etmək"
     }
 ]

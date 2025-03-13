@@ -6,8 +6,8 @@
             "en": "Joy of Life in Bonn",
             "ru": "Радость жизни в Бонне"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Anna.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Anna.json"
     }, {
         "id": 2,
         "title": {
@@ -15,8 +15,8 @@
             "en": "Sweet Secrets",
             "ru": "Сладкие тайны"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json"
     }, {
         "id": 3,
         "title": {
@@ -24,8 +24,8 @@
             "en": "Health Consultation",
             "ru": "Опыт консультации по здоровью"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json"
     }, {
         "id": 4,
         "title": {
@@ -33,8 +33,8 @@
             "en": "Warm Weekend",
             "ru": "Теплый выходной"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Weekend.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Weekend.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Weekend.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Weekend.json"
     }, {
         "id": 5,
         "title": {
@@ -42,8 +42,8 @@
             "en": "Flat search",
             "ru": "Поиск жилья"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json"
     }, {
         "id": 6,
         "title": {
@@ -51,8 +51,8 @@
             "en": "The Pink Incident",
             "ru": "Розовый инцидент"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json"
     }, {
         "id": 7,
         "title": {
@@ -60,8 +60,8 @@
             "en": "Carnival joy",
             "ru": "Радость карнавала"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json"
     }, {
         "id": 8,
         "title": {
@@ -69,8 +69,8 @@
             "en": "Why Bonn?",
             "ru": "Почему Бонн?"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json"
     }, {
         "id": 9,
         "title": {
@@ -78,8 +78,8 @@
             "en": "Diamonds and deception",
             "ru": "Бриллианты и обман"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Frank.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Frank.json"
     }, {
         "id": 10,
         "title": {
@@ -87,8 +87,8 @@
             "en": "Harmonies of the Past",
             "ru": "Гармонии прошлого"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json"
     }, {
         "id": 11,
         "title": {
@@ -96,8 +96,8 @@
             "en": "Hiking through History",
             "ru": "Путешествие в прошлое"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json"
     }, {
         "id": 12,
         "title": {
@@ -105,8 +105,8 @@
             "en": "Carnival Celebration",
             "ru": "Празднование карнавала"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json"
     }, {
         "id": 13,
         "title": {
@@ -114,8 +114,8 @@
             "en": "Train Delays",
             "ru": "Задержки поездов"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json"
     }, {
         "id": 14,
         "title": {
@@ -123,8 +123,8 @@
             "en": "COVID with Beethoven",
             "ru": "КОВИД с Бетховеном"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json"
     }, {
         "id": 15,
         "title": {
@@ -132,7 +132,7 @@
             "en": "The Arithmeum",
             "ru": "Аритмеум"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/img/Arithmeum.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/bonn/words/Arithmeum.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Arithmeum.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Arithmeum.json"
     }
 ]

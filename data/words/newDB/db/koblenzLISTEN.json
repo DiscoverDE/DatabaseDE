@@ -6,8 +6,8 @@
             "de": "Loreley",
             "ru": "Лорель"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Loreley.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Loreley.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Loreley.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Loreley.json"
     },
     {
         "id": 2,
@@ -16,8 +16,8 @@
             "de": "Drachen",
             "ru": "Дракон"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Dragon.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Dragon.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Dragon.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Dragon.json"
     },
     {
         "id": 3,
@@ -26,8 +26,8 @@
             "de": "Geist",
             "ru": "Призрак"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Ghost.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Ghost.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Ghost.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Ghost.json"
     },
     {
         "id": 4,
@@ -36,8 +36,8 @@
             "de": "Ritterliches Abenteuer",
             "ru": "Рыцарское приключение"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Ritterliches.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Ritterliches.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Ritterliches.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Ritterliches.json"
     },
     {
         "id": 5,
@@ -46,8 +46,8 @@
             "de": "Sommervergnügen",
             "ru": "Летние радости"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Summer.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Summer.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Summer.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Summer.json"
     },
     {
         "id": 6,
@@ -56,8 +56,8 @@
             "de": "Geheimer Brunnen",
             "ru": "Секретный Фонтан"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Fountain.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Fountain.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Fountain.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Fountain.json"
     },
     {
         "id": 7,
@@ -66,8 +66,8 @@
             "de": "Koblenzer Abenteuer",
             "ru": "Приключения в Кобленце"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Abenteuer.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Abenteuer.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Abenteuer.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Abenteuer.json"
     },
     {
         "id": 8,
@@ -76,8 +76,8 @@
             "de": "Badmintonspiel",
             "ru": "Игра в бадминтон"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Badmintonspiel.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Badmintonspiel.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Badmintonspiel.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Badmintonspiel.json"
     },
     {
         "id": 9,
@@ -86,8 +86,8 @@
             "de": "Familientag",
             "ru": "Семейный день"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Familientag.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Familientag.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Familientag.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Familientag.json"
     },
     {
         "id": 10,
@@ -96,8 +96,8 @@
             "de": "Familien Spaß",
             "ru": "Семейное развлечение"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Altersgruppen.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Altersgruppen.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Altersgruppen.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Altersgruppen.json"
     },
     {
         "id": 11,
@@ -106,8 +106,8 @@
             "de": "Träume verwirklicht",
             "ru": "Мечты осуществлены"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Unleashed.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Unleashed.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Unleashed.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Unleashed.json"
     },
     {
         "id": 12,
@@ -116,8 +116,8 @@
             "de": "Riesling-Abenteuer",
             "ru": "Приключение с Рислингом"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/RieslingAdventure.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/RieslingAdventure.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/RieslingAdventure.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/RieslingAdventure.json"
     },
     {
         "id": 13,
@@ -126,8 +126,8 @@
             "de": "Liebe in Koblenz",
             "ru": "Любовь в Кобленце"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/RomantischeErkundung.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/RomantischeErkundung.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/RomantischeErkundung.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/RomantischeErkundung.json"
     },
     {
         "id": 14,
@@ -136,8 +136,8 @@
             "de": "Weinabenteuer",
             "ru": "Винное приключение"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Weinabenteuer.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Weinabenteuer.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Weinabenteuer.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Weinabenteuer.json"
     },
     {
         "id": 15,
@@ -146,7 +146,7 @@
             "de": "Schloss Liebesgeschichte",
             "ru": "История любви в замке"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/img/Liebesgeschichte.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/koblenz/words/Liebesgeschichte.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/img/Liebesgeschichte.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/koblenz/words/Liebesgeschichte.json"
     }
 ]
