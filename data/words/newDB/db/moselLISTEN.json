@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": {
+      "title": {
         "en": "Museums",
         "de": "Museen",
         "ru": "Музеи"
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": {
+      "title": {
         "en": "Discover the Mosel",
         "de": "Entdecke die Mosel",
         "ru": "Откройте Мозель"
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "name": {
+      "title": {
         "en": "Murder Mystery",
         "de": "Mordrätsel",
         "ru": "Расследование убийства"
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "name": {
+      "title": {
         "en": "Discover Germany",
         "de": "Entdecke Deutschland",
         "ru": "Знакомство с Германией"
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "name": {
+      "title": {
         "en": "Highlights",
         "de": "Höhepunkte",
         "ru": "Основные моменты"
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "name": {
+      "title": {
         "en": "Medieval Beilstein",
         "de": "Mittelalterliches Beilstein",
         "ru": "Средневековый Бейльштайн"
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "name": {
+      "title": {
         "en": "Cuisine Highlights",
         "de": "Küchen-Highlights",
         "ru": "Блюда Мозеля"
@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "name": {
+      "title": {
         "en": "Festivals I",
         "de": "Feste I",
         "ru": "Фестивали 1"
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "name": {
+      "title": {
         "en": "Festivals II",
         "de": "Feste II",
         "ru": "Фестивали 2"
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "name": {
+      "title": {
         "en": "Hunsrück-Mosel Connection",
         "de": "Hunsrück-Mosel-Verbindung",
         "ru": "Связь Хунсрюк-Мозель"
@@ -101,7 +101,7 @@
     },
     {
       "id": 11,
-      "name": {
+      "title": {
         "en": "Biodiversity",
         "de": "Biodiversität",
         "ru": "Биоразнообразие"
@@ -111,7 +111,7 @@
     },
     {
       "id": 12,
-      "name": {
+      "title": {
         "en": "Hidden Gems",
         "de": "Verborgene Schätze",
         "ru": "Скрытые жемчужины"
@@ -121,7 +121,7 @@
     },
     {
       "id": 13,
-      "name": {
+      "title": {
         "en": "Journey Through Germany",
         "de": "Reise durch Deutschland",
         "ru": "Путешествие по Германии"
@@ -131,7 +131,7 @@
     },
     {
       "id": 14,
-      "name": {
+      "title": {
         "en": "Mosel Wine History",
         "de": "Mosel Wein Geschichte",
         "ru": "История вина Мозеля"
@@ -141,7 +141,7 @@
     },
     {
       "id": 15,
-      "name": {
+      "title": {
         "en": "The Hidden Tunnel",
         "de": "Der geheime Tunnel",
         "ru": "Тайный тоннель"

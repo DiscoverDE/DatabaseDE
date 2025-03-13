@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": {
+        "title": {
             "en": "Cochem Adventure",
             "de": "Cochem Abenteuer",
             "ru": "Приключение в Кохеме"
@@ -10,7 +10,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Erkundung.jpg"
     }, {
         "id": 2,
-        "name": {
+        "title": {
             "en": "My Days in Mosel",
             "de": "Meine Tage an der Mosel",
             "ru": "Мои дни в Мозеле"
@@ -19,7 +19,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Diary.jpg"
     }, {
         "id": 3,
-        "name": {
+        "title": {
             "en": "Geierlay",
             "de": "Geierlay",
             "ru": "Гейерай"
@@ -28,7 +28,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Geierlay.jpg"
     }, {
         "id": 4,
-        "name": {
+        "title": {
             "en": "Burg Eltz",
             "de": "Burg Eltz",
             "ru": "Бург Эльц"
@@ -37,7 +37,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Eltz.jpg"
     }, {
         "id": 5,
-        "name": {
+        "title": {
             "en": "Fairytale Beilstein",
             "de": "Märchenhaftes Beilstein",
             "ru": "Сказочный Бейльштайн"
@@ -46,7 +46,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Beilstein.jpg"
     }, {
         "id": 6,
-        "name": {
+        "title": {
             "en": "Zell's Black Cat",
             "de": "Zeller Schwarze Katz",
             "ru": "Черная кошка из Целля"
@@ -55,7 +55,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Weingeschichte.jpg"
     }, {
         "id": 7,
-        "name": {
+        "title": {
             "en": "Bike Adventure",
             "de": "Radabenteuer",
             "ru": "Приключение на велосипеде"
@@ -64,7 +64,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Radabenteuer.jpg"
     }, {
         "id": 8,
-        "name": {
+        "title": {
             "en": "Cochem vs Trier",
             "de": "Cochem gegen Trier",
             "ru": "Кохем против Трира"
@@ -73,7 +73,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Charmante.jpg"
     }, {
         "id": 9,
-        "name": {
+        "title": {
             "en": "Cochem Castle",
             "de": "Burg Cochem",
             "ru": "Замок Кохем"
@@ -82,7 +82,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Cochem.jpg"
     }, {
         "id": 10,
-        "name": {
+        "title": {
             "en": "Cycling Adventure",
             "de": "Fahrradabenteuer",
             "ru": "Велоприключение"
@@ -91,7 +91,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Cycling.jpg"
     }, {
         "id": 11,
-        "name": {
+        "title": {
             "en": "Mosel River Crossings",
             "de": "Moselübergänge",
             "ru": "Переходы через Мозель"
@@ -100,7 +100,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Bridge.jpg"
     }, {
         "id": 12,
-        "name": {
+        "title": {
             "en": "Burg Thurant",
             "de": "Burg Thurant",
             "ru": "Замок Турант"
@@ -109,7 +109,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/Thurant.jpg"
     }, {
         "id": 13,
-        "name": {
+        "title": {
             "en": "Biodiversity",
             "de": "Biodiversität",
             "ru": "Биоразнообразие"
@@ -118,7 +118,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/BiodiversityII.jpg"
     }, {
         "id": 14,
-        "name": {
+        "title": {
             "en": "Moselle in War",
             "de": "Mosel im Krieg",
             "ru": "Мозель на войне"
@@ -127,7 +127,7 @@
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/mosel/img/WWII.jpg"
     }, {
         "id": 15,
-        "name": {
+        "title": {
             "en": "River Journey",
             "de": "Flussreise",
             "ru": "Путешествие по реке"
