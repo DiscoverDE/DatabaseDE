@@ -3,71 +3,131 @@
         "de": "der Tisch",
         "en": "table",
         "ru": "стол",
+        "uk": "стіл",
+        "tr": "masa",
+        "az": "stol",
         "descriptionDE": "Ein wesentliches Möbelstück für Familiengespräche, Mahlzeiten und Arbeit. Er bietet eine flache und stabile Oberfläche für verschiedene Aktivitäten.",
         "descriptionEN": "An essential piece of furniture for family gatherings, meals, and work. It provides a flat and stable surface for various activities.",
-        "descriptionRU": "Важная часть мебели для семейных посиделок, приема пищи и работы. Он предоставляет ровную и устойчивую поверхность для различных деятельностей."
+        "descriptionRU": "Важная часть мебели для семейных посиделок, приема пищи и работы. Он предоставляет ровную и устойчивую поверхность для различных деятельностей.",
+        "descriptionUK": "Важлива частина меблів для сімейних посиденьок, прийому їжі та роботи. Він надає рівну та стійку поверхню для різних дій.",
+        "descriptionTR": "Aile toplantıları, yemekler ve iş için temel bir mobilya parçası. Çeşitli aktiviteler için düz ve sabit bir yüzey sağlar.",
+        "descriptionAZ": "Ailə görüşləri, yemək və iş üçün əsas bir mebel parçası. Müxtəlif fəaliyyətlər üçün düz və sabit bir səth təmin edir."
     }, {
         "de": "der Stuhl",
         "en": "chair",
         "ru": "стул",
+        "uk": "стілець",
+        "tr": "sandalye",
+        "az": "stul",
         "descriptionDE": "Entworfen für bequemes Sitzen. Stühle gibt es in verschiedenen Stilen und Materialien, die Unterstützung und Entspannung beim Sitzen bieten.",
         "descriptionEN": "Designed for comfortable seating. Chairs come in various styles and materials, offering support and relaxation for sitting purposes.",
-        "descriptionRU": "Созданный для комфортного сидения. Стулья имеют разные стили и материалы, предлагая поддержку и расслабление при сидении."
+        "descriptionRU": "Созданный для комфортного сидения. Стулья имеют разные стили и материалы, предлагая поддержку и расслабление при сидении.",
+        "descriptionUK": "Створений для комфортного сидіння. Стільці мають різні стилі та матеріали, пропонуючи підтримку та розслаблення при сидінні.",
+        "descriptionTR": "Rahat oturma için tasarlanmıştır. Sandalyeler, oturma amaçları için destek ve rahatlama sunan çeşitli stillerde ve malzemelerde gelir.",
+        "descriptionAZ": "Rahat oturmaq üçün dizayn edilmişdir. Stullar, oturma məqsədləri üçün dəstək və rahatlıq təqdim edən müxtəlif stillərdə və materiallarda mövcuddur."
     }, {
         "de": "das Sofa",
         "en": "sofa",
         "ru": "диван",
+        "uk": "диван",
+        "tr": "kanepe",
+        "az": "divan",
         "descriptionDE": "Ein bequemes und gepolstertes Möbelstück für das Sitzen mehrerer Personen. Es eignet sich perfekt zum Entspannen und Geselligsein im Wohnzimmer.",
         "descriptionEN": "A comfortable and upholstered piece of furniture for seating multiple people. It's perfect for relaxation and socializing in the living room.",
-        "descriptionRU": "Комфортное мягкое сиденье для нескольких человек. Он отлично подходит для отдыха и общения в гостиной."
+        "descriptionRU": "Комфортное мягкое сиденье для нескольких человек. Он отлично подходит для отдыха и общения в гостиной.",
+        "descriptionUK": "Комфортне м'яке сидіння для кількох осіб. Він ідеально підходить для відпочинку та спілкування у вітальні.",
+        "descriptionTR": "Birden fazla kişi için rahat ve döşemeli bir mobilya parçası. Oturma odasında rahatlama ve sosyalleşme için mükemmeldir.",
+        "descriptionAZ": "Bir neçə nəfər üçün rahat və döşəməli bir mebel parçası. Oturma otağında rahatlama və ictimailəşmə üçün mükəmməldir."
     }, {
         "de": "die Lampe",
         "en": "lamp",
         "ru": "лампа",
+        "uk": "лампа",
+        "tr": "lamba",
+        "az": "lampa",
         "descriptionDE": "Eine Beleuchtungsvorrichtung, die Beleuchtung und Atmosphäre in einem Raum bietet. Lampen gibt es in verschiedenen Designs, von Stehlampen bis Tischlampen.",
         "descriptionEN": "A lighting fixture that provides illumination and ambiance in a room. Lamps come in various designs, from floor lamps to table lamps.",
-        "descriptionRU": "Светильник, который обеспечивает освещение и атмосферу в помещении. Лампы имеют разные дизайны, от напольных до настольных."
+        "descriptionRU": "Светильник, который обеспечивает освещение и атмосферу в помещении. Лампы имеют разные дизайны, от напольных до настольных.",
+        "descriptionUK": "Світильник, який забезпечує освітлення та атмосферу в приміщенні. Лампи мають різні дизайни, від підлогових до настільних.",
+        "descriptionTR": "Bir odaya aydınlatma ve atmosfer sağlayan bir aydınlatma cihazı. Lambalar, ayaklı lambalardan masa lambalarına kadar çeşitli tasarımlarda gelir.",
+        "descriptionAZ": "Bir otağa işıqlandırma və atmosfer təmin edən bir işıqlandırma cihazı. Lampalar, ayaqlı lampalardan masa lampalarına qədər müxtəlif dizaynlarda mövcuddur."
     }, {
         "de": "das Bett",
         "en": "bed",
         "ru": "кровать",
-        "descriptionDE": " Bett, ein Möbelstück zum Schlafen und Ausruhen. Betten gibt es in verschiedenen Größen und Stilen und bieten Komfort und Entspannung.",
+        "uk": "ліжко",
+        "tr": "yatak",
+        "az": "yataq",
+        "descriptionDE": "Ein Möbelstück zum Schlafen und Ausruhen. Betten gibt es in verschiedenen Größen und Stilen und bieten Komfort und Entspannung.",
         "descriptionEN": "A piece of furniture for sleeping and resting. Beds come in various sizes and styles, offering comfort and relaxation.",
-        "descriptionRU": "Мебель для сна и отдыха. Кровати представлены в разных размерах и стилях, обеспечивая комфорт и релаксацию."
+        "descriptionRU": "Мебель для сна и отдыха. Кровати представлены в разных размерах и стилях, обеспечивая комфорт и релаксацию.",
+        "descriptionUK": "Меблі для сну та відпочинку. Ліжка представлені в різних розмірах та стилях, забезпечуючи комфорт та релаксацію.",
+        "descriptionTR": "Uyumak ve dinlenmek için bir mobilya parçası. Yataklar, çeşitli boyutlarda ve stillerde gelir, konfor ve rahatlama sunar.",
+        "descriptionAZ": "Yatmaq və istirahət etmək üçün bir mebel parçası. Yataqlar, müxtəlif ölçülərdə və stillərdə mövcuddur, rahatlıq və rahatlıq təqdim edir."
     }, {
         "de": "der Kühlschrank",
         "en": "fridge",
         "ru": "холодильник",
+        "uk": "холодильник",
+        "tr": "buzdolabı",
+        "az": "soyuducu",
         "descriptionDE": "Ein Haushaltsgerät, das Ihre Lebensmittel und Getränke kalt und frisch hält. Es ist ein wesentlicher Bestandteil der Küche zur Aufbewahrung.",
         "descriptionEN": "A household appliance that keeps your food and beverages cold and fresh. It's an essential part of the kitchen for storage.",
-        "descriptionRU": "Бытовое устройство, которое сохраняет ваши продукты и напитки холодными и свежими. неотъемлемая часть кухни для хранения."
+        "descriptionRU": "Бытовое устройство, которое сохраняет ваши продукты и напитки холодными и свежими. неотъемлемая часть кухни для хранения.",
+        "descriptionUK": "Побутовий пристрій, який зберігає ваші продукти та напої холодними та свіжими. невід'ємна частина кухні для зберігання.",
+        "descriptionTR": "Yiyecek ve içeceklerinizi soğuk ve taze tutan bir ev aleti. Mutfakta depolama için temel bir parçadır.",
+        "descriptionAZ": "Qida və içkilərinizi soyuq və təzə saxlayan bir məişət cihazı. Mətbəxdə saxlama üçün əsas bir hissədir."
     }, {
         "de": "der Schrank",
         "en": "cupboard",
         "ru": "шкаф",
+        "uk": "шафа",
+        "tr": "dolap",
+        "az": "şkaf",
         "descriptionDE": "Ein Möbelstück zur Aufbewahrung von Gegenständen wie Geschirr, Kleidung oder Haushaltsbedarf. Schränke helfen, Ihren Raum organisiert zu halten.",
         "descriptionEN": "A piece of furniture used for storing items, such as dishes, clothing, or household supplies. Cupboards help keep your space organized.",
-        "descriptionRU": "Используемая для хранения различных предметов, таких как посуда, одежда или товары для дома. Шкафы помогают поддерживать порядок в пространстве."
+        "descriptionRU": "Используемая для хранения различных предметов, таких как посуда, одежда или товары для дома. Шкафы помогают поддерживать порядок в пространстве.",
+        "descriptionUK": "Використовується для зберігання різних предметів, таких як посуд, одяг або товари для дому. Шафи допомагають підтримувати порядок у просторі.",
+        "descriptionTR": "Tabaklar, giysiler veya ev eşyaları gibi eşyaları saklamak için kullanılan bir mobilya parçası. Dolaplar, alanınızı düzenli tutmanıza yardımcı olur.",
+        "descriptionAZ": "Qablar, geyimlər və ya məişət əşyaları kimi əşyaları saxlamaq üçün istifadə olunan bir mebel parçası. Şkaflar, məkanınızı təşkil etməyinizə kömək edir."
     }, {
         "de": "der Spiegel",
         "en": "mirror",
         "ru": "зеркало",
+        "uk": "дзеркало",
+        "tr": "ayna",
+        "az": "güzgü",
         "descriptionDE": "Eine reflektierende Oberfläche, die es Ihnen ermöglicht, Ihr Spiegelbild zu sehen. Spiegel werden für die persönliche Pflege, Überprüfung des Aussehens und Dekoration verwendet.",
         "descriptionEN": "A reflective surface that allows you to see your reflection. Mirrors are used for personal grooming, checking appearance, and decoration.",
-        "descriptionRU": "Отражающая поверхность, которая позволяет видеть свое отражение. Зеркала используются для личного ухода, проверки внешности и украшения."
+        "descriptionRU": "Отражающая поверхность, которая позволяет видеть свое отражение. Зеркала используются для личного ухода, проверки внешности и украшения.",
+        "descriptionUK": "Відбиваюча поверхня, яка дозволяє бачити своє відображення. Дзеркала використовуються для особистого догляду, перевірки зовнішності та прикраси.",
+        "descriptionTR": "Yansımanızı görmenizi sağlayan yansıtıcı bir yüzey. Aynalar, kişisel bakım, görünüm kontrolü ve dekorasyon için kullanılır.",
+        "descriptionAZ": "Öz əksinizi görməyinizi təmin edən əks etdirən bir səth. Güzgülər, şəxsi qulluq, görünüş yoxlanışı və dekorasiya üçün istifadə olunur."
     }, {
         "de": "der Herd",
         "en": "stove",
         "ru": "плита",
+        "uk": "плита",
+        "tr": "ocak",
+        "az": "soba",
         "descriptionDE": "Ein Küchengerät zum Kochen und Erhitzen von Lebensmitteln. Herde gibt es in verschiedenen Typen, darunter elektrische, gasbetriebene und Induktionsherde.",
         "descriptionEN": "A kitchen appliance used for cooking and heating food. Stoves come in different types, including electric, gas, and induction.",
-        "descriptionRU": "Кухонное устройство, используемое для приготовления и подогрева пищи. Плиты бывают разных типов, включая электрические, газовые и индукционные."
+        "descriptionRU": "Кухонное устройство, используемое для приготовления и подогрева пищи. Плиты бывают разных типов, включая электрические, газовые и индукционные.",
+        "descriptionUK": "Кухонний пристрій, який використовується для приготування та підігріву їжі. Плити бувають різних типів, включаючи електричні, газові та індукційні.",
+        "descriptionTR": "Yemek pişirmek ve ısıtmak için kullanılan bir mutfak aleti. Ocaklar, elektrikli, gazlı ve endüksiyonlu gibi farklı türlerde gelir.",
+        "descriptionAZ": "Yemək bişirmək və qızdırmaq üçün istifadə olunan bir mətbəx cihazı. Sobalar, elektrikli, qazlı və induksiyonlu kimi müxtəlif növlərdə mövcuddur."
     }, {
         "de": "das Waschbecken",
         "en": "sink",
         "ru": "раковина",
+        "uk": "раковина",
+        "tr": "lavabo",
+        "az": "lavabo",
         "descriptionDE": "Eine Vorrichtung in der Küche oder im Badezimmer zum Waschen von Geschirr, Händen und persönlicher Hygiene. Waschbecken gibt es in verschiedenen Materialien und Stilen.",
         "descriptionEN": "A fixture in the kitchen or bathroom used for washing dishes, hands, and personal hygiene. Sinks come in various materials and styles.",
-        "descriptionRU": "Используемый для мытья посуды, рук и личной гигиени. Раковины представлены в различных материалах и стилях."
+        "descriptionRU": "Используемый для мытья посуды, рук и личной гигиени. Раковины представлены в различных материалах и стилях.",
+        "descriptionUK": "Використовується для миття посуду, рук та особистої гігієни. Раковини представлені в різних матеріалах та стилях.",
+        "descriptionTR": "Bulaşıkları, elleri ve kişisel hijyeni yıkamak için mutfakta veya banyoda kullanılan bir armatür. Lavabolar çeşitli malzemelerde ve stillerde gelir.",
+        "descriptionAZ": "Qabları, əlləri və şəxsi gigiyeni yumaq üçün mətbəxdə və ya hamamda istifadə olunan bir armatür. Lavabolar müxtəlif materiallarda və stillərdə mövcuddur."
     }
 ]

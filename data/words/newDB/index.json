@@ -7,7 +7,7 @@
             "ru": "Общее"
         },
         "filename": "general.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/general.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/general.jpg"
     }, {
         "id": 2,
         "title": {
@@ -16,7 +16,7 @@
             "ru": "Бонн \u270D"
         },
         "filename": "bonn.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonn.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/bonn.jpg"
     }, {
         "id": 3,
         "title": {
@@ -25,7 +25,7 @@
             "ru": "Бонн \u266C"
         },
         "filename": "bonnLISTEN.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/bonnLISTEN.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.jpg"
     }, {
         "id": 4,
         "title": {
@@ -34,7 +34,7 @@
             "ru": "Кёльн \u270D"
         },
         "filename": "cologne.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologne.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/cologne.jpg"
     }, {
         "id": 5,
         "title": {
@@ -43,7 +43,7 @@
             "ru": "Кёльн \u266C"
         },
         "filename": "cologneLISTEN.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/cologneLISTEN.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.jpg"
     }, {
         "id": 6,
         "title": {
@@ -52,7 +52,7 @@
             "ru": "Дюссельдорф \u270D"
         },
         "filename": "dusseldorf.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dusseldorf.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/dusseldorf.jpg"
     }, {
         "id": 7,
         "title": {
@@ -61,7 +61,7 @@
             "ru": "Дюссельдорф \u266C"
         },
         "filename": "dusseldorfLISTEN.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/dus1.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/dus1.jpg"
     }, {
         "id": 8,
         "title": {
@@ -70,7 +70,7 @@
             "ru": "Кобленц \u270D"
         },
         "filename": "koblenz.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenz.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/koblenz.jpg"
     }, {
         "id": 9,
         "title": {
@@ -79,7 +79,7 @@
             "ru": "Кобленц \u266C"
         },
         "filename": "koblenzLISTEN.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/koblenzLISTEN.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.jpg"
     }, {
         "id": 10,
         "title": {
@@ -88,7 +88,7 @@
             "ru": "Просто город \u270D"
         },
         "filename": "einfach.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfach.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/einfach.jpg"
     }, {
         "id": 11,
         "title": {
@@ -97,7 +97,7 @@
             "ru": "Просто город \u266C"
         },
         "filename": "einfachLISTEN.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/einfachLISTEN.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.jpg"
     }, {
         "id": 12,
         "title": {
@@ -106,6 +106,15 @@
             "ru": "Мозель \u270D"
         },
         "filename": "mosel.json",
-        "image": "https://sideprojects-777.github.io/DatabaseDE/locations/moselREAD.jpg"
+        "image": "https://discoverde.github.io/DatabaseDE/locations/moselREAD.jpg"
+    }, {
+        "id": 13,
+        "title": {
+            "de": "Mosel \u266C",
+            "en": "Moselle \u266C",
+            "ru": "Мозель \u266C"
+        },
+        "filename": "moselLISTEN.json",
+        "image": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.jpg"
     }
 ]

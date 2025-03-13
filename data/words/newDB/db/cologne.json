@@ -6,8 +6,8 @@
             "en": "Stumbling blocks",
             "ru": "Камни преткновения"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Stolpersteine.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Stolpersteine.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Stolpersteine.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Stolpersteine.json"
     }, {
         "id": 2,
         "title": {
@@ -15,8 +15,8 @@
             "en": "Strangers in the cathedral",
             "ru": "Незнакомцы в соборе"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json"
     }, {
         "id": 3,
         "title": {
@@ -24,8 +24,8 @@
             "en": "Lost Wallet",
             "ru": "Потерянный кошелек"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json"
     }, {
         "id": 4,
         "title": {
@@ -33,8 +33,8 @@
             "en": "Cologne in Dialogue",
             "ru": "Кёльн в диалоге"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json"
     }, {
         "id": 5,
         "title": {
@@ -42,8 +42,8 @@
             "en": "Wild Explorations",
             "ru": "Дикие исследования"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Zoopark.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Zoopark.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json"
     }, {
         "id": 6,
         "title": {
@@ -51,8 +51,8 @@
             "en": "Exploring Cologne I",
             "ru": "Знакомство с Кельном I"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json"
     }, {
         "id": 7,
         "title": {
@@ -60,8 +60,8 @@
             "en": "Exploring Cologne II",
             "ru": "Знакомство с Кельном II"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json"
     }, {
         "id": 8,
         "title": {
@@ -69,8 +69,8 @@
             "en": "Exploring Cologne III",
             "ru": "Знакомство с Кельном III"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json"
     }, {
         "id": 9,
         "title": {
@@ -78,8 +78,8 @@
             "de": "Panda-Überraschung",
             "ru": "Пандовый сюрприз"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Magic.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Magic.json"
     }, {
         "id": 10,
         "title": {
@@ -87,8 +87,8 @@
             "en": "Cologne cathedral",
             "ru": "Кельнский собор"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Dom.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Dom.json"
     }, {
         "id": 11,
         "title": {
@@ -96,8 +96,8 @@
             "en": "Cologne vs. Düsseldorf",
             "ru": "Кёльн против Дюссельдорфа"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json"
     }, {
         "id": 12,
         "title": {
@@ -105,8 +105,8 @@
             "en": "Kölsch",
             "ru": "Kölsch"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json"
     }, {
         "id": 13,
         "title": {
@@ -114,8 +114,8 @@
             "en": "FC Köln",
             "ru": "ФК Кёльн"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/FC_Koeln.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/FC_Koeln.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/FC_Koeln.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/FC_Koeln.json"
     }, {
         "id": 14,
         "title": {
@@ -123,8 +123,8 @@
             "en": "Christmas Traditions",
             "ru": "Рождественские традиции"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json"
     }, {
         "id": 15,
         "title": {
@@ -132,7 +132,7 @@
             "de": "Geisterwächter",
             "ru": "Стражи духов"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json"
     }
 ]

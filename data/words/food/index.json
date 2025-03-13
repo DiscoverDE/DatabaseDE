@@ -3,281 +3,521 @@
         "de": "die Küche",
         "en": "kitchen",
         "ru": "кухня",
+        "uk": "кухня",
+        "tr": "mutfak",
+        "az": "mətbəx",
         "descriptionEN": "A room or area where food is prepared and cooked.",
         "descriptionRU": "Комната или зона, где готовится и готовится еда.",
-        "descriptionDE": "Ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird."
+        "descriptionDE": "Ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird.",
+        "descriptionUK": "Кімната або зона, де готується їжа.",
+        "descriptionTR": "Yemeklerin hazırlandığı ve pişirildiği bir oda veya alan.",
+        "descriptionAZ": "Yeməyin hazırlandığı və bişirildiyi bir otaq və ya sahə."
     }, {
         "de": "das Gericht",
         "en": "dish",
         "ru": "блюдо",
+        "uk": "страва",
+        "tr": "yemek",
+        "az": "yemək",
         "descriptionEN": "A particular variety or preparation of food served as part of a meal.",
         "descriptionRU": "Особый вид или приготовление пищи, подаваемой в качестве части приема пищи.",
-        "descriptionDE": "Eine bestimmte Sorte oder Zubereitung von Speisen, die als Teil einer Mahlzeit serviert wird."
+        "descriptionDE": "Eine bestimmte Sorte oder Zubereitung von Speisen, die als Teil einer Mahlzeit serviert wird.",
+        "descriptionUK": "Особливий вид або приготування їжі, яка подається як частина прийому їжі.",
+        "descriptionTR": "Bir yemeğin parçası olarak servis edilen belirli bir yiyecek çeşidi veya hazırlığı.",
+        "descriptionAZ": "Bir yeməyin hissəsi kimi təqdim olunan müəyyən bir yemək növü və ya hazırlığı."
     }, {
         "de": "der Herd",
         "en": "stove",
         "ru": "плита",
+        "uk": "плита",
+        "tr": "ocak",
+        "az": "soba",
         "descriptionEN": "A kitchen appliance used for cooking food.",
         "descriptionRU": "Кухонный прибор, используемый для приготовления пищи.",
-        "descriptionDE": "Ein Küchengerät, das zum Kochen von Speisen verwendet wird."
+        "descriptionDE": "Ein Küchengerät, das zum Kochen von Speisen verwendet wird.",
+        "descriptionUK": "Кухонний пристрій, який використовується для приготування їжі.",
+        "descriptionTR": "Yemek pişirmek için kullanılan bir mutfak aleti.",
+        "descriptionAZ": "Yemək bişirmək üçün istifadə olunan bir mətbəx cihazı."
     }, {
         "de": "der Kochtopf",
         "en": "cooking pot",
         "ru": "кастрюля",
+        "uk": "каструля",
+        "tr": "tencere",
+        "az": "qazan",
         "descriptionEN": "A deep round container used for cooking things in.",
         "descriptionRU": "Глубокий круглый контейнер, используемый для приготовления пищи.",
-        "descriptionDE": "Ein tiefer runder Behälter, der zum Kochen von Dingen verwendet wird."
+        "descriptionDE": "Ein tiefer runder Behälter, der zum Kochen von Dingen verwendet wird.",
+        "descriptionUK": "Глибокий круглий контейнер, який використовується для приготування їжі.",
+        "descriptionTR": "Yemek pişirmek için kullanılan derin yuvarlak bir kap.",
+        "descriptionAZ": "Yemək bişirmək üçün istifadə olunan dərin yuvarlaq bir qab."
     }, {
         "de": "das Rezept",
         "en": "recipe",
         "ru": "рецепт",
+        "uk": "рецепт",
+        "tr": "tarif",
+        "az": "resept",
         "descriptionEN": "A set of instructions for preparing a particular dish.",
         "descriptionRU": "Набор инструкций для приготовления конкретного блюда.",
-        "descriptionDE": "Eine Anleitung zum Zubereiten eines bestimmten Gerichts."
+        "descriptionDE": "Eine Anleitung zum Zubereiten eines bestimmten Gerichts.",
+        "descriptionUK": "Набір інструкцій для приготування конкретної страви.",
+        "descriptionTR": "Belirli bir yemeği hazırlamak için bir dizi talimat.",
+        "descriptionAZ": "Müəyyən bir yeməyi hazırlamaq üçün bir sıra təlimat."
     }, {
         "de": "die Zutat",
         "en": "ingredient",
         "ru": "ингредиент",
+        "uk": "інгредієнт",
+        "tr": "malzeme",
+        "az": "tərkib hissəsi",
         "descriptionEN": "Any of the foods or substances that are combined to make a particular dish.",
         "descriptionRU": "Любые продукты питания или вещества, которые сочетаются для приготовления конкретного блюда.",
-        "descriptionDE": "Alle Lebensmittel oder Substanzen, die kombiniert werden, um ein bestimmtes Gericht herzustellen."
+        "descriptionDE": "Alle Lebensmittel oder Substanzen, die kombiniert werden, um ein bestimmtes Gericht herzustellen.",
+        "descriptionUK": "Будь-які продукти харчування або речовини, які поєднуються для приготування конкретної страви.",
+        "descriptionTR": "Belirli bir yemeği yapmak için birleştirilen herhangi bir yiyecek veya madde.",
+        "descriptionAZ": "Müəyyən bir yemək hazırlamaq üçün birləşdirilən hər hansı bir qida və ya maddə."
     }, {
         "de": "der Koch",
         "en": "cook",
         "ru": "повар",
+        "uk": "кухар",
+        "tr": "aşçı",
+        "az": "aşpaz",
         "descriptionEN": "A person who prepares and cooks food, especially as a job or in a specified way.",
         "descriptionRU": "Человек, который приготавливает и готовит еду, особенно в качестве работы или определенным образом.",
-        "descriptionDE": "Eine Person, die Essen zubereitet und kocht, insbesondere als Beruf oder auf bestimmte Weise."
+        "descriptionDE": "Eine Person, die Essen zubereitet und kocht, insbesondere als Beruf oder auf bestimmte Weise.",
+        "descriptionUK": "Людина, яка готує їжу, особливо як роботу або певним чином.",
+        "descriptionTR": "Özellikle bir iş olarak veya belirli bir şekilde yemek hazırlayan ve pişiren bir kişi.",
+        "descriptionAZ": "Xüsusilə bir iş kimi və ya müəyyən bir şəkildə yemək hazırlayan və bişirən bir şəxs."
     }, {
         "de": "das Besteck",
         "en": "cutlery",
         "ru": "столовые приборы",
+        "uk": "столові прибори",
+        "tr": "çatal bıçak takımı",
+        "az": "şam qabı",
         "descriptionEN": "Knives, forks, and spoons used for eating or serving food.",
         "descriptionRU": "Ножи, вилки и ложки, используемые для еды или подачи еды.",
-        "descriptionDE": "Messer, Gabeln und Löffel zum Essen oder Servieren von Speisen."
+        "descriptionDE": "Messer, Gabeln und Löffel zum Essen oder Servieren von Speisen.",
+        "descriptionUK": "Ножі, виделки та ложки, які використовуються для їжі або подачі їжі.",
+        "descriptionTR": "Yemek yemek veya servis etmek için kullanılan bıçaklar, çatallar ve kaşıklar.",
+        "descriptionAZ": "Yemək yemək və ya servis etmək üçün istifadə olunan bıçaqlar, çəngəllər və qaşıqlar."
     }, {
         "de": "das Geschirr",
         "en": "tableware",
         "ru": "посуда",
+        "uk": "посуд",
+        "tr": "sofra takımı",
+        "az": "sofra dəsti",
         "descriptionEN": "The dishes, glasses, and cutlery used for setting a table, serving food, and eating meals.",
         "descriptionRU": "Посуда, стаканы и столовые приборы, используемые для сервировки стола, подачи еды и приема пищи.",
-        "descriptionDE": "Das Geschirr, Gläser und Besteck, das zum Decken eines Tisches, Servieren von Speisen und Essen von Mahlzeiten verwendet wird."
+        "descriptionDE": "Das Geschirr, Gläser und Besteck, das zum Decken eines Tisches, Servieren von Speisen und Essen von Mahlzeiten verwendet wird.",
+        "descriptionUK": "Посуд, склянки та столові прибори, які використовуються для сервірування столу, подачі їжі та прийому їжі.",
+        "descriptionTR": "Masa kurmak, yemek servis etmek ve yemek yemek için kullanılan tabaklar, bardaklar ve çatal bıçak takımı.",
+        "descriptionAZ": "Masa qurmaq, yemək servis etmək və yemək yemək üçün istifadə olunan qablar, stəkanlar və şam qabı."
     }, {
         "de": "der Kochbuch",
         "en": "cookbook",
         "ru": "кулинарная книга",
+        "uk": "кулінарна книга",
+        "tr": "yemek kitabı",
+        "az": "yemək kitabı",
         "descriptionEN": "A book containing recipes and other information about the preparation and cooking of food.",
         "descriptionRU": "Книга, содержащая рецепты и другую информацию о приготовлении и готовке пищи.",
-        "descriptionDE": "Ein Buch mit Rezepten und anderen Informationen über die Zubereitung und das Kochen von Speisen."
+        "descriptionDE": "Ein Buch mit Rezepten und anderen Informationen über die Zubereitung und das Kochen von Speisen.",
+        "descriptionUK": "Книга, яка містить рецепти та іншу інформацію про приготування та готування їжі.",
+        "descriptionTR": "Yemek hazırlama ve pişirme hakkında tarifler ve diğer bilgiler içeren bir kitap.",
+        "descriptionAZ": "Yemək hazırlama və bişirmə haqqında reseptlər və digər məlumatlar ehtiva edən bir kitab."
     }, {
         "de": "kochen",
         "en": "cook",
         "ru": "готовить",
+        "uk": "готувати",
+        "tr": "pişirmek",
+        "az": "bişirmək",
         "descriptionEN": "To prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways.",
         "descriptionRU": "Приготовить (пищу, блюдо или еду) путем сочетания и нагрева ингредиентов различными способами.",
-        "descriptionDE": "Essen, ein Gericht oder eine Mahlzeit zubereiten, indem man die Zutaten auf verschiedene Arten kombiniert und erhitzt."
+        "descriptionDE": "Essen, ein Gericht oder eine Mahlzeit zubereiten, indem man die Zutaten auf verschiedene Arten kombiniert und erhitzt.",
+        "descriptionUK": "Приготувати (їжу, страву або їжу) шляхом поєднання та нагріву інгредієнтів різними способами.",
+        "descriptionTR": "Çeşitli şekillerde malzemeleri birleştirerek ve ısıtarak (yiyecek, yemek veya öğün) hazırlamak.",
+        "descriptionAZ": "Müxtəlif üsullarla tərkib hissələrini birləşdirərək və qızdıraraq (qida, yemək və ya yemək) hazırlamaq."
     }, {
         "de": "backen",
         "en": "bake",
         "ru": "печь",
+        "uk": "пекти",
+        "tr": "pişirmek",
+        "az": "bişirmək",
         "descriptionEN": "To cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.",
         "descriptionRU": "Приготовить (пищу) сухим теплом без прямого воздействия огня, обычно в духовке или на горячей поверхности.",
-        "descriptionDE": "Essen durch Trockenhitze ohne direkte Flamme kochen, normalerweise in einem Ofen oder auf einer heißen Oberfläche."
+        "descriptionDE": "Essen durch Trockenhitze ohne direkte Flamme kochen, normalerweise in einem Ofen oder auf einer heißen Oberfläche.",
+        "descriptionUK": "Приготувати (їжу) сухим теплом без прямого впливу вогню, зазвичай у духовці або на гарячій поверхні.",
+        "descriptionTR": "Genellikle bir fırında veya sıcak bir yüzeyde doğrudan alev maruziyeti olmadan kuru ısı ile (yiyecek) pişirmek.",
+        "descriptionAZ": "Adətən bir sobada və ya isti bir səthdə birbaşa alov məruz qalmadan quru istiliklə (qida) bişirmək."
     }, {
         "de": "braten",
         "en": "fry",
         "ru": "жарить",
+        "uk": "смажити",
+        "tr": "kızartmak",
+        "az": "qızartmaq",
         "descriptionEN": "To cook (food) in hot fat or oil, typically in a shallow pan.",
         "descriptionRU": "Приготовить (пищу) на горячем жире или масле, обычно на мелкой сковороде.",
-        "descriptionDE": "Essen in heißem Fett oder Öl kochen, normalerweise in einer flachen Pfanne."
+        "descriptionDE": "Essen in heißem Fett oder Öl kochen, normalerweise in einer flachen Pfanne.",
+        "descriptionUK": "Приготувати (їжу) на гарячому жирі або олії, зазвичай на мілкій сковороді.",
+        "descriptionTR": "Genellikle sığ bir tavada sıcak yağ veya yağda (yiyecek) pişirmek.",
+        "descriptionAZ": "Adətən dayaz bir tavada isti yağ və ya yağda (qida) bişirmək."
     }, {
         "de": "schneiden",
         "en": "cut",
         "ru": "резать",
+        "uk": "різати",
+        "tr": "kesmek",
+        "az": "kəsmək",
         "descriptionEN": "To divide (something) into parts with a knife or other sharp implement.",
         "descriptionRU": "Разделить (что-то) на части ножом или другим острым инструментом.",
-        "descriptionDE": "Etwas in Teile mit einem Messer oder einem anderen scharfen Werkzeug teilen."
+        "descriptionDE": "Etwas in Teile mit einem Messer oder einem anderen scharfen Werkzeug teilen.",
+        "descriptionUK": "Розділити (щось) на частини ножем або іншим гострим інструментом.",
+        "descriptionTR": "Bir şeyi bıçak veya başka bir keskin aletle parçalara ayırmak.",
+        "descriptionAZ": "Bir şeyi bıçaq və ya başqa bir kəskin alətlə hissələrə ayırmaq."
     }, {
         "de": "mischen",
         "en": "mix",
         "ru": "смешивать",
+        "uk": "змішувати",
+        "tr": "karıştırmak",
+        "az": "qarışdırmaq",
         "descriptionEN": "To combine (substances) to form a homogeneous mixture.",
         "descriptionRU": "Сочетать (вещества), чтобы образовать однородную смесь.",
-        "descriptionDE": "Substanzen kombinieren, um eine homogene Mischung zu bilden."
+        "descriptionDE": "Substanzen kombinieren, um eine homogene Mischung zu bilden.",
+        "descriptionUK": "Поєднувати (речовини), щоб утворити однорідну суміш.",
+        "descriptionTR": "Homojen bir karışım oluşturmak için (maddeleri) birleştirmek.",
+        "descriptionAZ": "Homojen bir qarışıq yaratmaq üçün (maddələri) birləşdirmək."
     }, {
         "de": "würzen",
         "en": "season",
         "ru": "приправлять",
+        "uk": "приправляти",
+        "tr": "baharatlamak",
+        "az": "zəfəranlamaq",
         "descriptionEN": "To add salt, herbs, pepper, or other substances to (food) to enhance the flavor.",
         "descriptionRU": "Добавить соль, травы, перец или другие вещества к (пище), чтобы улучшить вкус.",
-        "descriptionDE": "Salz, Kräuter, Pfeffer oder andere Substanzen hinzufügen (Essen), um den Geschmack zu verbessern."
+        "descriptionDE": "Salz, Kräuter, Pfeffer oder andere Substanzen hinzufügen (Essen), um den Geschmack zu verbessern.",
+        "descriptionUK": "Додати сіль, трави, перець або інші речовини до (їжі), щоб покращити смак.",
+        "descriptionTR": "Lezzeti artırmak için (yiyeceğe) tuz, otlar, biber veya diğer maddeler eklemek.",
+        "descriptionAZ": "Dadı artırmaq üçün (yeməyə) duz, otlar, bibər və ya digər maddələr əlavə etmək."
     }, {
         "de": "servieren",
         "en": "serve",
         "ru": "подавать",
+        "uk": "подавати",
+        "tr": "servis etmek",
+        "az": "servis etmək",
         "descriptionEN": "To present (food or drink) to someone.",
         "descriptionRU": "Представить (еду или напиток) кому-то.",
-        "descriptionDE": "Jemandem Essen oder Trinken servieren."
+        "descriptionDE": "Jemandem Essen oder Trinken servieren.",
+        "descriptionUK": "Подати (їжу чи напій) комусь.",
+        "descriptionTR": "Birine (yiyecek veya içecek) sunmak.",
+        "descriptionAZ": "Bir şəxsə (yemək və ya içki) təqdim etmək."
     }, {
         "de": "probieren",
         "en": "taste",
         "ru": "пробовать",
+        "uk": "пробувати",
+        "tr": "tatmak",
+        "az": "dadmaq",
         "descriptionEN": "To perceive or experience the flavor of (food or drink) by taking it into the mouth.",
         "descriptionRU": "Воспринимать или испытывать вкус (еды или напитка), принимая его в рот.",
-        "descriptionDE": "Den Geschmack von Essen oder Trinken wahrnehmen oder erleben, indem man es in den Mund nimmt."
+        "descriptionDE": "Den Geschmack von Essen oder Trinken wahrnehmen oder erleben, indem man es in den Mund nimmt.",
+        "descriptionUK": "Сприймати або відчувати смак (їжі чи напою), приймаючи його в рот.",
+        "descriptionTR": "Yiyecek veya içeceğin tadını ağza alarak algılamak veya deneyimlemek.",
+        "descriptionAZ": "Yemək və ya içkinin dadını ağıza alaraq qavramaq və ya təcrübə etmək."
     }, {
         "de": "schälen",
         "en": "peel",
         "ru": "очищать",
+        "uk": "чистити",
+        "tr": "soymak",
+        "az": "soymaq",
         "descriptionEN": "To remove the outer covering or skin from (a fruit, vegetable, or prawn).",
         "descriptionRU": "Удалить внешнее покрытие или кожу с (фрукта, овоща или креветки).",
-        "descriptionDE": "Die äußere Hülle oder Haut von (einer Frucht, einem Gemüse oder einer Garnele) entfernen."
+        "descriptionDE": "Die äußere Hülle oder Haut von (einer Frucht, einem Gemüse oder einer Garnele) entfernen.",
+        "descriptionUK": "Видалити зовнішнє покриття або шкірку з (фрукта, овоча або креветки).",
+        "descriptionTR": "Bir meyve, sebze veya karidesin dış kabuğunu veya derisini çıkarmak.",
+        "descriptionAZ": "Bir meyvə, tərəvəz və ya krevetin xarici qabığını və ya dərisini çıxarmaq."
     }, {
         "de": "schmelzen",
         "en": "melt",
         "ru": "плавить",
+        "uk": "топити",
+        "tr": "eritmek",
+        "az": "əritmək",
         "descriptionEN": "To become liquefied by heat.",
         "descriptionRU": "Превратиться в жидкость под действием тепла.",
-        "descriptionDE": "Durch Hitze verflüssigen."
+        "descriptionDE": "Durch Hitze verflüssigen.",
+        "descriptionUK": "Перетворитися на рідину під дією тепла.",
+        "descriptionTR": "Isı ile sıvılaşmak.",
+        "descriptionAZ": "İstiliklə mayeləşmək."
     }, {
         "de": "frisch",
         "en": "fresh",
         "ru": "свежий",
+        "uk": "свіжий",
+        "tr": "taze",
+        "az": "təzə",
         "descriptionEN": "Recently made or obtained; not canned, frozen, or otherwise preserved.",
         "descriptionRU": "Недавно изготовленный или полученный; не консервированный, замороженный или как-то иначе сохраненный.",
-        "descriptionDE": "Kürzlich hergestellt oder erhalten; nicht konserviert, eingefroren oder anderweitig haltbar gemacht."
+        "descriptionDE": "Kürzlich hergestellt oder erhalten; nicht konserviert, eingefroren oder anderweitig haltbar gemacht.",
+        "descriptionUK": "Нещодавно виготовлений або отриманий; не консервований, заморожений або якось інакше збережений.",
+        "descriptionTR": "Yakın zamanda yapılmış veya elde edilmiş; konserve, dondurulmuş veya başka şekilde korunmamış.",
+        "descriptionAZ": "Yaxın zamanda hazırlanmış və ya əldə edilmiş; konservləşdirilməmiş, dondurulmamış və ya başqa şəkildə qorunmamış."
     }, {
         "de": "lecker",
         "en": "tasty",
         "ru": "вкусный",
+        "uk": "смачний",
+        "tr": "lezzetli",
+        "az": "dadlı",
         "descriptionEN": "Having a pleasant flavor; savory.",
         "descriptionRU": "Имеющий приятный вкус; вкусно.",
-        "descriptionDE": "Ein angenehmes Aroma haben; herzhaft."
+        "descriptionDE": "Ein angenehmes Aroma haben; herzhaft.",
+        "descriptionUK": "Має приємний смак; смачно.",
+        "descriptionTR": "Hoş bir tada sahip olmak; lezzetli.",
+        "descriptionAZ": "Xoş bir dada sahib olmaq; dadlı."
     }, {
         "de": "gesund",
         "en": "healthy",
         "ru": "здоровый",
+        "uk": "здоровий",
+        "tr": "sağlıklı",
+        "az": "sağlam",
         "descriptionEN": "Conducive to or indicative of good health or well-being.",
         "descriptionRU": "Способствующий или указывающий на хорошее здоровье или благополучие.",
-        "descriptionDE": "Förderlich für oder ein Indiz für gute Gesundheit oder Wohlbefinden."
+        "descriptionDE": "Förderlich für oder ein Indiz für gute Gesundheit oder Wohlbefinden.",
+        "descriptionUK": "Сприяє або вказує на гарне здоров'я або добробут.",
+        "descriptionTR": "İyi sağlık veya refahı destekleyen veya gösteren.",
+        "descriptionAZ": "Yaxşı sağlamlıq və ya rifahı dəstəkləyən və ya göstərən."
     }, {
         "de": "scharf",
         "en": "spicy",
         "ru": "острый",
+        "uk": "гострий",
+        "tr": "baharatlı",
+        "az": "acılı",
         "descriptionEN": "Containing strong spices and causing a burning sensation when tasted.",
         "descriptionRU": "Содержащий сильные специи и вызывающий жжение при пробе.",
-        "descriptionDE": "Stark gewürzt und verursacht ein Brennen beim Probieren."
+        "descriptionDE": "Stark gewürzt und verursacht ein Brennen beim Probieren.",
+        "descriptionUK": "Містить сильні спеції і викликає відчуття печіння при спробі.",
+        "descriptionTR": "Güçlü baharatlar içeren ve tadıldığında yanma hissi yaratan.",
+        "descriptionAZ": "Güclü ədviyyatlar ehtiva edən və dadıldıqda yanma hissi yaradan."
     }, {
         "de": "knusprig",
         "en": "crispy",
         "ru": "хрустящий",
+        "uk": "хрусткий",
+        "tr": "gevrek",
+        "az": "xırıldayan",
         "descriptionEN": "Having a pleasantly firm, dry, and brittle texture.",
         "descriptionRU": "Имеющий приятную плотную, сухую и хрупкую текстуру.",
-        "descriptionDE": "Eine angenehm feste, trockene und spröde Textur haben."
+        "descriptionDE": "Eine angenehm feste, trockene und spröde Textur haben.",
+        "descriptionUK": "Має приємну щільну, суху та крихку текстуру.",
+        "descriptionTR": "Hoş bir şekilde sert, kuru ve kırılgan bir dokuya sahip olmak.",
+        "descriptionAZ": "Xoş bir şəkildə sərt, quru və kövrək bir toxumaya sahib olmaq."
     }, {
         "de": "saftig",
         "en": "juicy",
         "ru": "сочный",
+        "uk": "соковитий",
+        "tr": "sulu",
+        "az": "şirəli",
         "descriptionEN": "Containing much juice; succulent.",
         "descriptionRU": "Содержащий много сока; сочный.",
-        "descriptionDE": "Viel Saft enthalten; saftig."
+        "descriptionDE": "Viel Saft enthalten; saftig.",
+        "descriptionUK": "Містить багато соку; соковитий.",
+        "descriptionTR": "Bol miktarda su içeren; sulu.",
+        "descriptionAZ": "Çoxlu şirə ehtiva edən; şirəli."
     }, {
         "de": "knackig",
         "en": "crunchy",
         "ru": "хрустящий",
+        "uk": "хрусткий",
+        "tr": "gevrek",
+        "az": "xırıldayan",
         "descriptionEN": "Making a sharp noise when bitten or crushed.",
         "descriptionRU": "Издавать острый звук при укусе или раздавливании.",
-        "descriptionDE": "Ein scharfes Geräusch machen, wenn es gebissen oder zerdrückt wird."
+        "descriptionDE": "Ein scharfes Geräusch machen, wenn es gebissen oder zerdrückt wird.",
+        "descriptionUK": "Видавати гострий звук при укусі або роздавлюванні.",
+        "descriptionTR": "Isırıldığında veya ezildiğinde keskin bir ses çıkarmak.",
+        "descriptionAZ": "Dişləndikdə və ya əzildikdə kəskin bir səs çıxarmaq."
     }, {
         "de": "cremig",
         "en": "creamy",
         "ru": "сливочный",
+        "uk": "вершковий",
+        "tr": "kremsi",
+        "az": "kremli",
         "descriptionEN": "Containing, resembling, or having the consistency of cream.",
         "descriptionRU": "Содержащий, напоминающий или имеющий консистенцию сливок.",
-        "descriptionDE": "Cremig."
+        "descriptionDE": "Cremig.",
+        "descriptionUK": "Містить, нагадує або має консистенцію вершків.",
+        "descriptionTR": "Krema içeren, benzeyen veya krema kıvamında olan.",
+        "descriptionAZ": "Krema ehtiva edən, bənzəyən və ya krema qıvamında olan."
     }, {
         "de": "knusprig",
         "en": "crisp",
         "ru": "хрустящий",
+        "uk": "хрусткий",
+        "tr": "gevrek",
+        "az": "xırıldayan",
         "descriptionEN": "Conducive to or indicative of good health or well-being.",
         "descriptionRU": "Способствующий или указывающий на хорошее здоровье или благополучие.",
-        "descriptionDE": "Förderlich für oder ein Indiz für gute Gesundheit oder Wohlbefinden."
+        "descriptionDE": "Förderlich für oder ein Indiz für gute Gesundheit oder Wohlbefinden.",
+        "descriptionUK": "Сприяє або вказує на гарне здоров'я або добробут.",
+        "descriptionTR": "İyi sağlık veya refahı destekleyen veya gösteren.",
+        "descriptionAZ": "Yaxşı sağlamlıq və ya rifahı dəstəkləyən və ya göstərən."
     }, {
         "de": "herzhaft",
         "en": "hearty",
         "ru": "плотный",
+        "uk": "ситний",
+        "tr": "doyurucu",
+        "az": "doyurucu",
         "descriptionEN": "Satisfying and substantial.",
         "descriptionRU": "Удовлетворительный и существенный.",
-        "descriptionDE": "Befriedigend und substantiell."
+        "descriptionDE": "Befriedigend und substantiell.",
+        "descriptionUK": "Задовольняючий і суттєвий.",
+        "descriptionTR": "Doyurucu ve önemli.",
+        "descriptionAZ": "Doyurucu və əhəmiyyətli."
     }, {
         "de": "langsam",
         "en": "slowly",
         "ru": "медленно",
+        "uk": "повільно",
+        "tr": "yavaşça",
+        "az": "yavaş-yavaş",
         "descriptionEN": "At a slow speed; not quickly or fast.",
         "descriptionRU": "С медленной скоростью; не быстро или быстро.",
-        "descriptionDE": "Mit langsamer Geschwindigkeit; nicht schnell oder schnell."
+        "descriptionDE": "Mit langsamer Geschwindigkeit; nicht schnell oder schnell.",
+        "descriptionUK": "З повільною швидкістю; не швидко або швидко.",
+        "descriptionTR": "Yavaş bir hızda; hızlı veya çabuk değil.",
+        "descriptionAZ": "Yavaş sürətlə; sürətli və ya tez deyil."
     }, {
         "de": "sorgfältig",
         "en": "carefully",
         "ru": "внимательно",
+        "uk": "ретельно",
+        "tr": "dikkatlice",
+        "az": "diqqətlə",
         "descriptionEN": "In a careful way; with caution.",
         "descriptionRU": "Осторожно; с осторожностью.",
-        "descriptionDE": "Aufmerksam; vorsichtig."
+        "descriptionDE": "Aufmerksam; vorsichtig.",
+        "descriptionUK": "Уважно; з обережністю.",
+        "descriptionTR": "Dikkatli bir şekilde; dikkatle.",
+        "descriptionAZ": "Diqqətlə; ehtiyatla."
     }, {
         "de": "schnell",
         "en": "quickly",
         "ru": "быстро",
+        "uk": "швидко",
+        "tr": "hızlıca",
+        "az": "tez",
         "descriptionEN": "At a fast speed.",
         "descriptionRU": "Со скоростью.",
-        "descriptionDE": "Mit hoher Geschwindigkeit."
+        "descriptionDE": "Mit hoher Geschwindigkeit.",
+        "descriptionUK": "З високою швидкістю.",
+        "descriptionTR": "Yüksek bir hızda.",
+        "descriptionAZ": "Yüksək sürətlə."
     }, {
         "de": "gleichmäßig",
         "en": "evenly",
         "ru": "равномерно",
+        "uk": "рівномірно",
+        "tr": "eşit şekilde",
+        "az": "bərabər şəkildə",
         "descriptionEN": "In a way that is level and regular; uniformly.",
         "descriptionRU": "Так, чтобы быть уровнем и регулярно; равномерно.",
-        "descriptionDE": "Auf eine gleichmäßige und regelmäßige Weise; gleichmäßig."
+        "descriptionDE": "Auf eine gleichmäßige und regelmäßige Weise; gleichmäßig.",
+        "descriptionUK": "Так, щоб бути рівнем і регулярно; рівномірно.",
+        "descriptionTR": "Düzgün ve düzenli bir şekilde; eşit olarak.",
+        "descriptionAZ": "Düzgün və müntəzəm bir şəkildə; bərabər olaraq."
     }, {
         "de": "automatisch",
         "en": "automatically",
         "ru": "автоматически",
+        "uk": "автоматично",
+        "tr": "otomatik olarak",
+        "az": "avtomatik olaraq",
         "descriptionEN": "By itself; without human intervention.",
         "descriptionRU": "Сам по себе; без вмешательства человека.",
-        "descriptionDE": "Von selbst; ohne menschliches Eingreifen."
+        "descriptionDE": "Von selbst; ohne menschliches Eingreifen.",
+        "descriptionUK": "Само по собі; без втручання людини.",
+        "descriptionTR": "Kendi kendine; insan müdahalesi olmadan.",
+        "descriptionAZ": "Öz-özünə; insan müdaxiləsi olmadan."
     }, {
         "de": "gleichzeitig",
         "en": "simultaneously",
         "ru": "одновременно",
+        "uk": "одночасно",
+        "tr": "aynı anda",
+        "az": "eyni zamanda",
         "descriptionEN": "At the same time.",
         "descriptionRU": "В то же время.",
-        "descriptionDE": "Gleichzeitig."
+        "descriptionDE": "Gleichzeitig.",
+        "descriptionUK": "В той же час.",
+        "descriptionTR": "Aynı zamanda.",
+        "descriptionAZ": "Eyni zamanda."
     }, {
         "de": "leicht",
         "en": "lightly",
         "ru": "легко",
+        "uk": "легко",
+        "tr": "hafifçe",
+        "az": "yüngülcə",
         "descriptionEN": "With little weight, force, or difficulty.",
         "descriptionRU": "С малым весом, силой или трудностью.",
-        "descriptionDE": "Mit wenig Gewicht, Kraft oder Schwierigkeit."
+        "descriptionDE": "Mit wenig Gewicht, Kraft oder Schwierigkeit.",
+        "descriptionUK": "З малим вагою, силою чи труднощами.",
+        "descriptionTR": "Az ağırlık, kuvvet veya zorlukla.",
+        "descriptionAZ": "Az çəki, qüvvə və ya çətinliklə."
     }, {
         "de": "vorsichtig",
         "en": "carefully",
         "ru": "осторожно",
+        "uk": "обережно",
+        "tr": "dikkatlice",
+        "az": "diqqətlə",
         "descriptionEN": "With caution to avoid danger or harm.",
         "descriptionRU": "С осторожностью, чтобы избежать опасности или вреда.",
-        "descriptionDE": "Mit Vorsicht, um Gefahr oder Schaden zu vermeiden."
+        "descriptionDE": "Mit Vorsicht, um Gefahr oder Schaden zu vermeiden.",
+        "descriptionUK": "З обережністю, щоб уникнути небезпеки чи шкоди.",
+        "descriptionTR": "Tehlike veya zarardan kaçınmak için dikkatle.",
+        "descriptionAZ": "Təhlükə və ya zərərdən qaçmaq üçün diqqətlə."
     }, {
         "de": "reichlich",
         "en": "plentifully",
         "ru": "обильно",
+        "uk": "вдосталь",
+        "tr": "bolca",
+        "az": "bol-bol",
         "descriptionEN": "In large amounts or quantities; in abundance.",
         "descriptionRU": "В больших количествах или объемах; в изобилии.",
-        "descriptionDE": "In großen Mengen oder Quantitäten; im Überfluss."
+        "descriptionDE": "In großen Mengen oder Quantitäten; im Überfluss.",
+        "descriptionUK": "У великих кількостях чи обсягах; вдосталь.",
+        "descriptionTR": "Büyük miktarlarda veya miktarlarda; bolluk içinde.",
+        "descriptionAZ": "Böyük miqdarda və ya miqdarda; bolluq içində."
     }, {
         "de": "genau",
         "en": "precisely",
         "ru": "точно",
+        "uk": "точно",
+        "tr": "tam olarak",
+        "az": "dəqiq",
         "descriptionEN": "In a way that is exact and accurate.",
         "descriptionRU": "Точно и точно.",
-        "descriptionDE": "Auf eine genaue und präzise Weise."
+        "descriptionDE": "Auf eine genaue und präzise Weise.",
+        "descriptionUK": "Точно і точно.",
+        "descriptionTR": "Tam ve doğru bir şekilde.",
+        "descriptionAZ": "Dəqiq və dəqiq bir şəkildə."
     }
 ]

@@ -6,8 +6,8 @@
             "de": "Familienfeier",
             "ru": "Семейное торжество"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Familienfeier.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Familienfeier.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Familienfeier.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Familienfeier.json"
     }, {
         "id": 2,
         "title": {
@@ -15,8 +15,8 @@
             "de": "Naturparadies",
             "ru": "Убежище природы"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Naturparadies.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Naturparadies.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Naturparadies.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Naturparadies.json"
     }, {
         "id": 3,
         "title": {
@@ -24,8 +24,8 @@
             "de": "Pizzatraum",
             "ru": "Мечта о пицце"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Pizzatraum.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Pizzatraum.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Pizzatraum.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Pizzatraum.json"
     }, {
         "id": 4,
         "title": {
@@ -33,8 +33,8 @@
             "de": "Frau Wilsons Fahrrad",
             "ru": "Велосипед Фрау Уилсон"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Radfahren.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Radfahren.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Radfahren.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Radfahren.json"
     }, {
         "id": 5,
         "title": {
@@ -42,8 +42,8 @@
             "de": "Garten Erfolg",
             "ru": "Успех сада"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Tomaten.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Tomaten.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Tomaten.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Tomaten.json"
     }, {
         "id": 6,
         "title": {
@@ -51,8 +51,8 @@
             "de": "Neue Freundin",
             "ru": "Новая подруга"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Freundin.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Freundin.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Freundin.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Freundin.json"
     }, {
         "id": 7,
         "title": {
@@ -60,8 +60,8 @@
             "de": "Lilys Güte",
             "ru": "Доброта Лили"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Verlorener.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Verlorener.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Verlorener.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Verlorener.json"
     }, {
         "id": 8,
         "title": {
@@ -69,8 +69,8 @@
             "de": "Traumjob",
             "ru": "Работа мечты"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Joel.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Joel.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Joel.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Joel.json"
     }, {
         "id": 9,
         "title": {
@@ -78,8 +78,8 @@
             "de": "Stürmische Woche",
             "ru": "Штормовая неделя"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Stormy.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Stormy.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Stormy.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Stormy.json"
     }, {
         "id": 10,
         "title": {
@@ -87,8 +87,8 @@
             "de": "Sophies Umzug",
             "ru": "Переезд Софи"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Sophie.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Sophie.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Sophie.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Sophie.json"
     }, {
         "id": 11,
         "title": {
@@ -96,8 +96,8 @@
             "de": "Ein Tag eines Kochs",
             "ru": "День шеф-повара"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/KulinarikNew.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Kulinarik.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/KulinarikNew.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Kulinarik.json"
     }, {
         "id": 12,
         "title": {
@@ -105,8 +105,8 @@
             "de": "Lenas Reise",
             "ru": "Путешествие Лены"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Lena.png",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lena.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Lena.png",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Lena.json"
     }, {
         "id": 13,
         "title": {
@@ -114,8 +114,8 @@
             "de": "Thomas' Favoriten",
             "ru": "Любимое Томаса"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Thomas.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Thomas.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Thomas.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Thomas.json"
     }, {
         "id": 14,
         "title": {
@@ -123,8 +123,8 @@
             "de": "Lilys Abenteuer",
             "ru": "Приключения Лили"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Lily.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Lily.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Lily.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Lily.json"
     }, {
         "id": 15,
         "title": {
@@ -132,7 +132,7 @@
             "de": "Kaffeetradition",
             "ru": "Традиция кофе"
         },
-        "image": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/img/Kaffeetradition.jpg",
-        "filename": "https://sideprojects-777.github.io/DatabaseDE/data/listening/einfach/words/Kaffeetradition.json"
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Kaffeetradition.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Kaffeetradition.json"
     }
 ]
