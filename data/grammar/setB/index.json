@@ -4,7 +4,10 @@
         "description": {
             "en": "Nominative",
             "de": "Nominativ",
-            "ru": "Именительный"
+            "ru": "Именительный",
+            "tr": "Yalın hal",
+            "uk": "Називний відмінок",
+            "az": "Adlıq hal"
         },
         "file": "nominativ.json",
         "level": "A2",
@@ -15,7 +18,10 @@
         "description": {
             "en": "Plurals",
             "de": "Plurale",
-            "ru": "Множественное число"
+            "ru": "Множественное число",
+            "tr": "Çoğul",
+            "uk": "Множина",
+            "az": "Cəm"
         },
         "file": "plurals.json",
         "level": "A2",
@@ -26,7 +32,10 @@
         "description": {
             "en": "Adjective declensions",
             "de": "Adjektivdeklinationen",
-            "ru": "Склонения прилагательных"
+            "ru": "Склонения прилагательных",
+            "tr": "Sıfat çekimleri",
+            "uk": "Відмінювання прикметників",
+            "az": "Sifət çekimləri"
         },
         "file": "adjektivdeklinationen.json",
         "level": "A2",
@@ -37,7 +46,10 @@
         "description": {
             "en": "Fill in the blanks",
             "de": "Füllen Sie die Leerstellen aus",
-            "ru": "Заполните пробелы"
+            "ru": "Заполните пробелы",
+            "tr": "Boşlukları doldurun",
+            "uk": "Заповніть пропуски",
+            "az": "Boşluqları doldurun"
         },
         "file": "missing.json",
         "level": "A2",
@@ -48,7 +60,10 @@
         "description": {
             "en": "Conjugation",
             "de": "Konjugation",
-            "ru": "Спряжение"
+            "ru": "Спряжение",
+            "tr": "Çekim",
+            "uk": "Дієвідмінювання",
+            "az": "Feil çəkilişi"
         },
         "file": "conjugation.json",
         "level": "A2",
@@ -59,7 +74,10 @@
         "description": {
             "en": "Synonyms",
             "de": "Synonyme",
-            "ru": "Синонимы"
+            "ru": "Синонимы",
+            "tr": "Eş anlamlılar",
+            "uk": "Синоніми",
+            "az": "Sinonimlər"
         },
         "file": "synonym.json",
         "level": "A2",
@@ -70,7 +88,10 @@
         "description": {
             "en": "Antonyms",
             "de": "Antonyme",
-            "ru": "Антонимы"
+            "ru": "Антонимы",
+            "tr": "Zıt anlamlılar",
+            "uk": "Антоніми",
+            "az": "Antonimlər"
         },
         "file": "antonyms.json",
         "level": "A2",
@@ -81,7 +102,10 @@
         "description": {
             "en": "Akkusativ",
             "de": "Akkusativ",
-            "ru": "Аккузатив"
+            "ru": "Аккузатив",
+            "tr": "Aküzatif",
+            "uk": "Акузатив",
+            "az": "Akuzativ"
         },
         "file": "akkusativ.json",
         "level": "A2",

@@ -4,7 +4,10 @@
         "description": {
             "en": "Introduction I",
             "de": "Vorstellung I",
-            "ru": "Знакомство I"
+            "ru": "Знакомство I",
+            "tr": "Tanıtım I",
+            "uk": "Знайомство I",
+            "az": "Tanışlıq I"
         },
         "file": "introduction.json",
         "level": "A1",
@@ -15,7 +18,10 @@
         "description": {
             "en": "Introduction II",
             "de": "Vorstellung II",
-            "ru": "Знакомство II"
+            "ru": "Знакомство II",
+            "tr": "Tanıtım II",
+            "uk": "Знайомство II",
+            "az": "Tanışlıq II"
         },
         "file": "hallo.json",
         "level": "A1",
@@ -26,7 +32,10 @@
         "description": {
             "en": "Family",
             "de": "Familie",
-            "ru": "Семья"
+            "ru": "Семья",
+            "tr": "Aile",
+            "uk": "Сім’я",
+            "az": "Ailə"
         },
         "file": "family.json",
         "level": "A1",
@@ -37,7 +46,10 @@
         "description": {
             "en": "Colors",
             "de": "Farben",
-            "ru": "Цвета"
+            "ru": "Цвета",
+            "tr": "Renkler",
+            "uk": "Кольори",
+            "az": "Rənglər"
         },
         "file": "farben.json",
         "level": "A1",
@@ -48,7 +60,10 @@
         "description": {
             "en": "Correct response",
             "de": "Richtige Antwort",
-            "ru": "Правильный ответ"
+            "ru": "Правильный ответ",
+            "tr": "Doğru cevap",
+            "uk": "Правильна відповідь",
+            "az": "Düzgün cavab"
         },
         "file": "fragenbogen.json",
         "level": "A1",
@@ -59,7 +74,10 @@
         "description": {
             "en": "Fill in the blanks I",
             "de": "Füllen Sie die Leerstellen aus I",
-            "ru": "Заполните пробелы I"
+            "ru": "Заполните пробелы I",
+            "tr": "Boşlukları doldurun I",
+            "uk": "Заповніть пропуски I",
+            "az": "Boşluqları doldurun I"
         },
         "file": "blanksA1.json",
         "level": "A1",
@@ -70,7 +88,10 @@
         "description": {
             "en": "Fill in the blanks II",
             "de": "Füllen Sie die Leerstellen aus II",
-            "ru": "Заполните пробелы II"
+            "ru": "Заполните пробелы II",
+            "tr": "Boşlukları doldurun II",
+            "uk": "Заповніть пропуски II",
+            "az": "Boşluqları doldurun II"
         },
         "file": "blanksA11.json",
         "level": "A1",
@@ -81,7 +102,10 @@
         "description": {
             "en": "Numbers",
             "de": "Zahlen",
-            "ru": "Цифры"
+            "ru": "Цифры",
+            "tr": "Sayılar",
+            "uk": "Числа",
+            "az": "Sayılar"
         },
         "file": "zahlen.json",
         "level": "A1",
@@ -92,7 +116,10 @@
         "description": {
             "en": "Sentences",
             "de": "Sätze",
-            "ru": "Предложения"
+            "ru": "Предложения",
+            "tr": "Cümleler",
+            "uk": "Речення",
+            "az": "Cümlələr"
         },
         "file": "sentences.json",
         "level": "A1",
@@ -103,7 +130,10 @@
         "description": {
             "en": "Articles",
             "de": "Artikel",
-            "ru": "Aртикли"
+            "ru": "Aртикли",
+            "tr": "Artikeller",
+            "uk": "Артиклі",
+            "az": "Artikllər"
         },
         "file": "article.json",
         "level": "A1",
