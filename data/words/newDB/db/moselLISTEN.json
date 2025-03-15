@@ -1,153 +1,183 @@
 [
     {
-      "id": 1,
-      "title": {
-        "en": "Museums",
-        "de": "Museen",
-        "ru": "Музеи"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Museums.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Museums.json"
-    },
-    {
-      "id": 2,
-      "title": {
-        "en": "Discover the Mosel",
-        "de": "Entdecke die Mosel",
-        "ru": "Откройте Мозель"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Mosel.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Mosel.json"
-    },
-    {
-      "id": 3,
-      "title": {
-        "en": "Murder Mystery",
-        "de": "Mordrätsel",
-        "ru": "Расследование убийства"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Murder.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Murder.json"
-    },
-    {
-      "id": 4,
-      "title": {
-        "en": "Discover Germany",
-        "de": "Entdecke Deutschland",
-        "ru": "Знакомство с Германией"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Entdecke.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Entdecke.json"
-    },
-    {
-      "id": 5,
-      "title": {
-        "en": "Highlights",
-        "de": "Höhepunkte",
-        "ru": "Основные моменты"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Highlights.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Highlights.json"
-    },
-    {
-      "id": 6,
-      "title": {
-        "en": "Medieval Beilstein",
-        "de": "Mittelalterliches Beilstein",
-        "ru": "Средневековый Бейльштайн"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Beilstein.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Beilstein.json"
-    },
-    {
-      "id": 7,
-      "title": {
-        "en": "Cuisine Highlights",
-        "de": "Küchen-Highlights",
-        "ru": "Блюда Мозеля"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Cuisine.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Cuisine.json"
-    },
-    {
-      "id": 8,
-      "title": {
-        "en": "Festivals I",
-        "de": "Feste I",
-        "ru": "Фестивали 1"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Festival_I.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Festival_I.json"
-    },
-    {
-      "id": 9,
-      "title": {
-        "en": "Festivals II",
-        "de": "Feste II",
-        "ru": "Фестивали 2"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Festival_II.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Festival_II.json"
-    },
-    {
-      "id": 10,
-      "title": {
-        "en": "Hunsrück-Mosel Connection",
-        "de": "Hunsrück-Mosel-Verbindung",
-        "ru": "Связь Хунсрюк-Мозель"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Hunsruck.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Hunsruck.json"
-    },
-    {
-      "id": 11,
-      "title": {
-        "en": "Biodiversity",
-        "de": "Biodiversität",
-        "ru": "Биоразнообразие"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/BiodiversityI.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/BiodiversityI.json"
-    },
-    {
-      "id": 12,
-      "title": {
-        "en": "Hidden Gems",
-        "de": "Verborgene Schätze",
-        "ru": "Скрытые жемчужины"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Attraktionen.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Attraktionen.json"
-    },
-    {
-      "id": 13,
-      "title": {
-        "en": "Journey Through Germany",
-        "de": "Reise durch Deutschland",
-        "ru": "Путешествие по Германии"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Germany.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Germany.json"
-    },
-    {
-      "id": 14,
-      "title": {
-        "en": "Mosel Wine History",
-        "de": "Mosel Wein Geschichte",
-        "ru": "История вина Мозеля"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/WineHistory.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/WineHistory.json"
-    },
-    {
-      "id": 15,
-      "title": {
-        "en": "The Hidden Tunnel",
-        "de": "Der geheime Tunnel",
-        "ru": "Тайный тоннель"
-      },
-      "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/HiddenTunnel.jpg",
-      "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/HiddenTunnel.json"
+        "id": 1,
+        "title": {
+            "en": "Museums",
+            "de": "Museen",
+            "ru": "Музеи",
+            "tr": "Müzeler",
+            "uk": "Музеї",
+            "az": "Muzeylər"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Museums.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Museums.json"
+    }, {
+        "id": 2,
+        "title": {
+            "en": "Discover the Mosel",
+            "de": "Entdecke die Mosel",
+            "ru": "Откройте Мозель",
+            "tr": "Mosel'i Keşfet",
+            "uk": "Відкрийте Мозель",
+            "az": "Mosel-i Kəşf Et"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Mosel.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Mosel.json"
+    }, {
+        "id": 3,
+        "title": {
+            "en": "Murder Mystery",
+            "de": "Mordrätsel",
+            "ru": "Расследование убийства",
+            "tr": "Cinayet Gizemi",
+            "uk": "Загадкове вбивство",
+            "az": "Qətl Sirri"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Murder.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Murder.json"
+    }, {
+        "id": 4,
+        "title": {
+            "en": "Discover Germany",
+            "de": "Entdecke Deutschland",
+            "ru": "Знакомство с Германией",
+            "tr": "Almanya'yı Keşfet",
+            "uk": "Відкрийте Німеччину",
+            "az": "Almaniyanı Kəşf Et"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Entdecke.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Entdecke.json"
+    }, {
+        "id": 5,
+        "title": {
+            "en": "Highlights",
+            "de": "Höhepunkte",
+            "ru": "Основные моменты",
+            "tr": "Öne Çıkanlar",
+            "uk": "Найяскравіше",
+            "az": "Ən Yaddaqalan Anlar"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Highlights.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Highlights.json"
+    }, {
+        "id": 6,
+        "title": {
+            "en": "Medieval Beilstein",
+            "de": "Mittelalterliches Beilstein",
+            "ru": "Средневековый Бейльштайн",
+            "tr": "Orta Çağ Beilstein",
+            "uk": "Середньовічний Бейльштайн",
+            "az": "Orta Əsrlər Beilstein"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Beilstein.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Beilstein.json"
+    }, {
+        "id": 7,
+        "title": {
+            "en": "Cuisine Highlights",
+            "de": "Küchen-Highlights",
+            "ru": "Блюда Мозеля",
+            "tr": "Yemek Lezzetleri",
+            "uk": "Кулінарні родзинки",
+            "az": "Mətbəx Ləzzətləri"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Cuisine.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Cuisine.json"
+    }, {
+        "id": 8,
+        "title": {
+            "en": "Festivals I",
+            "de": "Feste I",
+            "ru": "Фестивали 1",
+            "tr": "Festivaller I",
+            "uk": "Фестивалі I",
+            "az": "Festival I"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Festival_I.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Festival_I.json"
+    }, {
+        "id": 9,
+        "title": {
+            "en": "Festivals II",
+            "de": "Feste II",
+            "ru": "Фестивали 2",
+            "tr": "Festivaller II",
+            "uk": "Фестивалі II",
+            "az": "Festival II"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Festival_II.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Festival_II.json"
+    }, {
+        "id": 10,
+        "title": {
+            "en": "Hunsrück-Mosel Connection",
+            "de": "Hunsrück-Mosel-Verbindung",
+            "ru": "Связь Хунсрюк-Мозель",
+            "tr": "Hunsrück-Mosel Bağlantısı",
+            "uk": "Зв’язок Гунсрюк-Мозель",
+            "az": "Hunsrück-Mosel Əlaqəsi"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Hunsruck.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Hunsruck.json"
+    }, {
+        "id": 11,
+        "title": {
+            "en": "Biodiversity",
+            "de": "Biodiversität",
+            "ru": "Биоразнообразие",
+            "tr": "Biyoçeşitlilik",
+            "uk": "Біорізноманіття",
+            "az": "Biodiversiklik"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/BiodiversityI.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/BiodiversityI.json"
+    }, {
+        "id": 12,
+        "title": {
+            "en": "Hidden Gems",
+            "de": "Verborgene Schätze",
+            "ru": "Скрытые жемчужины",
+            "tr": "Gizli Cevherler",
+            "uk": "Приховані перлини",
+            "az": "Gizli İncilər"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Attraktionen.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Attraktionen.json"
+    }, {
+        "id": 13,
+        "title": {
+            "en": "Journey Through Germany",
+            "de": "Reise durch Deutschland",
+            "ru": "Путешествие по Германии",
+            "tr": "Almanya Yolculuğu",
+            "uk": "Подорож Німеччиною",
+            "az": "Almaniyada Səyahət"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/Germany.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/Germany.json"
+    }, {
+        "id": 14,
+        "title": {
+            "en": "Mosel Wine History",
+            "de": "Mosel Wein Geschichte",
+            "ru": "История вина Мозеля",
+            "tr": "Mosel Şarap Tarihi",
+            "uk": "Історія вина Мозеля",
+            "az": "Mosel Şərab Tarixi"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/WineHistory.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/WineHistory.json"
+    }, {
+        "id": 15,
+        "title": {
+            "en": "The Hidden Tunnel",
+            "de": "Der geheime Tunnel",
+            "ru": "Тайный тоннель",
+            "tr": "Gizli Tünel",
+            "uk": "Таємний тунель",
+            "az": "Gizli Tunel"
+        },
+        "image": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/img/HiddenTunnel.jpg",
+        "filename": "https://discoverde.github.io/DatabaseDE/data/listening/mosel/words/HiddenTunnel.json"
     }
-  ]
-  
+]

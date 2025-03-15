@@ -1,32 +1,44 @@
 [
     {
         "name": {
-            "de": "Einfach Stadt",
             "en": "Simple city",
-            "ru": "Просто город"
+            "de": "Einfach Stadt",
+            "ru": "Просто город",
+            "tr": "Basit şehir",
+            "uk": "Просте місто",
+            "az": "Sadə şəhər"
         },
         "folder": "einfach",
         "description": {
-            "de": "Stadt für Anfänger",
             "en": "City for beginners",
-            "ru": "Город для новичков"
+            "de": "Stadt für Anfänger",
+            "ru": "Город для новичков",
+            "tr": "Yeni başlayanlar için şehir",
+            "uk": "Місто для початківців",
+            "az": "Başlayanlar üçün şəhər"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.mp4",
-        "amountOfStories": 15 ,
+        "amountOfStories": 15,
         "active": true,
         "hasVideo": true
     }, {
         "name": {
-            "de": "Cologne",
             "en": "Cologne",
-            "ru": "Кёльн"
+            "de": "Köln",
+            "ru": "Кёльн",
+            "tr": "Köln",
+            "uk": "Кельн",
+            "az": "Köln"
         },
         "folder": "cologne",
         "description": {
-            "de": "Domstadt",
             "en": "Cathedral city",
-            "ru": "Город собора"
+            "de": "Domstadt",
+            "ru": "Город собора",
+            "tr": "Katedral şehri",
+            "uk": "Місто собору",
+            "az": "Katedral şəhəri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.mp4",
@@ -35,15 +47,21 @@
         "hasVideo": true
     }, {
         "name": {
-            "de": "Bonn",
             "en": "Bonn",
-            "ru": "Бонн"
+            "de": "Bonn",
+            "ru": "Бонн",
+            "tr": "Bonn",
+            "uk": "Бонн",
+            "az": "Bonn"
         },
         "folder": "bonn",
         "description": {
-            "de": "Der Geburtsort von Beethoven",
             "en": "The birthplace of Beethoven",
-            "ru": "Родина Бетховена"
+            "de": "Der Geburtsort von Beethoven",
+            "ru": "Родина Бетховена",
+            "tr": "Beethoven'in doğum yeri",
+            "uk": "Батьківщина Бетховена",
+            "az": "Beethovenin doğum yeri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.mp4",
@@ -52,15 +70,21 @@
         "hasVideo": true
     }, {
         "name": {
-            "de": "Düsseldorf",
             "en": "Düsseldorf",
-            "ru": "Дюссельдорф"
+            "de": "Düsseldorf",
+            "ru": "Дюссельдорф",
+            "tr": "Düsseldorf",
+            "uk": "Дюссельдорф",
+            "az": "Düsseldorf"
         },
         "folder": "dusseldorf",
         "description": {
-            "de": "Belebte Mode- und Handelsmessen",
             "en": "Bustling fashion and trade fairs",
-            "ru": "Оживленные ярмарки моды и торговли"
+            "de": "Belebte Mode- und Handelsmessen",
+            "ru": "Оживленные ярмарки моды и торговли",
+            "tr": "Canlı moda ve ticaret fuarları",
+            "uk": "Жваві ярмарки моди та торгівлі",
+            "az": "Canlı moda və ticarət sərgiləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/dus1.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/dusseldorfLISTEN.mp4",
@@ -69,15 +93,21 @@
         "hasVideo": true
     }, {
         "name": {
-            "de": "Koblenz",
             "en": "Koblenz",
-            "ru": "Кобленц"
+            "de": "Koblenz",
+            "ru": "Кобленц",
+            "tr": "Koblenz",
+            "uk": "Кобленц",
+            "az": "Koblenz"
         },
         "folder": "koblenz",
         "description": {
-            "de": "Der Zusammenfluss von Rhein und Mosel",
             "en": "The confluence of the Rhine and Moselle",
-            "ru": "Слияние рек Рейн и Мозель"
+            "de": "Der Zusammenfluss von Rhein und Mosel",
+            "ru": "Слияние рек Рейн и Мозель",
+            "tr": "Ren ve Moselle nehirlerinin birleşimi",
+            "uk": "Злиття річок Рейн і Мозель",
+            "az": "Ren və Moselle çaylarının birləşməsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.mp4",
@@ -86,15 +116,21 @@
         "hasVideo": true
     }, {
         "name": {
-            "de": "Mosel",
             "en": "Moselle",
-            "ru": "Мозель"
+            "de": "Mosel",
+            "ru": "Мозель",
+            "tr": "Mosel",
+            "uk": "Мозель",
+            "az": "Mosel"
         },
         "folder": "mosel",
         "description": {
-            "de": "Ein Weinbaugebiet",
             "en": "A wine region",
-            "ru": "Винодельческий регион"
+            "de": "Ein Weinbaugebiet",
+            "ru": "Винодельческий регион",
+            "tr": "Bir şarap bölgesi",
+            "uk": "Виноробний регіон",
+            "az": "Şərab bölgəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.jpg",
         "video": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.mp4",

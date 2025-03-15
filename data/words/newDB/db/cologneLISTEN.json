@@ -4,7 +4,10 @@
         "title": {
             "de": "Ein Tag in Köln",
             "en": "A Day in Cologne",
-            "ru": "День в Кёльне"
+            "ru": "День в Кёльне",
+            "tr": "Köln'de Bir Gün",
+            "uk": "День у Кельні",
+            "az": "Köln-də Bir Gün"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Maraike.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Maraike.json"
@@ -13,7 +16,10 @@
         "title": {
             "de": "Adrians Köln",
             "en": "Adrian's Cologne",
-            "ru": "Кельн Адриана"
+            "ru": "Кельн Адриана",
+            "tr": "Adrian’ın Köln’ü",
+            "uk": "Кельн Адріана",
+            "az": "Adrianın Kölnü"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/ExploringCologne.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/ExploringCologne.json"
@@ -22,7 +28,10 @@
         "title": {
             "de": "Einkaufsabenteuer",
             "en": "Shopping Adventure",
-            "ru": "Приключение в магазине"
+            "ru": "Приключение в магазине",
+            "tr": "Alışveriş Macerası",
+            "uk": "Пригода покупок",
+            "az": "Alış-veriş Macərası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Einkaufen.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Einkaufen.json"
@@ -31,25 +40,34 @@
         "title": {
             "de": "Kölner Begegnung",
             "en": "Meeting in Cologne",
-            "ru": "Знакомство в Кельне"
+            "ru": "Знакомство в Кельне",
+            "tr": "Köln'de Buluşma",
+            "uk": "Зустріч у Кельні",
+            "az": "Köln-də Görüş"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Meeting_Cologne.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Meeting_Cologne.json"
     }, {
         "id": 5,
         "title": {
-            "en": "Urban Dreamers",
             "de": "Stadträume",
-            "ru": "Городские мечтатели"
+            "en": "Urban Dreamers",
+            "ru": "Городские мечтатели",
+            "tr": "Kentsel Hayalperestler",
+            "uk": "Міські мрійники",
+            "az": "Şəhər Xəyalpərəstləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/FriendshipWork.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/FriendshipWork.json"
     }, {
         "id": 6,
         "title": {
-            "en": "Fragrant Legacy",
             "de": "Duftvolles Erbe",
-            "ru": "Ароматное наследие"
+            "en": "Fragrant Legacy",
+            "ru": "Ароматное наследие",
+            "tr": "Kokulu Miras",
+            "uk": "Запашна спадщина",
+            "az": "Ətirli İrs"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Parfum.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Parfum.json"
@@ -58,7 +76,10 @@
         "title": {
             "de": "Morgenerlebnisse",
             "en": "Morning Explorations",
-            "ru": "Утренние приключения"
+            "ru": "Утренние приключения",
+            "tr": "Sabah Maceraları",
+            "uk": "Ранкові пригоди",
+            "az": "Səhər Macəraları"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/MorgenerlebnisseI.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/MorgenerlebnisseI.json"
@@ -67,7 +88,10 @@
         "title": {
             "de": "Schokoladenparadies",
             "en": "Chocolate Paradise",
-            "ru": "Шоколадный рай"
+            "ru": "Шоколадный рай",
+            "tr": "Çikolata Cenneti",
+            "uk": "Шоколадний рай",
+            "az": "Şokolad Cənnəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Schokoladenparadies.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Schokoladenparadies.json"
@@ -76,7 +100,10 @@
         "title": {
             "de": "Freundschaft",
             "en": "Friendship",
-            "ru": "Дружба"
+            "ru": "Дружба",
+            "tr": "Dostluk",
+            "uk": "Дружба",
+            "az": "Dostluq"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Friendship.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Friendship.json"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Osterfest",
             "en": "Easter festival",
-            "ru": "Пасха"
+            "ru": "Пасха",
+            "tr": "Paskalya Festivali",
+            "uk": "Великодній фестиваль",
+            "az": "Pasxa Bayramı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Ostern.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Ostern.json"
@@ -94,7 +124,10 @@
         "title": {
             "de": "Unvergessliche Begegnungen",
             "en": "Memorable Encounters",
-            "ru": "Незабвенные встречи"
+            "ru": "Незабвенные встречи",
+            "tr": "Unutulmaz Karşılaşmalar",
+            "uk": "Незабутні зустрічі",
+            "az": "Unudulmaz Qarşılaşmalar"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Seilbahn.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Seilbahn.json"
@@ -103,7 +136,10 @@
         "title": {
             "de": "Meine Familie",
             "en": "My family",
-            "ru": "Моя семья"
+            "ru": "Моя семья",
+            "tr": "Ailem",
+            "uk": "Моя сім’я",
+            "az": "Ailəm"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Sarah.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Sarah.json"
@@ -112,7 +148,10 @@
         "title": {
             "de": "Flughafen Bonn/Köln",
             "en": "Bonn/Cologne Airport",
-            "ru": "Аэропорт Бонн/Кельн"
+            "ru": "Аэропорт Бонн/Кельн",
+            "tr": "Bonn/Köln Havalimanı",
+            "uk": "Аеропорт Бонн/Кельн",
+            "az": "Bonn/Köln Hava Limanı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Flughafen_Cologne_Bonn.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Flughafen_Cologne_Bonn.json"
@@ -121,7 +160,10 @@
         "title": {
             "de": "Kölns Erbe",
             "en": "Cologne's Heritage",
-            "ru": "Наследие Кёльна"
+            "ru": "Наследие Кёльна",
+            "tr": "Köln'ün Mirası",
+            "uk": "Спадщина Кельна",
+            "az": "Köln İrsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Literatur.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Literatur.json"
@@ -130,7 +172,10 @@
         "title": {
             "de": "Kölner Messe",
             "en": "Cologne Fair",
-            "ru": "Кельнская Ярмарка"
+            "ru": "Кельнская Ярмарка",
+            "tr": "Köln Fuarı",
+            "uk": "Кельнський ярмарок",
+            "az": "Köln Yarmarkası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/img/Koelnmesse.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/cologne/words/Koelnmesse.json"

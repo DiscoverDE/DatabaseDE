@@ -3,12 +3,18 @@
         "name": {
             "de": "Fahrradtour",
             "en": "Bike tour",
-            "ru": "Велосипедный тур"
+            "ru": "Велосипедный тур",
+            "tr": "Bisiklet Turu",
+            "uk": "Велосипедний тур",
+            "az": "Velosiped Turu"
         },
         "description": {
             "de": "Picknick am See",
             "en": "Picnic at the lake",
-            "ru": "Пикник на озере"
+            "ru": "Пикник на озере",
+            "tr": "Gölde Piknik",
+            "uk": "Пікнік біля озера",
+            "az": "Göldə Piknik"
         },
         "level": "A2",
         "image": "Fahrradtour.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "de": "Markus' Ermittlung",
             "en": "Markus' Investigation",
-            "ru": "Расследование Маркуса"
+            "ru": "Расследование Маркуса",
+            "tr": "Markus'un Soruşturması",
+            "uk": "Розслідування Маркуса",
+            "az": "Markusun Təhqiqatı"
         },
         "description": {
             "de": "Die Geheimnisse der verlorenen Tasche",
             "en": "The Mysteries of the Lost Purse",
-            "ru": "Тайны потерянной сумки"
+            "ru": "Тайны потерянной сумки",
+            "tr": "Kayıp Çantanın Sırları",
+            "uk": "Таємниці втраченої сумки",
+            "az": "İtirilmiş Çantanın Sirrləri"
         },
         "level": "A2",
         "image": "Geheimnisse.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "de": "Am Flughafen",
             "en": "At the airport",
-            "ru": "В аэропорту"
+            "ru": "В аэропорту",
+            "tr": "Havalimanında",
+            "uk": "В аеропорту",
+            "az": "Hava Limanında"
         },
         "description": {
             "de": "Der Urlaub der Familie Mueller",
             "en": "The Müller Family's Vacation",
-            "ru": "Отпуск семьи Мюллер"
+            "ru": "Отпуск семьи Мюллер",
+            "tr": "Müller Ailesinin Tatili",
+            "uk": "Відпустка сім'ї Мюллер",
+            "az": "Müller Ailəsinin Tətili"
         },
         "level": "A2",
         "image": "Am_Flughafen.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "de": "Meine Familie und Ich",
             "en": "My Family and I",
-            "ru": "Моя семья и я"
+            "ru": "Моя семья и я",
+            "tr": "Ailem ve Ben",
+            "uk": "Моя сім'я і я",
+            "az": "Ailəm və Mən"
         },
         "description": {
             "de": "Leben in Bonn",
             "en": "Life in Bonn",
-            "ru": "Жизнь в Бонне"
+            "ru": "Жизнь в Бонне",
+            "tr": "Bonn'da Yaşam",
+            "uk": "Життя в Бонні",
+            "az": "Bonn-da Həyat"
         },
         "level": "A2",
         "image": "LebenBonn.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "de": "Müllers Bonner Fall",
             "en": "Muller's Bonn case",
-            "ru": "Боннское дело Мюллера"
+            "ru": "Боннское дело Мюллера",
+            "tr": "Müller'in Bonn Davası",
+            "uk": "Боннська справа Мюллера",
+            "az": "Müller-in Bonn İşi"
         },
         "description": {
             "de": "Das gestohlene Gold",
             "en": "The Stolen Gold",
-            "ru": "Украденное золото"
+            "ru": "Украденное золото",
+            "tr": "Çalınan Altın",
+            "uk": "Викрадене золото",
+            "az": "Oğurlanmış Qızıl"
         },
         "level": "A2",
         "image": "Gold.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "de": "Julias Neue Welt",
             "en": "Julia's New Horizons",
-            "ru": "Новые горизонты Юлии"
+            "ru": "Новые горизонты Юлии",
+            "tr": "Julia'nın Yeni Ufukları",
+            "uk": "Нові горизонти Юлії",
+            "az": "Julia-nın Yeni Üfüqləri"
         },
         "description": {
             "de": "Von Stuttgart nach Bonn",
             "en": "From Stuttgart to Bonn",
-            "ru": "Из Штутгарта в Бонн"
+            "ru": "Из Штутгарта в Бонн",
+            "tr": "Stuttgart'tan Bonn'a",
+            "uk": "Зі Штутгарта до Бонна",
+            "az": "Stuttgart-dan Bonn-a"
         },
         "level": "B1",
         "image": "NeuStadt.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "de": "Das erste Mal in Bonn",
             "en": "First Time in Bonn",
-            "ru": "Первый раз в Бонне"
+            "ru": "Первый раз в Бонне",
+            "tr": "Bonn'da İlk Kez",
+            "uk": "Перший раз у Бонні",
+            "az": "Bonn-da İlk Dəfə"
         },
         "description": {
             "de": "Eine kleine Stadt mit einem großen Herzen",
             "en": "A Small City with a Big Heart",
-            "ru": "Маленький город с большим сердцем"
+            "ru": "Маленький город с большим сердцем",
+            "tr": "Büyük Bir Kalbe Sahip Küçük Bir Şehir",
+            "uk": "Маленьке місто з великим серцем",
+            "az": "Böyük Bir Ürəyə Sahib Kiçik Şəhər"
         },
         "level": "B1",
         "image": "ErsteMal.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "de": "Ein Wintermärchen",
             "en": "A Winter Wonderland",
-            "ru": "Зимняя сказка"
+            "ru": "Зимняя сказка",
+            "tr": "Bir Kış Masalı",
+            "uk": "Зимова казка",
+            "az": "Qış Nağılı"
         },
         "description": {
             "de": "Mein erstes Weihnachten",
             "en": "My First Christmas",
-            "ru": "Моё первое Рождество"
+            "ru": "Моё первое Рождество",
+            "tr": "İlk Noel'im",
+            "uk": "Моє перше Різдво",
+            "az": "İlk Miladım"
         },
         "level": "B1",
         "image": "MeinWeihnachten.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "de": "Bonn entdecken III",
             "en": "Discovering Bonn III",
-            "ru": "Знакомство с Бонном III"
+            "ru": "Знакомство с Бонном III",
+            "tr": "Bonn'u Keşfetmek III",
+            "uk": "Знайомство з Бонном III",
+            "az": "Bonn-u Kəşf Etmək III"
         },
         "description": {
             "de": "Lebensmitteleinkauf",
             "en": "Grocery Shopping",
-            "ru": "Продуктовые магазины"
+            "ru": "Продуктовые магазины",
+            "tr": "Market Alışverişi",
+            "uk": "Продуктові магазини",
+            "az": "Məişət Alış-verişi"
         },
         "level": "B1",
         "image": "Lebensmitteleinkauf.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "de": "Die Zusammenarbeit beim Karneval",
             "en": "The Carnival Collaboration",
-            "ru": "Сотрудничество на карнавале"
+            "ru": "Сотрудничество на карнавале",
+            "tr": "Karnaval İş Birliği",
+            "uk": "Співпраця на карнавалі",
+            "az": "Karnaval Əməkdaşlığı"
         },
         "description": {
             "de": "Eine Geschichte über Freundschaft und Kreativität",
             "en": "A Tale of Friendship and Creativity",
-            "ru": "Сказка о дружбе и творчестве"
+            "ru": "Сказка о дружбе и творчестве",
+            "tr": "Dostluk ve Yaratıcılık Hakkında Bir Hikaye",
+            "uk": "Казка про дружбу та творчість",
+            "az": "Dostluq və Yaradıcılıq Haqqında Bir Hekayə"
         },
         "level": "B1",
         "image": "CarnavalStory.png",
@@ -163,12 +223,18 @@
         "name": {
             "de": "Beethoven-Haus I",
             "en": "Beethoven House I",
-            "ru": "Дом Бетховена I"
+            "ru": "Дом Бетховена I",
+            "tr": "Beethoven Evi I",
+            "uk": "Дім Бетховена I",
+            "az": "Beethoven Evi I"
         },
         "description": {
             "de": "Überblick über das Museum",
             "en": "Overview of the museum",
-            "ru": "Обзор музея"
+            "ru": "Обзор музея",
+            "tr": "Müzenin Genel Bakışı",
+            "uk": "Огляд музею",
+            "az": "Muzeyin Ümumi Baxışı"
         },
         "level": "B2",
         "image": "BeethovenI.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "de": "Beethoven-Haus II",
             "en": "Beethoven House II",
-            "ru": "Дом Бетховена II"
+            "ru": "Дом Бетховена II",
+            "tr": "Beethoven Evi II",
+            "uk": "Дім Бетховена II",
+            "az": "Beethoven Evi II"
         },
         "description": {
             "de": "Hintergrund und seine Exponate",
             "en": "Background and its exhibits",
-            "ru": "История и ее экспонаты"
+            "ru": "История и ее экспонаты",
+            "tr": "Arka Plan ve Sergileri",
+            "uk": "Історія та її експонати",
+            "az": "Arxa Plan və Eksponatları"
         },
         "level": "B2",
         "image": "BeethovenII.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "de": "Hofgarten",
             "en": "Court garden",
-            "ru": "Сад во дворе"
+            "ru": "Сад во дворе",
+            "tr": "Saray Bahçesi",
+            "uk": "Сад у дворі",
+            "az": "Saray Bağı"
         },
         "description": {
             "de": "Veranstaltungsort politischer Großkundgebungen",
             "en": "Venue for major political rallies",
-            "ru": "Место проведения крупных политических митингов"
+            "ru": "Место проведения крупных политических митингов",
+            "tr": "Büyük Siyasi Mitinglerin Mekanı",
+            "uk": "Місце проведення великих політичних мітингів",
+            "az": "Böyük Siyasi Mitinqlərin Məkanı"
         },
         "level": "B2",
         "image": "Hofgarten.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "de": "Bonn entdecken I",
             "en": "Discovering Bonn I",
-            "ru": "Знакомство с Бонном I"
+            "ru": "Знакомство с Бонном I",
+            "tr": "Bonn'u Keşfetmek I",
+            "uk": "Знайомство з Бонном I",
+            "az": "Bonn-u Kəşf Etmək I"
         },
         "description": {
             "de": "Straßen",
             "en": "Streets",
-            "ru": "Улицы"
+            "ru": "Улицы",
+            "tr": "Sokaklar",
+            "uk": "Вулиці",
+            "az": "Küçələr"
         },
         "level": "B2",
         "image": "BonnStreets.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "de": "Bonn entdecken II",
             "en": "Discovering Bonn II",
-            "ru": "Знакомство с Бонном II"
+            "ru": "Знакомство с Бонном II",
+            "tr": "Bonn'u Keşfetmek II",
+            "uk": "Знайомство з Бонном II",
+            "az": "Bonn-u Kəşf Etmək II"
         },
         "description": {
             "de": "Berühmte Karnevale",
             "en": "Famous carnavals",
-            "ru": "Знаменитые карнавалы"
+            "ru": "Знаменитые карнавалы",
+            "tr": "Ünlü Karnavallar",
+            "uk": "Знамениті карнавали",
+            "az": "Məşhur Karnavallar"
         },
         "level": "B2",
         "image": "BonnCarnavals.jpg",

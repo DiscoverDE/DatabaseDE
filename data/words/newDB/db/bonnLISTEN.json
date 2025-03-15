@@ -4,7 +4,10 @@
         "title": {
             "de": "Fahrradtour",
             "en": "Bike tour",
-            "ru": "Велосипедный тур"
+            "ru": "Велосипедный тур",
+            "tr": "Bisiklet turu",
+            "uk": "Велотур",
+            "az": "Velosiped turu"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Fahrradtour.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Fahrradtour.json"
@@ -13,7 +16,10 @@
         "title": {
             "de": "Markus' Ermittlung",
             "en": "Markus' Investigation",
-            "ru": "Расследование Маркуса"
+            "ru": "Расследование Маркуса",
+            "tr": "Markus'un Soruşturması",
+            "uk": "Розслідування Маркуса",
+            "az": "Markusun İstintaqı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Geheimnisse.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Geheimnisse.json"
@@ -22,7 +28,10 @@
         "title": {
             "de": "Am Flughafen",
             "en": "At the airport",
-            "ru": "В аэропорту"
+            "ru": "В аэропорту",
+            "tr": "Havalimanında",
+            "uk": "В аеропорту",
+            "az": "Hava limanında"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Am_Flughafen.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Am_Flughafen.json"
@@ -31,7 +40,10 @@
         "title": {
             "de": "Meine Familie und Ich",
             "en": "My Family and I",
-            "ru": "Моя семья и я"
+            "ru": "Моя семья и я",
+            "tr": "Ailem ve Ben",
+            "uk": "Моя родина і я",
+            "az": "Ailəm və Mən"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/LebenBonn.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/LebenBonn.json"
@@ -40,7 +52,10 @@
         "title": {
             "de": "Müllers Bonner Fall",
             "en": "Muller's Bonn case",
-            "ru": "Боннское дело Мюллера"
+            "ru": "Боннское дело Мюллера",
+            "tr": "Müller'in Bonn Vakası",
+            "uk": "Боннська справа Мюллера",
+            "az": "Müllerin Bonn işi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Gold.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Gold.json"
@@ -49,7 +64,10 @@
         "title": {
             "de": "Julias Neue Welt",
             "en": "Julia's New Horizons",
-            "ru": "Новые горизонты Юлии"
+            "ru": "Новые горизонты Юлии",
+            "tr": "Julia'nın Yeni Dünyası",
+            "uk": "Новий світ Юлії",
+            "az": "Julianın Yeni Dünyası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/NeuStadt.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/NeuStadt.json"
@@ -58,7 +76,10 @@
         "title": {
             "de": "Das erste Mal in Bonn",
             "en": "First Time in Bonn",
-            "ru": "Первый раз в Бонне"
+            "ru": "Первый раз в Бонне",
+            "tr": "Bonn'da İlk Kez",
+            "uk": "Вперше в Бонні",
+            "az": "Bonda İlk Dəfə"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/ErsteMal.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/ErsteMal.json"
@@ -67,7 +88,10 @@
         "title": {
             "de": "Ein Wintermärchen",
             "en": "A Winter Wonderland",
-            "ru": "Зимняя сказка"
+            "ru": "Зимняя сказка",
+            "tr": "Bir Kış Masalı",
+            "uk": "Зимова казка",
+            "az": "Qış Nağılı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/MeinWeihnachten.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/MeinWeihnachten.json"
@@ -76,7 +100,10 @@
         "title": {
             "de": "Bonn entdecken III",
             "en": "Discovering Bonn III",
-            "ru": "Знакомство с Бонном III"
+            "ru": "Знакомство с Бонном III",
+            "tr": "Bonn'u Keşfetmek III",
+            "uk": "Відкриття Бонна III",
+            "az": "Bonnu Kəşf Etmək III"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Lebensmitteleinkauf.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Lebensmitteleinkauf.json"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Die Zusammenarbeit beim Karneval",
             "en": "The Carnival Collaboration",
-            "ru": "Сотрудничество на карнавале"
+            "ru": "Сотрудничество на карнавале",
+            "tr": "Karnavalda İşbirliği",
+            "uk": "Співпраця на карнавалі",
+            "az": "Karnavalda Əməkdaşlıq"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/CarnavalStory.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/CarnavalStory.json"
@@ -94,7 +124,10 @@
         "title": {
             "de": "Beethoven-Haus I",
             "en": "Beethoven House I",
-            "ru": "Дом Бетховена I"
+            "ru": "Дом Бетховена I",
+            "tr": "Beethoven Evi I",
+            "uk": "Будинок Бетховена I",
+            "az": "Bethoven Evi I"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/BeethovenI.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/BeethovenI.json"
@@ -103,7 +136,10 @@
         "title": {
             "de": "Beethoven-Haus II",
             "en": "Beethoven House II",
-            "ru": "Дом Бетховена II"
+            "ru": "Дом Бетховена II",
+            "tr": "Beethoven Evi II",
+            "uk": "Будинок Бетховена II",
+            "az": "Bethoven Evi II"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/BeethovenII.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/BeethovenII.json"
@@ -112,7 +148,10 @@
         "title": {
             "de": "Hofgarten",
             "en": "Court garden",
-            "ru": "Сад во дворе"
+            "ru": "Сад во дворе",
+            "tr": "Saray Bahçesi",
+            "uk": "Судовий сад",
+            "az": "Saray bağı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/Hofgarten.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/Hofgarten.json"
@@ -121,7 +160,10 @@
         "title": {
             "de": "Bonn entdecken I",
             "en": "Discovering Bonn I",
-            "ru": "Знакомство с Бонном I"
+            "ru": "Знакомство с Бонном I",
+            "tr": "Bonn'u Keşfetmek I",
+            "uk": "Відкриття Бонна I",
+            "az": "Bonnu Kəşf Etmək I"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/BonnStreets.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/BonnStreets.json"
@@ -130,7 +172,10 @@
         "title": {
             "de": "Bonn entdecken II",
             "en": "Discovering Bonn II",
-            "ru": "Знакомство с Бонном II"
+            "ru": "Знакомство с Бонном II",
+            "tr": "Bonn'u Keşfetmek II",
+            "uk": "Відкриття Бонна II",
+            "az": "Bonnu Kəşf Etmək II"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/img/BonnCarnavals.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/bonn/words/BonnCarnavals.json"

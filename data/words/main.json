@@ -3,7 +3,10 @@
         "title": {
             "de": "A1 Nomen",
             "en": "A1 Nouns",
-            "ru": "A1 Существительные"
+            "ru": "A1 Существительные",
+            "tr": "A1 İsimler",
+            "uk": "A1 Іменники",
+            "az": "A1 İsimlər"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/a1nouns/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/a1nouns/image.jpg"
@@ -11,7 +14,10 @@
         "title": {
             "de": "A1 Verben",
             "en": "A1 Verbs",
-            "ru": "A1 Глаголы"
+            "ru": "A1 Глаголы",
+            "tr": "A1 Fiiller",
+            "uk": "A1 Дієслова",
+            "az": "A1 Fəaliyyətlər"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/a1verbs/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/a1verbs/image.jpg"
@@ -19,7 +25,10 @@
         "title": {
             "de": "Haushalt",
             "en": "Household",
-            "ru": "Быт"
+            "ru": "Быт",
+            "tr": "Ev işleri",
+            "uk": "Домашнє господарство",
+            "az": "Evdə işlər"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/household/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/household/image.jpg"
@@ -27,7 +36,10 @@
         "title": {
             "de": "Haustiere",
             "en": "Domestic animals",
-            "ru": "Домашние животные"
+            "ru": "Домашние животные",
+            "tr": "Evcil hayvanlar",
+            "uk": "Домашні тварини",
+            "az": "Ev heyvanları"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/haustiere/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/haustiere/image.jpg"
@@ -35,7 +47,10 @@
         "title": {
             "de": "Reisen",
             "en": "Travel",
-            "ru": "Путешествие"
+            "ru": "Путешествие",
+            "tr": "Seyahat",
+            "uk": "Подорожі",
+            "az": "Səyahət"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/travel/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/travel/image.jpg"
@@ -43,7 +58,10 @@
         "title": {
             "de": "Sports",
             "en": "Sport",
-            "ru": "Спорт"
+            "ru": "Спорт",
+            "tr": "Spor",
+            "uk": "Спорт",
+            "az": "İdman"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/sport/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/sport/image.jpg"
@@ -51,7 +69,10 @@
         "title": {
             "de": "Lebensmittel",
             "en": "Food",
-            "ru": "Питание"
+            "ru": "Питание",
+            "tr": "Yiyecek",
+            "uk": "Їжа",
+            "az": "Yemək"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/food/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/food/image.jpg"
@@ -59,7 +80,10 @@
         "title": {
             "de": "Unterhaltung",
             "en": "Entertainment",
-            "ru": "Развлечение"
+            "ru": "Развлечение",
+            "tr": "Eğlence",
+            "uk": "Розваги",
+            "az": "Əyləncə"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/entertainment/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/entertainment/image.jpg"
@@ -67,7 +91,10 @@
         "title": {
             "de": "Medizin",
             "en": "Medicine",
-            "ru": "Медицина"
+            "ru": "Медицина",
+            "tr": "Tıp",
+            "uk": "Медицина",
+            "az": "Tibb"
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/medicine/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/medicine/image.jpg"

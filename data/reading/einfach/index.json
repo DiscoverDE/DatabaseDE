@@ -3,12 +3,18 @@
         "name": {
             "en": "Academic Journey",
             "de": "Akademische Reise",
-            "ru": "Академический путь"
+            "ru": "Академический путь",
+            "tr": "Akademik Yolculuk",
+            "uk": "Академічна подорож",
+            "az": "Akademik Səyahət"
         },
         "description": {
             "en": "Emma's New Beginnings",
             "de": "Emmas Neuanfang",
-            "ru": "Новое начало Эммы"
+            "ru": "Новое начало Эммы",
+            "tr": "Emma'nın Yeni Başlangıçları",
+            "uk": "Нове початок Емми",
+            "az": "Emma'nın Yeni Başlangıçları"
         },
         "level": "A2",
         "image": "Emmas.png",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Train Journey Delay",
             "de": "Zugverspätung",
-            "ru": "Задержка поезда"
+            "ru": "Задержка поезда",
+            "tr": "Tren Yolculuğu Gecikmesi",
+            "uk": "Затримка поїзда",
+            "az": "Qatarın Gecikməsi"
         },
         "description": {
             "en": "Visiting grandparents",
             "de": "Besuch bei Großeltern",
-            "ru": "Визит к бабушке и дедушке"
+            "ru": "Визит к бабушке и дедушке",
+            "tr": "Büyükanneleri Ziyaret",
+            "uk": "Візит до бабусі",
+            "az": "Böyük Anaya Ziyarət"
         },
         "level": "A2",
         "image": "Anna.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "en": "Twins' Secret",
             "de": "Geheimnis der Zwillinge",
-            "ru": "Секрет близнецов"
+            "ru": "Секрет близнецов",
+            "tr": "İkizlerin Sırrı",
+            "uk": "Тайна близнюків",
+            "az": "İkizlərin Sirri"
         },
         "description": {
             "en": "Cheat and caught",
             "de": "Betrügen und erwischt",
-            "ru": "Обмануть и поймать"
+            "ru": "Обмануть и поймать",
+            "tr": "Hile ve yakalanmak",
+            "uk": "Шахрайство та спіймання",
+            "az": "Saxtakarlıq və yaxalanmaq"
         },
         "level": "A2",
         "image": "Zwillinge.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "en": "Diverse Companions",
             "de": "Vielfältige Gefährten",
-            "ru": "Разнообразные друзья"
+            "ru": "Разнообразные друзья",
+            "tr": "Çeşitli Arkadaşlar",
+            "uk": "Різноманітні супутники",
+            "az": "Müxtəlif Yoldaşlar"
         },
         "description": {
             "en": "Different yet inseparable",
             "de": "Verschiedene, aber unzertrennliche",
-            "ru": "Разные, но неразлучные"
+            "ru": "Разные, но неразлучные",
+            "tr": "Farklı ama ayrılmaz",
+            "uk": "Різні, але нероздільні",
+            "az": "Fərqli, amma ayrılmaz"
         },
         "level": "A2",
         "image": "Companions.png",
@@ -67,12 +91,18 @@
         "name": {
             "en": "Career Decision",
             "de": "Karriereentscheidung",
-            "ru": "Решение о карьере"
+            "ru": "Решение о карьере",
+            "tr": "Kariyer Kararı",
+            "uk": "Рішення про кар'єру",
+            "az": "Karyera Qərarı"
         },
         "description": {
             "en": "Between two job offers",
             "de": "Zwischen zwei Jobangeboten",
-            "ru": "Между двумя вакансиями"
+            "ru": "Между двумя вакансиями",
+            "tr": "İki iş teklifi arasında",
+            "uk": "Між двома вакансіями",
+            "az": "İki iş təklifi arasında"
         },
         "level": "A2",
         "image": "Jobangeboten.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "en": "Weather",
             "de": "Wetter",
-            "ru": "Погода"
+            "ru": "Погода",
+            "tr": "Hava Durumu",
+            "uk": "Погода",
+            "az": "Hava"
         },
         "description": {
             "en": "Bad Surprise",
             "de": "Schlimme Überraschung",
-            "ru": "Плохая неожиданность"
+            "ru": "Плохая неожиданность",
+            "tr": "Kötü Sürpriz",
+            "uk": "Несподівана неприємність",
+            "az": "Pis Sürpriz"
         },
         "level": "A2",
         "image": "Wetter.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "en": "Daniel's Struggle",
             "de": "Daniels Kampf",
-            "ru": "Борьба Даниэля"
+            "ru": "Борьба Даниэля",
+            "tr": "Daniel'in Mücadelesi",
+            "uk": "Боротьба Даніеля",
+            "az": "Daniel'in Mübarizəsi"
         },
         "description": {
             "en": "Coffee Addiction",
             "de": "Kaffeesucht",
-            "ru": "Кофейная зависимость"
+            "ru": "Кофейная зависимость",
+            "tr": "Kahve Bağımlılığı",
+            "uk": "Залежність від кави",
+            "az": "Kofe Asılılığı"
         },
         "level": "A2",
         "image": "Daniel.png",
@@ -115,12 +157,18 @@
         "name": {
             "en": "Pia's Interests",
             "de": "Pias Interessen",
-            "ru": "Интересы Пии"
+            "ru": "Интересы Пии",
+            "tr": "Pia'nın İlgi Alanları",
+            "uk": "Інтереси Пії",
+            "az": "Pianın Maraqları"
         },
         "description": {
             "en": "Hobbies and friends",
             "de": "Hobbys und Freunde",
-            "ru": "Хобби и друзья"
+            "ru": "Хобби и друзья",
+            "tr": "Hobiler ve arkadaşlar",
+            "uk": "Хобі та друзі",
+            "az": "Hobbilər və dostlar"
         },
         "level": "A2",
         "image": "Pia.png",
@@ -131,12 +179,18 @@
         "name": {
             "en": "Sophia's Life",
             "de": "Sophias Leben",
-            "ru": "Жизнь Софии"
+            "ru": "Жизнь Софии",
+            "tr": "Sophia'nın Hayatı",
+            "uk": "Життя Софії",
+            "az": "Sophia'nın Həyatı"
         },
         "description": {
             "en": "Activities",
             "de": "Die Aktivitäten",
-            "ru": "Интересы"
+            "ru": "Интересы",
+            "tr": "Aktiviteler",
+            "uk": "Діяльність",
+            "az": "Fəaliyyətlər"
         },
         "level": "A2",
         "image": "Sophia.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "en": "Final year",
             "de": "Abschlussjahr",
-            "ru": "Последний год"
+            "ru": "Последний год",
+            "tr": "Son Yıl",
+            "uk": "Останній рік",
+            "az": "Son İl"
         },
         "description": {
             "en": "First School Day",
             "de": "Erste Schultage",
-            "ru": "Первый школьный день"
+            "ru": "Первый школьный день",
+            "tr": "İlk Okul Günü",
+            "uk": "Перший шкільний день",
+            "az": "İlk Məktəb Günü"
         },
         "level": "A2",
         "image": "Abschlussjahr.png",
@@ -163,12 +223,18 @@
         "name": {
             "en": "German Sunday",
             "de": "Deutscher Sonntag",
-            "ru": "Немецкое воскресенье"
+            "ru": "Немецкое воскресенье",
+            "tr": "Alman Pazar Günü",
+            "uk": "Німецька неділя",
+            "az": "Alman Bazar Günü"
         },
         "description": {
             "en": "Weekend customs",
             "de": "Wochenendbräuche",
-            "ru": "Обычаи выходного дня"
+            "ru": "Обычаи выходного дня",
+            "tr": "Hafta Sonu Gelenekleri",
+            "uk": "Традиції вихідних",
+            "az": "Həftə Sonu Adətləri"
         },
         "level": "A2",
         "image": "Weekend.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "en": "Jobs",
             "de": "Jobs",
-            "ru": "Работы"
+            "ru": "Работы",
+            "tr": "İşler",
+            "uk": "Роботи",
+            "az": "İşlər"
         },
         "description": {
             "en": "Different professions",
             "de": "Verschiedene Berufe",
-            "ru": "Разные профессии"
+            "ru": "Разные профессии",
+            "tr": "Farklı Meslekler",
+            "uk": "Різні професії",
+            "az": "Fərqli Peşələr"
         },
         "level": "A2",
         "image": "Adrian.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "en": "Travel Stories",
             "de": "Reisegeschichten",
-            "ru": "Истории Путешествий"
+            "ru": "Истории Путешествий",
+            "tr": "Seyahat Hikayeleri",
+            "uk": "Історії подорожей",
+            "az": "Səyahət Hekayələri"
         },
         "description": {
             "en": "Means of transportation",
             "de": "Verkehrsmittel",
-            "ru": "Средства передвижения"
+            "ru": "Средства передвижения",
+            "tr": "Taşıma Araçları",
+            "uk": "Засоби транспорту",
+            "az": "Nəqliyyat Vasitələri"
         },
         "level": "A2",
         "image": "Reisegeschichten.png",
@@ -211,28 +289,40 @@
         "name": {
             "en": "Cameron's Letter",
             "de": "Camerons Brief",
-            "ru": "Письмо Камерона"
+            "ru": "Письмо Камерона",
+            "tr": "Cameron'ın Mektubu",
+            "uk": "Лист Камерона",
+            "az": "Cameron'un Məktubu"
         },
         "description": {
-            "en": "Brother's letter",
-            "de": "Brief des Bruders",
-            "ru": "Письмо брата"
+            "en": "An email response",
+            "de": "Antwort auf eine E-Mail",
+            "ru": "Ответ на письмо",
+            "tr": "Bir e-posta yanıtı",
+            "uk": "Відповідь на електронний лист",
+            "az": "E-poçt Cavabı"
         },
         "level": "A2",
-        "image": "Cameron.jpg",
+        "image": "Cameron.png",
         "file": "Cameron.txt",
         "words": "Cameron.json",
-        "yesNo": "Cameron.json"
+        "multi": "Cameron.json"
     }, {
         "name": {
             "en": "Lila's Birthday",
-            "de": "Lilas Geburtstags",
-            "ru": "День Рождение Лилы"
+            "de": "Lilas Geburtstag",
+            "ru": "День Рождение Лилы",
+            "tr": "Lila'nın Doğum Günü",
+            "uk": "День народження Ліли",
+            "az": "Lilanın Ad Günü"
         },
         "description": {
             "en": "A happy surprise",
             "de": "Eine freudige Überraschung",
-            "ru": "Счастливый сюрприз"
+            "ru": "Счастливый сюрприз",
+            "tr": "Mutlu bir sürpriz",
+            "uk": "Щасливий сюрприз",
+            "az": "Xoşbəxt sürpriz"
         },
         "level": "A2",
         "image": "Lila.jpg",

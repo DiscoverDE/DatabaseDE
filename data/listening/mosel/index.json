@@ -3,12 +3,18 @@
         "name": {
             "en": "Museums",
             "de": "Museen",
-            "ru": "Музеи"
+            "ru": "Музеи",
+            "tr": "Müzeler",
+            "uk": "Музеї",
+            "az": "Muzeylər"
         },
         "description": {
             "en": "Explore the history",
             "de": "Entdecken Sie Geschichte",
-            "ru": "Изучите историю"
+            "ru": "Изучите историю",
+            "tr": "Tarihi keşfedin",
+            "uk": "Досліджуйте історію",
+            "az": "Tarixi kəşf edin"
         },
         "level": "A2",
         "image": "Museums.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Discover the Mosel",
             "de": "Entdecke die Mosel",
-            "ru": "Откройте Мозель"
+            "ru": "Откройте Мозель",
+            "tr": "Mosel'i Keşfedin",
+            "uk": "Відкрийте Мозель",
+            "az": "Mosel-i Kəşf Edin"
         },
         "description": {
             "en": "Mosel quiz and insights",
             "de": "Mosel-Quiz und Einblicke",
-            "ru": "Викторина и факты о Мозеле"
+            "ru": "Викторина и факты о Мозеле",
+            "tr": "Mosel bilgi yarışması ve bilgiler",
+            "uk": "Вікторина та факти про Мозель",
+            "az": "Mosel viktorinası və məlumatlar"
         },
         "level": "A2",
         "image": "Mosel.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "en": "Murder Mystery",
             "de": "Mordrätsel",
-            "ru": "Расследование убийства"
+            "ru": "Расследование убийства",
+            "tr": "Cinayet Gizemi",
+            "uk": "Розслідування вбивства",
+            "az": "Qətl Sirri"
         },
         "description": {
             "en": "Thrilling wine festival",
             "de": "Aufregendes Weinfest",
-            "ru": "Увлекательный винный фестиваль"
+            "ru": "Увлекательный винный фестиваль",
+            "tr": "Heyecan verici şarap festivalı",
+            "uk": "Захоплюючий винный фестиваль",
+            "az": "Həyəcanlı şərab festivalı"
         },
         "level": "A2",
         "image": "Murder.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "en": "Discover Germany",
             "de": "Entdecke Deutschland",
-            "ru": "Знакомство с Германией"
+            "ru": "Знакомство с Германией",
+            "tr": "Almanya'yı Keşfedin",
+            "uk": "Знайомство з Німеччиною",
+            "az": "Almaniyanı Kəşf Edin"
         },
         "description": {
             "en": "City with rich heritage",
             "de": "Stadt mit reichem Erbe",
-            "ru": "Город с богатым наследием"
+            "ru": "Город с богатым наследием",
+            "tr": "Zengin mirasa sahip şehir",
+            "uk": "Місто з багатою спадщиною",
+            "az": "Zəngin irəsi olan şəhər"
         },
         "level": "A2",
         "image": "Entdecke.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "en": "Highlights",
             "de": "Höhepunkte",
-            "ru": "Основные моменты"
+            "ru": "Основные моменты",
+            "tr": "Öne Çıkanlar",
+            "uk": "Основні моменти",
+            "az": "Əsas Məqamlar"
         },
         "description": {
             "en": "Wine, Castles, Scenic Views",
             "de": "Wein, Burgen, Landschaftliche Ansichten",
-            "ru": "Вино, Замки, Живописные виды"
+            "ru": "Вино, Замки, Живописные виды",
+            "tr": "Şarap, Kaleler, Manzaralı Görüntüler",
+            "uk": "Вино, замки, мальовничі види",
+            "az": "Şərab, Qalalar, Mənzərəli Görüntülər"
         },
         "level": "A2",
         "image": "Highlights.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "en": "Medieval Beilstein",
             "de": "Mittelalterliches Beilstein",
-            "ru": "Средневековый Бейльштайн"
+            "ru": "Средневековый Бейльштайн",
+            "tr": "Ortaçağ Beilstein",
+            "uk": "Середньовічний Бейльштайн",
+            "az": "Orta Əsrlər Beilstein"
         },
         "description": {
             "en": "Historical charm",
             "de": "Historischer Charme",
-            "ru": "Историческое очарование"
+            "ru": "Историческое очарование",
+            "tr": "Tarihi çekicilik",
+            "uk": "Історичне очарування",
+            "az": "Tarixi cazibə"
         },
         "level": "B1",
         "image": "Beilstein.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "en": "Cuisine Highlights",
             "de": "Küchen-Highlights",
-            "ru": "Блюда Мозеля"
+            "ru": "Блюда Мозеля",
+            "tr": "Mutfak Öne Çıkanları",
+            "uk": "Страви Мозеля",
+            "az": "Mətbəx Xüsusiyyətləri"
         },
         "description": {
             "en": "Discover local dishes",
             "de": "Entdecken Sie lokale Gerichte",
-            "ru": "Откройте местные блюда"
+            "ru": "Откройте местные блюда",
+            "tr": "Yerel yemekleri keşfedin",
+            "uk": "Відкрийте місцеві страви",
+            "az": "Yerli yeməkləri kəşf edin"
         },
         "level": "B1",
         "image": "Cuisine.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "en": "Festivals I",
             "de": "Feste I",
-            "ru": "Фестивали 1"
+            "ru": "Фестивали 1",
+            "tr": "Festivaller I",
+            "uk": "Фестивалі 1",
+            "az": "Festivallar I"
         },
         "description": {
             "en": "Music and wine",
             "de": "Musik und Wein",
-            "ru": "Музыка и вино"
+            "ru": "Музыка и вино",
+            "tr": "Müzik ve şarap",
+            "uk": "Музика та вино",
+            "az": "Musiqi və şərab"
         },
         "level": "B1",
         "image": "Festival_I.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "en": "Festivals II",
             "de": "Feste II",
-            "ru": "Фестивали 2"
+            "ru": "Фестивали 2",
+            "tr": "Festivaller II",
+            "uk": "Фестивалі 2",
+            "az": "Festivallar II"
         },
         "description": {
             "en": "Celebrations and tradition",
             "de": "Feiern und Tradition",
-            "ru": "Празднование и традиции"
+            "ru": "Празднование и традиции",
+            "tr": "Kutlamalar ve gelenek",
+            "uk": "Святкування та традиції",
+            "az": "Bayramlar və ənənə"
         },
         "level": "B1",
         "image": "Festival_II.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "en": "Hunsrück-Mosel Connection",
             "de": "Hunsrück-Mosel-Verbindung",
-            "ru": "Связь Хунсрюк-Мозель"
+            "ru": "Связь Хунсрюк-Мозель",
+            "tr": "Hunsrück-Mosel Bağlantısı",
+            "uk": "Зв'язок Хунсрюк-Мозель",
+            "az": "Hunsrück-Mosel Əlaqəsi"
         },
         "description": {
             "en": "Vineyards vs forests",
             "de": "Weinberge vs Wälder",
-            "ru": "Виноградники против леса"
+            "ru": "Виноградники против леса",
+            "tr": "Bağlar vs ormanlar",
+            "uk": "Виноградники проти лісу",
+            "az": "Üzümlüklər vs meşələr"
         },
         "level": "B1",
         "image": "Hunsruck.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "en": "Biodiversity",
             "de": "Biodiversität",
-            "ru": "Биоразнообразие"
+            "ru": "Биоразнообразие",
+            "tr": "Biyoçeşitlilik",
+            "uk": "Біорізноманіття",
+            "az": "Bioloji Müxtəliflik"
         },
         "description": {
             "en": "Diverse animals",
             "de": "Verschiedene Tiere",
-            "ru": "Разнообразные животные"
+            "ru": "Разнообразные животные",
+            "tr": "Çeşitli hayvanlar",
+            "uk": "Різноманітні тварини",
+            "az": "Müxtəlif heyvanlar"
         },
         "level": "B2",
         "image": "BiodiversityI.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "en": "Hidden Gems",
             "de": "Verborgene Schätze",
-            "ru": "Скрытые жемчужины"
+            "ru": "Скрытые жемчужины",
+            "tr": "Gizli Hazineler",
+            "uk": "Приховані скарби",
+            "az": "Gizli Xəzinələr"
         },
         "description": {
             "en": "Unique attractions",
             "de": "Einzigartiger Attraktionen",
-            "ru": "Уникальных места"
+            "ru": "Уникальных места",
+            "tr": "Benzersiz cazibe merkezleri",
+            "uk": "Унікальні атракціони",
+            "az": "Unikal cazibə mərkəzləri"
         },
         "level": "B2",
         "image": "Attraktionen.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "en": "Journey Through Germany",
             "de": "Reise durch Deutschland",
-            "ru": "Путешествие по Германии"
+            "ru": "Путешествие по Германии",
+            "tr": "Almanya'da Yolculuk",
+            "uk": "Подорож Німеччиною",
+            "az": "Almaniyada Səyahət"
         },
         "description": {
             "en": "Castles, wine, and history",
             "de": "Schlösser, Wein und Geschichte",
-            "ru": "Замки, вино и история"
+            "ru": "Замки, вино и история",
+            "tr": "Kaleler, şarap ve tarih",
+            "uk": "Замки, вино та історія",
+            "az": "Qalalar, şərab və tarix"
         },
         "level": "B2",
         "image": "Germany.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "en": "Mosel Wine History",
             "de": "Mosel Wein Geschichte",
-            "ru": "История вина Мозеля"
+            "ru": "История вина Мозеля",
+            "tr": "Mosel Şarap Tarihi",
+            "uk": "Історія вина Мозеля",
+            "az": "Mosel Şərab Tarixi"
         },
         "description": {
             "en": "Roman origins, Riesling dominance",
             "de": "Römische Ursprünge, Riesling-Dominanz",
-            "ru": "Римские корни, доминирование рислинга"
+            "ru": "Римские корни, доминирование рислинга",
+            "tr": "Roma kökenleri, Riesling hakimiyeti",
+            "uk": "Римські корені, домінування рислингу",
+            "az": "Roma mənşəyi, Riesling üstünlüyü"
         },
         "level": "B2",
         "image": "WineHistory.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "en": "The Hidden Tunnel",
             "de": "Der geheime Tunnel",
-            "ru": "Тайный тоннель"
+            "ru": "Тайный тоннель",
+            "tr": "Gizli Tünel",
+            "uk": "Таємний тунель",
+            "az": "Gizli Tunel"
         },
         "description": {
             "en": "Mystery in an old wine cellar",
             "de": "Geheimnis in einem alten Weinkeller",
-            "ru": "Тайна в старом винном погребе"
+            "ru": "Тайна в старом винном погребе",
+            "tr": "Eski bir şarap mahzenindeki gizem",
+            "uk": "Таємниця в старому винному льосі",
+            "az": "Köhnə bir şərab zirzəmisindəki sirr"
         },
         "level": "B2",
         "image": "HiddenTunnel.jpg",

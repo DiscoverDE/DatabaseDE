@@ -4,7 +4,10 @@
         "title": {
             "en": "Night at the Museum",
             "de": "Nacht im Museum",
-            "ru": "Ночь в музее"
+            "ru": "Ночь в музее",
+            "tr": "Müzede Gece",
+            "uk": "Ніч у музеї",
+            "az": "Muzeydə Gecə"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/NachtMuseum.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/NachtMuseum.json"
@@ -13,7 +16,10 @@
         "title": {
             "en": "Movie Night",
             "de": "Filmnacht",
-            "ru": "Ночь фильмов"
+            "ru": "Ночь фильмов",
+            "tr": "Film Gecesi",
+            "uk": "Кіноніч",
+            "az": "Film Gecəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Kinowahl.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Kinowahl.json"
@@ -22,7 +28,10 @@
         "title": {
             "en": "Amelia's Journey",
             "de": "Amelias Reise",
-            "ru": "Путешествие Амелии"
+            "ru": "Путешествие Амелии",
+            "tr": "Amelia'nın Yolculuğu",
+            "uk": "Подорож Амелії",
+            "az": "Ameliyanın Səyahəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Amelia.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Amelia.json"
@@ -31,7 +40,10 @@
         "title": {
             "en": "Guess the city",
             "de": "Errate die Stadt",
-            "ru": "Угадайте город"
+            "ru": "Угадайте город",
+            "tr": "Şehri Tahmin Et",
+            "uk": "Вгадайте місто",
+            "az": "Şəhəri Təxmin Edin"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Cosmopolitan.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Cosmopolitan.json"
@@ -40,7 +52,10 @@
         "title": {
             "en": "Aquazoo Adventure",
             "de": "Aquazoo Abenteuer",
-            "ru": "Приключения в Аквазоопарке"
+            "ru": "Приключения в Аквазоопарке",
+            "tr": "Aquazoo Macerası",
+            "uk": "Пригоди в Аквазоопарку",
+            "az": "Aquazoo Macərası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Aquazoo.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Aquazoo.json"
@@ -49,7 +64,10 @@
         "title": {
             "en": "Dreams in Dusseldorf",
             "de": "Träume in Düsseldorf",
-            "ru": "Мечты в Дюссельдорфе"
+            "ru": "Мечты в Дюссельдорфе",
+            "tr": "Düsseldorf'ta Hayaller",
+            "uk": "Мрії в Дюссельдорфі",
+            "az": "Düsseldorfda Arzular"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Schauspielerreise.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Schauspielerreise.json"
@@ -58,7 +76,10 @@
         "title": {
             "en": "Weather",
             "de": "Wetter",
-            "ru": "Погода"
+            "ru": "Погода",
+            "tr": "Hava Durumu",
+            "uk": "Погода",
+            "az": "Hava"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Klimafuhrer.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Klimafuhrer.json"
@@ -67,7 +88,10 @@
         "title": {
             "en": "Love's Symphony",
             "de": "Die Symphonie der Liebe",
-            "ru": "Симфония любви"
+            "ru": "Симфония любви",
+            "tr": "Aşk Senfonisi",
+            "uk": "Симфонія кохання",
+            "az": "Sevgi Simfoniyası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Symphony.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Symphony.json"
@@ -76,7 +100,10 @@
         "title": {
             "en": "Neighborhoods I",
             "de": "Viertel I",
-            "ru": "Кварталы I"
+            "ru": "Кварталы I",
+            "tr": "Mahalleler I",
+            "uk": "Квартали I",
+            "az": "Məhəllələr I"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Altstadt.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Altstadt.json"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
-            "ru": "Пробежка у променада"
+            "ru": "Пробежка у променада",
+            "tr": "Sahilde Koşu",
+            "uk": "Пробіжка набережною",
+            "az": "Sahildə Qaçış"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Rheinuferpromenade.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Rheinuferpromenade.json"
@@ -94,7 +124,10 @@
         "title": {
             "en": "Skyward Adventure",
             "de": "Himmelsabenteuer",
-            "ru": "Небесное приключение"
+            "ru": "Небесное приключение",
+            "tr": "Gökyüzü Macerası",
+            "uk": "Небесна пригода",
+            "az": "Göy Macərası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Himmelsabenteuer.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Himmelsabenteuer.json"
@@ -103,7 +136,10 @@
         "title": {
             "en": "Benrath Castle",
             "de": "Schloss Benrath",
-            "ru": "Замок Бенрат"
+            "ru": "Замок Бенрат",
+            "tr": "Benrath Şatosu",
+            "uk": "Замок Бенрат",
+            "az": "Benrath Qəsri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Benrath.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Benrath.json"
@@ -112,7 +148,10 @@
         "title": {
             "en": "Japan Day",
             "de": "Japan-Tag",
-            "ru": "Японский день"
+            "ru": "Японский день",
+            "tr": "Japonya Günü",
+            "uk": "Японський день",
+            "az": "Yaponiya Günü"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/JapanDay.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/JapanDay.json"
@@ -121,7 +160,10 @@
         "title": {
             "en": "Neighborhoods III",
             "de": "Viertel III",
-            "ru": "Кварталы III"
+            "ru": "Кварталы III",
+            "tr": "Mahalleler III",
+            "uk": "Квартали III",
+            "az": "Məhəllələr III"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Bilk.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Bilk.json"
@@ -130,7 +172,10 @@
         "title": {
             "en": "Allure",
             "de": "Der Reiz",
-            "ru": "Привлекательность"
+            "ru": "Привлекательность",
+            "tr": "Cazibe",
+            "uk": "Привабливість",
+            "az": "Cazibə"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/img/Allure.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/dusseldorf/words/Allure.json"

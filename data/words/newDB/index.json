@@ -4,7 +4,10 @@
         "title": {
             "de": "Allgemein",
             "en": "General",
-            "ru": "Общее"
+            "ru": "Общее",
+            "tr": "Genel",
+            "uk": "Загальне",
+            "az": "Ümumi"
         },
         "filename": "general.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/general.jpg"
@@ -13,7 +16,10 @@
         "title": {
             "de": "Bonn \u270D",
             "en": "Bonn \u270D",
-            "ru": "Бонн \u270D"
+            "ru": "Бонн \u270D",
+            "tr": "Bonn \u270D",
+            "uk": "Бонн \u270D",
+            "az": "Bonn \u270D"
         },
         "filename": "bonn.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/bonn.jpg"
@@ -22,7 +28,10 @@
         "title": {
             "de": "Bonn \u266C",
             "en": "Bonn \u266C",
-            "ru": "Бонн \u266C"
+            "ru": "Бонн \u266C",
+            "tr": "Bonn \u266C",
+            "uk": "Бонн \u266C",
+            "az": "Bonn \u266C"
         },
         "filename": "bonnLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/bonnLISTEN.jpg"
@@ -31,7 +40,10 @@
         "title": {
             "de": "Cologne \u270D",
             "en": "Cologne \u270D",
-            "ru": "Кёльн \u270D"
+            "ru": "Кёльн \u270D",
+            "tr": "Köln \u270D",
+            "uk": "Кельн \u270D",
+            "az": "Köln \u270D"
         },
         "filename": "cologne.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/cologne.jpg"
@@ -40,7 +52,10 @@
         "title": {
             "de": "Cologne \u266C",
             "en": "Cologne \u266C",
-            "ru": "Кёльн \u266C"
+            "ru": "Кёльн \u266C",
+            "tr": "Köln \u266C",
+            "uk": "Кельн \u266C",
+            "az": "Köln \u266C"
         },
         "filename": "cologneLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/cologneLISTEN.jpg"
@@ -49,7 +64,10 @@
         "title": {
             "de": "Düsseldorf \u270D",
             "en": "Düsseldorf \u270D",
-            "ru": "Дюссельдорф \u270D"
+            "ru": "Дюссельдорф \u270D",
+            "tr": "Düsseldorf \u270D",
+            "uk": "Дюссельдорф \u270D",
+            "az": "Düsseldorf \u270D"
         },
         "filename": "dusseldorf.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/dusseldorf.jpg"
@@ -58,7 +76,10 @@
         "title": {
             "de": "Düsseldorf \u266C",
             "en": "Düsseldorf \u266C",
-            "ru": "Дюссельдорф \u266C"
+            "ru": "Дюссельдорф \u266C",
+            "tr": "Düsseldorf \u266C",
+            "uk": "Дюссельдорф \u266C",
+            "az": "Düsseldorf \u266C"
         },
         "filename": "dusseldorfLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/dus1.jpg"
@@ -67,7 +88,10 @@
         "title": {
             "de": "Koblenz \u270D",
             "en": "Koblenz \u270D",
-            "ru": "Кобленц \u270D"
+            "ru": "Кобленц \u270D",
+            "tr": "Koblenz \u270D",
+            "uk": "Кобленц \u270D",
+            "az": "Koblenz \u270D"
         },
         "filename": "koblenz.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/koblenz.jpg"
@@ -76,7 +100,10 @@
         "title": {
             "de": "Koblenz \u266C",
             "en": "Koblenz \u266C",
-            "ru": "Кобленц \u266C"
+            "ru": "Кобленц \u266C",
+            "tr": "Koblenz \u266C",
+            "uk": "Кобленц \u266C",
+            "az": "Koblenz \u266C"
         },
         "filename": "koblenzLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/koblenzLISTEN.jpg"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Einfach Stadt \u270D",
             "en": "Simple city \u270D",
-            "ru": "Просто город \u270D"
+            "ru": "Просто город \u270D",
+            "tr": "Basit Şehir \u270D",
+            "uk": "Просте місто \u270D",
+            "az": "Sadə Şəhər \u270D"
         },
         "filename": "einfach.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/einfach.jpg"
@@ -94,7 +124,10 @@
         "title": {
             "de": "Einfach Stadt \u266C",
             "en": "Simple city \u266C",
-            "ru": "Просто город \u266C"
+            "ru": "Просто город \u266C",
+            "tr": "Basit Şehir \u266C",
+            "uk": "Просте місто \u266C",
+            "az": "Sadə Şəhər \u266C"
         },
         "filename": "einfachLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/einfachLISTEN.jpg"
@@ -103,7 +136,10 @@
         "title": {
             "de": "Mosel \u270D",
             "en": "Moselle \u270D",
-            "ru": "Мозель \u270D"
+            "ru": "Мозель \u270D",
+            "tr": "Moselle \u270D",
+            "uk": "Мозель \u270D",
+            "az": "Moselle \u270D"
         },
         "filename": "mosel.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/moselREAD.jpg"
@@ -112,7 +148,10 @@
         "title": {
             "de": "Mosel \u266C",
             "en": "Moselle \u266C",
-            "ru": "Мозель \u266C"
+            "ru": "Мозель \u266C",
+            "tr": "Moselle \u266C",
+            "uk": "Мозель \u266C",
+            "az": "Moselle \u266C"
         },
         "filename": "moselLISTEN.json",
         "image": "https://discoverde.github.io/DatabaseDE/locations/moselLISTEN.jpg"

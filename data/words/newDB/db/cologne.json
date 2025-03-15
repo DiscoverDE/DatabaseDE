@@ -4,7 +4,10 @@
         "title": {
             "de": "Stolpersteine",
             "en": "Stumbling blocks",
-            "ru": "Камни преткновения"
+            "ru": "Камни преткновения",
+            "tr": "Tökezleyen Taşlar",
+            "uk": "Камені спотикання",
+            "az": "Büdrəyən Daşlar"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Stolpersteine.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Stolpersteine.json"
@@ -13,7 +16,10 @@
         "title": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
-            "ru": "Незнакомцы в соборе"
+            "ru": "Незнакомцы в соборе",
+            "tr": "Katedraldeki Yabancılar",
+            "uk": "Незнайомці у соборі",
+            "az": "Kafedraldakı Qəriblər"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Fremde_im_Dom.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Fremde_im_Dom.json"
@@ -22,7 +28,10 @@
         "title": {
             "de": "Verlorene Brieftasche",
             "en": "Lost Wallet",
-            "ru": "Потерянный кошелек"
+            "ru": "Потерянный кошелек",
+            "tr": "Kayıp Cüzdan",
+            "uk": "Загублений гаманець",
+            "az": "İtirilmiş Pulqabı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Lost_Wallet.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Lost_Wallet.json"
@@ -31,7 +40,10 @@
         "title": {
             "de": "Köln im Dialog",
             "en": "Cologne in Dialogue",
-            "ru": "Кёльн в диалоге"
+            "ru": "Кёльн в диалоге",
+            "tr": "Diyalogda Köln",
+            "uk": "Кельн у діалозі",
+            "az": "Dialoqda Köln"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Dialog.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Dialog.json"
@@ -40,7 +52,10 @@
         "title": {
             "de": "Wilde Entdeckungen",
             "en": "Wild Explorations",
-            "ru": "Дикие исследования"
+            "ru": "Дикие исследования",
+            "tr": "Vahşi Keşifler",
+            "uk": "Дикі дослідження",
+            "az": "Vəhşi Kəşflər"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Zoopark.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Zoo.json"
@@ -49,7 +64,10 @@
         "title": {
             "de": "Köln erkunden I",
             "en": "Exploring Cologne I",
-            "ru": "Знакомство с Кельном I"
+            "ru": "Знакомство с Кельном I",
+            "tr": "Köln'ü Keşfetmek I",
+            "uk": "Знайомство з Кельном I",
+            "az": "Kölnü Kəşf Etmək I"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_I.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_I.json"
@@ -58,7 +76,10 @@
         "title": {
             "de": "Köln erkunden II",
             "en": "Exploring Cologne II",
-            "ru": "Знакомство с Кельном II"
+            "ru": "Знакомство с Кельном II",
+            "tr": "Köln'ü Keşfetmek II",
+            "uk": "Знайомство з Кельном II",
+            "az": "Kölnü Kəşf Etmək II"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_II.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_II.json"
@@ -67,7 +88,10 @@
         "title": {
             "de": "Köln erkunden III",
             "en": "Exploring Cologne III",
-            "ru": "Знакомство с Кельном III"
+            "ru": "Знакомство с Кельном III",
+            "tr": "Köln'ü Keşfetmek III",
+            "uk": "Знайомство з Кельном III",
+            "az": "Kölnü Kəşf Etmək III"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Cologne_Erkunden_III.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Cologne_Erkunden_III.json"
@@ -76,7 +100,10 @@
         "title": {
             "en": "Panda Surprise",
             "de": "Panda-Überraschung",
-            "ru": "Пандовый сюрприз"
+            "ru": "Пандовый сюрприз",
+            "tr": "Panda Sürprizi",
+            "uk": "Панда-сюрприз",
+            "az": "Panda Sürprizi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Magic.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Magic.json"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Kölner Dom",
             "en": "Cologne cathedral",
-            "ru": "Кельнский собор"
+            "ru": "Кельнский собор",
+            "tr": "Köln Katedrali",
+            "uk": "Кельнський собор",
+            "az": "Köln Kafedralı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Dom.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Dom.json"
@@ -94,7 +124,10 @@
         "title": {
             "de": "Köln gegen Düsseldorf",
             "en": "Cologne vs. Düsseldorf",
-            "ru": "Кёльн против Дюссельдорфа"
+            "ru": "Кёльн против Дюссельдорфа",
+            "tr": "Köln vs. Düsseldorf",
+            "uk": "Кельн проти Дюссельдорфа",
+            "az": "Köln vs. Düsseldorf"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/KoelnDus.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/KoelnDus.json"
@@ -103,7 +136,10 @@
         "title": {
             "de": "Kölsch",
             "en": "Kölsch",
-            "ru": "Kölsch"
+            "ru": "Kölsch",
+            "tr": "Kölsch",
+            "uk": "Kölsch",
+            "az": "Kölsch"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Bierboom.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Bierboom.json"
@@ -112,7 +148,10 @@
         "title": {
             "de": "FC Köln",
             "en": "FC Köln",
-            "ru": "ФК Кёльн"
+            "ru": "ФК Кёльн",
+            "tr": "FC Köln",
+            "uk": "ФК Кельн",
+            "az": "FC Köln"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/FC_Koeln.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/FC_Koeln.json"
@@ -121,7 +160,10 @@
         "title": {
             "de": "Weihnachtsbräuche",
             "en": "Christmas Traditions",
-            "ru": "Рождественские традиции"
+            "ru": "Рождественские традиции",
+            "tr": "Noel Gelenekleri",
+            "uk": "Різдвяні традиції",
+            "az": "Milad Adətləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Christmas.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Christmas.json"
@@ -130,7 +172,10 @@
         "title": {
             "en": "Spirit Guardians",
             "de": "Geisterwächter",
-            "ru": "Стражи духов"
+            "ru": "Стражи духов",
+            "tr": "Ruh Muhafızları",
+            "uk": "Вартові духів",
+            "az": "Ruh Mühafizələri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/img/Athletes.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/cologne/words/Athletes.json"

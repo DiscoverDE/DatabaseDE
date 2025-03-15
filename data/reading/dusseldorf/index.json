@@ -3,12 +3,18 @@
         "name": {
             "en": "The Vampire",
             "de": "Der Vampir",
-            "ru": "Вампир"
+            "ru": "Вампир",
+            "tr": "Vampir",
+            "az": "Vampir",
+            "uk": "Вампір"
         },
         "description": {
             "en": "Serial killer",
             "de": "Serienmörder",
-            "ru": "Серийный убийца"
+            "ru": "Серийный убийца",
+            "tr": "Seri katil",
+            "az": "Seriya qatili",
+            "uk": "Серійний вбивця"
         },
         "level": "A2",
         "image": "Vampire.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Friendly Assistance",
             "de": "Freundliche Hilfe",
-            "ru": "Дружественная помощь"
+            "ru": "Дружественная помощь",
+            "tr": "Dostane Yardım",
+            "az": "Dostane Yardım",
+            "uk": "Дружня допомога"
         },
         "description": {
             "en": "Locked door",
             "de": "Verschlossene Tür",
-            "ru": "Запертая дверь"
+            "ru": "Запертая дверь",
+            "tr": "Kilitli kapı",
+            "az": "Bağlı qapı",
+            "uk": "Зачинені двері"
         },
         "level": "A2",
         "image": "Keys.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "en": "Vacation dilemma",
             "de": "Urlaubsdilemma",
-            "ru": "Дилемма отпуска"
+            "ru": "Дилемма отпуска",
+            "tr": "Tatil ikilemi",
+            "az": "Tətil dilemması",
+            "uk": "Дилема відпустки"
         },
         "description": {
             "en": "Where to travel?",
             "de": "Wohin soll man reisen?",
-            "ru": "Куда поехать?"
+            "ru": "Куда поехать?",
+            "tr": "Nereye seyahat etmeli?",
+            "az": "Haraya səfər etməli?",
+            "uk": "Куди поїхати?"
         },
         "level": "A2",
         "image": "Urlaubsdilemma.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "en": "Fashion Fun Day",
             "de": "Mode-Spaßtag",
-            "ru": "День моды и веселья"
+            "ru": "День моды и веселья",
+            "tr": "Moda Eğlence Günü",
+            "az": "Moda Əyləncə Günü",
+            "uk": "День моди та розваг"
         },
         "description": {
             "en": "Buying clothes",
             "de": "Kleidung kaufen",
-            "ru": "Покупать одежду"
+            "ru": "Покупать одежду",
+            "tr": "Kıyafet almak",
+            "az": "Geyim almaq",
+            "uk": "Купівля одягу"
         },
         "level": "A2",
         "image": "ChicExpedition.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "de": "Düsseldorf erkunden",
             "en": "Exploring Dusseldorf",
-            "ru": "Знакомство с Дюссельдорфом"
+            "ru": "Знакомство с Дюссельдорфом",
+            "tr": "Düsseldorf'u Keşfetmek",
+            "az": "Düsseldorfu Kəşf etmək",
+            "uk": "Знайомство з Дюссельдорфом"
         },
         "description": {
             "de": "Eine Reisegeschichte",
             "en": "A Traveler's Tale",
-            "ru": "Путешественнический рассказ"
+            "ru": "Путешественнический рассказ",
+            "tr": "Bir Seyyahın Hikayesi",
+            "az": "Səyahətçinin Hekayəsi",
+            "uk": "Розповідь мандрівника"
         },
         "level": "B1",
         "image": "Dusseldorf_Erkunden.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "en": "Tonhalle Legends",
             "de": "Tonhalle Legenden",
-            "ru": "Легенды Тонхалле"
+            "ru": "Легенды Тонхалле",
+            "tr": "Tonhalle Efsaneleri",
+            "az": "Tonhalle Əfsanələri",
+            "uk": "Легенди Тонгалле"
         },
         "description": {
             "en": "Iconic musicians",
             "de": "Ikone Musiker",
-            "ru": "Иконические музыканты"
+            "ru": "Иконические музыканты",
+            "tr": "İkonik Müzisyenler",
+            "az": "İkonik Musiqiçilər",
+            "uk": "Іконічні музиканти"
         },
         "level": "B1",
         "image": "Tonhalle.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "en": "Hidden gems",
             "de": "Versteckte Juwelen",
-            "ru": "Скрытые жемчужины"
+            "ru": "Скрытые жемчужины",
+            "tr": "Gizli İnciler",
+            "az": "Gizli Cevherlər",
+            "uk": "Сховані перлини"
         },
         "description": {
             "en": "Citizen interviews",
             "de": "Bürgerinterviews",
-            "ru": "Интервью с гражданами"
+            "ru": "Интервью с гражданами",
+            "tr": "Vatandaş Röportajları",
+            "az": "Vətəndaş Müsahibələri",
+            "uk": "Інтерв'ю з громадянами"
         },
         "level": "B1",
         "image": "Burgerinterviews.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "en": "Altstadt Charm",
             "de": "Altstadt Charme",
-            "ru": "Шарм Старого Города"
+            "ru": "Шарм Старого Города",
+            "tr": "Eski Şehir Cazibesi",
+            "az": "Köhnə şəhər cazibəsi",
+            "uk": "Шарм Старого Міста"
         },
         "description": {
             "en": "Vibrant historic hub",
             "de": "Lebendiger historischer Hotspot",
-            "ru": "Живой исторический центр"
+            "ru": "Живой исторический центр",
+            "tr": "Canlı Tarihi Merkez",
+            "az": "Canlı Tarixi Mərkəz",
+            "uk": "Живий історичний центр"
         },
         "level": "B1",
         "image": "Altstadt.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "en": "Kö Elegance",
             "de": "Kö Eleganz",
-            "ru": "Элегантность Кё"
+            "ru": "Элегантность Кё",
+            "tr": "Kö Elegansı",
+            "az": "Kö Elegansı",
+            "uk": "Елегантність Кьо"
         },
         "description": {
             "en": "Historic charm",
             "de": "Historischer Charme",
-            "ru": "Исторический шарм"
+            "ru": "Исторический шарм",
+            "tr": "Tarihi Cazibe",
+            "az": "Tarixi cazibə",
+            "uk": "Історичний шарм"
         },
         "level": "B1",
         "image": "Elegance.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "en": "Neighborhoods IV",
             "de": "Stadtteile IV",
-            "ru": "Районы IV"
+            "ru": "Районы IV",
+            "tr": "Mahalleler IV",
+            "az": "Rayonlar IV",
+            "uk": "Райони IV"
         },
         "description": {
             "en": "Derendorf & Kaiserswerth",
             "de": "Derendorf & Kaiserswerth",
-            "ru": "Дерендорф и Кайзерсверт"
+            "ru": "Дерендорф и Кайзерсверт",
+            "tr": "Derendorf ve Kaiserswerth",
+            "az": "Derendorf və Kaiserswerth",
+            "uk": "Дерендорф та Кайзерсверт"
         },
         "level": "B1",
         "image": "Kaiserswerth.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "en": "Rhein Tower",
             "de": "Rheinturm",
-            "ru": "Башня Рейна"
+            "ru": "Башня Рейна",
+            "tr": "Rhein Kulesi",
+            "az": "Reyn Qülləsi",
+            "uk": "Вежа Рейн"
         },
         "description": {
             "en": "Iconic landmark",
             "de": "Ikonisches Wahrzeichen",
-            "ru": "Иконический памятник"
+            "ru": "Иконический памятник",
+            "tr": "İkonik Anıt",
+            "az": "İkonik Abidə",
+            "uk": "Іконична пам'ятка"
         },
         "level": "B2",
         "image": "Rheinturm.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "en": "Japan Day Experience",
             "de": "Japanischer Tag Erlebnis",
-            "ru": "Опыт Японского Дня"
+            "ru": "Опыт Японского Дня",
+            "tr": "Japon Günü Deneyimi",
+            "az": "Yaponiya Günü Təcrübəsi",
+            "uk": "Досвід Японського дня"
         },
         "description": {
             "en": "Culinary adventure",
             "de": "Kulinarisches Abenteuer",
-            "ru": "Кулинарное приключение"
+            "ru": "Кулинарное приключение",
+            "tr": "Mutfak Macerası",
+            "az": "Kulinariya Macərası",
+            "uk": "Кулінарні пригоди"
         },
         "level": "B2",
         "image": "JapanDay.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "en": "Castle Treasure Adventure",
             "de": "Schloss Schatzabenteuer",
-            "ru": "Приключение в замке"
+            "ru": "Приключение в замке",
+            "tr": "Şato Hazine Macerası",
+            "az": "Qala Xəzinəsi Macərası",
+            "uk": "Пригода з замковими скарбами"
         },
         "description": {
             "en": "Discovering hidden castle treasure",
             "de": "Verborgenen Schlossschatz entdecken",
-            "ru": "Открытие сокровищ в замке"
+            "ru": "Открытие сокровищ в замке",
+            "tr": "Gizli şato hazinesini keşfetmek",
+            "az": "Gizli qala xəzinəsini aşkar etmək",
+            "uk": "Відкриття прихованих замкових скарбів"
         },
         "level": "B2",
         "image": "Treasure.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "en": "City Charms",
             "de": "Stadtzauber",
-            "ru": "Прелесть городов"
+            "ru": "Прелесть городов",
+            "tr": "Şehir Cazibesi",
+            "az": "Şəhər Sehrləri",
+            "uk": "Чари міст"
         },
         "description": {
             "en": "A journalist's adventure",
             "de": "Das Abenteuer eines Journalisten",
-            "ru": "Приключения журналиста"
+            "ru": "Приключения журналиста",
+            "tr": "Bir Gazetecinin Macerası",
+            "az": "Jurnalistin Macərası",
+            "uk": "Пригоди журналіста"
         },
         "level": "B2",
         "image": "Stadtzauber.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "en": "Heine University",
             "de": "Heine Universität",
-            "ru": "Университет Гейне"
+            "ru": "Университет Гейне",
+            "tr": "Heine Üniversitesi",
+            "az": "Heine Universiteti",
+            "uk": "Університет Гейне"
         },
         "description": {
             "en": "Academic excellence",
             "de": "Akademische Exzellenz",
-            "ru": "Академическое совершенство"
+            "ru": "Академическое совершенство",
+            "tr": "Akademik Mükemmeliyet",
+            "az": "Akademik Mükəmməllik",
+            "uk": "Академічна майстерність"
         },
         "level": "B2",
         "image": "Heine.jpg",
