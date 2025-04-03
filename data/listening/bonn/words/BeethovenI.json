@@ -3,148 +3,274 @@
         "de": "die Gedenkstätte",
         "en": "Memorial",
         "ru": "Мемориал",
+        "tr": "Anıt",
+        "az": "Abidə",
+        "uk": "Меморіал",
         "descriptionDE": "Ein Ort, der dem Gedächtnis einer Person oder eines Ereignisses gewidmet ist.",
         "descriptionEN": "A place dedicated to the memory of a person or event.",
-        "descriptionRU": "Место, посвященное памяти человека или события."
+        "descriptionRU": "Место, посвященное памяти человека или события.",
+        "descriptionUK": "Місце, присвячене пам'яті людини або події.",
+        "descriptionTR": "Bir kişinin veya olayın anısına adanmış bir yer.",
+        "descriptionAZ": "Bir şəxsin və ya hadisənin xatirəsinə həsr olunmuş bir yer."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "tr": "Müze",
+        "az": "Muzey",
+        "uk": "Музей",
         "descriptionDE": "Eine Institution, die Objekte von künstlerischer, kultureller oder historischer Bedeutung bewahrt und ausstellt.",
         "descriptionEN": "An institution preserving and exhibiting objects of artistic, cultural, or historical significance.",
-        "descriptionRU": "Учреждение, сохраняющее и выставляющее объекты художественной, культурной или исторической значимости."
+        "descriptionRU": "Учреждение, сохраняющее и выставляющее объекты художественной, культурной или исторической значимости.",
+        "descriptionUK": "Установа, що зберігає та виставляє об'єкти художнього, культурного чи історичного значення.",
+        "descriptionTR": "Sanatsal, kültürel veya tarihsel öneme sahip nesneleri koruyan ve sergileyen bir kurum.",
+        "descriptionAZ": "Bədii, mədəni və ya tarixi əhəmiyyətli obyektləri qoruyan və nümayiş etdirən bir qurum."
     }, {
         "de": "der Verein",
         "en": "Association",
         "ru": "Объединение",
+        "tr": "Dernek",
+        "az": "Assosiasiya",
+        "uk": "Об'єднання",
         "descriptionDE": "Eine Gruppe von Menschen, die sich für einen gemeinsamen Zweck zusammengeschlossen haben.",
         "descriptionEN": "A group of people joined together for a common purpose.",
-        "descriptionRU": "Группа людей, объединенных общей целью."
+        "descriptionRU": "Группа людей, объединенных общей целью.",
+        "descriptionUK": "Група людей, об'єднаних спільною метою.",
+        "descriptionTR": "Ortak bir amaç için bir araya gelmiş bir grup insan.",
+        "descriptionAZ": "Ortaq bir məqsəd üçün bir araya gəlmiş bir qrup insan."
     }, {
         "de": "das Leben",
         "en": "Life",
         "ru": "Жизнь",
+        "tr": "Yaşam",
+        "az": "Həyat",
+        "uk": "Життя",
         "descriptionDE": "Der Zustand, der lebende Organismen von unbelebter Materie unterscheidet.",
         "descriptionEN": "The condition that distinguishes living organisms from inanimate matter.",
-        "descriptionRU": "Состояние, отличающее живые организмы от неживой материи."
+        "descriptionRU": "Состояние, отличающее живые организмы от неживой материи.",
+        "descriptionUK": "Стан, що відрізняє живі організми від неживої матерії.",
+        "descriptionTR": "Canlı organizmaları cansız maddeden ayıran durum.",
+        "descriptionAZ": "Canlı orqanizmləri cansız maddədən fərqləndirən vəziyyət."
     }, {
         "de": "das Werk",
         "en": "Work",
         "ru": "Творение",
+        "tr": "Eser",
+        "az": "Əsər",
+        "uk": "Творіння",
         "descriptionDE": "Ein Stück künstlerischer oder intellektueller Schöpfung.",
         "descriptionEN": "A piece of artistic or intellectual creation.",
-        "descriptionRU": "Произведение искусства или интеллектуального творчества."
+        "descriptionRU": "Произведение искусства или интеллектуального творчества.",
+        "descriptionUK": "Твір мистецтва або інтелектуальної творчості.",
+        "descriptionTR": "Sanatsal veya entelektüel bir yaratım parçası.",
+        "descriptionAZ": "Bədii və ya intellektual bir yaradıcılıq parçası."
     }, {
         "de": "der Komponist",
         "en": "Composer",
         "ru": "Композитор",
+        "tr": "Bestekar",
+        "az": "Bəstəkar",
+        "uk": "Композитор",
         "descriptionDE": "Eine Person, die Musik schreibt, insbesondere beruflich.",
         "descriptionEN": "A person who writes music, especially as a profession.",
-        "descriptionRU": "Человек, пишущий музыку, особенно профессионально."
+        "descriptionRU": "Человек, пишущий музыку, особенно профессионально.",
+        "descriptionUK": "Людина, яка пише музику, особливо професійно.",
+        "descriptionTR": "Özellikle profesyonel olarak müzik yazan bir kişi.",
+        "descriptionAZ": "Xüsusilə peşəkar olaraq musiqi yazan bir şəxs."
     }, {
         "de": "das Geburtshaus",
         "en": "Birthplace",
         "ru": "Место рождения",
+        "tr": "Doğum Yeri",
+        "az": "Doğum Yeri",
+        "uk": "Місце народження",
         "descriptionDE": "Der Ort, an dem jemand geboren wird.",
         "descriptionEN": "The place where someone is born.",
-        "descriptionRU": "Место, где кто-то родился."
+        "descriptionRU": "Место, где кто-то родился.",
+        "descriptionUK": "Місце, де хтось народився.",
+        "descriptionTR": "Birinin doğduğu yer.",
+        "descriptionAZ": "Birinin doğulduğu yer."
     }, {
         "de": "untergebracht",
         "en": "Housed",
         "ru": "Размещенный",
+        "tr": "Barındırılmış",
+        "az": "Yerləşdirilmiş",
+        "uk": "Розміщений",
         "descriptionDE": "Mit einem Ort zum Leben oder Übernachten versehen.",
         "descriptionEN": "Provided with a place to live or stay.",
-        "descriptionRU": "Обеспеченный местом для жизни или проживания."
+        "descriptionRU": "Обеспеченный местом для жизни или проживания.",
+        "descriptionUK": "Забезпечений місцем для життя або проживання.",
+        "descriptionTR": "Yaşamak veya kalmak için bir yere sahip olmak.",
+        "descriptionAZ": "Yaşamaq və ya qalmaq üçün bir yerə sahib olmaq."
     }, {
         "de": "die Forschungsstätte",
         "en": "Research Facility",
         "ru": "Исследовательское учреждение",
+        "tr": "Araştırma Tesisi",
+        "az": "Araşdırma Mərkəzi",
+        "uk": "Дослідницький заклад",
         "descriptionDE": "Ein Ort, der der systematischen Untersuchung und Studie gewidmet ist.",
         "descriptionEN": "A place dedicated to systematic investigation and study.",
-        "descriptionRU": "Место, посвященное систематическому исследованию и изучению."
+        "descriptionRU": "Место, посвященное систематическому исследованию и изучению.",
+        "descriptionUK": "Місце, присвячене систематичному дослідженню та вивченню.",
+        "descriptionTR": "Sistematik araştırma ve çalışmaya adanmış bir yer.",
+        "descriptionAZ": "Sistematik araşdırma və tədqiqata həsr olunmuş bir yer."
     }, {
         "de": "die Sammlung",
         "en": "Collection",
         "ru": "Коллекция",
+        "tr": "Koleksiyon",
+        "az": "Kolleksiya",
+        "uk": "Колекція",
         "descriptionDE": "Eine Gruppe von Objekten, die zum Studium, Vergleich oder zur Ausstellung gesammelt wurden.",
         "descriptionEN": "A group of objects gathered for study, comparison, or exhibition.",
-        "descriptionRU": "Группа объектов, собранных для изучения, сравнения или выставки."
+        "descriptionRU": "Группа объектов, собранных для изучения, сравнения или выставки.",
+        "descriptionUK": "Група об'єктів, зібраних для вивчення, порівняння або виставки.",
+        "descriptionTR": "Çalışma, karşılaştırma veya sergi için toplanmış bir grup nesne.",
+        "descriptionAZ": "Öyrənmə, müqayisə və ya sərgi üçün toplanmış bir qrup obyekt."
     }, {
         "de": "die Bibliothek",
         "en": "Library",
         "ru": "Библиотека",
+        "tr": "Kütüphane",
+        "az": "Kitabxana",
+        "uk": "Бібліотека",
         "descriptionDE": "Eine Sammlung von Büchern und anderen Informationsquellen.",
         "descriptionEN": "A collection of books and other sources of information.",
-        "descriptionRU": "Сборник книг и других источников информации."
+        "descriptionRU": "Сборник книг и других источников информации.",
+        "descriptionUK": "Збірник книг та інших джерел інформації.",
+        "descriptionTR": "Kitaplar ve diğer bilgi kaynaklarının bir koleksiyonu.",
+        "descriptionAZ": "Kitablar və digər məlumat mənbələrinin bir kolleksiyası."
     }, {
         "de": "der Verlag",
         "en": "Publisher",
         "ru": "Издательство",
+        "tr": "Yayınevi",
+        "az": "Nəşriyyat",
+        "uk": "Видавництво",
         "descriptionDE": "Ein Unternehmen oder eine Person, die sich mit dem Verlagsgeschäft befasst.",
         "descriptionEN": "A company or person engaged in the business of publishing.",
-        "descriptionRU": "Компания или человек, занимающийся издательским бизнесом."
+        "descriptionRU": "Компания или человек, занимающийся издательским бизнесом.",
+        "descriptionUK": "Компанія або людина, яка займається видавничим бізнесом.",
+        "descriptionTR": "Yayıncılık işiyle uğraşan bir şirket veya kişi.",
+        "descriptionAZ": "Nəşr işi ilə məşğul olan bir şirkət və ya şəxs."
     }, {
         "de": "der Kammermusiksaal",
         "en": "Chamber Music Hall",
         "ru": "Зал камерной музыки",
+        "tr": "Oda Müziği Salonu",
+        "az": "Otaq Musiqi Zalı",
+        "uk": "Зал камерної музики",
         "descriptionDE": "Ein Veranstaltungsort für Aufführungen von Kammermusik.",
         "descriptionEN": "A venue for performances of chamber music.",
-        "descriptionRU": "Место для выступлений камерной музыки."
+        "descriptionRU": "Место для выступлений камерной музыки.",
+        "descriptionUK": "Місце для виступів камерної музики.",
+        "descriptionTR": "Oda müziği performansları için bir mekan.",
+        "descriptionAZ": "Otaq musiqisi ifaları üçün bir məkan."
     }, {
         "de": "treffen",
         "en": "Meet",
         "ru": "Встречаться",
+        "tr": "Buluşmak",
+        "az": "Görüşmək",
+        "uk": "Зустрічатися",
         "descriptionDE": "Sich mit jemandem treffen.",
         "descriptionEN": "Come together with someone.",
-        "descriptionRU": "Собираться вместе с кем-то."
+        "descriptionRU": "Собираться вместе с кем-то.",
+        "descriptionUK": "Збиратися разом з кимось.",
+        "descriptionTR": "Birisiyle buluşmak.",
+        "descriptionAZ": "Biri ilə görüşmək."
     }, {
         "de": "austauschen",
         "en": "Exchange",
         "ru": "Обменять",
+        "tr": "Değiş tokuş etmek",
+        "az": "Mübadilə etmək",
+        "uk": "Обмінювати",
         "descriptionDE": "Etwas geben und etwas desselben Typs im Austausch erhalten.",
         "descriptionEN": "Give something and receive something of the same kind in return.",
-        "descriptionRU": "Отдать что-то и получить что-то такого же рода взамен."
+        "descriptionRU": "Отдать что-то и получить что-то такого же рода взамен.",
+        "descriptionUK": "Віддати щось і отримати щось такого ж роду натомість.",
+        "descriptionTR": "Bir şey verip karşılığında aynı türden bir şey almak.",
+        "descriptionAZ": "Bir şey verib əvəzində eyni növ bir şey almaq."
     }, {
         "de": "die Finanzierung",
         "en": "Financing",
         "ru": "Финансирование",
+        "tr": "Finansman",
+        "az": "Maliyyələşdirmə",
+        "uk": "Фінансування",
         "descriptionDE": "Die Bereitstellung von Mitteln für einen bestimmten Zweck.",
         "descriptionEN": "The provision of funds for a particular purpose.",
-        "descriptionRU": "Предоставление средств для определенной цели."
+        "descriptionRU": "Предоставление средств для определенной цели.",
+        "descriptionUK": "Надання коштів для певної мети.",
+        "descriptionTR": "Belirli bir amaç için fon sağlama.",
+        "descriptionAZ": "Müəyyən bir məqsəd üçün vəsait təmin etmək."
     }, {
         "de": "öffentliche Mittel",
         "en": "Public Funds",
         "ru": "Государственные средства",
+        "tr": "Kamu Fonları",
+        "az": "Dövlət Fonları",
+        "uk": "Державні кошти",
         "descriptionDE": "Geld, das von der Regierung für die öffentliche Nutzung bereitgestellt wird.",
         "descriptionEN": "Money provided by the government for public use.",
-        "descriptionRU": "Средства, предоставленные правительством для общественного использования."
+        "descriptionRU": "Средства, предоставленные правительством для общественного использования.",
+        "descriptionUK": "Кошти, надані урядом для громадського використання.",
+        "descriptionTR": "Hükümet tarafından kamu kullanımı için sağlanan para.",
+        "descriptionAZ": "Hökumət tərəfindən ictimai istifadə üçün təmin edilən pul."
     }, {
         "de": "barocker",
         "en": "Baroque",
         "ru": "Барочный",
+        "tr": "Barok",
+        "az": "Barok",
+        "uk": "Бароковий",
         "descriptionDE": "Im Zusammenhang mit einem Stil der europäischen Architektur, Musik und Kunst des 17. und 18. Jahrhunderts.",
         "descriptionEN": "Relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries.",
-        "descriptionRU": "Относящийся к стилю европейской архитектуры, музыки и искусства XVII-XVIII веков."
+        "descriptionRU": "Относящийся к стилю европейской архитектуры, музыки и искусства XVII-XVIII веков.",
+        "descriptionUK": "Пов'язаний зі стилем європейської архітектури, музики та мистецтва XVII-XVIII століть.",
+        "descriptionTR": "17. ve 18. yüzyıl Avrupa mimarisi, müziği ve sanatıyla ilgili bir tarzı ifade eder.",
+        "descriptionAZ": "17-18-ci əsrlər Avropa memarlığı, musiqisi və incəsənəti ilə əlaqəli bir üslubu ifadə edir."
     }, {
         "de": "älteren",
         "en": "Older",
         "ru": "Старший",
+        "tr": "Daha Yaşlı",
+        "az": "Daha Yaşlı",
+        "uk": "Старший",
         "descriptionDE": "Hat für eine längere Zeit gelebt oder existiert.",
         "descriptionEN": "Having lived or existed for a longer time.",
-        "descriptionRU": "Проживший или существующий в течение более длительного времени."
+        "descriptionRU": "Проживший или существующий в течение более длительного времени.",
+        "descriptionUK": "Прожилий або існуючий протягом більш тривалого часу.",
+        "descriptionTR": "Daha uzun bir süre yaşamış veya var olmuş.",
+        "descriptionAZ": "Daha uzun müddət yaşamış və ya mövcud olmuş."
     }, {
         "de": "bevorzugten",
         "en": "Preferred",
         "ru": "Предпочтительный",
+        "tr": "Tercih Edilen",
+        "az": "Üstünlük Verilən",
+        "uk": "Переважний",
         "descriptionDE": "Wird mit besonderer Gunst oder Vorliebe betrachtet.",
         "descriptionEN": "Regarded with special favor or preference.",
-        "descriptionRU": "Рассматриваемый с особым расположением или предпочтением."
+        "descriptionRU": "Рассматриваемый с особым расположением или предпочтением.",
+        "descriptionUK": "Розглядається з особливою прихильністю або перевагою.",
+        "descriptionTR": "Özel bir lütuf veya tercihle değerlendirilen.",
+        "descriptionAZ": "Xüsusi bir lütf və ya üstünlüklə qiymətləndirilən."
     }, {
         "de": "Hofbediensteten",
         "en": "Court Servants",
         "ru": "Дворовые слуги",
+        "tr": "Saray Hizmetlileri",
+        "az": "Saray Xidmətçiləri",
+        "uk": "Дворові слуги",
         "descriptionDE": "Angestellte im Haushalt eines königlichen oder adligen Hofes.",
         "descriptionEN": "Servants employed in the household of a royal or noble court.",
-        "descriptionRU": "Слуги, работающие в доме королевского или дворянского двора."
+        "descriptionRU": "Слуги, работающие в доме королевского или дворянского двора.",
+        "descriptionUK": "Слуги, які працюють у домі королівського або дворянського двору.",
+        "descriptionTR": "Kraliyet veya asil bir sarayın evinde çalışan hizmetliler.",
+        "descriptionAZ": "Kral və ya zadəgan bir sarayın evində işləyən xidmətçilər."
     }
 ]

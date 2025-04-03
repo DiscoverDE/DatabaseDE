@@ -3,106 +3,196 @@
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "tr": "hafta sonu",
+        "az": "həftə sonu",
+        "uk": "вихідні",
         "descriptionDE": "die Zeitperiode nach der Arbeitswoche, die in der Regel Freizeitaktivitäten gewidmet ist.",
         "descriptionEN": "the period of time following the workweek, typically devoted to leisure activities.",
-        "descriptionRU": "период времени, следующий за рабочей неделей, обычно посвященный отдыху."
+        "descriptionRU": "период времени, следующий за рабочей неделей, обычно посвященный отдыху.",
+        "descriptionUK": "період часу після робочого тижня, зазвичай присвячений відпочинку.",
+        "descriptionTR": "çalışma haftasını takip eden ve genellikle boş zaman aktivitelerine ayrılan zaman dilimi.",
+        "descriptionAZ": "iş həftəsindən sonra gələn və adətən asudə vaxt fəaliyyətlərinə həsr olunan müddət."
     }, {
         "de": "das Wetter",
         "en": "weather",
         "ru": "погода",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "погода",
         "descriptionDE": "der Zustand der Atmosphäre an einem bestimmten Ort und zu einer bestimmten Zeit in Bezug auf Wärme, Bewölkung, Trockenheit, Sonnenschein, Wind, Regen usw.",
         "descriptionEN": "the state of the atmosphere at a particular place and time, as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.",
-        "descriptionRU": "состояние атмосферы в конкретном месте и время, касающееся температуры, облачности, сухости, солнечного света, ветра, дождя и т.д."
+        "descriptionRU": "состояние атмосферы в конкретном месте и время, касающееся температуры, облачности, сухости, солнечного света, ветра, дождя и т.д.",
+        "descriptionUK": "стан атмосфери в конкретному місці та час, що стосується температури, хмарності, сухості, сонячного світла, вітру, дощу тощо.",
+        "descriptionTR": "belirli bir yerde ve zamanda atmosferin sıcaklık, bulutluluk, kuraklık, güneş ışığı, rüzgar, yağmur vb. açısından durumu.",
+        "descriptionAZ": "müəyyən bir yerdə və zamanda atmosferin istilik, buludluluq, quraqlıq, günəş işığı, külək, yağış və s. baxımından vəziyyəti."
     }, {
         "de": "der Himmel",
         "en": "sky",
         "ru": "небо",
+        "tr": "gökyüzü",
+        "az": "səma",
+        "uk": "небо",
         "descriptionDE": "die Region der Atmosphäre und des Weltraums, die von der Erde aus zu sehen ist.",
         "descriptionEN": "the region of the atmosphere and outer space seen from the earth.",
-        "descriptionRU": "область атмосферы и космоса, видимая с Земли."
+        "descriptionRU": "область атмосферы и космоса, видимая с Земли.",
+        "descriptionUK": "область атмосфери та космосу, видима з Землі.",
+        "descriptionTR": "Dünya'dan görülen atmosfer ve uzay bölgesi.",
+        "descriptionAZ": "Yerdən görünən atmosfer və kosmos bölgəsi."
     }, {
         "de": "die Freundin",
         "en": "friend (female)",
         "ru": "подруга",
+        "tr": "arkadaş (kadın)",
+        "az": "dost (qadın)",
+        "uk": "подруга",
         "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat, normalerweise ausschließlich ohne sexuelle oder familiäre Beziehungen.",
         "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
-        "descriptionRU": "человек, с которым у кого-то есть взаимная привязанность, обычно исключительно вне сексуальных или семейных отношений."
+        "descriptionRU": "человек, с которым у кого-то есть взаимная привязанность, обычно исключительно вне сексуальных или семейных отношений.",
+        "descriptionUK": "людина, з якою хтось має взаємну прив'язаність, зазвичай виключно поза сексуальними або сімейними стосунками.",
+        "descriptionTR": "bir kişiyle karşılıklı sevgi bağı olan, genellikle cinsel veya ailevi ilişkiler dışında kalan bir kişi.",
+        "descriptionAZ": "bir şəxslə qarşılıqlı sevgi bağı olan, adətən cinsi və ya ailəvi münasibətlərdən kənar olan bir şəxs."
     }, {
         "de": "die Fahrradtour",
         "en": "bike tour",
         "ru": "велопрогулка",
+        "tr": "bisiklet turu",
+        "az": "velosiped turu",
+        "uk": "велопрогулянка",
         "descriptionDE": "eine Reise oder Exkursion auf einem Fahrrad.",
         "descriptionEN": "a journey or excursion on a bicycle.",
-        "descriptionRU": "путешествие или экскурсия на велосипеде."
+        "descriptionRU": "путешествие или экскурсия на велосипеде.",
+        "descriptionUK": "подорож або екскурсія на велосипеді.",
+        "descriptionTR": "bir bisiklet üzerinde yapılan bir yolculuk veya gezi.",
+        "descriptionAZ": "velosiped üzərində edilən bir səyahət və ya ekskursiya."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionDE": "in Existenz bringen, indem man Material formt oder ändert, Teile kombiniert usw.",
         "descriptionEN": "to bring into existence by shaping or changing material, combining parts, etc.",
-        "descriptionRU": "создавать, формировать или изменять материал, соединять части и т.д."
+        "descriptionRU": "создавать, формировать или изменять материал, соединять части и т.д.",
+        "descriptionUK": "створювати, формувати або змінювати матеріал, поєднувати частини тощо.",
+        "descriptionTR": "malzemeyi şekillendirerek veya değiştirerek, parçaları birleştirerek vb. var etmek.",
+        "descriptionAZ": "materialı formalaşdıraraq və ya dəyişdirərək, hissələri birləşdirərək və s. mövcud etmək."
     }, {
         "de": "fahren",
         "en": "to ride/drive",
         "ru": "ехать",
+        "tr": "sürmek",
+        "az": "sürmək",
+        "uk": "їхати",
         "descriptionDE": "sich in einem Fahrzeug oder auf etwas bewegen oder reisen, normalerweise über eine relativ lange Strecke.",
         "descriptionEN": "to move or travel in a vehicle or on something, typically for a relatively long distance.",
-        "descriptionRU": "двигаться или путешествовать на транспортном средстве или на чем-то, обычно на относительно длинное расстояние."
+        "descriptionRU": "двигаться или путешествовать на транспортном средстве или на чем-то, обычно на относительно длинное расстояние.",
+        "descriptionUK": "рухатися або подорожувати на транспортному засобі або на чомусь, зазвичай на відносно велику відстань.",
+        "descriptionTR": "bir araçta veya bir şeyin üzerinde hareket etmek veya seyahat etmek, genellikle nispeten uzun bir mesafe için.",
+        "descriptionAZ": "bir vasitədə və ya bir şeyin üzərində hərəkət etmək və ya səyahət etmək, adətən nisbətən uzun bir məsafə üçün."
     }, {
         "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
+        "tr": "güneşli",
+        "az": "günəşli",
+        "uk": "сонячний",
         "descriptionDE": "mit hellem Sonnenlicht; voller Sonnenschein.",
         "descriptionEN": "having bright sunlight; full of sunshine.",
-        "descriptionRU": "имеющий яркое солнце; полный солнечного света."
+        "descriptionRU": "имеющий яркое солнце; полный солнечного света.",
+        "descriptionUK": "має яскраве сонце; повний сонячного світла.",
+        "descriptionTR": "parlak güneş ışığına sahip; güneş dolu.",
+        "descriptionAZ": "parlaq günəş işığına malik; günəş dolu."
     }, {
         "de": "picknicken",
         "en": "to picnic",
         "ru": "пикниковать",
+        "tr": "piknik yapmak",
+        "az": "piknik etmək",
+        "uk": "пікнікувати",
         "descriptionDE": "eine Mahlzeit im Freien essen, besonders mit einem mitgebrachten Mittagessen.",
         "descriptionEN": "to eat a meal outdoors, especially with a packed lunch.",
-        "descriptionRU": "поедать еду на открытом воздухе, особенно с собой в упаковке."
+        "descriptionRU": "поедать еду на открытом воздухе, особенно с собой в упаковке.",
+        "descriptionUK": "їсти їжу на відкритому повітрі, особливо з собою в упаковці.",
+        "descriptionTR": "açık havada bir yemek yemek, özellikle paketlenmiş bir öğle yemeği ile.",
+        "descriptionAZ": "açıq havada bir yemək yemək, xüsusilə qablaşdırılmış bir naharla."
     }, {
         "de": "schwer",
         "en": "heavy",
         "ru": "тяжелый",
+        "tr": "ağır",
+        "az": "ağır",
+        "uk": "важкий",
         "descriptionDE": "mit großem Gewicht; schwer zu heben oder zu bewegen.",
         "descriptionEN": "having a great weight; difficult to lift or move.",
-        "descriptionRU": "имеющий большой вес; трудный для поднятия или перемещения."
+        "descriptionRU": "имеющий большой вес; трудный для поднятия или перемещения.",
+        "descriptionUK": "має велику вагу; важкий для підняття або переміщення.",
+        "descriptionTR": "büyük bir ağırlığa sahip; kaldırmak veya hareket ettirmek zor.",
+        "descriptionAZ": "böyük bir çəkiyə malik; qaldırmaq və ya hərəkət etdirmək çətindir."
     }, {
         "de": "schwarz",
         "en": "black",
         "ru": "черный",
+        "tr": "siyah",
+        "az": "qara",
+        "uk": "чорний",
         "descriptionDE": "von sehr dunkler Farbe aufgrund des Fehlens oder vollständigen Absorptions von Licht.",
         "descriptionEN": "of the very darkest color owing to the absence of or complete absorption of light.",
-        "descriptionRU": "очень темного цвета из-за отсутствия или полного поглощения света."
+        "descriptionRU": "очень темного цвета из-за отсутствия или полного поглощения света.",
+        "descriptionUK": "дуже темного кольору через відсутність або повне поглинання світла.",
+        "descriptionTR": "ışığın yokluğu veya tamamen emilmesi nedeniyle çok koyu renk.",
+        "descriptionAZ": "işığın olmaması və ya tamamilə udulması səbəbindən çox tünd rəng."
     }, {
         "de": "langsam",
         "en": "slow",
         "ru": "медленный",
+        "tr": "yavaş",
+        "az": "yavaş",
+        "uk": "повільний",
         "descriptionDE": "sich mit geringer Geschwindigkeit bewegend oder operierend.",
         "descriptionEN": "moving or operating at a slow speed.",
-        "descriptionRU": "движущийся или работающий с медленной скоростью."
+        "descriptionRU": "движущийся или работающий с медленной скоростью.",
+        "descriptionUK": "рухається або працює з повільною швидкістю.",
+        "descriptionTR": "yavaş bir hızda hareket eden veya çalışan.",
+        "descriptionAZ": "yavaş bir sürətlə hərəkət edən və ya işləyən."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
-        "descriptionRU": "много раз в короткие интервалы."
+        "descriptionRU": "много раз в короткие интервалы.",
+        "descriptionUK": "багато разів у короткі інтервали.",
+        "descriptionTR": "kısa aralıklarla birçok kez.",
+        "descriptionAZ": "qısa fasilələrlə bir çox dəfə."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionDE": "in größerem Maße als üblich oder typisch.",
         "descriptionEN": "to a greater degree than is usual or typical.",
-        "descriptionRU": "в большей степени, чем обычно или типично."
+        "descriptionRU": "в большей степени, чем обычно или типично.",
+        "descriptionUK": "в більшій мірі, ніж зазвичай або типово.",
+        "descriptionTR": "olağan veya tipik olandan daha büyük bir derecede.",
+        "descriptionAZ": "adi və ya tipik olandan daha böyük bir dərəcədə."
     }, {
         "de": "gut",
         "en": "good",
         "ru": "хороший",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "хороший",
         "descriptionDE": "gewünscht oder gebilligt zu sein.",
         "descriptionEN": "to be desired or approved of.",
-        "descriptionRU": "желательный или одобряемый."
+        "descriptionRU": "желательный или одобряемый.",
+        "descriptionUK": "бажаний або схвалений.",
+        "descriptionTR": "istenen veya onaylanan.",
+        "descriptionAZ": "arzu olunan və ya təsdiq edilən."
     }
 ]

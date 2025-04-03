@@ -3,134 +3,248 @@
         "de": "der Fall",
         "en": "case",
         "ru": "дело",
+        "tr": "durum",
+        "az": "iş",
+        "uk": "справа",
         "descriptionEN": "instance of a particular situation; a specific incident or occurrence.",
         "descriptionRU": "случай определенной ситуации; конкретное событие или происшествие.",
-        "descriptionDE": "Instanz einer bestimmten Situation; ein spezifisches Ereignis oder Vorkommnis."
+        "descriptionDE": "Instanz einer bestimmten Situation; ein spezifisches Ereignis oder Vorkommnis.",
+        "descriptionUK": "випадок певної ситуації; конкретна подія або випадок.",
+        "descriptionTR": "belirli bir durumun örneği; belirli bir olay veya olay.",
+        "descriptionAZ": "müəyyən bir vəziyyətin nümunəsi; xüsusi bir hadisə və ya hadisə."
     }, {
         "de": "die Besitzerin",
         "en": "owner",
         "ru": "владелец",
+        "tr": "sahip",
+        "az": "sahib",
+        "uk": "власник",
         "descriptionEN": "a person who owns something.",
         "descriptionRU": "человек, владеющий чем-либо.",
-        "descriptionDE": "Eine Person, die etwas besitzt."
+        "descriptionDE": "Eine Person, die etwas besitzt.",
+        "descriptionUK": "людина, яка володіє чимось.",
+        "descriptionTR": "bir şeye sahip olan kişi.",
+        "descriptionAZ": "bir şeyə sahib olan şəxs."
     }, {
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "tr": "daire",
+        "az": "mənzil",
+        "uk": "квартира",
         "descriptionEN": "a set of rooms for living in, typically on one floor of a large building.",
         "descriptionRU": "набор комнат для проживания, обычно на одном этаже большого здания.",
-        "descriptionDE": "Eine Reihe von Räumen zum Wohnen, normalerweise auf einer Etage eines großen Gebäudes."
+        "descriptionDE": "Eine Reihe von Räumen zum Wohnen, normalerweise auf einer Etage eines großen Gebäudes.",
+        "descriptionUK": "набір кімнат для проживання, зазвичай на одному поверсі великої будівлі.",
+        "descriptionTR": "genellikle büyük bir binanın bir katında yaşamak için bir dizi oda.",
+        "descriptionAZ": "adətən böyük bir binanın bir mərtəbəsində yaşamaq üçün bir sıra otaq."
     }, {
         "de": "der Diebstahl",
         "en": "theft",
         "ru": "кража",
+        "tr": "hırsızlık",
+        "az": "oğurluq",
+        "uk": "крадіжка",
         "descriptionEN": "the action or crime of stealing.",
         "descriptionRU": "действие или преступление похищения.",
-        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls."
+        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls.",
+        "descriptionUK": "дія або злочин викрадення.",
+        "descriptionTR": "hırsızlık eylemi veya suçu.",
+        "descriptionAZ": "oğurluq hərəkəti və ya cinayəti."
     }, {
         "de": "der Schmuck",
         "en": "jewelry",
         "ru": "ювелирные изделия",
+        "tr": "mücevher",
+        "az": "zərgərlik məhsulları",
+        "uk": "ювелірні вироби",
         "descriptionEN": "personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.",
         "descriptionRU": "личные украшения, такие как ожерелья, кольца или браслеты, обычно изготовленные из драгоценных камней и металлов или содержащие их.",
-        "descriptionDE": "Persönliche Schmuckstücke, wie Halsketten, Ringe oder Armbänder, die typischerweise aus oder Edelsteinen und Edelmetallen hergestellt sind."
+        "descriptionDE": "Persönliche Schmuckstücke, wie Halsketten, Ringe oder Armbänder, die typischerweise aus oder Edelsteinen und Edelmetallen hergestellt sind.",
+        "descriptionUK": "особисті прикраси, такі як намиста, кільця або браслети, які зазвичай виготовлені з дорогоцінних каменів і металів або містять їх.",
+        "descriptionTR": "genellikle mücevher ve değerli metallerden yapılan veya içeren kişisel süs eşyaları, örneğin kolyeler, yüzükler veya bilezikler.",
+        "descriptionAZ": "adətən qiymətli daşlar və metallardan hazırlanan və ya ehtiva edən şəxsi bəzək əşyaları, məsələn, boyunbağı, üzüklər və ya bilərziklər."
     }, {
         "de": "die Nachbarschaft",
         "en": "neighborhood",
         "ru": "окрестности",
+        "tr": "mahalle",
+        "az": "qonşuluq",
+        "uk": "сусідство",
         "descriptionEN": "a district, especially one forming a community within a town or city.",
         "descriptionRU": "район, особенно образующий сообщество в городе.",
-        "descriptionDE": "Ein Bezirk, besonders einer, der innerhalb einer Stadtgemeinde liegt."
+        "descriptionDE": "Ein Bezirk, besonders einer, der innerhalb einer Stadtgemeinde liegt.",
+        "descriptionUK": "район, особливо той, що утворює спільноту в місті.",
+        "descriptionTR": "özellikle bir kasaba veya şehirde bir topluluk oluşturan bir bölge.",
+        "descriptionAZ": "xüsusilə bir şəhərdə bir icma yaradan bir rayon."
     }, {
         "de": "der Mann",
         "en": "man",
         "ru": "мужчина",
+        "tr": "adam",
+        "az": "kişi",
+        "uk": "чоловік",
         "descriptionEN": "an adult human male.",
         "descriptionRU": "взрослый мужчина.",
-        "descriptionDE": "Ein erwachsener menschlicher Mann."
+        "descriptionDE": "Ein erwachsener menschlicher Mann.",
+        "descriptionUK": "доросла людина чоловічої статі.",
+        "descriptionTR": "yetişkin bir erkek insan.",
+        "descriptionAZ": "yetkin bir kişi."
     }, {
         "de": "der Tresor",
         "en": "safe",
         "ru": "сейф",
+        "tr": "kasa",
+        "az": "seyf",
+        "uk": "сейф",
         "descriptionEN": "a secure lockable box used for securing valuable objects against theft or damage.",
         "descriptionRU": "безопасный запираемый ящик, используемый для защиты ценных предметов от кражи или повреждений.",
-        "descriptionDE": "Eine sichere verschließbare Box, die zur Sicherung wertvoller Gegenstände gegen Diebstahl oder Beschädigung verwendet wird."
+        "descriptionDE": "Eine sichere verschließbare Box, die zur Sicherung wertvoller Gegenstände gegen Diebstahl oder Beschädigung verwendet wird.",
+        "descriptionUK": "безпечний замиканий ящик, що використовується для захисту цінних предметів від крадіжки або пошкодження.",
+        "descriptionTR": "değerli eşyaları hırsızlığa veya hasara karşı korumak için kullanılan güvenli kilitlenebilir bir kutu.",
+        "descriptionAZ": "qiymətli əşyaları oğurluq və ya ziyandan qorumaq üçün istifadə olunan təhlükəsiz qapanan qutu."
     }, {
         "de": "der Dieb",
         "en": "thief",
         "ru": "вор",
+        "tr": "hırsız",
+        "az": "oğru",
+        "uk": "злодій",
         "descriptionEN": "a person who steals another person's property.",
         "descriptionRU": "человек, который крадет чужое имущество.",
-        "descriptionDE": "Eine Person, die das Eigentum einer anderen Person stiehlt."
+        "descriptionDE": "Eine Person, die das Eigentum einer anderen Person stiehlt.",
+        "descriptionUK": "людина, яка краде чуже майно.",
+        "descriptionTR": "başka bir kişinin malını çalan kişi.",
+        "descriptionAZ": "başqa bir şəxsin əmlakını oğurlayan şəxs."
     }, {
         "de": "entdecken",
         "en": "discover",
         "ru": "обнаружить",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "виявити",
         "descriptionEN": "find unexpectedly or during a search.",
         "descriptionRU": "найти неожиданно или во время поиска.",
-        "descriptionDE": "Unerwartet finden oder während einer Suche."
+        "descriptionDE": "Unerwartet finden oder während einer Suche.",
+        "descriptionUK": "знайти несподівано або під час пошуку.",
+        "descriptionTR": "beklenmedik bir şekilde veya bir arama sırasında bulmak.",
+        "descriptionAZ": "gözlənilmədən və ya axtarış zamanı tapmaq."
     }, {
         "de": "befragen",
         "en": "question",
         "ru": "опросить",
+        "tr": "sorgulamak",
+        "az": "sorğulamaq",
+        "uk": "опитувати",
         "descriptionEN": "ask questions of (someone), especially in an official context.",
         "descriptionRU": "задавать вопросы (кому-то), особенно в официальном контексте.",
-        "descriptionDE": "Fragen (jemanden), besonders in einem offiziellen Kontext."
+        "descriptionDE": "Fragen (jemanden), besonders in einem offiziellen Kontext.",
+        "descriptionUK": "задавати питання (комусь), особливо в офіційному контексті.",
+        "descriptionTR": "özellikle resmi bir bağlamda (birine) sorular sormak.",
+        "descriptionAZ": "xüsusilə rəsmi bir kontekstdə (bir şəxsə) suallar vermək."
     }, {
         "de": "überprüfen",
         "en": "check",
         "ru": "проверить",
+        "tr": "kontrol etmek",
+        "az": "yoxlamaq",
+        "uk": "перевірити",
         "descriptionEN": "examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something.",
         "descriptionRU": "изучить (что-то), чтобы определить его точность, качество или состояние, или обнаружить наличие чего-то.",
-        "descriptionDE": "Untersuchen (etwas), um seine Genauigkeit, Qualität oder Zustand zu bestimmen oder das Vorhandensein von etwas zu erkennen."
+        "descriptionDE": "Untersuchen (etwas), um seine Genauigkeit, Qualität oder Zustand zu bestimmen oder das Vorhandensein von etwas zu erkennen.",
+        "descriptionUK": "дослідити (щось), щоб визначити його точність, якість або стан, або виявити наявність чогось.",
+        "descriptionTR": "bir şeyin doğruluğunu, kalitesini veya durumunu belirlemek veya bir şeyin varlığını tespit etmek için incelemek.",
+        "descriptionAZ": "bir şeyin dəqiqliyini, keyfiyyətini və ya vəziyyətini müəyyən etmək və ya bir şeyin olmasını aşkar etmək üçün araşdırmaq."
     }, {
         "de": "verhaften",
         "en": "arrest",
         "ru": "арестовать",
+        "tr": "tutuklamak",
+        "az": "həbs etmək",
+        "uk": "арештувати",
         "descriptionEN": "seize (someone) by legal authority and take them into custody.",
         "descriptionRU": "задержать (кого-то) по законному поручению и взять под стражу.",
-        "descriptionDE": "Jemanden mit rechtlicher Autorität ergreifen und in Gewahrsam nehmen."
+        "descriptionDE": "Jemanden mit rechtlicher Autorität ergreifen und in Gewahrsam nehmen.",
+        "descriptionUK": "затримати (когось) за законним дорученням і взяти під варту.",
+        "descriptionTR": "yasal yetkiyle (birini) ele geçirmek ve gözaltına almak.",
+        "descriptionAZ": "qanuni səlahiyyətlə (bir şəxsi) ələ keçirmək və həbsə almaq."
     }, {
         "de": "gründlich",
         "en": "thorough",
         "ru": "тщательный",
+        "tr": "titiz",
+        "az": "ətraflı",
+        "uk": "ретельний",
         "descriptionEN": "complete with regard to every detail; not superficial or partial.",
         "descriptionRU": "полный в отношении каждой детали; не поверхностный или частичный.",
-        "descriptionDE": "Vollständig in Bezug auf jedes Detail; nicht oberflächlich oder partiell."
+        "descriptionDE": "Vollständig in Bezug auf jedes Detail; nicht oberflächlich oder partiell.",
+        "descriptionUK": "повний щодо кожної деталі; не поверхневий або частковий.",
+        "descriptionTR": "her detayı dikkate alarak tam; yüzeysel veya kısmi değil.",
+        "descriptionAZ": "hər bir detalı nəzərə alaraq tam; səthi və ya qismən deyil."
     }, {
         "de": "örtlich",
         "en": "local",
         "ru": "местный",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий",
         "descriptionEN": "belonging or relating to a particular area or neighborhood, typically exclusively so.",
         "descriptionRU": "принадлежащий или относящийся к определенной местности или району, обычно исключительно так.",
-        "descriptionDE": "Gehörend oder in Bezug auf eine bestimmte Gegend oder Nachbarschaft, typischerweise ausschließlich so."
+        "descriptionDE": "Gehörend oder in Bezug auf eine bestimmte Gegend oder Nachbarschaft, typischerweise ausschließlich so.",
+        "descriptionUK": "належний або стосовний до певної місцевості або району, зазвичай виключно так.",
+        "descriptionTR": "belirli bir alana veya mahalleye ait veya ilişkin, genellikle özel olarak.",
+        "descriptionAZ": "müəyyən bir əraziyə və ya məhəlləyə aid və ya aid olan, adətən xüsusi olaraq."
     }, {
         "de": "groß",
         "en": "large",
         "ru": "большой",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
         "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
         "descriptionRU": "значительного или относительно большого размера, объема или вместимости.",
-        "descriptionDE": "Von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
+        "descriptionDE": "Von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität.",
+        "descriptionUK": "значного або відносно великого розміру, обсягу або місткості.",
+        "descriptionTR": "önemli veya nispeten büyük boyut, kapsam veya kapasiteye sahip.",
+        "descriptionAZ": "əhəmiyyətli və ya nisbətən böyük ölçü, həcm və ya tutuma malik."
     }, {
         "de": "viel",
         "en": "much",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionEN": "a large amount or to a large extent.",
         "descriptionRU": "большое количество или в значительной степени.",
-        "descriptionDE": "Eine große Menge oder in großem Maße."
+        "descriptionDE": "Eine große Menge oder in großem Maße.",
+        "descriptionUK": "велика кількість або в значній мірі.",
+        "descriptionTR": "büyük bir miktar veya büyük ölçüde.",
+        "descriptionAZ": "böyük bir miqdar və ya böyük dərəcədə."
     }, {
         "de": "kurz",
         "en": "short",
         "ru": "короткий",
+        "tr": "kısa",
+        "az": "qısa",
+        "uk": "короткий",
         "descriptionEN": "measuring a small distance from end to end.",
         "descriptionRU": "измерение небольшого расстояния от конца до конца.",
-        "descriptionDE": "Misst eine kurze Entfernung von Ende zu Ende."
+        "descriptionDE": "Misst eine kurze Entfernung von Ende zu Ende.",
+        "descriptionUK": "вимірювання невеликої відстані від кінця до кінця.",
+        "descriptionTR": "bir uçtan diğer uca küçük bir mesafe ölçen.",
+        "descriptionAZ": "bir ucdan digərinə kiçik bir məsafə ölçən."
     }, {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
+        "tr": "gizli",
+        "az": "gizli",
+        "uk": "прихований",
         "descriptionEN": "kept out of sight; concealed.",
         "descriptionRU": "держался в стороне; скрытый.",
-        "descriptionDE": "Außer Sichtweite gehalten; verborgen."
+        "descriptionDE": "Außer Sichtweite gehalten; verborgen.",
+        "descriptionUK": "тримався осторонь; прихований.",
+        "descriptionTR": "gözden uzak tutulmuş; gizli.",
+        "descriptionAZ": "gözdən uzaq tutulmuş; gizli."
     }
 ]

@@ -3,106 +3,196 @@
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
         "descriptionEN": "a festival held in some countries, especially in Roman Catholic regions on Shrove Tuesday, typically involving processions, music, dancing, and the use of masquerade.",
         "descriptionRU": "праздник, проводимый в некоторых странах, особенно в римско-католических регионах в Великий Вторник, обычно включающий процессии, музыку, танцы и использование маскарада.",
-        "descriptionDE": "ein Fest, das in einigen Ländern, insbesondere in römisch-katholischen Regionen am Faschingsdienstag, typischerweise mit Prozessionen, Musik, Tanz und dem Gebrauch von Maskerade, stattfindet."
+        "descriptionDE": "ein Fest, das in einigen Ländern, insbesondere in römisch-katholischen Regionen am Faschingsdienstag, typischerweise mit Prozessionen, Musik, Tanz und dem Gebrauch von Maskerade, stattfindet.",
+        "descriptionTR": "Bazı ülkelerde, özellikle Katolik bölgelerde, genellikle geçit törenleri, müzik, dans ve maskelerin yer aldığı Şubat ayında kutlanan bir festival.",
+        "descriptionAZ": "Bəzi ölkələrdə, xüsusilə Roma Katolik bölgələrində keçirilən, adətən yürüşlər, musiqi, rəqs və maskalarla qeyd olunan bir bayram.",
+        "descriptionUK": "Свято, яке проводиться в деяких країнах, особливо в римо-католицьких регіонах у Масляну вівторок, зазвичай включає процесії, музику, танці та використання маскараду."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insanlıkla ilgili olanların incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan fəaliyyətləri ilə bağlı olanların öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "das Fest",
         "en": "celebration",
         "ru": "праздник",
+        "tr": "kutlama",
+        "az": "bayram",
+        "uk": "свято",
         "descriptionEN": "an event or activity that is performed to commemorate, exhibit, or celebrate a specific occasion or tradition.",
         "descriptionRU": "событие или мероприятие, проводимое для того чтобы отметить, продемонстрировать или отпраздновать определенное событие или традицию.",
-        "descriptionDE": "eine Veranstaltung oder Aktivität, die durchgeführt wird, um eine bestimmte Gelegenheit oder Tradition zu gedenken, zu zeigen oder zu feiern."
+        "descriptionDE": "eine Veranstaltung oder Aktivität, die durchgeführt wird, um eine bestimmte Gelegenheit oder Tradition zu gedenken, zu zeigen oder zu feiern.",
+        "descriptionTR": "Belirli bir durumu veya geleneği anmak, göstermek veya kutlamak için gerçekleştirilen etkinlik veya faaliyet.",
+        "descriptionAZ": "Müəyyən bir hadisəni və ya ənənəni yad etmək, nümayiş etdirmək və ya qeyd etmək üçün keçirilən tədbir və ya fəaliyyət.",
+        "descriptionUK": "Подія або діяльність, що проводиться для вшанування, демонстрації або святкування певної події чи традиції."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
         "descriptionRU": "искусство или практика проектирования и строительства зданий.",
-        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
+        "descriptionTR": "Binaların tasarımı ve inşası sanatı veya uygulaması.",
+        "descriptionAZ": "Binaların layihələndirilməsi və inşası sənəti və ya tətbiqi.",
+        "descriptionUK": "Мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "die Veranstaltung",
         "en": "event",
         "ru": "событие",
+        "tr": "etkinlik",
+        "az": "tədbir",
+        "uk": "подія",
         "descriptionEN": "a planned public or social occasion.",
         "descriptionRU": "запланированное общественное или социальное мероприятие.",
-        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Gelegenheit."
+        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Gelegenheit.",
+        "descriptionTR": "Planlanmış bir kamuya açık veya sosyal etkinlik.",
+        "descriptionAZ": "Planlaşdırılmış ictimai və ya sosial tədbir.",
+        "descriptionUK": "Запланований громадський або соціальний захід."
     }, {
         "de": "der Aspekt",
         "en": "aspect",
         "ru": "аспект",
+        "tr": "bakış açısı",
+        "az": "aspekt",
+        "uk": "аспект",
         "descriptionEN": "a particular part or feature of something.",
         "descriptionRU": "особая часть или характеристика чего-либо.",
-        "descriptionDE": "ein bestimmter Teil oder eine Eigenschaft von etwas."
+        "descriptionDE": "ein bestimmter Teil oder eine Eigenschaft von etwas.",
+        "descriptionTR": "Bir şeyin belirli bir parçası veya özelliği.",
+        "descriptionAZ": "Bir şeyin müəyyən hissəsi və ya xüsusiyyəti.",
+        "descriptionUK": "Конкретна частина або риса чогось."
     }, {
         "de": "die Plattform",
         "en": "platform",
         "ru": "платформа",
+        "tr": "platform",
+        "az": "platforma",
+        "uk": "платформа",
         "descriptionEN": "a raised level surface on which people or things can stand.",
         "descriptionRU": "поднятая поверхность, на которой могут стоять люди или вещи.",
-        "descriptionDE": "eine erhöhte ebene Fläche, auf der Menschen oder Dinge stehen können."
+        "descriptionDE": "eine erhöhte ebene Fläche, auf der Menschen oder Dinge stehen können.",
+        "descriptionTR": "İnsanların veya eşyaların durabileceği yükseltilmiş düz yüzey.",
+        "descriptionAZ": "İnsanların və ya əşyaların dayana biləcəyi yüksəldilmiş səth.",
+        "descriptionUK": "Піднята рівна поверхня, на якій можуть стояти люди або речі."
     }, {
         "de": "der Stadtteil",
         "en": "district",
         "ru": "район",
+        "tr": "semt",
+        "az": "rayon",
+        "uk": "район",
         "descriptionEN": "an area of a town or city that has a particular character or is used for a particular purpose.",
         "descriptionRU": "часть города, которая имеет особый характер или используется для особой цели.",
-        "descriptionDE": "ein Bereich einer Stadt, der einen bestimmten Charakter hat oder für einen bestimmten Zweck verwendet wird."
+        "descriptionDE": "ein Bereich einer Stadt, der einen bestimmten Charakter hat oder für einen bestimmten Zweck verwendet wird.",
+        "descriptionTR": "Belirli bir karaktere sahip veya özel bir amaç için kullanılan şehir bölgesi.",
+        "descriptionAZ": "Xüsusi xarakteri olan və ya müəyyən məqsəd üçün istifadə edilən şəhər sahəsi.",
+        "descriptionUK": "Частина міста, яка має особливий характер або використовується для певної мети."
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
         "descriptionRU": "признавать (значимый или счастливый день или событие) общественным собранием или приятным мероприятием.",
-        "descriptionDE": "(einen bedeutsamen oder glücklichen Tag oder ein Ereignis) mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen."
+        "descriptionDE": "(einen bedeutsamen oder glücklichen Tag oder ein Ereignis) mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen.",
+        "descriptionTR": "Önemli veya mutlu bir günü sosyal etkinlik veya eğlenceli bir faaliyetle kutlamak.",
+        "descriptionAZ": "Əhəmiyyətli və ya xoş bir günü sosial tədbir və ya əyləncəli fəaliyyətlə qeyd etmək.",
+        "descriptionUK": "Відзначати важливу або радісну подію соціальним зібранням або приємною діяльністю."
     }, {
         "de": "tanzen",
         "en": "dance",
         "ru": "танцевать",
+        "tr": "dans etmek",
+        "az": "rəqs etmək",
+        "uk": "танцювати",
         "descriptionEN": "move rhythmically to music, typically following a set sequence of steps.",
         "descriptionRU": "двигаться ритмично под музыку, обычно следуя установленной последовательности шагов.",
-        "descriptionDE": "sich rhythmisch zur Musik bewegen, typischerweise einer festgelegten Abfolge von Schritten folgend."
+        "descriptionDE": "sich rhythmisch zur Musik bewegen, typischerweise einer festgelegten Abfolge von Schritten folgend.",
+        "descriptionTR": "Müziğe ritmik olarak hareket etmek, genellikle belirli bir adım sırasını takip ederek.",
+        "descriptionAZ": "Musiqiyə ritmik hərəkət etmək, adətən müəyyən bir addım ardıcıllığını izləməklə.",
+        "descriptionUK": "Ритмічно рухатися під музику, зазвичай дотримуючись певної послідовності кроків."
     }, {
         "de": "lebhaft",
         "en": "lively",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
         "descriptionEN": "full of life and energy; active and outgoing.",
         "descriptionRU": "полный жизни и энергии; активный и общительный.",
-        "descriptionDE": "voll Leben und Energie; aktiv und extrovertiert."
+        "descriptionDE": "voll Leben und Energie; aktiv und extrovertiert.",
+        "descriptionTR": "Hayat dolu ve enerjik; aktif ve dışa dönük.",
+        "descriptionAZ": "Həyat dolu və enerjili; aktiv və ünsiyyətcil.",
+        "descriptionUK": "Повний життя та енергії; активний і товариський."
     }, {
         "de": "farbenfroh",
         "en": "colorful",
         "ru": "красочный",
+        "tr": "renkli",
+        "az": "rəngarəng",
+        "uk": "яскравий",
         "descriptionEN": "having much or varied color; bright and striking.",
         "descriptionRU": "имеющий много или разнообразный цвет; яркий и выразительный.",
-        "descriptionDE": "viel oder vielfarbig; hell und auffallend."
+        "descriptionDE": "viel oder vielfarbig; hell und auffallend.",
+        "descriptionTR": "Çok veya çeşitli renklere sahip; parlak ve dikkat çekici.",
+        "descriptionAZ": "Çox və müxtəlif rənglərə malik; parlaq və cəlbedici.",
+        "descriptionUK": "Маючи багато або різноманітні кольори; яскравий і виразний."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionEN": "existing in or as part of a tradition; long-established.",
         "descriptionRU": "существующий в рамках традиции; давно установленный.",
-        "descriptionDE": "vorhanden in oder als Teil einer Tradition; altbewährt."
+        "descriptionDE": "vorhanden in oder als Teil einer Tradition; altbewährt.",
+        "descriptionTR": "Bir geleneğin parçası olan veya onun içinde var olan; köklü.",
+        "descriptionAZ": "Ənənənin bir hissəsi olan və ya onun içində mövcud olan; köklü.",
+        "descriptionUK": "Існуючий у межах традиції; давно встановлений."
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group.",
         "descriptionRU": "понравившийся, восхищенный или пользовавшийся популярностью у многих людей или у конкретного человека или группы.",
-        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen."
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen.",
+        "descriptionTR": "Birçok kişi veya belirli bir kişi ya da grup tarafından beğenilen, takdir edilen veya sevilen.",
+        "descriptionAZ": "Çox insan və ya müəyyən bir qrup tərəfindən sevilən, bəyənilən və qiymətləndirilən.",
+        "descriptionUK": "Улюблений, захоплюючий або популярний серед багатьох людей або певної групи."
     }, {
         "de": "authentisch",
         "en": "authentic",
         "ru": "аутентичный",
+        "tr": "otantik",
+        "az": "orijinal",
+        "uk": "автентичний",
         "descriptionEN": "of undisputed origin and not a copy; genuine.",
         "descriptionRU": "безусловного происхождения и не копия; подлинный.",
-        "descriptionDE": "unbestrittener Herkunft und keine Kopie; echt."
+        "descriptionDE": "unbestrittener Herkunft und keine Kopie; echt.",
+        "descriptionTR": "Tartışılmaz kökene sahip ve kopya olmayan; özgün.",
+        "descriptionAZ": "Şübhəsiz mənşəli və surət olmayan; orijinal.",
+        "descriptionUK": "Безсумнівного походження, не копія; справжній."
     }
 ]

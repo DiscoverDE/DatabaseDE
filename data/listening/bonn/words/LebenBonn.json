@@ -3,141 +3,261 @@
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "a group of one or more parents and their children living together as a unit.",
         "descriptionRU": "группа одного или нескольких родителей и их детей, живущих вместе как единое целое.",
-        "descriptionDE": "eine Gruppe von einem oder mehreren Elternteilen und ihren Kindern, die zusammen als Einheit leben."
+        "descriptionDE": "eine Gruppe von einem oder mehreren Elternteilen und ihren Kindern, die zusammen als Einheit leben.",
+        "descriptionUK": "група одного або кількох батьків та їхніх дітей, які живуть разом як єдине ціле.",
+        "descriptionTR": "bir veya daha fazla ebeveyn ve çocuklarının bir arada yaşadığı bir grup.",
+        "descriptionAZ": "bir və ya daha çox valideyn və onların uşaqlarının bir arada yaşadığı bir qrup."
     }, {
         "de": "die Freizeit",
         "en": "leisure time",
         "ru": "досуг",
+        "tr": "boş zaman",
+        "az": "boş vaxt",
+        "uk": "дозвілля",
         "descriptionEN": "time that is free from work or other duties and can be spent relaxing or doing whatever one wants.",
         "descriptionRU": "время, свободное от работы или других обязанностей, которое можно провести отдыхая или делая все, что хочется.",
-        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Pflichten ist und zum Entspannen oder für beliebige Aktivitäten genutzt werden kann."
+        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Pflichten ist und zum Entspannen oder für beliebige Aktivitäten genutzt werden kann.",
+        "descriptionUK": "час, вільний від роботи чи інших обов'язків, який можна провести, відпочиваючи чи роблячи все, що заманеться.",
+        "descriptionTR": "iş veya diğer görevlerden uzak, dinlenerek veya istenilen her şeyi yaparak geçirilebilecek zaman.",
+        "descriptionAZ": "iş və ya digər vəzifələrdən azad olan, istirahət edərək və ya istənilən şeyi edərək keçirilə bilən vaxt."
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future.",
         "descriptionRU": "неопределенное продолжение существования и событий в прошлом, настоящем и будущем.",
-        "descriptionDE": "der unbestimmte fortlaufende Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft."
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft.",
+        "descriptionUK": "невизначене продовження існування та подій у минулому, теперішньому та майбутньому.",
+        "descriptionTR": "geçmiş, şimdiki ve gelecekteki varoluş ve olayların belirsiz devam eden ilerlemesi.",
+        "descriptionAZ": "keçmiş, indiki və gələcəkdəki mövcudluq və hadisələrin qeyri-müəyyən davam edən inkişafı."
     }, {
         "de": "der Ingenieur",
         "en": "engineer",
         "ru": "инженер",
+        "tr": "mühendis",
+        "az": "mühəndis",
+        "uk": "інженер",
         "descriptionEN": "a person who designs, builds, or maintains engines, machines, or public works.",
         "descriptionRU": "человек, занимающийся проектированием, строительством или обслуживанием двигателей, машин или общественных работ.",
-        "descriptionDE": "eine Person, die Motoren, Maschinen oder öffentliche Werke entwirft, baut oder instand hält."
+        "descriptionDE": "eine Person, die Motoren, Maschinen oder öffentliche Werke entwirft, baut oder instand hält.",
+        "descriptionUK": "людина, яка займається проектуванням, будівництвом або обслуговуванням двигунів, машин або громадських робіт.",
+        "descriptionTR": "motorlar, makineler veya kamu işlerini tasarlayan, inşa eden veya bakımını yapan bir kişi.",
+        "descriptionAZ": "mühərriklər, maşınlar və ya ictimai işlər dizayn edən, inşa edən və ya baxımını edən bir şəxs."
     }, {
         "de": "die Lehrerin",
         "en": "teacher",
         "ru": "учительница",
+        "tr": "öğretmen",
+        "az": "müəllimə",
+        "uk": "вчителька",
         "descriptionEN": "a person who teaches, especially in a school.",
         "descriptionRU": "человек, который преподает, особенно в школе.",
-        "descriptionDE": "eine Person, die unterrichtet, insbesondere in einer Schule."
+        "descriptionDE": "eine Person, die unterrichtet, insbesondere in einer Schule.",
+        "descriptionUK": "людина, яка викладає, особливо в школі.",
+        "descriptionTR": "özellikle bir okulda öğretmenlik yapan bir kişi.",
+        "descriptionAZ": "xüsusilə bir məktəbdə dərs deyən bir şəxs."
     }, {
         "de": "der Fußballfan",
         "en": "football fan",
         "ru": "болельщик футбола",
+        "tr": "futbol taraftarı",
+        "az": "futbol azarkeşi",
+        "uk": "вболівальник футболу",
         "descriptionEN": "a person who is passionate about football.",
         "descriptionRU": "человек, который увлечен футболом.",
-        "descriptionDE": "eine Person, die leidenschaftlich gerne Fußball schaut oder darüber spricht."
+        "descriptionDE": "eine Person, die leidenschaftlich gerne Fußball schaut oder darüber spricht.",
+        "descriptionUK": "людина, яка захоплюється футболом.",
+        "descriptionTR": "futbola tutkuyla bağlı bir kişi.",
+        "descriptionAZ": "futbola həvəslə bağlı bir şəxs."
     }, {
         "de": "der Chor",
         "en": "choir",
         "ru": "хор",
+        "tr": "koro",
+        "az": "xor",
+        "uk": "хор",
         "descriptionEN": "a group of singers, especially one that takes part in church services or performs in public.",
         "descriptionRU": "группа певцов, особенно та, которая участвует в церковных службах или выступает публично.",
-        "descriptionDE": "eine Gruppe von Sängern, insbesondere eine, die an Gottesdiensten teilnimmt oder öffentlich auftritt."
+        "descriptionDE": "eine Gruppe von Sängern, insbesondere eine, die an Gottesdiensten teilnimmt oder öffentlich auftritt.",
+        "descriptionUK": "група співаків, особливо та, яка бере участь у церковних службах або виступає публічно.",
+        "descriptionTR": "özellikle kilise hizmetlerine katılan veya halka açık performanslar sergileyen bir grup şarkıcı.",
+        "descriptionAZ": "xüsusilə kilsə xidmətlərində iştirak edən və ya ictimai çıxış edən bir qrup müğənni."
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "a large public green area in a town, used for recreation.",
         "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
-        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird.",
+        "descriptionUK": "велика громадська зелена зона в місті, що використовується для відпочинку.",
+        "descriptionTR": "bir kasabada rekreasyon için kullanılan büyük bir halka açık yeşil alan.",
+        "descriptionAZ": "bir şəhərdə istirahət üçün istifadə olunan böyük bir ictimai yaşıl sahə."
     }, {
         "de": "grün",
         "en": "green",
         "ru": "зеленый",
+        "tr": "yeşil",
+        "az": "yaşıl",
+        "uk": "зелений",
         "descriptionEN": "of the color between blue and yellow in the spectrum.",
         "descriptionRU": "цвет между синим и желтым в спектре.",
-        "descriptionDE": "von der Farbe zwischen Blau und Gelb im Spektrum."
+        "descriptionDE": "von der Farbe zwischen Blau und Gelb im Spektrum.",
+        "descriptionUK": "колір між синім і жовтим у спектрі.",
+        "descriptionTR": "spektrumda mavi ve sarı arasındaki renk.",
+        "descriptionAZ": "spektrdə mavi və sarı arasındakı rəng."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihsel",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "belonging to the past.",
         "descriptionRU": "принадлежащий прошлому.",
-        "descriptionDE": "gehörend zur Vergangenheit."
+        "descriptionDE": "gehörend zur Vergangenheit.",
+        "descriptionUK": "належний до минулого.",
+        "descriptionTR": "geçmişe ait.",
+        "descriptionAZ": "keçmişə aid olan."
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "pleasing the senses or mind aesthetically.",
         "descriptionRU": "удовлетворяющий чувства или разум эстетически.",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend.",
+        "descriptionUK": "задовольняє почуття чи розум естетично.",
+        "descriptionTR": "duyuları veya zihni estetik olarak tatmin eden.",
+        "descriptionAZ": "duyğuları və ya zehni estetik olaraq təmin edən."
     }, {
         "de": "lebendig",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
         "descriptionEN": "full of energy and life.",
         "descriptionRU": "полный энергии и жизни.",
-        "descriptionDE": "voller Energie und Leben."
+        "descriptionDE": "voller Energie und Leben.",
+        "descriptionUK": "повний енергії та життя.",
+        "descriptionTR": "enerji ve hayat dolu.",
+        "descriptionAZ": "enerji və həyat dolu."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "pleasing the senses or mind aesthetically.",
         "descriptionRU": "удовлетворяющий чувства или разум эстетически.",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend.",
+        "descriptionUK": "задовольняє почуття чи розум естетично.",
+        "descriptionTR": "duyuları veya zihni estetik olarak tatmin eden.",
+        "descriptionAZ": "duyğuları və ya zehni estetik olaraq təmin edən."
     }, {
         "de": "wundervoll",
         "en": "wonderful",
         "ru": "замечательный",
+        "tr": "harika",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
         "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good; marvellous.",
         "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; крайне хороший; чудесный.",
-        "descriptionDE": "Freude, Vergnügen oder Bewunderung inspirierend; äußerst gut; wunderbar."
+        "descriptionDE": "Freude, Vergnügen oder Bewunderung inspirierend; äußerst gut; wunderbar.",
+        "descriptionUK": "надихає захват, задоволення чи захоплення; надзвичайно хороший; чудовий.",
+        "descriptionTR": "neşe, zevk veya hayranlık ilham veren; son derece iyi; harika.",
+        "descriptionAZ": "sevinc, zövq və ya heyranlıq ilham verən; son dərəcə yaxşı; möhtəşəm."
     }, {
         "de": "gemütlich",
         "en": "cozy",
         "ru": "уютный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
         "descriptionRU": "создающий ощущение комфорта, тепла и расслабления.",
-        "descriptionDE": "ein Gefühl von Komfort, Wärme und Entspannung vermittelnd."
+        "descriptionDE": "ein Gefühl von Komfort, Wärme und Entspannung vermittelnd.",
+        "descriptionUK": "створює відчуття комфорту, тепла та розслаблення.",
+        "descriptionTR": "konfor, sıcaklık ve rahatlama hissi veren.",
+        "descriptionAZ": "rahatlıq, istilik və rahatlıq hissi verən."
     }, {
         "de": "kurz",
         "en": "short",
         "ru": "короткий",
+        "tr": "kısa",
+        "az": "qısa",
+        "uk": "короткий",
         "descriptionEN": "measuring a small distance from end to end.",
         "descriptionRU": "измеряя малое расстояние от конца до конца.",
-        "descriptionDE": "ein kleiner Abstand von Ende zu Ende messend."
+        "descriptionDE": "ein kleiner Abstand von Ende zu Ende messend.",
+        "descriptionUK": "вимірюючи невелику відстань від кінця до кінця.",
+        "descriptionTR": "bir uçtan diğer uca küçük bir mesafe ölçen.",
+        "descriptionAZ": "bir ucdan digərinə kiçik bir məsafə ölçən."
     }, {
         "de": "schwimmen",
         "en": "to swim",
         "ru": "плавать",
+        "tr": "yüzmek",
+        "az": "üzümək",
+        "uk": "плавати",
         "descriptionEN": "to propel oneself through water using the limbs.",
         "descriptionRU": "двигаться в воде, используя конечности.",
-        "descriptionDE": "sich mithilfe der Gliedmaßen durch Wasser fortbewegen."
+        "descriptionDE": "sich mithilfe der Gliedmaßen durch Wasser fortbewegen.",
+        "descriptionUK": "рухатися у воді, використовуючи кінцівки.",
+        "descriptionTR": "uzuvlarını kullanarak suda ilerlemek.",
+        "descriptionAZ": "əzalarını istifadə edərək suda hərəkət etmək."
     }, {
         "de": "lesen",
         "en": "to read",
         "ru": "читать",
+        "tr": "okumak",
+        "az": "oxumaq",
+        "uk": "читати",
         "descriptionEN": "to look at and comprehend the meaning of written or printed matter by mentally interpreting the characters or symbols of which it is composed.",
         "descriptionRU": "рассматривать и понимать значение письменного или печатного материала, путем ментального интерпретирования символов или символов, из которых он состоит.",
-        "descriptionDE": "die Bedeutung von geschriebenem oder gedrucktem Material durch mentales Interpretieren der Zeichen oder Symbole, aus denen es besteht, betrachten und verstehen."
+        "descriptionDE": "die Bedeutung von geschriebenem oder gedrucktem Material durch mentales Interpretieren der Zeichen oder Symbole, aus denen es besteht, betrachten und verstehen.",
+        "descriptionUK": "розглядати та розуміти значення письмового або друкованого матеріалу, шляхом ментального інтерпретування символів або символів, з яких він складається.",
+        "descriptionTR": "yazılı veya basılı materyalin anlamını, onu oluşturan karakterler veya semboller zihinsel olarak yorumlayarak anlamak.",
+        "descriptionAZ": "yazılı və ya çap olunmuş materialın mənasını, onu təşkil edən simvollar və ya simvolları zehni olaraq şərh edərək anlamaq."
     }, {
         "de": "bewundern",
         "en": "to admire",
         "ru": "восхищаться",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionEN": "to regard with respect or warm approval.",
         "descriptionRU": "относиться с уважением или теплым одобрением.",
-        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten."
+        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten.",
+        "descriptionUK": "ставитися з повагою або теплим схваленням.",
+        "descriptionTR": "saygı veya sıcak bir onayla bakmak.",
+        "descriptionAZ": "hörmət və ya isti bir təsdiqlə baxmaq."
     }, {
         "de": "verbringen",
         "en": "to spend",
         "ru": "проводить",
+        "tr": "harcamak",
+        "az": "sərf etmək",
+        "uk": "проводити",
         "descriptionEN": "to use time in a particular way or in a particular place.",
         "descriptionRU": "использовать время таким образом или в таком месте.",
-        "descriptionDE": "Zeit auf eine bestimmte Weise oder an einem bestimmten Ort verwenden."
+        "descriptionDE": "Zeit auf eine bestimmte Weise oder an einem bestimmten Ort verwenden.",
+        "descriptionUK": "використовувати час таким чином або в такому місці.",
+        "descriptionTR": "zamanı belirli bir şekilde veya belirli bir yerde kullanmak.",
+        "descriptionAZ": "vaxtı müəyyən bir şəkildə və ya müəyyən bir yerdə istifadə etmək."
     }
 ]
