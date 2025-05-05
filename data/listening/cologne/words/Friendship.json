@@ -3,85 +3,168 @@
         "de": "die Haustür",
         "en": "front door",
         "ru": "входная дверь",
+        "tr": "ön kapı",
+        "az": "giriş qapısı",
+        "uk": "вхідні двері",
         "descriptionEN": "the main entrance door to a house or building.",
         "descriptionRU": "основная входная дверь в дом или здание.",
-        "descriptionDE": "die Haupteingangstür zu einem Haus oder Gebäude."
-    }, {
+        "descriptionDE": "die Haupteingangstür zu einem Haus oder Gebäude.",
+        "descriptionTR": "bir ev veya binanın ana giriş kapısı.",
+        "descriptionAZ": "ev və ya binanın əsas giriş qapısı.",
+        "descriptionUK": "головні вхідні двері до будинку чи будівлі."
+    },
+    {
         "de": "die Schüssel",
         "en": "bowl",
         "ru": "миска",
+        "tr": "kase",
+        "az": "qab",
+        "uk": "миска",
         "descriptionEN": "a round, deep dish for serving food.",
         "descriptionRU": "круглая глубокая посуда для подачи еды.",
-        "descriptionDE": "eine runde, tiefe Schale zum Servieren von Speisen."
-    }, {
+        "descriptionDE": "eine runde, tiefe Schale zum Servieren von Speisen.",
+        "descriptionTR": "yemek servisi için kullanılan yuvarlak, derin kap.",
+        "descriptionAZ": "yemək üçün istifadə olunan dəyirmi, dərin qab.",
+        "descriptionUK": "кругла глибока посудина для подачі їжі."
+    },
+    {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
         "descriptionEN": "a person with whom one has a bond of mutual affection.",
         "descriptionRU": "человек, с которым у тебя взаимная дружба.",
-        "descriptionDE": "eine Person, mit der man eine Verbindung gegenseitiger Zuneigung hat."
-    }, {
+        "descriptionDE": "eine Person, mit der man eine Verbindung gegenseitiger Zuneigung hat.",
+        "descriptionTR": "karşılıklı sevgi bağı olan kişi.",
+        "descriptionAZ": "qarşılıqlı sevgi bağı olan insan.",
+        "descriptionUK": "людина, з якою у вас взаємна прихильність."
+    },
+    {
         "de": "die Nachspeise",
         "en": "dessert",
         "ru": "десерт",
+        "tr": "tatlı",
+        "az": "desert",
+        "uk": "десерт",
         "descriptionEN": "a sweet course typically eaten at the end of a meal.",
         "descriptionRU": "сладкое блюдо, обычно употребляемое в конце приема пищи.",
-        "descriptionDE": "ein süßer Gang, der normalerweise am Ende einer Mahlzeit gegessen wird."
-    }, {
+        "descriptionDE": "ein süßer Gang, der normalerweise am Ende einer Mahlzeit gegessen wird.",
+        "descriptionTR": "tipik olarak yemeğin sonunda yenen tatlı bir yemek.",
+        "descriptionAZ": "adətən yeməyin sonunda yeyilən şirin yemək.",
+        "descriptionUK": "солодка страва, яку зазвичай їдять наприкінці трапези."
+    },
+    {
         "de": "der Honig",
         "en": "honey",
         "ru": "мед",
+        "tr": "bal",
+        "az": "bal",
+        "uk": "мед",
         "descriptionEN": "a sweet, sticky, yellowish-brown fluid made by bees.",
         "descriptionRU": "сладкая, клейкая, желто-коричневая жидкость, производимая пчелами.",
-        "descriptionDE": "eine süße, klebrige, gelbbraune Flüssigkeit, die von Bienen hergestellt wird."
-    }, {
+        "descriptionDE": "eine süße, klebrige, gelbbraune Flüssigkeit, die von Bienen hergestellt wird.",
+        "descriptionTR": "arılar tarafından yapılan tatlı, yapışkan, sarımsı kahverengi sıvı.",
+        "descriptionAZ": "arılar tərəfindən hazırlanan şirin, yapışqan, sarımtıl-qəhvəyi maye.",
+        "descriptionUK": "солодка, липка, жовтувато-коричнева рідина, що виробляється бджолами."
+    },
+    {
         "de": "der Geschmack",
         "en": "taste",
         "ru": "вкус",
+        "tr": "tat",
+        "az": "dad",
+        "uk": "смак",
         "descriptionEN": "the sensation of flavor perceived in the mouth.",
         "descriptionRU": "ощущение вкуса, воспринимаемое во рту.",
-        "descriptionDE": "die Empfindung von Geschmack, die im Mund wahrgenommen wird."
-    }, {
+        "descriptionDE": "die Empfindung von Geschmack, die im Mund wahrgenommen wird.",
+        "descriptionTR": "ağızda algılanan lezzet hissi.",
+        "descriptionAZ": "ağızda qəbul edilən ləzzət hissi.",
+        "descriptionUK": "відчуття смаку, що сприймається в роті."
+    },
+    {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yemek",
+        "az": "yemək",
+        "uk": "їжа",
         "descriptionEN": "any nutritious substance that people or animals eat or drink.",
         "descriptionRU": "любое питательное вещество, которое люди или животные употребляют в пищу.",
-        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken."
-    }, {
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken.",
+        "descriptionTR": "insanların veya hayvanların yediği veya içtiği herhangi bir besleyici madde.",
+        "descriptionAZ": "insanların və ya heyvanların yediyi və ya içdiyi hər hansı bir qidalı maddə.",
+        "descriptionUK": "будь-яка поживна речовина, яку люди або тварини їдять або п'ють."
+    },
+    {
         "de": "die Flasche",
         "en": "bottle",
         "ru": "бутылка",
+        "tr": "şişe",
+        "az": "butulka",
+        "uk": "пляшка",
         "descriptionEN": "a container, typically made of glass or plastic, with a narrow neck.",
         "descriptionRU": "контейнер, обычно из стекла или пластика, с узким горлышком.",
-        "descriptionDE": "ein Behälter, in der Regel aus Glas oder Kunststoff, mit einem schmalen Hals."
-    }, {
+        "descriptionDE": "ein Behälter, in der Regel aus Glas oder Kunststoff, mit einem schmalen Hals.",
+        "descriptionTR": "genellikle dar boyunlu cam veya plastikten yapılmış bir kap.",
+        "descriptionAZ": "adətən dar boyunlu şüşə və ya plastikdən hazırlanmış qab.",
+        "descriptionUK": "ємність, зазвичай скляна або пластикова, з вузькою шийкою."
+    },
+    {
         "de": "machen",
         "en": "make",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionEN": "to create or produce something.",
         "descriptionRU": "создавать или производить что-то.",
-        "descriptionDE": "etwas schaffen oder produzieren."
-    }, {
+        "descriptionDE": "etwas schaffen oder produzieren.",
+        "descriptionTR": "bir şey yaratmak veya üretmek.",
+        "descriptionAZ": "bir şey yaratmaq və ya istehsal etmək.",
+        "descriptionUK": "створювати або виробляти щось."
+    },
+    {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
+        "tr": "gelmek",
+        "az": "gəlmək",
+        "uk": "приходити",
         "descriptionEN": "to arrive at or reach a particular place.",
         "descriptionRU": "приходить в определенное место.",
-        "descriptionDE": "an einem bestimmten Ort ankommen oder erreichen."
-    }, {
+        "descriptionDE": "an einem bestimmten Ort ankommen oder erreichen.",
+        "descriptionTR": "belirli bir yere varmak veya ulaşmak.",
+        "descriptionAZ": "müəyyən bir yerə çatmaq və ya gəlmək.",
+        "descriptionUK": "прибути або досягти певного місця."
+    },
+    {
         "de": "froh",
         "en": "happy",
         "ru": "счастливый",
+        "tr": "mutlu",
+        "az": "xoşbəxt",
+        "uk": "щасливий",
         "descriptionEN": "feeling or showing pleasure or contentment.",
         "descriptionRU": "чувство или выражение радости или удовлетворения.",
-        "descriptionDE": "das Gefühl oder das Zeigen von Freude oder Zufriedenheit."
-    }, {
+        "descriptionDE": "das Gefühl oder das Zeigen von Freude oder Zufriedenheit.",
+        "descriptionTR": "zevk veya memnuniyet hissetmek veya göstermek.",
+        "descriptionAZ": "zövq və ya məmnunluq hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчувати або виявляти задоволення чи радість."
+    },
+    {
         "de": "neugierig",
         "en": "curious",
         "ru": "любопытный",
+        "tr": "meraklı",
+        "az": "maraqlı",
+        "uk": "цікавий",
         "descriptionEN": "eager to know or learn something.",
         "descriptionRU": "стремящийся узнать или учить что-то.",
-        "descriptionDE": "begierig zu wissen oder etwas zu lernen."
+        "descriptionDE": "begierig zu wissen oder etwas zu lernen.",
+        "descriptionTR": "bir şeyi bilmek veya öğrenmek için istekli.",
+        "descriptionAZ": "bir şeyi bilmək və ya öyrənmək üçün həvəsli.",
+        "descriptionUK": "прагне дізнатися або вивчити щось."
     }
 ]

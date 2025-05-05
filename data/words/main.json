@@ -98,5 +98,16 @@
         },
         "filename": "https://discoverde.github.io/DatabaseDE/data/words/medicine/index.json",
         "image": "https://discoverde.github.io/DatabaseDE/data/words/medicine/image.jpg"
+    }, {
+        "title": {
+            "de": "Berufe",
+            "en": "Jobs",
+            "ru": "Профессии",
+            "tr": "Meslekler",
+            "uk": "Професії",
+            "az": "Peşələr"
+        },
+        "filename": "https://discoverde.github.io/DatabaseDE/data/words/jobs/index.json",
+        "image": "https://discoverde.github.io/DatabaseDE/data/words/jobs/image.jpg"
     }
 ]

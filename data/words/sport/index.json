@@ -5,279 +5,558 @@
         "ru": "футбол",
         "descriptionEN": "A team sport played between two teams of eleven players with a spherical ball.",
         "descriptionRU": "Командный вид спорта, играющийся между двумя командами из одиннадцати игроков с круглым мячом.",
-        "descriptionDE": "Eine Mannschaftssportart, die zwischen zwei Teams von elf Spielern mit einem kugelförmigen Ball gespielt wird."
-    }, {
+        "descriptionDE": "Eine Mannschaftssportart, die zwischen zwei Teams von elf Spielern mit einem kugelförmigen Ball gespielt wird.",
+        "tr": "futbol",
+        "az": "futbol",
+        "uk": "футбол",
+        "descriptionUK": "Командний вид спорту, в який грають дві команди по одинадцять гравців сферичним м'ячем.",
+        "descriptionTR": "İki takım arasında on birer oyuncuyla küresel bir topla oynanan bir takım sporu.",
+        "descriptionAZ": "İki komanda arasında on bir oyunçu ilə kürəşəkilli topla oynanan komanda idman növü."
+    },
+    {
         "de": "das Basketball",
         "en": "basketball",
         "ru": "баскетбол",
         "descriptionEN": "A team sport in which two teams of five players each try to score points by throwing a ball through a hoop.",
         "descriptionRU": "Командный вид спорта, в котором две команды по пять игроков пытаются набрать очки, забросив мяч через кольцо.",
-        "descriptionDE": "Eine Mannschaftssportart, bei der zwei Teams zu je fünf Spielern versuchen, Punkte zu erzielen, indem sie einen Ball durch einen Korb werfen."
-    }, {
+        "descriptionDE": "Eine Mannschaftssportart, bei der zwei Teams zu je fünf Spielern versuchen, Punkte zu erzielen, indem sie einen Ball durch einen Korb werfen.",
+        "tr": "basketbol",
+        "az": "basketbol",
+        "uk": "баскетбол",
+        "descriptionUK": "Командний вид спорту, в якому дві команди по п'ять гравців намагаються набрати очки, кидаючи м'яч через кільце.",
+        "descriptionTR": "Beşer oyuncudan oluşan iki takımın, topu bir çemberden geçirerek sayı atmaya çalıştığı bir takım sporu.",
+        "descriptionAZ": "Hər biri beş oyunçudan ibarət iki komandanın topu halqadan keçirərək xal qazanmağa çalışdığı komanda idman növü."
+    },
+    {
         "de": "der Tennisschläger",
         "en": "tennis racket",
         "ru": "теннисная ракетка",
         "descriptionEN": "A racket used by a player in tennis.",
         "descriptionRU": "Ракетка, используемая игроком в теннисе.",
-        "descriptionDE": "Ein Schläger, den ein Spieler beim Tennis benutzt."
-    }, {
+        "descriptionDE": "Ein Schläger, den ein Spieler beim Tennis benutzt.",
+        "tr": "tenis raketi",
+        "az": "tennis raketi",
+        "uk": "тенісна ракетка",
+        "descriptionUK": "Ракетка, яку використовує гравець у тенісі.",
+        "descriptionTR": "Teniste bir oyuncu tarafından kullanılan bir raket.",
+        "descriptionAZ": "Tennisdə oyunçu tərəfindən istifadə olunan raketka."
+    },
+    {
         "de": "die Laufbahn",
         "en": "track",
         "ru": "беговая дорожка",
         "descriptionEN": "A marked-out area, typically oval, used for races involving athletes or animals.",
         "descriptionRU": "Отмеченная область, обычно овальная, используемая для соревнований, в которых участвуют спортсмены или животные.",
-        "descriptionDE": "Ein markierter Bereich, typischerweise oval, der für Rennen mit Athleten oder Tieren verwendet wird."
-    }, {
+        "descriptionDE": "Ein markierter Bereich, typischerweise oval, der für Rennen mit Athleten oder Tieren verwendet wird.",
+        "tr": "pist",
+        "az": "treck",
+        "uk": "бігова доріжка",
+        "descriptionUK": "Позначена ділянка, зазвичай овальна, що використовується для змагань за участю спортсменів або тварин.",
+        "descriptionTR": "Sporcuların veya hayvanların katıldığı yarışlar için kullanılan, genellikle oval, işaretlenmiş bir alan.",
+        "descriptionAZ": "İdmançıların və ya heyvanların iştirak etdiyi yarışlar üçün istifadə olunan, adətən oval, işarələnmiş ərazi."
+    },
+    {
         "de": "das Schwimmbad",
         "en": "swimming pool",
         "ru": "бассейн",
         "descriptionEN": "A structure designed to hold water for swimming or other leisure activities.",
         "descriptionRU": "Конструкция, предназначенная для содержания воды для плавания или других развлекательных мероприятий.",
-        "descriptionDE": "Eine Struktur, die zum Halten von Wasser zum Schwimmen oder für andere Freizeitaktivitäten entwickelt wurde."
-    }, {
+        "descriptionDE": "Eine Struktur, die zum Halten von Wasser zum Schwimmen oder für andere Freizeitaktivitäten entwickelt wurde.",
+        "tr": "yüzme havuzu",
+        "az": "üzgüçülük hovuzu",
+        "uk": "басейн",
+        "descriptionUK": "Споруда, призначена для утримання води для плавання або інших видів дозвілля.",
+        "descriptionTR": "Yüzme veya diğer boş zaman aktiviteleri için su tutmak üzere tasarlanmış bir yapı.",
+        "descriptionAZ": "Üzgüçülük və ya digər istirahət fəaliyyətləri üçün su saxlamaq üçün nəzərdə tutulmuş struktur."
+    },
+    {
         "de": "das Turnier",
         "en": "tournament",
         "ru": "турнир",
         "descriptionEN": "A competition involving a number of matches, each involving a subset of the competitors.",
         "descriptionRU": "Соревнование, включающее ряд матчей, каждый из которых включает подмножество соперников.",
-        "descriptionDE": "Ein Wettbewerb, der eine Reihe von Spielen umfasst, an denen jeweils eine Teilmenge der Teilnehmer beteiligt ist."
-    }, {
+        "descriptionDE": "Ein Wettbewerb, der eine Reihe von Spielen umfasst, an denen jeweils eine Teilmenge der Teilnehmer beteiligt ist.",
+        "tr": "turnuva",
+        "az": "turnir",
+        "uk": "турнір",
+        "descriptionUK": "Змагання, що включає ряд матчів, кожен з яких включає підмножину учасників.",
+        "descriptionTR": "Bir dizi maç içeren, her biri yarışmacıların bir alt kümesini içeren bir yarışma.",
+        "descriptionAZ": "Bir sıra matçları əhatə edən, hər biri rəqiblərin alt çoxluğunu əhatə edən yarış."
+    },
+    {
         "de": "der Sieg",
         "en": "victory",
         "ru": "победа",
         "descriptionEN": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
         "descriptionRU": "Действие по победе над врагом или соперником в битве, игре или другом соревновании.",
-        "descriptionDE": "Ein Akt der Niederlage eines Feindes oder Gegners in einer Schlacht, einem Spiel oder einem anderen Wettbewerb."
-    }, {
+        "descriptionDE": "Ein Akt der Niederlage eines Feindes oder Gegners in einer Schlacht, einem Spiel oder einem anderen Wettbewerb.",
+        "tr": "zafer",
+        "az": "qələbə",
+        "uk": "перемога",
+        "descriptionUK": "Акт перемоги над ворогом або супротивником у битві, грі чи іншому змаганні.",
+        "descriptionTR": "Bir savaşta, oyunda veya başka bir yarışmada bir düşmanı veya rakibi yenme eylemi.",
+        "descriptionAZ": "Döyüşdə, oyunda və ya digər yarışda düşməni və ya rəqibi məğlub etmə aktı."
+    },
+    {
         "de": "der Pokal",
         "en": "trophy",
         "ru": "трофей",
         "descriptionEN": "A prize, such as a gold or silver cup, awarded to the winner of a competition.",
         "descriptionRU": "Приз, такой как золотой или серебряный кубок, вручаемый победителю соревнования.",
-        "descriptionDE": "Ein Preis, wie zum Beispiel ein goldener oder silberner Pokal, der dem Gewinner eines Wettbewerbs verliehen wird."
-    }, {
+        "descriptionDE": "Ein Preis, wie zum Beispiel ein goldener oder silberner Pokal, der dem Gewinner eines Wettbewerbs verliehen wird.",
+        "tr": "kupa",
+        "az": "kubok",
+        "uk": "трофей",
+        "descriptionUK": "Приз, такий як золотий або срібний кубок, що присуджується переможцю змагання.",
+        "descriptionTR": "Bir yarışmanın galibine verilen altın veya gümüş kupa gibi bir ödül.",
+        "descriptionAZ": "Müsabiqə qalibinə verilən qızıl və ya gümüş kubok kimi mükafat."
+    },
+    {
         "de": "das Spielfeld",
         "en": "field",
         "ru": "поле",
         "descriptionEN": "An area of land marked out for play in sports or games.",
         "descriptionRU": "Участок земли, обозначенный для игры в спортивных или игровых мероприятиях.",
-        "descriptionDE": "Ein Bereich, der für das Spielen in Sportarten oder Spielen markiert ist."
-    }, {
+        "descriptionDE": "Ein Bereich, der für das Spielen in Sportarten oder Spielen markiert ist.",
+        "tr": "saha",
+        "az": "meydan",
+        "uk": "поле",
+        "descriptionUK": "Ділянка землі, позначена для гри у спорті чи іграх.",
+        "descriptionTR": "Spor veya oyunlarda oynamak için işaretlenmiş bir arazi alanı.",
+        "descriptionAZ": "İdman və ya oyunlarda oynamaq üçün işarələnmiş torpaq sahəsi."
+    },
+    {
         "de": "die Mannschaft",
         "en": "team",
         "ru": "команда",
         "descriptionEN": "A group of players forming one side in a competitive game or sport.",
         "descriptionRU": "Группа игроков, образующих одну сторону в соревновательной игре или спорте.",
-        "descriptionDE": "Eine Gruppe von Spielern, die eine Seite in einem Wettbewerbsspiel oder -sport bilden."
-    }, {
+        "descriptionDE": "Eine Gruppe von Spielern, die eine Seite in einem Wettbewerbsspiel oder -sport bilden.",
+        "tr": "takım",
+        "az": "komanda",
+        "uk": "команда",
+        "descriptionUK": "Група гравців, що утворюють одну сторону в змагальній грі або спорті.",
+        "descriptionTR": "Rekabetçi bir oyun veya sporda bir tarafı oluşturan bir grup oyuncu.",
+        "descriptionAZ": "Rəqabətli oyun və ya idmanda bir tərəfi təşkil edən oyunçu qrupu."
+    },
+    {
         "de": "trainieren",
         "en": "train",
         "ru": "тренировать",
         "descriptionEN": "To exercise in order to improve strength or skill.",
         "descriptionRU": "Тренироваться с целью улучшения силы или навыков.",
-        "descriptionDE": "Trainieren, um Stärke oder Geschicklichkeit zu verbessern."
-    }, {
+        "descriptionDE": "Trainieren, um Stärke oder Geschicklichkeit zu verbessern.",
+        "tr": "antrenman yapmak",
+        "az": "məşq etmək",
+        "uk": "тренуватися",
+        "descriptionUK": "Тренуватися з метою покращення сили або навичок.",
+        "descriptionTR": "Gücü veya beceriyi geliştirmek için egzersiz yapmak.",
+        "descriptionAZ": "Güc və ya bacarığı artırmaq üçün məşq etmək."
+    },
+    {
         "de": "rennen",
         "en": "run",
         "ru": "бежать",
         "descriptionEN": "To move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
         "descriptionRU": "Двигаться со скоростью быстрее ходьбы, никогда не имея обоих или всех ног на земле одновременно.",
-        "descriptionDE": "Mit einer Geschwindigkeit schneller als Gehen zu bewegen, niemals beide oder alle Füße gleichzeitig auf dem Boden zu haben."
-    }, {
+        "descriptionDE": "Mit einer Geschwindigkeit schneller als Gehen zu bewegen, niemals beide oder alle Füße gleichzeitig auf dem Boden zu haben.",
+        "tr": "koşmak",
+        "az": "qaçmaq",
+        "uk": "бігти",
+        "descriptionUK": "Рухатися зі швидкістю, що перевищує ходьбу, при цьому ніколи не маючи одночасно обох або всіх ніг на землі.",
+        "descriptionTR": "Yürüyüşten daha hızlı bir hızda hareket etmek, asla her iki veya tüm ayakları aynı anda yerde olmamak.",
+        "descriptionAZ": "Gəzməkdən daha sürətli bir sürətlə hərəkət etmək, eyni anda heç vaxt hər iki və ya bütün ayaqları yerə qoymadan."
+    },
+    {
         "de": "springen",
         "en": "jump",
         "ru": "прыгать",
         "descriptionEN": "To push oneself off a surface and into the air by using the muscles in one's legs and feet.",
         "descriptionRU": "Оттолкнуться от поверхности и в воздух с помощью мышц ног и ступней.",
-        "descriptionDE": "Sich von einer Oberfläche abstoßen und in die Luft springen, indem man die Muskeln in den Beinen und Füßen verwendet."
-    }, {
+        "descriptionDE": "Sich von einer Oberfläche abstoßen und in die Luft springen, indem man die Muskeln in den Beinen und Füßen verwendet.",
+        "tr": "atlamak",
+        "az": "tullanmaq",
+        "uk": "стрибати",
+        "descriptionUK": "Відштовхнутися від поверхні в повітря, використовуючи м'язи ніг та стоп.",
+        "descriptionTR": "Bacaklardaki ve ayaklardaki kasları kullanarak kendini bir yüzeyden itip havaya sıçramak.",
+        "descriptionAZ": "Ayaq və ayaq barmaqlarındakı əzələləri istifadə edərək özünü bir səthdən itələyib havaya atılmaq."
+    },
+    {
         "de": "werfen",
         "en": "throw",
         "ru": "бросать",
         "descriptionEN": "To propel something with force through the air by a movement of the arm and hand.",
         "descriptionRU": "Отбросить что-то с силой через воздух движением руки и руки.",
-        "descriptionDE": "Etwas mit Kraft durch die Luft werfen durch eine Bewegung des Arms und der Hand."
-    }, {
+        "descriptionDE": "Etwas mit Kraft durch die Luft werfen durch eine Bewegung des Arms und der Hand.",
+        "tr": "atmak",
+        "az": "atmaq",
+        "uk": "кидати",
+        "descriptionUK": "Рухом руки та кисті з силою штовхнути щось у повітря.",
+        "descriptionTR": "Kol ve el hareketiyle bir şeyi havada kuvvetle itmek.",
+        "descriptionAZ": "Qol və əl hərəkəti ilə bir şeyi güclə havaya tullamaq."
+    },
+    {
         "de": "schlagen",
         "en": "hit",
         "ru": "ударить",
         "descriptionEN": "To bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully.",
         "descriptionRU": "Привести свою руку или инструмент или оружие в контакт с (кем-то или чем-то) быстро и сильно.",
-        "descriptionDE": "Seine Hand oder ein Werkzeug oder eine Waffe schnell und kraftvoll mit (jemandem oder etwas) in Kontakt bringen."
-    }, {
+        "descriptionDE": "Seine Hand oder ein Werkzeug oder eine Waffe schnell und kraftvoll mit (jemandem oder etwas) in Kontakt bringen.",
+        "tr": "vurmak",
+        "az": "vurmaq",
+        "uk": "вдаряти",
+        "descriptionUK": "Швидко і сильно привести руку, інструмент або зброю в контакт з (кимось або чимось).",
+        "descriptionTR": "Elini veya bir aleti veya silahı (birine veya bir şeye) hızlı ve kuvvetli bir şekilde temas ettirmek.",
+        "descriptionAZ": "Əlini və ya bir aləti və ya silahı (kimsəyə və ya nəyəsə) sürətlə və güclə təmas etdirmək."
+    },
+    {
         "de": "gewinnen",
         "en": "win",
         "ru": "выиграть",
         "descriptionEN": "To be successful or victorious in (a contest or conflict).",
         "descriptionRU": "Быть успешным или победителем в (конкурсе или конфликте).",
-        "descriptionDE": "Erfolgreich oder siegreich sein in (einem Wettbewerb oder Konflikt)."
-    }, {
+        "descriptionDE": "Erfolgreich oder siegreich sein in (einem Wettbewerb oder Konflikt).",
+        "tr": "kazanmak",
+        "az": "qalib gəlmək",
+        "uk": "перемагати",
+        "descriptionUK": "Бути успішним або переможним у (змаганні чи конфлікті).",
+        "descriptionTR": "(Bir yarışmada veya çatışmada) başarılı veya galip olmak.",
+        "descriptionAZ": "(Müsabiqədə və ya münaqişədə) uğurlu və ya qalib olmaq."
+    },
+    {
         "de": "verlieren",
         "en": "lose",
         "ru": "проиграть",
         "descriptionEN": "To be deprived of or cease to have or retain (something).",
         "descriptionRU": "Быть лишенным или перестать иметь или удерживать (что-то).",
-        "descriptionDE": "Von etwas beraubt sein oder aufhören zu haben oder zu behalten (etwas)."
-    }, {
+        "descriptionDE": "Von etwas beraubt sein oder aufhören zu haben oder zu behalten (etwas).",
+        "tr": "kaybetmek",
+        "az": "uduzmaq",
+        "uk": "програвати",
+        "descriptionUK": "Бути позбавленим або припинити мати чи утримувати (щось).",
+        "descriptionTR": "(Bir şeyden) yoksun kalmak veya sahip olmayı veya elde tutmayı bırakmak.",
+        "descriptionAZ": "(Bir şeydən) məhrum olmaq və ya saxlamağı və ya əldə saxlamağı dayandırmaq."
+    },
+    {
         "de": "üben",
         "en": "practice",
         "ru": "практиковать",
         "descriptionEN": "To perform (an activity) or exercise (a skill) repeatedly or regularly in order to acquire, improve or maintain proficiency in it.",
         "descriptionRU": "Выполнять (деятельность) или упражняться (в навыке) многократно или регулярно с целью приобретения, улучшения или поддержания квалификации в нем.",
-        "descriptionDE": "Eine (Aktivität) ausführen oder (eine Fertigkeit) wiederholt oder regelmäßig ausüben, um darin Kompetenz zu erwerben, zu verbessern oder aufrechtzuerhalten."
-    }, {
+        "descriptionDE": "Eine (Aktivität) ausführen oder (eine Fertigkeit) wiederholt oder regelmäßig ausüben, um darin Kompetenz zu erwerben, zu verbessern oder aufrechtzuerhalten.",
+        "tr": "pratik yapmak",
+        "az": "məşq etmək",
+        "uk": "практикувати",
+        "descriptionUK": "Виконувати (діяльність) або вправляти (навичку) неодноразово або регулярно з метою набуття, вдосконалення або підтримки майстерності в ній.",
+        "descriptionTR": "Bir yetkinlik kazanmak, geliştirmek veya sürdürmek için (bir aktiviteyi) gerçekleştirmek veya (bir beceriyi) tekrarlı veya düzenli olarak uygulamak.",
+        "descriptionAZ": "Bir fəaliyyəti yerinə yetirmək və ya bir bacarığı mənimsəmək, təkmilləşdirmək və ya saxlamaq üçün dəfələrlə və ya müntəzəm olaraq məşq etmək."
+    },
+    {
         "de": "besiegen",
         "en": "defeat",
         "ru": "победить",
         "descriptionEN": "To win a victory over (someone) in a battle or other contest; overcome or beat.",
         "descriptionRU": "Победить кого-то в битве или другом соревновании; преодолеть или побить.",
-        "descriptionDE": "In einer Schlacht oder einem anderen Wettbewerb einen Sieg über jemanden erringen; Überwinden oder besiegen."
-    }, {
+        "descriptionDE": "In einer Schlacht oder einem anderen Wettbewerb einen Sieg über jemanden erringen; Überwinden oder besiegen.",
+        "tr": "yenmek",
+        "az": "məğlub etmək",
+        "uk": "перемагати",
+        "descriptionUK": "Здобути перемогу над (кимось) у битві чи іншому змаганні; подолати або перемогти.",
+        "descriptionTR": "Bir savaşta veya başka bir yarışmada (birine karşı) zafer kazanmak; üstesinden gelmek veya yenmek.",
+        "descriptionAZ": "Döyüşdə və ya digər yarışda (kimsə üzərində) qələbə qazanmaq; öhdəsindən gəlmək və ya məğlub etmək."
+    },
+    {
         "de": "teilnehmen",
         "en": "participate",
         "ru": "участвовать",
         "descriptionEN": "To take part in (an activity or event).",
         "descriptionRU": "Принимать участие в (деятельности или событии).",
-        "descriptionDE": "An (einer Aktivität oder Veranstaltung) teilnehmen."
-    }, {
+        "descriptionDE": "An (einer Aktivität oder Veranstaltung) teilnehmen.",
+        "tr": "katılmak",
+        "az": "iştirak etmək",
+        "uk": "брати участь",
+        "descriptionUK": "Брати участь у (діяльності чи події).",
+        "descriptionTR": "(Bir aktiviteye veya etkinliğe) katılmak.",
+        "descriptionAZ": "(Fəaliyyətdə və ya tədbirdə) iştirak etmək."
+    },
+    {
         "de": "schnell",
         "en": "fast",
         "ru": "быстрый",
         "descriptionEN": "Moving or capable of moving at high speed.",
         "descriptionRU": "Движущийся или способный двигаться с высокой скоростью.",
-        "descriptionDE": "Schnell bewegend oder in der Lage, sich mit hoher Geschwindigkeit zu bewegen."
-    }, {
+        "descriptionDE": "Schnell bewegend oder in der Lage, sich mit hoher Geschwindigkeit zu bewegen.",
+        "tr": "hızlı",
+        "az": "sürətli",
+        "uk": "швидкий",
+        "descriptionUK": "Рухається або здатний рухатися з високою швидкістю.",
+        "descriptionTR": "Yüksek hızda hareket eden veya hareket edebilen.",
+        "descriptionAZ": "Yüksək sürətlə hərəkət edən və ya hərəkət etməyə qadir olan."
+    },
+    {
         "de": "stark",
         "en": "strong",
         "ru": "сильный",
         "descriptionEN": "Having the power to move heavy weights or perform other physically demanding tasks.",
         "descriptionRU": "Имеющий силу перемещать тяжелые грузы или выполнять другие физически сложные задачи.",
-        "descriptionDE": "Die Kraft haben, schwere Gewichte zu bewegen oder andere körperlich anspruchsvolle Aufgaben zu erfüllen."
-    }, {
+        "descriptionDE": "Die Kraft haben, schwere Gewichte zu bewegen oder andere körperlich anspruchsvolle Aufgaben zu erfüllen.",
+        "tr": "güçlü",
+        "az": "güclü",
+        "uk": "сильний",
+        "descriptionUK": "Має силу переміщати важкі вантажі або виконувати інші фізично важкі завдання.",
+        "descriptionTR": "Ağır ağırlıkları hareket ettirme veya diğer fiziksel olarak zorlu görevleri yerine getirme gücüne sahip olmak.",
+        "descriptionAZ": "Ağır çəkiləri hərəkət etdirmək və ya digər fiziki cəhətdən tələbkar tapşırıqları yerinə yetirmək gücünə malik olmaq."
+    },
+    {
         "de": "geschickt",
         "en": "skilled",
         "ru": "искусный",
         "descriptionEN": "Having or showing the knowledge, ability, or training to perform a certain activity or task well.",
         "descriptionRU": "Обладающий или демонстрирующий знания, способности или тренировку, чтобы хорошо выполнять определенную деятельность или задачу.",
-        "descriptionDE": "Die Kenntnisse, Fähigkeiten oder Ausbildung besitzen oder zeigen, um eine bestimmte Tätigkeit oder Aufgabe gut auszuführen."
-    }, {
+        "descriptionDE": "Die Kenntnisse, Fähigkeiten oder Ausbildung besitzen oder zeigen, um eine bestimmte Tätigkeit oder Aufgabe gut auszuführen.",
+        "tr": "yetenekli",
+        "az": "bacarıqlı",
+        "uk": "вправний",
+        "descriptionUK": "Має або демонструє знання, здібності або підготовку для якісного виконання певної діяльності або завдання.",
+        "descriptionTR": "Belirli bir aktiviteyi veya görevi iyi bir şekilde gerçekleştirmek için bilgi, yetenek veya eğitime sahip olmak veya göstermek.",
+        "descriptionAZ": "Müəyyən bir fəaliyyəti və ya tapşırığı yaxşı yerinə yetirmək üçün biliyə, qabiliyyətə və ya təlimə sahib olmaq və ya göstərmək."
+    },
+    {
         "de": "energisch",
         "en": "energetic",
         "ru": "энергичный",
         "descriptionEN": "Showing or involving great activity or vitality.",
         "descriptionRU": "Показывая или включая в себя большую активность или жизненную силу.",
-        "descriptionDE": "Große Aktivität oder Vitalität zeigen oder umfassen."
-    }, {
+        "descriptionDE": "Große Aktivität oder Vitalität zeigen oder umfassen.",
+        "tr": "enerjik",
+        "az": "enerjili",
+        "uk": "енергійний",
+        "descriptionUK": "Демонструє або включає велику активність або життєву силу.",
+        "descriptionTR": "Büyük bir aktivite veya canlılık gösterme veya içerme.",
+        "descriptionAZ": "Böyük fəaliyyət və ya canlılıq göstərmək və ya əhatə etmək."
+    },
+    {
         "de": "agil",
         "en": "agile",
         "ru": "подвижный",
         "descriptionEN": "Able to move quickly and easily.",
         "descriptionRU": "Способный быстро и легко двигаться.",
-        "descriptionDE": "Schnell und einfach beweglich sein."
-    }, {
+        "descriptionDE": "Schnell und einfach beweglich sein.",
+        "tr": "çevik",
+        "az": "çevik",
+        "uk": "спритний",
+        "descriptionUK": "Здатний швидко і легко рухатися.",
+        "descriptionTR": "Hızlı ve kolay hareket edebilen.",
+        "descriptionAZ": "Tez və asan hərəkət edə bilən."
+    },
+    {
         "de": "aufregend",
         "en": "exciting",
         "ru": "захватывающий",
         "descriptionEN": "Creating or causing great enthusiasm or eagerness.",
         "descriptionRU": "Создание или вызывание большого энтузиазма или оживления.",
-        "descriptionDE": "Große Begeisterung oder Eifer erzeugen oder verursachen."
-    }, {
+        "descriptionDE": "Große Begeisterung oder Eifer erzeugen oder verursachen.",
+        "tr": "heyecan verici",
+        "az": "həyəcanverici",
+        "uk": "захоплюючий",
+        "descriptionUK": "Створення або спричинення великого ентузіазму чи прагнення.",
+        "descriptionTR": "Büyük bir coşku veya istek yaratma veya neden olma.",
+        "descriptionAZ": "Böyük həvəs və ya istək yaratmaq və ya səbəb olmaq."
+    },
+    {
         "de": "spannend",
         "en": "thrilling",
         "ru": "захватывающий",
         "descriptionEN": "Causing excitement and interest.",
         "descriptionRU": "Вызывая волнение и интерес.",
-        "descriptionDE": "Aufregung und Interesse erregen."
-    }, {
+        "descriptionDE": "Aufregung und Interesse erregen.",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "захоплюючий",
+        "descriptionUK": "Викликає хвилювання та інтерес.",
+        "descriptionTR": "Heyecan ve ilgi uyandıran.",
+        "descriptionAZ": "Həyəcan və maraq doğuran."
+    },
+    {
         "de": "körperlich",
         "en": "physical",
         "ru": "физический",
         "descriptionEN": "Relating to the body as opposed to the mind.",
         "descriptionRU": "Относящийся к телу в отличие от ума.",
-        "descriptionDE": "Bezogen auf den Körper im Gegensatz zum Verstand."
-    }, {
+        "descriptionDE": "Bezogen auf den Körper im Gegensatz zum Verstand.",
+        "tr": "fiziksel",
+        "az": "fiziki",
+        "uk": "фізичний",
+        "descriptionUK": "Що стосується тіла, на противагу розуму.",
+        "descriptionTR": "Zihne karşıt olarak bedenle ilgili.",
+        "descriptionAZ": "Ağıla qarşı bədənlə əlaqəli."
+    },
+    {
         "de": "geschwind",
         "en": "swift",
         "ru": "быстрый",
         "descriptionEN": "Happening quickly or promptly.",
         "descriptionRU": "Происходит быстро или немедленно.",
-        "descriptionDE": "Schnell oder prompt passieren."
-    }, {
+        "descriptionDE": "Schnell oder prompt passieren.",
+        "tr": "çevik",
+        "az": "cəld",
+        "uk": "швидкий",
+        "descriptionUK": "Відбувається швидко або негайно.",
+        "descriptionTR": "Hızlı veya hemen gerçekleşen.",
+        "descriptionAZ": "Tez və ya dərhal baş verən."
+    },
+    {
         "de": "wettbewerbsfähig",
         "en": "competitive",
         "ru": "конкурентоспособный",
         "descriptionEN": "Having or displaying a strong desire to be more successful than others.",
         "descriptionRU": "Обладая или проявляя сильное желание быть более успешным, чем другие.",
-        "descriptionDE": "Ein starkes Verlangen haben oder zeigen, erfolgreicher zu sein als andere."
-    }, {
+        "descriptionDE": "Ein starkes Verlangen haben oder zeigen, erfolgreicher zu sein als andere.",
+        "tr": "rekabetçi",
+        "az": "rəqabətədavamlı",
+        "uk": "конкурентоспроможний",
+        "descriptionUK": "Має або демонструє сильне бажання бути успішнішим за інших.",
+        "descriptionTR": "Başkalarından daha başarılı olma konusunda güçlü bir arzuya sahip olmak veya göstermek.",
+        "descriptionAZ": "Başqalarından daha uğurlu olmaq üçün güclü bir istək sahibi olmaq və ya göstərmək."
+    },
+    {
         "de": "schnell",
         "en": "quickly",
         "ru": "быстро",
         "descriptionEN": "At a fast speed.",
         "descriptionRU": "Со скоростью.",
-        "descriptionDE": "Mit hoher Geschwindigkeit."
-    }, {
+        "descriptionDE": "Mit hoher Geschwindigkeit.",
+        "tr": "hızlıca",
+        "az": "tez",
+        "uk": "швидко",
+        "descriptionUK": "На великій швидкості.",
+        "descriptionTR": "Hızlı bir şekilde.",
+        "descriptionAZ": "Sürətlə."
+    },
+    {
         "de": "gut",
         "en": "well",
         "ru": "хорошо",
         "descriptionEN": "In a good or satisfactory way.",
         "descriptionRU": "Хорошим или удовлетворительным образом.",
-        "descriptionDE": "Auf gute oder zufriedenstellende Weise."
-    }, {
+        "descriptionDE": "Auf gute oder zufriedenstellende Weise.",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добре",
+        "descriptionUK": "У хороший або задовільний спосіб.",
+        "descriptionTR": "İyi veya tatmin edici bir şekilde.",
+        "descriptionAZ": "Yaxşı və ya qənaətbəxş şəkildə."
+    },
+    {
         "de": "energisch",
         "en": "energetically",
         "ru": "энергично",
         "descriptionEN": "With energy, enthusiasm, or vitality.",
         "descriptionRU": "С энергией, энтузиазмом или жизненной силой.",
-        "descriptionDE": "Mit Energie, Enthusiasmus oder Vitalität."
-    }, {
+        "descriptionDE": "Mit Energie, Enthusiasmus oder Vitalität.",
+        "tr": "enerjik bir şekilde",
+        "az": "enerjili şəkildə",
+        "uk": "енергійно",
+        "descriptionUK": "З енергією, ентузіазмом чи життєвою силою.",
+        "descriptionTR": "Enerji, coşku veya canlılıkla.",
+        "descriptionAZ": "Enerji, həvəs və ya canlılıqla."
+    },
+    {
         "de": "agil",
         "en": "agilely",
         "ru": "подвижно",
         "descriptionEN": "With quick and easy movement.",
         "descriptionRU": "С быстрым и легким движением.",
-        "descriptionDE": "Mit schneller und einfacher Bewegung."
-    }, {
+        "descriptionDE": "Mit schneller und einfacher Bewegung.",
+        "tr": "çevikçe",
+        "az": "çevikliklə",
+        "uk": "спритно",
+        "descriptionUK": "З швидким і легким рухом.",
+        "descriptionTR": "Hızlı ve kolay hareketle.",
+        "descriptionAZ": "Tez və asan hərəkətlə."
+    },
+    {
         "de": "intensiv",
         "en": "intensely",
         "ru": "интенсивно",
         "descriptionEN": "To a high or extreme degree.",
         "descriptionRU": "В высокой или экстремальной степени.",
-        "descriptionDE": "In hohem oder extremem Maße."
-    }, {
+        "descriptionDE": "In hohem oder extremem Maße.",
+        "tr": "yoğun bir şekilde",
+        "az": "intensiv olaraq",
+        "uk": "інтенсивно",
+        "descriptionUK": "У високому або надзвичайному ступені.",
+        "descriptionTR": "Yüksek veya aşırı derecede.",
+        "descriptionAZ": "Yüksək və ya həddindən artıq dərəcədə."
+    },
+    {
         "de": "stark",
         "en": "strongly",
         "ru": "сильно",
         "descriptionEN": "To a great extent or degree.",
         "descriptionRU": "В большой степени или степени.",
-        "descriptionDE": "In großem Maße oder Grad."
-    }, {
+        "descriptionDE": "In großem Maße oder Grad.",
+        "tr": "güçlü bir şekilde",
+        "az": "güclü şəkildə",
+        "uk": "сильно",
+        "descriptionUK": "Значною мірою або ступенем.",
+        "descriptionTR": "Büyük ölçüde veya derecede.",
+        "descriptionAZ": "Böyük ölçüdə və ya dərəcədə."
+    },
+    {
         "de": "rasch",
         "en": "swiftly",
         "ru": "быстро",
         "descriptionEN": "At high speed; quickly.",
         "descriptionRU": "С высокой скоростью; быстро.",
-        "descriptionDE": "Mit hoher Geschwindigkeit; schnell."
-    }, {
+        "descriptionDE": "Mit hoher Geschwindigkeit; schnell.",
+        "tr": "hızla",
+        "az": "sürətlə",
+        "uk": "швидко",
+        "descriptionUK": "На високій швидкості; швидко.",
+        "descriptionTR": "Yüksek hızda; hızlıca.",
+        "descriptionAZ": "Yüksək sürətlə; tez."
+    },
+    {
         "de": "oft",
         "en": "often",
         "ru": "часто",
         "descriptionEN": "Many times at short intervals.",
         "descriptionRU": "Много раз с короткими интервалами.",
-        "descriptionDE": "Viele Male in kurzen Abständen."
-    }, {
+        "descriptionDE": "Viele Male in kurzen Abständen.",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
+        "descriptionUK": "Багато разів з короткими інтервалами.",
+        "descriptionTR": "Kısa aralıklarla birçok kez.",
+        "descriptionAZ": "Qısa fasilələrlə çox dəfə."
+    },
+    {
         "de": "konstant",
         "en": "constantly",
         "ru": "постоянно",
         "descriptionEN": "Continuously over a period of time.",
         "descriptionRU": "Непрерывно в течение определенного времени.",
-        "descriptionDE": "Kontinuierlich über einen Zeitraum hinweg."
-    }, {
+        "descriptionDE": "Kontinuierlich über einen Zeitraum hinweg.",
+        "tr": "sürekli",
+        "az": "daim",
+        "uk": "постійно",
+        "descriptionUK": "Безперервно протягом певного періоду часу.",
+        "descriptionTR": "Bir süre boyunca sürekli olarak.",
+        "descriptionAZ": "Müəyyən bir müddət ərzində davamlı olaraq."
+    },
+    {
         "de": "ausgezeichnet",
         "en": "excellently",
         "ru": "отлично",
         "descriptionEN": "In an outstanding or extremely good manner.",
         "descriptionRU": "Выдающимся или чрезвычайно хорошим образом.",
-        "descriptionDE": "Auf hervorragende oder extrem gute Weise."
+        "descriptionDE": "Auf hervorragende oder extrem gute Weise.",
+        "tr": "mükemmel bir şekilde",
+        "az": "əla",
+        "uk": "відмінно",
+        "descriptionUK": "Видатним або надзвичайно хорошим чином.",
+        "descriptionTR": "Olağanüstü veya son derece iyi bir şekilde.",
+        "descriptionAZ": "Görkəmli və ya son dərəcə yaxşı bir şəkildə."
     }
 ]

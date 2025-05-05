@@ -5,97 +5,181 @@
         "ru": "последние",
         "descriptionEN": "indicating that a period of time preceding the moment of speaking or writing has just elapsed.",
         "descriptionRU": "указывает на то, что период времени, предшествующий моменту разговора или написания, только что прошел.",
-        "descriptionDE": "zeigt an, dass eine Zeitspanne vor dem Moment des Sprechens oder Schreibens gerade vergangen ist."
+        "descriptionDE": "zeigt an, dass eine Zeitspanne vor dem Moment des Sprechens oder Schreibens gerade vergangen ist.",
+        "tr": "son",
+        "az": "sonuncu",
+        "uk": "останні",
+        "descriptionUK": "вказує на те, що період часу, що передував моменту мовлення або написання, щойно минув.",
+        "descriptionTR": "konuşma veya yazma anından önceki bir zaman diliminin henüz sona erdiğini belirtir.",
+        "descriptionAZ": "danışma və ya yazma anından əvvəlki bir vaxt dövrünün indicə başa çatdığını göstərir."
     }, {
         "de": "kurz",
         "en": "short",
         "ru": "краткий",
         "descriptionEN": "measuring a small distance from end to end.",
         "descriptionRU": "измерение небольшого расстояния от конца до конца.",
-        "descriptionDE": "misst eine kurze Entfernung von Ende zu Ende."
+        "descriptionDE": "misst eine kurze Entfernung von Ende zu Ende.",
+        "tr": "kısa",
+        "az": "qısa",
+        "uk": "короткий",
+        "descriptionUK": "вимірювання невеликої відстані від кінця до кінця.",
+        "descriptionTR": "uçtan uca küçük bir mesafe ölçme.",
+        "descriptionAZ": "bir ucundan digər ucuna qədər kiçik bir məsafəni ölçmək."
     }, {
         "de": "erste",
         "en": "first",
         "ru": "первый",
         "descriptionEN": "coming before all others in time or order.",
         "descriptionRU": "приходящий перед всеми по времени или порядку.",
-        "descriptionDE": "kommt vor allen anderen in der Zeit oder der Reihenfolge."
+        "descriptionDE": "kommt vor allen anderen in der Zeit oder der Reihenfolge.",
+        "tr": "ilk",
+        "az": "ilk",
+        "uk": "перший",
+        "descriptionUK": "що йде перед усіма іншими за часом або порядком.",
+        "descriptionTR": "zaman veya sıra bakımından diğerlerinden önce gelen.",
+        "descriptionAZ": "zamana və ya sıraya görə hamıdan əvvəl gələn."
     }, {
         "de": "erfahrener",
         "en": "experienced",
         "ru": "опытный",
         "descriptionEN": "having knowledge or skill in a particular field, especially a profession or job.",
         "descriptionRU": "имеющий знания или навыки в определенной области, особенно в профессии или работе.",
-        "descriptionDE": "hat Wissen oder Fähigkeiten in einem bestimmten Bereich, insbesondere in einem Beruf oder Job."
+        "descriptionDE": "hat Wissen oder Fähigkeiten in einem bestimmten Bereich, insbesondere in einem Beruf oder Job.",
+        "tr": "deneyimli",
+        "az": "təcrübəli",
+        "uk": "досвідчений",
+        "descriptionUK": "має знання або навички в певній галузі, особливо в професії чи роботі.",
+        "descriptionTR": "belirli bir alanda, özellikle bir meslek veya işte bilgi veya beceriye sahip.",
+        "descriptionAZ": "müəyyən bir sahədə, xüsusən də bir peşə və ya işdə bilik və ya bacarığa malik olan."
     }, {
         "de": "zufällig",
         "en": "coincidentally",
         "ru": "случайно",
         "descriptionEN": "happening by chance; not planned or expected.",
         "descriptionRU": "происходящий случайно; не запланированный или ожидаемый.",
-        "descriptionDE": "geschieht zufällig; nicht geplant oder erwartet."
+        "descriptionDE": "geschieht zufällig; nicht geplant oder erwartet.",
+        "tr": "tesadüfen",
+        "az": "təsadüfən",
+        "uk": "випадково",
+        "descriptionUK": "відбувається випадково; не заплановано або не очікувано.",
+        "descriptionTR": "şans eseri olan; planlanmamış veya beklenmeyen.",
+        "descriptionAZ": "təsadüfən baş verən; planlaşdırılmamış və ya gözlənilməyən."
     }, {
         "de": "Nähe",
         "en": "near",
         "ru": "рядом",
         "descriptionEN": "at or to a short distance away; nearby.",
         "descriptionRU": "на коротком расстоянии; поблизости.",
-        "descriptionDE": "in oder zu einer kurzen Entfernung; in der Nähe."
+        "descriptionDE": "in oder zu einer kurzen Entfernung; in der Nähe.",
+        "tr": "yakın",
+        "az": "yaxın",
+        "uk": "близько",
+        "descriptionUK": "на невеликій відстані; поблизу.",
+        "descriptionTR": "kısa bir mesafede veya kısa bir mesafeye; yakında.",
+        "descriptionAZ": "qısa bir məsafədə və ya qısa bir məsafəyə; yaxınlıqda."
     }, {
         "de": "gemütlichen",
         "en": "cozy",
         "ru": "уютный",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
         "descriptionRU": "создающий ощущение комфорта, тепла и расслабления.",
-        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung."
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung.",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
+        "descriptionUK": "дає відчуття комфорту, тепла та розслаблення.",
+        "descriptionTR": "rahatlık, sıcaklık ve gevşeme hissi veren.",
+        "descriptionAZ": "rahatlıq, istilik və rahatlama hissi verən."
     }, {
         "de": "die Zusammenarbeit",
         "en": "collaboration",
         "ru": "сотрудничество",
         "descriptionEN": "the action of working with someone to produce or create something.",
         "descriptionRU": "действие совместной работы с кем-то для производства или создания чего-то.",
-        "descriptionDE": "die Zusammenarbeit mit jemandem, um etwas zu produzieren oder zu schaffen."
+        "descriptionDE": "die Zusammenarbeit mit jemandem, um etwas zu produzieren oder zu schaffen.",
+        "tr": "işbirliği",
+        "az": "əməkdaşlıq",
+        "uk": "співпраця",
+        "descriptionUK": "дія спільної роботи з кимось для виробництва або створення чогось.",
+        "descriptionTR": "bir şey üretmek veya yaratmak için biriyle birlikte çalışma eylemi.",
+        "descriptionAZ": "bir şey istehsal etmək və ya yaratmaq üçün kiminləsə işləmə hərəkəti."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
         "descriptionEN": "practical contact with and observation of facts or events.",
         "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "praktischer Kontakt und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "praktischer Kontakt und Beobachtung von Fakten oder Ereignissen.",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
+        "descriptionUK": "практичний контакт з фактами чи подіями та їх спостереження.",
+        "descriptionTR": "gerçekler veya olaylarla pratik temas ve gözlem.",
+        "descriptionAZ": "faktlar və ya hadisələrlə praktiki təmas və müşahidə."
     }, {
         "de": "die Idee",
         "en": "idea",
         "ru": "идея",
         "descriptionEN": "a thought or suggestion as to a possible course of action.",
         "descriptionRU": "мысль или предложение относительно возможного пути действий.",
-        "descriptionDE": "eine Gedanke oder Anregung für einen möglichen Handlungsverlauf."
+        "descriptionDE": "eine Gedanke oder Anregung für einen möglichen Handlungsverlauf.",
+        "tr": "fikir",
+        "az": "ideya",
+        "uk": "ідея",
+        "descriptionUK": "думка або пропозиція щодо можливого курсу дій.",
+        "descriptionTR": "olası bir eylem biçimi hakkında bir düşünce veya öneri.",
+        "descriptionAZ": "mümkün bir hərəkət planına dair bir düşüncə və ya təklif."
     }, {
         "de": "inspirierend",
         "en": "inspiring",
         "ru": "вдохновляющий",
         "descriptionEN": "filling someone with the urge or ability to do or feel something.",
         "descriptionRU": "наполняющий кого-то желанием или способностью делать или чувствовать что-то.",
-        "descriptionDE": "erfüllt jemanden mit dem Drang oder der Fähigkeit, etwas zu tun oder zu empfinden."
+        "descriptionDE": "erfüllt jemanden mit dem Drang oder der Fähigkeit, etwas zu tun oder zu empfinden.",
+        "tr": "ilham verici",
+        "az": "ruhlandırıcı",
+        "uk": "надихаючий",
+        "descriptionUK": "наповнює когось бажанням або здатністю щось робити чи відчувати.",
+        "descriptionTR": "birini bir şey yapma veya hissetme isteği veya yeteneği ile doldurma.",
+        "descriptionAZ": "kimisə bir şey etməyə və ya hiss etməyə həvəs və ya qabiliyyətlə doldurmaq."
     }, {
         "de": "die Magie",
         "en": "magic",
         "ru": "волшебство",
         "descriptionEN": "the power of apparently influencing events by using mysterious or supernatural forces.",
         "descriptionRU": "способность, по-видимому, влиять на события с использованием таинственных или сверхъестественных сил.",
-        "descriptionDE": "die Kraft, Ereignisse scheinbar durch den Einsatz mysteriöser oder übernatürlicher Kräfte zu beeinflussen."
+        "descriptionDE": "die Kraft, Ereignisse scheinbar durch den Einsatz mysteriöser oder übernatürlicher Kräfte zu beeinflussen.",
+        "tr": "büyü",
+        "az": "sehr",
+        "uk": "магія",
+        "descriptionUK": "сила очевидного впливу на події за допомогою таємничих або надприродних сил.",
+        "descriptionTR": "gizemli veya doğaüstü güçler kullanarak olayları görünüşte etkileme gücü.",
+        "descriptionAZ": "sirli və ya fövqəltəbii qüvvələrdən istifadə etməklə hadisələrə təsir etmə gücü."
     }, {
         "de": "das Herz",
         "en": "heart",
         "ru": "сердце",
         "descriptionEN": "the central or most vital part of something.",
         "descriptionRU": "центральная или наиболее важная часть чего-то.",
-        "descriptionDE": "der zentrale oder wichtigste Teil von etwas."
+        "descriptionDE": "der zentrale oder wichtigste Teil von etwas.",
+        "tr": "kalp",
+        "az": "ürək",
+        "uk": "серце",
+        "descriptionUK": "центральна або найважливіша частина чогось.",
+        "descriptionTR": "bir şeyin merkezi veya en hayati kısmı.",
+        "descriptionAZ": "bir şeyin mərkəzi və ya ən vacib hissəsi."
     }, {
         "de": "der Kopf",
         "en": "mind",
         "ru": "ум",
         "descriptionEN": "the element of a person that enables them to be aware of the world.",
         "descriptionRU": "элемент человека, позволяющий им осознавать мир.",
-        "descriptionDE": "das Element einer Person, das es ihnen ermöglicht, sich der Welt bewusst zu sein."
+        "descriptionDE": "das Element einer Person, das es ihnen ermöglicht, sich der Welt bewusst zu sein.",
+        "tr": "zihin",
+        "az": "ağıl",
+        "uk": "розум",
+        "descriptionUK": "елемент людини, що дозволяє їй усвідомлювати світ.",
+        "descriptionTR": "bir kişinin dünyayı fark etmesini sağlayan unsuru.",
+        "descriptionAZ": "bir insanın dünyanı dərk etməsinə imkan verən element."
     }
 ]

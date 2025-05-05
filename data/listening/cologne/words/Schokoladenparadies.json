@@ -3,85 +3,168 @@
         "de": "der Morgenkaffee",
         "en": "morning coffee",
         "ru": "утренний кофе",
+        "tr": "sabah kahvesi",
+        "az": "səhər qəhvəsi",
+        "uk": "ранкова кава",
         "descriptionEN": "A cup of coffee consumed in the morning for a refreshing start to the day.",
         "descriptionRU": "Кофе, выпитый утром для освежающего начала дня.",
-        "descriptionDE": "Eine Tasse Kaffee, die morgens getrunken wird, um den Tag erfrischend zu beginnen."
-    }, {
+        "descriptionDE": "Eine Tasse Kaffee, die morgens getrunken wird, um den Tag erfrischend zu beginnen.",
+        "descriptionTR": "Güne taze bir başlangıç için sabahları içilen bir fincan kahve.",
+        "descriptionAZ": "Günə canlı başlamaq üçün səhər içilən bir fincan qəhvə.",
+        "descriptionUK": "Чашка кави, яку вживають вранці для освіжаючого початку дня."
+    },
+    {
         "de": "die Arbeit",
         "en": "work",
         "ru": "работа",
+        "tr": "iş",
+        "az": "iş",
+        "uk": "робота",
         "descriptionEN": "An activity involving mental or physical effort done to achieve a purpose or result.",
         "descriptionRU": "Деятельность, требующая умственного или физического усилия, выполняемая с целью достижения результата.",
-        "descriptionDE": "Eine Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um einen Zweck oder ein Ergebnis zu erreichen."
-    }, {
+        "descriptionDE": "Eine Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um einen Zweck oder ein Ergebnis zu erreichen.",
+        "descriptionTR": "Bir amaç veya sonuç elde etmek için zihinsel veya fiziksel çaba gerektiren bir aktivite.",
+        "descriptionAZ": "Bir məqsəd və ya nəticə əldə etmək üçün əqli və ya fiziki səy tələb edən bir fəaliyyət.",
+        "descriptionUK": "Діяльність, що вимагає розумових або фізичних зусиль для досягнення мети чи результату."
+    },
+    {
         "de": "die Führung",
         "en": "tour",
         "ru": "экскурсия",
+        "tr": "tur",
+        "az": "ekskursiya",
+        "uk": "екскурсія",
         "descriptionEN": "A journey or excursion, typically for sightseeing and guided by someone knowledgeable.",
         "descriptionRU": "Путешествие или экскурсия, обычно с целью осмотра достопримечательностей и сопровождаемая опытным гидом.",
-        "descriptionDE": "Eine Reise oder Exkursion, in der Regel zum Besichtigen, geführt von einer sachkundigen Person."
-    }, {
+        "descriptionDE": "Eine Reise oder Exkursion, in der Regel zum Besichtigen, geführt von einer sachkundigen Person.",
+        "descriptionTR": "Genellikle gezmek amacıyla yapılan ve bilgili bir rehber eşliğinde gerçekleştirilen bir gezi veya tur.",
+        "descriptionAZ": "Adətən görmə məqsədi ilə həyata keçirilən və bilikli bir bələdçi ilə aparılan səyahət və ya ekskursiya.",
+        "descriptionUK": "Подорож або екскурсія, зазвичай для огляду пам’яток під керівництвом досвідченого гіда."
+    },
+    {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
-        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
-    }, {
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
+        "descriptionTR": "Tarihî, bilimsel, sanatsal veya kültürel ilgi çeken nesnelerin saklandığı ve sergilendiği bir bina.",
+        "descriptionAZ": "Tarixî, elmi, incəsənət və ya mədəni maraq doğuran əşyaların saxlandığı və nümayiş etdirildiyi bir bina.",
+        "descriptionUK": "Будівля, де зберігаються та виставляються об’єкти історичного, наукового, художнього чи культурного значення."
+    },
+    {
         "de": "die Insel",
         "en": "island",
         "ru": "остров",
+        "tr": "ada",
+        "az": "ada",
+        "uk": "острів",
         "descriptionEN": "A piece of land surrounded by water, smaller than a continent.",
         "descriptionRU": "Участок суши, окруженный водой и меньший по размеру, чем континент.",
-        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist und kleiner als ein Kontinent ist."
-    }, {
+        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist und kleiner als ein Kontinent ist.",
+        "descriptionTR": "Suyla çevrili, bir kıtadan daha küçük bir kara parçası.",
+        "descriptionAZ": "Su ilə əhatələnmiş və qitədən daha kiçik olan bir quru parçası.",
+        "descriptionUK": "Ділянка суші, оточена водою та менша за розміром, ніж континент."
+    },
+    {
         "de": "die Technologie",
         "en": "technology",
         "ru": "технология",
+        "tr": "teknoloji",
+        "az": "texnologiya",
+        "uk": "технологія",
         "descriptionEN": "The application of scientific knowledge for practical purposes, especially in industry.",
         "descriptionRU": "Применение научных знаний в практических целях, особенно в промышленности.",
-        "descriptionDE": "Die Anwendung wissenschaftlicher Kenntnisse für praktische Zwecke, insbesondere in der Industrie."
-    }, {
+        "descriptionDE": "Die Anwendung wissenschaftlicher Kenntnisse für praktische Zwecke, insbesondere in der Industrie.",
+        "descriptionTR": "Bilimsel bilginin özellikle endüstride pratik amaçlar için uygulanması.",
+        "descriptionAZ": "Elmi biliklərin xüsusilə sənayedə praktik məqsədlər üçün tətbiqi.",
+        "descriptionUK": "Застосування наукових знань для практичних цілей, особливо в промисловості."
+    },
+    {
         "de": "die Schokolade",
         "en": "chocolate",
         "ru": "шоколад",
+        "tr": "çikolata",
+        "az": "şokolad",
+        "uk": "шоколад",
         "descriptionEN": "A sweet food preparation made from roasted and ground cacao seeds.",
         "descriptionRU": "Сладкое блюдо, приготовленное из обжаренных и измельченных семян какао.",
-        "descriptionDE": "Eine süße Lebensmittelzubereitung aus gerösteten und gemahlenen Kakaosamen."
-    }, {
+        "descriptionDE": "Eine süße Lebensmittelzubereitung aus gerösteten und gemahlenen Kakaosamen.",
+        "descriptionTR": "Kavrulmuş ve öğütülmüş kakao çekirdeklerinden yapılan tatlı bir yiyecek.",
+        "descriptionAZ": "Qovrulmuş və üyüdülmüş kakao toxumlarından hazırlanan şirniyyat.",
+        "descriptionUK": "Солодка страва, приготована з обсмажених і подрібнених насінин какао."
+    },
+    {
         "de": "die Augen",
         "en": "eyes",
         "ru": "глаза",
+        "tr": "gözler",
+        "az": "gözlər",
+        "uk": "очі",
         "descriptionEN": "The organs of sight in humans and animals.",
         "descriptionRU": "Органы зрения у людей и животных.",
-        "descriptionDE": "Die Organe des Sehens bei Menschen und Tieren."
-    }, {
+        "descriptionDE": "Die Organe des Sehens bei Menschen und Tieren.",
+        "descriptionTR": "İnsanların ve hayvanların görme organları.",
+        "descriptionAZ": "İnsanların və heyvanların görmə orqanları.",
+        "descriptionUK": "Органи зору у людей і тварин."
+    },
+    {
         "de": "erleben",
         "en": "experience",
         "ru": "переживать",
+        "tr": "deneyimlemek",
+        "az": "yaşamaq",
+        "uk": "переживати",
         "descriptionEN": "To encounter or undergo events, emotions, or situations.",
         "descriptionRU": "Сталкиваться или переживать события, эмоции или ситуации.",
-        "descriptionDE": "Ereignisse, Emotionen oder Situationen erleben oder durchmachen."
-    }, {
+        "descriptionDE": "Ereignisse, Emotionen oder Situationen erleben oder durchmachen.",
+        "descriptionTR": "Olaylarla, duygularla veya durumlarla karşılaşmak veya onları yaşamak.",
+        "descriptionAZ": "Hadisələrə, emosiyalara və ya vəziyyətlərə rast gəlmək və ya onları yaşamaq.",
+        "descriptionUK": "Зіштовхуватися або переживати події, емоції чи ситуації."
+    },
+    {
         "de": "entdecken",
         "en": "discover",
         "ru": "открывать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find or learn something for the first time.",
         "descriptionRU": "Находить или узнавать что-то впервые.",
-        "descriptionDE": "Etwas zum ersten Mal finden oder lernen."
-    }, {
+        "descriptionDE": "Etwas zum ersten Mal finden oder lernen.",
+        "descriptionTR": "Bir şeyi ilk kez bulmak veya öğrenmek.",
+        "descriptionAZ": "Bir şeyi ilk dəfə tapmaq və ya öyrənmək.",
+        "descriptionUK": "Знаходити або дізнаватися щось уперше."
+    },
+    {
         "de": "faszinierend",
         "en": "fascinating",
         "ru": "очаровательный",
+        "tr": "büyüleyici",
+        "az": "məftunedici",
+        "uk": "чарівний",
         "descriptionEN": "Extremely interesting or charming.",
         "descriptionRU": "Исключительно интересный или очаровательный.",
-        "descriptionDE": "Äußerst interessant oder faszinierend."
-    }, {
+        "descriptionDE": "Äußerst interessant oder faszinierend.",
+        "descriptionTR": "Son derece ilginç veya büyüleyici.",
+        "descriptionAZ": "Son dərəcə maraqlı və ya cazibədar.",
+        "descriptionUK": "Надзвичайно цікавий або чарівний."
+    },
+    {
         "de": "unterhaltsam",
         "en": "entertaining",
         "ru": "развлекательный",
+        "tr": "eğlenceli",
+        "az": "əyləncəli",
+        "uk": "розважальний",
         "descriptionEN": "Providing amusement or enjoyment.",
         "descriptionRU": "Обеспечивающий развлечение и удовольствие.",
-        "descriptionDE": "Bietet Unterhaltung oder Vergnügen."
+        "descriptionDE": "Bietet Unterhaltung oder Vergnügen.",
+        "descriptionTR": "Eğlence veya keyif sağlayan.",
+        "descriptionAZ": "Əyləncə və ya zövq təmin edən.",
+        "descriptionUK": "Таке, що забезпечує розваги чи задоволення."
     }
 ]

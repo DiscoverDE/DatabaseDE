@@ -5,153 +5,285 @@
         "ru": "Покупка",
         "descriptionEN": "the activity of buying goods from shops.",
         "descriptionRU": "деятельность по покупке товаров в магазинах.",
-        "descriptionDE": "die Aktivität des Kaufens von Waren aus Geschäften."
+        "descriptionDE": "die Aktivität des Kaufens von Waren aus Geschäften.",
+        "tr": "Alışveriş",
+        "az": "Alış-veriş",
+        "uk": "Шопінг",
+        "descriptionUK": "діяльність з купівлі товарів у магазинах.",
+        "descriptionTR": "mağazalardan mal satın alma faaliyeti.",
+        "descriptionAZ": "mağazalardan mal alma fəaliyyəti."
     }, {
         "de": "die Vielfalt",
         "en": "Diversity",
         "ru": "Разнообразие",
         "descriptionEN": "the state of being diverse.",
         "descriptionRU": "состояние разнообразия.",
-        "descriptionDE": "der Zustand, vielfältig zu sein."
+        "descriptionDE": "der Zustand, vielfältig zu sein.",
+        "tr": "Çeşitlilik",
+        "az": "Müxtəliflik",
+        "uk": "Різноманітність",
+        "descriptionUK": "стан різноманітності.",
+        "descriptionTR": "çeşitli olma durumu.",
+        "descriptionAZ": "müxtəlif olma vəziyyəti."
     }, {
         "de": "die Auswahl",
         "en": "Selection",
         "ru": "Выбор",
         "descriptionEN": "the action or fact of carefully choosing someone or something.",
         "descriptionRU": "действие или факт тщательного выбора кого-то или чего-то.",
-        "descriptionDE": "die Handlung oder Tatsache, jemanden oder etwas sorgfältig auszuwählen."
+        "descriptionDE": "die Handlung oder Tatsache, jemanden oder etwas sorgfältig auszuwählen.",
+        "tr": "Seçim",
+        "az": "Seçim",
+        "uk": "Вибір",
+        "descriptionUK": "дія або факт ретельного вибору когось або чогось.",
+        "descriptionTR": "birini veya bir şeyi dikkatlice seçme eylemi veya gerçeği.",
+        "descriptionAZ": "kimisə və ya nəyisə diqqətlə seçmə hərəkəti və ya faktı."
     }, {
         "de": "das Gemüse",
         "en": "Vegetables",
         "ru": "Овощи",
         "descriptionEN": "plants grown for their edible parts.",
         "descriptionRU": "растения, выращенные за счет съедобных частей.",
-        "descriptionDE": "Pflanzen, die für ihre essbaren Teile angebaut werden."
+        "descriptionDE": "Pflanzen, die für ihre essbaren Teile angebaut werden.",
+        "tr": "Sebzeler",
+        "az": "Tərəvəzlər",
+        "uk": "Овочі",
+        "descriptionUK": "рослини, вирощені заради їхніх їстівних частин.",
+        "descriptionTR": "yenilebilir kısımları için yetiştirilen bitkiler.",
+        "descriptionAZ": "yeməli hissələri üçün yetişdirilən bitkilər."
     }, {
         "de": "die Frischware",
         "en": "Fresh Produce",
         "ru": "Свежие продукты",
         "descriptionEN": "food that is fresh and has not been processed or frozen.",
         "descriptionRU": "продукты, которые свежи и не были обработаны или заморожены.",
-        "descriptionDE": "Lebensmittel, die frisch sind und nicht verarbeitet oder eingefroren wurden."
+        "descriptionDE": "Lebensmittel, die frisch sind und nicht verarbeitet oder eingefroren wurden.",
+        "tr": "Taze Ürünler",
+        "az": "Təzə Məhsullar",
+        "uk": "Свіжі продукти",
+        "descriptionUK": "їжа, яка є свіжою і не була оброблена або заморожена.",
+        "descriptionTR": "taze olan ve işlenmemiş veya dondurulmamış yiyecek.",
+        "descriptionAZ": "təzə olan və emal edilməmiş və ya dondurulmamış qida."
     }, {
         "de": "die Wurst",
         "en": "Sausage",
         "ru": "Колбаса",
         "descriptionEN": "a cylindrical meat product.",
         "descriptionRU": "цилиндрический мясной продукт.",
-        "descriptionDE": "ein zylindrisches Fleischprodukt."
+        "descriptionDE": "ein zylindrisches Fleischprodukt.",
+        "tr": "Sosis",
+        "az": "Kolbasa",
+        "uk": "Ковбаса",
+        "descriptionUK": "циліндричний м'ясний продукт.",
+        "descriptionTR": "silindirik bir et ürünü.",
+        "descriptionAZ": "silindrik ət məhsulu."
     }, {
         "de": "das Brot",
         "en": "Bread",
         "ru": "Хлеб",
         "descriptionEN": "a staple food prepared from a dough of flour and water.",
         "descriptionRU": "основной продукт, приготовленный из теста из муки и воды.",
-        "descriptionDE": "ein Grundnahrungsmittel, hergestellt aus einem Teig aus Mehl und Wasser."
+        "descriptionDE": "ein Grundnahrungsmittel, hergestellt aus einem Teig aus Mehl und Wasser.",
+        "tr": "Ekmek",
+        "az": "Çörək",
+        "uk": "Хліб",
+        "descriptionUK": "основний продукт харчування, приготований з тіста з борошна та води.",
+        "descriptionTR": "un ve sudan oluşan bir hamurdan hazırlanan temel bir gıda maddesi.",
+        "descriptionAZ": "un və sudan hazırlanmış xəmirdən hazırlanmış əsas qida."
     }, {
         "de": "die Spezialität",
         "en": "Specialty",
         "ru": "Специальность",
         "descriptionEN": "a product of a special kind.",
         "descriptionRU": "продукт особого вида.",
-        "descriptionDE": "ein Produkt besonderer Art."
+        "descriptionDE": "ein Produkt besonderer Art.",
+        "tr": "Uzmanlık Alanı",
+        "az": "İxtisas",
+        "uk": "Спеціальність",
+        "descriptionUK": "продукт особливого роду.",
+        "descriptionTR": "özel türde bir ürün.",
+        "descriptionAZ": "xüsusi növ məhsul."
     }, {
         "de": "das Sauerkraut",
         "en": "Sauerkraut",
         "ru": "Кислая капуста",
         "descriptionEN": "fermented cabbage.",
         "descriptionRU": "квашеная капуста.",
-        "descriptionDE": "fermentierter Kohl."
+        "descriptionDE": "fermentierter Kohl.",
+        "tr": "Sauerkraut",
+        "az": "Sauerkraut",
+        "uk": "Квашена капуста",
+        "descriptionUK": "ферментована капуста.",
+        "descriptionTR": "fermente lahana.",
+        "descriptionAZ": "fermentasiya edilmiş kələm."
     }, {
         "de": "die Qualität",
         "en": "Quality",
         "ru": "Качество",
         "descriptionEN": "the standard of something as measured against other things of a similar kind.",
         "descriptionRU": "стандарт чего-то, измеренный по сравнению с другими вещами схожего рода.",
-        "descriptionDE": "der Standard von etwas im Vergleich zu anderen Dingen ähnlicher Art."
+        "descriptionDE": "der Standard von etwas im Vergleich zu anderen Dingen ähnlicher Art.",
+        "tr": "Kalite",
+        "az": "Keyfiyyət",
+        "uk": "Якість",
+        "descriptionUK": "стандарт чогось, виміряний порівняно з іншими речами подібного роду.",
+        "descriptionTR": "benzer türdeki diğer şeylere göre ölçülen bir şeyin standardı.",
+        "descriptionAZ": "oxşar növdən olan digər şeylərlə müqayisədə ölçülən bir şeyin standartı."
     }, {
         "de": "der Duft",
         "en": "Scent",
         "ru": "Аромат",
         "descriptionEN": "a distinctive smell.",
         "descriptionRU": "отличительный запах.",
-        "descriptionDE": "ein charakteristischer Geruch."
+        "descriptionDE": "ein charakteristischer Geruch.",
+        "tr": "Koku",
+        "az": "Ətir",
+        "uk": "Аромат",
+        "descriptionUK": "характерний запах.",
+        "descriptionTR": "ayırt edici bir koku.",
+        "descriptionAZ": "fərqli bir qoxu."
     }, {
         "de": "probieren",
         "en": "To Try",
         "ru": "Пробовать",
         "descriptionEN": "to taste or sample something.",
         "descriptionRU": "попробовать или отведать что-то.",
-        "descriptionDE": "etwas kosten oder probieren."
+        "descriptionDE": "etwas kosten oder probieren.",
+        "tr": "Denemek",
+        "az": "Yoxlamaq",
+        "uk": "Спробувати",
+        "descriptionUK": "скуштувати або спробувати щось.",
+        "descriptionTR": "bir şeyin tadına bakmak veya örneklemek.",
+        "descriptionAZ": "bir şeyin dadına baxmaq və ya nümunəsini götürmək."
     }, {
         "de": "erkunden",
         "en": "To Explore",
         "ru": "Исследовать",
         "descriptionEN": "to travel in or through an unfamiliar country or area in order to learn about or familiarize oneself with it.",
         "descriptionRU": "путешествовать в незнакомой стране или районе с целью узнать или ознакомиться с ним.",
-        "descriptionDE": "in einem unbekannten Land oder Gebiet reisen, um es kennenzulernen oder sich damit vertraut zu machen."
+        "descriptionDE": "in einem unbekannten Land oder Gebiet reisen, um es kennenzulernen oder sich damit vertraut zu machen.",
+        "tr": "Keşfetmek",
+        "az": "Kəşf etmək",
+        "uk": "Досліджувати",
+        "descriptionUK": "подорожувати в незнайомій країні чи районі з метою дізнатися або ознайомитися з ним.",
+        "descriptionTR": "hakkında bilgi edinmek veya tanımak amacıyla bilinmeyen bir ülkede veya bölgede seyahat etmek.",
+        "descriptionAZ": "tanımadığı bir ölkədə və ya ərazidə onun haqqında öyrənmək və ya onunla tanış olmaq məqsədi ilə səyahət etmək."
     }, {
         "de": "freuen",
         "en": "To Delight",
         "ru": "Радоваться",
         "descriptionEN": "to feel or express joy or pleasure.",
         "descriptionRU": "чувствовать или выражать радость или удовольствие.",
-        "descriptionDE": "Freude oder Vergnügen empfinden oder ausdrücken."
+        "descriptionDE": "Freude oder Vergnügen empfinden oder ausdrücken.",
+        "tr": "Sevindirmek",
+        "az": "Sevindirmək",
+        "uk": "Захоплювати",
+        "descriptionUK": "відчувати або виражати радість чи задоволення.",
+        "descriptionTR": "sevinç veya zevk hissetmek veya ifade etmek.",
+        "descriptionAZ": "sevinc və ya həzz hiss etmək və ya ifadə etmək."
     }, {
         "de": "überwältigen",
         "en": "To Overwhelm",
         "ru": "Потрясать",
         "descriptionEN": "to defeat completely.",
         "descriptionRU": "полностью победить.",
-        "descriptionDE": "vollständig besiegen."
+        "descriptionDE": "vollständig besiegen.",
+        "tr": "Ezmek",
+        "az": "Tamamilə məğlub etmək",
+        "uk": "Перемагати",
+        "descriptionUK": "повністю перемогти.",
+        "descriptionTR": "tamamen yenmek.",
+        "descriptionAZ": "tamamilə məğlub etmək."
     }, {
         "de": "überraschen",
         "en": "To Surprise",
         "ru": "Удивлять",
         "descriptionEN": "to cause someone to feel mild astonishment.",
         "descriptionRU": "вызвать у кого-то легкое удивление.",
-        "descriptionDE": "jemanden dazu bringen, leichte Verwunderung zu empfinden."
+        "descriptionDE": "jemanden dazu bringen, leichte Verwunderung zu empfinden.",
+        "tr": "Şaşırtmak",
+        "az": "Təəccübləndirmək",
+        "uk": "Дивувати",
+        "descriptionUK": "викликати у когось легке здивування.",
+        "descriptionTR": "birinin hafif bir şaşkınlık hissetmesine neden olmak.",
+        "descriptionAZ": "kimisə yüngül heyrət hissi keçirməsinə səbəb olmaq."
     }, {
         "de": "begrenzt",
         "en": "Limited",
         "ru": "Ограниченный",
         "descriptionEN": "restricted in size, amount, or extent.",
         "descriptionRU": "ограничен в размере, количестве или масштабе.",
-        "descriptionDE": "in Größe, Menge oder Umfang beschränkt."
+        "descriptionDE": "in Größe, Menge oder Umfang beschränkt.",
+        "tr": "Sınırlı",
+        "az": "Məhdud",
+        "uk": "Обмежений",
+        "descriptionUK": "обмежений у розмірі, кількості чи обсязі.",
+        "descriptionTR": "boyut, miktar veya kapsam olarak kısıtlı.",
+        "descriptionAZ": "ölçüdə, miqdarda və ya dərəcədə məhdudlaşdırılmışdır."
     }, {
         "de": "frisch",
         "en": "Fresh",
         "ru": "Свежий",
         "descriptionEN": "recently made or obtained; not canned, frozen, or otherwise preserved.",
         "descriptionRU": "недавно изготовленный или полученный; не консервированный, замороженный или иным образом сохраненный.",
-        "descriptionDE": "vor kurzem hergestellt oder erhalten; nicht konserviert, eingefroren oder anderweitig konserviert."
+        "descriptionDE": "vor kurzem hergestellt oder erhalten; nicht konserviert, eingefroren oder anderweitig konserviert.",
+        "tr": "Taze",
+        "az": "Təzə",
+        "uk": "Свіжий",
+        "descriptionUK": "нещодавно виготовлений або отриманий; не консервований, заморожений або іншим чином збережений.",
+        "descriptionTR": "yakın zamanda yapılmış veya elde edilmiş; konserve edilmemiş, dondurulmamış veya başka şekilde korunmamış.",
+        "descriptionAZ": "yeni hazırlanmış və ya əldə edilmiş; konservləşdirilməmiş, dondurulmamış və ya başqa şəkildə saxlanılmamış."
     }, {
         "de": "traditionell",
         "en": "Traditional",
         "ru": "Традиционный",
         "descriptionEN": "existing in or as part of a tradition; long-established.",
         "descriptionRU": "существующий в рамках традиции; давно установленный.",
-        "descriptionDE": "existierend in oder als Teil einer Tradition; lange etabliert."
+        "descriptionDE": "existierend in oder als Teil einer Tradition; lange etabliert.",
+        "tr": "Geleneksel",
+        "az": "Ənənəvi",
+        "uk": "Традиційний",
+        "descriptionUK": "існуючий у рамках традиції або як її частина; давно встановлений.",
+        "descriptionTR": "bir geleneğin içinde veya bir parçası olarak var olan; köklü.",
+        "descriptionAZ": "bir ənənənin içində və ya bir hissəsi kimi mövcud olan; köklü."
     }, {
         "de": "lecker",
         "en": "Delicious",
         "ru": "Вкусный",
         "descriptionEN": "highly pleasant to the taste.",
         "descriptionRU": "высоко приятный на вкус.",
-        "descriptionDE": "hoch angenehm im Geschmack."
+        "descriptionDE": "hoch angenehm im Geschmack.",
+        "tr": "Lezzetli",
+        "az": "Ləzzətli",
+        "uk": "Смачний",
+        "descriptionUK": "дуже приємний на смак.",
+        "descriptionTR": "tadına son derece hoş gelen.",
+        "descriptionAZ": "damağa çox xoş gələn."
     }, {
         "de": "lokale",
         "en": "Local",
         "ru": "Местный",
         "descriptionEN": "relating to or occurring in a particular area, city, or town.",
         "descriptionRU": "относящийся или происходящий в конкретном районе, городе или поселке.",
-        "descriptionDE": "bezogen auf oder auftretend in einem bestimmten Gebiet, einer Stadt oder einer Stadt."
+        "descriptionDE": "bezogen auf oder auftretend in einem bestimmten Gebiet, einer Stadt oder einer Stadt.",
+        "tr": "Yerel",
+        "az": "Yerli",
+        "uk": "Місцевий",
+        "descriptionUK": "що стосується або відбувається в певній місцевості, місті чи містечку.",
+        "descriptionTR": "belirli bir bölge, şehir veya kasaba ile ilgili veya orada meydana gelen.",
+        "descriptionAZ": "müəyyən bir ərazi, şəhər və ya qəsəbəyə aid olan və ya orada baş verən."
     }, {
         "de": "vibrant",
         "en": "Vibrant",
         "ru": "Яркий",
         "descriptionEN": "full of energy and enthusiasm.",
         "descriptionRU": "полный энергии и энтузиазма.",
-        "descriptionDE": "voll Energie und Enthusiasmus."
+        "descriptionDE": "voll Energie und Enthusiasmus.",
+        "tr": "Canlı",
+        "az": "Canlı",
+        "uk": "Жвавий",
+        "descriptionUK": "сповнений енергії та ентузіазму.",
+        "descriptionTR": "enerji ve coşku dolu.",
+        "descriptionAZ": "enerji və həvəslə dolu."
     }
 ]
