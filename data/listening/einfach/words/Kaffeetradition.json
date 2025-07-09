@@ -5,153 +5,285 @@
         "ru": "пирог",
         "descriptionEN": "a sweet baked food made from a mixture of flour, sugar, and other ingredients",
         "descriptionRU": "сладкое выпеченное блюдо из смеси муки, сахара и других ингредиентов",
-        "descriptionDE": "ein süßes gebackenes Lebensmittel aus einer Mischung aus Mehl, Zucker und anderen Zutaten"
+        "descriptionDE": "ein süßes gebackenes Lebensmittel aus einer Mischung aus Mehl, Zucker und anderen Zutaten",
+        "tr": "pasta",
+        "az": "tort",
+        "uk": "пиріг",
+        "descriptionTR": "un, şeker ve diğer malzemelerin karışımından yapılan tatlı bir fırın yiyeceği",
+        "descriptionAZ": "un, şəkər və digər tərkib hissələrinin qarışığından hazırlanan şirin bişmiş yemək",
+        "descriptionUK": "солодкий випечений виріб з борошна, цукру та інших інгредієнтів"
     }, {
         "de": "die Verabredung",
         "en": "appointment",
         "ru": "встреча",
         "descriptionEN": "an arrangement to meet someone at a particular time and place",
         "descriptionRU": "договоренность о встрече с кем-то в определенное время и месте",
-        "descriptionDE": "eine Vereinbarung, sich zu einer bestimmten Zeit und an einem bestimmten Ort zu treffen"
+        "descriptionDE": "eine Vereinbarung, sich zu einer bestimmten Zeit und an einem bestimmten Ort zu treffen",
+        "tr": "randevu",
+        "az": "görüş",
+        "uk": "зустріч",
+        "descriptionTR": "birisiyle belirli bir zamanda ve yerde buluşmak için bir düzenleme",
+        "descriptionAZ": "kimləsə müəyyən bir vaxtda və yerdə görüşmək üçün razılaşma",
+        "descriptionUK": "домовленість зустрітися з кимось у певний час і в певному місці"
     }, {
         "de": "der Nachbar",
         "en": "neighbor",
         "ru": "сосед",
         "descriptionEN": "a person living next door to or very near to the speaker or person referred to",
         "descriptionRU": "человек, живущий по соседству или очень близко к говорящему или к лицу, на которое ссылается говорящий",
-        "descriptionDE": "eine Person, die neben oder sehr nahe beim Sprecher oder der angesprochenen Person lebt"
+        "descriptionDE": "eine Person, die neben oder sehr nahe beim Sprecher oder der angesprochenen Person lebt",
+        "tr": "komşu",
+        "az": "qonşu",
+        "uk": "сусід",
+        "descriptionTR": "konuşmacının veya bahsedilen kişinin yanında veya çok yakınında yaşayan kişi",
+        "descriptionAZ": "danışanın və ya bəhs edilən şəxsin qonşuluğunda və ya çox yaxınlığında yaşayan şəxs",
+        "descriptionUK": "людина, що живе поруч або дуже близько до того, хто говорить або до того, на кого посилаються"
     }, {
         "de": "der Teig",
         "en": "dough",
         "ru": "тесто",
         "descriptionEN": "a mixture of flour and other ingredients used in cooking",
         "descriptionRU": "смесь муки и других ингредиентов, используемая при приготовлении пищи",
-        "descriptionDE": "eine Mischung aus Mehl und anderen Zutaten, die beim Kochen verwendet wird"
+        "descriptionDE": "eine Mischung aus Mehl und anderen Zutaten, die beim Kochen verwendet wird",
+        "tr": "hamur",
+        "az": "xəmir",
+        "uk": "тісто",
+        "descriptionTR": "yemek yapımında kullanılan un ve diğer malzemelerin karışımı",
+        "descriptionAZ": "bişirməkdə istifadə olunan un və digər tərkiblərin qarışığı",
+        "descriptionUK": "суміш борошна та інших інгредієнтів, що використовуються в кулінарії"
     }, {
         "de": "die Bäckerei",
         "en": "bakery",
         "ru": "пекарня",
         "descriptionEN": "a place where bread and cakes are made or sold",
         "descriptionRU": "место, где делают или продают хлеб и пирожные",
-        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt oder verkauft werden"
+        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt oder verkauft werden",
+        "tr": "fırın",
+        "az": "çörəkçi",
+        "uk": "пекарня",
+        "descriptionTR": "ekmek ve keklerin yapıldığı veya satıldığı bir yer",
+        "descriptionAZ": "çörək və tortların hazırlandığı və ya satıldığı yer",
+        "descriptionUK": "місце, де випікають або продають хліб та тістечка"
     }, {
         "de": "die Sicherheit",
         "en": "security",
         "ru": "безопасность",
         "descriptionEN": "the state of being free from danger or threat",
         "descriptionRU": "состояние свободы от опасности или угрозы",
-        "descriptionDE": "der Zustand, frei von Gefahr oder Bedrohung zu sein"
+        "descriptionDE": "der Zustand, frei von Gefahr oder Bedrohung zu sein",
+        "tr": "güvenlik",
+        "az": "təhlükəsizlik",
+        "uk": "безпека",
+        "descriptionTR": "tehlikeden veya tehditten uzak olma durumu",
+        "descriptionAZ": "təhlükə və ya təhdiddən azad olma vəziyyəti",
+        "descriptionUK": "стан відсутності небезпеки або загрози"
     }, {
         "de": "der Tisch",
         "en": "table",
         "ru": "стол",
         "descriptionEN": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed",
         "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ногами, предоставляющая ровную поверхность, на которую можно помещать предметы",
-        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können"
+        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können",
+        "tr": "masa",
+        "az": "masa",
+        "uk": "стіл",
+        "descriptionTR": "düz bir üst kısma ve bir veya daha fazla bacağa sahip, üzerine nesnelerin yerleştirilebileceği düz bir yüzey sağlayan bir mobilya parçası",
+        "descriptionAZ": "düz üst hissəli və bir və ya bir neçə ayaqlı, əşyaların yerləşdirilə biləcəyi düz səth təmin edən mebel parçası",
+        "descriptionUK": "предмет меблів з плоскою стільницею та однією або кількома ніжками, що забезпечує рівну поверхню, на яку можна ставити предмети"
     }, {
         "de": "der Kaffee",
         "en": "coffee",
         "ru": "кофе",
         "descriptionEN": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub",
         "descriptionRU": "горячий напиток, приготовленный из обжаренных и измельченных семян (кофейных зерен) тропического кустарника",
-        "descriptionDE": "ein heißes Getränk aus den gerösteten und gemahlenen Samen (Kaffeebohnen) eines tropischen Strauches"
+        "descriptionDE": "ein heißes Getränk aus den gerösteten und gemahlenen Samen (Kaffeebohnen) eines tropischen Strauches",
+        "tr": "kahve",
+        "az": "qəhvə",
+        "uk": "кава",
+        "descriptionTR": "tropikal bir çalının kavrulmuş ve öğütülmüş tohumlarından (kahve çekirdekleri) yapılan sıcak bir içecek",
+        "descriptionAZ": "tropik koldan alınmış qovrulmuş və üyüdülmüş toxumlardan (qəhvə dənələri) hazırlanmış isti içki",
+        "descriptionUK": "гарячий напій, приготований з обсмажених і мелених зерен (кавових зерен) тропічного куща"
     }, {
         "de": "der Marmorkuchen",
         "en": "marble cake",
         "ru": "мраморный пирог",
         "descriptionEN": "a cake with a streaked or mottled appearance, achieved by folding light and dark batter together",
         "descriptionRU": "пирог с полосатым или пестрым внешним видом, достигаемым путем смешивания светлого и темного теста вместе",
-        "descriptionDE": "ein Kuchen mit einem gestreiften oder marmorierten Aussehen, das durch das Zusammenfalten von hellem und dunklem Teig erreicht wird"
+        "descriptionDE": "ein Kuchen mit einem gestreiften oder marmorierten Aussehen, das durch das Zusammenfalten von hellem und dunklem Teig erreicht wird",
+        "tr": "mermer pasta",
+        "az": "mərmər tort",
+        "uk": "мармуровий торт",
+        "descriptionTR": "açık ve koyu hamurun birlikte katlanmasıyla elde edilen çizgili veya benekli görünüme sahip bir kek",
+        "descriptionAZ": "açıq və tünd xəmirin birlikdə qatılması ilə əldə edilən zolaqlı və ya ləkəli görünüşə malik tort",
+        "descriptionUK": "торт із смугастим або плямистим виглядом, досягнутим шляхом поєднання світлого та темного тіста"
     }, {
         "de": "der Gast",
         "en": "guest",
         "ru": "гость",
         "descriptionEN": "a person who is invited to visit or stay in someone's home or participate in an event",
         "descriptionRU": "человек, который приглашен в гости или остается в чьем-то доме или участвует в мероприятии",
-        "descriptionDE": "eine Person, die eingeladen ist, jemanden zu besuchen oder in dessen Haus zu bleiben oder an einer Veranstaltung teilzunehmen"
+        "descriptionDE": "eine Person, die eingeladen ist, jemanden zu besuchen oder in dessen Haus zu bleiben oder an einer Veranstaltung teilzunehmen",
+        "tr": "misafir",
+        "az": "qonaq",
+        "uk": "гість",
+        "descriptionTR": "birinin evini ziyaret etmeye veya evinde kalmaya veya bir etkinliğe katılmaya davet edilen kişi",
+        "descriptionAZ": "kiminsə evinə qonaq gələn və ya bir tədbirdə iştirak edən şəxs",
+        "descriptionUK": "особа, запрошена відвідати або залишитися в чиємусь домі чи взяти участь у події"
     }, {
         "de": "der Klatsch",
         "en": "gossip",
         "ru": "сплетня",
         "descriptionEN": "casual or unconstrained conversation or reports about other people, typically involving details which are not confirmed as true",
         "descriptionRU": "случайный или неконтролируемый разговор или отчеты о других людях, обычно содержащие детали, которые не подтверждены как правдивые",
-        "descriptionDE": "lockeres oder ungezwungenes Gespräch oder Berichte über andere Personen, die in der Regel Details enthalten, die nicht als wahr bestätigt sind"
+        "descriptionDE": "lockeres oder ungezwungenes Gespräch oder Berichte über andere Personen, die in der Regel Details enthalten, die nicht als wahr bestätigt sind",
+        "tr": "dedikodu",
+        "az": "qeybət",
+        "uk": "плітки",
+        "descriptionTR": "genellikle doğru olduğu doğrulanmamış ayrıntılar içeren, diğer insanlar hakkında gündelik veya sınırsız sohbet veya raporlar",
+        "descriptionAZ": "adətən doğru olduğu təsdiqlənməyən detalları ehtiva edən, digər insanlar haqqında adi və ya məhdudiyyətsiz söhbət və ya hesabatlar",
+        "descriptionUK": "випадкова або невимушена розмова чи повідомлення про інших людей, зазвичай з деталями, які не підтверджені як правдиві"
     }, {
         "de": "der Tratsch",
         "en": "chitchat",
         "ru": "болтовня",
         "descriptionEN": "light informal conversation for social occasions",
         "descriptionRU": "легкий неформальный разговор для общественных случаев",
-        "descriptionDE": "leichte informelle Unterhaltung für gesellschaftliche Anlässe"
+        "descriptionDE": "leichte informelle Unterhaltung für gesellschaftliche Anlässe",
+        "tr": "muhabbet",
+        "az": "boşboğazlıq",
+        "uk": "розмови",
+        "descriptionTR": "sosyal durumlar için hafif resmi olmayan sohbet",
+        "descriptionAZ": "sosial tədbirlər üçün yüngül qeyri-rəsmi söhbət",
+        "descriptionUK": "легка неформальна розмова для світських заходів"
     }, {
         "de": "verabreden",
         "en": "to arrange",
         "ru": "договариваться",
         "descriptionEN": "to make plans or preparations for",
         "descriptionRU": "заключать сделку или подготавливать",
-        "descriptionDE": "Pläne oder Vorbereitungen treffen für"
+        "descriptionDE": "Pläne oder Vorbereitungen treffen für",
+        "tr": "düzenlemek",
+        "az": "tənzimləmək",
+        "uk": "домовитися",
+        "descriptionTR": "planlar veya hazırlıklar yapmak",
+        "descriptionAZ": "planlar və ya hazırlıqlar etmək",
+        "descriptionUK": "складати плани або готуватися до чогось"
     }, {
         "de": "treffen",
         "en": "to meet",
         "ru": "встречаться",
         "descriptionEN": "to come together with someone, intentionally or by chance",
         "descriptionRU": "встречаться с кем-то, намеренно или случайно",
-        "descriptionDE": "sich absichtlich oder zufällig mit jemandem treffen"
+        "descriptionDE": "sich absichtlich oder zufällig mit jemandem treffen",
+        "tr": "buluşmak",
+        "az": "görüşmək",
+        "uk": "зустрічатися",
+        "descriptionTR": "birisiyle kasten veya tesadüfen bir araya gelmek",
+        "descriptionAZ": "kimləsə qəsdən və ya təsadüfən bir araya gəlmək",
+        "descriptionUK": "зустрічатися з кимось, навмисно або випадково"
     }, {
         "de": "kosten",
         "en": "to taste",
         "ru": "пробовать",
         "descriptionEN": "to ascertain the flavor of (food or drink) by taking it into the mouth",
         "descriptionRU": "определять вкус (еды или напитка), принимая его в рот",
-        "descriptionDE": "den Geschmack von (Essen oder Trinken) feststellen, indem man es in den Mund nimmt"
+        "descriptionDE": "den Geschmack von (Essen oder Trinken) feststellen, indem man es in den Mund nimmt",
+        "tr": "tatmak",
+        "az": "dadmaq",
+        "uk": "коштувати",
+        "descriptionTR": "(yiyecek veya içeceğin) tadını ağza alarak belirlemek",
+        "descriptionAZ": "(yemək və ya içkinin) dadını ağza alaraq müəyyən etmək",
+        "descriptionUK": "визначати смак (їжі або напою), беручи його в рот"
     }, {
         "de": "lachen",
         "en": "to laugh",
         "ru": "смеяться",
         "descriptionEN": "to make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement and sometimes also of derision",
         "descriptionRU": "производить спонтанные звуки и движения лица и тела, которые являются инстинктивными выражениями живой развлеченности и иногда также насмешки",
-        "descriptionDE": "die spontanen Geräusche und Bewegungen von Gesicht und Körper machen, die die instinktiven Ausdrücke lebhafter Freude und manchmal auch der Verhöhnung sind"
+        "descriptionDE": "die spontanen Geräusche und Bewegungen von Gesicht und Körper machen, die die instinktiven Ausdrücke lebhafter Freude und manchmal auch der Verhöhnung sind",
+        "tr": "gülmek",
+        "az": "gülmək",
+        "uk": "сміятися",
+        "descriptionTR": "canlı eğlencenin ve bazen de alayın içgüdüsel ifadeleri olan yüzün ve bedenin kendiliğinden seslerini ve hareketlerini yapmak",
+        "descriptionAZ": "canlı əyləncənin və bəzən də istehzanın instinktiv ifadələri olan üz və bədənin spontan səslərini və hərəkətlərini etmək",
+        "descriptionUK": "видавати спонтанні звуки та рухи обличчя та тіла, які є інстинктивними виразами жвавої розваги, а іноді й насмішки"
     }, {
         "de": "reden",
         "en": "to talk",
         "ru": "разговаривать",
         "descriptionEN": "to speak in order to give information or express ideas or feelings",
         "descriptionRU": "говорить, чтобы дать информацию или выразить идеи или чувства",
-        "descriptionDE": "sprechen, um Informationen zu geben oder Ideen oder Gefühle auszudrücken"
+        "descriptionDE": "sprechen, um Informationen zu geben oder Ideen oder Gefühle auszudrücken",
+        "tr": "konuşmak",
+        "az": "danışmaq",
+        "uk": "розмовляти",
+        "descriptionTR": "bilgi vermek veya fikir veya duyguları ifade etmek için konuşmak",
+        "descriptionAZ": "məlumat vermək və ya ideyaları və ya hissləri ifadə etmək üçün danışmaq",
+        "descriptionUK": "говорити, щоб надати інформацію або висловити ідеї чи почуття"
     }, {
         "de": "tauschen",
         "en": "to exchange",
         "ru": "обмениваться",
         "descriptionEN": "to give something and receive something else in return",
         "descriptionRU": "дать что-то и получить что-то другое взамен",
-        "descriptionDE": "etwas geben und etwas anderes im Gegenzug erhalten"
+        "descriptionDE": "etwas geben und etwas anderes im Gegenzug erhalten",
+        "tr": "değiştirmek",
+        "az": "mübadilə etmək",
+        "uk": "обмінюватися",
+        "descriptionTR": "bir şey vermek ve karşılığında başka bir şey almak",
+        "descriptionAZ": "bir şey vermək və əvəzində başqa bir şey almaq",
+        "descriptionUK": "давати щось і отримувати щось інше взамін"
     }, {
         "de": "fein",
         "en": "fine",
         "ru": "хороший",
         "descriptionEN": "of high quality",
         "descriptionRU": "высокого качества",
-        "descriptionDE": "von hoher Qualität"
+        "descriptionDE": "von hoher Qualität",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добрий",
+        "descriptionTR": "yüksek kalitede",
+        "descriptionAZ": "yüksək keyfiyyətli",
+        "descriptionUK": "високої якості"
     }, {
         "de": "schrecklich",
         "en": "terrible",
         "ru": "ужасный",
         "descriptionEN": "extremely bad or unpleasant",
         "descriptionRU": "крайне плохой или неприятный",
-        "descriptionDE": "äußerst schlecht oder unangenehm"
+        "descriptionDE": "äußerst schlecht oder unangenehm",
+        "tr": "korkunç",
+        "az": "dəhşətli",
+        "uk": "жахливий",
+        "descriptionTR": "son derece kötü veya tatsız",
+        "descriptionAZ": "son dərəcə pis və ya xoşagəlməz",
+        "descriptionUK": "надзвичайно поганий або неприємний"
     }, {
         "de": "gleich",
         "en": "right away",
         "ru": "сразу же",
         "descriptionEN": "immediately",
         "descriptionRU": "немедленно",
-        "descriptionDE": "sofort"
+        "descriptionDE": "sofort",
+        "tr": "hemen",
+        "az": "dərhal",
+        "uk": "відразу",
+        "descriptionTR": "derhal",
+        "descriptionAZ": "dərhal",
+        "descriptionUK": "негайно"
     }, {
         "de": "schlecht",
         "en": "bad",
         "ru": "плохой",
         "descriptionEN": "of poor quality or a low standard",
         "descriptionRU": "низкого качества или низкого стандарта",
-        "descriptionDE": "von schlechter Qualität oder einem niedrigen Standard"
+        "descriptionDE": "von schlechter Qualität oder einem niedrigen Standard",
+        "tr": "kötü",
+        "az": "pis",
+        "uk": "поганий",
+        "descriptionTR": "düşük kaliteli veya düşük standartta",
+        "descriptionAZ": "keyfiyyətsiz və ya aşağı səviyyədə",
+        "descriptionUK": "низької якості або низького стандарту"
     }
 ]

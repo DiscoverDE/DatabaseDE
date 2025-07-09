@@ -5,293 +5,545 @@
         "ru": "путешествовать",
         "descriptionEN": "to go or move from one place to another.",
         "descriptionRU": "двигаться или перемещаться из одного места в другое.",
-        "descriptionDE": "sich von einem Ort zum anderen begeben oder bewegen."
+        "descriptionDE": "sich von einem Ort zum anderen begeben oder bewegen.",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
+        "descriptionTR": "bir yerden başka bir yere gitmek veya hareket etmek.",
+        "descriptionAZ": "bir yerdən başqa yerə getmək və ya hərəkət etmək.",
+        "descriptionUK": "переміщатися з одного місця в інше."
     }, {
         "de": "bieten",
         "en": "to offer",
         "ru": "предлагать",
         "descriptionEN": "to present or proffer (something) for (someone) to accept or reject.",
         "descriptionRU": "представлять или предлагать (что-то) для (кого-то), чтобы принять или отклонить.",
-        "descriptionDE": "etwas vorlegen oder anbieten, damit jemand es akzeptieren oder ablehnen kann."
+        "descriptionDE": "etwas vorlegen oder anbieten, damit jemand es akzeptieren oder ablehnen kann.",
+        "tr": "sunmak",
+        "az": "təklif etmək",
+        "uk": "пропонувати",
+        "descriptionTR": "(bir şeyi) (birinin) kabul etmesi veya reddetmesi için sunmak veya teklif etmek.",
+        "descriptionAZ": "(nəyisə) (kiminsə) qəbul etməsi və ya rədd etməsi üçün təqdim etmək və ya təklif etmək.",
+        "descriptionUK": "представляти або пропонувати (щось) (комусь), щоб прийняти або відхилити."
     }, {
         "de": "vertiefen",
         "en": "to deepen",
         "ru": "углублять",
         "descriptionEN": "to make or become deeper or more intense.",
         "descriptionRU": "делать или становиться более глубоким или интенсивным.",
-        "descriptionDE": "vertiefen oder intensiver gestalten."
+        "descriptionDE": "vertiefen oder intensiver gestalten.",
+        "tr": "derinleştirmek",
+        "az": "dərinləşdirmək",
+        "uk": "поглиблювати",
+        "descriptionTR": "daha derin veya daha yoğun hale getirmek veya olmak.",
+        "descriptionAZ": "daha dərin və ya daha intensiv etmək və ya olmaq.",
+        "descriptionUK": "робити або ставати глибшим або інтенсивнішим."
     }, {
         "de": "ahnen",
         "en": "to sense",
         "ru": "чувствовать (предчувствие)",
         "descriptionEN": "to have a feeling or presentiment of (something that will or is about to happen).",
         "descriptionRU": "иметь чувство или предчувствие (чего-то, что произойдет или собирается произойти).",
-        "descriptionDE": "ein Gefühl oder Vorahnung von etwas haben, das passieren wird oder kurz davor steht zu passieren."
+        "descriptionDE": "ein Gefühl oder Vorahnung von etwas haben, das passieren wird oder kurz davor steht zu passieren.",
+        "tr": "hissetmek (sezmek)",
+        "az": "hiss etmək (qabaqcadan duymaq)",
+        "uk": "відчувати (передчуття)",
+        "descriptionTR": "(olacak veya olmak üzere olan bir şeyin) bir hissi veya önsezisi olmak.",
+        "descriptionAZ": "(baş verəcək və ya baş vermək üzrə olan bir şeyin) hissi və ya qabaqcadan duyuşu olmaq.",
+        "descriptionUK": "мати відчуття або передчуття (чогось, що станеться або ось-ось станеться)."
     }, {
         "de": "tauschen",
         "en": "to exchange",
         "ru": "обмениваться",
         "descriptionEN": "to give something and receive something of the same kind in return.",
         "descriptionRU": "давать что-то и получать что-то такого же вида взамен.",
-        "descriptionDE": "etwas geben und etwas Ähnliches im Austausch erhalten."
+        "descriptionDE": "etwas geben und etwas Ähnliches im Austausch erhalten.",
+        "tr": "değiştirmek",
+        "az": "dəyişmək",
+        "uk": "обмінюватися",
+        "descriptionTR": "bir şey vermek ve karşılığında aynı türden bir şey almak.",
+        "descriptionAZ": "bir şey vermək və əvəzində eyni növdən bir şey almaq.",
+        "descriptionUK": "давати щось і отримувати щось того ж виду взамін."
     }, {
         "de": "verabschieden",
         "en": "to bid farewell",
         "ru": "прощаться",
         "descriptionEN": "to say goodbye or take leave of someone.",
         "descriptionRU": "прощаться или попрощаться с кем-то.",
-        "descriptionDE": "sich von jemandem verabschieden oder Abschied nehmen."
+        "descriptionDE": "sich von jemandem verabschieden oder Abschied nehmen.",
+        "tr": "veda etmek",
+        "az": "vidalaşmaq",
+        "uk": "прощатися",
+        "descriptionTR": "birine veda etmek veya izin istemek.",
+        "descriptionAZ": "kiməsə sağol demək və ya kimdənsə ayrılmaq.",
+        "descriptionUK": "прощатися або попрощатися з кимось."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий дух",
         "descriptionEN": "impressively beautiful or stunning.",
         "descriptionRU": "впечатляюще красивый или потрясающий.",
-        "descriptionDE": "beeindruckend schön oder atemberaubend."
+        "descriptionDE": "beeindruckend schön oder atemberaubend.",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий дух",
+        "descriptionTR": "etkileyici derecede güzel veya büyüleyici.",
+        "descriptionAZ": "təsirli dərəcədə gözəl və ya heyrətamiz.",
+        "descriptionUK": "вражаюче красивий або приголомшливий."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабвенный",
         "descriptionEN": "leaving a deep and lasting impression.",
         "descriptionRU": "оставляющий глубокое и долговременное впечатление.",
-        "descriptionDE": "einen tiefen und bleibenden Eindruck hinterlassen."
+        "descriptionDE": "einen tiefen und bleibenden Eindruck hinterlassen.",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
+        "descriptionTR": "derin ve kalıcı bir izlenim bırakan.",
+        "descriptionAZ": "dərin və qalıcı təsir qoymaq.",
+        "descriptionUK": "що залишає глибоке та тривале враження."
     }, {
         "de": "herzerwärmend",
         "en": "heartwarming",
         "ru": "сердечный",
         "descriptionEN": "causing feelings of warmth and affection.",
         "descriptionRU": "вызывающий чувства тепла и любви.",
-        "descriptionDE": "Gefühle von Wärme und Zuneigung hervorrufend."
+        "descriptionDE": "Gefühle von Wärme und Zuneigung hervorrufend.",
+        "tr": "iç ısıtıcı",
+        "az": "ürəkaçan",
+        "uk": "зворушливий",
+        "descriptionTR": "sıcaklık ve şefkat duygularına neden olan.",
+        "descriptionAZ": "isti və sevgi hissləri oyadan.",
+        "descriptionUK": "що викликає почуття тепла та прихильності."
     }, {
         "de": "beeindruckt",
         "en": "impressed",
         "ru": "впечатленный",
         "descriptionEN": "feeling admiration for someone or something.",
         "descriptionRU": "чувствующий восхищение к кому-то или чему-то.",
-        "descriptionDE": "Bewunderung für jemanden oder etwas empfinden."
+        "descriptionDE": "Bewunderung für jemanden oder etwas empfinden.",
+        "tr": "etkilenmiş",
+        "az": "təəssüratlı",
+        "uk": "вражений",
+        "descriptionTR": "birine veya bir şeye hayranlık duymak.",
+        "descriptionAZ": "kiməsə və ya nəyəsə heyranlıq hiss etmək.",
+        "descriptionUK": "відчувати захоплення кимось або чимось."
     }, {
         "de": "beeindruckend",
         "en": "impressive",
         "ru": "впечатляющий",
         "descriptionEN": "evoking admiration through size, quality, or skill.",
         "descriptionRU": "вызывающий восхищение размером, качеством или мастерством.",
-        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschicklichkeit hervorrufen."
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschicklichkeit hervorrufen.",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
+        "descriptionTR": "boyut, kalite veya beceri yoluyla hayranlık uyandıran.",
+        "descriptionAZ": "ölçüsü, keyfiyyəti və ya bacarığı ilə heyranlıq oyandıran.",
+        "descriptionUK": "викликає захоплення розміром, якістю або майстерністю."
     }, {
         "de": "erstaunlich",
         "en": "amazing",
         "ru": "удивительный",
         "descriptionEN": "causing great surprise or wonder; astonishing.",
         "descriptionRU": "вызывающий большой сюрприз или удивление; поразительный.",
-        "descriptionDE": "große Überraschung oder Verwunderung verursachen; erstaunlich."
+        "descriptionDE": "große Überraschung oder Verwunderung verursachen; erstaunlich.",
+        "tr": "şaşırtıcı",
+        "az": "heyrətamiz",
+        "uk": "дивовижний",
+        "descriptionTR": "büyük sürpriz veya hayranlık uyandıran; şaşırtıcı.",
+        "descriptionAZ": "böyük sürpriz və ya heyrət doğuran; heyrətamiz.",
+        "descriptionUK": "викликає велике здивування або подив; приголомшливий."
     }, {
         "de": "unvergesslich",
         "en": "memorable",
         "ru": "памятный",
         "descriptionEN": "worth remembering or easily remembered.",
         "descriptionRU": "стоящий вспомнить или легко запоминаемый.",
-        "descriptionDE": "es wert, sich zu erinnern oder leicht zu merken."
+        "descriptionDE": "es wert, sich zu erinnern oder leicht zu merken.",
+        "tr": "akılda kalıcı",
+        "az": "yaddaqalan",
+        "uk": "пам'ятний",
+        "descriptionTR": "hatırlamaya değer veya kolayca hatırlanan.",
+        "descriptionAZ": "yadda saxlamağa dəyər və ya asanlıqla yadda qalan.",
+        "descriptionUK": "вартий запам'ятовування або легко запам'ятовується."
     }, {
         "de": "einfach",
         "en": "simple",
         "ru": "простой",
         "descriptionEN": "not complicated or difficult; easy.",
         "descriptionRU": "не сложный или трудный; легкий.",
-        "descriptionDE": "nicht kompliziert oder schwierig; einfach."
+        "descriptionDE": "nicht kompliziert oder schwierig; einfach.",
+        "tr": "basit",
+        "az": "sadə",
+        "uk": "простий",
+        "descriptionTR": "karmaşık veya zor değil; kolay.",
+        "descriptionAZ": "çətin və ya mürəkkəb deyil; asan.",
+        "descriptionUK": "не складний або важкий; легкий."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
         "descriptionEN": "pleasing the senses or mind aesthetically.",
         "descriptionRU": "угождающий чувствам или уму эстетически.",
-        "descriptionDE": "die Sinne oder den Verstand ästhetisch ansprechend."
+        "descriptionDE": "die Sinne oder den Verstand ästhetisch ansprechend.",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
+        "descriptionTR": "duyuları veya zihni estetik olarak memnun eden.",
+        "descriptionAZ": "duyğuları və ya ağılı estetik olaraq sevindirən.",
+        "descriptionUK": "приємний для почуттів або розуму естетично."
     }, {
         "de": "gemeinsam",
         "en": "common",
         "ru": "общий",
         "descriptionEN": "belonging to or shared by two or more people or groups.",
         "descriptionRU": "принадлежащий или разделяемый двумя или более людьми или группами.",
-        "descriptionDE": "zu zwei oder mehr Personen oder Gruppen gehörend oder von ihnen geteilt."
+        "descriptionDE": "zu zwei oder mehr Personen oder Gruppen gehörend oder von ihnen geteilt.",
+        "tr": "ortak",
+        "az": "ümumi",
+        "uk": "спільний",
+        "descriptionTR": "iki veya daha fazla kişiye veya gruba ait olan veya onlar tarafından paylaşılan.",
+        "descriptionAZ": "iki və ya daha çox insana və ya qrupa aid olan və ya onlar tərəfindən paylaşılan.",
+        "descriptionUK": "належний або спільний для двох або більше людей чи груп."
     }, {
         "de": "schönheit",
         "en": "beautifully",
         "ru": "красиво",
         "descriptionEN": "in a beautiful manner; pleasing to the senses or mind.",
         "descriptionRU": "красивым образом; приятным для чувств или ума.",
-        "descriptionDE": "auf schöne Weise; ansprechend für die Sinne oder den Verstand."
+        "descriptionDE": "auf schöne Weise; ansprechend für die Sinne oder den Verstand.",
+        "tr": "güzelce",
+        "az": "gözəl",
+        "uk": "красиво",
+        "descriptionTR": "güzel bir şekilde; duyulara veya zihne hoş gelen.",
+        "descriptionAZ": "gözəl şəkildə; duyğulara və ya ağıla xoş gələn.",
+        "descriptionUK": "красиво; приємно для почуттів або розуму."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
         "descriptionEN": "many times at short intervals.",
         "descriptionRU": "много раз с короткими интервалами.",
-        "descriptionDE": "viele Male in kurzen Abständen."
+        "descriptionDE": "viele Male in kurzen Abständen.",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
+        "descriptionTR": "kısa aralıklarla birçok kez.",
+        "descriptionAZ": "qısa aralıqlarla çox dəfə.",
+        "descriptionUK": "багато разів через короткі проміжки часу."
     }, {
         "de": "einfach",
         "en": "simply",
         "ru": "просто",
         "descriptionEN": "in a straightforward or plain manner.",
         "descriptionRU": "прямым или простым образом.",
-        "descriptionDE": "auf einfache und klare Weise."
+        "descriptionDE": "auf einfache und klare Weise.",
+        "tr": "sadece",
+        "az": "sadəcə",
+        "uk": "просто",
+        "descriptionTR": "doğrudan veya basit bir şekilde.",
+        "descriptionAZ": "birbaşa və ya sadə şəkildə.",
+        "descriptionUK": "прямо або просто."
     }, {
         "de": "die Seilbahn",
         "en": "cable car",
         "ru": "канатная дорога",
         "descriptionEN": "a means of transportation in which cabins are suspended from a continuously moving cable.",
         "descriptionRU": "средство передвижения, в котором кабины подвешены к непрерывно движущемуся канату.",
-        "descriptionDE": "ein Transportmittel, bei dem Kabinen von einem kontinuierlich bewegten Seil aufgehängt sind."
+        "descriptionDE": "ein Transportmittel, bei dem Kabinen von einem kontinuierlich bewegten Seil aufgehängt sind.",
+        "tr": "teleferik",
+        "az": "kanat yolu",
+        "uk": "канатна дорога",
+        "descriptionTR": "kabinlerin sürekli hareket eden bir kablodan asılı olduğu bir ulaşım aracı.",
+        "descriptionAZ": "kabinlərin davamlı hərəkət edən bir kanatdan asıldığı bir nəqliyyat vasitəsi.",
+        "descriptionUK": "засіб пересування, в якому кабіни підвішені до безперервно рухомого канату."
     }, {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
         "descriptionEN": "the sight or prospect of a landscape, area, or scene.",
         "descriptionRU": "вид или перспектива ландшафта, области или сцены.",
-        "descriptionDE": "der Anblick oder die Aussicht auf eine Landschaft, Gegend oder Szene."
+        "descriptionDE": "der Anblick oder die Aussicht auf eine Landschaft, Gegend oder Szene.",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вигляд",
+        "descriptionTR": "bir manzara, alan veya sahnenin görünümü veya görüntüsü.",
+        "descriptionAZ": "bir mənzərənin, ərazinin və ya səhnənin görünüşü və ya perspektivi.",
+        "descriptionUK": "вигляд або перспектива ландшафту, області або сцени."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
         "descriptionEN": "one of the major European rivers, flowing through Germany and several other countries.",
         "descriptionRU": "одна из крупных европейских рек, протекающая через Германию и несколько других стран.",
-        "descriptionDE": "einer der wichtigsten europäischen Flüsse, der durch Deutschland und mehrere andere Länder fließt."
+        "descriptionDE": "einer der wichtigsten europäischen Flüsse, der durch Deutschland und mehrere andere Länder fließt.",
+        "tr": "Ren",
+        "az": "Ren",
+        "uk": "Рейн",
+        "descriptionTR": "Almanya ve diğer birçok ülkeden geçen başlıca Avrupa nehirlerinden biri.",
+        "descriptionAZ": "Almaniya və bir neçə başqa ölkədən axan əsas Avropa çaylarından biri.",
+        "descriptionUK": "одна з головних європейських річок, що протікає через Німеччину та кілька інших країн."
     }, {
         "de": "der Moment",
         "en": "moment",
         "ru": "момент",
         "descriptionEN": "a very brief period of time.",
         "descriptionRU": "очень короткий период времени.",
-        "descriptionDE": "eine sehr kurze Zeitspanne."
+        "descriptionDE": "eine sehr kurze Zeitspanne.",
+        "tr": "an",
+        "az": "an",
+        "uk": "момент",
+        "descriptionTR": "çok kısa bir zaman dilimi.",
+        "descriptionAZ": "çox qısa bir zaman kəsiyi.",
+        "descriptionUK": "дуже короткий проміжок часу."
     }, {
         "de": "das Gespräch",
         "en": "conversation",
         "ru": "беседа",
         "descriptionEN": "an informal talk involving two or more people; an exchange of ideas or opinions.",
         "descriptionRU": "неформальный разговор двух или более людей; обмен идеями или мнениями.",
-        "descriptionDE": "ein informales Gespräch mit zwei oder mehr Personen; ein Austausch von Ideen oder Meinungen."
+        "descriptionDE": "ein informales Gespräch mit zwei oder mehr Personen; ein Austausch von Ideen oder Meinungen.",
+        "tr": "sohbet",
+        "az": "söhbət",
+        "uk": "розмова",
+        "descriptionTR": "iki veya daha fazla kişinin katıldığı resmi olmayan bir konuşma; fikir veya görüş alışverişi.",
+        "descriptionAZ": "iki və ya daha çox şəxsin iştirak etdiyi qeyri-formal söhbət; fikir və ya rəy mübadiləsi.",
+        "descriptionUK": "неформальна розмова за участю двох або більше людей; обмін ідеями або думками."
     }, {
         "de": "die Reise",
         "en": "journey",
         "ru": "путешествие",
         "descriptionEN": "an act of traveling from one place to another, especially when involving a considerable distance.",
         "descriptionRU": "движение из одного места в другое, особенно на значительное расстояние.",
-        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen, besonders wenn eine beträchtliche Entfernung involviert ist."
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen, besonders wenn eine beträchtliche Entfernung involviert ist.",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "подорож",
+        "descriptionTR": "bir yerden başka bir yere seyahat etme eylemi, özellikle de önemli bir mesafe içeriyorsa.",
+        "descriptionAZ": "bir yerdən başqa yerə səyahət etmə hərəkəti, xüsusən də əhəmiyyətli bir məsafəni əhatə edirsə.",
+        "descriptionUK": "акт подорожі з одного місця в інше, особливо якщо це пов'язано зі значною відстанню."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
         "descriptionEN": "a belief or behavior passed down within a group or society with symbolic meaning or special significance.",
         "descriptionRU": "вера или поведение, передаваемое в группе или обществе с символическим значением или особым значением.",
-        "descriptionDE": "eine Überzeugung oder Verhalten, das innerhalb einer Gruppe oder Gesellschaft mit symbolischer Bedeutung oder besonderer Bedeutung weitergegeben wird."
+        "descriptionDE": "eine Überzeugung oder Verhalten, das innerhalb einer Gruppe oder Gesellschaft mit symbolischer Bedeutung oder besonderer Bedeutung weitergegeben wird.",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
+        "descriptionTR": "sembolik anlamı veya özel önemi olan, bir grup veya toplum içinde aktarılan bir inanç veya davranış.",
+        "descriptionAZ": "simvolik mənası və ya xüsusi əhəmiyyəti olan, bir qrup və ya cəmiyyət daxilində nəsildən-nəslə keçən inanc və ya davranış.",
+        "descriptionUK": "вірування або поведінка, що передається в групі чи суспільстві з символічним значенням або особливим значенням."
     }, {
         "de": "der Fremde",
         "en": "stranger",
         "ru": "незнакомец",
         "descriptionEN": "a person whom one does not know or with whom one is not familiar.",
         "descriptionRU": "человек, которого кто-то не знает или с кем не знаком.",
-        "descriptionDE": "eine Person, die man nicht kennt oder mit der man nicht vertraut ist."
+        "descriptionDE": "eine Person, die man nicht kennt oder mit der man nicht vertraut ist.",
+        "tr": "yabancı",
+        "az": "yad",
+        "uk": "незнайомець",
+        "descriptionTR": "tanımadığı veya aşina olmadığı bir kişi.",
+        "descriptionAZ": "tanımadığı və ya tanış olmadığı bir şəxs.",
+        "descriptionUK": "особа, яку хтось не знає або з якою не знайомий."
     }, {
         "de": "der Geschäftsmann",
         "en": "businessman",
         "ru": "бизнесмен",
         "descriptionEN": "a man engaged in commercial, industrial, or professional activities.",
         "descriptionRU": "мужчина, занимающийся коммерческой, промышленной или профессиональной деятельностью.",
-        "descriptionDE": "ein Mann, der in kommerziellen, industriellen oder beruflichen Tätigkeiten engagiert ist."
+        "descriptionDE": "ein Mann, der in kommerziellen, industriellen oder beruflichen Tätigkeiten engagiert ist.",
+        "tr": "işadamı",
+        "az": "iş adamı",
+        "uk": "бізнесмен",
+        "descriptionTR": "ticari, endüstriyel veya profesyonel faaliyetlerle uğraşan bir erkek.",
+        "descriptionAZ": "ticarət, sənaye və ya peşə fəaliyyətləri ilə məşğul olan kişi.",
+        "descriptionUK": "чоловік, який займається комерційною, промисловою або професійною діяльністю."
     }, {
         "de": "die Konferenz",
         "en": "conference",
         "ru": "конференция",
         "descriptionEN": "a formal meeting for discussion or debate.",
         "descriptionRU": "официальная встреча для обсуждения или дебатов.",
-        "descriptionDE": "eine formelle Besprechung zur Diskussion oder Debatte."
+        "descriptionDE": "eine formelle Besprechung zur Diskussion oder Debatte.",
+        "tr": "konferans",
+        "az": "konfrans",
+        "uk": "конференція",
+        "descriptionTR": "tartışma veya münazara için resmi bir toplantı.",
+        "descriptionAZ": "müzakirə və ya debat üçün rəsmi iclas.",
+        "descriptionUK": "офіційна зустріч для обговорення або дебатів."
     }, {
         "de": "die Aussicht",
         "en": "panorama",
         "ru": "панорама",
         "descriptionEN": "a wide and unbroken view of a large area.",
         "descriptionRU": "широкий и необрывный вид на большую территорию.",
-        "descriptionDE": "ein weiter und ununterbrochener Blick auf eine große Fläche."
+        "descriptionDE": "ein weiter und ununterbrochener Blick auf eine große Fläche.",
+        "tr": "panorama",
+        "az": "panorama",
+        "uk": "панорама",
+        "descriptionTR": "geniş bir alanın geniş ve kesintisiz görünümü.",
+        "descriptionAZ": "geniş bir ərazinin geniş və kəsilməz mənzərəsi.",
+        "descriptionUK": "широкий і безперервний вид на велику територію."
     }, {
         "de": "die Erinnerung",
         "en": "memory",
         "ru": "память",
         "descriptionEN": "the faculty by which the mind stores and remembers information.",
         "descriptionRU": "способность ума хранить и вспоминать информацию.",
-        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern."
+        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern.",
+        "tr": "hafıza",
+        "az": "yaddaş",
+        "uk": "пам'ять",
+        "descriptionTR": "zihnin bilgiyi saklama ve hatırlama yeteneği.",
+        "descriptionAZ": "ağlın məlumatı saxlamaq və xatırlamaq qabiliyyəti.",
+        "descriptionUK": "здатність розуму зберігати та запам'ятовувати інформацію."
     }, {
         "de": "die Freundschaft",
         "en": "friendship",
         "ru": "дружба",
         "descriptionEN": "a state of mutual trust and support between individuals.",
         "descriptionRU": "состояние взаимного доверия и поддержки между людьми.",
-        "descriptionDE": "ein Zustand gegenseitigen Vertrauens und Unterstützung zwischen Individuen."
+        "descriptionDE": "ein Zustand gegenseitigen Vertrauens und Unterstützung zwischen Individuen.",
+        "tr": "arkadaşlık",
+        "az": "dostluq",
+        "uk": "дружба",
+        "descriptionTR": "bireyler arasında karşılıklı güven ve destek durumu.",
+        "descriptionAZ": "şəxslər arasında qarşılıqlı etimad və dəstək vəziyyəti.",
+        "descriptionUK": "стан взаємної довіри та підтримки між людьми."
     }, {
         "de": "die Bindung",
         "en": "bond",
         "ru": "связь",
         "descriptionEN": "a close connection joining two or more people or things.",
         "descriptionRU": "близкое соединение, объединяющее двух или более людей или вещей.",
-        "descriptionDE": "eine enge Verbindung, die zwei oder mehr Menschen oder Dinge verbindet."
+        "descriptionDE": "eine enge Verbindung, die zwei oder mehr Menschen oder Dinge verbindet.",
+        "tr": "bağ",
+        "az": "əlaqə",
+        "uk": "зв'язок",
+        "descriptionTR": "iki veya daha fazla kişiyi veya şeyi birleştiren yakın bir bağlantı.",
+        "descriptionAZ": "iki və ya daha çox insanı və ya şeyi birləşdirən sıx bir əlaqə.",
+        "descriptionUK": "тісний зв'язок, що об'єднує двох або більше людей або речей."
     }, {
         "de": "die Schönheit",
         "en": "beauty",
         "ru": "красота",
         "descriptionEN": "the quality of being pleasing, especially to look at.",
         "descriptionRU": "качество приятного вида, особенно для взгляда.",
-        "descriptionDE": "die Qualität, angenehm zu sein, besonders für das Auge."
+        "descriptionDE": "die Qualität, angenehm zu sein, besonders für das Auge.",
+        "tr": "güzellik",
+        "az": "gözəllik",
+        "uk": "краса",
+        "descriptionTR": "özellikle bakışa hoş gelen, hoş olma niteliği.",
+        "descriptionAZ": "xüsusilə görünüşü ilə xoş gəlmək keyfiyyəti.",
+        "descriptionUK": "якість бути приємним, особливо на вигляд."
     }, {
         "de": "die Welt",
         "en": "world",
         "ru": "мир",
         "descriptionEN": "the earth, together with all of its countries, peoples, and natural features.",
         "descriptionRU": "земля вместе со всеми ее странами, народами и природными особенностями.",
-        "descriptionDE": "die Erde zusammen mit all ihren Ländern, Völkern und natürlichen Merkmalen."
+        "descriptionDE": "die Erde zusammen mit all ihren Ländern, Völkern und natürlichen Merkmalen.",
+        "tr": "dünya",
+        "az": "dünya",
+        "uk": "світ",
+        "descriptionTR": "tüm ülkeleri, halkları ve doğal özellikleriyle birlikte dünya.",
+        "descriptionAZ": "bütün ölkələri, xalqları və təbii xüsusiyyətləri ilə birlikdə yer kürəsi.",
+        "descriptionUK": "земля, разом з усіма її країнами, народами та природними особливостями."
     }, {
         "de": "die Liebe",
         "en": "love",
         "ru": "любовь",
         "descriptionEN": "an intense feeling of deep affection.",
         "descriptionRU": "интенсивное чувство глубокой привязанности.",
-        "descriptionDE": "ein intensives Gefühl tiefgehender Zuneigung."
+        "descriptionDE": "ein intensives Gefühl tiefgehender Zuneigung.",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
+        "descriptionTR": "yoğun bir derin sevgi duygusu.",
+        "descriptionAZ": "dərin sevgi hissi.",
+        "descriptionUK": "інтенсивне почуття глибокої прихильності."
     }, {
         "de": "der Reisende",
         "en": "traveler",
         "ru": "путешественник",
         "descriptionEN": "a person who is traveling or who often travels.",
         "descriptionRU": "человек, который путешествует или часто бывает в путешествиях.",
-        "descriptionDE": "eine Person, die reist oder oft reist."
+        "descriptionDE": "eine Person, die reist oder oft reist.",
+        "tr": "gezgin",
+        "az": "səyyah",
+        "uk": "мандрівник",
+        "descriptionTR": "seyahat eden veya sık sık seyahat eden bir kişi.",
+        "descriptionAZ": "səyahət edən və ya tez-tez səyahət edən şəxs.",
+        "descriptionUK": "людина, яка подорожує або часто подорожує."
     }, {
         "de": "der Punkt",
         "en": "point",
         "ru": "точка",
         "descriptionEN": "a particular spot, place, or position.",
         "descriptionRU": "конкретное место, место или положение.",
-        "descriptionDE": "ein bestimmter Punkt, Ort oder Position."
+        "descriptionDE": "ein bestimmter Punkt, Ort oder Position.",
+        "tr": "nokta",
+        "az": "nöqtə",
+        "uk": "точка",
+        "descriptionTR": "belirli bir nokta, yer veya konum.",
+        "descriptionAZ": "müəyyən bir nöqtə, yer və ya mövqe.",
+        "descriptionUK": "певний момент, місце або позиція."
     }, {
         "de": "die Plattform",
         "en": "platform",
         "ru": "платформа",
         "descriptionEN": "a raised level surface on which people or things can stand.",
         "descriptionRU": "поднятая поверхность, на которой могут стоять люди или вещи.",
-        "descriptionDE": "eine erhöhte ebene Fläche, auf der Menschen oder Dinge stehen können."
+        "descriptionDE": "eine erhöhte ebene Fläche, auf der Menschen oder Dinge stehen können.",
+        "tr": "platform",
+        "az": "platforma",
+        "uk": "платформа",
+        "descriptionTR": "insanların veya eşyaların durabileceği yükseltilmiş düz bir yüzey.",
+        "descriptionAZ": "insanların və ya əşyaların dayana biləcəyi qalın səth.",
+        "descriptionUK": "піднята рівна поверхня, на якій можуть стояти люди або речі."
     }, {
         "de": "die Schicht",
         "en": "layer",
         "ru": "слои",
         "descriptionEN": "a sheet, quantity, or thickness of material, typically one of several, covering a surface or body.",
         "descriptionRU": "лист, количество или толщина материала, обычно одного из нескольких, покрывающих поверхность или тело.",
-        "descriptionDE": "ein Blatt, eine Menge oder Dicke von Material, typischerweise eines von mehreren, das eine Oberfläche oder einen Körper bedeckt."
+        "descriptionDE": "ein Blatt, eine Menge oder Dicke von Material, typischerweise eines von mehreren, das eine Oberfläche oder einen Körper bedeckt.",
+        "tr": "katman",
+        "az": "qath",
+        "uk": "шар",
+        "descriptionTR": "bir yüzeyi veya vücudu kaplayan, genellikle birkaçından biri olan bir malzeme tabakası, miktarı veya kalınlığı.",
+        "descriptionAZ": "bir səthi və ya cismi əhatə edən materialın bir təbəqəsi, miqdarı və ya qalınlığı, tipik olaraq bir neçəsindən biri.",
+        "descriptionUK": "аркуш, кількість або товщина матеріалу, як правило, один з кількох, що покриває поверхню або тіло."
     }, {
         "de": "die Verbundenheit",
         "en": "connection",
         "ru": "связь",
         "descriptionEN": "the state of being connected or linked.",
         "descriptionRU": "состояние связи или связи.",
-        "descriptionDE": "der Zustand, miteinander verbunden oder verknüpft zu sein."
+        "descriptionDE": "der Zustand, miteinander verbunden oder verknüpft zu sein.",
+        "tr": "bağlantı",
+        "az": "bağlantı",
+        "uk": "зв'язок",
+        "descriptionTR": "bağlı veya ilişkili olma durumu.",
+        "descriptionAZ": "birləşdirilmiş və ya əlaqəli olma vəziyyəti.",
+        "descriptionUK": "стан зв'язку або з'єднання."
     }, {
         "de": "der Moment",
         "en": "moment",
         "ru": "момент",
         "descriptionEN": "a very brief period of time.",
         "descriptionRU": "очень короткий период времени.",
-        "descriptionDE": "eine sehr kurze Zeitspanne."
+        "descriptionDE": "eine sehr kurze Zeitspanne.",
+        "tr": "an",
+        "az": "an",
+        "uk": "момент",
+        "descriptionTR": "çok kısa bir zaman dilimi.",
+        "descriptionAZ": "çox qısa bir zaman kəsiyi.",
+        "descriptionUK": "дуже короткий проміжок часу."
     }
 ]

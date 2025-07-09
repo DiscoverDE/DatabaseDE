@@ -5,146 +5,272 @@
         "ru": "кинотеатр",
         "descriptionEN": "a theater where movies are shown for public entertainment",
         "descriptionRU": "театр, где показывают фильмы для общественного развлечения",
-        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden."
+        "descriptionDE": "Ein Theater, in dem Filme zur öffentlichen Unterhaltung gezeigt werden.",
+        "tr": "sinema",
+        "az": "kinoteatr",
+        "uk": "кінотеатр",
+        "descriptionTR": "halkın eğlenmesi için filmlerin gösterildiği bir tiyatro",
+        "descriptionAZ": "ictimai əyləncə üçün filmlərin göstərildiyi teatr",
+        "descriptionUK": "театр, де показують фільми для громадських розваг"
     }, {
         "de": "der Bruder",
         "en": "brother",
         "ru": "брат",
         "descriptionEN": "a male sibling",
         "descriptionRU": "мужской родственник по отцовской или материнской линии",
-        "descriptionDE": "Ein männliches Geschwisterkind."
+        "descriptionDE": "Ein männliches Geschwisterkind.",
+        "tr": "erkek kardeş",
+        "az": "qardaş",
+        "uk": "брат",
+        "descriptionTR": "erkek kardeş",
+        "descriptionAZ": "kişi qardaş",
+        "descriptionUK": "брат"
     }, {
         "de": "die Karte",
         "en": "ticket",
         "ru": "билет",
         "descriptionEN": "a piece of paper or small card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event",
         "descriptionRU": "листок бумаги или маленькая карточка, дающая держателю определенное право, особенно на вход в место, поездку на общественном транспорте или участие в событии",
-        "descriptionDE": "Ein Stück Papier oder eine kleine Karte, die dem Inhaber bestimmte Rechte einräumt, insbesondere den Eintritt an einen Ort, die Nutzung öffentlicher Verkehrsmittel oder die Teilnahme an einer Veranstaltung."
+        "descriptionDE": "Ein Stück Papier oder eine kleine Karte, die dem Inhaber bestimmte Rechte einräumt, insbesondere den Eintritt an einen Ort, die Nutzung öffentlicher Verkehrsmittel oder die Teilnahme an einer Veranstaltung.",
+        "tr": "bilet",
+        "az": "bilet",
+        "uk": "квиток",
+        "descriptionTR": "sahibine belirli bir hak, özellikle bir yere girme, toplu taşıma ile seyahat etme veya bir etkinliğe katılma hakkı veren bir kağıt parçası veya küçük kart",
+        "descriptionAZ": "sahibinə müəyyən bir hüquq, xüsusən bir yerə daxil olmaq, ictimai nəqliyyatla səyahət etmək və ya bir tədbirdə iştirak etmək hüququ verən bir kağız parçası və ya kiçik kart",
+        "descriptionUK": "шматок паперу або маленька картка, що надає власнику певне право, особливо на вхід до місця, проїзд громадським транспортом або участь у заході"
     }, {
         "de": "der Anfang",
         "en": "beginning",
         "ru": "начало",
         "descriptionEN": "the point in time or space at which something starts",
         "descriptionRU": "точка во времени или пространстве, с которой начинается что-то",
-        "descriptionDE": "Der Zeitpunkt oder der Ort, an dem etwas beginnt."
+        "descriptionDE": "Der Zeitpunkt oder der Ort, an dem etwas beginnt.",
+        "tr": "başlangıç",
+        "az": "başlanğıc",
+        "uk": "початок",
+        "descriptionTR": "bir şeyin başladığı zaman veya mekan noktası",
+        "descriptionAZ": "bir şeyin başladığı zaman və ya məkan nöqtəsi",
+        "descriptionUK": "точка в часі або просторі, з якої щось починається"
     }, {
         "de": "die Leinwand",
         "en": "screen",
         "ru": "экран",
         "descriptionEN": "a flat surface onto which pictures or words are projected for viewing",
         "descriptionRU": "плоская поверхность, на которую проецируются изображения или слова для просмотра",
-        "descriptionDE": "Eine flache Oberfläche, auf die Bilder oder Wörter zur Ansicht projiziert werden."
+        "descriptionDE": "Eine flache Oberfläche, auf die Bilder oder Wörter zur Ansicht projiziert werden.",
+        "tr": "ekran",
+        "az": "ekran",
+        "uk": "екран",
+        "descriptionTR": "resimlerin veya kelimelerin görüntülenmesi için yansıtıldığı düz bir yüzey",
+        "descriptionAZ": "şəkillərin və ya sözlərin baxmaq üçün yansıtıldığı düz bir səth",
+        "descriptionUK": "плоска поверхня, на яку проектуються зображення або слова для перегляду"
     }, {
         "de": "die Plätze",
         "en": "seats",
         "ru": "места",
         "descriptionEN": "the area occupied by something, especially in the case of seating",
         "descriptionRU": "область, занимаемая чем-то, особенно в случае мест для сидения",
-        "descriptionDE": "Der Bereich, der von etwas eingenommen wird, insbesondere bei Sitzgelegenheiten."
+        "descriptionDE": "Der Bereich, der von etwas eingenommen wird, insbesondere bei Sitzgelegenheiten.",
+        "tr": "koltuklar",
+        "az": "yerlər",
+        "uk": "місця",
+        "descriptionTR": "bir şeyin kapladığı alan, özellikle oturma durumunda",
+        "descriptionAZ": "bir şeyin, xüsusən oturacaqların tutduğu sahə",
+        "descriptionUK": "область, зайнята чимось, особливо у випадку сидінь"
     }, {
         "de": "das Bier",
         "en": "beer",
         "ru": "пиво",
         "descriptionEN": "an alcoholic drink made from yeast-fermented malt flavored with hops",
         "descriptionRU": "алкогольный напиток, изготовленный из дрожжевого брожения солода с добавлением хмеля",
-        "descriptionDE": "Ein alkoholisches Getränk aus hefevergorenem Malz, aromatisiert mit Hopfen."
+        "descriptionDE": "Ein alkoholisches Getränk aus hefevergorenem Malz, aromatisiert mit Hopfen.",
+        "tr": "bira",
+        "az": "pivə",
+        "uk": "пиво",
+        "descriptionTR": "maya ile fermente edilmiş, şerbetçiotu ile tatlandırılmış alkollü bir içecek",
+        "descriptionAZ": "maya ilə qıcqırdılmış, şerbetçiotu ilə dadlandırılmış spirtli içki",
+        "descriptionUK": "алкогольний напій, виготовлений з дріжджового солоду, ароматизований хмелем"
     }, {
         "de": "der Dunkle",
         "en": "dark",
         "ru": "темный",
         "descriptionEN": "having very little or no light",
         "descriptionRU": "имеющий очень мало или совсем нет света",
-        "descriptionDE": "Mit sehr wenig oder keinem Licht versehen."
+        "descriptionDE": "Mit sehr wenig oder keinem Licht versehen.",
+        "tr": "karanlık",
+        "az": "qaranlıq",
+        "uk": "темний",
+        "descriptionTR": "çok az ışığı olan veya hiç ışığı olmayan",
+        "descriptionAZ": "çox az və ya heç işığı olmayan",
+        "descriptionUK": "має дуже мало або зовсім не має світла"
     }, {
         "de": "der Gute",
         "en": "good",
         "ru": "хороший",
         "descriptionEN": "of high quality or an acceptable standard",
         "descriptionRU": "высокого качества или приемлемого стандарта",
-        "descriptionDE": "Von hoher Qualität oder einem akzeptablen Standard."
+        "descriptionDE": "Von hoher Qualität oder einem akzeptablen Standard.",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добрий",
+        "descriptionTR": "yüksek kaliteli veya kabul edilebilir bir standartta",
+        "descriptionAZ": "yüksək keyfiyyətli və ya qəbul edilə bilən standartda",
+        "descriptionUK": "високої якості або прийнятного стандарту"
     }, {
         "de": "der Geduldige",
         "en": "patient",
         "ru": "терпеливый",
         "descriptionEN": "able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious",
         "descriptionRU": "способный принимать или терпеть задержки, проблемы или страдания, не раздражаясь или не беспокоясь",
-        "descriptionDE": "Fähig, Verzögerungen, Probleme oder Leiden zu akzeptieren oder zu tolerieren, ohne genervt oder ängstlich zu werden."
+        "descriptionDE": "Fähig, Verzögerungen, Probleme oder Leiden zu akzeptieren oder zu tolerieren, ohne genervt oder ängstlich zu werden.",
+        "tr": "sabırlı",
+        "az": "səbirli",
+        "uk": "терплячий",
+        "descriptionTR": "gecikmeleri, sorunları veya acıyı sinirlenmeden veya endişelenmeden kabul etme veya tolere etme yeteneğine sahip",
+        "descriptionAZ": "gecikmələri, problemləri və ya əziyyətləri narahat olmadan və ya əsəbiləşmədən qəbul etmək və ya dözmək qabiliyyətinə malik",
+        "descriptionUK": "здатний приймати або терпіти затримки, проблеми чи страждання, не дратуючись чи не турбуючись"
     }, {
         "de": "erschwinglich",
         "en": "affordable",
         "ru": "доступный",
         "descriptionEN": "not too expensive; within one's financial means",
         "descriptionRU": "не слишком дорогой; в пределах финансовых возможностей",
-        "descriptionDE": "Nicht zu teuer; im finanziellen Rahmen einer Person."
+        "descriptionDE": "Nicht zu teuer; im finanziellen Rahmen einer Person.",
+        "tr": "uygun fiyatlı",
+        "az": "əlverişli",
+        "uk": "доступний",
+        "descriptionTR": "çok pahalı olmayan; kişinin maddi imkanları dahilinde",
+        "descriptionAZ": "çox bahalı deyil; insanın maliyyə imkanları daxilində",
+        "descriptionUK": "не надто дорогий; у межах фінансових можливостей"
     }, {
         "de": "klassisch",
         "en": "classic",
         "ru": "классический",
         "descriptionEN": "judged over a period of time to be of the highest quality and outstanding of its kind",
         "descriptionRU": "признанный в течение определенного времени высшего качества и выдающийся своего рода",
-        "descriptionDE": "Über einen Zeitraum hinweg als von höchster Qualität und herausragend in seiner Art beurteilt."
+        "descriptionDE": "Über einen Zeitraum hinweg als von höchster Qualität und herausragend in seiner Art beurteilt.",
+        "tr": "klasik",
+        "az": "klassik",
+        "uk": "класичний",
+        "descriptionTR": "bir süre boyunca en yüksek kalitede ve türünün en iyisi olarak değerlendirilen",
+        "descriptionAZ": "müəyyən bir müddət ərzində ən yüksək keyfiyyətə və öz növünün görkəmlisi olaraq qiymətləndirilən",
+        "descriptionUK": "оцінений протягом певного періоду часу як найвищої якості та видатний у своєму роді"
     }, {
         "de": "hochmodern",
         "en": "hochmodern",
         "ru": "современный",
         "descriptionEN": "of the newest design or style",
         "descriptionRU": "новейшего дизайна или стиля",
-        "descriptionDE": "Von neuestem Design oder Stil."
+        "descriptionDE": "Von neuestem Design oder Stil.",
+        "tr": "son teknoloji",
+        "az": "yüksək müasir",
+        "uk": "сучасний",
+        "descriptionTR": "en yeni tasarım veya stil",
+        "descriptionAZ": "ən yeni dizayn və ya üslub",
+        "descriptionUK": "найновішого дизайну або стилю"
     }, {
         "de": "bequem",
         "en": "comfortable",
         "ru": "удобный",
         "descriptionEN": "providing physical ease and relaxation",
         "descriptionRU": "обеспечивающий физическое удобство и расслабление",
-        "descriptionDE": "Bietet körperliche Leichtigkeit und Entspannung."
+        "descriptionDE": "Bietet körperliche Leichtigkeit und Entspannung.",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "зручний",
+        "descriptionTR": "fiziksel rahatlık ve gevşeme sağlayan",
+        "descriptionAZ": "fiziki rahatlıq və istirahət təmin edən",
+        "descriptionUK": "забезпечує фізичну легкість і розслаблення"
     }, {
         "de": "ungeduldig",
         "en": "impatient",
         "ru": "нетерпеливый",
         "descriptionEN": "having or showing a tendency to be quickly irritated or provoked",
         "descriptionRU": "имеющий или проявляющий склонность к быстрому раздражению или провокации",
-        "descriptionDE": "Zeigt eine Tendenz, schnell gereizt oder provoziert zu werden."
+        "descriptionDE": "Zeigt eine Tendenz, schnell gereizt oder provoziert zu werden.",
+        "tr": "sabırsız",
+        "az": "səbirsiz",
+        "uk": "нетерплячий",
+        "descriptionTR": "çabuk sinirlenme veya provoke olma eğilimi olan veya gösteren",
+        "descriptionAZ": "tez qıcıqlanma və ya qızışma tendensiyası olan və ya göstərən",
+        "descriptionUK": "має або проявляє схильність швидко дратуватися або провокуватися"
     }, {
         "de": "rechtzeitig",
         "en": "in time",
         "ru": "вовремя",
         "descriptionEN": "at the correct or appropriate time",
         "descriptionRU": "в правильное или подходящее время",
-        "descriptionDE": "Zur richtigen oder angemessenen Zeit."
+        "descriptionDE": "Zur richtigen oder angemessenen Zeit.",
+        "tr": "zamanında",
+        "az": "vaxtında",
+        "uk": "вчасно",
+        "descriptionTR": "doğru veya uygun zamanda",
+        "descriptionAZ": "düzgün və ya uyğun zamanda",
+        "descriptionUK": "у правильний або відповідний час"
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
         "descriptionEN": "very enthusiastic and eager",
         "descriptionRU": "очень восторженный и нетерпеливый",
-        "descriptionDE": "Sehr begeistert und eifrig."
+        "descriptionDE": "Sehr begeistert und eifrig.",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
+        "descriptionTR": "çok hevesli ve istekli",
+        "descriptionAZ": "çox həvəskar və istəkli",
+        "descriptionUK": "дуже захоплений і нетерплячий"
     }, {
         "de": "gebannt",
         "en": "spellbound",
         "ru": "плененный",
         "descriptionEN": "giving all of one's attention and interest to someone or something",
         "descriptionRU": "уделяющий всю свою внимательность и интерес кому-то или чему-то",
-        "descriptionDE": "Gibt seine gesamte Aufmerksamkeit und Interesse jemandem oder etwas."
+        "descriptionDE": "Gibt seine gesamte Aufmerksamkeit und Interesse jemandem oder etwas.",
+        "tr": "büyülenmiş",
+        "az": "əfsunlanmış",
+        "uk": "заворожений",
+        "descriptionTR": "tüm dikkatini ve ilgisini birine veya bir şeye vermek",
+        "descriptionAZ": "bütün diqqətini və marağını kiməsə və ya nəyəsə vermək",
+        "descriptionUK": "приділяє всю свою увагу та інтерес комусь або чомусь"
     }, {
         "de": "rechts",
         "en": "right",
         "ru": "правильно",
         "descriptionEN": "in a correct manner",
         "descriptionRU": "правильно",
-        "descriptionDE": "Auf korrekte Weise."
+        "descriptionDE": "Auf korrekte Weise.",
+        "tr": "doğru",
+        "az": "doğru",
+        "uk": "правильно",
+        "descriptionTR": "doğru bir şekilde",
+        "descriptionAZ": "düzgün şəkildə",
+        "descriptionUK": "правильно"
     }, {
         "de": "liebling",
         "en": "favorite",
         "ru": "любимый",
         "descriptionEN": "preferred before all others of the same kind",
         "descriptionRU": "предпочитается перед всеми другими такого же рода",
-        "descriptionDE": "Bevorzugt vor allen anderen gleicher Art."
+        "descriptionDE": "Bevorzugt vor allen anderen gleicher Art.",
+        "tr": "favori",
+        "az": "sevimli",
+        "uk": "улюблений",
+        "descriptionTR": "aynı türden diğerlerinden önce tercih edilen",
+        "descriptionAZ": "eyni növ digərlərindən əvvəl seçilən",
+        "descriptionUK": "переважний перед усіма іншими того ж роду"
     }, {
         "de": "zum Glück",
         "en": "fortunately",
         "ru": "к счастью",
         "descriptionEN": "used to express relief or gratitude that a dangerous or unpleasant event has not happened or is no longer happening",
         "descriptionRU": "используется для выражения облегчения или благодарности за то, что опасное или неприятное событие не произошло или больше не происходит",
-        "descriptionDE": "Wird verwendet, um Erleichterung oder Dankbarkeit auszudrücken, dass ein gefährliches oder unangenehmes Ereignis nicht eingetreten ist oder nicht mehr stattfindet."
+        "descriptionDE": "Wird verwendet, um Erleichterung oder Dankbarkeit auszudrücken, dass ein gefährliches oder unangenehmes Ereignis nicht eingetreten ist oder nicht mehr stattfindet.",
+        "tr": "neyse ki",
+        "az": "xoşbəxtlikdən",
+        "uk": "на щастя",
+        "descriptionTR": "tehlikeli veya nahoş bir olayın meydana gelmediği veya artık meydana gelmediği için rahatlama veya minnettarlığı ifade etmek için kullanılır",
+        "descriptionAZ": "təhlükəli və ya xoşagəlməz bir hadisənin baş vermədiyini və ya artıq baş vermədiyini ifadə etmək üçün istifadə olunur",
+        "descriptionUK": "використовується для вираження полегшення або вдячності за те, що небезпечна або неприємна подія не сталася або більше не відбувається"
     }
 ]

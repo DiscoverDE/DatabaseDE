@@ -5,174 +5,324 @@
         "ru": "гастрономия",
         "descriptionEN": "the practice or art of choosing, cooking, and eating good food",
         "descriptionRU": "практика или искусство выбора, приготовления и употребления хорошей еды",
-        "descriptionDE": "die Praxis oder Kunst, gutes Essen auszuwählen, zuzubereiten und zu essen"
+        "descriptionDE": "die Praxis oder Kunst, gutes Essen auszuwählen, zuzubereiten und zu essen",
+        "tr": "gastronomi",
+        "az": "qastronomiya",
+        "uk": "гастрономія",
+        "descriptionTR": "iyi yemek seçme, pişirme ve yeme sanatı veya pratiği",
+        "descriptionAZ": "yaxşı yemək seçmək, bişirmək və yemək sənəti və ya təcrübəsi",
+        "descriptionUK": "практика або мистецтво вибору, приготування та вживання смачної їжі"
     }, {
         "de": "das Kölsch",
         "en": "Kölsch beer",
         "ru": "пиво Кёльш",
         "descriptionEN": "a style of beer originating in Cologne (Köln), Germany",
         "descriptionRU": "стиль пива, происходящий из Кёльна (Кёльн), Германия",
-        "descriptionDE": "ein Bierstil, der in Köln, Deutschland, seinen Ursprung hat"
+        "descriptionDE": "ein Bierstil, der in Köln, Deutschland, seinen Ursprung hat",
+        "tr": "Kölsch birası",
+        "az": "Kölsch pivəsi",
+        "uk": "пиво Кельш",
+        "descriptionTR": "Almanya'nın Köln (Köln) şehrinden gelen bir bira tarzı",
+        "descriptionAZ": "Almaniyanın Köln (Köln) şəhərindən yaranan bir pivə növü",
+        "descriptionUK": "стиль пива, що походить з Кельна (Кельн), Німеччина"
     }, {
         "de": "die Küche",
         "en": "cuisine",
         "ru": "кухня",
         "descriptionEN": "a style or method of cooking, especially as characteristic of a particular country, region, or establishment",
         "descriptionRU": "стиль или метод приготовления пищи, особенно характерный для определенной страны, региона или заведения",
-        "descriptionDE": "ein Stil oder eine Methode des Kochens, insbesondere charakteristisch für ein bestimmtes Land, eine Region oder eine Einrichtung"
+        "descriptionDE": "ein Stil oder eine Methode des Kochens, insbesondere charakteristisch für ein bestimmtes Land, eine Region oder eine Einrichtung",
+        "tr": "mutfak",
+        "az": "mətbəx",
+        "uk": "кухня",
+        "descriptionTR": "özellikle belirli bir ülke, bölge veya kuruluşun karakteristik bir pişirme tarzı veya yöntemi",
+        "descriptionAZ": "xüsusilə müəyyən bir ölkənin, bölgənin və ya müəssisənin xarakterik bişirmə tərzi və ya metodu",
+        "descriptionUK": "стиль або метод приготування їжі, особливо характерний для певної країни, регіону чи закладу"
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
         "descriptionEN": "the state of being diverse; variety",
         "descriptionRU": "состояние разнообразия; разнообразие",
-        "descriptionDE": "der Zustand der Vielfalt; Vielfalt"
+        "descriptionDE": "der Zustand der Vielfalt; Vielfalt",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
+        "descriptionTR": "çeşitli olma durumu; çeşitlilik",
+        "descriptionAZ": "müxtəlif olma vəziyyəti; çeşidlilik",
+        "descriptionUK": "стан різноманітності; різноманітність"
     }, {
         "de": "die Schönheit",
         "en": "beauty",
         "ru": "красота",
         "descriptionEN": "the quality or aggregate of qualities in a person or thing that gives pleasure to the senses or pleasurably exalts the mind or spirit",
         "descriptionRU": "качество или совокупность качеств в человеке или вещи, приносящих удовольствие чувствам или приятно возвышающих ум или дух",
-        "descriptionDE": "die Qualität oder Gesamtheit von Qualitäten einer Person oder Sache, die den Sinnen Freude bereitet oder den Geist oder die Seele angenehm erhebt"
+        "descriptionDE": "die Qualität oder Gesamtheit von Qualitäten einer Person oder Sache, die den Sinnen Freude bereitet oder den Geist oder die Seele angenehm erhebt",
+        "tr": "güzellik",
+        "az": "gözəllik",
+        "uk": "краса",
+        "descriptionTR": "bir kişide veya şeyde duyulara zevk veren veya zihni veya ruhu hoş bir şekilde yücelten nitelik veya nitelikler bütünü",
+        "descriptionAZ": "bir insanda və ya əşyada duyğulara zövq verən və ya ağılı və ya ruhu xoşagəlməz şəkildə ucaldan keyfiyyət və ya keyfiyyətlər məcmusu",
+        "descriptionUK": "якість або сукупність якостей в людині або речі, що дає насолоду почуттям або приємно підносить розум або дух"
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
         "descriptionEN": "the study of past events, particularly in human affairs",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах",
-        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten"
+        "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
+        "descriptionTR": "geçmiş olayların, özellikle insan ilişkilerindeki olayların incelenmesi",
+        "descriptionAZ": "keçmiş hadisələrin, xüsusilə insan işlərindəki hadisələrin öyrənilməsi",
+        "descriptionUK": "вивчення минулих подій, особливо в людських справах"
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
         "descriptionEN": "the art or practice of designing and constructing buildings",
         "descriptionRU": "искусство или практика проектирования и строительства зданий",
-        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden"
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
+        "descriptionTR": "binaları tasarlama ve inşa etme sanatı veya pratiği",
+        "descriptionAZ": "binaların layihələndirilməsi və tikintisi sənəti və ya təcrübəsi",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель"
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
         "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
         "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
-        "descriptionDE": "der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks"
+        "descriptionDE": "der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
+        "descriptionTR": "bir yerin, durumun veya sanat eserinin hakim tonu veya ruh hali",
+        "descriptionAZ": "bir yerin, vəziyyətin və ya sənət əsərinin hakim tonu və ya əhval-ruhiyyəsi",
+        "descriptionUK": "переважаючий тон або настрій місця, ситуації або витвору мистецтва"
     }, {
         "de": "die Station",
         "en": "station",
         "ru": "станция",
         "descriptionEN": "a regular stopping place on a public transportation route, especially one with a platform and shelter for passengers",
         "descriptionRU": "регулярное место остановки на маршруте общественного транспорта, особенно с платформой и укрытием для пассажиров",
-        "descriptionDE": "ein regelmäßiger Haltepunkt auf einer öffentlichen Verkehrsroute, insbesondere mit einem Bahnsteig und einem Unterstand für Fahrgäste"
+        "descriptionDE": "ein regelmäßiger Haltepunkt auf einer öffentlichen Verkehrsroute, insbesondere mit einem Bahnsteig und einem Unterstand für Fahrgäste",
+        "tr": "istasyon",
+        "az": "stansiya",
+        "uk": "станція",
+        "descriptionTR": "toplu taşıma güzergahında düzenli bir durak, özellikle yolcular için platformu ve barınağı olan bir yer",
+        "descriptionAZ": "ictimai nəqliyyat marşrutu üzərində müntəzəm dayanacaq, xüsusən sərnişinlər üçün platforması və sığınacağı olan yer",
+        "descriptionUK": "регулярна зупинка на маршруті громадського транспорту, особливо та, що має платформу та укриття для пасажирів"
     }, {
         "de": "der Vergleich",
         "en": "comparison",
         "ru": "сравнение",
         "descriptionEN": "the act or instance of comparing",
         "descriptionRU": "действие или пример сравнения",
-        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens",
+        "tr": "karşılaştırma",
+        "az": "müqayisə",
+        "uk": "порівняння",
+        "descriptionTR": "karşılaştırma eylemi veya örneği",
+        "descriptionAZ": "müqayisə etmək hərəkəti və ya nümunəsi",
+        "descriptionUK": "дія або випадок порівняння"
     }, {
         "de": "die Entwicklung",
         "en": "development",
         "ru": "развитие",
         "descriptionEN": "the process of growth, progress, or maturation",
         "descriptionRU": "процесс роста, прогресса или созревания",
-        "descriptionDE": "der Prozess des Wachstums, Fortschritts oder der Reifung"
+        "descriptionDE": "der Prozess des Wachstums, Fortschritts oder der Reifung",
+        "tr": "gelişim",
+        "az": "inkişaf",
+        "uk": "розвиток",
+        "descriptionTR": "büyüme, ilerleme veya olgunlaşma süreci",
+        "descriptionAZ": "böyümə, irəliləyiş və ya yetkinləşmə prosesi",
+        "descriptionUK": "процес росту, прогресу або дозрівання"
     }, {
         "de": "der Aufbau",
         "en": "reconstruction",
         "ru": "реконструкция",
         "descriptionEN": "the action or process of reconstructing or being reconstructed",
         "descriptionRU": "действие или процесс реконструкции или быть реконструированным",
-        "descriptionDE": "die Handlung oder der Prozess des Wiederaufbaus oder des Wiederaufbaus"
+        "descriptionDE": "die Handlung oder der Prozess des Wiederaufbaus oder des Wiederaufbaus",
+        "tr": "yeniden yapılanma",
+        "az": "yenidənqurma",
+        "uk": "реконструкція",
+        "descriptionTR": "yeniden inşa etme veya yeniden inşa edilme eylemi veya süreci",
+        "descriptionAZ": "yenidən qurmaq və ya yenidən qurulmaq hərəkəti və ya prosesi",
+        "descriptionUK": "дія або процес реконструкції або бути реконструйованим"
     }, {
         "de": "die Einladung",
         "en": "invitation",
         "ru": "приглашение",
         "descriptionEN": "a written or verbal request inviting someone to go somewhere or to do something",
         "descriptionRU": "письменный или устный запрос, приглашающий кого-то куда-то или к чему-то",
-        "descriptionDE": "eine schriftliche oder mündliche Aufforderung, jemanden an einen Ort zu gehen oder etwas zu tun"
+        "descriptionDE": "eine schriftliche oder mündliche Aufforderung, jemanden an einen Ort zu gehen oder etwas zu tun",
+        "tr": "davetiye",
+        "az": "dəvət",
+        "uk": "запрошення",
+        "descriptionTR": "birini bir yere gitmeye veya bir şey yapmaya davet eden yazılı veya sözlü bir talep",
+        "descriptionAZ": "kimisə bir yerə getməyə və ya bir şey etməyə dəvət edən yazılı və ya şifahi tələb",
+        "descriptionUK": "письмовий або усний запит, що запрошує когось кудись піти або щось зробити"
     }, {
         "de": "der Vergleich",
         "en": "comparison",
         "ru": "сравнение",
         "descriptionEN": "the act or instance of comparing",
         "descriptionRU": "действие или пример сравнения",
-        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens",
+        "tr": "karşılaştırma",
+        "az": "müqayisə",
+        "uk": "порівняння",
+        "descriptionTR": "karşılaştırma eylemi veya örneği",
+        "descriptionAZ": "müqayisə etmək hərəkəti və ya nümunəsi",
+        "descriptionUK": "дія або випадок порівняння"
     }, {
         "de": "die Nahrung",
         "en": "food",
         "ru": "пища",
         "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth",
         "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют, или которое растения поглощают для поддержания жизни и роста",
-        "descriptionDE": "irgendeine nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten"
+        "descriptionDE": "irgendeine nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten",
+        "tr": "yemek",
+        "az": "qida",
+        "uk": "їжа",
+        "descriptionTR": "insanların veya hayvanların yediği veya içtiği ya da bitkilerin yaşamı ve büyümeyi sürdürmek için emdiği herhangi bir besleyici madde",
+        "descriptionAZ": "insanların və ya heyvanların yediyi və ya içdiyi və ya bitkilərin həyat və inkişafı saxlamaq üçün udduğu hər hansı bir qida maddəsi",
+        "descriptionUK": "будь-яка поживна речовина, яку люди або тварини їдять чи п'ють, або яку рослини поглинають для підтримки життя та росту"
     }, {
         "de": "die Überraschung",
         "en": "surprise",
         "ru": "сюрприз",
         "descriptionEN": "an unexpected or astonishing event, fact, or thing",
         "descriptionRU": "неожиданное или поразительное событие, факт или вещь",
-        "descriptionDE": "ein unerwartetes oder erstaunliches Ereignis, eine Tatsache oder eine Sache"
+        "descriptionDE": "ein unerwartetes oder erstaunliches Ereignis, eine Tatsache oder eine Sache",
+        "tr": "sürpriz",
+        "az": "sürpriz",
+        "uk": "сюрприз",
+        "descriptionTR": "beklenmedik veya şaşırtıcı bir olay, gerçek veya şey",
+        "descriptionAZ": "gözlənilməz və ya heyrətamiz hadisə, fakt və ya şey",
+        "descriptionUK": "несподівана або дивовижна подія, факт або річ"
     }, {
         "de": "der Vergleich",
         "en": "comparison",
         "ru": "сравнение",
         "descriptionEN": "the act or instance of comparing",
         "descriptionRU": "действие или пример сравнения",
-        "descriptionDE": "die Handlung oder Instanz des Vergleichens"
+        "descriptionDE": "die Handlung oder Instanz des Vergleichens",
+        "tr": "karşılaştırma",
+        "az": "müqayisə",
+        "uk": "порівняння",
+        "descriptionTR": "karşılaştırma eylemi veya örneği",
+        "descriptionAZ": "müqayisə etmək hərəkəti və ya nümunəsi",
+        "descriptionUK": "дія або випадок порівняння"
     }, {
         "de": "die Entscheidung",
         "en": "decision",
         "ru": "решение",
         "descriptionEN": "a conclusion or resolution reached after consideration",
         "descriptionRU": "заключение или решение, принятое после обдумывания",
-        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegungen erreicht wurde"
+        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegungen erreicht wurde",
+        "tr": "karar",
+        "az": "qərar",
+        "uk": "рішення",
+        "descriptionTR": "düşünüldükten sonra ulaşılan bir sonuç veya çözüm",
+        "descriptionAZ": "nəzərdən keçirildikdən sonra əldə edilən nəticə və ya qərar",
+        "descriptionUK": "висновок або рішення, досягнуте після розгляду"
     }, {
         "de": "die Dankbarkeit",
         "en": "gratitude",
         "ru": "благодарность",
         "descriptionEN": "the quality of being thankful; readiness to show appreciation for and to return kindness",
         "descriptionRU": "качество благодарности; готовность выражать признательность и отдавать добро",
-        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen und Freundlichkeit zu erwidern"
+        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen und Freundlichkeit zu erwidern",
+        "tr": "minnettarlık",
+        "az": "minnətdarlıq",
+        "uk": "вдячність",
+        "descriptionTR": "minnettar olma niteliği; takdir göstermeye ve iyiliği geri vermeye hazır olma",
+        "descriptionAZ": "minnətdar olmaq keyfiyyəti; minnətdarlıq göstərməyə və xeyirxahlığı geri qaytarmağa hazır olmaq",
+        "descriptionUK": "якість бути вдячним; готовність виявляти вдячність і відповідати добротою"
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
         "descriptionRU": "путешествовать по (незнакомой территории) с целью узнать о ней",
-        "descriptionDE": "durch (eine unbekannte Gegend) reisen, um sie kennenzulernen"
+        "descriptionDE": "durch (eine unbekannte Gegend) reisen, um sie kennenzulernen",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "досліджувати",
+        "descriptionTR": "bir yer hakkında bilgi edinmek amacıyla (bilinmeyen bir alanda) seyahat etmek",
+        "descriptionAZ": "(tanımadığı bir ərazidə) onun haqqında məlumat almaq üçün səyahət etmək",
+        "descriptionUK": "подорожувати (незнайомою територією), щоб дізнатися про неї"
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
         "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose",
         "descriptionRU": "заниматься деятельностью для удовольствия и отдыха, а не для серьезной или практической цели",
-        "descriptionDE": "eine Tätigkeit zum Vergnügen und zur Erholung ausüben, anstatt einem ernsten oder praktischen Zweck zu dienen"
+        "descriptionDE": "eine Tätigkeit zum Vergnügen und zur Erholung ausüben, anstatt einem ernsten oder praktischen Zweck zu dienen",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
+        "descriptionTR": "ciddi veya pratik bir amaçtan ziyade zevk ve eğlence için bir faaliyette bulunmak",
+        "descriptionAZ": "ciddi və ya praktik bir məqsəddən daha çox əyləncə və istirahət üçün fəaliyyətlə məşğul olmaq",
+        "descriptionUK": "займатися діяльністю для задоволення та відпочинку, а не для серйозної чи практичної мети"
     }, {
         "de": "bewundern",
         "en": "to admire",
         "ru": "восхищаться",
         "descriptionEN": "to regard with wonder, pleasure, or approval",
         "descriptionRU": "рассматривать с удивлением, удовольствием или одобрением",
-        "descriptionDE": "mit Bewunderung, Freude oder Zustimmung betrachten"
+        "descriptionDE": "mit Bewunderung, Freude oder Zustimmung betrachten",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionTR": "hayranlık, zevk veya onay ile bakmak",
+        "descriptionAZ": "heyrətlə, zövqlə və ya razılıqla baxmaq",
+        "descriptionUK": "ставитися з подивом, задоволенням або схваленням"
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
         "descriptionEN": "to take pleasure or satisfaction in",
         "descriptionRU": "получать удовольствие или удовлетворение от",
-        "descriptionDE": "Vergnügen oder Zufriedenheit daran haben"
+        "descriptionDE": "Vergnügen oder Zufriedenheit daran haben",
+        "tr": "tadını çıkarmak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
+        "descriptionTR": "zevk veya tatmin almak",
+        "descriptionAZ": "zövq və ya məmnunluq almaq",
+        "descriptionUK": "отримувати задоволення або насолоду від"
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
         "descriptionEN": "to find (something or someone) unexpectedly or in the course of a search",
         "descriptionRU": "найти (что-то или кого-то) неожиданно или в ходе поиска",
-        "descriptionDE": "etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden"
+        "descriptionDE": "etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
+        "descriptionTR": "(bir şeyi veya birini) beklenmedik bir şekilde veya bir arama sırasında bulmak",
+        "descriptionAZ": "(nəyisə və ya kimisə) gözlənilmədən və ya axtarış zamanı tapmaq",
+        "descriptionUK": "знайти (щось або когось) несподівано або в ході пошуку"
     }, {
         "de": "verlieben",
         "en": "to fall in love",
         "ru": "влюбиться",
         "descriptionEN": "to experience a sudden, intense, and typically fleeting emotion of affection for (someone)",
         "descriptionRU": "испытать внезапное, интенсивное и обычно мимолетное чувство привязанности к (кому-то)",
-        "descriptionDE": "ein plötzliches, intensives und typischerweise flüchtiges Gefühl der Zuneigung zu jemandem erleben"
+        "descriptionDE": "ein plötzliches, intensives und typischerweise flüchtiges Gefühl der Zuneigung zu jemandem erleben",
+        "tr": "aşık olmak",
+        "az": "aşiq olmaq",
+        "uk": "закохатися",
+        "descriptionTR": "(birine karşı) ani, yoğun ve tipik olarak geçici bir sevgi duygusu yaşamak",
+        "descriptionAZ": "(kiməsə qarşı) ani, intensiv və adətən keçici bir sevgi hissi yaşamaq",
+        "descriptionUK": "відчути раптове, інтенсивне і, як правило, швидкоплинне почуття прихильності до (когось)"
     }
 ]

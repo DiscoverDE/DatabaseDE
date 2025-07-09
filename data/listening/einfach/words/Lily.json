@@ -5,118 +5,220 @@
         "ru": "жираф",
         "descriptionEN": "Tall African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
         "descriptionRU": "Высокое африканское млекопитающее с очень длинной шеей и передними ногами, имеющее окраску с пятнами коричневого цвета, разделенными светлыми полосами.",
-        "descriptionDE": "Großes afrikanisches Säugetier mit einem sehr langen Hals und Vorderbeinen, das ein Fell mit braunen Flecken hat, die von helleren Linien getrennt sind."
+        "descriptionDE": "Großes afrikanisches Säugetier mit einem sehr langen Hals und Vorderbeinen, das ein Fell mit braunen Flecken hat, die von helleren Linien getrennt sind.",
+        "tr": "zürafa",
+        "az": "zürafə",
+        "uk": "жираф",
+        "descriptionTR": "Çok uzun boyunlu ve ön ayaklı, açık renkli çizgilerle ayrılmış kahverengi lekelerle desenli kürklü uzun Afrika memelisi.",
+        "descriptionAZ": "Çox uzun boyunlu və ön ayaqlı, açıq rəngli xətlərlə ayrılmış qəhvəyi ləkələrlə bəzədilmiş xəzi olan hündür Afrika məməlisi.",
+        "descriptionUK": "Високий африканський ссавець з дуже довгою шиєю та передніми ногами, що має шерсть, вкриту коричневими плямами, розділеними світлішими лініями."
     }, {
         "de": "der Affe",
         "en": "monkey",
         "ru": "обезьяна",
         "descriptionEN": "A primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
         "descriptionRU": "Примат, который обычно имеет длинный хвост, большинство видов которого живут на деревьях в тропических странах.",
-        "descriptionDE": "Ein Primat, der typischerweise einen langen Schwanz hat, die meisten Arten leben in Bäumen in tropischen Ländern."
+        "descriptionDE": "Ein Primat, der typischerweise einen langen Schwanz hat, die meisten Arten leben in Bäumen in tropischen Ländern.",
+        "tr": "maymun",
+        "az": "meymun",
+        "uk": "мавпа",
+        "descriptionTR": "Tipik olarak uzun kuyruklu, çoğu tropikal ülkelerde ağaçlarda yaşayan bir primat.",
+        "descriptionAZ": "Adətən uzun quyruğu olan bir primat, əksər növləri tropik ölkələrdə ağaclarda yaşayır.",
+        "descriptionUK": "Примат, який зазвичай має довгий хвіст, більшість видів якого живуть на деревах у тропічних країнах."
     }, {
         "de": "der Elefant",
         "en": "elephant",
         "ru": "слон",
         "descriptionEN": "A very large herbivorous mammal with thick skin, typically long, curved tusks, and a prehensile trunk.",
         "descriptionRU": "Очень крупное травоядное млекопитающее с толстой кожей, обычно длинными изогнутыми бивнями и хоботом.",
-        "descriptionDE": "Ein sehr großes pflanzenfressendes Säugetier mit dicker Haut, typischerweise langen, gebogenen Stoßzähnen und einem Greifrüssel."
+        "descriptionDE": "Ein sehr großes pflanzenfressendes Säugetier mit dicker Haut, typischerweise langen, gebogenen Stoßzähnen und einem Greifrüssel.",
+        "tr": "fil",
+        "az": "fil",
+        "uk": "слон",
+        "descriptionTR": "Kalın derili, tipik olarak uzun, kavisli fildişleri ve kavrayıcı hortumu olan çok büyük bir otçul memeli.",
+        "descriptionAZ": "Qalın dərisi, adətən uzun, əyri dişləri və tuta bilən xortumu olan çox böyük ot yeyən məməli.",
+        "descriptionUK": "Дуже великий травоїдний ссавець з товстою шкірою, як правило, довгими, вигнутими бивнями та чіпким хоботом."
     }, {
         "de": "die Schlange",
         "en": "snake",
         "ru": "змея",
         "descriptionEN": "A long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension.",
         "descriptionRU": "Длинное бесногое пресмыкающееся, у которого нет век, короткий хвост и челюсти, способные на значительное удлинение.",
-        "descriptionDE": "Ein langes beinloses Reptil ohne Augenlider, einen kurzen Schwanz und Kiefer, die sich erheblich ausdehnen können."
+        "descriptionDE": "Ein langes beinloses Reptil ohne Augenlider, einen kurzen Schwanz und Kiefer, die sich erheblich ausdehnen können.",
+        "tr": "yılan",
+        "az": "ilan",
+        "uk": "змія",
+        "descriptionTR": "Göz kapakları olmayan, kısa kuyruklu ve çeneleri oldukça uzayabilen uzun, uzuvsuz bir sürüngen.",
+        "descriptionAZ": "Göz qapaqları olmayan, qısa quyruğu və əhəmiyyətli dərəcədə uzana bilən çənələri olan uzun, əzaları olmayan sürünən.",
+        "descriptionUK": "Довга безнога рептилія, яка не має повік, короткий хвіст і щелепи, здатні до значного розширення."
     }, {
         "de": "der Papagei",
         "en": "parrot",
         "ru": "попугай",
         "descriptionEN": "A bird, often vividly colored, with a short down-curved hooked bill, grasping feet, and a raucous voice, found especially in the tropics and feeding on fruits and seeds.",
         "descriptionRU": "Птица, часто ярко окрашенная, с коротким, изогнутым крючковатым клювом, захватывающими ногами и хриплым голосом, особенно распространена в тропиках и питается фруктами и семенами.",
-        "descriptionDE": "Ein Vogel, oft lebhaft gefärbt, mit einem kurzen nach unten gebogenen hakigen Schnabel, greifenden Füßen und einer heiseren Stimme, besonders in den Tropen zu finden und sich von Früchten und Samen ernährend."
+        "descriptionDE": "Ein Vogel, oft lebhaft gefärbt, mit einem kurzen nach unten gebogenen hakigen Schnabel, greifenden Füßen und einer heiseren Stimme, besonders in den Tropen zu finden und sich von Früchten und Samen ernährend.",
+        "tr": "papağan",
+        "az": "tutuquşu",
+        "uk": "папуга",
+        "descriptionTR": "Genellikle canlı renkli, kısa, aşağı doğru kıvrık, kancalı gagası, kavrayıcı ayakları ve kaba sesi olan, özellikle tropik bölgelerde bulunan ve meyve ve tohumlarla beslenen bir kuş.",
+        "descriptionAZ": "Adətən canlı rəngli, qısa, aşağıya doğru əyilmiş, qarmaqlı dimdiyi, tutan ayaqları və boğuq səsi olan, xüsusən tropiklərdə rast gəlinən və meyvə və toxumlarla qidalanan bir quş.",
+        "descriptionUK": "Птах, часто яскраво забарвлений, з коротким зігнутим дзьобом, чіпкими лапами і хрипким голосом, зустрічається особливо в тропіках і харчується фруктами та насінням."
     }, {
         "de": "die Sonne",
         "en": "sun",
         "ru": "солнце",
         "descriptionEN": "The star around which the earth orbits.",
         "descriptionRU": "Звезда, вокруг которой вращается Земля.",
-        "descriptionDE": "Der Stern, um den die Erde kreist."
+        "descriptionDE": "Der Stern, um den die Erde kreist.",
+        "tr": "güneş",
+        "az": "günəş",
+        "uk": "сонце",
+        "descriptionTR": "Dünya'nın yörüngesinde döndüğü yıldız.",
+        "descriptionAZ": "Yerin ətrafında fırlanan ulduz.",
+        "descriptionUK": "Зірка, навколо якої обертається Земля."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
         "descriptionEN": "The time between sunrise and sunset.",
         "descriptionRU": "Время между восходом и закатом солнца.",
-        "descriptionDE": "Die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
+        "descriptionDE": "Die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
+        "descriptionTR": "Gün doğumu ile gün batımı arasındaki zaman.",
+        "descriptionAZ": "Günəşin doğuşu ilə batışı arasındakı vaxt.",
+        "descriptionUK": "Час між сходом і заходом сонця."
     }, {
         "de": "die Nacht",
         "en": "night",
         "ru": "ночь",
         "descriptionEN": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
         "descriptionRU": "Период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
-        "descriptionDE": "Die Zeit der Dunkelheit in jeder vierundzwanzig Stunden; die Zeit vom Sonnenuntergang bis zum Sonnenaufgang."
+        "descriptionDE": "Die Zeit der Dunkelheit in jeder vierundzwanzig Stunden; die Zeit vom Sonnenuntergang bis zum Sonnenaufgang.",
+        "tr": "gece",
+        "az": "gecə",
+        "uk": "ніч",
+        "descriptionTR": "Her yirmi dört saatteki karanlık dönemi; gün batımından gün doğumuna kadar olan süre.",
+        "descriptionAZ": "Hər iyirmi dörd saatda qaranlıq dövr; gün batımından gün doğuşuna qədər olan vaxt.",
+        "descriptionUK": "Період темряви протягом кожних двадцяти чотирьох годин; час від заходу до сходу сонця."
     }, {
         "de": "glücklich",
         "en": "happy",
         "ru": "счастливый",
         "descriptionEN": "Feeling or showing pleasure or contentment.",
         "descriptionRU": "Чувствующий или проявляющий удовольствие или удовлетворение.",
-        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen."
+        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen.",
+        "tr": "mutlu",
+        "az": "xoşbəxt",
+        "uk": "щасливий",
+        "descriptionTR": "Haz veya memnuniyet hissetmek veya göstermek.",
+        "descriptionAZ": "Zövq və ya məmnuniyyət hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчуття або прояв задоволення чи вдоволення."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
-        "descriptionDE": "Besser, größer oder sonst anders als üblich."
+        "descriptionDE": "Besser, größer oder sonst anders als üblich.",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
+        "descriptionTR": "Her zamankinden daha iyi, daha büyük veya başka bir şekilde farklı.",
+        "descriptionAZ": "Həmişəkindən daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або інший від звичайного."
     }, {
         "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
         "descriptionEN": "Bright with sunlight.",
         "descriptionRU": "Яркий с солнечным светом.",
-        "descriptionDE": "Hell vom Sonnenlicht."
+        "descriptionDE": "Hell vom Sonnenlicht.",
+        "tr": "güneşli",
+        "az": "günəşli",
+        "uk": "сонячний",
+        "descriptionTR": "Güneş ışığıyla aydınlık.",
+        "descriptionAZ": "Günəş işığı ilə parlaq.",
+        "descriptionUK": "Яскравий від сонячного світла."
     }, {
         "de": "groß",
         "en": "big",
         "ru": "большой",
         "descriptionEN": "Of considerable or great size.",
         "descriptionRU": "Значительного или большого размера.",
-        "descriptionDE": "Von beträchtlicher oder großer Größe."
+        "descriptionDE": "Von beträchtlicher oder großer Größe.",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
+        "descriptionTR": "Önemli veya büyük boyutta.",
+        "descriptionAZ": "Əhəmiyyətli və ya böyük ölçüdə.",
+        "descriptionUK": "Значного або великого розміру."
     }, {
         "de": "seltsam",
         "en": "strange",
         "ru": "странный",
         "descriptionEN": "Unusual or surprising; difficult to understand or explain.",
         "descriptionRU": "Необычный или удивительный; трудный для понимания или объяснения.",
-        "descriptionDE": "Ungewöhnlich oder überraschend; schwer zu verstehen oder zu erklären."
+        "descriptionDE": "Ungewöhnlich oder überraschend; schwer zu verstehen oder zu erklären.",
+        "tr": "garip",
+        "az": "qəribə",
+        "uk": "дивний",
+        "descriptionTR": "Alışılmadık veya şaşırtıcı; anlaşılması veya açıklanması zor.",
+        "descriptionAZ": "Qeyri-adi və ya təəccüblü; anlamaq və ya izah etmək çətin.",
+        "descriptionUK": "Незвичайний або дивовижний; важко зрозуміти або пояснити."
     }, {
         "de": "lang",
         "en": "long",
         "ru": "длинный",
         "descriptionEN": "Measuring a great distance from end to end.",
         "descriptionRU": "Измерение большого расстояния от конца до конца.",
-        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende.",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довгий",
+        "descriptionTR": "Bir uçtan diğer uca büyük bir mesafeyi ölçmek.",
+        "descriptionAZ": "Bir ucundan digər ucuna qədər böyük bir məsafəni ölçmək.",
+        "descriptionUK": "Вимірювання великої відстані від кінця до кінця."
     }, {
         "de": "abkühlen",
         "en": "cool down",
         "ru": "остыть",
         "descriptionEN": "Become or cause to become less hot.",
         "descriptionRU": "Становиться или вызывать охлаждение.",
-        "descriptionDE": "Weniger heiß werden oder dazu führen, dass es weniger heiß wird."
+        "descriptionDE": "Weniger heiß werden oder dazu führen, dass es weniger heiß wird.",
+        "tr": "soğumak",
+        "az": "soğumaq",
+        "uk": "охолонути",
+        "descriptionTR": "Daha az sıcak olmak veya daha az sıcak olmaya neden olmak.",
+        "descriptionAZ": "Daha az isti olmaq və ya daha az isti olmağa səbəb olmaq.",
+        "descriptionUK": "Ставати або спричиняти менш гарячим."
     }, {
         "de": "glücklich",
         "en": "happily",
         "ru": "счастливо",
         "descriptionEN": "In a happy manner.",
         "descriptionRU": "Счастливым образом.",
-        "descriptionDE": "Auf glückliche Weise."
+        "descriptionDE": "Auf glückliche Weise.",
+        "tr": "mutlulukla",
+        "az": "xoşbəxtliklə",
+        "uk": "щасливо",
+        "descriptionTR": "Mutlu bir şekilde.",
+        "descriptionAZ": "Xoşbəxt bir şəkildə.",
+        "descriptionUK": "Щасливим чином."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
         "descriptionEN": "Used to single out one person or thing over all others.",
         "descriptionRU": "Используется для выделения одного человека или вещи среди всех остальных.",
-        "descriptionDE": "Verwendet, um eine Person oder Sache über alle anderen hinweg auszuwählen."
+        "descriptionDE": "Verwendet, um eine Person oder Sache über alle anderen hinweg auszuwählen.",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
+        "descriptionTR": "Diğerleri arasından bir kişiyi veya şeyi öne çıkarmak için kullanılır.",
+        "descriptionAZ": "Başqalarından fərqli olaraq bir nəfəri və ya bir şeyi fərqləndirmək üçün istifadə olunur.",
+        "descriptionUK": "Використовується для виділення однієї особи чи речі серед усіх інших."
     }
 ]

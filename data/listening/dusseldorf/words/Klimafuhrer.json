@@ -5,153 +5,285 @@
         "ru": "весна",
         "descriptionEN": "the season between winter and summer characterized by budding plants and warmer temperatures.",
         "descriptionRU": "сезон между зимой и летом, характеризующийся распусканием растений и более теплой температурой.",
-        "descriptionDE": "die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch das Knospen von Pflanzen und wärmere Temperaturen."
+        "descriptionDE": "die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch das Knospen von Pflanzen und wärmere Temperaturen.",
+        "tr": "ilkbahar",
+        "az": "yaz",
+        "uk": "весна",
+        "descriptionTR": "kış ve yaz arasındaki mevsim; bitkilerin filizlenmesi ve daha sıcak hava ile karakterizedir.",
+        "descriptionAZ": "qış və yay arasındakı fəsil, tumurcuqlanan bitkilər və daha isti temperaturlarla xarakterizə olunur.",
+        "descriptionUK": "пора року між зимою та літом, що характеризується розпусканням бруньок і теплішими температурами."
     }, {
         "de": "der Sommer",
         "en": "summer",
         "ru": "лето",
         "descriptionEN": "the warmest season of the year, between spring and autumn.",
         "descriptionRU": "самый теплый сезон года, между весной и осенью.",
-        "descriptionDE": "die wärmste Jahreszeit des Jahres, zwischen Frühling und Herbst."
+        "descriptionDE": "die wärmste Jahreszeit des Jahres, zwischen Frühling und Herbst.",
+        "tr": "yaz",
+        "az": "yay",
+        "uk": "літо",
+        "descriptionTR": "yılın en sıcak mevsimi, ilkbahar ile sonbahar arasında.",
+        "descriptionAZ": "ilin ən isti fəsli, yaz və payız arasında.",
+        "descriptionUK": "найтепліша пора року, між весною та осінню."
     }, {
         "de": "der Herbst",
         "en": "autumn",
         "ru": "осень",
         "descriptionEN": "the season between summer and winter, characterized by falling leaves and cooler temperatures.",
         "descriptionRU": "сезон между летом и зимой, характеризующийся опадением листьев и более прохладными температурами.",
-        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter, gekennzeichnet durch fallende Blätter und kühlere Temperaturen."
+        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter, gekennzeichnet durch fallende Blätter und kühlere Temperaturen.",
+        "tr": "sonbahar",
+        "az": "payız",
+        "uk": "осінь",
+        "descriptionTR": "yaz ve kış arasındaki mevsim; yaprakların dökülmesi ve daha soğuk hava ile karakterizedir.",
+        "descriptionAZ": "yay və qış arasındakı fəsil, yarpaqların düşməsi və daha sərin temperaturlarla xarakterizə olunur.",
+        "descriptionUK": "пора року між літом і зимою, що характеризується опаданням листя та прохолоднішими температурами."
     }, {
         "de": "der Winter",
         "en": "winter",
         "ru": "зима",
         "descriptionEN": "the coldest season of the year, between autumn and spring.",
         "descriptionRU": "самый холодный сезон года, между осенью и весной.",
-        "descriptionDE": "die kälteste Jahreszeit des Jahres, zwischen Herbst und Frühling."
+        "descriptionDE": "die kälteste Jahreszeit des Jahres, zwischen Herbst und Frühling.",
+        "tr": "kış",
+        "az": "qış",
+        "uk": "зима",
+        "descriptionTR": "yılın en soğuk mevsimi, sonbahar ile ilkbahar arasında.",
+        "descriptionAZ": "ilin ən soyuq fəsli, payız və yaz arasında.",
+        "descriptionUK": "найхолодніша пора року, між осінню та весною."
     }, {
         "de": "die Natur",
         "en": "nature",
         "ru": "природа",
         "descriptionEN": "the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
         "descriptionRU": "явления физического мира в целом, включая растения, животных, ландшафт и другие черты и продукты земли, в отличие от людей или человеческих творений.",
-        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, die Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen."
+        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, die Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen.",
+        "tr": "doğa",
+        "az": "təbiət",
+        "uk": "природа",
+        "descriptionTR": "fiziksel dünyanın bitkiler, hayvanlar, manzara ve dünyanın diğer özellikleri ve ürünleri de dahil olmak üzere bir bütün olarak fenomenleri, insanlara veya insan yapımı yaratımlara karşıt olarak.",
+        "descriptionAZ": "fiziki dünyanın kollektiv şəkildəki təzahürləri, o cümlədən bitkilər, heyvanlar, landşaft və yerin digər xüsusiyyətləri və məhsulları, insanlardan və ya insan yaratdıqlarından fərqli olaraq.",
+        "descriptionUK": "явища фізичного світу в сукупності, включаючи рослини, тварин, ландшафт та інші особливості та продукти землі, на відміну від людей або людських творінь."
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
         "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
         "descriptionRU": "невидимое газообразное вещество, окружающее Землю, состоящее в основном из кислорода и азота.",
-        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, hauptsächlich eine Mischung aus Sauerstoff und Stickstoff."
+        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, hauptsächlich eine Mischung aus Sauerstoff und Stickstoff.",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "повітря",
+        "descriptionTR": "dünyayı çevreleyen görünmez gaz halindeki madde, esas olarak oksijen ve azot karışımı.",
+        "descriptionAZ": "yer kürəsini əhatə edən görünməz qaz maddəsi, əsasən oksigen və azot qarışığı.",
+        "descriptionUK": "невидима газоподібна речовина, що оточує землю, суміш переважно кисню та азоту."
     }, {
         "de": "die Sonne",
         "en": "sun",
         "ru": "солнце",
         "descriptionEN": "the star around which the earth orbits, whose light and heat make life possible on earth; its mean distance from the earth is approximately 93 million miles (150 million kilometers).",
         "descriptionRU": "звезда, вокруг которой вращается Земля, свет и тепло которой делают возможной жизнь на Земле; ее среднее расстояние от Земли составляет приблизительно 93 миллиона миль (150 миллионов километров).",
-        "descriptionDE": "der Stern, um den die Erde kreist, dessen Licht und Wärme das Leben auf der Erde möglich machen; seine mittlere Entfernung von der Erde beträgt ungefähr 93 Millionen Meilen (150 Millionen Kilometer)."
+        "descriptionDE": "der Stern, um den die Erde kreist, dessen Licht und Wärme das Leben auf der Erde möglich machen; seine mittlere Entfernung von der Erde beträgt ungefähr 93 Millionen Meilen (150 Millionen Kilometer).",
+        "tr": "güneş",
+        "az": "günəş",
+        "uk": "сонце",
+        "descriptionTR": "dünyanın etrafında döndüğü, ışığı ve ısısı yeryüzünde yaşamı mümkün kılan yıldız; dünyaya ortalama uzaklığı yaklaşık 93 milyon mildir (150 milyon kilometre).",
+        "descriptionAZ": "yer kürəsinin ətrafında fırlanan, işığı və istiliyi yer üzündə həyatı mümkün edən ulduz; onun yerdən orta məsafəsi təxminən 93 milyon mil (150 milyon kilometr) təşkil edir.",
+        "descriptionUK": "зірка, навколо якої обертається земля, світло і тепло якої уможливлюють життя на землі; її середня відстань від землі становить приблизно 93 мільйони миль (150 мільйонів кілометрів)."
     }, {
         "de": "der Regenschirm",
         "en": "umbrella",
         "ru": "зонтик",
         "descriptionEN": "a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
         "descriptionRU": "устройство, состоящее из круглого тентового полотна на складной металлической раме, поддерживаемой центральным стержнем, используемое в качестве защиты от дождя или иногда солнца.",
-        "descriptionDE": "ein Gerät, bestehend aus einem kreisförmigen Baldachin aus Stoff auf einem klappbaren Metallrahmen, der von einem zentralen Stab gestützt wird, der zum Schutz vor Regen oder manchmal Sonne verwendet wird."
+        "descriptionDE": "ein Gerät, bestehend aus einem kreisförmigen Baldachin aus Stoff auf einem klappbaren Metallrahmen, der von einem zentralen Stab gestützt wird, der zum Schutz vor Regen oder manchmal Sonne verwendet wird.",
+        "tr": "şemsiye",
+        "az": "çətir",
+        "uk": "парасолька",
+        "descriptionTR": "katlanabilir metal çerçeve üzerinde merkezi bir çubukla desteklenen dairesel bir kumaş kanopiden oluşan, yağmura veya bazen güneşe karşı koruma olarak kullanılan bir cihaz.",
+        "descriptionAZ": "ortadan çubuqla dəstəklənən qatlanan metal çərçivə üzərində dairəvi parça örtükdən ibarət, yağışdan və ya bəzən günəşdən qorunmaq üçün istifadə olunan bir cihaz.",
+        "descriptionUK": "пристрій, що складається з круглої тканинної навісу на складаній металевій рамі, що підтримується центральною штангою, використовується як захист від дощу або іноді сонця."
     }, {
         "de": "der Kürbis",
         "en": "pumpkin",
         "ru": "тыква",
         "descriptionEN": "a large rounded orange-yellow fruit with a thick rind, edible flesh, and many seeds.",
         "descriptionRU": "большой округлый оранжево-желтый плод с толстой кожурой, съедобным мякотью и множеством семян.",
-        "descriptionDE": "eine große, runde orangegelbe Frucht mit einer dicken Schale, essbarem Fruchtfleisch und vielen Samen."
+        "descriptionDE": "eine große, runde orangegelbe Frucht mit einer dicken Schale, essbarem Fruchtfleisch und vielen Samen.",
+        "tr": "balkabağı",
+        "az": "balqabaq",
+        "uk": "гарбуз",
+        "descriptionTR": "kalın kabuklu, yenilebilir etli ve çok çekirdekli, büyük yuvarlak, turuncu-sarı bir meyve.",
+        "descriptionAZ": "qalın qabıqlı, yeməli ətli və çoxlu toxumlu böyük yuvarlaq, narıncı-sarı meyvə.",
+        "descriptionUK": "великий округлий помаранчево-жовтий плід з товстою шкіркою, їстівною м'якоттю та багатьма насінням."
     }, {
         "de": "das Wetter",
         "en": "weather",
         "ru": "погода",
         "descriptionEN": "the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
         "descriptionRU": "состояние атмосферы в месте и времени относительно тепла, сухости, солнечного света, ветра, дождя и т. д.",
-        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw."
+        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw.",
+        "tr": "hava durumu",
+        "az": "hava",
+        "uk": "погода",
+        "descriptionTR": "bir yerdeki ve zamandaki atmosferin sıcaklık, kuruluk, güneş ışığı, rüzgar, yağmur vb. açısından durumu.",
+        "descriptionAZ": "istilik, quruluq, günəş işığı, külək, yağış və s. baxımından bir yerdə və zamanda atmosferin vəziyyəti.",
+        "descriptionUK": "стан атмосфери в певному місці та часі щодо тепла, сухості, сонячного світла, вітру, дощу тощо."
     }, {
         "de": "tanken",
         "en": "to refuel",
         "ru": "заправляться",
         "descriptionEN": "to fill up a vehicle or machine with fuel.",
         "descriptionRU": "заполнить топливом транспортное средство или машину.",
-        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen."
+        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen.",
+        "tr": "yakıt ikmali yapmak",
+        "az": "yanacaq doldurmaq",
+        "uk": "заправлятися",
+        "descriptionTR": "bir aracı veya makineyi yakıtla doldurmak.",
+        "descriptionAZ": "bir nəqliyyat vasitəsini və ya maşını yanacaqla doldurmaq.",
+        "descriptionUK": "заправляти транспортний засіб або машину паливом."
     }, {
         "de": "schlendern",
         "en": "to stroll",
         "ru": "прогуливаться",
         "descriptionEN": "to walk in a slow, relaxed manner, especially for pleasure.",
         "descriptionRU": "идти медленно, спокойно, особенно для удовольствия.",
-        "descriptionDE": "in langsamer, entspannter Weise gehen, besonders zum Vergnügen."
+        "descriptionDE": "in langsamer, entspannter Weise gehen, besonders zum Vergnügen.",
+        "tr": "dolaşmak",
+        "az": "gəzmək",
+        "uk": "прогулюватися",
+        "descriptionTR": "yavaş, rahat bir şekilde yürümek, özellikle keyif için.",
+        "descriptionAZ": "yavaş, rahat şəkildə gəzmək, xüsusən də zövq üçün.",
+        "descriptionUK": "ходити повільно, розслаблено, особливо для задоволення."
     }, {
         "de": "tanken",
         "en": "to refuel",
         "ru": "заправляться",
         "descriptionEN": "to fill up a vehicle or machine with fuel.",
         "descriptionRU": "заполнить топливом транспортное средство или машину.",
-        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen."
+        "descriptionDE": "ein Fahrzeug oder eine Maschine mit Kraftstoff zu füllen.",
+        "tr": "yakıt ikmali yapmak",
+        "az": "yanacaq doldurmaq",
+        "uk": "заправлятися",
+        "descriptionTR": "bir aracı veya makineyi yakıtla doldurmak.",
+        "descriptionAZ": "bir nəqliyyat vasitəsini və ya maşını yanacaqla doldurmaq.",
+        "descriptionUK": "заправляти транспортний засіб або машину паливом."
     }, {
         "de": "kühlen",
         "en": "to cool",
         "ru": "охлаждать",
         "descriptionEN": "to make or become cooler.",
         "descriptionRU": "сделать или стать прохладнее.",
-        "descriptionDE": "kühler machen oder werden."
+        "descriptionDE": "kühler machen oder werden.",
+        "tr": "soğutmak",
+        "az": "soyutmaq",
+        "uk": "охолоджувати",
+        "descriptionTR": "daha serin hale getirmek veya gelmek.",
+        "descriptionAZ": "daha sərin etmək və ya olmaq.",
+        "descriptionUK": "робити або ставати прохолоднішим."
     }, {
         "de": "wärmen",
         "en": "to warm",
         "ru": "согревать",
         "descriptionEN": "to make or become warm.",
         "descriptionRU": "сделать или стать теплее.",
-        "descriptionDE": "wärmer machen oder werden."
+        "descriptionDE": "wärmer machen oder werden.",
+        "tr": "ısıtmak",
+        "az": "isitmək",
+        "uk": "зігрівати",
+        "descriptionTR": "sıcak hale getirmek veya gelmek.",
+        "descriptionAZ": "isti etmək və ya olmaq.",
+        "descriptionUK": "робити або ставати теплим."
     }, {
         "de": "gemäßigt",
         "en": "moderate",
         "ru": "умеренный",
         "descriptionEN": "average in amount, intensity, quality, or degree.",
         "descriptionRU": "средний по объему, интенсивности, качеству или степени.",
-        "descriptionDE": "durchschnittlich in Menge, Intensität, Qualität oder Grad."
+        "descriptionDE": "durchschnittlich in Menge, Intensität, Qualität oder Grad.",
+        "tr": "ılımlı",
+        "az": "mülayim",
+        "uk": "помірний",
+        "descriptionTR": "miktar, yoğunluk, kalite veya derece olarak ortalama.",
+        "descriptionAZ": "miqdar, intensivlik, keyfiyyət və ya dərəcədə orta.",
+        "descriptionUK": "середній за кількістю, інтенсивністю, якістю або ступенем."
     }, {
         "de": "mild",
         "en": "mild",
         "ru": "мягкий",
         "descriptionEN": "gentle and not easily provoked.",
         "descriptionRU": "мягкий и не легко возбуждающийся.",
-        "descriptionDE": "sanft und nicht leicht provoziert."
+        "descriptionDE": "sanft und nicht leicht provoziert.",
+        "tr": "ılıman",
+        "az": "mülayim",
+        "uk": "м'який",
+        "descriptionTR": "nazik ve kolay provoke olmayan.",
+        "descriptionAZ": "incə və asanlıqla qızışmayan.",
+        "descriptionUK": "лагідний і не легко провокується."
     }, {
         "de": "warm",
         "en": "warm",
         "ru": "теплый",
         "descriptionEN": "having or giving out a moderate degree of heat.",
         "descriptionRU": "имеющий или выделяющий умеренную степень тепла.",
-        "descriptionDE": "mit einer mäßigen Wärme."
+        "descriptionDE": "mit einer mäßigen Wärme.",
+        "tr": "sıcak",
+        "az": "isti",
+        "uk": "теплий",
+        "descriptionTR": "orta derecede ısıya sahip olmak veya yaymak.",
+        "descriptionAZ": "orta dərəcədə istilik verən və ya sahib olan.",
+        "descriptionUK": "має або випромінює помірну кількість тепла."
     }, {
         "de": "kühl",
         "en": "cool",
         "ru": "прохладный",
         "descriptionEN": "of or at a fairly low temperature.",
         "descriptionRU": "при относительно низкой температуре.",
-        "descriptionDE": "bei ziemlich niedriger Temperatur."
+        "descriptionDE": "bei ziemlich niedriger Temperatur.",
+        "tr": "serin",
+        "az": "sərin",
+        "uk": "прохолодний",
+        "descriptionTR": "nispeten düşük bir sıcaklıkta veya bu sıcaklıkta olan.",
+        "descriptionAZ": "olduqca aşağı temperaturda olan.",
+        "descriptionUK": "має або перебуває за досить низької температури."
     }, {
         "de": "durchschnittlich",
         "en": "average",
         "ru": "средний",
         "descriptionEN": "constituting the result obtained by adding together several quantities and then dividing this total by the number of quantities.",
         "descriptionRU": "представляющий собой результат, полученный путем сложения нескольких величин и последующего деления этой суммы на количество величин.",
-        "descriptionDE": "der aus der Addition mehrerer Größen und der anschließenden Division dieser Summe durch die Anzahl der Größen resultierende Wert."
+        "descriptionDE": "der aus der Addition mehrerer Größen und der anschließenden Division dieser Summe durch die Anzahl der Größen resultierende Wert.",
+        "tr": "ortalama",
+        "az": "orta",
+        "uk": "середній",
+        "descriptionTR": "birkaç miktarı toplayarak ve ardından bu toplamı miktar sayısına bölerek elde edilen sonucu oluşturan.",
+        "descriptionAZ": "bir neçə kəmiyyəti toplayaraq və sonra bu cəmi kəmiyyətlərin sayına bölərək əldə edilən nəticəni təşkil edən.",
+        "descriptionUK": "що становить результат, отриманий додаванням кількох величин, а потім діленням цієї суми на кількість величин."
     }, {
         "de": "gelegentlich",
         "en": "occasionally",
         "ru": "иногда",
         "descriptionEN": "at infrequent or irregular intervals; now and then.",
         "descriptionRU": "в редких или нерегулярных интервалах; время от времени.",
-        "descriptionDE": "in unregelmäßigen Abständen oder unregelmäßig; hin und wieder."
+        "descriptionDE": "in unregelmäßigen Abständen oder unregelmäßig; hin und wieder.",
+        "tr": "ara sıra",
+        "az": "bəzən",
+        "uk": "іноді",
+        "descriptionTR": "seyrek veya düzensiz aralıklarla; zaman zaman.",
+        "descriptionAZ": "nadir və ya qeyri-müntəzəm fasilələrlə; arabir.",
+        "descriptionUK": "зрідка або через нерегулярні проміжки часу; час від часу."
     }, {
         "de": "herrlich",
         "en": "splendid",
         "ru": "великолепный",
         "descriptionEN": "magnificent; very impressive.",
         "descriptionRU": "великолепный; очень впечатляющий.",
-        "descriptionDE": "prachtvoll; sehr beeindruckend."
+        "descriptionDE": "prachtvoll; sehr beeindruckend.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
+        "descriptionTR": "görkemli; çok etkileyici.",
+        "descriptionAZ": "möhtəşəm; çox təsirli.",
+        "descriptionUK": "чудовий; дуже вражаючий."
     }
 ]

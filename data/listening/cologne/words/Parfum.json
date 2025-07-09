@@ -5,132 +5,246 @@
         "ru": "духи",
         "descriptionEN": "A fragrant liquid typically made from essential oils extracted from flowers and spices.",
         "descriptionRU": "Ароматная жидкость, обычно изготовленная из эфирных масел, извлеченных из цветов и специй.",
-        "descriptionDE": "Eine duftende Flüssigkeit, die typischerweise aus ätherischen Ölen hergestellt wird, die aus Blumen und Gewürzen gewonnen werden."
+        "descriptionDE": "Eine duftende Flüssigkeit, die typischerweise aus ätherischen Ölen hergestellt wird, die aus Blumen und Gewürzen gewonnen werden.",
+        "tr": "parfüm",
+        "az": "ətir",
+        "uk": "парфуми",
+        "descriptionTR": "Genellikle çiçek ve baharatlardan elde edilen esansiyel yağlardan yapılan kokulu bir sıvı.",
+        "descriptionAZ": "Əsasən çiçəklərdən və ədviyyatlardan alınan efir yağlarından hazırlanan ətirli maye.",
+        "descriptionUK": "Ароматна рідина, зазвичай виготовлена з ефірних олій, видобутих з квітів та спецій."
     }, {
         "de": "die Entwicklung",
         "en": "development",
         "ru": "разработка",
         "descriptionEN": "The process of growth or realization of potential.",
         "descriptionRU": "Процесс роста или реализации потенциала.",
-        "descriptionDE": "Der Prozess des Wachstums oder der Verwirklichung des Potenzials."
+        "descriptionDE": "Der Prozess des Wachstums oder der Verwirklichung des Potenzials.",
+        "tr": "gelişim",
+        "az": "inkişaf",
+        "uk": "розвиток",
+        "descriptionTR": "Büyüme veya potansiyelin gerçekleşmesi süreci.",
+        "descriptionAZ": "Böyümə və ya potensialın reallaşması prosesi.",
+        "descriptionUK": "Процес росту або реалізації потенціалу."
     }, {
         "de": "die Grundlage",
         "en": "foundation",
         "ru": "основа",
         "descriptionEN": "The basis on which something is grounded.",
         "descriptionRU": "Основа, на которой что-то основывается.",
-        "descriptionDE": "Die Basis, auf der etwas gründet."
+        "descriptionDE": "Die Basis, auf der etwas gründet.",
+        "tr": "temel",
+        "az": "təməl",
+        "uk": "основа",
+        "descriptionTR": "Bir şeyin dayandığı temel.",
+        "descriptionAZ": "Nəyinsə əsaslandığı təməl.",
+        "descriptionUK": "Основа, на якій щось ґрунтується."
     }, {
         "de": "die Beliebtheit",
         "en": "popularity",
         "ru": "популярность",
         "descriptionEN": "The state or condition of being liked, admired, or supported by many people.",
         "descriptionRU": "Состояние или условие, когда многие люди любят, восхищаются или поддерживают что-то.",
-        "descriptionDE": "Der Zustand oder die Bedingung, gemocht, bewundert oder von vielen Menschen unterstützt zu werden."
+        "descriptionDE": "Der Zustand oder die Bedingung, gemocht, bewundert oder von vielen Menschen unterstützt zu werden.",
+        "tr": "popülerlik",
+        "az": "populyarlıq",
+        "uk": "популярність",
+        "descriptionTR": "Birçok kişi tarafından sevilme, hayranlık duyulma veya desteklenme durumu veya koşulu.",
+        "descriptionAZ": "Bir çox insan tərəfindən sevilmə, heyranlıq duyulma və ya dəstəklənmə vəziyyəti.",
+        "descriptionUK": "Стан або умова, коли багато людей щось люблять, захоплюються або підтримують."
     }, {
         "de": "der Duft",
         "en": "scent",
         "ru": "аромат",
         "descriptionEN": "A distinctive smell, especially one that is pleasant.",
         "descriptionRU": "Характерный запах, особенно приятный.",
-        "descriptionDE": "Ein charakteristischer Geruch, besonders angenehm."
+        "descriptionDE": "Ein charakteristischer Geruch, besonders angenehm.",
+        "tr": "koku",
+        "az": "qoxu",
+        "uk": "аромат",
+        "descriptionTR": "Özellikle hoş olan belirgin bir koku.",
+        "descriptionAZ": "Xarakterik qoxu, xüsusilə xoş olanı.",
+        "descriptionUK": "Відмінний запах, особливо приємний."
     }, {
         "de": "die Fähigkeit",
         "en": "ability",
         "ru": "способность",
         "descriptionEN": "The capacity to do something.",
         "descriptionRU": "Способность что-то делать.",
-        "descriptionDE": "Die Fähigkeit, etwas zu tun."
+        "descriptionDE": "Die Fähigkeit, etwas zu tun.",
+        "tr": "yetenek",
+        "az": "qabiliyyət",
+        "uk": "здатність",
+        "descriptionTR": "Bir şeyi yapabilme kapasitesi.",
+        "descriptionAZ": "Nəyisə etmək qabiliyyəti.",
+        "descriptionUK": "Здатність щось робити."
     }, {
         "de": "die Herstellung",
         "en": "production",
         "ru": "производство",
         "descriptionEN": "The action of making or manufacturing from components or raw materials.",
         "descriptionRU": "Действие по изготовлению или производству из компонентов или сырья.",
-        "descriptionDE": "Die Handlung des Herstellens oder Produzierens aus Komponenten oder Rohstoffen."
+        "descriptionDE": "Die Handlung des Herstellens oder Produzierens aus Komponenten oder Rohstoffen.",
+        "tr": "üretim",
+        "az": "istehsal",
+        "uk": "виробництво",
+        "descriptionTR": "Bileşenlerden veya hammaddelerden yapma veya imal etme eylemi.",
+        "descriptionAZ": "Komponentlərdən və ya xammaldan hazırlamaq və ya istehsal etmək hərəkəti.",
+        "descriptionUK": "Дія виготовлення або виробництва з компонентів або сировини."
     }, {
         "de": "das Medikament",
         "en": "medicine",
         "ru": "лекарство",
         "descriptionEN": "A substance that is used in treating disease or relieving pain and that is usually in the form of a pill or a liquid.",
         "descriptionRU": "Вещество, которое используется для лечения болезней или облегчения боли и обычно имеет форму таблетки или жидкости.",
-        "descriptionDE": "Eine Substanz, die zur Behandlung von Krankheiten oder zur Linderung von Schmerzen verwendet wird und normalerweise in Form einer Pille oder einer Flüssigkeit vorliegt."
+        "descriptionDE": "Eine Substanz, die zur Behandlung von Krankheiten oder zur Linderung von Schmerzen verwendet wird und normalerweise in Form einer Pille oder einer Flüssigkeit vorliegt.",
+        "tr": "ilaç",
+        "az": "dərman",
+        "uk": "ліки",
+        "descriptionTR": "Hastalığı tedavi etmek veya ağrıyı gidermek için kullanılan ve genellikle hap veya sıvı formunda olan bir madde.",
+        "descriptionAZ": "Xəstəliyin müalicəsində və ya ağrının azaldılmasında istifadə olunan və adətən həb və ya maye şəklində olan maddə.",
+        "descriptionUK": "Речовина, яка використовується для лікування захворювань або полегшення болю і зазвичай має форму таблетки або рідини."
     }, {
         "de": "das Haus",
         "en": "house",
         "ru": "дом",
         "descriptionEN": "A building for human habitation, especially one that is lived in by a family or small group of people.",
         "descriptionRU": "Здание для жилья людей, особенно того, в котором живет семья или небольшая группа людей.",
-        "descriptionDE": "Ein Gebäude zur menschlichen Behausung, insbesondere eines, das von einer Familie oder einer kleinen Gruppe von Menschen bewohnt wird."
+        "descriptionDE": "Ein Gebäude zur menschlichen Behausung, insbesondere eines, das von einer Familie oder einer kleinen Gruppe von Menschen bewohnt wird.",
+        "tr": "ev",
+        "az": "ev",
+        "uk": "будинок",
+        "descriptionTR": "İnsanların yaşaması için bir bina, özellikle bir aile veya küçük bir grup insan tarafından yaşanılan bir ev.",
+        "descriptionAZ": "İnsanların yaşayışı üçün bina, xüsusilə bir ailə və ya kiçik bir qrup insan tərəfindən yaşanılan bina.",
+        "descriptionUK": "Будівля для проживання людей, особливо та, в якій проживає сім'я або невелика група людей."
     }, {
         "de": "die Marke",
         "en": "brand",
         "ru": "бренд",
         "descriptionEN": "A type of product manufactured by a particular company under a particular name.",
         "descriptionRU": "Тип продукта, производимого определенной компанией под определенным названием.",
-        "descriptionDE": "Eine Art Produkt, das von einem bestimmten Unternehmen unter einem bestimmten Namen hergestellt wird."
+        "descriptionDE": "Eine Art Produkt, das von einem bestimmten Unternehmen unter einem bestimmten Namen hergestellt wird.",
+        "tr": "marka",
+        "az": "brend",
+        "uk": "бренд",
+        "descriptionTR": "Belirli bir şirket tarafından belirli bir isim altında üretilen bir ürün türü.",
+        "descriptionAZ": "Müəyyən bir şirkət tərəfindən müəyyən bir ad altında istehsal olunan məhsul növü.",
+        "descriptionUK": "Тип продукту, що виробляється певною компанією під певною назвою."
     }, {
         "de": "der Geruch",
         "en": "odor",
         "ru": "запах",
         "descriptionEN": "A distinctive smell, especially an unpleasant one.",
         "descriptionRU": "Характерный запах, особенно неприятный.",
-        "descriptionDE": "Ein charakteristischer Geruch, besonders ein unangenehmer."
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein unangenehmer.",
+        "tr": "koku",
+        "az": "qoxu",
+        "uk": "запах",
+        "descriptionTR": "Belirgin bir koku, özellikle hoş olmayan bir koku.",
+        "descriptionAZ": "Xarakterik qoxu, xüsusilə xoşagəlməz.",
+        "descriptionUK": "Відмінний запах, особливо неприємний."
     }, {
         "de": "die Legende",
         "en": "legend",
         "ru": "легенда",
         "descriptionEN": "A traditional story sometimes popularly regarded as historical but not authenticated.",
         "descriptionRU": "Традиционный рассказ, иногда популярно считаемый историческим, но не аутентифицированным.",
-        "descriptionDE": "Eine traditionelle Geschichte, die manchmal volkstümlich als historisch angesehen wird, aber nicht authentifiziert ist."
+        "descriptionDE": "Eine traditionelle Geschichte, die manchmal volkstümlich als historisch angesehen wird, aber nicht authentifiziert ist.",
+        "tr": "efsane",
+        "az": "əfsanə",
+        "uk": "легенда",
+        "descriptionTR": "Bazen halk arasında tarihi olarak kabul edilen ancak doğrulanmamış geleneksel bir hikaye.",
+        "descriptionAZ": "Bəzən tarixi hesab edilən, lakin təsdiq olunmamış ənənəvi hekayə.",
+        "descriptionUK": "Традиційна історія, яка іноді вважається історичною, але не підтверджена."
     }, {
         "de": "das Mittel",
         "en": "means",
         "ru": "средство",
         "descriptionEN": "An action or system by which a result is brought about.",
         "descriptionRU": "Действие или система, благодаря которой достигается результат.",
-        "descriptionDE": "Eine Handlung oder ein System, durch das ein Ergebnis herbeigeführt wird."
+        "descriptionDE": "Eine Handlung oder ein System, durch das ein Ergebnis herbeigeführt wird.",
+        "tr": "araç",
+        "az": "vasitə",
+        "uk": "засіб",
+        "descriptionTR": "Bir sonucun elde edildiği bir eylem veya sistem.",
+        "descriptionAZ": "Nəticənin əldə edildiyi bir hərəkət və ya sistem.",
+        "descriptionUK": "Дія або система, за допомогою якої досягається результат."
     }, {
         "de": "begründen",
         "en": "establish",
         "ru": "установить",
         "descriptionEN": "To set up on a firm or permanent basis.",
         "descriptionRU": "Установить на крепкой или постоянной основе.",
-        "descriptionDE": "Auf einer festen oder dauerhaften Basis einrichten."
+        "descriptionDE": "Auf einer festen oder dauerhaften Basis einrichten.",
+        "tr": "kurmak",
+        "az": "qurmaq",
+        "uk": "встановити",
+        "descriptionTR": "Sağlam veya kalıcı bir temelde kurmak.",
+        "descriptionAZ": "Möhkəm və ya daimi əsasda qurmaq.",
+        "descriptionUK": "Створити на міцній або постійній основі."
     }, {
         "de": "ehren",
         "en": "honor",
         "ru": "почет",
         "descriptionEN": "High respect; esteem.",
         "descriptionRU": "Высокое уважение; уважение.",
-        "descriptionDE": "Hohes Ansehen; Wertschätzung."
+        "descriptionDE": "Hohes Ansehen; Wertschätzung.",
+        "tr": "onurlandırmak",
+        "az": "şərəf",
+        "uk": "шанувати",
+        "descriptionTR": "Yüksek saygı; itibar.",
+        "descriptionAZ": "Yüksək hörmət; ehtiram.",
+        "descriptionUK": "Висока повага; шанування."
     }, {
         "de": "maskieren",
         "en": "mask",
         "ru": "маскировать",
         "descriptionEN": "To cover or conceal an object or person.",
         "descriptionRU": "Покрыть или скрыть объект или человека.",
-        "descriptionDE": "Ein Objekt oder eine Person bedecken oder verbergen."
+        "descriptionDE": "Ein Objekt oder eine Person bedecken oder verbergen.",
+        "tr": "maskelemek",
+        "az": "maskalamaq",
+        "uk": "маскувати",
+        "descriptionTR": "Bir nesneyi veya kişiyi örtmek veya gizlemek.",
+        "descriptionAZ": "Bir obyekti və ya insanı örtmək və ya gizlətmək.",
+        "descriptionUK": "Накрити або приховати об'єкт чи особу."
     }, {
         "de": "gründen",
         "en": "found",
         "ru": "основывать",
         "descriptionEN": "To establish or originate.",
         "descriptionRU": "Установить или происходить.",
-        "descriptionDE": "Etablieren oder entstehen."
+        "descriptionDE": "Etablieren oder entstehen.",
+        "tr": "kurmak",
+        "az": "təsis etmək",
+        "uk": "засновувати",
+        "descriptionTR": "Kurmak veya başlatmak.",
+        "descriptionAZ": "Təsis etmək və ya başlamaq.",
+        "descriptionUK": "Створити або заснувати."
     }, {
         "de": "erfreuen",
         "en": "delight",
         "ru": "радость",
         "descriptionEN": "To give pleasure or joy to.",
         "descriptionRU": "Принести удовольствие или радость.",
-        "descriptionDE": "Freude oder Glück bereiten."
+        "descriptionDE": "Freude oder Glück bereiten.",
+        "tr": "memnun etmek",
+        "az": "sevindirmək",
+        "uk": "радувати",
+        "descriptionTR": "Zevk veya neşe vermek.",
+        "descriptionAZ": "Zövq və ya sevinc vermək.",
+        "descriptionUK": "Дарувати задоволення або радість."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
         "descriptionEN": "To regard with wonder, pleasure, or approval.",
         "descriptionRU": "Смотреть с удивлением, удовольствием или одобрением.",
-        "descriptionDE": "Mit Staunen, Freude oder Zustimmung betrachten."
+        "descriptionDE": "Mit Staunen, Freude oder Zustimmung betrachten.",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionTR": "Hayranlık, zevk veya onayla bakmak.",
+        "descriptionAZ": "Heyranlıq, zövq və ya təsdiqlə baxmaq.",
+        "descriptionUK": "Дивитися з подивом, задоволенням або схваленням."
     }
 ]

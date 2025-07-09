@@ -5,160 +5,298 @@
         "ru": "Подруга",
         "descriptionEN": "A person with whom one has a bond of mutual affection.",
         "descriptionRU": "Человек, с которым есть взаимная привязанность.",
-        "descriptionDE": "Eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat."
+        "descriptionDE": "Eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat.",
+        "tr": "Arkadaş",
+        "az": "Dost",
+        "uk": "Подруга",
+        "descriptionTR": "Karşılıklı sevgi bağı olan bir kişi.",
+        "descriptionAZ": "Qarşılıqlı məhəbbət bağı olan bir insan.",
+        "descriptionUK": "Особа, з якою є взаємна прихильність."
     }, {
         "de": "der Kindergarten",
         "en": "Kindergarten",
         "ru": "Детский сад",
         "descriptionEN": "A place where young children are cared for and learn before they go to school.",
         "descriptionRU": "Место, где маленькие дети заботятся и учатся до школы.",
-        "descriptionDE": "Ein Ort, an dem kleine Kinder betreut werden und lernen, bevor sie zur Schule gehen."
+        "descriptionDE": "Ein Ort, an dem kleine Kinder betreut werden und lernen, bevor sie zur Schule gehen.",
+        "tr": "Anaokulu",
+        "az": "Uşaq bağçası",
+        "uk": "Дитячий садок",
+        "descriptionTR": "Küçük çocukların okula gitmeden önce bakıldığı ve öğrendiği bir yer.",
+        "descriptionAZ": "Kiçik uşaqların məktəbə getməzdən əvvəl baxıldığı və öyrədildiyi yer.",
+        "descriptionUK": "Місце, де за маленькими дітьми доглядають і навчають їх до того, як вони підуть до школи."
     }, {
         "de": "die Pause",
         "en": "Break",
         "ru": "Перерыв",
         "descriptionEN": "A short period of rest or relaxation during work or activities.",
         "descriptionRU": "Короткий период отдыха или расслабления во время работы или занятий.",
-        "descriptionDE": "Ein kurzer Zeitraum der Ruhe oder Entspannung während der Arbeit oder Aktivitäten."
+        "descriptionDE": "Ein kurzer Zeitraum der Ruhe oder Entspannung während der Arbeit oder Aktivitäten.",
+        "tr": "Mola",
+        "az": "Fasilə",
+        "uk": "Перерва",
+        "descriptionTR": "Çalışma veya etkinlikler sırasında kısa bir dinlenme veya rahatlama süresi.",
+        "descriptionAZ": "İş və ya fəaliyyətlər zamanı qısa müddətli istirahət və ya dincəlmə.",
+        "descriptionUK": "Короткий період відпочинку або розслаблення під час роботи чи занять."
     }, {
         "de": "die Klasse",
         "en": "Class",
         "ru": "Класс",
         "descriptionEN": "A group of students taught together.",
         "descriptionRU": "Группа студентов, обучаемых вместе.",
-        "descriptionDE": "Eine Gruppe von Schülern, die zusammen unterrichtet werden."
+        "descriptionDE": "Eine Gruppe von Schülern, die zusammen unterrichtet werden.",
+        "tr": "Sınıf",
+        "az": "Sinif",
+        "uk": "Клас",
+        "descriptionTR": "Birlikte eğitim gören bir grup öğrenci.",
+        "descriptionAZ": "Birlikdə tədris olunan tələbə qrupu.",
+        "descriptionUK": "Група студентів, які навчаються разом."
     }, {
         "de": "das Wochenende",
         "en": "Weekend",
         "ru": "Выходные",
         "descriptionEN": "The end of the week, typically including Saturday and Sunday.",
         "descriptionRU": "Конец недели, обычно включая субботу и воскресенье.",
-        "descriptionDE": "Das Ende der Woche, typischerweise einschließlich Samstag und Sonntag."
+        "descriptionDE": "Das Ende der Woche, typischerweise einschließlich Samstag und Sonntag.",
+        "tr": "Hafta sonu",
+        "az": "Həftə sonu",
+        "uk": "Вихідні",
+        "descriptionTR": "Haftanın sonu, genellikle cumartesi ve pazar günlerini içeren.",
+        "descriptionAZ": "Həftənin sonu, adətən şənbə və bazar günləri daxil olmaqla.",
+        "descriptionUK": "Кінець тижня, зазвичай включаючи суботу та неділю."
     }, {
         "de": "das Armband",
         "en": "Bracelet",
         "ru": "Браслет",
         "descriptionEN": "A band or chain worn around the wrist.",
         "descriptionRU": "Повязка или цепочка, носимая вокруг запястья.",
-        "descriptionDE": "Ein Band oder eine Kette, die um das Handgelenk getragen wird."
+        "descriptionDE": "Ein Band oder eine Kette, die um das Handgelenk getragen wird.",
+        "tr": "Bilezik",
+        "az": "Bilərzik",
+        "uk": "Браслет",
+        "descriptionTR": "Bileğe takılan bir bant veya zincir.",
+        "descriptionAZ": "Biləkdə taxılan bir lent və ya zəncir.",
+        "descriptionUK": "Ремінець або ланцюжок, що носиться навколо зап'ястя."
     }, {
         "de": "die Einladung",
         "en": "Invitation",
         "ru": "Приглашение",
         "descriptionEN": "A request to attend or participate in an event.",
         "descriptionRU": "Запрос на участие или посещение мероприятия.",
-        "descriptionDE": "Eine Aufforderung zur Teilnahme an oder zum Besuch einer Veranstaltung."
+        "descriptionDE": "Eine Aufforderung zur Teilnahme an oder zum Besuch einer Veranstaltung.",
+        "tr": "Davetiye",
+        "az": "Dəvət",
+        "uk": "Запрошення",
+        "descriptionTR": "Bir etkinliğe katılmak veya iştirak etmek için bir istek.",
+        "descriptionAZ": "Bir tədbirdə iştirak etmək üçün müraciət.",
+        "descriptionUK": "Запит на відвідування або участь у заході."
     }, {
         "de": "das Mittagessen",
         "en": "Lunch",
         "ru": "Обед",
         "descriptionEN": "A meal eaten in the middle of the day.",
         "descriptionRU": "Прием пищи в середине дня.",
-        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages eingenommen wird."
+        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages eingenommen wird.",
+        "tr": "Öğle yemeği",
+        "az": "Nahar",
+        "uk": "Обід",
+        "descriptionTR": "Günün ortasında yenen bir öğün.",
+        "descriptionAZ": "Günün ortasında yeyilən yemək.",
+        "descriptionUK": "Прийом їжі в середині дня."
     }, {
         "de": "die Interesse",
         "en": "Interest",
         "ru": "Интерес",
         "descriptionEN": "A feeling of wanting to know more about something.",
         "descriptionRU": "Чувство желания узнать больше о чем-то.",
-        "descriptionDE": "Ein Gefühl des Wunsches, mehr über etwas zu erfahren."
+        "descriptionDE": "Ein Gefühl des Wunsches, mehr über etwas zu erfahren.",
+        "tr": "İlgi",
+        "az": "Maraq",
+        "uk": "Інтерес",
+        "descriptionTR": "Bir şey hakkında daha fazla bilgi edinme isteği.",
+        "descriptionAZ": "Bir şey haqqında daha çox bilmək istəyi hissi.",
+        "descriptionUK": "Бажання дізнатися більше про щось."
     }, {
         "de": "der Grund",
         "en": "Reason",
         "ru": "Причина",
         "descriptionEN": "A cause or explanation for an action or event.",
         "descriptionRU": "Причина или объяснение действия или события.",
-        "descriptionDE": "Ein Grund oder eine Erklärung für eine Handlung oder ein Ereignis."
+        "descriptionDE": "Ein Grund oder eine Erklärung für eine Handlung oder ein Ereignis.",
+        "tr": "Sebep",
+        "az": "Səbəb",
+        "uk": "Причина",
+        "descriptionTR": "Bir eylem veya olayın nedeni veya açıklaması.",
+        "descriptionAZ": "Bir hərəkət və ya hadisə üçün səbəb və ya izahat.",
+        "descriptionUK": "Причина або пояснення дії чи події."
     }, {
         "de": "das Lächeln",
         "en": "Smile",
         "ru": "Улыбка",
         "descriptionEN": "A facial expression showing pleasure or amusement.",
         "descriptionRU": "Выражение лица, показывающее удовольствие или развлечение.",
-        "descriptionDE": "Ein Gesichtsausdruck, der Vergnügen oder Unterhaltung zeigt."
+        "descriptionDE": "Ein Gesichtsausdruck, der Vergnügen oder Unterhaltung zeigt.",
+        "tr": "Gülümseme",
+        "az": "Təbəssüm",
+        "uk": "Усмішка",
+        "descriptionTR": "Keyif veya eğlenceyi gösteren bir yüz ifadesi.",
+        "descriptionAZ": "Sevinc və ya əyləncəni göstərən üz ifadəsi.",
+        "descriptionUK": "Вираз обличчя, що показує задоволення або розвагу."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
         "descriptionEN": "To perceive with the eyes.",
         "descriptionRU": "Воспринимать глазами.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "Сприймати очима."
     }, {
         "de": "einladen",
         "en": "to invite",
         "ru": "приглашать",
         "descriptionEN": "To ask someone to come to an event.",
         "descriptionRU": "Попросить кого-то прийти на мероприятие.",
-        "descriptionDE": "Jemanden bitten, zu einer Veranstaltung zu kommen."
+        "descriptionDE": "Jemanden bitten, zu einer Veranstaltung zu kommen.",
+        "tr": "davet etmek",
+        "az": "dəvət etmək",
+        "uk": "запрошувати",
+        "descriptionTR": "Bir etkinliğe birini gelmesini istemek.",
+        "descriptionAZ": "Kimisə bir tədbirə gəlməsini xahiş etmək.",
+        "descriptionUK": "Попросити когось прийти на подію."
     }, {
         "de": "versuchen",
         "en": "to try",
         "ru": "попробовать",
         "descriptionEN": "To make an effort to do something.",
         "descriptionRU": "Попытаться сделать что-то.",
-        "descriptionDE": "Ein Bemühen machen, etwas zu tun."
+        "descriptionDE": "Ein Bemühen machen, etwas zu tun.",
+        "tr": "denemek",
+        "az": "cəhd etmək",
+        "uk": "спробувати",
+        "descriptionTR": "Bir şey yapmak için çaba göstermek.",
+        "descriptionAZ": "Bir şey etmək üçün səy göstərmək.",
+        "descriptionUK": "Докласти зусиль, щоб щось зробити."
     }, {
         "de": "fühlen",
         "en": "to feel",
         "ru": "чувствовать",
         "descriptionEN": "To experience an emotion or physical sensation.",
         "descriptionRU": "Испытать эмоцию или физическое ощущение.",
-        "descriptionDE": "Ein Gefühl oder eine körperliche Empfindung erfahren."
+        "descriptionDE": "Ein Gefühl oder eine körperliche Empfindung erfahren.",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
+        "descriptionTR": "Bir duyguyu veya fiziksel bir hissi deneyimlemek.",
+        "descriptionAZ": "Bir emosiyanı və ya fiziki hissi yaşamaq.",
+        "descriptionUK": "Пережити емоцію або фізичне відчуття."
     }, {
         "de": "wünschen",
         "en": "to wish",
         "ru": "желать",
         "descriptionEN": "To desire or hope for something.",
         "descriptionRU": "Желать или надеяться на что-то.",
-        "descriptionDE": "Etwas wünschen oder hoffen."
+        "descriptionDE": "Etwas wünschen oder hoffen.",
+        "tr": "dilemek",
+        "az": "arzu etmək",
+        "uk": "бажати",
+        "descriptionTR": "Bir şeyi arzulamak veya ummak.",
+        "descriptionAZ": "Bir şeyi arzulamaq və ya ümid etmək.",
+        "descriptionUK": "Бажати або сподіватися на щось."
     }, {
         "de": "erkennen",
         "en": "to recognize",
         "ru": "узнавать",
         "descriptionEN": "To identify someone or something from previous encounters.",
         "descriptionRU": "Идентифицировать кого-то или что-то по предыдущим встречам.",
-        "descriptionDE": "Jemanden oder etwas von früheren Begegnungen erkennen."
+        "descriptionDE": "Jemanden oder etwas von früheren Begegnungen erkennen.",
+        "tr": "tanımak",
+        "az": "tanımaq",
+        "uk": "впізнавати",
+        "descriptionTR": "Birini veya bir şeyi önceki karşılaşmalardan tanımak.",
+        "descriptionAZ": "Kimisə və ya nəyisə əvvəlki görüşlərdən tanımaq.",
+        "descriptionUK": "Ідентифікувати когось або щось з попередніх зустрічей."
     }, {
         "de": "schüchtern",
         "en": "shy",
         "ru": "застенчивый",
         "descriptionEN": "Easily frightened or nervous in social situations.",
         "descriptionRU": "Легко испуганный или нервный в социальных ситуациях.",
-        "descriptionDE": "Leicht ängstlich oder nervös in sozialen Situationen."
+        "descriptionDE": "Leicht ängstlich oder nervös in sozialen Situationen.",
+        "tr": "utangaç",
+        "az": "utancaq",
+        "uk": "сором'язливий",
+        "descriptionTR": "Sosyal durumlarda kolayca korkan veya gerginleşen.",
+        "descriptionAZ": "Sosial vəziyyətlərdə asanlıqla qorxmuş və ya əsəbi olan.",
+        "descriptionUK": "Легко лякається або нервується в соціальних ситуаціях."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
-        "descriptionDE": "Besser, größer oder anders als das Übliche."
+        "descriptionDE": "Besser, größer oder anders als das Übliche.",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
+        "descriptionTR": "Normalden daha iyi, daha büyük veya başka bir şekilde farklı.",
+        "descriptionAZ": "Normaldan daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або іншим чином відмінний від звичайного."
     }, {
         "de": "gemeinsam",
         "en": "together",
         "ru": "вместе",
         "descriptionEN": "With or among others.",
         "descriptionRU": "С другими людьми или среди них.",
-        "descriptionDE": "Mit oder unter anderen."
+        "descriptionDE": "Mit oder unter anderen.",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
+        "descriptionTR": "Başkalarıyla birlikte veya aralarında.",
+        "descriptionAZ": "Başqaları ilə birlikdə və ya onların arasında.",
+        "descriptionUK": "З іншими або серед інших."
     }, {
         "de": "herzlich",
         "en": "cordial",
         "ru": "дружелюбный",
         "descriptionEN": "Warm and sincere in manner.",
         "descriptionRU": "Теплый и искренний в манере.",
-        "descriptionDE": "Warm und aufrichtig in der Art."
+        "descriptionDE": "Warm und aufrichtig in der Art.",
+        "tr": "samimi",
+        "az": "səmimi",
+        "uk": "щирий",
+        "descriptionTR": "Davranışta sıcak ve samimi.",
+        "descriptionAZ": "Davranışda səmimi və səmimi.",
+        "descriptionUK": "Теплий і щирий у манері."
     }, {
         "de": "lieb",
         "en": "dear",
         "ru": "дорогой",
         "descriptionEN": "Regarded with deep affection.",
         "descriptionRU": "С глубоким чувством привязанности.",
-        "descriptionDE": "Mit tiefer Zuneigung betrachtet."
+        "descriptionDE": "Mit tiefer Zuneigung betrachtet.",
+        "tr": "sevgili",
+        "az": "əziz",
+        "uk": "дорогий",
+        "descriptionTR": "Derin bir sevgiyle bakılan.",
+        "descriptionAZ": "Dərin məhəbbətlə baxılan.",
+        "descriptionUK": "Розглядати з глибокою прихильністю."
     }, {
         "de": "überglücklich",
         "en": "overjoyed",
         "ru": "в восторге",
         "descriptionEN": "Extremely happy or delighted.",
         "descriptionRU": "Очень счастлив или рад.",
-        "descriptionDE": "Äußerst glücklich oder erfreut."
+        "descriptionDE": "Äußerst glücklich oder erfreut.",
+        "tr": "çok sevinçli",
+        "az": "çox sevincli",
+        "uk": "дуже щасливий",
+        "descriptionTR": "Son derece mutlu veya memnun.",
+        "descriptionAZ": "Son dərəcə xoşbəxt və ya sevincli.",
+        "descriptionUK": "Надзвичайно щасливий або захоплений."
     }
 ]

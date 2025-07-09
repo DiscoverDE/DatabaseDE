@@ -5,132 +5,246 @@
         "ru": "любовь",
         "descriptionEN": "a strong feeling of affection and concern toward another person",
         "descriptionRU": "сильное чувство привязанности и заботы к другому человеку",
-        "descriptionDE": "ein starkes Gefühl der Zuneigung und Sorge für eine andere Person"
+        "descriptionDE": "ein starkes Gefühl der Zuneigung und Sorge für eine andere Person",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
+        "descriptionTR": "başka bir kişiye karşı güçlü bir şefkat ve ilgi duygusu",
+        "descriptionAZ": "başqa bir insana qarşı güclü məhəbbət və qayğı hissi",
+        "descriptionUK": "сильне почуття прихильності та турботи до іншої людини"
     }, {
         "de": "der Ingenieur",
         "en": "engineer",
         "ru": "инженер",
         "descriptionEN": "a person trained and skilled in the design, construction, and use of engines or machines, or in any of various branches of engineering.",
         "descriptionRU": "человек, обученный и квалифицированный в проектировании, строительстве и использовании двигателей или машин, либо в любой из различных отраслей инженерии.",
-        "descriptionDE": "eine Person, die in der Gestaltung, Konstruktion und Verwendung von Motoren oder Maschinen oder in einer der verschiedenen Ingenieurdisziplinen ausgebildet und geschult ist."
+        "descriptionDE": "eine Person, die in der Gestaltung, Konstruktion und Verwendung von Motoren oder Maschinen oder in einer der verschiedenen Ingenieurdisziplinen ausgebildet und geschult ist.",
+        "tr": "mühendis",
+        "az": "mühəndis",
+        "uk": "інженер",
+        "descriptionTR": "motorların veya makinelerin tasarımı, inşası ve kullanımında veya mühendisliğin çeşitli dallarından herhangi birinde eğitimli ve yetenekli bir kişi.",
+        "descriptionAZ": "mühərriklərin və ya maşınların dizaynı, tikintisi və istifadəsində, yaxud mühəndisliyin müxtəlif sahələrindən hər hansı birində təlim keçmiş və ixtisaslaşmış şəxs.",
+        "descriptionUK": "особа, навчена та кваліфікована у проектуванні, будівництві та використанні двигунів або машин, або в будь-якій з різних галузей інженерії."
     }, {
         "de": "die Musikerin",
         "en": "musician",
         "ru": "музыкантка",
         "descriptionEN": "a person who plays a musical instrument, especially as a profession, or is musically talented.",
         "descriptionRU": "человек, играющий на музыкальном инструменте, особенно как профессия, или обладающий музыкальным талантом.",
-        "descriptionDE": "eine Person, die ein Musikinstrument spielt, insbesondere als Beruf, oder musikalisch begabt ist."
+        "descriptionDE": "eine Person, die ein Musikinstrument spielt, insbesondere als Beruf, oder musikalisch begabt ist.",
+        "tr": "müzisyen",
+        "az": "musiqiçi",
+        "uk": "музикантка",
+        "descriptionTR": "özellikle meslek olarak müzik aleti çalan veya müzik yeteneği olan kişi.",
+        "descriptionAZ": "musiqi aləti çalan, xüsusən də peşə olaraq və ya musiqi istedadı olan şəxs.",
+        "descriptionUK": "особа, яка грає на музичному інструменті, особливо як професія, або є музично обдарованою."
     }, {
         "de": "das Date",
         "en": "date",
         "ru": "свидание",
         "descriptionEN": "a social or romantic appointment or engagement.",
         "descriptionRU": "социальное или романтическое свидание или встреча.",
-        "descriptionDE": "eine gesellschaftliche oder romantische Verabredung oder Verpflichtung."
+        "descriptionDE": "eine gesellschaftliche oder romantische Verabredung oder Verpflichtung.",
+        "tr": "randevu",
+        "az": "görüş",
+        "uk": "побачення",
+        "descriptionTR": "sosyal veya romantik bir randevu veya buluşma.",
+        "descriptionAZ": "ictimai və ya romantik görüş və ya nişan.",
+        "descriptionUK": "соціальна або романтична зустріч чи побачення."
     }, {
         "de": "der Konzertsaal",
         "en": "concert hall",
         "ru": "концертный зал",
         "descriptionEN": "a large public building with an auditorium and facilities for concerts.",
         "descriptionRU": "большое общественное здание с аудиторией и помещениями для концертов.",
-        "descriptionDE": "ein großes öffentliches Gebäude mit einem Auditorium und Einrichtungen für Konzerte."
+        "descriptionDE": "ein großes öffentliches Gebäude mit einem Auditorium und Einrichtungen für Konzerte.",
+        "tr": "konser salonu",
+        "az": "konsert zalı",
+        "uk": "концертний зал",
+        "descriptionTR": "bir oditoryum ve konserler için tesisleri olan büyük bir halk binası.",
+        "descriptionAZ": "auditoriyası və konsertlər üçün obyektləri olan böyük ictimai bina.",
+        "descriptionUK": "велика громадська будівля з аудиторією та приміщеннями для концертів."
     }, {
         "de": "der Straßenmusiker",
         "en": "street musician",
         "ru": "уличный музыкант",
         "descriptionEN": "a musician who performs in public places, often for tips or donations.",
         "descriptionRU": "музыкант, выступающий на общественных местах, часто за чаевые или пожертвования.",
-        "descriptionDE": "ein Musiker, der an öffentlichen Orten auftritt, oft für Trinkgelder oder Spenden."
+        "descriptionDE": "ein Musiker, der an öffentlichen Orten auftritt, oft für Trinkgelder oder Spenden.",
+        "tr": "sokak müzisyeni",
+        "az": "küçə musiqiçisi",
+        "uk": "вуличний музикант",
+        "descriptionTR": "halka açık yerlerde, genellikle bahşiş veya bağış karşılığında performans sergileyen bir müzisyen.",
+        "descriptionAZ": "ictimai yerlərdə, tez-tez bəxşiş və ya ianələr müqabilində çıxış edən musiqiçi.",
+        "descriptionUK": "музикант, який виступає в громадських місцях, часто за чайові або пожертви."
     }, {
         "de": "das Lächeln",
         "en": "smile",
         "ru": "улыбка",
         "descriptionEN": "a pleased, kind, or amused facial expression, typically with the corners of the mouth turned up and the front teeth exposed.",
         "descriptionRU": "довольное, доброе или веселое выражение лица, обычно с уголками рта, направленными вверх, и обнаженными передними зубами.",
-        "descriptionDE": "ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, typischerweise mit den Mundwinkeln nach oben und den vorderen Zähnen freigelegt."
+        "descriptionDE": "ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, typischerweise mit den Mundwinkeln nach oben und den vorderen Zähnen freigelegt.",
+        "tr": "gülümseme",
+        "az": "təbəssüm",
+        "uk": "усмішка",
+        "descriptionTR": "memnun, nazik veya eğlenmiş bir yüz ifadesi, genellikle ağız köşeleri yukarı dönük ve ön dişler açıkta.",
+        "descriptionAZ": "xoş, xeyirxah və ya əyləncəli üz ifadəsi, adətən ağız küncləri yuxarıya doğru çevrilmiş və ön dişlər görünən.",
+        "descriptionUK": "задоволений, добрий або розважальний вираз обличчя, як правило, з куточками рота, піднятими вгору, і оголеними передніми зубами."
     }, {
         "de": "die Aufregung",
         "en": "excitement",
         "ru": "возбуждение",
         "descriptionEN": "a state of being emotionally aroused.",
         "descriptionRU": "состояние эмоционального возбуждения.",
-        "descriptionDE": "ein Zustand emotionaler Erregung."
+        "descriptionDE": "ein Zustand emotionaler Erregung.",
+        "tr": "heyecan",
+        "az": "həyəcan",
+        "uk": "збудження",
+        "descriptionTR": "duygusal olarak uyarılmış olma durumu.",
+        "descriptionAZ": "emosional olaraq oyanmış vəziyyət.",
+        "descriptionUK": "стан емоційного збудження."
     }, {
         "de": "die Pracht",
         "en": "splendor",
         "ru": "великолепие",
         "descriptionEN": "magnificent and splendid appearance; grandeur.",
         "descriptionRU": "великолепный и блестящий внешний вид; величие.",
-        "descriptionDE": "prachtvolles und herrliches Aussehen; Pracht."
+        "descriptionDE": "prachtvolles und herrliches Aussehen; Pracht.",
+        "tr": "ihtişam",
+        "az": "ihtişam",
+        "uk": "пишність",
+        "descriptionTR": "muhteşem ve görkemli görünüm; ihtişam.",
+        "descriptionAZ": "möhtəşəm və parlaq görünüş; əzəmət.",
+        "descriptionUK": "чудовий і розкішний вигляд; велич."
     }, {
         "de": "die Schönheit",
         "en": "beauty",
         "ru": "красота",
         "descriptionEN": "a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight.",
         "descriptionRU": "сочетание качеств, таких как форма, цвет или форма, которые удовлетворяют эстетические чувства, особенно зрение.",
-        "descriptionDE": "eine Kombination von Eigenschaften wie Form, Farbe oder Gestalt, die die ästhetischen Sinne, insbesondere den Sehsinn, erfreut."
+        "descriptionDE": "eine Kombination von Eigenschaften wie Form, Farbe oder Gestalt, die die ästhetischen Sinne, insbesondere den Sehsinn, erfreut.",
+        "tr": "güzellik",
+        "az": "gözəllik",
+        "uk": "краса",
+        "descriptionTR": "estetik duyuları, özellikle görmeyi tatmin eden şekil, renk veya form gibi niteliklerin birleşimi.",
+        "descriptionAZ": "estetik hissləri, xüsusən də görmə qabiliyyətini sevindirən forma, rəng və ya forma kimi keyfiyyətlərin birləşməsi.",
+        "descriptionUK": "поєднання якостей, таких як форма, колір або форма, що приносить задоволення естетичним почуттям, особливо зору."
     }, {
         "de": "die Tränen",
         "en": "tears",
         "ru": "слезы",
         "descriptionEN": "a clear, salty liquid secreted by glands in the eyes and typically expelled from the body through ducts in the eyelids.",
         "descriptionRU": "чистая, соленая жидкость, выделяемая железами в глазах и обычно выводимая из организма через протоки в веках.",
-        "descriptionDE": "eine klare, salzige Flüssigkeit, die von Drüsen in den Augen abgesondert wird und typischerweise durch Kanäle in den Augenlidern aus dem Körper ausgeschieden wird."
+        "descriptionDE": "eine klare, salzige Flüssigkeit, die von Drüsen in den Augen abgesondert wird und typischerweise durch Kanäle in den Augenlidern aus dem Körper ausgeschieden wird.",
+        "tr": "gözyaşları",
+        "az": "göz yaşları",
+        "uk": "сльози",
+        "descriptionTR": "gözlerdeki bezler tarafından salgılanan ve genellikle göz kapaklarındaki kanallar aracılığıyla vücuttan atılan berrak, tuzlu bir sıvı.",
+        "descriptionAZ": "gözlərdəki vəzlər tərəfindən ifraz olunan və adətən göz qapaqlarındakı kanallar vasitəsilə bədəndən xaric olan şəffaf, duzlu maye.",
+        "descriptionUK": "прозора, солона рідина, що виділяється залозами в очах і зазвичай виводиться з організму через протоки в повіках."
     }, {
         "de": "der Ring",
         "en": "ring",
         "ru": "кольцо",
         "descriptionEN": "a small circular band, typically of precious metal, worn on a finger as an ornament or a token of marriage, engagement, or authority.",
         "descriptionRU": "небольшая круглая ободковая лента, обычно из драгоценного металла, носимая на пальце как украшение или знак брака, помолвки или власти.",
-        "descriptionDE": "ein kleiner kreisförmiger Ring, typischerweise aus Edelmetall, der als Schmuckstück oder Zeichen einer Ehe, Verlobung oder Autorität am Finger getragen wird."
+        "descriptionDE": "ein kleiner kreisförmiger Ring, typischerweise aus Edelmetall, der als Schmuckstück oder Zeichen einer Ehe, Verlobung oder Autorität am Finger getragen wird.",
+        "tr": "yüzük",
+        "az": "üzük",
+        "uk": "кільце",
+        "descriptionTR": "genellikle değerli metalden yapılmış, parmağa süs eşyası veya evlilik, nişan veya otorite sembolü olarak takılan küçük dairesel bir bant.",
+        "descriptionAZ": "adətən qiymətli metaldan hazırlanmış, barmağa bəzək əşyası və ya evlilik, nişan və ya səlahiyyət əlaməti kimi taxılan kiçik dairəvi bant.",
+        "descriptionUK": "невелике кругле кільце, як правило, з дорогоцінного металу, що носиться на пальці як прикраса або знак шлюбу, заручин чи влади."
     }, {
         "de": "der Soundtrack",
         "en": "soundtrack",
         "ru": "саундтрек",
         "descriptionEN": "a recording of the musical accompaniment to a movie.",
         "descriptionRU": "запись музыкального сопровождения к фильму.",
-        "descriptionDE": "eine Aufnahme der musikalischen Begleitung zu einem Film."
+        "descriptionDE": "eine Aufnahme der musikalischen Begleitung zu einem Film.",
+        "tr": "film müziği",
+        "az": "saundtrek",
+        "uk": "саундтрек",
+        "descriptionTR": "bir filmin müzik eşliğinin kaydı.",
+        "descriptionAZ": "bir filmin musiqi müşayiətinin qeydi.",
+        "descriptionUK": "запис музичного супроводу до фільму."
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
         "descriptionEN": "to engage in activity for enjoyment and recreation.",
         "descriptionRU": "заниматься деятельностью для удовольствия и отдыха.",
-        "descriptionDE": "an einer Aktivität zum Vergnügen und zur Erholung teilnehmen."
+        "descriptionDE": "an einer Aktivität zum Vergnügen und zur Erholung teilnehmen.",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
+        "descriptionTR": "eğlence ve dinlence için bir faaliyette bulunmak.",
+        "descriptionAZ": "zövq və istirahət üçün fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "займатися діяльністю для задоволення та відпочинку."
     }, {
         "de": "verliebt",
         "en": "in love",
         "ru": "влюбленный",
         "descriptionEN": "having strong romantic feelings for someone.",
         "descriptionRU": "испытывать сильные романтические чувства к кому-то.",
-        "descriptionDE": "starke romantische Gefühle für jemanden haben."
+        "descriptionDE": "starke romantische Gefühle für jemanden haben.",
+        "tr": "aşık",
+        "az": "aşiq",
+        "uk": "закоханий",
+        "descriptionTR": "birine karşı güçlü romantik duygulara sahip olmak.",
+        "descriptionAZ": "kiməsə qarşı güclü romantik hisslər bəsləmək.",
+        "descriptionUK": "мати сильні романтичні почуття до когось."
     }, {
         "de": "faszinierend",
         "en": "fascinating",
         "ru": "захватывающий",
         "descriptionEN": "extremely interesting or charming.",
         "descriptionRU": "чрезвычайно интересный или очаровательный.",
-        "descriptionDE": "äußerst interessant oder charmant."
+        "descriptionDE": "äußerst interessant oder charmant.",
+        "tr": "büyüleyici",
+        "az": "cazibədar",
+        "uk": "захоплюючий",
+        "descriptionTR": "son derece ilginç veya çekici.",
+        "descriptionAZ": "son dərəcə maraqlı və ya cazibədar.",
+        "descriptionUK": "надзвичайно цікавий або чарівний."
     }, {
         "de": "überwältigt",
         "en": "overwhelmed",
         "ru": "переполненный",
         "descriptionEN": "feeling completely overcome by strong emotions or situations.",
         "descriptionRU": "чувство полного подавления сильными эмоциями или ситуациями.",
-        "descriptionDE": "das Gefühl, von starken Emotionen oder Situationen völlig überwältigt zu sein."
+        "descriptionDE": "das Gefühl, von starken Emotionen oder Situationen völlig überwältigt zu sein.",
+        "tr": "bunalmış",
+        "az": "heyrətlənmiş",
+        "uk": "приголомшений",
+        "descriptionTR": "güçlü duygular veya durumlar tarafından tamamen bunalmış hissetmek.",
+        "descriptionAZ": "güclü emosiyalar və ya vəziyyətlər tərəfindən tamamilə basdırılmış hiss etmək.",
+        "descriptionUK": "відчуття повної перемоги над сильними емоціями чи ситуаціями."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
         "descriptionEN": "of a size that is less than normal or usual.",
         "descriptionRU": "размером меньше обычного или привычного.",
-        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist."
+        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist.",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
+        "descriptionTR": "normal veya alışılmıştan daha küçük boyutta olan.",
+        "descriptionAZ": "normaldan və ya adi haldan daha kiçik ölçüdə olan.",
+        "descriptionUK": "розміром менше звичайного або звичного."
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "красивый",
         "descriptionEN": "pleasing the senses or mind aesthetically.",
         "descriptionRU": "удовлетворяющий эстетически чувства или разум.",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend."
+        "descriptionDE": "die Sinne oder den Geist ästhetisch befriedigend.",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
+        "descriptionTR": "duyguları veya zihni estetik olarak memnun eden.",
+        "descriptionAZ": "hissləri və ya ağlı estetik cəhətdən sevindirən.",
+        "descriptionUK": "естетично приємний для почуттів або розуму."
     }
 ]

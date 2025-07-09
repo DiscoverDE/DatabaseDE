@@ -5,167 +5,311 @@
         "ru": "учительница",
         "descriptionEN": "a person who teaches, especially in a school",
         "descriptionRU": "человек, который преподает, особенно в школе",
-        "descriptionDE": "Eine Person, die unterrichtet, besonders in einer Schule"
+        "descriptionDE": "Eine Person, die unterrichtet, besonders in einer Schule",
+        "tr": "öğretmen",
+        "az": "müəllimə",
+        "uk": "вчителька",
+        "descriptionTR": "özellikle okulda ders veren kişi",
+        "descriptionAZ": "xüsusilə məktəbdə dərs deyən şəxs",
+        "descriptionUK": "особа, яка викладає, особливо в школі"
     }, {
         "de": "das Dutzend",
         "en": "dozen",
         "ru": "дюжина",
         "descriptionEN": "a group or set of twelve",
         "descriptionRU": "группа или набор из двенадцати",
-        "descriptionDE": "Eine Gruppe oder Menge von zwölf"
+        "descriptionDE": "Eine Gruppe oder Menge von zwölf",
+        "tr": "düzine",
+        "az": "on iki",
+        "uk": "дюжина",
+        "descriptionTR": "on iki kişilik bir grup veya set",
+        "descriptionAZ": "on iki nəfərlik qrup və ya dəst",
+        "descriptionUK": "група або набір з дванадцяти"
     }, {
         "de": "der Schulausflug",
         "en": "school trip",
         "ru": "школьная экскурсия",
         "descriptionEN": "an excursion or journey undertaken by a school or class, usually for educational purposes",
         "descriptionRU": "экскурсия или путешествие, предпринимаемое школой или классом, обычно в образовательных целях",
-        "descriptionDE": "Eine Exkursion oder Reise, die von einer Schule oder Klasse unternommen wird, normalerweise zu Bildungszwecken"
+        "descriptionDE": "Eine Exkursion oder Reise, die von einer Schule oder Klasse unternommen wird, normalerweise zu Bildungszwecken",
+        "tr": "okul gezisi",
+        "az": "məktəb gəzintisi",
+        "uk": "шкільна екскурсія",
+        "descriptionTR": "bir okul veya sınıf tarafından, genellikle eğitim amaçlı yapılan bir gezi veya yolculuk",
+        "descriptionAZ": "bir məktəb və ya sinif tərəfindən, adətən təhsil məqsədilə həyata keçirilən gəzinti və ya səyahət",
+        "descriptionUK": "екскурсія або подорож, що здійснюється школою чи класом, зазвичай з освітньою метою"
     }, {
         "de": "der Aquazoo",
         "en": "aquarium zoo",
         "ru": "аквариум-зоопарк",
         "descriptionEN": "a facility that combines elements of an aquarium and a zoo, often featuring aquatic animals and their habitats",
         "descriptionRU": "учреждение, которое объединяет элементы аквариума и зоопарка, часто представляющее водных животных и их местообитания",
-        "descriptionDE": "Eine Einrichtung, die Elemente eines Aquariums und eines Zoos kombiniert und häufig aquatische Tiere und ihre Lebensräume präsentiert"
+        "descriptionDE": "Eine Einrichtung, die Elemente eines Aquariums und eines Zoos kombiniert und häufig aquatische Tiere und ihre Lebensräume präsentiert",
+        "tr": "akvaryum hayvanat bahçesi",
+        "az": "akvarium heyvanxanası",
+        "uk": "аквазоопарк",
+        "descriptionTR": "akvaryum ve hayvanat bahçesi unsurlarını birleştiren, genellikle su hayvanlarını ve yaşam alanlarını içeren bir tesis",
+        "descriptionAZ": "akvarium və zoopark elementlərini birləşdirən, tez-tez su heyvanlarını və onların yaşayış yerlərini nümayiş etdirən bir müəssisə",
+        "descriptionUK": "заклад, що поєднує елементи акваріума та зоопарку, часто представляє водних тварин та їхні місця існування"
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
         "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited",
         "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса",
-        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden"
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
+        "descriptionTR": "tarihi, bilimsel, sanatsal veya kültürel ilgi alanlarına giren nesnelerin saklandığı ve sergilendiği bir bina",
+        "descriptionAZ": "tarixi, elmi, bədii və ya mədəni maraq doğuran əşyaların saxlandığı və sərgiləndiyi bina",
+        "descriptionUK": "будівля, в якій зберігаються та виставляються предмети історичного, наукового, художнього або культурного значення"
     }, {
         "de": "der Rausch",
         "en": "rush",
         "ru": "спешка",
         "descriptionEN": "a sudden strong feeling of pleasure or excitement",
         "descriptionRU": "внезапное сильное чувство удовольствия или волнения",
-        "descriptionDE": "Ein plötzliches starkes Gefühl von Vergnügen oder Aufregung"
+        "descriptionDE": "Ein plötzliches starkes Gefühl von Vergnügen oder Aufregung",
+        "tr": "coşku",
+        "az": "tələsmək",
+        "uk": "порив",
+        "descriptionTR": "ani ve güçlü bir zevk veya heyecan hissi",
+        "descriptionAZ": "qəfil güclü həzz və ya həyəcan hissi",
+        "descriptionUK": "раптове сильне почуття задоволення або хвилювання"
     }, {
         "de": "die Ehrfurcht",
         "en": "awe",
         "ru": "трепет",
         "descriptionEN": "a feeling of respect or reverence mixed with dread and wonder, often inspired by something majestic or powerful",
         "descriptionRU": "чувство уважения или благоговения, смешанное с страхом и удивлением, часто вызванное чем-то величественным или мощным",
-        "descriptionDE": "Ein Gefühl von Respekt oder Ehrfurcht, gemischt mit Schrecken und Staunen, oft inspiriert von etwas Majestätischem oder Mächtigem"
+        "descriptionDE": "Ein Gefühl von Respekt oder Ehrfurcht, gemischt mit Schrecken und Staunen, oft inspiriert von etwas Majestätischem oder Mächtigem",
+        "tr": "huşu",
+        "az": "heyrət",
+        "uk": "трепет",
+        "descriptionTR": "korku ve merakla karışık bir saygı veya hürmet duygusu, genellikle görkemli veya güçlü bir şeyden ilham alır",
+        "descriptionAZ": "qorxu və təəccüblə qarışmış hörmət və ya ehtiram hissi, tez-tez möhtəşəm və ya güclü bir şeydən ilhamlanır",
+        "descriptionUK": "відчуття поваги або благоговіння, змішане зі страхом і подивом, часто навіяне чимось величним або могутнім"
     }, {
         "de": "bunt",
         "en": "colorful",
         "ru": "красочный",
         "descriptionEN": "full of bright colors or having a lot of different colors",
         "descriptionRU": "полный ярких цветов или имеющий много различных цветов",
-        "descriptionDE": "Voll von lebhaften Farben oder mit vielen verschiedenen Farben"
+        "descriptionDE": "Voll von lebhaften Farben oder mit vielen verschiedenen Farben",
+        "tr": "renkli",
+        "az": "rəngli",
+        "uk": "барвистий",
+        "descriptionTR": "parlak renklerle dolu veya birçok farklı renge sahip",
+        "descriptionAZ": "parlaq rənglərlə dolu və ya bir çox fərqli rəngə malik olan",
+        "descriptionUK": "повний яскравих кольорів або має багато різних кольорів"
     }, {
         "de": "riesig",
         "en": "huge",
         "ru": "огромный",
         "descriptionEN": "extremely large; very big",
         "descriptionRU": "чрезвычайно большой; очень большой",
-        "descriptionDE": "Extrem groß; sehr groß"
+        "descriptionDE": "Extrem groß; sehr groß",
+        "tr": "muazzam",
+        "az": "nəhəng",
+        "uk": "величезний",
+        "descriptionTR": "son derece büyük; çok büyük",
+        "descriptionAZ": "son dərəcə böyük; çox böyük",
+        "descriptionUK": "надзвичайно великий; дуже великий"
     }, {
         "de": "endlos",
         "en": "endless",
         "ru": "бесконечный",
         "descriptionEN": "having or seeming to have no end; infinite",
         "descriptionRU": "имеющий или кажущийся не имеющим конца; бесконечный",
-        "descriptionDE": "Kein Ende habend oder scheinbar kein Ende habend; unendlich"
+        "descriptionDE": "Kein Ende habend oder scheinbar kein Ende habend; unendlich",
+        "tr": "sonsuz",
+        "az": "sonsuz",
+        "uk": "безкінечний",
+        "descriptionTR": "sonu olmayan veya sonu yok gibi görünen; sonsuz",
+        "descriptionAZ": "sonu olmayan və ya sonu yoxmuş kimi görünən; sonsuz",
+        "descriptionUK": "має або здається, що не має кінця; нескінченний"
     }, {
         "de": "geduldig",
         "en": "patient",
         "ru": "терпеливый",
         "descriptionEN": "able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious",
         "descriptionRU": "способный принимать или терпеть задержки, проблемы или страдания, не раздражаясь и не беспокоясь",
-        "descriptionDE": "In der Lage, Verzögerungen, Probleme oder Leiden zu akzeptieren oder zu tolerieren, ohne sich zu ärgern oder ängstlich zu werden"
+        "descriptionDE": "In der Lage, Verzögerungen, Probleme oder Leiden zu akzeptieren oder zu tolerieren, ohne sich zu ärgern oder ängstlich zu werden",
+        "tr": "sabırlı",
+        "az": "səbirli",
+        "uk": "терплячий",
+        "descriptionTR": "gecikmeleri, sorunları veya acıyı sinirlenmeden veya endişelenmeden kabul edebilen veya tolere edebilen",
+        "descriptionAZ": "gecikmələri, problemləri və ya əzabı qıcıqlanmadan və ya narahat olmadan qəbul etməyi və ya dözməyi bacaran",
+        "descriptionUK": "здатний приймати або терпіти затримки, проблеми або страждання, не дратуючись і не турбуючись"
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
         "descriptionEN": "very enthusiastic and eager",
         "descriptionRU": "очень восторженный и желающий",
-        "descriptionDE": "Sehr enthusiastisch und eifrig"
+        "descriptionDE": "Sehr enthusiastisch und eifrig",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
+        "descriptionTR": "çok hevesli ve istekli",
+        "descriptionAZ": "çox həvəsli və istəkli",
+        "descriptionUK": "дуже захоплений і нетерплячий"
     }, {
         "de": "riesig",
         "en": "gigantic",
         "ru": "гигантский",
         "descriptionEN": "of extremely large size, extent, or amount",
         "descriptionRU": "очень большого размера, масштаба или объема",
-        "descriptionDE": "Von extrem großer Größe, Ausdehnung oder Menge"
+        "descriptionDE": "Von extrem großer Größe, Ausdehnung oder Menge",
+        "tr": "devasa",
+        "az": "nəhəng",
+        "uk": "гігантський",
+        "descriptionTR": "son derece büyük boyut, kapsam veya miktarda",
+        "descriptionAZ": "son dərəcə böyük ölçüdə, əhatə dairəsində və ya miqdarında",
+        "descriptionUK": "надзвичайно великого розміру, обсягу або кількості"
     }, {
         "de": "der Oktopus",
         "en": "octopus",
         "ru": "осьминог",
         "descriptionEN": "a cephalopod mollusk with eight sucker-bearing arms, a soft body, strong beak-like jaws, and no internal shell",
         "descriptionRU": "моллюск из класса головоногих с восемью щупальцами, мягким телом, крепкими клювовидными челюстями и без внутренней раковины",
-        "descriptionDE": "Ein Kopffüßer mit acht saugfähigen Armen, einem weichen Körper, kräftigen schnabelartigen Kiefern und ohne innere Schale"
+        "descriptionDE": "Ein Kopffüßer mit acht saugfähigen Armen, einem weichen Körper, kräftigen schnabelartigen Kiefern und ohne innere Schale",
+        "tr": "ahtapot",
+        "az": "səkkizayaqlı",
+        "uk": "восьминіг",
+        "descriptionTR": "sekiz vantuzlu kollara, yumuşak bir vücuda, güçlü gaga benzeri çenelere ve iç kabuğu olmayan bir kafadanbacaklı yumuşakça",
+        "descriptionAZ": "səkkiz əmici qolları, yumşaq bədəni, güclü dimdiyəbənzər çənələri və daxili qabığı olmayan başayaqlı molyusk",
+        "descriptionUK": "головоногий молюск з вісьмома присосками, м'яким тілом, сильними дзьобоподібними щелепами та без внутрішньої раковини"
     }, {
         "de": "das Unglück",
         "en": "misfortune",
         "ru": "несчастье",
         "descriptionEN": "an unfortunate incident; bad luck",
         "descriptionRU": "несчастный случай; неудача",
-        "descriptionDE": "Ein unglücklicher Vorfall; Pech"
+        "descriptionDE": "Ein unglücklicher Vorfall; Pech",
+        "tr": "talihsizlik",
+        "az": "bədbəxtlik",
+        "uk": "нещастя",
+        "descriptionTR": "talihsiz bir olay; kötü şans",
+        "descriptionAZ": "bədbəxt bir hadisə; pis şans",
+        "descriptionUK": "нещасний випадок; невдача"
     }, {
         "de": "das Spielzeug",
         "en": "toy",
         "ru": "игрушка",
         "descriptionEN": "an object for children to play with, typically a model or miniature replica of something",
         "descriptionRU": "предмет, предназначенный для игры детей, обычно модель или миниатюрная копия чего-то",
-        "descriptionDE": "Ein Gegenstand, mit dem Kinder spielen, typischerweise ein Modell oder eine Miniaturkopie von etwas"
+        "descriptionDE": "Ein Gegenstand, mit dem Kinder spielen, typischerweise ein Modell oder eine Miniaturkopie von etwas",
+        "tr": "oyuncak",
+        "az": "oyuncaq",
+        "uk": "іграшка",
+        "descriptionTR": "çocukların oynaması için bir nesne, tipik olarak bir şeyin modeli veya minyatür kopyası",
+        "descriptionAZ": "uşaqların oynaması üçün bir əşya, adətən bir şeyin modeli və ya kiçik kopyası",
+        "descriptionUK": "предмет для дитячих ігор, зазвичай модель або мініатюрна копія чогось"
     }, {
         "de": "das Becken",
         "en": "basin",
         "ru": "чаша",
         "descriptionEN": "a bowl for washing, typically attached to a wall and having taps connected to a water supply",
         "descriptionRU": "миска для мытья, обычно крепится к стене и имеет краны, подключенные к водопроводу",
-        "descriptionDE": "Eine Schüssel zum Waschen, die normalerweise an einer Wand befestigt ist und Wasserhähne hat, die an eine Wasserversorgung angeschlossen sind"
+        "descriptionDE": "Eine Schüssel zum Waschen, die normalerweise an einer Wand befestigt ist und Wasserhähne hat, die an eine Wasserversorgung angeschlossen sind",
+        "tr": "lavabo",
+        "az": "hövzə",
+        "uk": "раковина",
+        "descriptionTR": "yıkamak için bir kase, genellikle duvara takılı ve bir su kaynağına bağlı muslukları olan",
+        "descriptionAZ": "yumaq üçün bir qab, adətən divara bərkidilmiş və su təchizatına qoşulmuş kranları olan",
+        "descriptionUK": "миска для миття, зазвичай прикріплена до стіни і має крани, підключені до водопроводу"
     }, {
         "de": "schnell",
         "en": "quick",
         "ru": "быстрый",
         "descriptionEN": "moving fast or doing something in a short time",
         "descriptionRU": "двигаться быстро или делать что-то за короткое время",
-        "descriptionDE": "Schnell bewegend oder etwas in kurzer Zeit tuend"
+        "descriptionDE": "Schnell bewegend oder etwas in kurzer Zeit tuend",
+        "tr": "hızlı",
+        "az": "cəld",
+        "uk": "швидкий",
+        "descriptionTR": "hızlı hareket eden veya kısa sürede bir şey yapan",
+        "descriptionAZ": "tez hərəkət edən və ya qısa müddətdə nəsə edən",
+        "descriptionUK": "рухається швидко або робить щось за короткий час"
     }, {
         "de": "verkneifen",
         "en": "refrain",
         "ru": "воздерживаться",
         "descriptionEN": "to resist doing something",
         "descriptionRU": "сопротивляться сделать что-то",
-        "descriptionDE": "Widerstehen, etwas zu tun"
+        "descriptionDE": "Widerstehen, etwas zu tun",
+        "tr": "kaçınmak",
+        "az": "özünü saxlamaq",
+        "uk": "утримуватися",
+        "descriptionTR": "bir şeyi yapmaktan direnmek",
+        "descriptionAZ": "bir şeyi etməkdən çəkinmək",
+        "descriptionUK": "утримуватися від чогось"
     }, {
         "de": "breit",
         "en": "broad",
         "ru": "широкий",
         "descriptionEN": "having a distance larger than usual from side to side; wide",
         "descriptionRU": "имеющий расстояние, большее, чем обычно, от бока к боку; широкий",
-        "descriptionDE": "Mit einer größeren als üblich seitlichen Distanz; breit"
+        "descriptionDE": "Mit einer größeren als üblich seitlichen Distanz; breit",
+        "tr": "geniş",
+        "az": "geniş",
+        "uk": "широкий",
+        "descriptionTR": "normalden daha geniş bir mesafeye sahip; geniş",
+        "descriptionAZ": "tərəfdən tərəfə normaldan daha böyük məsafəyə malik olan; geniş",
+        "descriptionUK": "має більшу, ніж зазвичай, відстань з боку в бік; широкий"
     }, {
         "de": "nass",
         "en": "wet",
         "ru": "мокрый",
         "descriptionEN": "covered or saturated with water or another liquid",
         "descriptionRU": "покрытый или насыщенный водой или другой жидкостью",
-        "descriptionDE": "Mit Wasser oder einer anderen Flüssigkeit bedeckt oder gesättigt"
+        "descriptionDE": "Mit Wasser oder einer anderen Flüssigkeit bedeckt oder gesättigt",
+        "tr": "ıslak",
+        "az": "yaş",
+        "uk": "мокрий",
+        "descriptionTR": "su veya başka bir sıvı ile kaplı veya doymuş",
+        "descriptionAZ": "su və ya başqa bir maye ilə örtülmüş və ya doymuş",
+        "descriptionUK": "покритий або насичений водою чи іншою рідиною"
     }, {
         "de": "unerwartet",
         "en": "unexpected",
         "ru": "неожиданный",
         "descriptionEN": "not expected or regarded as likely to happen",
         "descriptionRU": "не ожидаемый или считаемый маловероятным",
-        "descriptionDE": "Nicht erwartet oder als wahrscheinlich zu geschehen angesehen"
+        "descriptionDE": "Nicht erwartet oder als wahrscheinlich zu geschehen angesehen",
+        "tr": "beklenmedik",
+        "az": "gözlənilməz",
+        "uk": "несподіваний",
+        "descriptionTR": "beklenmeyen veya olması muhtemel görülmeyen",
+        "descriptionAZ": "gözlənilməyən və ya baş verməsi ehtimalı az olan",
+        "descriptionUK": "несподіваний або не розглядається як такий, що має статися"
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
         "descriptionEN": "leaving a vivid impression or memory",
         "descriptionRU": "оставляющий яркое впечатление или память",
-        "descriptionDE": "Hinterlässt einen lebhaften Eindruck oder eine Erinnerung"
+        "descriptionDE": "Hinterlässt einen lebhaften Eindruck oder eine Erinnerung",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
+        "descriptionTR": "canlı bir izlenim veya anı bırakan",
+        "descriptionAZ": "canlı təəssürat və ya yaddaş buraxan",
+        "descriptionUK": "залишає яскраве враження або пам'ять"
     }, {
         "de": "die Klassenfahrt",
         "en": "class trip",
         "ru": "классная поездка",
         "descriptionEN": "a journey taken by a class, often for educational purposes",
         "descriptionRU": "поездка, совершаемая классом, часто в образовательных целях",
-        "descriptionDE": "Eine Reise, die von einer Klasse unternommen wird, oft zu Bildungszwecken"
+        "descriptionDE": "Eine Reise, die von einer Klasse unternommen wird, oft zu Bildungszwecken",
+        "tr": "sınıf gezisi",
+        "az": "sinif gəzintisi",
+        "uk": "класна поїздка",
+        "descriptionTR": "bir sınıfın yaptığı, genellikle eğitim amaçlı bir yolculuk",
+        "descriptionAZ": "bir sinif tərəfindən tez-tez təhsil məqsədilə edilən səyahət",
+        "descriptionUK": "поїздка, здійснена класом, часто з освітньою метою"
     }
 ]

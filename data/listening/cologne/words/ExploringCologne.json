@@ -5,209 +5,389 @@
         "ru": "пейзаж",
         "descriptionDE": "alle sichtbaren Merkmale eines Landgebiets, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet.",
         "descriptionEN": "All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
-        "descriptionRU": "все видимые особенности какой-то местности или земли, часто рассматриваемые с точки зрения их эстетической привлекательности."
+        "descriptionRU": "все видимые особенности какой-то местности или земли, часто рассматриваемые с точки зрения их эстетической привлекательности.",
+        "tr": "manzara",
+        "az": "landşaft",
+        "uk": "ландшафт",
+        "descriptionTR": "bir kırsal veya arazi alanının tüm görünür özellikleri, genellikle estetik çekicilikleri açısından değerlendirilir.",
+        "descriptionAZ": "bir ərazinin və ya torpağın bütün görünən xüsusiyyətləri, tez-tez estetik cəlbedicilikləri baxımından nəzərə alınır.",
+        "descriptionUK": "усі видимі особливості сільської місцевості або землі, часто розглядаються з точки зору їх естетичної привабливості."
     }, {
         "de": "der Frühling",
         "en": "spring",
         "ru": "весна",
         "descriptionDE": "die Jahreszeit nach dem Winter und vor dem Sommer, wenn das Wetter wärmer wird und Pflanzen wieder zum Leben erweckt werden, von der Frühjahrstagundnachtgleiche bis zur Sommersonnenwende.",
         "descriptionEN": "The season after winter and before summer when the weather becomes warmer, and plants revive, extending from the vernal equinox to the summer solstice.",
-        "descriptionRU": "сезон после зимы и перед летом, когда погода становится теплее, и растения оживают, продолжается от весеннего равноденствия до летнего солнцестояния."
+        "descriptionRU": "сезон после зимы и перед летом, когда погода становится теплее, и растения оживают, продолжается от весеннего равноденствия до летнего солнцестояния.",
+        "tr": "ilkbahar",
+        "az": "yaz",
+        "uk": "весна",
+        "descriptionTR": "kıştan sonra ve yazdan önce, havanın ısındığı ve bitkilerin yeniden canlandığı, ilkbahar ekinoksundan yaz gündönümüne kadar olan mevsim.",
+        "descriptionAZ": "qışdan sonra və yaydan əvvəl, havanın istiləşdiyi və bitkilərin canlandığı, yaz bərabərliyi ilə yay gündönümü arasında olan mövsüm.",
+        "descriptionUK": "пора року після зими і перед літом, коли погода стає теплішою, а рослини оживають, що триває від весняного рівнодення до літнього сонцестояння."
     }, {
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
         "descriptionDE": "eine festliche Jahreszeit, die vor der Fastenzeit stattfindet und typischerweise öffentliche Feierlichkeiten, Paraden sowie das Tragen von Masken und Kostümen umfasst.",
         "descriptionEN": "A festive season that occurs before Lent, typically involving public celebrations, parades, and the wearing of masks and costumes.",
-        "descriptionRU": "праздничный сезон, который происходит перед Великим постом, обычно включающий публичные празднования, парады, а также ношение масок и костюмов."
+        "descriptionRU": "праздничный сезон, который происходит перед Великим постом, обычно включающий публичные празднования, парады, а также ношение масок и костюмов.",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
+        "descriptionTR": "Büyük Perhiz'den önce gerçekleşen, tipik olarak halka açık kutlamaları, geçit törenlerini ve maske ve kostüm giymeyi içeren şenlikli bir dönem.",
+        "descriptionAZ": "Böyük Orucluqdan əvvəl baş verən, adətən ictimai şənlikləri, paradları, maska və kostyum geyməyi əhatə edən bayram mövsümü.",
+        "descriptionUK": "святковий сезон, що відбувається перед Великим постом, як правило, включає публічні святкування, паради, а також носіння масок і костюмів."
     }, {
         "de": "die Umzüge",
         "en": "parades",
         "ru": "парады",
         "descriptionDE": "eine öffentliche Prozession, besonders eine, die einen besonderen Tag oder ein besonderes Ereignis feiert.",
         "descriptionEN": "A public procession, especially one celebrating a special day or event.",
-        "descriptionRU": "публичное шествие, особенно в честь особого дня или события."
+        "descriptionRU": "публичное шествие, особенно в честь особого дня или события.",
+        "tr": "geçit törenleri",
+        "az": "paradlar",
+        "uk": "паради",
+        "descriptionTR": "halka açık bir geçit töreni, özellikle özel bir günü veya olayı kutlayan.",
+        "descriptionAZ": "ictimai yürüyüş, xüsusən də xüsusi bir günü və ya hadisəni qeyd edən.",
+        "descriptionUK": "публічна процесія, особливо та, що святкує особливий день або подію."
     }, {
         "de": "das Brauhaus",
         "en": "beer hall",
         "ru": "пивной зал",
         "descriptionDE": "eine große Kneipe oder Bar, in der Bier zusammen mit traditionellem Essen in geselliger Atmosphäre serviert wird.",
         "descriptionEN": "A large pub or bar where beer is served along with traditional food in a convivial atmosphere.",
-        "descriptionRU": "большой паб или бар, где подают пиво вместе с традиционной едой в дружелюбной атмосфере."
+        "descriptionRU": "большой паб или бар, где подают пиво вместе с традиционной едой в дружелюбной атмосфере.",
+        "tr": "bira salonu",
+        "az": "pivə zalı",
+        "uk": "пивний зал",
+        "descriptionTR": "geleneksel yemeklerle birlikte biranın samimi bir ortamda servis edildiği büyük bir pub veya bar.",
+        "descriptionAZ": "ənənəvi yeməklərlə birlikdə pivənin səmimi bir atmosferdə təqdim edildiyi böyük bir pab və ya bar.",
+        "descriptionUK": "велика пивна або бар, де пиво подається разом з традиційною їжею в невимушеній атмосфері."
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
         "descriptionDE": "ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
-        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
+        "descriptionTR": "tarihi, bilimsel, sanatsal veya kültürel önemi olan nesnelerin saklandığı ve sergilendiği bir bina.",
+        "descriptionAZ": "tarixi, elmi, bədii və ya mədəni əhəmiyyətli əşyaların saxlandığı və sərgiləndiyi bina.",
+        "descriptionUK": "будівля, в якій зберігаються та виставляються об'єкти історичного, наукового, художнього або культурного інтересу."
     }, {
         "de": "der Nationalsozialismus",
         "en": "National Socialism",
         "ru": "национал-социализм",
         "descriptionDE": "die Ideologie und Politik, die mit der nationalsozialistischen Partei Adolf Hitlers im nationalsozialistischen Deutschland verbunden ist und durch extreme autoritäre und nationalistische Ansichten gekennzeichnet ist.",
         "descriptionEN": "The ideology and policies associated with Adolf Hitler's Nazi Party in Nazi Germany, characterized by extreme authoritarian and nationalistic views.",
-        "descriptionRU": "идеология и политика, связанные с нацистской партией Адольфа Гитлера в нацистской Германии, характеризующиеся крайне авторитарными и националистическими взглядами."
+        "descriptionRU": "идеология и политика, связанные с нацистской партией Адольфа Гитлера в нацистской Германии, характеризующиеся крайне авторитарными и националистическими взглядами.",
+        "tr": "Nasyonal Sosyalizm",
+        "az": "Milli Sosializm",
+        "uk": "Націонал-соціалізм",
+        "descriptionTR": "Adolf Hitler'in Nazi Partisi ile Nazi Almanyası'nda ilişkilendirilen, aşırı otoriter ve milliyetçi görüşlerle karakterize edilen ideoloji ve politikalar.",
+        "descriptionAZ": "Adolf Hitlerin Nasist Partiyası ilə Nasist Almaniyasında əlaqəli olan, ifrat avtoritar və millətçi baxışlarla xarakterizə olunan ideologiya və siyasətlər.",
+        "descriptionUK": "ідеологія та політика, пов'язані з нацистською партією Адольфа Гітлера в нацистській Німеччині, що характеризуються крайніми авторитарними та націоналістичними поглядами."
     }, {
         "de": "der Flohmarkt",
         "en": "flea market",
         "ru": "блошиный рынок",
         "descriptionDE": "ein Markt, der in der Regel im Freien stattfindet, auf dem Gebrauchtwaren verkauft werden.",
         "descriptionEN": "A market, typically held outdoors, where secondhand goods are sold.",
-        "descriptionRU": "рынок, обычно проводимый на открытом воздухе, где продаются поддержанные товары."
+        "descriptionRU": "рынок, обычно проводимый на открытом воздухе, где продаются поддержанные товары.",
+        "tr": "bit pazarı",
+        "az": "birə bazarı",
+        "uk": "блошиний ринок",
+        "descriptionTR": "genellikle açık havada kurulan, ikinci el eşyaların satıldığı bir pazar.",
+        "descriptionAZ": "adətən açıq havada keçirilən, ikinci əl malların satıldığı bir bazar.",
+        "descriptionUK": "ринок, як правило, на відкритому повітрі, де продаються вживані товари."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
         "descriptionDE": "etwas mit Respekt oder warmer Zustimmung betrachten (Objekt, Qualität oder Person).",
         "descriptionEN": "Regard (an object, quality, or person) with respect or warm approval.",
-        "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением."
+        "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением.",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionTR": "(bir nesneye, özelliğe veya kişiye) saygı veya sıcak bir onay ile bakmak.",
+        "descriptionAZ": "(obyektə, keyfiyyətə və ya şəxsə) hörmət və ya səmimi rəğbətlə baxmaq.",
+        "descriptionUK": "ставитися (до об'єкта, якості або людини) з повагою або теплою прихильністю."
     }, {
         "de": "meiden",
         "en": "avoid",
         "ru": "избегать",
         "descriptionDE": "sich absichtlich von etwas fernhalten oder aufhören zu benutzen; sich fernhalten.",
         "descriptionEN": "Deliberately stay away from or stop using; keep away from.",
-        "descriptionRU": "сознательно держаться в стороне от чего-либо или прекратить использование; держаться в стороне."
+        "descriptionRU": "сознательно держаться в стороне от чего-либо или прекратить использование; держаться в стороне.",
+        "tr": "kaçınmak",
+        "az": "qaçınmaq",
+        "uk": "уникати",
+        "descriptionTR": "bir şeyden kasten uzak durmak veya kullanmayı bırakmak; uzak durmak.",
+        "descriptionAZ": "qəsdən uzaq durmaq və ya istifadə etməyi dayandırmaq; uzaq durmaq.",
+        "descriptionUK": "свідомо триматися подалі від чогось або припинити використання; триматися подалі."
     }, {
         "de": "kitschig",
         "en": "kitschy",
         "ru": "кичливый",
         "descriptionDE": "als geschmacklos angesehen wegen übermäßiger Schrillheit oder Sentimentalität.",
         "descriptionEN": "Considered to be in poor taste because of excessive garishness or sentimentality.",
-        "descriptionRU": "считающийся плохим вкусом из-за избыточной яркости или сентиментальности."
+        "descriptionRU": "считающийся плохим вкусом из-за избыточной яркости или сентиментальности.",
+        "tr": "kitsch",
+        "az": "kitsç",
+        "uk": "кітчевий",
+        "descriptionTR": "aşırı gösteriş veya duygusallık nedeniyle zevksiz kabul edilen.",
+        "descriptionAZ": "həddindən artıq qəşənglik və ya sentimentalizm səbəbindən zövqsüz hesab olunan.",
+        "descriptionUK": "вважається несмачним через надмірну химерність або сентиментальність."
     }, {
         "de": "ausgefallen",
         "en": "fancy",
         "ru": "изысканный",
         "descriptionDE": "ausführlich in Struktur oder Dekoration; luxuriös.",
         "descriptionEN": "Elaborate in structure or decoration; luxurious.",
-        "descriptionRU": "сложный по структуре или украшению; роскошный."
+        "descriptionRU": "сложный по структуре или украшению; роскошный.",
+        "tr": "süslü",
+        "az": "qəşəng",
+        "uk": "вишуканий",
+        "descriptionTR": "yapı veya dekorasyonda ayrıntılı; lüks.",
+        "descriptionAZ": "strukturda və ya bəzəkdə mürəkkəb; dəbdəbəli.",
+        "descriptionUK": "вишуканий за структурою або оздобленням; розкішний."
     }, {
         "de": "spät",
         "en": "late",
         "ru": "поздно",
         "descriptionDE": "nach der üblichen oder erwarteten Zeit auftretend oder getan.",
         "descriptionEN": "Occurring or done after the usual or expected time.",
-        "descriptionRU": "происходящий или сделанный после обычного или ожидаемого времени."
+        "descriptionRU": "происходящий или сделанный после обычного или ожидаемого времени.",
+        "tr": "geç",
+        "az": "gec",
+        "uk": "пізно",
+        "descriptionTR": "olağan veya beklenen zamandan sonra meydana gelen veya yapılan.",
+        "descriptionAZ": "adi və ya gözlənilən vaxtdan sonra baş verən və ya edilən.",
+        "descriptionUK": "що відбувається або робиться після звичайного або очікуваного часу."
     }, {
         "de": "die Höhe",
         "en": "height",
         "ru": "высота",
         "descriptionDE": "die Messung von der Basis bis zur Spitze oder der oberen Oberfläche von etwas.",
         "descriptionEN": "The measurement from base to top or the upper surface of something.",
-        "descriptionRU": "измерение от основания до вершины или верхней поверхности чего-либо."
+        "descriptionRU": "измерение от основания до вершины или верхней поверхности чего-либо.",
+        "tr": "yükseklik",
+        "az": "hündürlük",
+        "uk": "висота",
+        "descriptionTR": "bir şeyin tabandan tepeye veya üst yüzeyine olan ölçüsü.",
+        "descriptionAZ": "bir şeyin əsasından yuxarı hissəsinə və ya üst səthinə qədər olan ölçüsü.",
+        "descriptionUK": "вимірювання від основи до вершини або верхньої поверхні чогось."
     }, {
         "de": "die Souvenirs",
         "en": "souvenirs",
         "ru": "сувениры",
         "descriptionDE": "Gegenstände, die als Erinnerung an eine Person, einen Ort oder ein Ereignis aufbewahrt werden; ein Andenken.",
         "descriptionEN": "Items kept as a reminder of a person, place, or event; a memento.",
-        "descriptionRU": "предметы, хранящиеся в качестве напоминания о человеке, месте или событии; сувенир."
+        "descriptionRU": "предметы, хранящиеся в качестве напоминания о человеке, месте или событии; сувенир.",
+        "tr": "hediyelik eşyalar",
+        "az": "suvenirlər",
+        "uk": "сувеніри",
+        "descriptionTR": "bir kişiyi, yeri veya olayı hatırlatmak için saklanan eşyalar; bir hatıra.",
+        "descriptionAZ": "şəxs, yer və ya hadisəni xatırlamaq üçün saxlanılan əşyalar; bir xatirə.",
+        "descriptionUK": "предмети, що зберігаються як нагадування про особу, місце або подію; сувенір."
     }, {
         "de": "der Kiosk",
         "en": "kiosk",
         "ru": "киоск",
         "descriptionDE": "eine kleine offene Hütte oder Kabine, aus der Zeitungen, Erfrischungen, Tickets usw. verkauft werden.",
         "descriptionEN": "A small open-fronted hut or cubicle from which newspapers, refreshments, tickets, etc., are sold.",
-        "descriptionRU": "небольшая открытая будка или кабина, из которой продают газеты, закуски, билеты и т.д."
+        "descriptionRU": "небольшая открытая будка или кабина, из которой продают газеты, закуски, билеты и т.д.",
+        "tr": "büfe",
+        "az": "köşk",
+        "uk": "кіоск",
+        "descriptionTR": "gazeteler, yiyecekler, biletler vb. satılan küçük, önü açık bir kulübe veya kabin.",
+        "descriptionAZ": "qəzetlər, sərinləşdirici içkilər, biletlər və s. satılan kiçik, açıq önlü koma və ya qapalı yer.",
+        "descriptionUK": "невелика відкрита хатина або кабінка, з якої продаються газети, напої, квитки тощо."
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
         "descriptionDE": "ein großer, fließender Wasserlauf, der in der Regel durch zwei oder mehr Ströme gebildet wird und in ein Meer oder einen anderen großen Wasserlauf mündet.",
         "descriptionEN": "A large, flowing body of water usually formed by two or more streams, emptying into a sea or other large body of water.",
-        "descriptionRU": "большое, течущее водоем, обычно образованное двумя или более ручьями, впадающими в море или другое большое водоем."
+        "descriptionRU": "большое, течущее водоем, обычно образованное двумя или более ручьями, впадающими в море или другое большое водоем.",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
+        "descriptionTR": "genellikle iki veya daha fazla akarsudan oluşan, denize veya başka bir büyük su kütlesine dökülen büyük, akan bir su kütlesi.",
+        "descriptionAZ": "adətən iki və ya daha çox axından əmələ gələn, dənizə və ya digər böyük su kütləsinə axan böyük, axan su kütləsi.",
+        "descriptionUK": "велика, проточна водойма, зазвичай утворена двома або більше струмками, що впадає в море або іншу велику водойму."
     }, {
         "de": "die Zellen",
         "en": "cells",
         "ru": "клетки",
         "descriptionDE": "die kleinste strukturelle und funktionelle Einheit eines Organismus, typischerweise mikroskopisch und bestehend aus Zytoplasma und einem Kern, der von einer Membran umgeben ist.",
         "descriptionEN": "The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane.",
-        "descriptionRU": "наименьшая структурная и функциональная единица организма, обычно микроскопическая и состоящая из цитоплазмы и ядра, заключенных в мембрану."
+        "descriptionRU": "наименьшая структурная и функциональная единица организма, обычно микроскопическая и состоящая из цитоплазмы и ядра, заключенных в мембрану.",
+        "tr": "hücreler",
+        "az": "hüceyrələr",
+        "uk": "клітини",
+        "descriptionTR": "bir organizmanın en küçük yapısal ve işlevsel birimi, tipik olarak mikroskobik ve bir zarla çevrili sitoplazma ve bir çekirdekten oluşur.",
+        "descriptionAZ": "orqanizmin ən kiçik struktur və funksional vahidi, tipik olaraq mikroskopik və sitoplazma ilə nüvədən ibarət olub, membranla əhatə olunmuşdur.",
+        "descriptionUK": "найменша структурна і функціональна одиниця організму, як правило, мікроскопічна, що складається з цитоплазми та ядра, оточених мембраною."
     }, {
         "de": "der Nachtflohmarkt",
         "en": "night flea market",
         "ru": "ночной блошиный рынок",
         "descriptionDE": "ein Flohmarkt, der nachts stattfindet und in der Regel gebrauchte Waren und eine lebendige Atmosphäre bietet.",
         "descriptionEN": "A flea market that takes place during the night, typically featuring secondhand goods and a lively atmosphere.",
-        "descriptionRU": "блошиный рынок, который проводится ночью, обычно с поддержанными товарами и живой атмосферой."
+        "descriptionRU": "блошиный рынок, который проводится ночью, обычно с поддержанными товарами и живой атмосферой.",
+        "tr": "gece bit pazarı",
+        "az": "gecə birə bazarı",
+        "uk": "нічний блошиний ринок",
+        "descriptionTR": "genellikle ikinci el eşyaların ve canlı bir atmosferin bulunduğu, geceleri kurulan bir bit pazarı.",
+        "descriptionAZ": "adətən ikinci əl malların və canlı atmosferin olduğu, gecə keçirilən birə bazarı.",
+        "descriptionUK": "блошиний ринок, що відбувається вночі, зазвичай з вживаними товарами та жвавою атмосферою."
     }, {
         "de": "die Eifel",
         "en": "Eifel",
         "ru": "Эйфель",
         "descriptionDE": "eine niedrige Bergkette in Westdeutschland und Ostbelgien, bekannt für ihre malerischen Landschaften und Outdoor-Aktivitäten.",
         "descriptionEN": "A low mountain range in western Germany and eastern Belgium, known for its scenic landscapes and outdoor activities.",
-        "descriptionRU": "низкая горная цепь на западе Германии и востоке Бельгии, известная своими живописными пейзажами и активными видами отдыха."
+        "descriptionRU": "низкая горная цепь на западе Германии и востоке Бельгии, известная своими живописными пейзажами и активными видами отдыха.",
+        "tr": "Eifel",
+        "az": "Eifel",
+        "uk": "Ейфель",
+        "descriptionTR": "Batı Almanya ve Doğu Belçika'da yer alan, doğal manzaraları ve açık hava etkinlikleriyle bilinen alçak bir dağ silsilesi.",
+        "descriptionAZ": "Qərbi Almaniya və Şərqi Belçikada yerləşən, mənzərəli təbiəti və açıq havada fəaliyyətləri ilə tanınan alçaq dağ silsiləsi.",
+        "descriptionUK": "низькогірний масив у Західній Німеччині та Східній Бельгії, відомий своїми мальовничими ландшафтами та активним відпочинком."
     }, {
         "de": "der Sauerland",
         "en": "Sauerland",
         "ru": "Зауэрланд",
         "descriptionDE": "eine Region in Westdeutschland, bekannt für ihre Wälder, Hügel und Wintersportaktivitäten.",
         "descriptionEN": "A region in western Germany known for its forests, hills, and winter sports activities.",
-        "descriptionRU": "регион в западной Германии, известный своими лесами, холмами и зимними видами спорта."
+        "descriptionRU": "регион в западной Германии, известный своими лесами, холмами и зимними видами спорта.",
+        "tr": "Sauerland",
+        "az": "Sauerland",
+        "uk": "Зауерланд",
+        "descriptionTR": "Batı Almanya'da ormanları, tepeleri ve kış sporları aktiviteleriyle bilinen bir bölge.",
+        "descriptionAZ": "Qərbi Almaniyada meşələri, təpələri və qış idman fəaliyyətləri ilə tanınan bir bölgə.",
+        "descriptionUK": "регіон у Західній Німеччині, відомий своїми лісами, пагорбами та зимовими видами спорту."
     }, {
         "de": "die Winter",
         "en": "winter",
         "ru": "зима",
         "descriptionDE": "die kälteste Jahreszeit des Jahres, auf der Nordhalbkugel von Dezember bis Februar und auf der Südhalbkugel von Juni bis August.",
         "descriptionEN": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
-        "descriptionRU": "самый холодный сезон года, на северном полушарии с декабря по февраль, а на южном полушарии с июня по август."
+        "descriptionRU": "самый холодный сезон года, на северном полушарии с декабря по февраль, а на южном полушарии с июня по август.",
+        "tr": "kış",
+        "az": "qış",
+        "uk": "зима",
+        "descriptionTR": "yılın en soğuk mevsimi, kuzey yarımkürede aralıktan şubata, güney yarımkürede ise hazirandan ağustosa kadar.",
+        "descriptionAZ": "ilin ən soyuq fəsli, şimal yarımkürəsində dekabrdan fevraladək, cənub yarımkürəsində isə iyundan avqustadək davam edir.",
+        "descriptionUK": "найхолодніша пора року, в північній півкулі з грудня по лютий, а в південній півкулі з червня по серпень."
     }, {
         "de": "die Gärten",
         "en": "gardens",
         "ru": "сады",
         "descriptionDE": "Flächen, auf denen Blumen und Pflanzen aus dekorativen Gründen angebaut werden.",
         "descriptionEN": "Areas of ground where flowers and plants are grown for decorative purposes.",
-        "descriptionRU": "участки земли, где выращивают цветы и растения в декоративных целях."
+        "descriptionRU": "участки земли, где выращивают цветы и растения в декоративных целях.",
+        "tr": "bahçeler",
+        "az": "bağlar",
+        "uk": "сади",
+        "descriptionTR": "çiçek ve bitkilerin dekoratif amaçlarla yetiştirildiği alanlar.",
+        "descriptionAZ": "gül və bitkilərin dekorativ məqsədlər üçün yetişdirildiyi ərazilər.",
+        "descriptionUK": "ділянки землі, де вирощуються квіти та рослини в декоративних цілях."
     }, {
         "de": "das Stadtzentrum",
         "en": "city center",
         "ru": "центр города",
         "descriptionDE": "der zentrale Teil oder die Hauptgeschäfts- und Handelszone einer Stadt.",
         "descriptionEN": "The central part or main business and commercial area of a city.",
-        "descriptionRU": "центральная часть или основная бизнес- и коммерческая зона города."
+        "descriptionRU": "центральная часть или основная бизнес- и коммерческая зона города.",
+        "tr": "şehir merkezi",
+        "az": "şəhər mərkəzi",
+        "uk": "центр міста",
+        "descriptionTR": "bir şehrin merkezi veya ana iş ve ticaret alanı.",
+        "descriptionAZ": "şəhərin mərkəzi hissəsi və ya əsas iş və ticarət sahəsi.",
+        "descriptionUK": "центральна частина або головна ділова та комерційна зона міста."
     }, {
         "de": "die Altstadt",
         "en": "old town",
         "ru": "старый город",
         "descriptionDE": "der historische, originale Kern einer Stadt oder eines Dorfes.",
         "descriptionEN": "The historic, original core of a city or town.",
-        "descriptionRU": "историческое, первоначальное ядро города или города."
+        "descriptionRU": "историческое, первоначальное ядро города или города.",
+        "tr": "eski şehir",
+        "az": "köhnə şəhər",
+        "uk": "старе місто",
+        "descriptionTR": "bir şehrin veya kasabanın tarihi, orijinal çekirdeği.",
+        "descriptionAZ": "bir şəhərin və ya qəsəbənin tarixi, orijinal nüvəsi.",
+        "descriptionUK": "історичне, оригінальне ядро міста або містечка."
     }, {
         "de": "die Höhe Straße",
         "en": "Hohe Straße",
         "ru": "Хоэ Штрассе",
         "descriptionDE": "eine bekannte Einkaufsstraße in der Altstadt von Köln, Deutschland.",
         "descriptionEN": "A well-known shopping street in the old town of Cologne, Germany.",
-        "descriptionRU": "известная торговая улица в старом городе Кёльна, Германия."
+        "descriptionRU": "известная торговая улица в старом городе Кёльна, Германия.",
+        "tr": "Hohe Straße",
+        "az": "Hohe küçəsi",
+        "uk": "Хое Штрассе",
+        "descriptionTR": "Almanya'nın Köln şehrinin eski kentindeki tanınmış bir alışveriş caddesi.",
+        "descriptionAZ": "Almaniyanın Köln şəhərinin qədim şəhərində tanınmış ticarət küçəsi.",
+        "descriptionUK": "відома торгова вулиця в старому місті Кельна, Німеччина."
     }, {
         "de": "der König",
         "en": "king",
         "ru": "король",
         "descriptionDE": "ein männlicher Herrscher eines unabhängigen Staates, besonders einer, der die Position durch Geburtsrecht erbt.",
         "descriptionEN": "A male ruler of an independent state, especially one who inherits the position by right of birth.",
-        "descriptionRU": "мужской правитель независимого государства, особенно тот, кто унаследовал должность по праву рождения."
+        "descriptionRU": "мужской правитель независимого государства, особенно тот, кто унаследовал должность по праву рождения.",
+        "tr": "kral",
+        "az": "kral",
+        "uk": "король",
+        "descriptionTR": "bağımsız bir devletin erkek hükümdarı, özellikle de pozisyonu doğum hakkıyla miras alan biri.",
+        "descriptionAZ": "müstəqil dövlətin kişi hökmdarı, xüsusən də vəzifəni doğum hüququ ilə miras alan biri.",
+        "descriptionUK": "чоловічий правитель незалежної держави, особливо той, хто успадковує посаду за правом народження."
     }, {
         "de": "der Stadtteil",
         "en": "neighborhood",
         "ru": "район города",
         "descriptionDE": "ein Bezirk oder eine Gemeinschaft innerhalb einer Stadt oder eines Dorfes.",
         "descriptionEN": "A district or community within a town or city.",
-        "descriptionRU": "район или сообщество внутри города."
+        "descriptionRU": "район или сообщество внутри города.",
+        "tr": "mahalle",
+        "az": "məhəllə",
+        "uk": "район",
+        "descriptionTR": "bir kasaba veya şehir içindeki bir bölge veya topluluk.",
+        "descriptionAZ": "şəhər və ya qəsəbə daxilində bir rayon və ya icma.",
+        "descriptionUK": "район або громада в межах міста або селища."
     }, {
         "de": "das Geschenk",
         "en": "gift",
         "ru": "подарок",
         "descriptionDE": "eine Sache, die jemandem freiwillig ohne Bezahlung gegeben wird; ein Geschenk.",
         "descriptionEN": "A thing given willingly to someone without payment; a present.",
-        "descriptionRU": "вещь, даримая кому-то добровольно без оплаты; подарок."
+        "descriptionRU": "вещь, даримая кому-то добровольно без оплаты; подарок.",
+        "tr": "hediye",
+        "az": "hədiyyə",
+        "uk": "подарунок",
+        "descriptionTR": "birine ödeme yapmadan gönüllü olarak verilen bir şey; bir armağan.",
+        "descriptionAZ": "kiməsə könüllü olaraq ödənişsiz verilən bir şey; hədiyyə.",
+        "descriptionUK": "річ, що дається комусь добровільно без оплати; подарунок."
     }, {
         "de": "der Genuss",
         "en": "enjoyment",
         "ru": "наслаждение",
         "descriptionDE": "der Zustand oder Prozess, Freude an etwas zu haben.",
         "descriptionEN": "The state or process of taking pleasure in something.",
-        "descriptionRU": "состояние или процесс получения удовольствия от чего-то."
+        "descriptionRU": "состояние или процесс получения удовольствия от чего-то.",
+        "tr": "keyif",
+        "az": "zövq",
+        "uk": "насолода",
+        "descriptionTR": "bir şeyden zevk alma durumu veya süreci.",
+        "descriptionAZ": "nədənsə zövq alma vəziyyəti və ya prosesi.",
+        "descriptionUK": "стан або процес отримання задоволення від чогось."
     }
 ]

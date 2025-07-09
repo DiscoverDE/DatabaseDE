@@ -5,153 +5,285 @@
         "ru": "путешествие",
         "descriptionEN": "an act of traveling from one place to another.",
         "descriptionRU": "акт путешествия из одного места в другое.",
-        "descriptionDE": "eine Reise von einem Ort zum anderen."
+        "descriptionDE": "eine Reise von einem Ort zum anderen.",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "подорож",
+        "descriptionTR": "bir yerden başka bir yere seyahat etme eylemi.",
+        "descriptionAZ": "bir yerdən başqa yerə səyahət etmək hərəkəti.",
+        "descriptionUK": "акт подорожі з одного місця в інше."
     }, {
         "de": "die Freunde",
         "en": "friends",
         "ru": "друзья",
         "descriptionEN": "people whom one knows and with whom one has a bond of mutual affection.",
         "descriptionRU": "люди, которых знаешь и с которыми имеешь взаимную привязанность.",
-        "descriptionDE": "Menschen, die man kennt und mit denen man eine gegenseitige Zuneigung hat."
+        "descriptionDE": "Menschen, die man kennt und mit denen man eine gegenseitige Zuneigung hat.",
+        "tr": "arkadaşlar",
+        "az": "dostlar",
+        "uk": "друзі",
+        "descriptionTR": "tanıdığı ve karşılıklı sevgi bağı olan kişiler.",
+        "descriptionAZ": "tanıdığı və qarşılıqlı məhəbbət bağı olan insanlar.",
+        "descriptionUK": "люди, яких знаєш і з якими маєш зв'язок взаємної прихильності."
     }, {
         "de": "das Unternehmen",
         "en": "company",
         "ru": "компания",
         "descriptionEN": "a business organization that makes, buys, or sells goods or services.",
         "descriptionRU": "бизнес-организация, которая производит, покупает или продает товары или услуги.",
-        "descriptionDE": "ein Wirtschaftsunternehmen, das Waren oder Dienstleistungen herstellt, kauft oder verkauft."
+        "descriptionDE": "ein Wirtschaftsunternehmen, das Waren oder Dienstleistungen herstellt, kauft oder verkauft.",
+        "tr": "şirket",
+        "az": "şirkət",
+        "uk": "компанія",
+        "descriptionTR": "mal veya hizmet üreten, satın alan veya satan bir ticari kuruluş.",
+        "descriptionAZ": "məhsul və ya xidmətlər istehsal edən, alan və ya satan bir biznes təşkilatı.",
+        "descriptionUK": "бізнес-організація, що виробляє, купує або продає товари чи послуги."
     }, {
         "de": "das Praktikum",
         "en": "internship",
         "ru": "стажировка",
         "descriptionEN": "a period of work experience offered by an organization for a limited period of time.",
         "descriptionRU": "период работы, предлагаемый организацией на ограниченный период времени.",
-        "descriptionDE": "ein Zeitraum von Arbeitserfahrung, der von einer Organisation für eine begrenzte Zeit angeboten wird."
+        "descriptionDE": "ein Zeitraum von Arbeitserfahrung, der von einer Organisation für eine begrenzte Zeit angeboten wird.",
+        "tr": "staj",
+        "az": "təcrübə",
+        "uk": "стажування",
+        "descriptionTR": "bir kuruluş tarafından sınırlı bir süre için sunulan bir iş deneyimi dönemi.",
+        "descriptionAZ": "bir təşkilat tərəfindən məhdud müddətə təklif olunan iş təcrübəsi dövrü.",
+        "descriptionUK": "період досвіду роботи, пропонований організацією на обмежений період часу."
     }, {
         "de": "die E-Mail",
         "en": "email",
         "ru": "электронная почта",
         "descriptionEN": "a system for sending messages from one computer to another computer.",
         "descriptionRU": "система для отправки сообщений с одного компьютера на другой.",
-        "descriptionDE": "ein System zum Senden von Nachrichten von einem Computer zum anderen."
+        "descriptionDE": "ein System zum Senden von Nachrichten von einem Computer zum anderen.",
+        "tr": "e-posta",
+        "az": "e-poçt",
+        "uk": "електронна пошта",
+        "descriptionTR": "bir bilgisayardan başka bir bilgisayara mesaj göndermek için bir sistem.",
+        "descriptionAZ": "bir kompüterdən başqa bir kompüterə mesaj göndərmək üçün bir sistem.",
+        "descriptionUK": "система для надсилання повідомлень з одного комп'ютера на інший."
     }, {
         "de": "die Stelle",
         "en": "position",
         "ru": "должность",
         "descriptionEN": "a job in a company or organization.",
         "descriptionRU": "работа в компании или организации.",
-        "descriptionDE": "eine Anstellung in einem Unternehmen oder einer Organisation."
+        "descriptionDE": "eine Anstellung in einem Unternehmen oder einer Organisation.",
+        "tr": "pozisyon",
+        "az": "vəzifə",
+        "uk": "посада",
+        "descriptionTR": "bir şirket veya organizasyonda bir iş.",
+        "descriptionAZ": "bir şirkətdə və ya təşkilatda bir iş.",
+        "descriptionUK": "робота в компанії або організації."
     }, {
         "de": "die Softwareentwicklung",
         "en": "software development",
         "ru": "разработка программного обеспечения",
         "descriptionEN": "the process of creating and maintaining applications and frameworks.",
         "descriptionRU": "процесс создания и поддержания приложений и фреймворков.",
-        "descriptionDE": "der Prozess der Erstellung und Pflege von Anwendungen und Frameworks."
+        "descriptionDE": "der Prozess der Erstellung und Pflege von Anwendungen und Frameworks.",
+        "tr": "yazılım geliştirme",
+        "az": "proqram təminatının inkişafı",
+        "uk": "розробка програмного забезпечення",
+        "descriptionTR": "uygulamaları ve çerçeveleri oluşturma ve sürdürme süreci.",
+        "descriptionAZ": "tətbiqlər və çərçivələr yaratma və saxlama prosesi.",
+        "descriptionUK": "процес створення та підтримки програм і фреймворків."
     }, {
         "de": "das Technologieunternehmen",
         "en": "technology company",
         "ru": "технологическая компания",
         "descriptionEN": "a company that focuses on the development and manufacturing of technology.",
         "descriptionRU": "компания, которая сосредотачивается на разработке и производстве технологий.",
-        "descriptionDE": "ein Unternehmen, das sich auf die Entwicklung und Herstellung von Technologie konzentriert."
+        "descriptionDE": "ein Unternehmen, das sich auf die Entwicklung und Herstellung von Technologie konzentriert.",
+        "tr": "teknoloji şirketi",
+        "az": "texnologiya şirkəti",
+        "uk": "технологічна компанія",
+        "descriptionTR": "teknolojinin geliştirilmesi ve üretimine odaklanan bir şirket.",
+        "descriptionAZ": "texnologiyanın inkişafı və istehsalına yönəlmiş bir şirkət.",
+        "descriptionUK": "компанія, яка зосереджується на розробці та виробництві технологій."
     }, {
         "de": "der Bewerber",
         "en": "applicant",
         "ru": "соискатель",
         "descriptionEN": "a person who applies for a job or is nominated for a position.",
         "descriptionRU": "человек, который подает заявку на работу или номинируется на должность.",
-        "descriptionDE": "eine Person, die sich um eine Stelle bewirbt oder für eine Position nominiert wird."
+        "descriptionDE": "eine Person, die sich um eine Stelle bewirbt oder für eine Position nominiert wird.",
+        "tr": "aday",
+        "az": "namizəd",
+        "uk": "заявник",
+        "descriptionTR": "bir işe başvuran veya bir pozisyona aday gösterilen kişi.",
+        "descriptionAZ": "bir işə müraciət edən və ya bir vəzifəyə namizəd göstərilən şəxs.",
+        "descriptionUK": "особа, яка подає заяву на роботу або номінується на посаду."
     }, {
         "de": "die Konkurrenz",
         "en": "competition",
         "ru": "конкуренция",
         "descriptionEN": "the activity or condition of striving to gain or win something.",
         "descriptionRU": "деятельность или условие, стремление получить или выиграть что-либо.",
-        "descriptionDE": "die Tätigkeit oder Bedingung, etwas zu gewinnen oder zu erlangen."
+        "descriptionDE": "die Tätigkeit oder Bedingung, etwas zu gewinnen oder zu erlangen.",
+        "tr": "rekabet",
+        "az": "rəqabət",
+        "uk": "конкуренція",
+        "descriptionTR": "bir şey kazanmak veya elde etmek için çabalama etkinliği veya durumu.",
+        "descriptionAZ": "nəyisə qazanmaq və ya əldə etmək üçün mübarizə fəaliyyəti və ya vəziyyəti.",
+        "descriptionUK": "діяльність або умова прагнення отримати або виграти щось."
     }, {
         "de": "das Ausland",
         "en": "foreign country",
         "ru": "зарубежная страна",
         "descriptionEN": "a country other than one's own.",
         "descriptionRU": "страна, отличная от своей собственной.",
-        "descriptionDE": "ein anderes Land als das eigene."
+        "descriptionDE": "ein anderes Land als das eigene.",
+        "tr": "yabancı ülke",
+        "az": "xarici ölkə",
+        "uk": "закордонна країна",
+        "descriptionTR": "kendi ülkesinden başka bir ülke.",
+        "descriptionAZ": "öz ölkəsindən başqa bir ölkə.",
+        "descriptionUK": "країна, відмінна від власної."
     }, {
         "de": "die Herausforderung",
         "en": "challenge",
         "ru": "вызов",
         "descriptionEN": "tasks or problems that test a person's abilities.",
         "descriptionRU": "задачи или проблемы, которые проверяют способности человека.",
-        "descriptionDE": "Aufgaben oder Probleme, die die Fähigkeiten einer Person testen."
+        "descriptionDE": "Aufgaben oder Probleme, die die Fähigkeiten einer Person testen.",
+        "tr": "meydan okuma",
+        "az": "çağırış",
+        "uk": "виклик",
+        "descriptionTR": "bir kişinin yeteneklerini test eden görevler veya problemler.",
+        "descriptionAZ": "bir şəxsin qabiliyyətlərini yoxlayan vəzifələr və ya problemlər.",
+        "descriptionUK": "завдання або проблеми, які перевіряють здібності людини."
     }, {
         "de": "bekommen",
         "en": "to receive",
         "ru": "получить",
         "descriptionEN": "to be given, presented with, or paid something.",
         "descriptionRU": "быть одаренным, представленным или оплаченным чем-либо.",
-        "descriptionDE": "etwas erhalten, überreicht bekommen oder bezahlt bekommen."
+        "descriptionDE": "etwas erhalten, überreicht bekommen oder bezahlt bekommen.",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримати",
+        "descriptionTR": "bir şeyin verilmesi, sunulması veya ödenmesi.",
+        "descriptionAZ": "bir şey verilmək, təqdim olunmaq və ya ödənilmək.",
+        "descriptionUK": "бути даним, представленим або оплаченим чимось."
     }, {
         "de": "freuen",
         "en": "to be glad",
         "ru": "радоваться",
         "descriptionEN": "to feel or show pleasure or happiness.",
         "descriptionRU": "чувствовать или проявлять удовольствие или счастье.",
-        "descriptionDE": "Freude oder Glück empfinden oder zeigen."
+        "descriptionDE": "Freude oder Glück empfinden oder zeigen.",
+        "tr": "sevinmek",
+        "az": "sevinmək",
+        "uk": "радіти",
+        "descriptionTR": "zevk veya mutluluk hissetmek veya göstermek.",
+        "descriptionAZ": "zövq və ya xoşbəxtlik hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчувати або виявляти задоволення чи щастя."
     }, {
         "de": "sprechen",
         "en": "to speak",
         "ru": "говорить",
         "descriptionEN": "to talk to someone or say something.",
         "descriptionRU": "разговаривать с кем-то или что-то сказать.",
-        "descriptionDE": "mit jemandem sprechen oder etwas sagen."
+        "descriptionDE": "mit jemandem sprechen oder etwas sagen.",
+        "tr": "konuşmak",
+        "az": "danışmaq",
+        "uk": "говорити",
+        "descriptionTR": "biriyle konuşmak veya bir şey söylemek.",
+        "descriptionAZ": "kiminləsə danışmaq və ya nəsə demək.",
+        "descriptionUK": "розмовляти з кимось або щось сказати."
     }, {
         "de": "planen",
         "en": "to plan",
         "ru": "планировать",
         "descriptionEN": "to decide on and arrange in advance.",
         "descriptionRU": "решать и организовывать заранее.",
-        "descriptionDE": "im Voraus entscheiden und arrangieren."
+        "descriptionDE": "im Voraus entscheiden und arrangieren.",
+        "tr": "planlamak",
+        "az": "planlaşdırmaq",
+        "uk": "планувати",
+        "descriptionTR": "önceden karar vermek ve düzenlemek.",
+        "descriptionAZ": "əvvəlcədən qərar vermək və təşkil etmək.",
+        "descriptionUK": "вирішувати та організовувати заздалегідь."
     }, {
         "de": "treffen",
         "en": "to meet",
         "ru": "встречать",
         "descriptionEN": "to come into the presence or company of someone.",
         "descriptionRU": "попадать в присутствие или компанию кого-то.",
-        "descriptionDE": "in die Gegenwart oder Gesellschaft von jemandem kommen."
+        "descriptionDE": "in die Gegenwart oder Gesellschaft von jemandem kommen.",
+        "tr": "buluşmak",
+        "az": "görüşmək",
+        "uk": "зустрічати",
+        "descriptionTR": "birinin huzuruna veya arkadaşlığına gelmek.",
+        "descriptionAZ": "kiminsə hüzuruna və ya şirkətinə gəlmək.",
+        "descriptionUK": "потрапляти в присутність або компанію когось."
     }, {
         "de": "nervös",
         "en": "nervous",
         "ru": "нервный",
         "descriptionEN": "easily agitated or alarmed.",
         "descriptionRU": "легко возбудимый или встревоженный.",
-        "descriptionDE": "leicht aufgeregt oder alarmiert."
+        "descriptionDE": "leicht aufgeregt oder alarmiert.",
+        "tr": "gergin",
+        "az": "əsəbi",
+        "uk": "нервовий",
+        "descriptionTR": "kolayca sinirlenen veya telaşlanan.",
+        "descriptionAZ": "asanlıqla qıcıqlanan və ya həyəcanlanan.",
+        "descriptionUK": "легко збуджений або стривожений."
     }, {
         "de": "lang",
         "en": "long",
         "ru": "долгий",
         "descriptionEN": "measuring a great distance from end to end.",
         "descriptionRU": "измерение большого расстояния от конца до конца.",
-        "descriptionDE": "eine große Entfernung von einem Ende zum anderen messen."
+        "descriptionDE": "eine große Entfernung von einem Ende zum anderen messen.",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довгий",
+        "descriptionTR": "bir uçtan diğer uca büyük bir mesafe ölçmek.",
+        "descriptionAZ": "bir ucundan digər ucuna qədər böyük məsafə ölçmək.",
+        "descriptionUK": "вимірювання великої відстані від кінця до кінця."
     }, {
         "de": "glücklich",
         "en": "happy",
         "ru": "счастливый",
         "descriptionEN": "feeling or showing pleasure or contentment.",
         "descriptionRU": "чувствовать или проявлять удовольствие или удовлетворение.",
-        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen."
+        "descriptionDE": "Freude oder Zufriedenheit empfinden oder zeigen.",
+        "tr": "mutlu",
+        "az": "xoşbəxt",
+        "uk": "щасливий",
+        "descriptionTR": "zevk veya memnuniyet hissetmek veya göstermek.",
+        "descriptionAZ": "zövq və ya məmnuniyyət hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчувати або виявляти задоволення чи задоволення."
     }, {
         "de": "bereit",
         "en": "ready",
         "ru": "готовый",
         "descriptionEN": "in a suitable state for an activity, action, or situation.",
         "descriptionRU": "в подходящем состоянии для деятельности, действия или ситуации.",
-        "descriptionDE": "in einem geeigneten Zustand für eine Aktivität, Handlung oder Situation."
+        "descriptionDE": "in einem geeigneten Zustand für eine Aktivität, Handlung oder Situation.",
+        "tr": "hazır",
+        "az": "hazır",
+        "uk": "готовий",
+        "descriptionTR": "bir aktivite, eylem veya durum için uygun durumda.",
+        "descriptionAZ": "bir fəaliyyət, hərəkət və ya vəziyyət üçün uyğun vəziyyətdə.",
+        "descriptionUK": "у придатному стані для діяльності, дії або ситуації."
     }, {
         "de": "groß",
         "en": "large",
         "ru": "большой",
         "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
         "descriptionRU": "значительного или относительно большого размера, объема или вместимости.",
-        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
+        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität.",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
+        "descriptionTR": "önemli veya nispeten büyük boyut, kapsam veya kapasiteye sahip.",
+        "descriptionAZ": "əhəmiyyətli və ya nisbətən böyük ölçülü, həcmli və ya tutumlu.",
+        "descriptionUK": "значного або відносно великого розміру, обсягу або місткості."
     }
 ]

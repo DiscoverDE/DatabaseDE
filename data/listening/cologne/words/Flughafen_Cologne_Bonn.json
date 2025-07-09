@@ -5,174 +5,324 @@
         "ru": "аэропорт",
         "descriptionDE": "ein Ort, an dem Flugzeuge regelmäßig starten und landen, mit Einrichtungen für Passagiere.",
         "descriptionEN": "a place where aircraft regularly take off and land, with facilities for passengers.",
-        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с инфраструктурой для пассажиров."
+        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с инфраструктурой для пассажиров.",
+        "tr": "havalimanı",
+        "az": "hava limanı",
+        "uk": "аеропорт",
+        "descriptionTR": "uçakların düzenli olarak kalkıp indiği, yolcular için tesislere sahip bir yer.",
+        "descriptionAZ": "təyyarələrin müntəzəm olaraq eniş edib-qalxdığı, sərnişinlər üçün xidmətləri olan yer.",
+        "descriptionUK": "місце, де літаки регулярно злітають і сідають, з об'єктами для пасажирів."
     }, {
         "de": "die Funktionsweise",
         "en": "operation",
         "ru": "функционирование",
         "descriptionDE": "die Art und Weise, wie etwas funktioniert oder betrieben wird.",
         "descriptionEN": "the way in which something works or operates.",
-        "descriptionRU": "способ, которым что-то работает или функционирует."
+        "descriptionRU": "способ, которым что-то работает или функционирует.",
+        "tr": "işleyiş",
+        "az": "işləmə prinsipi",
+        "uk": "функціонування",
+        "descriptionTR": "bir şeyin çalışma veya işletme şekli.",
+        "descriptionAZ": "bir şeyin necə işlədiyi və ya fəaliyyət göstərdiyi.",
+        "descriptionUK": "спосіб, яким щось працює або функціонує."
     }, {
         "de": "der Passagierverkehr",
         "en": "passenger traffic",
         "ru": "пассажирский трафик",
         "descriptionDE": "die Bewegung von Passagieren zu und von einem bestimmten Ort.",
         "descriptionEN": "the movement of passengers to and from a particular place.",
-        "descriptionRU": "движение пассажиров в определенном направлении."
+        "descriptionRU": "движение пассажиров в определенном направлении.",
+        "tr": "yolcu trafiği",
+        "az": "sərnişin daşımaları",
+        "uk": "пасажиропотік",
+        "descriptionTR": "yolcuların belirli bir yere gidiş ve geliş hareketleri.",
+        "descriptionAZ": "sərnişinlərin müəyyən bir yerə hərəkəti.",
+        "descriptionUK": "рух пасажирів до певного місця та з нього."
     }, {
         "de": "das Drehkreuz",
         "en": "hub",
         "ru": "хаб",
         "descriptionDE": "ein zentraler Flughafen, der als Verbindungspunkt für Flüge dient.",
         "descriptionEN": "a central airport that serves as a connecting point for flights.",
-        "descriptionRU": "центральный аэропорт, служащий точкой пересадки для рейсов."
+        "descriptionRU": "центральный аэропорт, служащий точкой пересадки для рейсов.",
+        "tr": "aktarma merkezi",
+        "az": "mərkəz",
+        "uk": "хаб",
+        "descriptionTR": "uçuşlar için bağlantı noktası görevi gören merkezi bir havalimanı.",
+        "descriptionAZ": "uçuşlar üçün birləşdirici nöqtə kimi xidmət edən mərkəzi hava limanı.",
+        "descriptionUK": "центральний аеропорт, що слугує сполучним пунктом для рейсів."
     }, {
         "de": "die Passage",
         "en": "passage",
         "ru": "проход",
         "descriptionDE": "eine Möglichkeit für Menschen, hindurchzugehen, normalerweise ein Flur oder eine Halle.",
         "descriptionEN": "a way for people to pass through, typically a corridor or hallway.",
-        "descriptionRU": "путь для передвижения людей, обычно коридор или холл."
+        "descriptionRU": "путь для передвижения людей, обычно коридор или холл.",
+        "tr": "geçit",
+        "az": "keçid",
+        "uk": "прохід",
+        "descriptionTR": "insanların geçebileceği bir yol, genellikle bir koridor veya hol.",
+        "descriptionAZ": "insanların keçməsi üçün bir yol, adətən dəhliz və ya zal.",
+        "descriptionUK": "спосіб проходу для людей, як правило, коридор або передпокій."
     }, {
         "de": "die Luftfahrt",
         "en": "aviation",
         "ru": "авиация",
         "descriptionDE": "der Betrieb von Flugzeugen, insbesondere von Verkehrsflugzeugen.",
         "descriptionEN": "the operation of aircraft, particularly commercial airplanes.",
-        "descriptionRU": "эксплуатация воздушных судов, особенно коммерческих самолетов."
+        "descriptionRU": "эксплуатация воздушных судов, особенно коммерческих самолетов.",
+        "tr": "havacılık",
+        "az": "aviasiya",
+        "uk": "авіація",
+        "descriptionTR": "hava araçlarının, özellikle ticari uçakların işletilmesi.",
+        "descriptionAZ": "hava gəmilərinin, xüsusilə kommersiya təyyarələrinin istismarı.",
+        "descriptionUK": "експлуатація повітряних суден, зокрема комерційних літаків."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
         "descriptionDE": "das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
-        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
+        "descriptionTR": "geçmiş olayların, özellikle insan işleri alanında incelenmesi.",
+        "descriptionAZ": "keçmiş hadisələrin, xüsusilə də insan işlərinin öyrənilməsi.",
+        "descriptionUK": "вивчення минулих подій, зокрема в людських справах."
     }, {
         "de": "der Bedarf",
         "en": "need",
         "ru": "потребность",
         "descriptionDE": "eine Anforderung für etwas; notwendig oder wesentlich.",
         "descriptionEN": "a requirement for something; necessary or essential.",
-        "descriptionRU": "требование к чему-то; необходимо или существенно."
+        "descriptionRU": "требование к чему-то; необходимо или существенно.",
+        "tr": "ihtiyaç",
+        "az": "ehtiyac",
+        "uk": "потреба",
+        "descriptionTR": "bir şeye olan gereksinim; gerekli veya temel.",
+        "descriptionAZ": "bir şeyə olan tələbat; zəruri və ya vacib.",
+        "descriptionUK": "вимога до чогось; необхідне або істотне."
     }, {
         "de": "der Zugang",
         "en": "access",
         "ru": "доступ",
         "descriptionDE": "die Möglichkeit oder Gelegenheit, einen Ort zu betreten oder zu nähern.",
         "descriptionEN": "the means or opportunity to approach or enter a place.",
-        "descriptionRU": "средство или возможность подойти или войти в место."
+        "descriptionRU": "средство или возможность подойти или войти в место.",
+        "tr": "erişim",
+        "az": "çıxış",
+        "uk": "доступ",
+        "descriptionTR": "bir yere yaklaşma veya girme imkanı veya fırsatı.",
+        "descriptionAZ": "bir yerə yaxınlaşmaq və ya daxil olmaq imkanı və ya fürsəti.",
+        "descriptionUK": "засіб або можливість наблизитися до місця або увійти в нього."
     }, {
         "de": "das Terminal",
         "en": "terminal",
         "ru": "терминал",
         "descriptionDE": "ein Gebäude auf einem Flughafen, in dem Passagiere zwischen Landtransport und Einrichtungen wechseln, die ihnen das Ein- und Aussteigen aus Flugzeugen ermöglichen.",
         "descriptionEN": "a building at an airport where passengers transfer between ground transportation and the facilities that allow them to board and disembark from aircraft.",
-        "descriptionRU": "здание на аэропорту, где пассажиры переходят между наземным транспортом и объектами, позволяющими им садиться и высаживаться из воздушных судов."
+        "descriptionRU": "здание на аэропорту, где пассажиры переходят между наземным транспортом и объектами, позволяющими им садиться и высаживаться из воздушных судов.",
+        "tr": "terminal",
+        "az": "terminal",
+        "uk": "термінал",
+        "descriptionTR": "yolcuların kara ulaşımından uçaklara binip inmelerini sağlayan tesislere geçiş yaptığı bir havaalanı binası.",
+        "descriptionAZ": "hava limanında sərnişinlərin quru nəqliyyatından təyyarələrə minib düşmələrinə imkan verən binalar.",
+        "descriptionUK": "будівля в аеропорту, де пасажири переходять між наземним транспортом та об'єктами, що дозволяють їм сідати та висаджуватися з літаків."
     }, {
         "de": "liegen",
         "en": "to lie",
         "ru": "лежать",
         "descriptionDE": "sich in einer horizontalen oder ruhenden Position auf einer Oberfläche befinden.",
         "descriptionEN": "to be in or assume a horizontal or resting position on a surface.",
-        "descriptionRU": "находиться в горизонтальном или покоящемся положении на поверхности."
+        "descriptionRU": "находиться в горизонтальном или покоящемся положении на поверхности.",
+        "tr": "yatmak",
+        "az": "uzanmaq",
+        "uk": "лежати",
+        "descriptionTR": "bir yüzeyde yatay veya dinlenme pozisyonunda olmak veya bu pozisyonu almak.",
+        "descriptionAZ": "bir səthdə üfüqi və ya sakit vəziyyətdə olmaq və ya bu vəziyyəti almaq.",
+        "descriptionUK": "бути або приймати горизонтальне або спокійне положення на поверхні."
     }, {
         "de": "nutzen",
         "en": "to use",
         "ru": "использовать",
         "descriptionDE": "etwas für einen praktischen Zweck einsetzen; Gebrauch machen von.",
         "descriptionEN": "to employ something for a practical purpose; make use of.",
-        "descriptionRU": "применять что-то в практических целях; использовать."
+        "descriptionRU": "применять что-то в практических целях; использовать.",
+        "tr": "kullanmak",
+        "az": "istifadə etmək",
+        "uk": "використовувати",
+        "descriptionTR": "pratik bir amaç için bir şeyi kullanmak; faydalanmak.",
+        "descriptionAZ": "nəyisə praktik məqsədlər üçün istifadə etmək; faydalanmaq.",
+        "descriptionUK": "використовувати щось для практичної мети; застосовувати."
     }, {
         "de": "beginnen",
         "en": "to begin",
         "ru": "начинать",
         "descriptionDE": "eine Handlung, einen Prozess oder ein Ereignis starten oder beginnen.",
         "descriptionEN": "to start or commence an action, process, or event.",
-        "descriptionRU": "начать или начать действие, процесс или событие."
+        "descriptionRU": "начать или начать действие, процесс или событие.",
+        "tr": "başlamak",
+        "az": "başlamaq",
+        "uk": "починати",
+        "descriptionTR": "bir eylemi, süreci veya olayı başlatmak veya başlamak.",
+        "descriptionAZ": "bir fəaliyyətə, prosesə və ya hadisəyə başlamaq.",
+        "descriptionUK": "починати або розпочинати дію, процес або подію."
     }, {
         "de": "verlängern",
         "en": "to extend",
         "ru": "удлинять",
         "descriptionDE": "etwas länger machen oder für längere Zeit dauern lassen.",
         "descriptionEN": "to make something longer or last for a longer time.",
-        "descriptionRU": "сделать что-то длиннее или продолжиться в течение более длительного времени."
+        "descriptionRU": "сделать что-то длиннее или продолжиться в течение более длительного времени.",
+        "tr": "uzatmak",
+        "az": "uzatmaq",
+        "uk": "продовжувати",
+        "descriptionTR": "bir şeyi daha uzun yapmak veya daha uzun süre devam ettirmek.",
+        "descriptionAZ": "bir şeyi daha uzun etmək və ya daha uzun müddət davam etdirmək.",
+        "descriptionUK": "зробити щось довшим або тривалішим."
     }, {
         "de": "locken",
         "en": "to attract",
         "ru": "привлекать",
         "descriptionDE": "jemanden oder etwas dazu bringen, sich zu nähern oder zu begleiten.",
         "descriptionEN": "to draw or compel someone or something to come toward or accompany one.",
-        "descriptionRU": "привлечь или обязать кого-то или что-то подходить или сопровождать."
+        "descriptionRU": "привлечь или обязать кого-то или что-то подходить или сопровождать.",
+        "tr": "çekmek",
+        "az": "cəlb etmək",
+        "uk": "приваблювати",
+        "descriptionTR": "birini veya bir şeyi kendine doğru gelmeye veya eşlik etmeye çekmek veya zorlamak.",
+        "descriptionAZ": "kimisə və ya nəyisə özünə tərəf çəkmək və ya müşayiət etməyə məcbur etmək.",
+        "descriptionUK": "приваблювати або спонукати когось або щось наблизитися або супроводжувати когось."
     }, {
         "de": "verfügen",
         "en": "to have",
         "ru": "иметь",
         "descriptionDE": "etwas besitzen oder besitzen; zur Verfügung haben.",
         "descriptionEN": "to possess or own something; to have at one's disposal.",
-        "descriptionRU": "обладать или владеть чем-то; иметь в своем распоряжении."
+        "descriptionRU": "обладать или владеть чем-то; иметь в своем распоряжении.",
+        "tr": "sahip olmak",
+        "az": "malik olmaq",
+        "uk": "мати",
+        "descriptionTR": "bir şeye sahip olmak veya elinde bulundurmak; emrinde olmak.",
+        "descriptionAZ": "bir şeyə sahib olmaq; ixtiyarında olmaq.",
+        "descriptionUK": "володіти чимось; мати у своєму розпорядженні."
     }, {
         "de": "befinden",
         "en": "to be located",
         "ru": "располагаться",
         "descriptionDE": "sich an einem bestimmten Ort oder in einer bestimmten Position befinden.",
         "descriptionEN": "to be situated in a particular place or position.",
-        "descriptionRU": "находиться в определенном месте или положении."
+        "descriptionRU": "находиться в определенном месте или положении.",
+        "tr": "bulunmak",
+        "az": "yerləşmək",
+        "uk": "розташовуватися",
+        "descriptionTR": "belirli bir yerde veya konumda bulunmak.",
+        "descriptionAZ": "müəyyən bir yerdə və ya mövqedə yerləşmək.",
+        "descriptionUK": "бути розташованим у певному місці або положенні."
     }, {
         "de": "fliegen",
         "en": "to fly",
         "ru": "летать",
         "descriptionDE": "durch die Luft reisen, indem man Flügel oder einen Motor verwendet.",
         "descriptionEN": "to travel through the air using wings or an engine.",
-        "descriptionRU": "путешествовать через воздух с использованием крыльев или двигателя."
+        "descriptionRU": "путешествовать через воздух с использованием крыльев или двигателя.",
+        "tr": "uçmak",
+        "az": "uçmaq",
+        "uk": "літати",
+        "descriptionTR": "kanat veya motor kullanarak havada seyahat etmek.",
+        "descriptionAZ": "qanad və ya mühərrikdən istifadə edərək havada səyahət etmək.",
+        "descriptionUK": "подорожувати повітрям за допомогою крил або двигуна."
     }, {
         "de": "anfliegen",
         "en": "to approach by air",
         "ru": "приближаться в воздухе",
         "descriptionDE": "in einem Flugzeug in die Nähe oder näher kommen.",
         "descriptionEN": "to come near or nearer in an aircraft.",
-        "descriptionRU": "приблизиться или приблизиться воздушным судном."
+        "descriptionRU": "приблизиться или приблизиться воздушным судном.",
+        "tr": "havadan yaklaşmak",
+        "az": "havadan yaxınlaşmaq",
+        "uk": "наближатися повітрям",
+        "descriptionTR": "bir uçakta yaklaşmak veya daha da yaklaşmak.",
+        "descriptionAZ": "bir təyyarədə yaxınlaşmaq və ya daha da yaxınlaşmaq.",
+        "descriptionUK": "наближатися або наближатися на літаку."
     }, {
         "de": "verfügen",
         "en": "to have available",
         "ru": "иметь в наличии",
         "descriptionDE": "etwas zur Verfügung haben; besitzen oder kontrollieren.",
         "descriptionEN": "to have something at one's disposal; to possess or control.",
-        "descriptionRU": "иметь что-то в распоряжении; обладать или управлять."
+        "descriptionRU": "иметь что-то в распоряжении; обладать или управлять.",
+        "tr": "mevcut olmak",
+        "az": "mövcud olmaq",
+        "uk": "мати в наявності",
+        "descriptionTR": "bir şeye sahip olmak; sahip olmak veya kontrol etmek.",
+        "descriptionAZ": "ixtiyarında nəsə olmaq; sahib olmaq və ya idarə etmək.",
+        "descriptionUK": "мати щось у своєму розпорядженні; володіти або контролювати."
     }, {
         "de": "fliegen",
         "en": "to soar",
         "ru": "взмывать",
         "descriptionDE": "hoch in die Luft fliegen oder steigen mit majestätischer Bewegung.",
         "descriptionEN": "to fly or rise high in the air with majestic movement.",
-        "descriptionRU": "лететь или подниматься высоко в воздухе с величественным движением."
+        "descriptionRU": "лететь или подниматься высоко в воздухе с величественным движением.",
+        "tr": "yükselmek",
+        "az": "yüksəlmək",
+        "uk": "ширяти",
+        "descriptionTR": "havada ihtişamlı bir hareketle yüksek uçmak veya yükselmek.",
+        "descriptionAZ": "havada möhtəşəm hərəkətlə yüksək uçmaq və ya qalxmaq.",
+        "descriptionUK": "літати або підніматися високо в повітрі величним рухом."
     }, {
         "de": "bauen",
         "en": "to build",
         "ru": "строить",
         "descriptionDE": "etwas konstruieren, indem man Teile oder Material zusammenfügt.",
         "descriptionEN": "to construct something by putting parts or material together.",
-        "descriptionRU": "построить что-то, собрав части или материал вместе."
+        "descriptionRU": "построить что-то, собрав части или материал вместе.",
+        "tr": "inşa etmek",
+        "az": "tikmək",
+        "uk": "будувати",
+        "descriptionTR": "parçaları veya malzemeyi bir araya getirerek bir şey inşa etmek.",
+        "descriptionAZ": "hissələri və ya materialı bir araya gətirərək bir şey tikmək.",
+        "descriptionUK": "конструювати щось шляхом з'єднання частин або матеріалу."
     }, {
         "de": "nutzen",
         "en": "to utilize",
         "ru": "использовать",
         "descriptionDE": "praktischen und effektiven Gebrauch machen von.",
         "descriptionEN": "to make practical and effective use of.",
-        "descriptionRU": "практическое и эффективное использование."
+        "descriptionRU": "практическое и эффективное использование.",
+        "tr": "yararlanmak",
+        "az": "istifadə etmək",
+        "uk": "використовувати",
+        "descriptionTR": "pratik ve etkili bir şekilde kullanmak.",
+        "descriptionAZ": "praktik və səmərəli istifadə etmək.",
+        "descriptionUK": "практично та ефективно використовувати."
     }, {
         "de": "fliegen",
         "en": "to transport",
         "ru": "транспортировать",
         "descriptionDE": "etwas von einem Ort zum anderen tragen oder bewegen.",
         "descriptionEN": "to carry or move from one place to another.",
-        "descriptionRU": "переносить или перемещать из одного места в другое."
+        "descriptionRU": "переносить или перемещать из одного места в другое.",
+        "tr": "taşımak",
+        "az": "daşımaq",
+        "uk": "транспортувати",
+        "descriptionTR": "bir yerden başka bir yere taşımak veya hareket ettirmek.",
+        "descriptionAZ": "bir yerdən başqa yerə daşımaq və ya hərəkət etdirmək.",
+        "descriptionUK": "перевозити або переміщати з одного місця в інше."
     }, {
         "de": "ermöglichen",
         "en": "to enable",
         "ru": "делать возможным",
         "descriptionDE": "etwas möglich oder erreichbar machen.",
         "descriptionEN": "to make something possible or achievable.",
-        "descriptionRU": "сделать что-то возможным или достижимым."
+        "descriptionRU": "сделать что-то возможным или достижимым.",
+        "tr": "sağlamak",
+        "az": "mümkün etmək",
+        "uk": "уможливлювати",
+        "descriptionTR": "bir şeyi mümkün veya ulaşılabilir kılmak.",
+        "descriptionAZ": "bir şeyi mümkün və ya əldə edilə bilən etmək.",
+        "descriptionUK": "зробити щось можливим або досяжним."
     }
 ]

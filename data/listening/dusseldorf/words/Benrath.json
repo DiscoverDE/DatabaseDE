@@ -5,118 +5,220 @@
         "ru": "замок",
         "descriptionEN": "a large building typically fortified and containing noble living quarters.",
         "descriptionRU": "большое здание, обычно укрепленное и содержащее благородные жилые помещения.",
-        "descriptionDE": "ein großes Gebäude, typischerweise befestigt und mit adligen Wohnräumen versehen."
+        "descriptionDE": "ein großes Gebäude, typischerweise befestigt und mit adligen Wohnräumen versehen.",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
+        "descriptionTR": "genellikle güçlendirilmiş ve soylu yaşam alanları içeren büyük bir bina.",
+        "descriptionAZ": "adətən möhkəmləndirilmiş və zadəgan yaşayış yerlərini özündə birləşdirən böyük bir bina.",
+        "descriptionUK": "велика будівля, як правило, укріплена та містить шляхетні житлові приміщення."
     }, {
         "de": "die Führung",
         "en": "guided tour",
         "ru": "экскурсия",
         "descriptionEN": "an organized visit to a place or site during which someone explains the interesting facts about it.",
         "descriptionRU": "организованный визит на место или объект, в ходе которого кто-то объясняет интересные факты о нем.",
-        "descriptionDE": "ein organisierter Besuch an einem Ort oder einer Stätte, während dem jemand interessante Fakten darüber erklärt."
+        "descriptionDE": "ein organisierter Besuch an einem Ort oder einer Stätte, während dem jemand interessante Fakten darüber erklärt.",
+        "tr": "rehberli tur",
+        "az": "bələdçi turu",
+        "uk": "екскурсія",
+        "descriptionTR": "bir yer veya siteye yapılan organize bir ziyaret sırasında birinin ilginç gerçekleri açıkladığı bir etkinlik.",
+        "descriptionAZ": "bir yerə və ya sayta təşkil edilmiş səfər, bu müddət ərzində kimsə onun haqqında maraqlı faktları izah edir.",
+        "descriptionUK": "організований візит до місця або об'єкта, під час якого хтось пояснює цікаві факти про нього."
     }, {
         "de": "der Flügel",
         "en": "wing",
         "ru": "крыло",
         "descriptionEN": "a part of a building projecting from the main part.",
         "descriptionRU": "часть здания, выступающая из основной части.",
-        "descriptionDE": "ein Teil eines Gebäudes, der sich von der Hauptpartie abhebt."
+        "descriptionDE": "ein Teil eines Gebäudes, der sich von der Hauptpartie abhebt.",
+        "tr": "kanat",
+        "az": "qanad",
+        "uk": "крило",
+        "descriptionTR": "bir binanın ana kısmından dışarıya doğru uzanan bir kısmı.",
+        "descriptionAZ": "binanın əsas hissəsindən kənara çıxan bir hissəsi.",
+        "descriptionUK": "частина будівлі, що виступає з основної частини."
     }, {
         "de": "die Säle",
         "en": "halls",
         "ru": "залы",
         "descriptionEN": "large room for meetings, entertainment, or other activities.",
         "descriptionRU": "большое помещение для собраний, развлечений или других мероприятий.",
-        "descriptionDE": "großer Raum für Treffen, Unterhaltung oder andere Aktivitäten."
+        "descriptionDE": "großer Raum für Treffen, Unterhaltung oder andere Aktivitäten.",
+        "tr": "salonlar",
+        "az": "zallar",
+        "uk": "зали",
+        "descriptionTR": "toplantılar, eğlence veya diğer etkinlikler için büyük oda.",
+        "descriptionAZ": "toplantılar, əyləncə və ya digər fəaliyyətlər üçün geniş otaq.",
+        "descriptionUK": "велика кімната для зустрічей, розваг або інших заходів."
     }, {
         "de": "die Pracht",
         "en": "splendor",
         "ru": "великолепие",
         "descriptionEN": "magnificent and splendid appearance; grandeur.",
         "descriptionRU": "великолепный и величественный вид; величие.",
-        "descriptionDE": "prächtiges und herrliches Erscheinungsbild; Pracht."
+        "descriptionDE": "prächtiges und herrliches Erscheinungsbild; Pracht.",
+        "tr": "ihtişam",
+        "az": "ihtişam",
+        "uk": "пишність",
+        "descriptionTR": "muhteşem ve görkemli görünüm; ihtişam.",
+        "descriptionAZ": "möhtəşəm və təmtəraqlı görünüş; əzəmət.",
+        "descriptionUK": "величний і чудовий вигляд; велич."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
+        "descriptionTR": "geçmiş olayların, özellikle insan ilişkilerindeki olayların incelenmesi.",
+        "descriptionAZ": "keçmiş hadisələrin, xüsusən də insan işlərindəki hadisələrin öyrənilməsi.",
+        "descriptionUK": "вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
         "descriptionRU": "искусство или практика проектирования и строительства зданий.",
-        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+        "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
+        "descriptionTR": "binaları tasarlama ve inşa etme sanatı veya pratiği.",
+        "descriptionAZ": "binaların layihələndirilməsi və tikintisi sənəti və ya təcrübəsi.",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "der Höhepunkt",
         "en": "highlight",
         "ru": "высшая точка",
         "descriptionEN": "the most exciting or interesting part of an event or period of time.",
         "descriptionRU": "самая захватывающая или интересная часть события или периода времени.",
-        "descriptionDE": "der aufregendste oder interessanteste Teil eines Ereignisses oder Zeitraums."
+        "descriptionDE": "der aufregendste oder interessanteste Teil eines Ereignisses oder Zeitraums.",
+        "tr": "zirve",
+        "az": "zirvə",
+        "uk": "кульмінація",
+        "descriptionTR": "bir olayın veya zaman diliminin en heyecan verici veya ilginç kısmı.",
+        "descriptionAZ": "bir hadisənin və ya zaman kəsiyinin ən həyəcanlı və ya maraqlı hissəsi.",
+        "descriptionUK": "найбільш захоплююча або цікава частина події чи періоду часу."
     }, {
         "de": "der Thronsaal",
         "en": "throne room",
         "ru": "тронный зал",
         "descriptionEN": "a room in a palace or castle with a throne for the monarch.",
         "descriptionRU": "комната во дворце или замке с троном для монарха.",
-        "descriptionDE": "ein Raum in einem Palast oder Schloss mit einem Thron für den Monarchen."
+        "descriptionDE": "ein Raum in einem Palast oder Schloss mit einem Thron für den Monarchen.",
+        "tr": "taht odası",
+        "az": "taxt otağı",
+        "uk": "тронний зал",
+        "descriptionTR": "bir sarayda veya kalede hükümdar için bir taht bulunan bir oda.",
+        "descriptionAZ": "sarayda və ya qalada monarx üçün taxt olan otaq.",
+        "descriptionUK": "кімната в палаці або замку з троном для монарха."
     }, {
         "de": "die Gelegenheit",
         "en": "opportunity",
         "ru": "возможность",
         "descriptionEN": "a time or set of circumstances that makes it possible to do something.",
         "descriptionRU": "время или набор обстоятельств, позволяющих сделать что-то.",
-        "descriptionDE": "eine Zeit oder eine Reihe von Umständen, die es ermöglichen, etwas zu tun."
+        "descriptionDE": "eine Zeit oder eine Reihe von Umständen, die es ermöglichen, etwas zu tun.",
+        "tr": "fırsat",
+        "az": "fürsət",
+        "uk": "можливість",
+        "descriptionTR": "bir şeyi yapmayı mümkün kılan bir zaman veya koşullar bütünü.",
+        "descriptionAZ": "nəyisə etməyi mümkün edən bir zaman və ya şərait toplusu.",
+        "descriptionUK": "час або обставини, що уможливлюють щось зробити."
     }, {
         "de": "der Geschenkeladen",
         "en": "gift shop",
         "ru": "магазин сувениров",
         "descriptionEN": "a store selling souvenirs, small gifts, and other items appropriate for giving as gifts.",
         "descriptionRU": "магазин, продающий сувениры, небольшие подарки и другие предметы, подходящие для подарка в качестве подарка.",
-        "descriptionDE": "ein Geschäft, das Souvenirs, kleine Geschenke und andere für Geschenke geeignete Artikel verkauft."
+        "descriptionDE": "ein Geschäft, das Souvenirs, kleine Geschenke und andere für Geschenke geeignete Artikel verkauft.",
+        "tr": "hediyelik eşya dükkanı",
+        "az": "hədiyyə mağazası",
+        "uk": "сувенірна крамниця",
+        "descriptionTR": "hediyelik eşyalar, küçük hediyeler ve hediye olarak vermeye uygun diğer eşyaları satan bir mağaza.",
+        "descriptionAZ": "suvenirlər, kiçik hədiyyələr və hədiyyə olaraq vermək üçün uyğun digər əşyaları satan mağaza.",
+        "descriptionUK": "магазин, що продає сувеніри, невеликі подарунки та інші предмети, придатні для подарунків."
     }, {
         "de": "das Picknick",
         "en": "picnic",
         "ru": "пикник",
         "descriptionEN": "an occasion when a packed meal is eaten outdoors, especially during an outing to the countryside.",
         "descriptionRU": "случай, когда упакованный обед едят на свежем воздухе, особенно во время поездки за город.",
-        "descriptionDE": "eine Gelegenheit, bei der im Freien, besonders während eines Ausflugs aufs Land, eine mitgebrachte Mahlzeit verzehrt wird."
+        "descriptionDE": "eine Gelegenheit, bei der im Freien, besonders während eines Ausflugs aufs Land, eine mitgebrachte Mahlzeit verzehrt wird.",
+        "tr": "piknik",
+        "az": "piknik",
+        "uk": "пікнік",
+        "descriptionTR": "özellikle kırsal bir alana gezinti sırasında dışarıda paketlenmiş bir yemeğin yendiği bir durum.",
+        "descriptionAZ": "xüsusilə kənd yerinə gəzinti zamanı açıq havada qablaşdırılmış yeməyin yeyildiyi bir vəziyyət.",
+        "descriptionUK": "випадок, коли упакована їжа з'їдається на відкритому повітрі, особливо під час виїзду на природу."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
         "descriptionEN": "travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней.",
-        "descriptionDE": "durchqueren (ein unbekanntes Gebiet), um mehr darüber zu erfahren."
+        "descriptionDE": "durchqueren (ein unbekanntes Gebiet), um mehr darüber zu erfahren.",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "досліджувати",
+        "descriptionTR": "bir yer hakkında bilgi edinmek amacıyla (bilinmeyen bir alanda) seyahat etmek.",
+        "descriptionAZ": "(tanış olmayan bir ərazidə) onun haqqında məlumat almaq üçün səyahət etmək.",
+        "descriptionUK": "подорожувати (незнайомою територією), щоб дізнатися про неї."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
         "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
         "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением.",
-        "descriptionDE": "(ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung betrachten."
+        "descriptionDE": "(ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung betrachten.",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionTR": "(bir nesne, nitelik veya kişiye) saygı veya sıcak bir onay ile bakmak.",
+        "descriptionAZ": "(bir obyektə, keyfiyyətə və ya insana) hörmətlə və ya isti rəğbətlə baxmaq.",
+        "descriptionUK": "ставитися (до об'єкта, якості або особи) з повагою або теплою прихильністю."
     }, {
         "de": "perfekt",
         "en": "perfect",
         "ru": "идеальный",
         "descriptionEN": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
         "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики; насколько это возможно быть хорошим.",
-        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale haben; so gut wie möglich sein."
+        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale haben; so gut wie möglich sein.",
+        "tr": "mükemmel",
+        "az": "mükəmməl",
+        "uk": "ідеальний",
+        "descriptionTR": "gerekli veya arzu edilen tüm unsurlara, niteliklere veya özelliklere sahip olmak; olabilecek en iyi şekilde olmak.",
+        "descriptionAZ": "bütün tələb olunan və ya arzu olunan elementlərə, keyfiyyətlərə və ya xüsusiyyətlərə malik olmaq; mümkün qədər yaxşı olmaq.",
+        "descriptionUK": "що має всі необхідні або бажані елементи, якості або характеристики; настільки добре, наскільки це можливо."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
         "descriptionEN": "impossible to forget; very memorable.",
         "descriptionRU": "невозможно забыть; очень запоминающийся.",
-        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam."
+        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam.",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
+        "descriptionTR": "unutulması imkansız; çok akılda kalıcı.",
+        "descriptionAZ": "unudulmaz; çox yaddaqalan.",
+        "descriptionUK": "неможливо забути; дуже пам'ятний."
     }, {
         "de": "lehrreich",
         "en": "instructive",
         "ru": "поучительный",
         "descriptionEN": "providing knowledge or information; teaching.",
         "descriptionRU": "предоставляющий знания или информацию; обучение.",
-        "descriptionDE": "Wissen oder Informationen vermittelnd; lehrend."
+        "descriptionDE": "Wissen oder Informationen vermittelnd; lehrend.",
+        "tr": "öğretici",
+        "az": "öyrədici",
+        "uk": "повчальний",
+        "descriptionTR": "bilgi veya enformasyon sağlayan; öğreten.",
+        "descriptionAZ": "bilik və ya məlumat verən; öyrədən.",
+        "descriptionUK": "надає знання або інформацію; навчає."
     }
 ]

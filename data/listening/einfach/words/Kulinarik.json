@@ -5,174 +5,324 @@
         "ru": "повар",
         "descriptionEN": "a professional cook",
         "descriptionRU": "профессиональный повар",
-        "descriptionDE": "ein professioneller Koch"
+        "descriptionDE": "ein professioneller Koch",
+        "tr": "şef",
+        "az": "aşpaz",
+        "uk": "кухар",
+        "descriptionTR": "profesyonel bir aşçı",
+        "descriptionAZ": "peşəkar aşpaz",
+        "descriptionUK": "професійний кухар"
     }, {
         "de": "das Gemüse",
         "en": "vegetables",
         "ru": "овощи",
         "descriptionEN": "edible plants",
         "descriptionRU": "съедобные растения",
-        "descriptionDE": "essbare Pflanzen"
+        "descriptionDE": "essbare Pflanzen",
+        "tr": "sebzeler",
+        "az": "tərəvəzlər",
+        "uk": "овочі",
+        "descriptionTR": "yenilebilir bitkiler",
+        "descriptionAZ": "yeməli bitkilər",
+        "descriptionUK": "їстівні рослини"
     }, {
         "de": "der Fleisch",
         "en": "meat",
         "ru": "мясо",
         "descriptionEN": "animal flesh used as food",
         "descriptionRU": "мясо животных, используемое в пищу",
-        "descriptionDE": "tierisches Fleisch als Nahrungsmittel"
+        "descriptionDE": "tierisches Fleisch als Nahrungsmittel",
+        "tr": "et",
+        "az": "ət",
+        "uk": "м'ясо",
+        "descriptionTR": "yiyecek olarak kullanılan hayvan eti",
+        "descriptionAZ": "qida kimi istifadə olunan heyvan əti",
+        "descriptionUK": "м'ясо тварин, що використовується в їжу"
     }, {
         "de": "die Sauce",
         "en": "sauce",
         "ru": "соус",
         "descriptionEN": "liquid or semi-liquid food served with other foods",
         "descriptionRU": "жидкое или полужидкое блюдо, подаваемое с другими продуктами",
-        "descriptionDE": "flüssige oder halbflüssige Nahrung, die mit anderen Speisen serviert wird"
+        "descriptionDE": "flüssige oder halbflüssige Nahrung, die mit anderen Speisen serviert wird",
+        "tr": "sos",
+        "az": "sous",
+        "uk": "соус",
+        "descriptionTR": "diğer yiyeceklerle servis edilen sıvı veya yarı sıvı yiyecek",
+        "descriptionAZ": "digər qidalarla verilən maye və ya yarımmaye qida",
+        "descriptionUK": "рідка або напіврідка їжа, що подається з іншими стравами"
     }, {
         "de": "die Küche",
         "en": "kitchen",
         "ru": "кухня",
         "descriptionEN": "a room or area where food is prepared and cooked",
         "descriptionRU": "комната или зона, где готовят и приготовляют пищу",
-        "descriptionDE": "ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird"
+        "descriptionDE": "ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird",
+        "tr": "mutfak",
+        "az": "mətbəx",
+        "uk": "кухня",
+        "descriptionTR": "yiyeceklerin hazırlandığı ve pişirildiği bir oda veya alan",
+        "descriptionAZ": "qidaların hazırlandığı və bişirildiyi bir otaq və ya sahə",
+        "descriptionUK": "кімната або зона, де готується та готується їжа"
     }, {
         "de": "die Sonne",
         "en": "sun",
         "ru": "солнце",
         "descriptionEN": "the star around which the Earth orbits",
         "descriptionRU": "звезда, вокруг которой вращается Земля",
-        "descriptionDE": "der Stern, um den die Erde kreist"
+        "descriptionDE": "der Stern, um den die Erde kreist",
+        "tr": "güneş",
+        "az": "günəş",
+        "uk": "сонце",
+        "descriptionTR": "Dünya'nın yörüngesinde döndüğü yıldız",
+        "descriptionAZ": "Yer kürəsinin ətrafında fırlanan ulduz",
+        "descriptionUK": "зірка, навколо якої обертається Земля"
     }, {
         "de": "defitig",
         "en": "hearty",
         "ru": "питательный",
         "descriptionEN": "(of food) wholesome and substantial.",
         "descriptionRU": "(о еде) полезный и сытный.",
-        "descriptionDE": "(von Essen) nahrhaft und gehaltvoll."
+        "descriptionDE": "(von Essen) nahrhaft und gehaltvoll.",
+        "tr": "doyurucu",
+        "az": "qəlbli",
+        "uk": "поживний",
+        "descriptionTR": "(yemek için) sağlıklı ve doyurucu.",
+        "descriptionAZ": "(qida haqqında) sağlam və əhəmiyyətli.",
+        "descriptionUK": "(про їжу) корисний і ситний."
     }, {
         "de": "knusprig",
         "en": "crispy",
         "ru": "хрустящий",
         "descriptionEN": "(of food) firm, dry, and easily broken.",
         "descriptionRU": "(о еде) твердый, сухой и легко ломающийся.",
-        "descriptionDE": "(von Essen) fest, trocken und leicht brüchig."
+        "descriptionDE": "(von Essen) fest, trocken und leicht brüchig.",
+        "tr": "çıtır",
+        "az": "xırtıldayan",
+        "uk": "хрусткий",
+        "descriptionTR": "(yemek için) sert, kuru ve kolay kırılan.",
+        "descriptionAZ": "(qida haqqında) möhkəm, quru və asanlıqla qırılan.",
+        "descriptionUK": "(про їжу) твердий, сухий і легко ламається."
     }, {
         "de": "geheim",
         "en": "secret",
         "ru": "секретный",
         "descriptionEN": "not known or seen or not meant to be known or seen by others.",
         "descriptionRU": "неизвестный или невидимый или не предназначенный для известности или видимости другими.",
-        "descriptionDE": "Nicht bekannt oder gesehen oder nicht dazu gedacht, von anderen bekannt oder gesehen zu werden."
+        "descriptionDE": "Nicht bekannt oder gesehen oder nicht dazu gedacht, von anderen bekannt oder gesehen zu werden.",
+        "tr": "gizli",
+        "az": "sirr",
+        "uk": "секретний",
+        "descriptionTR": "başkaları tarafından bilinmeyen veya görülmeyen veya bilinmesi veya görülmesi amaçlanmayan.",
+        "descriptionAZ": "başqaları tərəfindən bilinməyən və ya görünməyən və ya bilinməsi və ya görünməsi nəzərdə tutulmayan.",
+        "descriptionUK": "невідомий або невидимий або не призначений для знання або бачення іншими."
     }, {
         "de": "individuell",
         "en": "individual",
         "ru": "индивидуальный",
         "descriptionEN": "existing as a single, separate thing or being; characteristic of a particular person or thing.",
         "descriptionRU": "существующий как отдельная, отдельная вещь или существо; характерный для конкретного человека или вещи.",
-        "descriptionDE": "Existierend als ein einzelnes, separates Ding oder Wesen; charakteristisch für eine bestimmte Person oder Sache."
+        "descriptionDE": "Existierend als ein einzelnes, separates Ding oder Wesen; charakteristisch für eine bestimmte Person oder Sache.",
+        "tr": "bireysel",
+        "az": "fərdi",
+        "uk": "індивідуальний",
+        "descriptionTR": "tek, ayrı bir şey veya varlık olarak var olan; belirli bir kişi veya şeyin karakteristiği.",
+        "descriptionAZ": "tək, ayrı bir şey və ya varlıq kimi mövcud olan; müəyyən bir şəxsə və ya şeyə xas olan.",
+        "descriptionUK": "існуючий як єдина, окрема річ або істота; характерний для певної особи або речі."
     }, {
         "de": "bekannt",
         "en": "known",
         "ru": "известный",
         "descriptionEN": "recognized or familiar as being seen or known before.",
         "descriptionRU": "признанный или знакомый как виденный или известный ранее.",
-        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor."
+        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor.",
+        "tr": "bilinen",
+        "az": "tanınmış",
+        "uk": "відомий",
+        "descriptionTR": "daha önce görülmüş veya bilinen olarak tanınan veya tanıdık.",
+        "descriptionAZ": "daha əvvəl görülmüş və ya tanınmış kimi tanınan və ya tanış olan.",
+        "descriptionUK": "визнаний або знайомий як такий, що був бачений або відомий раніше."
     }, {
         "de": "deftig",
         "en": "hearty",
         "ru": "сытный",
         "descriptionEN": "(of food) wholesome and substantial.",
         "descriptionRU": "(о еде) полезный и сытный.",
-        "descriptionDE": "(von Essen) herzhaft und gehaltvoll."
+        "descriptionDE": "(von Essen) herzhaft und gehaltvoll.",
+        "tr": "doyurucu",
+        "az": "qəlbli",
+        "uk": "ситний",
+        "descriptionTR": "(yemek için) sağlıklı ve doyurucu.",
+        "descriptionAZ": "(qida haqqında) sağlam və əhəmiyyətli.",
+        "descriptionUK": "(про їжу) корисний і ситний."
     }, {
         "de": "bekannt",
         "en": "known",
         "ru": "известный",
         "descriptionEN": "recognized or familiar as being seen or known before.",
         "descriptionRU": "признанный или знакомый как виденный или известный ранее.",
-        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor."
+        "descriptionDE": "Erkannt oder vertraut als gesehen oder bekannt zuvor.",
+        "tr": "bilinen",
+        "az": "tanınmış",
+        "uk": "відомий",
+        "descriptionTR": "daha önce görülmüş veya bilinen olarak tanınan veya tanıdık.",
+        "descriptionAZ": "daha əvvəl görülmüş və ya tanınmış kimi tanınan və ya tanış olan.",
+        "descriptionUK": "визнаний або знайомий як такий, що був бачений або відомий раніше."
     }, {
         "de": "lang",
         "en": "long",
         "ru": "длинный",
         "descriptionEN": "measuring a great distance from end to end.",
         "descriptionRU": "измерение большого расстояния от конца до конца.",
-        "descriptionDE": "Misst eine große Entfernung von Ende zu Ende."
+        "descriptionDE": "Misst eine große Entfernung von Ende zu Ende.",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довгий",
+        "descriptionTR": "bir uçtan bir uca büyük bir mesafeyi ölçen.",
+        "descriptionAZ": "bir ucundan digər ucuna qədər böyük məsafəni ölçən.",
+        "descriptionUK": "вимірювання великої відстані від кінця до кінця."
     }, {
         "de": "gelohnt",
         "en": "worthwhile",
         "ru": "стоит",
         "descriptionEN": "sufficiently valuable or important to be worth one's time, effort, or interest.",
         "descriptionRU": "достаточно ценный или важный, чтобы стоить чьего-то времени, усилий или интереса.",
-        "descriptionDE": "Ausreichend wertvoll oder wichtig, um die Zeit, Mühe oder Interesse eines Menschen wert zu sein."
+        "descriptionDE": "Ausreichend wertvoll oder wichtig, um die Zeit, Mühe oder Interesse eines Menschen wert zu sein.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "вартий",
+        "descriptionTR": "birinin zamanına, çabasına veya ilgisine değecek kadar değerli veya önemli.",
+        "descriptionAZ": "kiminsə vaxtına, səyinə və ya marağına dəyəcək qədər dəyərli və ya vacib.",
+        "descriptionUK": "достатньо цінний або важливий, щоб вартувати свого часу, зусиль або інтересу."
     }, {
         "de": "der Tisch",
         "en": "table",
         "ru": "стол",
         "descriptionEN": "a piece of furniture with a flat top and one or more legs",
         "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ножками",
-        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen"
+        "descriptionDE": "ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen",
+        "tr": "masa",
+        "az": "masa",
+        "uk": "стіл",
+        "descriptionTR": "düz bir üst kısma ve bir veya daha fazla bacağa sahip bir mobilya parçası",
+        "descriptionAZ": "düz üst hissəli və bir və ya bir neçə ayaqlı mebel parçası",
+        "descriptionUK": "предмет меблів з плоскою стільницею та однією або кількома ніжками"
     }, {
         "de": "der Ansturm",
         "en": "rush",
         "ru": "порыв",
         "descriptionEN": "a sudden quick movement toward something by a group of people",
         "descriptionRU": "внезапное быстрое движение к чему-то группой людей",
-        "descriptionDE": "eine plötzliche schnelle Bewegung auf etwas zu durch eine Gruppe von Menschen"
+        "descriptionDE": "eine plötzliche schnelle Bewegung auf etwas zu durch eine Gruppe von Menschen",
+        "tr": "koşuşturma",
+        "az": "hücum",
+        "uk": "порив",
+        "descriptionTR": "bir grup insanın bir şeye doğru ani hızlı hareketi",
+        "descriptionAZ": "bir qrup insanın nəyəsə doğru qəfil sürətli hərəkəti",
+        "descriptionUK": "раптовий швидкий рух групи людей до чогось"
     }, {
         "de": "der Nacht",
         "en": "night",
         "ru": "ночь",
         "descriptionEN": "the period of darkness in each twenty-four hours",
         "descriptionRU": "период темноты в каждые двадцать четыре часа",
-        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden"
+        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden",
+        "tr": "gece",
+        "az": "gecə",
+        "uk": "ніч",
+        "descriptionTR": "her yirmi dört saatteki karanlık dönemi",
+        "descriptionAZ": "hər iyirmi dörd saatda qaranlıq dövr",
+        "descriptionUK": "період темряви протягом кожних двадцяти чотирьох годин"
     }, {
         "de": "der Rotkohl",
         "en": "red cabbage",
         "ru": "красная капуста",
         "descriptionEN": "a variety of cabbage with reddish-purple leaves",
         "descriptionRU": "разновидность капусты с красновато-фиолетовыми листьями",
-        "descriptionDE": "eine Kohlsorte mit rötlich-purpurnen Blättern"
+        "descriptionDE": "eine Kohlsorte mit rötlich-purpurnen Blättern",
+        "tr": "kırmızı lahana",
+        "az": "qırmızı kələm",
+        "uk": "червона капуста",
+        "descriptionTR": "kırmızımsı-mor yapraklı bir lahana çeşidi",
+        "descriptionAZ": "qırmızımtıl-bənövşəyi yarpaqlı kələm növü",
+        "descriptionUK": "різновид капусти з червонувато-фіолетовим листям"
     }, {
         "de": "die Nachtisch",
         "en": "dessert",
         "ru": "десерт",
         "descriptionEN": "a sweet course served at the end of a meal",
         "descriptionRU": "сладкое блюдо, подаваемое в конце трапезы",
-        "descriptionDE": "ein süßes Gericht, das am Ende einer Mahlzeit serviert wird"
+        "descriptionDE": "ein süßes Gericht, das am Ende einer Mahlzeit serviert wird",
+        "tr": "tatlı",
+        "az": "desert",
+        "uk": "десерт",
+        "descriptionTR": "yemek sonunda servis edilen tatlı bir yemek",
+        "descriptionAZ": "yeməyin sonunda verilən şirin bir yemək",
+        "descriptionUK": "солодка страва, що подається наприкінці трапези"
     }, {
         "de": "die Leidenschaft",
         "en": "passion",
         "ru": "страсть",
         "descriptionEN": "strong and barely controllable emotion",
         "descriptionRU": "сильное и едва контролируемое эмоциональное состояние",
-        "descriptionDE": "starke und kaum kontrollierbare Emotion"
+        "descriptionDE": "starke und kaum kontrollierbare Emotion",
+        "tr": "tutku",
+        "az": "ehtiras",
+        "uk": "пристрасть",
+        "descriptionTR": "güçlü ve zar zor kontrol edilebilir duygu",
+        "descriptionAZ": "güclü və çətin idarə oluna bilən emosiya",
+        "descriptionUK": "сильна і ледве контрольована емоція"
     }, {
         "de": "die Spezialität",
         "en": "specialty",
         "ru": "специальность",
         "descriptionEN": "a particular type of food regarded as typical of a region or country",
         "descriptionRU": "особый вид пищи, считающийся типичным для региона или страны",
-        "descriptionDE": "ein bestimmter Typ von Essen, der als typisch für eine Region oder ein Land gilt"
+        "descriptionDE": "ein bestimmter Typ von Essen, der als typisch für eine Region oder ein Land gilt",
+        "tr": "uzmanlık",
+        "az": "ixtisas",
+        "uk": "спеціальність",
+        "descriptionTR": "bir bölgeye veya ülkeye özgü kabul edilen belirli bir yemek türü",
+        "descriptionAZ": "bir bölgəyə və ya ölkəyə xas hesab edilən xüsusi bir yemək növü",
+        "descriptionUK": "особливий вид їжі, що вважається типовим для регіону чи країни"
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
         "descriptionEN": "the expression or application of human creative skill and imagination",
         "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
-        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft",
+        "tr": "sanat",
+        "az": "incəsənət",
+        "uk": "мистецтво",
+        "descriptionTR": "insan yaratıcı beceri ve hayal gücünün ifadesi veya uygulaması",
+        "descriptionAZ": "insan yaradıcı bacarıq və təxəyyülünün ifadəsi və ya tətbiqi",
+        "descriptionUK": "вираз або застосування людської творчої майстерності та уяви"
     }, {
         "de": "der Haxe",
         "en": "knuckle",
         "ru": "косточка",
         "descriptionEN": "a joint of a finger when the fist is closed",
         "descriptionRU": "сустав пальца при сжатом кулаке",
-        "descriptionDE": "ein Gelenk eines Fingers, wenn die Faust geschlossen ist"
+        "descriptionDE": "ein Gelenk eines Fingers, wenn die Faust geschlossen ist",
+        "tr": "eklem",
+        "az": "oynaq",
+        "uk": "кісточка",
+        "descriptionTR": "yumruk kapatıldığında bir parmağın eklemi",
+        "descriptionAZ": "yumruq bağlandıqda barmağın oynağı",
+        "descriptionUK": "суглоб пальця, коли кулак стиснутий"
     }, {
         "de": "die Bestellung",
         "en": "order",
         "ru": "заказ",
         "descriptionEN": "a request for something to be made, supplied, or served, especially in a restaurant or shop.",
         "descriptionRU": "запрос на изготовление, поставку или обслуживание, особенно в ресторане или магазине.",
-        "descriptionDE": "Eine Anfrage, dass etwas hergestellt, geliefert oder serviert wird, insbesondere in einem Restaurant oder Geschäft."
+        "descriptionDE": "Eine Anfrage, dass etwas hergestellt, geliefert oder serviert wird, insbesondere in einem Restaurant oder Geschäft.",
+        "tr": "sipariş",
+        "az": "sifariş",
+        "uk": "замовлення",
+        "descriptionTR": "özellikle bir restoranda veya mağazada bir şeyin yapılmasını, tedarik edilmesini veya servis edilmesini talep etme.",
+        "descriptionAZ": "xüsusilə bir restoranda və ya mağazada bir şeyin hazırlanması, tədarük edilməsi və ya təqdim edilməsi üçün sorğu.",
+        "descriptionUK": "запит на виготовлення, постачання або обслуговування чогось, особливо в ресторані чи магазині."
     }
 ]

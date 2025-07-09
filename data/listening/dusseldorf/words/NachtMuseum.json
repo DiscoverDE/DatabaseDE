@@ -5,153 +5,285 @@
         "ru": "мероприятие",
         "descriptionEN": "A planned public or social occasion.",
         "descriptionRU": "Запланированное публичное или социальное мероприятие.",
-        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung."
+        "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung.",
+        "tr": "etkinlik",
+        "az": "tədbir",
+        "uk": "подія",
+        "descriptionTR": "Planlanmış halka açık veya sosyal bir organizasyon.",
+        "descriptionAZ": "Planlanmış ictimai və ya sosial tədbir.",
+        "descriptionUK": "Запланована публічна або соціальна подія."
     }, {
         "de": "die Aktivität",
         "en": "activity",
         "ru": "деятельность",
         "descriptionEN": "Something that a person does for enjoyment or as a job.",
         "descriptionRU": "То, что человек делает для удовольствия или в качестве работы.",
-        "descriptionDE": "Etwas, das eine Person zur Freude oder als Arbeit tut."
+        "descriptionDE": "Etwas, das eine Person zur Freude oder als Arbeit tut.",
+        "tr": "aktivite",
+        "az": "fəaliyyət",
+        "uk": "діяльність",
+        "descriptionTR": "Bir kişinin zevk için veya iş olarak yaptığı bir şey.",
+        "descriptionAZ": "Bir insanın zövq üçün və ya iş kimi gördüyü bir şey.",
+        "descriptionUK": "Те, що людина робить для задоволення або як роботу."
     }, {
         "de": "die Ausstellung",
         "en": "exhibition",
         "ru": "выставка",
         "descriptionEN": "A public display of works of art or other items of interest.",
         "descriptionRU": "Публичная демонстрация произведений искусства или других интересных предметов.",
-        "descriptionDE": "Eine öffentliche Ausstellung von Kunstwerken oder anderen interessanten Gegenständen."
+        "descriptionDE": "Eine öffentliche Ausstellung von Kunstwerken oder anderen interessanten Gegenständen.",
+        "tr": "sergi",
+        "az": "sərgi",
+        "uk": "виставка",
+        "descriptionTR": "Sanat eserlerinin veya diğer ilgi çekici nesnelerin halka açık sergilenmesi.",
+        "descriptionAZ": "Sənət əsərlərinin və ya digər maraqlı əşyaların ictimai nümayişi.",
+        "descriptionUK": "Публічна виставка творів мистецтва або інших цікавих предметів."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
         "descriptionEN": "Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
         "descriptionRU": "Вокальные или инструментальные звуки, соединенные таким образом, чтобы создать красоту формы, гармонию и выражение эмоций.",
-        "descriptionDE": "Vokale oder instrumentale Klänge, die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen erzeugen."
+        "descriptionDE": "Vokale oder instrumentale Klänge, die so kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen erzeugen.",
+        "tr": "müzik",
+        "az": "musiqi",
+        "uk": "музика",
+        "descriptionTR": "Formun güzelliğini, uyumu ve duygu ifadesini üretmek için bir araya getirilen vokal veya enstrümantal sesler.",
+        "descriptionAZ": "Formanın gözəlliyini, harmoniyasını və emosiya ifadəsini yaratmaq üçün birləşdirilmiş vokal və ya instrumental səslər.",
+        "descriptionUK": "Вокальні або інструментальні звуки, поєднані таким чином, щоб створити красу форми, гармонію та вираження емоцій."
     }, {
         "de": "die Performance",
         "en": "performance",
         "ru": "выступление",
         "descriptionEN": "An act of presenting a play, concert, or other form of entertainment.",
         "descriptionRU": "Акт представления пьесы, концерта или другой формы развлечения.",
-        "descriptionDE": "Ein Akt der Präsentation eines Theaterstücks, Konzerts oder einer anderen Form der Unterhaltung."
+        "descriptionDE": "Ein Akt der Präsentation eines Theaterstücks, Konzerts oder einer anderen Form der Unterhaltung.",
+        "tr": "performans",
+        "az": "tamaşa",
+        "uk": "виступ",
+        "descriptionTR": "Bir oyun, konser veya başka bir eğlence biçimini sunma eylemi.",
+        "descriptionAZ": "Bir tamaşa, konsert və ya digər əyləncə növünü təqdim etmək hərəkəti.",
+        "descriptionUK": "Дія представлення вистави, концерту або іншої форми розваги."
     }, {
         "de": "die Installation",
         "en": "installation",
         "ru": "установка",
         "descriptionEN": "A piece of equipment or machinery which is made ready for use.",
         "descriptionRU": "Оборудование или механизм, подготовленный для использования.",
-        "descriptionDE": "Ein Gerät oder eine Maschine, die für den Gebrauch bereit gemacht wurde."
+        "descriptionDE": "Ein Gerät oder eine Maschine, die für den Gebrauch bereit gemacht wurde.",
+        "tr": "kurulum",
+        "az": "quraşdırma",
+        "uk": "інсталяція",
+        "descriptionTR": "Kullanıma hazır hale getirilmiş bir ekipman veya makine parçası.",
+        "descriptionAZ": "İstifadəyə hazır vəziyyətə gətirilmiş bir avadanlıq və ya maşın parçası.",
+        "descriptionUK": "Обладнання або механізм, який підготовлений до використання."
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "Здание, в котором хранятся и выставляются предметы исторического, научного, художественного или культурного значения.",
-        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
+        "descriptionTR": "Tarihi, bilimsel, sanatsal veya kültürel ilgi alanına giren nesnelerin depolandığı ve sergilendiği bir bina.",
+        "descriptionAZ": "Tarixi, elmi, bədii və ya mədəni maraq doğuran əşyaların saxlanıldığı və sərgiləndiyi bir bina.",
+        "descriptionUK": "Будівля, в якій зберігаються та виставляються предмети історичного, наукового, художнього або культурного інтересу."
     }, {
         "de": "der Ort",
         "en": "place",
         "ru": "место",
         "descriptionEN": "A particular position or point in space.",
         "descriptionRU": "Конкретное положение или точка в пространстве.",
-        "descriptionDE": "Ein bestimmter Punkt oder Ort im Raum."
+        "descriptionDE": "Ein bestimmter Punkt oder Ort im Raum.",
+        "tr": "yer",
+        "az": "yer",
+        "uk": "місце",
+        "descriptionTR": "Uzayda belirli bir konum veya nokta.",
+        "descriptionAZ": "Kosmosda müəyyən bir mövqe və ya nöqtə.",
+        "descriptionUK": "Конкретне положення або точка в просторі."
     }, {
         "de": "die Skulptur",
         "en": "sculpture",
         "ru": "скульптура",
         "descriptionEN": "The art of making two- or three-dimensional representative or abstract forms.",
         "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм.",
-        "descriptionDE": "Die Kunst der Herstellung von zwei- oder dreidimensionalen repräsentativen oder abstrakten Formen."
+        "descriptionDE": "Die Kunst der Herstellung von zwei- oder dreidimensionalen repräsentativen oder abstrakten Formen.",
+        "tr": "heykel",
+        "az": "heykəl",
+        "uk": "скульптура",
+        "descriptionTR": "İki veya üç boyutlu temsili veya soyut formlar yapma sanatı.",
+        "descriptionAZ": "İki və ya üç ölçülü təmsili və ya abstrakt formalar yaratma sənəti.",
+        "descriptionUK": "Мистецтво створення дво- або тривимірних представницьких або абстрактних форм."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
+        "descriptionTR": "Olaylarla ve gerçeklerle pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki təmas və müşahidə.",
+        "descriptionUK": "Практичний контакт та спостереження за фактами чи подіями."
     }, {
         "de": "das Erlebnis",
         "en": "experience",
         "ru": "впечатление",
         "descriptionEN": "An event or occurrence which leaves an impression on someone.",
         "descriptionRU": "Событие или явление, которое оставляет впечатление на кого-то.",
-        "descriptionDE": "Ein Ereignis oder Geschehnis, das einen Eindruck auf jemanden hinterlässt."
+        "descriptionDE": "Ein Ereignis oder Geschehnis, das einen Eindruck auf jemanden hinterlässt.",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "враження",
+        "descriptionTR": "Bir kişide izlenim bırakan bir olay veya durum.",
+        "descriptionAZ": "Bir kəsdə təəssürat yaradan hadisə və ya baş verən şey.",
+        "descriptionUK": "Подія або явище, яке залишає враження на когось."
     }, {
         "de": "die Nacht",
         "en": "night",
         "ru": "ночь",
         "descriptionEN": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
         "descriptionRU": "Период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
-        "descriptionDE": "Die Zeit der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang."
+        "descriptionDE": "Die Zeit der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang.",
+        "tr": "gece",
+        "az": "gecə",
+        "uk": "ніч",
+        "descriptionTR": "Her yirmi dört saatteki karanlık dönemi; gün batımından gün doğumuna kadar olan süre.",
+        "descriptionAZ": "Hər iyirmi dörd saatdakı qaranlıq dövrü; gün batımından günəşin çıxmasına qədər olan vaxt.",
+        "descriptionUK": "Період темряви протягом кожних двадцяти чотирьох годин; час від заходу сонця до сходу сонця."
     }, {
         "de": "erleben",
         "en": "experience",
         "ru": "переживать",
         "descriptionEN": "To encounter or undergo an event or occurrence.",
         "descriptionRU": "Встретить или пережить событие или явление.",
-        "descriptionDE": "Ein Ereignis oder Geschehnis erleben."
+        "descriptionDE": "Ein Ereignis oder Geschehnis erleben.",
+        "tr": "deneyimlemek",
+        "az": "yaşamaq",
+        "uk": "переживати",
+        "descriptionTR": "Bir olayla karşılaşmak veya bir olayı yaşamak.",
+        "descriptionAZ": "Bir hadisə ilə qarşılaşmaq və ya bir hadisəni yaşamaq.",
+        "descriptionUK": "Зустріти або пережити подію чи явище."
     }, {
         "de": "präsentieren",
         "en": "present",
         "ru": "представлять",
         "descriptionEN": "To show or offer something for others to consider.",
         "descriptionRU": "Показать или предложить что-то для рассмотрения другими.",
-        "descriptionDE": "Etwas zeigen oder anbieten, damit andere es in Betracht ziehen können."
+        "descriptionDE": "Etwas zeigen oder anbieten, damit andere es in Betracht ziehen können.",
+        "tr": "sunmak",
+        "az": "təqdim etmək",
+        "uk": "представляти",
+        "descriptionTR": "Başkalarının değerlendirmesi için bir şeyi göstermek veya sunmak.",
+        "descriptionAZ": "Başqalarının nəzərdən keçirməsi üçün bir şey göstərmək və ya təklif etmək.",
+        "descriptionUK": "Показувати або пропонувати щось для розгляду іншими."
     }, {
         "de": "öffnen",
         "en": "open",
         "ru": "открывать",
         "descriptionEN": "To move a door or window so that an opening is created.",
         "descriptionRU": "Двигать дверь или окно, чтобы создать проем.",
-        "descriptionDE": "Eine Tür oder ein Fenster bewegen, um eine Öffnung zu schaffen."
+        "descriptionDE": "Eine Tür oder ein Fenster bewegen, um eine Öffnung zu schaffen.",
+        "tr": "açmak",
+        "az": "açmaq",
+        "uk": "відкривати",
+        "descriptionTR": "Bir açıklık oluşacak şekilde bir kapı veya pencereyi hareket ettirmek.",
+        "descriptionAZ": "Bir boşluq yaranacaq şəkildə qapı və ya pəncərəni hərəkət etdirmək.",
+        "descriptionUK": "Рухати двері або вікно, щоб створити отвір."
     }, {
         "de": "verbinden",
         "en": "connect",
         "ru": "соединять",
         "descriptionEN": "To join or link together.",
         "descriptionRU": "Соединить или связать вместе.",
-        "descriptionDE": "Zusammenführen oder verknüpfen."
+        "descriptionDE": "Zusammenführen oder verknüpfen.",
+        "tr": "bağlamak",
+        "az": "birləşdirmək",
+        "uk": "з'єднувати",
+        "descriptionTR": "Birleştirmek veya birbirine bağlamak.",
+        "descriptionAZ": "Birləşdirmək və ya bağlamaq.",
+        "descriptionUK": "З'єднувати або поєднувати разом."
     }, {
         "de": "entdecken",
         "en": "discover",
         "ru": "обнаружить",
         "descriptionEN": "To find something or someone unexpectedly or during a search.",
         "descriptionRU": "Найти что-то или кого-то неожиданно или во время поиска.",
-        "descriptionDE": "Etwas oder jemanden unerwartet oder bei einer Suche finden."
+        "descriptionDE": "Etwas oder jemanden unerwartet oder bei einer Suche finden.",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
+        "descriptionTR": "Bir şeyi veya birini beklenmedik bir şekilde veya bir arama sırasında bulmak.",
+        "descriptionAZ": "Gözlənilmədən və ya axtarış zamanı bir şeyi və ya kimisə tapmaq.",
+        "descriptionUK": "Знайти щось або когось несподівано або під час пошуку."
     }, {
         "de": "veranstalten",
         "en": "organize",
         "ru": "организовать",
         "descriptionEN": "To arrange or coordinate an event or activity.",
         "descriptionRU": "Организовать или координировать мероприятие или деятельность.",
-        "descriptionDE": "Ein Ereignis oder eine Aktivität arrangieren oder koordinieren."
+        "descriptionDE": "Ein Ereignis oder eine Aktivität arrangieren oder koordinieren.",
+        "tr": "düzenlemek",
+        "az": "təşkil etmək",
+        "uk": "організовувати",
+        "descriptionTR": "Bir etkinliği veya aktiviteyi düzenlemek veya koordine etmek.",
+        "descriptionAZ": "Bir tədbiri və ya fəaliyyəti təşkil etmək və ya koordinasiya etmək.",
+        "descriptionUK": "Організувати або координувати подію чи діяльність."
     }, {
         "de": "kulturell",
         "en": "cultural",
         "ru": "культурный",
         "descriptionEN": "Relating to the ideas, customs, and social behaviour of a society.",
         "descriptionRU": "Относящийся к идеям, обычаям и социальному поведению общества.",
-        "descriptionDE": "Bezogen auf die Ideen, Bräuche und das soziale Verhalten einer Gesellschaft."
+        "descriptionDE": "Bezogen auf die Ideen, Bräuche und das soziale Verhalten einer Gesellschaft.",
+        "tr": "kültürel",
+        "az": "mədəni",
+        "uk": "культурний",
+        "descriptionTR": "Bir toplumun fikirleri, gelenekleri ve sosyal davranışlarıyla ilgili.",
+        "descriptionAZ": "Bir cəmiyyətin ideyaları, adət-ənənələri və sosial davranışları ilə bağlı.",
+        "descriptionUK": "Стосується ідей, звичаїв та соціальної поведінки суспільства."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
         "descriptionEN": "Concerning history or past events.",
         "descriptionRU": "Относится к истории или прошлым событиям.",
-        "descriptionDE": "Bezogen auf Geschichte oder vergangene Ereignisse."
+        "descriptionDE": "Bezogen auf Geschichte oder vergangene Ereignisse.",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
+        "descriptionTR": "Tarihle veya geçmiş olaylarla ilgili.",
+        "descriptionAZ": "Tarix və ya keçmiş hadisələrlə bağlı.",
+        "descriptionUK": "Стосується історії або минулих подій."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
         "descriptionEN": "Being the only one of its kind.",
         "descriptionRU": "Будучи единственным в своем роде.",
-        "descriptionDE": "Das einzige seiner Art sein."
+        "descriptionDE": "Das einzige seiner Art sein.",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
+        "descriptionTR": "Türünün tek örneği olmak.",
+        "descriptionAZ": "Öz növünün yeganəsi olmaq.",
+        "descriptionUK": "Будучи єдиним у своєму роді."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
-        "descriptionDE": "Besser, größer oder sonst anders als das Übliche."
+        "descriptionDE": "Besser, größer oder sonst anders als das Übliche.",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
+        "descriptionTR": "Normalden daha iyi, daha büyük veya başka şekilde farklı.",
+        "descriptionAZ": "Adətən olandan daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або іншим чином відмінний від звичайного."
     }
 ]
