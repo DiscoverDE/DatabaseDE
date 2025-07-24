@@ -3,211 +3,391 @@
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "tr": "sabah",
+        "az": "səhər",
+        "uk": "ранок",
         "descriptionEN": "the early part of the day",
         "descriptionRU": "ранняя часть дня",
-        "descriptionDE": "der frühe Teil des Tages"
+        "descriptionDE": "der frühe Teil des Tages",
+        "descriptionTR": "Günün erken saatleri",
+        "descriptionAZ": "Günün erkən hissəsi",
+        "descriptionUK": "Рання частина дня"
     }, {
         "de": "die Schule",
         "en": "school",
         "ru": "школа",
+        "tr": "okul",
+        "az": "məktəb",
+        "uk": "школа",
         "descriptionEN": "an institution for educating children",
         "descriptionRU": "учреждение для образования детей",
-        "descriptionDE": "eine Institution zur Erziehung von Kindern"
+        "descriptionDE": "eine Institution zur Erziehung von Kindern",
+        "descriptionTR": "Çocukları eğitmek için kurum",
+        "descriptionAZ": "Uşaqları təhsil vermək üçün müəssisə",
+        "descriptionUK": "Заклад для навчання дітей"
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence",
         "descriptionRU": "неопределенное продолжительное движение существования",
-        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins"
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins",
+        "descriptionTR": "Varlığın belirsiz sürekli ilerlemesi",
+        "descriptionAZ": "Varlığın qeyri-müəyyən davamlı irəliləyişi",
+        "descriptionUK": "Невизначений безперервний прогрес існування"
     }, {
         "de": "der Computer",
         "en": "computer",
         "ru": "компьютер",
+        "tr": "bilgisayar",
+        "az": "kompüter",
+        "uk": "комп'ютер",
         "descriptionEN": "an electronic device for storing and processing data",
         "descriptionRU": "электронное устройство для хранения и обработки данных",
-        "descriptionDE": "ein elektronisches Gerät zur Speicherung und Verarbeitung von Daten"
+        "descriptionDE": "ein elektronisches Gerät zur Speicherung und Verarbeitung von Daten",
+        "descriptionTR": "Veri depolama ve işleme için elektronik cihaz",
+        "descriptionAZ": "Məlumatları saxlamaq və emal etmək üçün elektron cihaz",
+        "descriptionUK": "Електронний пристрій для зберігання та обробки даних"
     }, {
         "de": "das Krankenhaus",
         "en": "hospital",
         "ru": "больница",
+        "tr": "hastane",
+        "az": "xəstəxana",
+        "uk": "лікарня",
         "descriptionEN": "an institution providing medical and surgical treatment",
         "descriptionRU": "учреждение, предоставляющее медицинское и хирургическое лечение",
-        "descriptionDE": "eine Einrichtung, die medizinische und chirurgische Behandlung anbietet"
+        "descriptionDE": "eine Einrichtung, die medizinische und chirurgische Behandlung anbietet",
+        "descriptionTR": "Tıbbi ve cerrahi tedavi sağlayan kurum",
+        "descriptionAZ": "Tibbi və cərrahi müalicə təqdim edən müəssisə",
+        "descriptionUK": "Заклад, що надає медичне та хірургічне лікування"
     }, {
         "de": "der Mensch",
         "en": "human",
         "ru": "человек",
+        "tr": "insan",
+        "az": "insan",
+        "uk": "людина",
         "descriptionEN": "a member of the species Homo sapiens",
         "descriptionRU": "член вида Homo sapiens",
-        "descriptionDE": "ein Mitglied der Art Homo sapiens"
+        "descriptionDE": "ein Mitglied der Art Homo sapiens",
+        "descriptionTR": "Homo sapiens türünün bir üyesi",
+        "descriptionAZ": "Homo sapiens növünün üzvü",
+        "descriptionUK": "Член виду Homo sapiens"
     }, {
         "de": "der Bruder",
         "en": "brother",
         "ru": "брат",
+        "tr": "erkek kardeş",
+        "az": "qardaş",
+        "uk": "брат",
         "descriptionEN": "a male sibling",
         "descriptionRU": "мужской родственник",
-        "descriptionDE": "ein männlicher Geschwister"
+        "descriptionDE": "ein männlicher Geschwister",
+        "descriptionTR": "Erkek kardeş",
+        "descriptionAZ": "Kişi qardaş",
+        "descriptionUK": "Чоловічий родич"
     }, {
         "de": "die Schwester",
         "en": "sister",
         "ru": "сестра",
+        "tr": "kız kardeş",
+        "az": "bacı",
+        "uk": "сестра",
         "descriptionEN": "a female sibling",
         "descriptionRU": "женский родственник",
-        "descriptionDE": "ein weiblicher Geschwister"
+        "descriptionDE": "ein weiblicher Geschwister",
+        "descriptionTR": "Kız kardeş",
+        "descriptionAZ": "Qadın qardaş",
+        "descriptionUK": "Жіночий родич"
     }, {
         "de": "der Traum",
         "en": "dream",
         "ru": "мечта",
+        "tr": "rüya",
+        "az": "yuxu",
+        "uk": "сон",
         "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
         "descriptionRU": "серия мыслей, образов или эмоций, возникающих во время сна",
-        "descriptionDE": "eine Reihe von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten"
+        "descriptionDE": "eine Reihe von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten",
+        "descriptionTR": "Uyku sırasında meydana gelen düşünceler, görüntüler veya duygular dizisi",
+        "descriptionAZ": "Yuxu zamanı baş verən düşüncələr, təsvirlər və ya emosiyalar silsiləsi",
+        "descriptionUK": "Серія думок, образів або емоцій, що виникають під час сну"
     }, {
         "de": "das Tier",
         "en": "animal",
         "ru": "животное",
+        "tr": "hayvan",
+        "az": "heyvan",
+        "uk": "тварина",
         "descriptionEN": "a living organism that feeds on organic matter",
         "descriptionRU": "живой организм, который питается органическим веществом",
-        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt"
+        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt",
+        "descriptionTR": "Organik maddelerle beslenen canlı organizma",
+        "descriptionAZ": "Üzvi maddələrlə qidalanan canlı orqanizm",
+        "descriptionUK": "Живий організм, що харчується органічною речовиною"
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
         "descriptionEN": "the time between sunrise and sunset",
         "descriptionRU": "время между восходом и закатом",
-        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang"
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang",
+        "descriptionTR": "Gün doğumu ile gün batımı arasındaki zaman",
+        "descriptionAZ": "Günəşin doğuşu ilə batışı arasındaki vaxt",
+        "descriptionUK": "Час між сходом і заходом сонця"
     }, {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
         "descriptionEN": "an educational institution of higher learning",
         "descriptionRU": "образовательное учреждение высшего образования",
-        "descriptionDE": "eine Bildungseinrichtung für höheres Lernen"
+        "descriptionDE": "eine Bildungseinrichtung für höheres Lernen",
+        "descriptionTR": "Yüksek öğrenim eğitim kurumu",
+        "descriptionAZ": "Ali təhsil müəssisəsi",
+        "descriptionUK": "Навчальний заклад вищої освіти"
     }, {
         "de": "lernen",
         "en": "to learn",
         "ru": "учиться",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "вчитися",
         "descriptionEN": "to acquire knowledge",
         "descriptionRU": "получить знания",
-        "descriptionDE": "Wissen erwerben"
+        "descriptionDE": "Wissen erwerben",
+        "descriptionTR": "Bilgi edinmek",
+        "descriptionAZ": "Bilik əldə etmək",
+        "descriptionUK": "Отримати знання"
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
         "descriptionEN": "to engage in activity for payment",
         "descriptionRU": "заниматься деятельностью за оплату",
-        "descriptionDE": "sich gegen Bezahlung betätigen"
+        "descriptionDE": "sich gegen Bezahlung betätigen",
+        "descriptionTR": "Ödeme karşılığında faaliyette bulunmak",
+        "descriptionAZ": "Ödəniş qarşılığında fəaliyyətlə məşğul olmaq",
+        "descriptionUK": "Займатися діяльністю за оплату"
     }, {
         "de": "wachen",
         "en": "to wake",
         "ru": "просыпаться",
+        "tr": "uyanmak",
+        "az": "oyanmaq",
+        "uk": "прокидатися",
         "descriptionEN": "to emerge from sleep",
         "descriptionRU": "выйти из сна",
-        "descriptionDE": "aus dem Schlaf erwachen"
+        "descriptionDE": "aus dem Schlaf erwachen",
+        "descriptionTR": "Uykudan çıkmak",
+        "descriptionAZ": "Yuxudan çıxmaq",
+        "descriptionUK": "Вийти зі сну"
     }, {
         "de": "helfen",
         "en": "to help",
         "ru": "помогать",
+        "tr": "yardım etmek",
+        "az": "kömək etmək",
+        "uk": "допомагати",
         "descriptionEN": "to assist someone",
         "descriptionRU": "помочь кому-то",
-        "descriptionDE": "jemandem Unterstützung bieten"
+        "descriptionDE": "jemandem Unterstützung bieten",
+        "descriptionTR": "Birine yardım etmek",
+        "descriptionAZ": "Kiməsə kömək etmək",
+        "descriptionUK": "Допомогти комусь"
     }, {
         "de": "träumen",
         "en": "to dream",
         "ru": "мечтать",
+        "tr": "rüya görmek",
+        "az": "yuxu görmək",
+        "uk": "мріяти",
         "descriptionEN": "to experience dreams during sleep",
         "descriptionRU": "испытывать мечты во время сна",
-        "descriptionDE": "im Schlaf Träume erleben"
+        "descriptionDE": "im Schlaf Träume erleben",
+        "descriptionTR": "Uyku sırasında rüya yaşamak",
+        "descriptionAZ": "Yuxu zamanı yuxu görmək",
+        "descriptionUK": "Переживати сни під час сну"
     }, {
         "de": "studieren",
         "en": "to study",
         "ru": "учиться",
+        "tr": "okumak",
+        "az": "oxumaq",
+        "uk": "вивчати",
         "descriptionEN": "to engage in learning",
         "descriptionRU": "заниматься обучением",
-        "descriptionDE": "sich dem Lernen widmen"
+        "descriptionDE": "sich dem Lernen widmen",
+        "descriptionTR": "Öğrenmeye katılmak",
+        "descriptionAZ": "Öyrənməyə cəlb olmaq",
+        "descriptionUK": "Займатися навчанням"
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
         "descriptionEN": "recently made or created",
         "descriptionRU": "недавно созданный или созданный",
-        "descriptionDE": "vor kurzem gemacht oder erstellt"
+        "descriptionDE": "vor kurzem gemacht oder erstellt",
+        "descriptionTR": "Yakın zamanda yapılmış veya yaratılmış",
+        "descriptionAZ": "Bu yaxınlarda edilmiş və ya yaradılmış",
+        "descriptionUK": "Нещодавно зроблений або створений"
     }, {
         "de": "gesund",
         "en": "healthy",
         "ru": "здоровый",
+        "tr": "sağlıklı",
+        "az": "sağlam",
+        "uk": "здоровий",
         "descriptionEN": "free from illness or injury",
         "descriptionRU": "без болезней или травм",
-        "descriptionDE": "frei von Krankheit oder Verletzung"
+        "descriptionDE": "frei von Krankheit oder Verletzung",
+        "descriptionTR": "Hastalık veya yaralanmadan uzak",
+        "descriptionAZ": "Xəstəlik və ya yaralanmadan azad",
+        "descriptionUK": "Вільний від хвороби або травми"
     }, {
         "de": "groß",
         "en": "big",
         "ru": "большой",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
         "descriptionEN": "of considerable size or extent",
         "descriptionRU": "значительного размера или объема",
-        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung"
+        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung",
+        "descriptionTR": "Önemli boyut veya genişlikte",
+        "descriptionAZ": "Əhəmiyyətli ölçü və ya genişlikdə",
+        "descriptionUK": "Значного розміру або обсягу"
     }, {
         "de": "interessant",
         "en": "interesting",
         "ru": "интересный",
+        "tr": "ilginç",
+        "az": "maraqlı",
+        "uk": "цікавий",
         "descriptionEN": "arousing curiosity or interest",
         "descriptionRU": "возбуждающий любопытство или интерес",
-        "descriptionDE": "weckt Neugier oder Interesse"
+        "descriptionDE": "weckt Neugier oder Interesse",
+        "descriptionTR": "Merak veya ilgi uyandıran",
+        "descriptionAZ": "Maraq və ya həvəs oyadan",
+        "descriptionUK": "Викликає цікавість або інтерес"
     }, {
         "de": "normal",
         "en": "normal",
         "ru": "нормальный",
+        "tr": "normal",
+        "az": "normal",
+        "uk": "нормальний",
         "descriptionEN": "conforming to a standard; usual, typical, or expected",
         "descriptionRU": "соответствие стандарту; обычный, типичный или ожидаемый",
-        "descriptionDE": "entspricht einem Standard; üblich, typisch oder erwartet"
+        "descriptionDE": "entspricht einem Standard; üblich, typisch oder erwartet",
+        "descriptionTR": "Bir standarda uygun; olağan, tipik veya beklenen",
+        "descriptionAZ": "Standarta uyğun; adi, tipik və ya gözlənilən",
+        "descriptionUK": "Відповідає стандарту; звичайний, типовий або очікуваний"
     }, {
         "de": "größ",
         "en": "bigger",
         "ru": "больше",
+        "tr": "daha büyük",
+        "az": "daha böyük",
+        "uk": "більший",
         "descriptionEN": "comparative form of big",
         "descriptionRU": "сравнительная форма от большого",
-        "descriptionDE": "Vergleichsform von groß"
+        "descriptionDE": "Vergleichsform von groß",
+        "descriptionTR": "Büyük kelimesinin karşılaştırma formu",
+        "descriptionAZ": "Böyük sözünün müqayisə forması",
+        "descriptionUK": "Порівняльна форма від великий"
     }, {
         "de": "viel",
         "en": "much",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionEN": "a large amount or extent",
         "descriptionRU": "большое количество или объем",
-        "descriptionDE": "eine große Menge oder Ausdehnung"
+        "descriptionDE": "eine große Menge oder Ausdehnung",
+        "descriptionTR": "Büyük miktar veya genişlik",
+        "descriptionAZ": "Böyük miqdar və ya genişlik",
+        "descriptionUK": "Велика кількість або обсяг"
     }, {
         "de": "immer",
         "en": "always",
         "ru": "всегда",
+        "tr": "her zaman",
+        "az": "həmişə",
+        "uk": "завжди",
         "descriptionEN": "at all times",
         "descriptionRU": "всегда",
-        "descriptionDE": "zu jeder Zeit"
+        "descriptionDE": "zu jeder Zeit",
+        "descriptionTR": "Her zaman",
+        "descriptionAZ": "Həmişə",
+        "descriptionUK": "У всі часи"
     }, {
         "de": "gerade",
         "en": "just",
         "ru": "только что",
+        "tr": "tam",
+        "az": "dəqiq",
+        "uk": "точно",
         "descriptionEN": "exactly or precisely",
         "descriptionRU": "точно или именно",
-        "descriptionDE": "genau oder präzise"
+        "descriptionDE": "genau oder präzise",
+        "descriptionTR": "Tam olarak veya kesin olarak",
+        "descriptionAZ": "Dəqiq və ya tam olaraq",
+        "descriptionUK": "Точно або саме"
     }, {
         "de": "wieder",
         "en": "again",
         "ru": "снова",
+        "tr": "tekrar",
+        "az": "yenidən",
+        "uk": "знову",
         "descriptionEN": "once more; another time",
         "descriptionRU": "еще раз; еще раз",
-        "descriptionDE": "noch einmal; eine andere Zeit"
+        "descriptionDE": "noch einmal; eine andere Zeit",
+        "descriptionTR": "Bir kez daha; başka bir zaman",
+        "descriptionAZ": "Bir daha; başqa vaxt",
+        "descriptionUK": "Ще раз; інший час"
     }, {
         "de": "immer",
         "en": "always",
         "ru": "всегда",
+        "tr": "her zaman",
+        "az": "həmişə",
+        "uk": "завжди",
         "descriptionEN": "at all times",
         "descriptionRU": "всегда",
-        "descriptionDE": "zu jeder Zeit"
+        "descriptionDE": "zu jeder Zeit",
+        "descriptionTR": "Her zaman",
+        "descriptionAZ": "Həmişə",
+        "descriptionUK": "У всі часи"
     }, {
         "de": "obwohl",
         "en": "although",
         "ru": "хотя",
+        "tr": "rağmen",
+        "az": "baxmayaraq",
+        "uk": "хоча",
         "descriptionEN": "in spite of the fact that",
         "descriptionRU": "несмотря на то, что",
-        "descriptionDE": "trotz der Tatsache, dass"
+        "descriptionDE": "trotz der Tatsache, dass",
+        "descriptionTR": "Gerçeğine rağmen",
+        "descriptionAZ": "Bu faktına baxmayaraq",
+        "descriptionUK": "Незважаючи на той факт, що"
     }
 ]

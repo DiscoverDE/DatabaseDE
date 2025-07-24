@@ -3,92 +3,170 @@
         "de": "die Schule",
         "en": "school",
         "ru": "школа",
+        "tr": "okul",
+        "az": "məktəb",
+        "uk": "школа",
         "descriptionEN": "an institution for educating children.",
         "descriptionRU": "учреждение для обучения детей.",
-        "descriptionDE": "Eine Einrichtung zur Ausbildung von Kindern."
+        "descriptionDE": "Eine Einrichtung zur Ausbildung von Kindern.",
+        "descriptionTR": "Çocukları eğitmek için kurulan bir kurum.",
+        "descriptionAZ": "Uşaqları təhsil vermək üçün qurulan müəssisə.",
+        "descriptionUK": "Заклад для навчання дітей."
     }, {
         "de": "die Exkursion",
         "en": "excursion",
         "ru": "экскурсия",
+        "tr": "gezi",
+        "az": "ekskursiya",
+        "uk": "екскурсія",
         "descriptionEN": "a short journey or trip, especially one taken as a leisure activity.",
         "descriptionRU": "короткое путешествие или поездка, особенно для отдыха.",
-        "descriptionDE": "Eine kurze Reise oder Fahrt, besonders als Freizeitbeschäftigung."
+        "descriptionDE": "Eine kurze Reise oder Fahrt, besonders als Freizeitbeschäftigung.",
+        "descriptionTR": "Özellikle eğlence amaçlı yapılan kısa yolculuk veya gezi.",
+        "descriptionAZ": "Xüsusilə istirahət məqsədi ilə edilən qısa səyahət və ya gəzinti.",
+        "descriptionUK": "Коротка подорож або поїздка, особливо з метою відпочинку."
     }, {
         "de": "das Schloss",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
         "descriptionEN": "a large building, typically of the medieval period, fortified against attack with thick walls, battlements, towers, and often a moat.",
         "descriptionRU": "большое здание, обычно средневекового периода, укрепленное от нападения толстыми стенами, бойницами, башнями и часто рвом.",
-        "descriptionDE": "Ein großes Gebäude, typischerweise aus der mittelalterlichen Zeit, zur Abwehr mit dicken Mauern, Zinnen, Türmen und oft einem Burggraben."
+        "descriptionDE": "Ein großes Gebäude, typischerweise aus der mittelalterlichen Zeit, zur Abwehr mit dicken Mauern, Zinnen, Türmen und oft einem Burggraben.",
+        "descriptionTR": "Genellikle ortaçağ döneminden kalma, kalın duvarlar, burçlar ve çoğunlukla hendeklerle saldırılara karşı korunan büyük yapı.",
+        "descriptionAZ": "Adətən orta əsrlərdən qalan, qalın divarlar, qüllələr və çox vaxt xəndəklərlə hücumlardan qorunan böyük bina.",
+        "descriptionUK": "Велика будівля, зазвичай середньовічного періоду, укріплена проти нападів товстими стінами, баштами і часто ровом."
     }, {
         "de": "die Führung",
         "en": "tour",
         "ru": "экскурсия",
+        "tr": "tur",
+        "az": "tur",
+        "uk": "тур",
         "descriptionEN": "a journey for pleasure in which several different places are visited.",
         "descriptionRU": "путешествие для удовольствия, в ходе которого посещается несколько различных мест.",
-        "descriptionDE": "Eine Reise zum Vergnügen, bei der mehrere verschiedene Orte besucht werden."
+        "descriptionDE": "Eine Reise zum Vergnügen, bei der mehrere verschiedene Orte besucht werden.",
+        "descriptionTR": "Birkaç farklı yerin ziyaret edildiği zevk için yapılan yolculuk.",
+        "descriptionAZ": "Bir neçə müxtəlif yerin ziyərət edildiyi həzz üçün edilmiş səyahət.",
+        "descriptionUK": "Подорож для задоволення, під час якої відвідуються кілька різних місць."
     }, {
         "de": "der Helm",
         "en": "helmet",
         "ru": "шлем",
+        "tr": "kask",
+        "az": "dəbilqə",
+        "uk": "шолом",
         "descriptionEN": "a hard or padded protective hat, various types of which are worn by soldiers, police officers, motorcyclists, sports players, and others.",
         "descriptionRU": "жесткая или мягкая защитная шапка, различные типы которых носят солдаты, полицейские, мотоциклисты, спортсмены и другие.",
-        "descriptionDE": "Ein harter oder gepolsterter Schutzhelm, verschiedene Arten davon werden von Soldaten, Polizisten, Motorradfahrern, Sportlern und anderen getragen."
+        "descriptionDE": "Ein harter oder gepolsterter Schutzhelm, verschiedene Arten davon werden von Soldaten, Polizisten, Motorradfahrern, Sportlern und anderen getragen.",
+        "descriptionTR": "Askerler, polis memurları, motosikletçiler, sporcular ve diğerleri tarafından giyilen sert veya yastıklı koruyucu şapka.",
+        "descriptionAZ": "Əsgərlər, polis məmurları, motosikletçilər, idmançılar və digərləri tərəfindən geyilən sərt və ya yumurdaq qoruyucu papaq.",
+        "descriptionUK": "Твердий або м'який захисний головний убір, різні типи якого носять солдати, поліцейські, мотоциклісти, спортсмени та інші."
     }, {
         "de": "der Ritter",
         "en": "knight",
         "ru": "рыцарь",
+        "tr": "şövalye",
+        "az": "cəngavər",
+        "uk": "лицар",
         "descriptionEN": "a man, typically attired in armor, who has served his sovereign or lord in battle.",
         "descriptionRU": "мужчина, обычно одетый в доспехи, который служил своему правителю или господину в битве.",
-        "descriptionDE": "Ein Mann, der typischerweise in Rüstung gekleidet ist und seinem Herrscher oder Herrn im Kampf gedient hat."
+        "descriptionDE": "Ein Mann, der typischerweise in Rüstung gekleidet ist und seinem Herrscher oder Herrn im Kampf gedient hat.",
+        "descriptionTR": "Genellikle zırh giymiş, savaşta hükümdarına veya efendisine hizmet etmiş erkek.",
+        "descriptionAZ": "Adətən zireh geyinmiş, döyüşdə hökmdarına və ya ağasına xidmət etmiş kişi.",
+        "descriptionUK": "Чоловік, зазвичай одягнений у обладунки, який служив своєму правителю або господарю в битві."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "find (something or someone) unexpectedly or in the course of a search.",
         "descriptionRU": "находить (что-то или кого-то) внезапно или в ходе поиска.",
-        "descriptionDE": "Etwas oder jemanden unerwartet oder im Verlauf einer Suche finden."
+        "descriptionDE": "Etwas oder jemanden unerwartet oder im Verlauf einer Suche finden.",
+        "descriptionTR": "Bir şeyi veya birini beklenmedik şekilde veya arama sırasında bulmak.",
+        "descriptionAZ": "Bir şeyi və ya kimisə gözlənilmədən və ya axtarış zamanı tapmaq.",
+        "descriptionUK": "Знаходити (щось або когось) несподівано або в ході пошуку."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "путешествовать по (незнакомой местности), чтобы изучить ее.",
-        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren."
+        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren.",
+        "descriptionTR": "Hakkında bilgi edinmek için (bilinmeyen bir bölgede) seyahat etmek.",
+        "descriptionAZ": "Haqqında məlumat əldə etmək üçün (naməlum ərazidə) səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою місцевістю), щоб дізнатися про неї більше."
     }, {
         "de": "überwältigt",
         "en": "overwhelmed",
         "ru": "переполненный",
+        "tr": "bunalmış",
+        "az": "həddindən artıq",
+        "uk": "переповнений",
         "descriptionEN": "to defeat someone or something completely.",
         "descriptionRU": "победить кого-то или что-то полностью.",
-        "descriptionDE": "Jemanden oder etwas vollständig besiegen."
+        "descriptionDE": "Jemanden oder etwas vollständig besiegen.",
+        "descriptionTR": "Birini veya bir şeyi tamamen yenmek.",
+        "descriptionAZ": "Kimisə və ya nəyisə tamamilə məğlub etmək.",
+        "descriptionUK": "Повністю перемогти когось або щось."
     }, {
         "de": "prächtig",
         "en": "magnificent",
         "ru": "великолепный",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
         "descriptionEN": "very beautiful and impressive.",
         "descriptionRU": "очень красивый и впечатляющий.",
-        "descriptionDE": "Sehr schön und beeindruckend."
+        "descriptionDE": "Sehr schön und beeindruckend.",
+        "descriptionTR": "Çok güzel ve etkileyici.",
+        "descriptionAZ": "Çox gözəl və təsirli.",
+        "descriptionUK": "Дуже красивий і вражаючий."
     }, {
         "de": "üppig",
         "en": "lush",
         "ru": "буйный",
+        "tr": "yemyeşil",
+        "az": "yaşıl",
+        "uk": "пишний",
         "descriptionEN": "very rich and providing great sensory pleasure.",
         "descriptionRU": "очень богатый и приносящий большое чувственное удовольствие.",
-        "descriptionDE": "Sehr reichhaltig und bietet großes sinnliches Vergnügen."
+        "descriptionDE": "Sehr reichhaltig und bietet großes sinnliches Vergnügen.",
+        "descriptionTR": "Çok zengin ve büyük duyusal zevk sağlayan.",
+        "descriptionAZ": "Çox zəngin və böyük hissiyyat həzzi verən.",
+        "descriptionUK": "Дуже багатий і такий, що приносить велике чуттєве задоволення."
     }, {
         "de": "verborgen",
         "en": "hidden",
         "ru": "скрытый",
+        "tr": "gizli",
+        "az": "gizli",
+        "uk": "прихований",
         "descriptionEN": "kept out of sight; concealed.",
         "descriptionRU": "держаться в стороне; скрытый.",
-        "descriptionDE": "Außer Sichtweite gehalten; versteckt."
+        "descriptionDE": "Außer Sichtweite gehalten; versteckt.",
+        "descriptionTR": "Görüş alanının dışında tutulan; gizlenmiş.",
+        "descriptionAZ": "Görmə sahəsindən kənarda saxlanılan; gizlədilmiş.",
+        "descriptionUK": "Тримається поза полем зору; прихований."
     }, {
         "de": "dunkel",
         "en": "dark",
         "ru": "темный",
+        "tr": "karanlık",
+        "az": "qaranlıq",
+        "uk": "темний",
         "descriptionEN": "having very little or no light.",
         "descriptionRU": "имеющий очень мало или совсем нет света.",
-        "descriptionDE": "Sehr wenig oder gar kein Licht haben."
+        "descriptionDE": "Sehr wenig oder gar kein Licht haben.",
+        "descriptionTR": "Çok az ışığa sahip olan veya hiç ışığı olmayan.",
+        "descriptionAZ": "Çox az işığa malik olan və ya heç işığı olmayan.",
+        "descriptionUK": "Має дуже мало світла або зовсім не має світла."
     }
 ]

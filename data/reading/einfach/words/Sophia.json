@@ -3,183 +3,339 @@
         "de": "der Name",
         "en": "name",
         "ru": "имя",
+        "tr": "isim",
+        "az": "ad",
+        "uk": "ім'я",
         "descriptionEN": "a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
         "descriptionRU": "слово или набор слов, по которым известны, обращаются или обозначаются человек, животное, место или вещь.",
-        "descriptionDE": "Ein Wort oder eine Wortgruppe, mit denen eine Person, ein Tier, ein Ort oder eine Sache bekannt, angesprochen oder bezeichnet wird."
+        "descriptionDE": "Ein Wort oder eine Wortgruppe, mit denen eine Person, ein Tier, ein Ort oder eine Sache bekannt, angesprochen oder bezeichnet wird.",
+        "descriptionTR": "Bir kişi, hayvan, yer veya şeyin bilindiği, hitap edildiği veya anıldığı bir kelime veya kelime öbeği.",
+        "descriptionAZ": "Bir şəxsin, heyvanın, yerin və ya əşyanın tanındığı, müraciət edildiyi və ya istinad edildiyi bir söz və ya sözlər qrupu.",
+        "descriptionUK": "слово або набір слів, за якими людина, тварина, місце або річ відомі, звертаються або називаються."
     }, {
         "de": "die Schwester",
         "en": "sister",
         "ru": "сестра",
+        "tr": "kız kardeş",
+        "az": "bacı",
+        "uk": "сестра",
         "descriptionEN": "a girl or woman in relation to other daughters and sons of her parents.",
         "descriptionRU": "девочка или женщина в отношении к другим дочерям и сыновьям ее родителей.",
-        "descriptionDE": "Ein Mädchen oder eine Frau in Beziehung zu anderen Töchtern und Söhnen ihrer Eltern."
+        "descriptionDE": "Ein Mädchen oder eine Frau in Beziehung zu anderen Töchtern und Söhnen ihrer Eltern.",
+        "descriptionTR": "Ebeveynlerinin diğer kız ve erkek çocuklarına göre bir kız veya kadın.",
+        "descriptionAZ": "Valideynlərinin digər qızlarına və oğullarına nisbətən bir qız və ya qadın.",
+        "descriptionUK": "дівчина або жінка по відношенню до інших дочок і синів її батьків."
     }, {
         "de": "der Bruder",
         "en": "brother",
         "ru": "брат",
+        "tr": "erkek kardeş",
+        "az": "qardaş",
+        "uk": "брат",
         "descriptionEN": "a boy or man in relation to other sons and daughters of his parents.",
         "descriptionRU": "мальчик или мужчина в отношении к другим сыновьям и дочерям его родителей.",
-        "descriptionDE": "Ein Junge oder Mann in Beziehung zu anderen Söhnen und Töchtern seiner Eltern."
+        "descriptionDE": "Ein Junge oder Mann in Beziehung zu anderen Söhnen und Töchtern seiner Eltern.",
+        "descriptionTR": "Ebeveynlerinin diğer kız ve erkek çocuklarına göre bir erkek veya adam.",
+        "descriptionAZ": "Valideynlərinin digər oğul və qızlarına nisbətən bir oğlan və ya kişi.",
+        "descriptionUK": "хлопчик або чоловік по відношенню до інших синів і дочок його батьків."
     }, {
         "de": "das Haus",
         "en": "house",
         "ru": "дом",
+        "tr": "ev",
+        "az": "ev",
+        "uk": "будинок",
         "descriptionEN": "a building for human habitation, especially one that consists of a ground floor and one or more upper storeys.",
         "descriptionRU": "здание для проживания людей, особенно та, которая состоит из первого этажа и одного или более верхних этажей.",
-        "descriptionDE": "Ein Gebäude zur menschlichen Wohnnutzung, insbesondere eines, das aus einem Erdgeschoss und einem oder mehreren oberen Stockwerken besteht."
+        "descriptionDE": "Ein Gebäude zur menschlichen Wohnnutzung, insbesondere eines, das aus einem Erdgeschoss und einem oder mehreren oberen Stockwerken besteht.",
+        "descriptionTR": "İnsan yerleşimi için bir bina, özellikle zemin katı ve bir veya daha fazla üst katı olan bir bina.",
+        "descriptionAZ": "İnsanların yaşaması üçün bir bina, xüsusilə birinci mərtəbədən və bir və ya bir neçə yuxarı mərtəbədən ibarət olan bina.",
+        "descriptionUK": "будівля для проживання людей, особливо та, що складається з першого поверху та одного або кількох верхніх поверхів."
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "a large public green area in a town, used for recreation.",
         "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
-        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird.",
+        "descriptionTR": "Bir şehirde rekreasyon için kullanılan geniş bir halka açık yeşil alan.",
+        "descriptionAZ": "Şəhərdə istirahət üçün istifadə olunan böyük bir ictimai yaşıl sahə.",
+        "descriptionUK": "велика громадська зелена зона в місті, що використовується для відпочинку."
     }, {
         "de": "der See",
         "en": "lake",
         "ru": "озеро",
+        "tr": "göl",
+        "az": "göl",
+        "uk": "озеро",
         "descriptionEN": "a large body of water surrounded by land.",
         "descriptionRU": "большое водное пространство, окруженное сушей.",
-        "descriptionDE": "Ein großes Wasserbecken, das von Land umgeben ist."
+        "descriptionDE": "Ein großes Wasserbecken, das von Land umgeben ist.",
+        "descriptionTR": "Kara ile çevrili büyük bir su kütlesi.",
+        "descriptionAZ": "Quru ilə əhatə olunmuş böyük su sahəsi.",
+        "descriptionUK": "велике водне плесо, оточене сушею."
     }, {
         "de": "das Eis",
         "en": "ice",
-        "ru": "льду",
+        "ru": "лёд",
+        "tr": "buz",
+        "az": "buz",
+        "uk": "лід",
         "descriptionEN": "frozen water, a brittle transparent crystalline solid.",
         "descriptionRU": "замороженная вода, хрупкое прозрачное кристаллическое твердое вещество.",
-        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff."
+        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff.",
+        "descriptionTR": "Donmuş su, kırılgan şeffaf kristal bir katı.",
+        "descriptionAZ": "Donmuş su, kövrək şəffaf kristal bərk maddə.",
+        "descriptionUK": "заморожена вода, крихка прозора кристалічна тверда речовина."
     }, {
         "de": "der Garten",
         "en": "garden",
         "ru": "сад",
+        "tr": "bahçe",
+        "az": "bağ",
+        "uk": "сад",
         "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
         "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей.",
-        "descriptionDE": "Ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird."
+        "descriptionDE": "Ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird.",
+        "descriptionTR": "Genellikle bir evin yakınında, çiçek, meyve veya sebze yetiştirmek için kullanılan bir arazi parçası.",
+        "descriptionAZ": "Tez-tez evin yaxınlığında, gül, meyvə və ya tərəvəz yetişdirmək üçün istifadə olunan bir torpaq sahəsi.",
+        "descriptionUK": "ділянка землі, часто біля будинку, яка використовується для вирощування квітів, фруктів або овочів."
     }, {
         "de": "der Teich",
         "en": "pond",
         "ru": "пруд",
+        "tr": "gölet",
+        "az": "gölməçə",
+        "uk": "ставок",
         "descriptionEN": "a small body of still water formed naturally or by artificial means.",
         "descriptionRU": "небольшое тихое водоем, естественным образом или искусственным способом.",
-        "descriptionDE": "Ein kleiner, ruhiger Wasserlauf, der sich auf natürliche oder künstliche Weise bildet."
+        "descriptionDE": "Ein kleiner, ruhiger Wasserlauf, der sich auf natürliche oder künstliche Weise bildet.",
+        "descriptionTR": "Doğal veya yapay yollarla oluşmuş küçük bir durgun su kütlesi.",
+        "descriptionAZ": "Təbii və ya süni yolla əmələ gəlmiş kiçik durğun su hövzəsi.",
+        "descriptionUK": "невелика водойма стоячої води, утворена природним шляхом або штучними засобами."
     }, {
         "de": "der Musiker",
         "en": "musician",
         "ru": "музыкант",
+        "tr": "müzisyen",
+        "az": "musiqiçi",
+        "uk": "музикант",
         "descriptionEN": "a person who plays a musical instrument, especially as a profession, or is musically talented.",
         "descriptionRU": "человек, играющий на музыкальном инструменте, особенно как профессия, или обладающий музыкальными талантами.",
-        "descriptionDE": "Eine Person, die ein Musikinstrument spielt, besonders als Beruf, oder musikalisch begabt ist."
+        "descriptionDE": "Eine Person, die ein Musikinstrument spielt, besonders als Beruf, oder musikalisch begabt ist.",
+        "descriptionTR": "Müzik aleti çalan, özellikle meslek olarak veya müzikal yeteneği olan kişi.",
+        "descriptionAZ": "Musiqi aləti çalan, xüsusilə peşəkar kimi və ya musiqi istedadına malik olan şəxs.",
+        "descriptionUK": "людина, яка грає на музичному інструменті, особливо професійно, або має музичний талант."
     }, {
         "de": "das Mittagessen",
         "en": "lunch",
         "ru": "обед",
+        "tr": "öğle yemeği",
+        "az": "nahar",
+        "uk": "обід",
         "descriptionEN": "a meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal.",
         "descriptionRU": "еда, съедаемая в середине дня, обычно более легкая или менее официальная, чем ужин.",
-        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages gegessen wird, typischerweise eine, die leichter oder weniger förmlich ist als eine Abendmahlzeit."
+        "descriptionDE": "Eine Mahlzeit, die in der Mitte des Tages gegessen wird, typischerweise eine, die leichter oder weniger förmlich ist als eine Abendmahlzeit.",
+        "descriptionTR": "Günün ortasında yenen, genellikle akşam yemeğinden daha hafif veya daha az resmi olan bir öğün.",
+        "descriptionAZ": "Günün ortasında yeyilən, adətən axşam yeməyindən daha yüngül və ya daha az rəsmi olan bir yemək.",
+        "descriptionUK": "прийом їжі в середині дня, як правило, легший або менш офіційний, ніж вечірній прийом їжі."
     }, {
         "de": "die Schule",
         "en": "school",
         "ru": "школа",
+        "tr": "okul",
+        "az": "məktəb",
+        "uk": "школа",
         "descriptionEN": "an institution for educating children.",
         "descriptionRU": "учреждение для обучения детей.",
-        "descriptionDE": "Eine Institution zur Erziehung von Kindern."
+        "descriptionDE": "Eine Institution zur Erziehung von Kindern.",
+        "descriptionTR": "Çocukları eğitmek için bir kurum.",
+        "descriptionAZ": "Uşaqları öyrətmək üçün bir təşkilat.",
+        "descriptionUK": "установа для навчання дітей."
     }, {
         "de": "der Hund",
         "en": "dog",
         "ru": "собака",
+        "tr": "köpek",
+        "az": "it",
+        "uk": "собака",
         "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice.",
         "descriptionRU": "одомашненное хищное млекопитающее, обычно с длинным рылом, острое чувство обоняния, не отводящиеся когти и лающим, вытьем или скулением голосом.",
-        "descriptionDE": "Ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, ein ausgeprägtes Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder winselnde Stimme hat."
+        "descriptionDE": "Ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, ein ausgeprägtes Geruchssinn, nicht einziehbare Krallen und eine bellende, heulende oder winselnde Stimme hat.",
+        "descriptionTR": "Genellikle uzun burunlu, keskin koku alma duyusuna, içeri çekilemeyen pençelere ve havlama, uluma veya sızlanma sesine sahip evcilleştirilmiş etçil bir memeli.",
+        "descriptionAZ": "Tipik olaraq uzun burunlu, kəskin qoxu hissiyatına, geri çəkilməyən pəncələrə və hürən, uluyan və ya vıyıldayan səsə malik evcil ətçil məməli.",
+        "descriptionUK": "одомашнений м'ясоїдний ссавець, який зазвичай має довгу морду, гострий нюх, невтяжні кігті та гавкаючий, виючий або скиглячий голос."
     }, {
         "de": "die Katze",
         "en": "cat",
         "ru": "кошка",
+        "tr": "kedi",
+        "az": "pişik",
+        "uk": "кішка",
         "descriptionEN": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
         "descriptionRU": "маленькое одомашненное хищное млекопитающее с мягкой шерстью, коротким рылом и отводимыми когтями.",
-        "descriptionDE": "Ein kleines, domestiziertes fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und zurückziehbaren Krallen."
+        "descriptionDE": "Ein kleines, domestiziertes fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und zurückziehbaren Krallen.",
+        "descriptionTR": "Yumuşak tüylü, kısa burunlu ve içeri çekilebilir pençeli küçük evcil etçil bir memeli.",
+        "descriptionAZ": "Yumşaq tüklü, qısa burunlu və geri çəkilə bilən pəncələrə malik kiçik evcil ətçil məməli.",
+        "descriptionUK": "невеликий одомашнений м'ясоїдний ссавець з м'яким хутром, короткою мордою та втяжними кігтями."
     }, {
         "de": "die Literatur",
         "en": "literature",
         "ru": "литература",
+        "tr": "edebiyat",
+        "az": "ədəbiyyat",
+        "uk": "література",
         "descriptionEN": "written works, especially those considered of superior or lasting artistic merit.",
         "descriptionRU": "письменные произведения, особенно те, которые считаются выдающимися или долговечными художественными достижениями.",
-        "descriptionDE": "Schriftliche Werke, insbesondere solche, die als von überragender oder dauerhafter künstlerischer Qualität angesehen werden."
+        "descriptionDE": "Schriftliche Werke, insbesondere solche, die als von überragender oder dauerhafter künstlerischer Qualität angesehen werden.",
+        "descriptionTR": "Yazılı eserler, özellikle üstün veya kalıcı sanatsal değere sahip olduğu düşünülenler.",
+        "descriptionAZ": "Yazılı əsərlər, xüsusilə üstün və ya davamlı bədii dəyərə malik olanlar.",
+        "descriptionUK": "письмові твори, особливо ті, що вважаються вищою або тривалою художньою цінністю."
     }, {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
         "descriptionEN": "a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
         "descriptionRU": "человек, которого один знает и с которым у него есть связь взаимной привязанности, обычно исключая сексуальные или семейные отношения.",
-        "descriptionDE": "Eine Person, die man kennt und mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise ohne sexuelle oder familiäre Beziehungen."
+        "descriptionDE": "Eine Person, die man kennt und mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise ohne sexuelle oder familiäre Beziehungen.",
+        "descriptionTR": "Tanıdığı ve karşılıklı sevgi bağı olan, genellikle cinsel veya aile ilişkileri dışında bir kişi.",
+        "descriptionAZ": "Tanıdığı və qarşılıqlı məhəbbət əlaqəsi olan, adətən cinsi və ya ailə münasibətlərindən kənar bir şəxs.",
+        "descriptionUK": "людина, яку знають і з якою мають зв'язок взаємної прихильності, як правило, без сексуальних або сімейних стосунків."
     }, {
         "de": "spazieren",
         "en": "to walk",
         "ru": "гулять",
+        "tr": "yürümek",
+        "az": "gəzmək",
+        "uk": "гуляти",
         "descriptionEN": "move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
         "descriptionRU": "двигаться с регулярной скоростью, поднимая и опуская каждую ногу по очереди, никогда не имея обе ноги в воздухе одновременно.",
-        "descriptionDE": "Sich mit regelmäßigem Tempo bewegen, indem man jeden Fuß abwechselnd anhebt und absetzt, ohne beide Füße gleichzeitig vom Boden zu heben."
+        "descriptionDE": "Sich mit regelmäßigem Tempo bewegen, indem man jeden Fuß abwechselnd anhebt und absetzt, ohne beide Füße gleichzeitig vom Boden zu heben.",
+        "descriptionTR": "Her ayağı sırayla kaldırıp indirerek düzenli bir hızda hareket etmek, iki ayağın aynı anda yerden kesilmemesi.",
+        "descriptionAZ": "Hər ayağı növbə ilə qaldırıb yerə qoyaraq müntəzəm sürətlə hərəkət etmək, heç vaxt hər iki ayağın eyni anda yerdən kəsilməməsi.",
+        "descriptionUK": "пересуватися звичайною швидкістю, по черзі піднімаючи та опускаючи кожну ногу, ніколи не відриваючи обидві ноги від землі одночасно."
     }, {
         "de": "essen",
         "en": "to eat",
         "ru": "есть",
+        "tr": "yemek",
+        "az": "yemek",
+        "uk": "їсти",
         "descriptionEN": "put (food) into the mouth and chew and swallow it.",
         "descriptionRU": "класть (пищу) в рот, пережевывать и глотать.",
-        "descriptionDE": "Lebensmittel in den Mund legen, kauen und schlucken."
+        "descriptionDE": "Lebensmittel in den Mund legen, kauen und schlucken.",
+        "descriptionTR": "(Yiyeceği) ağıza koymak, çiğnemek ve yutmak.",
+        "descriptionAZ": "(Yeməyi) ağza qoymaq, çeynəmək və udmaq.",
+        "descriptionUK": "класти (їжу) до рота, жувати та ковтати її."
     }, {
         "de": "gehen",
         "en": "to go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
         "descriptionEN": "move from one place to another; travel.",
         "descriptionRU": "перемещаться из одного места в другое; путешествовать.",
-        "descriptionDE": "Sich von einem Ort zum anderen bewegen; reisen."
+        "descriptionDE": "Sich von einem Ort zum anderen bewegen; reisen.",
+        "descriptionTR": "Bir yerden başka bir yere hareket etmek; seyahat etmek.",
+        "descriptionAZ": "Bir yerdən başqa yerə hərəkət etmək; səyahət etmək.",
+        "descriptionUK": "переміщатися з одного місця в інше; подорожувати."
     }, {
         "de": "kochen",
         "en": "to cook",
         "ru": "готовить",
+        "tr": "pişirmek",
+        "az": "bişirmək",
+        "uk": "готувати",
         "descriptionEN": "prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways.",
         "descriptionRU": "приготовить (пищу, блюдо или еду), смешав и нагревая ингредиенты различными способами.",
-        "descriptionDE": "Zubereiten (Lebensmittel, ein Gericht oder eine Mahlzeit), indem man die Zutaten auf verschiedene Weise kombiniert und erhitzt."
+        "descriptionDE": "Zubereiten (Lebensmittel, ein Gericht oder eine Mahlzeit), indem man die Zutaten auf verschiedene Weise kombiniert und erhitzt.",
+        "descriptionTR": "Malzemeleri çeşitli şekillerde birleştirerek ve ısıtarak (yemek, bir yemek veya bir öğün) hazırlamak.",
+        "descriptionAZ": "Tərkib hissələrini müxtəlif yollarla birləşdirərək və qızdıraraq (qida, yemək və ya yemək) hazırlamaq.",
+        "descriptionUK": "готувати (їжу, страву або їжу), поєднуючи та нагріваючи інгредієнти різними способами."
     }, {
         "de": "lang",
         "en": "long",
         "ru": "длинный",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довгий",
         "descriptionEN": "measuring a great distance from end to end.",
         "descriptionRU": "измеряющий большое расстояние от конца до конца.",
-        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende.",
+        "descriptionTR": "Uçtan uca büyük bir mesafe ölçmek.",
+        "descriptionAZ": "Başdan-başa böyük bir məsafəni ölçmək.",
+        "descriptionUK": "вимірювання великої відстані від краю до краю."
     }, {
         "de": "gerne",
         "en": "gladly",
         "ru": "охотно",
+        "tr": "memnuniyetle",
+        "az": "məmnuniyyətlə",
+        "uk": "охоче",
         "descriptionEN": "in a willing manner.",
         "descriptionRU": "охотно.",
-        "descriptionDE": "Bereitwillig."
+        "descriptionDE": "Bereitwillig.",
+        "descriptionTR": "İstekli bir şekilde.",
+        "descriptionAZ": "Könüllü şəkildə.",
+        "descriptionUK": "охочим чином."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionEN": "many times at short intervals.",
         "descriptionRU": "много раз в короткие интервалы.",
-        "descriptionDE": "Viele Male in kurzen Abständen."
+        "descriptionDE": "Viele Male in kurzen Abständen.",
+        "descriptionTR": "Kısa aralıklarla birçok kez.",
+        "descriptionAZ": "Qısa aralıqlarla çox vaxt.",
+        "descriptionUK": "багато разів через короткі проміжки часу."
     }, {
         "de": "lange",
         "en": "long",
         "ru": "долго",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довго",
         "descriptionEN": "for a considerable time.",
         "descriptionRU": "в течение значительного времени.",
-        "descriptionDE": "Für eine beträchtliche Zeit."
+        "descriptionDE": "Für eine beträchtliche Zeit.",
+        "descriptionTR": "Önemli bir süre için.",
+        "descriptionAZ": "Xeyli müddətə.",
+        "descriptionUK": "протягом значного часу."
     }, {
         "de": "manchmal",
         "en": "sometimes",
         "ru": "иногда",
+        "tr": "bazen",
+        "az": "bəzən",
+        "uk": "іноді",
         "descriptionEN": "on certain occasions or in certain cases but not always.",
         "descriptionRU": "в некоторых случаях или в определенных случаях, но не всегда.",
-        "descriptionDE": "Bei bestimmten Gelegenheiten oder in bestimmten Fällen, aber nicht immer."
+        "descriptionDE": "Bei bestimmten Gelegenheiten oder in bestimmten Fällen, aber nicht immer.",
+        "descriptionTR": "Bazı durumlarda veya belirli durumlarda ancak her zaman değil.",
+        "descriptionAZ": "Bəzi hallarda və ya müəyyən hallarda, lakin həmişə yox.",
+        "descriptionUK": "у деяких випадках або в певних випадках, але не завжди."
     }, {
         "de": "eis",
         "en": "ice",
         "ru": "ледяной",
+        "tr": "buz",
+        "az": "buz",
+        "uk": "льодовик",
         "descriptionEN": "frozen water, a brittle transparent crystalline solid.",
         "descriptionRU": "замороженная вода, хрупкое прозрачное кристаллическое твердое вещество.",
-        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff."
+        "descriptionDE": "Gefrorenes Wasser, ein sprödes, transparentes, kristallines Feststoff.",
+        "descriptionTR": "Donmuş su, kırılgan şeffaf kristal bir katı.",
+        "descriptionAZ": "Donmuş su, kövrək şəffaf kristal bərk maddə.",
+        "descriptionUK": "заморожена вода, крихка прозора кристалічна тверда речовина."
     }
 ]

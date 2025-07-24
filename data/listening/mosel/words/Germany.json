@@ -3,113 +3,209 @@
         "de": "die Weinberge",
         "en": "vineyards",
         "ru": "виноградники",
+        "tr": "bağlar",
+        "az": "üzüm bağları",
+        "uk": "виноградники",
         "descriptionEN": "An area of land where grapevines are grown for winemaking.",
         "descriptionRU": "Участок земли, на котором выращиваются виноградные лозы для производства вина.",
-        "descriptionDE": "Ein Gebiet, in dem Reben für die Weinproduktion angebaut werden."
+        "descriptionDE": "Ein Gebiet, in dem Reben für die Weinproduktion angebaut werden.",
+        "descriptionTR": "Şarap yapımı için üzüm asmalarının yetiştirildiği bir arazi.",
+        "descriptionAZ": "Şərab istehsalı üçün üzüm yetişdirilən torpaq sahəsi.",
+        "descriptionUK": "Ділянка землі, де вирощують виноградні лози для виробництва вина."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "All the visible features of an area of land, often considered in terms of their aesthetic appeal.",
         "descriptionRU": "Все видимые особенности участка земли, часто рассматриваемые с эстетической точки зрения.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft in Bezug auf ihre ästhetische Anziehungskraft."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft in Bezug auf ihre ästhetische Anziehungskraft.",
+        "descriptionTR": "Bir arazi parçasının tüm görünür özellikleri, genellikle estetik çekicilik açısından değerlendirilir.",
+        "descriptionAZ": "Torpaq sahəsinin bütün görünən xüsusiyyətləri, tez-tez estetik cəhətdən qiymətləndirilir.",
+        "descriptionUK": "Усі видимі особливості ділянки землі, які часто розглядаються з естетичної точки зору."
     }, {
         "de": "die Burg",
         "en": "fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
         "descriptionEN": "A large fortified building or military stronghold.",
         "descriptionRU": "Большое укрепленное здание или военное укрепление.",
-        "descriptionDE": "Ein großes befestigtes Gebäude oder militärische Festung."
+        "descriptionDE": "Ein großes befestigtes Gebäude oder militärische Festung.",
+        "descriptionTR": "Büyük, tahkimli bir bina veya askeri karargah.",
+        "descriptionAZ": "Böyük möhkəmləndirilmiş bina və ya hərbi qala.",
+        "descriptionUK": "Велика укріплена споруда або військовий опорний пункт."
     }, {
         "de": "die Region",
         "en": "region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "region",
+        "uk": "регіон",
         "descriptionEN": "An area, especially part of a country or the world, having definable characteristics but not always fixed boundaries.",
         "descriptionRU": "Участок земли, особенно часть страны или мира, имеющая определенные характеристики, но не всегда фиксированные границы.",
-        "descriptionDE": "Ein Gebiet, besonders ein Teil eines Landes oder der Welt, das definierbare Merkmale aufweist, aber nicht immer feste Grenzen hat."
+        "descriptionDE": "Ein Gebiet, besonders ein Teil eines Landes oder der Welt, das definierbare Merkmale aufweist, aber nicht immer feste Grenzen hat.",
+        "descriptionTR": "Özellikle bir ülkenin veya dünyanın bir parçası olan, tanımlanabilir özelliklere sahip ancak her zaman sabit sınırları olmayan bir alan.",
+        "descriptionAZ": "Xüsusilə bir ölkənin və ya dünyanın bir hissəsi olan, müəyyən edilə bilən xüsusiyyətlərə malik, lakin həmişə sabit sərhədləri olmayan bir ərazi.",
+        "descriptionUK": "Ділянка землі, особливо частина країни або світу, що має визначені характеристики, але не завжди фіксовані кордони."
     }, {
         "de": "der Frühling",
         "en": "spring",
         "ru": "весна",
+        "tr": "ilkbahar",
+        "az": "yaz",
+        "uk": "весна",
         "descriptionEN": "The season of the year between winter and summer, characterized by warmer weather and the growth of plants.",
         "descriptionRU": "Сезон года между зимой и летом, характеризующийся более теплой погодой и ростом растений.",
-        "descriptionDE": "Die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch wärmeres Wetter und das Wachstum von Pflanzen."
+        "descriptionDE": "Die Jahreszeit zwischen Winter und Sommer, gekennzeichnet durch wärmeres Wetter und das Wachstum von Pflanzen.",
+        "descriptionTR": "Kış ve yaz arasındaki, daha sıcak hava ve bitkilerin büyümesi ile karakterize edilen yılın mevsimi.",
+        "descriptionAZ": "Qış və yaz arasında, daha isti hava və bitkilərin böyüməsi ilə xarakterizə olunan il fəsli.",
+        "descriptionUK": "Пора року між зимою та літом, що характеризується теплішою погодою та ростом рослин."
     }, {
         "de": "das Tal",
         "en": "valley",
         "ru": "долина",
+        "tr": "vadi",
+        "az": "vadi",
+        "uk": "долина",
         "descriptionEN": "A low area of land between hills or mountains, often with a river running through it.",
         "descriptionRU": "Низкая область земли между холмами или горами, часто с рекой, протекающей через нее.",
-        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, oft mit einem Fluss, der hindurchfließt."
+        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, oft mit einem Fluss, der hindurchfließt.",
+        "descriptionTR": "Tepeler veya dağlar arasında, genellikle bir nehrin aktığı alçak arazi.",
+        "descriptionAZ": "Təpələr və ya dağlar arasında, tez-tez çay axan alçaq torpaq sahəsi.",
+        "descriptionUK": "Низька ділянка землі між пагорбами чи горами, часто з річкою, що протікає через неї."
     }, {
         "de": "die Ruine",
         "en": "ruin",
         "ru": "руины",
+        "tr": "harabe",
+        "az": "xaraba",
+        "uk": "руїни",
         "descriptionEN": "The remains of a building, typically one that has been destroyed or fallen into disrepair.",
         "descriptionRU": "Остатки здания, обычно разрушенного или пришедшего в упадок.",
-        "descriptionDE": "Die Überreste eines Gebäudes, das typischerweise zerstört oder in Verfall geraten ist."
+        "descriptionDE": "Die Überreste eines Gebäudes, das typischerweise zerstört oder in Verfall geraten ist.",
+        "descriptionTR": "Genellikle yıkılmış veya harap olmuş bir binanın kalıntıları.",
+        "descriptionAZ": "Adətən dağıdılmış və ya xarabalığa çevrilmiş binanın qalıqları.",
+        "descriptionUK": "Залишки будівлі, зазвичай зруйнованої або занедбаної."
     }, {
         "de": "der Geschmack",
         "en": "taste",
         "ru": "вкус",
+        "tr": "tat",
+        "az": "dad",
+        "uk": "смак",
         "descriptionEN": "The sensation of flavor perceived in the mouth, especially in relation to food or drink.",
         "descriptionRU": "Ощущение вкуса, воспринимаемое во рту, особенно в отношении пищи или напитков.",
-        "descriptionDE": "Die Geschmackswahrnehmung im Mund, insbesondere im Zusammenhang mit Essen oder Trinken."
+        "descriptionDE": "Die Geschmackswahrnehmung im Mund, insbesondere im Zusammenhang mit Essen oder Trinken.",
+        "descriptionTR": "Özellikle yiyecek veya içeceklerle ilgili olarak ağızda algılanan lezzet hissi.",
+        "descriptionAZ": "Xüsusilə qida və ya içkilərlə əlaqədar ağızda hiss olunan dad hissi.",
+        "descriptionUK": "Відчуття смаку, яке сприймається в роті, особливо щодо їжі чи напоїв."
     }, {
         "de": "die Saison",
         "en": "season",
         "ru": "сезон",
+        "tr": "mevsim",
+        "az": "mövsüm",
+        "uk": "сезон",
         "descriptionEN": "A period of the year characterized by particular weather conditions or activities.",
         "descriptionRU": "Период года, характеризующийся определенными погодными условиями или деятельностью.",
-        "descriptionDE": "Ein Zeitraum des Jahres, der durch bestimmte Wetterbedingungen oder Aktivitäten gekennzeichnet ist."
+        "descriptionDE": "Ein Zeitraum des Jahres, der durch bestimmte Wetterbedingungen oder Aktivitäten gekennzeichnet ist.",
+        "descriptionTR": "Belirli hava koşulları veya aktivitelerle karakterize edilen bir yıl dönemi.",
+        "descriptionAZ": "Müəyyən hava şəraiti və ya fəaliyyətləri ilə xarakterizə olunan il dövrü.",
+        "descriptionUK": "Період року, що характеризується певними погодними умовами чи діяльністю."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionEN": "A large and permanent settlement, typically with a significant population and infrastructure.",
         "descriptionRU": "Большое и постоянное поселение, обычно с большим населением и инфраструктурой.",
-        "descriptionDE": "Eine große und dauerhafte Siedlung, typischerweise mit einer signifikanten Bevölkerung und Infrastruktur."
+        "descriptionDE": "Eine große und dauerhafte Siedlung, typischerweise mit einer signifikanten Bevölkerung und Infrastruktur.",
+        "descriptionTR": "Genellikle önemli bir nüfusa ve altyapıya sahip büyük ve kalıcı bir yerleşim yeri.",
+        "descriptionAZ": "Adətən əhəmiyyətli əhali və infrastruktura malik böyük və daimi yaşayış məntəqəsi.",
+        "descriptionUK": "Велике та постійне поселення, зазвичай зі значною кількістю населення та інфраструктурою."
     }, {
         "de": "wandern",
         "en": "to hike",
         "ru": "походить",
+        "tr": "yürüyüş yapmak",
+        "az": "gəzmək",
+        "uk": "походити",
         "descriptionEN": "To walk long distances, especially in nature or through a rural area.",
         "descriptionRU": "Ходить на большие расстояния, особенно по природе или через сельскую местность.",
-        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders in der Natur oder durch ländliche Gebiete."
+        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders in der Natur oder durch ländliche Gebiete.",
+        "descriptionTR": "Özellikle doğada veya kırsal bir bölgede uzun mesafeler yürümek.",
+        "descriptionAZ": "Xüsusilə təbiətdə və ya kənd ərazisində uzun məsafələrə piyada getmək.",
+        "descriptionUK": "Ходити на великі відстані, особливо природою чи сільською місцевістю."
     }, {
         "de": "probieren",
         "en": "to try",
         "ru": "попробовать",
+        "tr": "denemek",
+        "az": "sınamaq",
+        "uk": "спробувати",
         "descriptionEN": "To attempt or test something, especially food or drink.",
         "descriptionRU": "Попробовать или испытать что-то, особенно еду или напитки.",
-        "descriptionDE": "Etwas versuchen oder testen, besonders Essen oder Trinken."
+        "descriptionDE": "Etwas versuchen oder testen, besonders Essen oder Trinken.",
+        "descriptionTR": "Bir şeyi denemek veya test etmek, özellikle yiyecek veya içecek.",
+        "descriptionAZ": "Nəyisə sınamaq və ya yoxlamaq, xüsusilə qida və ya içki.",
+        "descriptionUK": "Спробувати або протестувати щось, особливо їжу чи напої."
     }, {
         "de": "köstlich",
         "en": "delicious",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "ləzzətli",
+        "uk": "смачний",
         "descriptionEN": "Highly pleasing to the taste.",
         "descriptionRU": "Очень приятный на вкус.",
-        "descriptionDE": "Sehr angenehm im Geschmack."
+        "descriptionDE": "Sehr angenehm im Geschmack.",
+        "descriptionTR": "Damak tadına son derece hoş gelen.",
+        "descriptionAZ": "Dada son dərəcə xoş gələn.",
+        "descriptionUK": "Дуже приємний на смак."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsici",
+        "uk": "захоплюючий",
         "descriptionEN": "Causing great admiration or awe.",
         "descriptionRU": "Вызывающий восхищение или благоговение.",
-        "descriptionDE": "Großartige Bewunderung oder Ehrfurcht verursachend."
+        "descriptionDE": "Großartige Bewunderung oder Ehrfurcht verursachend.",
+        "descriptionTR": "Büyük hayranlık veya huşu uyandıran.",
+        "descriptionAZ": "Böyük heyranlıq və ya ehtiram oyadan.",
+        "descriptionUK": "Викликає велике захоплення чи благоговіння."
     }, {
         "de": "ruhig",
         "en": "calm",
         "ru": "спокойный",
+        "tr": "sakin",
+        "az": "sakit",
+        "uk": "спокійний",
         "descriptionEN": "Free from disturbance or agitation.",
         "descriptionRU": "Свободный от беспокойства или возбуждения.",
-        "descriptionDE": "Frei von Störungen oder Aufregung."
+        "descriptionDE": "Frei von Störungen oder Aufregung.",
+        "descriptionTR": "Rahatsızlık veya heyecandan uzak.",
+        "descriptionAZ": "Narahatlıq və ya həyəcandan uzaq.",
+        "descriptionUK": "Вільний від занепокоєння чи збудження."
     }, {
         "de": "idyllisch",
         "en": "idyllic",
         "ru": "идиллический",
+        "tr": "pastoral",
+        "az": "idillik",
+        "uk": "іділічний",
         "descriptionEN": "Charming in a rustic or peaceful way.",
         "descriptionRU": "Очаровательный в сельском или мирном стиле.",
-        "descriptionDE": "Charmant auf eine rustikale oder friedliche Weise."
+        "descriptionDE": "Charmant auf eine rustikale oder friedliche Weise.",
+        "descriptionTR": "Rustik veya huzurlu bir şekilde büyüleyici.",
+        "descriptionAZ": "Kənd təsərrüfatı və ya sakit bir şəkildə cazibədar.",
+        "descriptionUK": "Чарівний у сільському або мирному стилі."
     }
 ]

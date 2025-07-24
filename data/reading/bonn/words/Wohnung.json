@@ -3,85 +3,157 @@
         "de": "die Suche",
         "en": "search",
         "ru": "поиск",
+        "tr": "arama",
+        "az": "axtarış",
+        "uk": "пошук",
         "descriptionEN": "the act or process of looking for something",
         "descriptionRU": "действие или процесс поиска чего-либо",
-        "descriptionDE": "Das Handeln oder der Prozess des Suchens nach etwas"
+        "descriptionDE": "Das Handeln oder der Prozess des Suchens nach etwas",
+        "descriptionTR": "bir şeyi arama eylemi veya süreci",
+        "descriptionAZ": "bir şeyi axtarma əməliyyatı və ya prosesi",
+        "descriptionUK": "дія або процес пошуку чогось"
     }, {
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "tr": "daire",
+        "az": "mənzil",
+        "uk": "квартира",
         "descriptionEN": "a set of rooms for living in, usually on one floor of a building",
         "descriptionRU": "набор комнат для жизни, обычно на одном этаже здания",
-        "descriptionDE": "Eine Reihe von Zimmern zum Wohnen, normalerweise auf einer Etage eines Gebäudes"
+        "descriptionDE": "Eine Reihe von Zimmern zum Wohnen, normalerweise auf einer Etage eines Gebäudes",
+        "descriptionTR": "bir binanın genellikle bir katında bulunan yaşam alanı odalar grubu",
+        "descriptionAZ": "bir binanın adətən bir mərtəbəsində yerləşən yaşayış üçün otaqlar dəsti",
+        "descriptionUK": "набір кімнат для проживання, зазвичай на одному поверсі будівлі"
     }, {
         "de": "der Stadtteil",
         "en": "neighborhood",
         "ru": "район",
+        "tr": "mahalle",
+        "az": "məhəllə",
+        "uk": "район",
         "descriptionEN": "a district or community within a town or city",
         "descriptionRU": "район или община внутри города",
-        "descriptionDE": "Ein Stadtbezirk oder eine Gemeinde innerhalb einer Stadt"
+        "descriptionDE": "Ein Stadtbezirk oder eine Gemeinde innerhalb einer Stadt",
+        "descriptionTR": "bir kasaba veya şehir içindeki semt veya topluluk",
+        "descriptionAZ": "şəhər və ya qəsəbə daxilində rayon və ya icma",
+        "descriptionUK": "район або громада в межах міста"
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "a large public green area in a town, used for recreation",
         "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха",
-        "descriptionDE": "Eine große öffentliche Grünfläche in einer Stadt, die zur Erholung genutzt wird"
+        "descriptionDE": "Eine große öffentliche Grünfläche in einer Stadt, die zur Erholung genutzt wird",
+        "descriptionTR": "bir şehirde dinlenme amaçlı kullanılan geniş halka açık yeşil alan",
+        "descriptionAZ": "istirahət üçün istifadə olunan şəhərdə böyük ictimai yaşıl sahə",
+        "descriptionUK": "велика громадська зелена зона у місті, використовувана для відпочинку"
     }, {
         "de": "der Vermieter",
         "en": "landlord",
         "ru": "арендодатель",
+        "tr": "ev sahibi",
+        "az": "icarədar",
+        "uk": "орендодавець",
         "descriptionEN": "a person who owns property and rents it to others",
         "descriptionRU": "человек, владеющий недвижимостью и сдает ее в аренду другим",
-        "descriptionDE": "Eine Person, die Eigentum besitzt und es an andere vermietet"
+        "descriptionDE": "Eine Person, die Eigentum besitzt und es an andere vermietet",
+        "descriptionTR": "mülk sahibi olan ve başkalarına kiralayan kişi",
+        "descriptionAZ": "əmlaka sahib olan və başqalarına icarəyə verən şəxs",
+        "descriptionUK": "особа, яка володіє нерухомістю та здає її в оренду іншим"
     }, {
         "de": "die Arbeit",
         "en": "work",
         "ru": "работа",
+        "tr": "iş",
+        "az": "iş",
+        "uk": "робота",
         "descriptionEN": "activity involving mental or physical effort done in order to achieve a purpose or result",
         "descriptionRU": "деятельность, требующая умственного или физического усилия, совершаемая с целью достижения результата",
-        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein bestimmtes Ziel oder Ergebnis zu erreichen"
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein bestimmtes Ziel oder Ergebnis zu erreichen",
+        "descriptionTR": "bir amaç veya sonuç elde etmek için zihinsel veya fiziksel çaba gerektiren aktivite",
+        "descriptionAZ": "məqsəd və ya nəticə əldə etmək üçün əqli və ya fiziki səy tələb edən fəaliyyət",
+        "descriptionUK": "діяльність, що вимагає розумових або фізичних зусиль для досягнення мети чи результату"
     }, {
         "de": "die Lage",
         "en": "location",
         "ru": "местоположение",
+        "tr": "konum",
+        "az": "məkan",
+        "uk": "розташування",
         "descriptionEN": "a particular place or position",
         "descriptionRU": "определенное место или позиция",
-        "descriptionDE": "Ein bestimmter Ort oder eine bestimmte Position"
+        "descriptionDE": "Ein bestimmter Ort oder eine bestimmte Position",
+        "descriptionTR": "belirli bir yer veya pozisyon",
+        "descriptionAZ": "müəyyən bir yer və ya mövqe",
+        "descriptionUK": "конкретне місце або позиція"
     }, {
         "de": "die Budget",
         "en": "budget",
         "ru": "бюджет",
+        "tr": "bütçe",
+        "az": "büdcə",
+        "uk": "бюджет",
         "descriptionEN": "an estimate of income and expenditure for a set period of time",
         "descriptionRU": "прогноз доходов и расходов на определенный период времени",
-        "descriptionDE": "Eine Schätzung von Einnahmen und Ausgaben für einen festgelegten Zeitraum"
+        "descriptionDE": "Eine Schätzung von Einnahmen und Ausgaben für einen festgelegten Zeitraum",
+        "descriptionTR": "belirli bir zaman dilimi için gelir ve gider tahmini",
+        "descriptionAZ": "müəyyən bir müddət üçün gəlir və xərclərin təxmini",
+        "descriptionUK": "прогноз доходів і витрат на певний період часу"
     }, {
         "de": "beschlossen",
         "en": "decided",
         "ru": "решился",
+        "tr": "karar verdi",
+        "az": "qərar verdi",
+        "uk": "ухвалив рішення",
         "descriptionEN": "made a firm decision about something",
         "descriptionRU": "принял твердое решение о чем-то",
-        "descriptionDE": "Eine feste Entscheidung über etwas getroffen"
+        "descriptionDE": "Eine feste Entscheidung über etwas getroffen",
+        "descriptionTR": "bir konuda kesin karar vermek",
+        "descriptionAZ": "bir şey haqqında möhkəm qərar vermək",
+        "descriptionUK": "прийняв тверде рішення про щось"
     }, {
         "de": "gewühlt",
         "en": "sifted",
         "ru": "просеивал",
+        "tr": "elekten geçirdi",
+        "az": "ələkdən keçirdi",
+        "uk": "просіював",
         "descriptionEN": "examined or searched through (something) systematically",
         "descriptionRU": "систематически осматривал или искал (что-то)",
-        "descriptionDE": "Systematisch untersucht oder durchsucht (etwas)"
+        "descriptionDE": "Systematisch untersucht oder durchsucht (etwas)",
+        "descriptionTR": "(bir şeyi) sistematik olarak inceledi veya aradı",
+        "descriptionAZ": "(bir şeyi) sistematik şəkildə yoxladı və ya axtardı",
+        "descriptionUK": "систематично оглядав або шукав (щось)"
     }, {
         "de": "persönlich",
         "en": "personally",
         "ru": "лично",
+        "tr": "kişisel olarak",
+        "az": "şəxsən",
+        "uk": "особисто",
         "descriptionEN": "in a way that is personally and directly related to oneself",
         "descriptionRU": "таким образом, что лично и прямо относится к себе",
-        "descriptionDE": "Auf eine Weise, die persönlich und direkt mit einem selbst verbunden ist"
+        "descriptionDE": "Auf eine Weise, die persönlich und direkt mit einem selbst verbunden ist",
+        "descriptionTR": "kişisel ve doğrudan kendisiyle ilgili bir şekilde",
+        "descriptionAZ": "şəxsi və birbaşa özü ilə əlaqəli bir şəkildə",
+        "descriptionUK": "у спосіб, який особисто та безпосередньо стосується себе"
     }, {
         "de": "perfekt",
         "en": "perfect",
         "ru": "идеальный",
+        "tr": "mükemmel",
+        "az": "mükəmməl",
+        "uk": "ідеальний",
         "descriptionEN": "having all the required or desirable elements, qualities, or characteristics",
         "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики",
-        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend"
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend",
+        "descriptionTR": "gerekli veya arzu edilen tüm unsurlara, niteliklere veya özelliklere sahip olma",
+        "descriptionAZ": "bütün tələb olunan və ya arzu olunan elementlərə, keyfiyyətlərə və ya xüsusiyyətlərə malik olmaq",
+        "descriptionUK": "має всі необхідні або бажані елементи, якості чи характеристики"
     }
 ]

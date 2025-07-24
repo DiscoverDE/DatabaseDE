@@ -3,176 +3,326 @@
         "de": "das Erbe",
         "en": "Heritage",
         "ru": "Наследие",
+        "tr": "Miras",
+        "az": "İrs",
+        "uk": "Спадщина",
         "descriptionEN": "Valued objects and qualities such as cultural traditions passed down from previous generations.",
         "descriptionRU": "Ценные объекты и качества, такие как культурные традиции, передаваемые от предыдущих поколений.",
-        "descriptionDE": "Wertvolle Objekte und Qualitäten wie kulturelle Traditionen, die von früheren Generationen weitergegeben werden."
+        "descriptionDE": "Wertvolle Objekte und Qualitäten wie kulturelle Traditionen, die von früheren Generationen weitergegeben werden.",
+        "descriptionTR": "Önceki nesillerden aktarılan kültürel gelenekler gibi değerli nesneler ve nitelikler.",
+        "descriptionAZ": "Əvvəlki nəsillərdən ötürülən mədəni ənənələr kimi qiymətli əşyalar və keyfiyyətlər.",
+        "descriptionUK": "Цінні об'єкти та якості, такі як культурні традиції, що передаються від попередніх поколінь."
     }, {
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "tr": "Tarih",
+        "az": "Tarix",
+        "uk": "Історія",
         "descriptionEN": "The study of past events, particularly in human affairs.",
         "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinin incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərinin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "Kültür",
+        "az": "Mədəniyyət",
+        "uk": "Культура",
         "descriptionEN": "The arts and other manifestations of human intellectual achievement regarded collectively.",
         "descriptionRU": "Искусство и другие проявления человеческих интеллектуальных достижений, рассматриваемые в совокупности.",
-        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden."
+        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden.",
+        "descriptionTR": "Sanat ve insanın entelektüel başarılarının diğer tezahürleri, toplu olarak değerlendirilir.",
+        "descriptionAZ": "Sənət və insanın intellektual nailiyyətlərinin digər təzahürləri, kollektiv şəkildə nəzərdən keçirilir.",
+        "descriptionUK": "Мистецтво та інші прояви інтелектуальних досягнень людства, що розглядаються в сукупності."
     }, {
         "de": "die Region",
         "en": "Region",
         "ru": "Регион",
+        "tr": "Bölge",
+        "az": "Region",
+        "uk": "Регіон",
         "descriptionEN": "An area or division, especially part of a country or the world having definable characteristics.",
         "descriptionRU": "Область или раздел, особенно часть страны или мира, имеющая определимые характеристики.",
-        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt mit definierbaren Merkmalen."
+        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt mit definierbaren Merkmalen.",
+        "descriptionTR": "Bir alan veya bölüm, özellikle tanımlanabilir özelliklere sahip bir ülkenin veya dünyanın bir parçası.",
+        "descriptionAZ": "Bir sahə və ya bölmə, xüsusilə müəyyən edilə bilən xüsusiyyətlərə malik bir ölkənin və ya dünyanın bir hissəsi.",
+        "descriptionUK": "Область чи поділ, особливо частина країни чи світу, що має визначені характеристики."
     }, {
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "tr": "Katedral",
+        "az": "Kafedral",
+        "uk": "Собор",
         "descriptionEN": "The principal church of a diocese, with which the bishop is officially associated.",
         "descriptionRU": "Главная церковь епархии, с которой официально связан епископ.",
-        "descriptionDE": "Die Hauptkirche einer Diözese, mit der der Bischof offiziell verbunden ist."
+        "descriptionDE": "Die Hauptkirche einer Diözese, mit der der Bischof offiziell verbunden ist.",
+        "descriptionTR": "Bir piskoposun resmi olarak bağlı olduğu bir piskoposluğun ana kilisesi.",
+        "descriptionAZ": "Rəsmi olaraq yepiskopun bağlı olduğu yeparxiyanın baş kilsəsi.",
+        "descriptionUK": "Головна церква єпархії, з якою офіційно пов'язаний єпископ."
     }, {
         "de": "der Wein",
         "en": "Wine",
         "ru": "Вино",
+        "tr": "Şarap",
+        "az": "Şərab",
+        "uk": "Вино",
         "descriptionEN": "An alcoholic drink made from fermented grape juice.",
         "descriptionRU": "Алкогольный напиток, сделанный из ферментированного виноградного сока.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird.",
+        "descriptionTR": "Fermente üzüm suyundan yapılan alkollü bir içecek.",
+        "descriptionAZ": "Qarışmış üzüm şirəsindən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, зроблений із ферментованого виноградного соку."
     }, {
         "de": "der Markt",
         "en": "Market",
         "ru": "Рынок",
+        "tr": "Pazar",
+        "az": "Bazar",
+        "uk": "Ринок",
         "descriptionEN": "A regular gathering of people for the purchase and sale of provisions, livestock, and other goods.",
         "descriptionRU": "Регулярное собрание людей для покупки и продажи провизии, скота и других товаров.",
-        "descriptionDE": "Eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Vorräten, Vieh und anderen Waren."
+        "descriptionDE": "Eine regelmäßige Versammlung von Menschen zum Kauf und Verkauf von Vorräten, Vieh und anderen Waren.",
+        "descriptionTR": "Erzak, canlı hayvan ve diğer malların alım satımı için düzenli olarak toplanan insanlar.",
+        "descriptionAZ": "Təchizat, mal-qara və digər malların alınıb-satılması üçün müntəzəm olaraq toplanan insanlar.",
+        "descriptionUK": "Регулярні збори людей для купівлі та продажу провізії, худоби та інших товарів."
     }, {
         "de": "die Mosel",
         "en": "Moselle",
         "ru": "Мозель",
+        "tr": "Moselle",
+        "az": "Moselle",
+        "uk": "Мозель",
         "descriptionEN": "A river in western Europe that rises in the Vosges Mountains and flows through France, Luxembourg, and Germany.",
         "descriptionRU": "Река в Западной Европе, которая берет начало в Вогезах и протекает через Францию, Люксембург и Германию.",
-        "descriptionDE": "Ein Fluss in Westeuropa, der in den Vogesen entspringt und durch Frankreich, Luxemburg und Deutschland fließt."
+        "descriptionDE": "Ein Fluss in Westeuropa, der in den Vogesen entspringt und durch Frankreich, Luxemburg und Deutschland fließt.",
+        "descriptionTR": "Vosges Dağları'ndan doğan ve Fransa, Lüksemburg ve Almanya'dan geçen Batı Avrupa'da bir nehir.",
+        "descriptionAZ": "Voj dağlarından qaynaqlanan və Fransa, Lüksemburq və Almaniyadan axan Qərbi Avropada bir çay.",
+        "descriptionUK": "Річка у Західній Європі, яка бере початок у Вогезах і протікає через Францію, Люксембург та Німеччину."
     }, {
         "de": "das Weingut",
         "en": "Winery",
         "ru": "Винодельня",
+        "tr": "Şaraphane",
+        "az": "Şərab zavodu",
+        "uk": "Винний завод",
         "descriptionEN": "A place where wine is made, especially one where the grapes grown on the premises are used.",
         "descriptionRU": "Место, где производится вино, особенно то, где используются выращенные на территории виноградники.",
-        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird, insbesondere einer, bei dem die vor Ort angebauten Trauben verwendet werden."
+        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird, insbesondere einer, bei dem die vor Ort angebauten Trauben verwendet werden.",
+        "descriptionTR": "Şarap yapılan bir yer, özellikle arazide yetiştirilen üzümlerin kullanıldığı bir yer.",
+        "descriptionAZ": "Şərab istehsal olunan bir yer, xüsusilə ərazidə yetişdirilmiş üzümlərin istifadə olunduğu bir yer.",
+        "descriptionUK": "Місце, де виробляється вино, особливо те, де використовуються виноградники, вирощені на території."
     }, {
         "de": "die Tradition",
         "en": "Tradition",
         "ru": "Традиция",
+        "tr": "Gelenek",
+        "az": "Ənənə",
+        "uk": "Традиція",
         "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
         "descriptionRU": "Передача обычаев или верований из поколения в поколение.",
-        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation."
+        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation.",
+        "descriptionTR": "Geleneklerin veya inançların nesilden nesile aktarılması.",
+        "descriptionAZ": "Adətlərin və ya inancların nəsildən nəslə ötürülməsi.",
+        "descriptionUK": "Передача звичаїв або вірувань із покоління в покоління."
     }, {
         "de": "die Ruine",
         "en": "Ruin",
         "ru": "Руины",
+        "tr": "Harabe",
+        "az": "Xarabalıq",
+        "uk": "Руїни",
         "descriptionEN": "The remains of a building, typically an old one that has suffered much damage or disintegration.",
         "descriptionRU": "Остатки здания, обычно старого, которое сильно повреждено или разрушено.",
-        "descriptionDE": "Die Überreste eines Gebäudes, typischerweise eines alten, das stark beschädigt oder zerfallen ist."
+        "descriptionDE": "Die Überreste eines Gebäudes, typischerweise eines alten, das stark beschädigt oder zerfallen ist.",
+        "descriptionTR": "Genellikle eski ve çok hasar görmüş veya dağılmış bir binanın kalıntıları.",
+        "descriptionAZ": "Adətən köhnə və çox zədələnmiş və ya dağılmış bir binanın qalıqları.",
+        "descriptionUK": "Залишки будівлі, зазвичай старої, яка сильно пошкоджена або зруйнована."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "обнаруживать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find (something or someone) unexpectedly or in the course of a search.",
         "descriptionRU": "Находить (что-то или кого-то) неожиданно или в ходе поиска.",
-        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden."
+        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Verlauf einer Suche finden.",
+        "descriptionTR": "Beklenmedik bir şekilde veya bir arama sırasında (bir şey veya birini) bulmak.",
+        "descriptionAZ": "Gözlənilməz şəkildə və ya axtarış zamanı (bir şey və ya birini) tapmaq.",
+        "descriptionUK": "Знаходити (щось або когось) несподівано або в ході пошуку."
     }, {
         "de": "erleben",
         "en": "to experience",
         "ru": "испытывать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "переживати",
         "descriptionEN": "To encounter or undergo (an event or occurrence).",
         "descriptionRU": "Столкнуться с (событием или случаем) или пережить его.",
-        "descriptionDE": "Einem Ereignis begegnen oder es erleben."
+        "descriptionDE": "Einem Ereignis begegnen oder es erleben.",
+        "descriptionTR": "Bir olayla karşılaşmak veya yaşamak.",
+        "descriptionAZ": "Bir hadisə ilə qarşılaşmaq və ya yaşamaq.",
+        "descriptionUK": "Зіткнутися з (подією чи випадком) або пережити його."
     }, {
         "de": "verkosten",
         "en": "to taste",
         "ru": "пробовать",
+        "tr": "tatmak",
+        "az": "dadmaq",
+        "uk": "пробувати",
         "descriptionEN": "To sample or try the flavor of something.",
         "descriptionRU": "Попробовать или попробовать вкус чего-либо.",
-        "descriptionDE": "Etwas kosten oder den Geschmack probieren."
+        "descriptionDE": "Etwas kosten oder den Geschmack probieren.",
+        "descriptionTR": "Bir şeyin tadına bakmak veya denemek.",
+        "descriptionAZ": "Bir şeyin dadını yoxlamaq və ya sınamaq.",
+        "descriptionUK": "Скуштувати чи спробувати смак чогось."
     }, {
         "de": "besichtigen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "To go to see and spend time in a place or with a person.",
         "descriptionRU": "Идти, чтобы увидеть и провести время в каком-то месте или с кем-то.",
-        "descriptionDE": "Um zu sehen und Zeit an einem Ort oder mit einer Person zu verbringen."
+        "descriptionDE": "Um zu sehen und Zeit an einem Ort oder mit einer Person zu verbringen.",
+        "descriptionTR": "Bir yeri görmeye gitmek veya birisiyle zaman geçirmek.",
+        "descriptionAZ": "Bir yeri görməyə getmək və ya biriylə vaxt keçirmək.",
+        "descriptionUK": "Йти, щоб побачити і провести час у якомусь місці чи з кимось."
     }, {
         "de": "verkaufen",
         "en": "to sell",
         "ru": "продавать",
+        "tr": "satmak",
+        "az": "satmaq",
+        "uk": "продавати",
         "descriptionEN": "To give or hand over (something) in exchange for money.",
         "descriptionRU": "Передавать или отдавать (что-то) в обмен на деньги.",
-        "descriptionDE": "Etwas gegen Geld geben oder übergeben."
+        "descriptionDE": "Etwas gegen Geld geben oder übergeben.",
+        "descriptionTR": "Para karşılığında (bir şey) vermek veya teslim etmek.",
+        "descriptionAZ": "Pul qarşılığında (bir şey) vermək və ya təhvil vermək.",
+        "descriptionUK": "Віддавати чи передавати (щось) в обмін на гроші."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "To acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity.",
         "descriptionRU": "Отмечать (значимый или счастливый день или событие) социальным собранием или приятным мероприятием.",
-        "descriptionDE": "Einen bedeutsamen oder glücklichen Tag oder ein Ereignis mit einem geselligen Beisammensein oder einer erfreulichen Aktivität anerkennen."
+        "descriptionDE": "Einen bedeutsamen oder glücklichen Tag oder ein Ereignis mit einem geselligen Beisammensein oder einer erfreulichen Aktivität anerkennen.",
+        "descriptionTR": "Önemli veya mutlu bir günü veya olayı sosyal bir toplantı veya eğlenceli bir aktiviteyle kutlamak.",
+        "descriptionAZ": "Mühüm və ya xoşbəxt bir günü və ya hadisəni ictimai bir görüş və ya əyləncəli bir fəaliyyətlə qeyd etmək.",
+        "descriptionUK": "Відзначати (значний чи щасливий день чи подію) соціальними зборами чи приємними заходами."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
         "descriptionEN": "Having a great deal of money or assets; wealthy.",
         "descriptionRU": "Иметь много денег или активов; богатый.",
-        "descriptionDE": "Über viel Geld oder Vermögen verfügen; wohlhabend."
+        "descriptionDE": "Über viel Geld oder Vermögen verfügen; wohlhabend.",
+        "descriptionTR": "Çok fazla para veya varlığa sahip olmak; zengin.",
+        "descriptionAZ": "Çox pul və ya əmlaka malik olmaq; varlı.",
+        "descriptionUK": "Мати багато грошей чи активів; багатий."
     }, {
         "de": "zentral",
         "en": "central",
         "ru": "центральный",
+        "tr": "merkezi",
+        "az": "mərkəzi",
+        "uk": "центральний",
         "descriptionEN": "Of, at, or forming the center.",
         "descriptionRU": "Относится к центру или образует его.",
-        "descriptionDE": "Im Zentrum stehend oder es bildend."
+        "descriptionDE": "Im Zentrum stehend oder es bildend.",
+        "descriptionTR": "Merkezde olan veya merkezi oluşturan.",
+        "descriptionAZ": "Mərkəzdə olan və ya mərkəzi təşkil edən.",
+        "descriptionUK": "Стосовно центру або його утворення."
     }, {
         "de": "malerisch",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "resim gibi",
+        "az": "rəngarəng",
+        "uk": "мальовничий",
         "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "Визуально привлекательный, особенно по-деревенски или очаровательно.",
-        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise."
+        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise.",
+        "descriptionTR": "Görsel olarak çekici, özellikle pitoresk veya büyüleyici bir şekilde.",
+        "descriptionAZ": "Vizual cəhətdən cəlbedici, xüsusilə rəngarəng və ya cazibədar şəkildə.",
+        "descriptionUK": "Візуально привабливий, особливо по-сільськи чи чарівно."
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "Liked or admired by many people.",
         "descriptionRU": "Любимый или восхищаемый многими людьми.",
-        "descriptionDE": "Von vielen Menschen gemocht oder bewundert."
+        "descriptionDE": "Von vielen Menschen gemocht oder bewundert.",
+        "descriptionTR": "Birçok insan tarafından sevilen veya beğenilen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bəyənilən və ya heyran qalınan.",
+        "descriptionUK": "Улюблений чи захоплений багатьма людьми."
     }, {
         "de": "mittelalterlich",
         "en": "medieval",
         "ru": "средневековый",
+        "tr": "orta çağ",
+        "az": "orta əsr",
+        "uk": "середньовічний",
         "descriptionEN": "Relating to the Middle Ages.",
         "descriptionRU": "Относящийся к Средневековью.",
-        "descriptionDE": "Bezieht sich auf das Mittelalter."
+        "descriptionDE": "Bezieht sich auf das Mittelalter.",
+        "descriptionTR": "Orta Çağ'a ait.",
+        "descriptionAZ": "Orta əsrlərə aid.",
+        "descriptionUK": "Стосується Середньовіччя."
     }, {
         "de": "bekannt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Known about by many people.",
         "descriptionRU": "Известный многим людям.",
-        "descriptionDE": "Von vielen Menschen gekannt."
+        "descriptionDE": "Von vielen Menschen gekannt.",
+        "descriptionTR": "Birçok insan tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bilinən.",
+        "descriptionUK": "Відомий багатьом людям."
     }, {
         "de": "jährlich",
         "en": "annual",
         "ru": "ежегодный",
+        "tr": "yıllık",
+        "az": "illik",
+        "uk": "щорічний",
         "descriptionEN": "Occurring once every year.",
         "descriptionRU": "Происходит раз в год.",
-        "descriptionDE": "Einmal im Jahr stattfindend."
+        "descriptionDE": "Einmal im Jahr stattfindend.",
+        "descriptionTR": "Her yıl bir kez gerçekleşen.",
+        "descriptionAZ": "Hər il bir dəfə baş verən.",
+        "descriptionUK": "Відбувається раз на рік."
     }, {
         "de": "lokal",
         "en": "local",
         "ru": "местный",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий",
         "descriptionEN": "Relating to a particular area or neighborhood.",
         "descriptionRU": "Относящийся к определенной области или району.",
-        "descriptionDE": "Bezieht sich auf ein bestimmtes Gebiet oder eine Nachbarschaft."
+        "descriptionDE": "Bezieht sich auf ein bestimmtes Gebiet oder eine Nachbarschaft.",
+        "descriptionTR": "Belirli bir alan veya mahalleyle ilgili.",
+        "descriptionAZ": "Müəyyən bir sahə və ya məhəllə ilə əlaqəli.",
+        "descriptionUK": "Стосується певної області чи району."
     }
 ]

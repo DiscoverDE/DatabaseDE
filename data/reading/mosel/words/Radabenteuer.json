@@ -3,162 +3,300 @@
         "de": "der Geschichtsstudent",
         "en": "history student",
         "ru": "студент истории",
+        "tr": "tarih öğrencisi",
+        "az": "tarix tələbəsi",
+        "uk": "студент-історик",
         "descriptionEN": "A student who studies history as their academic subject.",
         "descriptionRU": "Студент, который изучает историю в качестве учебного предмета.",
-        "descriptionDE": "Ein Student, der Geschichte als akademisches Fach studiert."
+        "descriptionDE": "Ein Student, der Geschichte als akademisches Fach studiert.",
+        "descriptionTR": "Akademik konusu olarak tarih okuyan bir öğrenci.",
+        "descriptionAZ": "Akademik fənni kimi tarixi öyrənən tələbə.",
+        "descriptionUK": "Студент, який вивчає історію як свою академічну дисципліну."
     }, {
         "de": "der Radfahrer",
         "en": "cyclist",
         "ru": "велосипедист",
+        "tr": "bisikletçi",
+        "az": "velosipedçi",
+        "uk": "велосипедист",
         "descriptionEN": "A person who rides a bicycle.",
         "descriptionRU": "Человек, который ездит на велосипеде.",
-        "descriptionDE": "Eine Person, die Fahrrad fährt."
+        "descriptionDE": "Eine Person, die Fahrrad fährt.",
+        "descriptionTR": "Bisiklet süren bir kişi.",
+        "descriptionAZ": "Velosiped sürən şəxs.",
+        "descriptionUK": "Людина, яка їздить на велосипеді."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "landşaft",
+        "uk": "пейзаж",
         "descriptionEN": "The visible features of an area of land.",
         "descriptionRU": "Видимые особенности участка земли.",
-        "descriptionDE": "Die sichtbaren Merkmale eines Landstrichs."
+        "descriptionDE": "Die sichtbaren Merkmale eines Landstrichs.",
+        "descriptionTR": "Bir arazi parçasının görünür özellikleri.",
+        "descriptionAZ": "Ərazinin görünən xüsusiyyətləri.",
+        "descriptionUK": "Видимі особливості ділянки землі."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events.",
         "descriptionRU": "Изучение прошлых событий.",
-        "descriptionDE": "Das Studium vergangener Ereignisse."
+        "descriptionDE": "Das Studium vergangener Ereignisse.",
+        "descriptionTR": "Geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій."
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
         "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
         "descriptionRU": "Большой природный поток воды, текущий в канале к морю, озеру или другой реке.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt.",
+        "descriptionTR": "Denize, göle veya başka bir nehre doğru bir kanalda akan büyük bir doğal su akışı.",
+        "descriptionAZ": "Dənizə, gölə və ya başqa bir çaya kanal vasitəsilə axan böyük təbii su axını.",
+        "descriptionUK": "Велика природна течія води, що тече в руслі до моря, озера або іншої річки."
     }, {
         "de": "das Dorf",
         "en": "village",
         "ru": "деревня",
+        "tr": "köy",
+        "az": "kənd",
+        "uk": "село",
         "descriptionEN": "A small settlement typically found in a rural area.",
         "descriptionRU": "Небольшое поселение, обычно находящееся в сельской местности.",
-        "descriptionDE": "Eine kleine Siedlung, die sich typischerweise in einer ländlichen Gegend befindet."
+        "descriptionDE": "Eine kleine Siedlung, die sich typischerweise in einer ländlichen Gegend befindet.",
+        "descriptionTR": "Tipik olarak kırsal bir alanda bulunan küçük bir yerleşim yeri.",
+        "descriptionAZ": "Adətən kənd yerlərində yerləşən kiçik bir yaşayış məntəqəsi.",
+        "descriptionUK": "Невелике поселення, зазвичай розташоване в сільській місцевості."
     }, {
         "de": "die Reise",
         "en": "journey",
         "ru": "путешествие",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "подорож",
         "descriptionEN": "An act of traveling from one place to another.",
         "descriptionRU": "Акт путешествия из одного места в другое.",
-        "descriptionDE": "Ein Akt des Reisens von einem Ort zum anderen."
+        "descriptionDE": "Ein Akt des Reisens von einem Ort zum anderen.",
+        "descriptionTR": "Bir yerden başka bir yere seyahat etme eylemi.",
+        "descriptionAZ": "Bir yerdən başqa yerə səyahət etmək hərəkəti.",
+        "descriptionUK": "Акт подорожі з одного місця в інше."
     }, {
         "de": "das Ziel",
         "en": "goal",
         "ru": "цель",
+        "tr": "hedef",
+        "az": "məqsəd",
+        "uk": "мета",
         "descriptionEN": "The object of a person's ambition or effort.",
         "descriptionRU": "Объект стремления или усилий человека.",
-        "descriptionDE": "Das Objekt des Strebens oder der Bemühungen einer Person."
+        "descriptionDE": "Das Objekt des Strebens oder der Bemühungen einer Person.",
+        "descriptionTR": "Bir kişinin hırsının veya çabasının nesnesi.",
+        "descriptionAZ": "Bir insanın ambisiyasının və ya səyinin obyekti.",
+        "descriptionUK": "Об'єкт амбіцій або зусиль людини."
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "üzüm bağı",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "A plantation of grapevines, typically producing grapes for winemaking.",
         "descriptionRU": "Плантация виноградных лоз, обычно для производства винограда для виноделия.",
-        "descriptionDE": "Eine Anpflanzung von Weinreben, die typischerweise Trauben für die Weinherstellung produziert."
+        "descriptionDE": "Eine Anpflanzung von Weinreben, die typischerweise Trauben für die Weinherstellung produziert.",
+        "descriptionTR": "Genellikle şarap yapımı için üzüm üreten bir asma tarlası.",
+        "descriptionAZ": "Adətən şərabçılıq üçün üzüm istehsal edən üzüm plantasiyası.",
+        "descriptionUK": "Плантація виноградних лоз, як правило, для виноробства."
     }, {
         "de": "die Gastfreundschaft",
         "en": "hospitality",
         "ru": "гостеприимство",
+        "tr": "misafirperverlik",
+        "az": "qonaqpərvərlik",
+        "uk": "гостинність",
         "descriptionEN": "The friendly and generous reception and entertainment of guests.",
         "descriptionRU": "Дружелюбный и щедрый прием и развлечение гостей.",
-        "descriptionDE": "Der freundliche und großzügige Empfang und die Unterhaltung von Gästen."
+        "descriptionDE": "Der freundliche und großzügige Empfang und die Unterhaltung von Gästen.",
+        "descriptionTR": "Misafirlerin samimi ve cömert bir şekilde karşılanması ve ağırlanması.",
+        "descriptionAZ": "Qonaqların səmimi və səxavətli qəbulu və əyləncəsi.",
+        "descriptionUK": "Дружній і щедрий прийом та розваги гостей."
     }, {
         "de": "das Café",
         "en": "café",
         "ru": "кафе",
+        "tr": "kafe",
+        "az": "kafe",
+        "uk": "кафе",
         "descriptionEN": "A small restaurant selling light meals and drinks.",
         "descriptionRU": "Небольшой ресторан, продающий легкие блюда и напитки.",
-        "descriptionDE": "Ein kleines Restaurant, das leichte Mahlzeiten und Getränke verkauft."
+        "descriptionDE": "Ein kleines Restaurant, das leichte Mahlzeiten und Getränke verkauft.",
+        "descriptionTR": "Hafif yemekler ve içecekler satan küçük bir restoran.",
+        "descriptionAZ": "Yüngül yeməklər və içkilər satan kiçik bir restoran.",
+        "descriptionUK": "Невеликий ресторан, що продає легкі страви та напої."
     }, {
         "de": "radeln",
         "en": "to cycle",
         "ru": "кататься на велосипеде",
+        "tr": "bisiklete binmek",
+        "az": "velosiped sürmək",
+        "uk": "їздити на велосипеді",
         "descriptionEN": "To ride a bicycle.",
         "descriptionRU": "Ехать на велосипеде.",
-        "descriptionDE": "Mit dem Fahrrad fahren."
+        "descriptionDE": "Mit dem Fahrrad fahren.",
+        "descriptionTR": "Bisiklete binmek.",
+        "descriptionAZ": "Velosiped sürmək.",
+        "descriptionUK": "Їздити на велосипеді."
     }, {
         "de": "bewundern",
         "en": "to admire",
         "ru": "восхищаться",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionEN": "To regard with respect or warm approval.",
         "descriptionRU": "Смотреть с уважением или теплым одобрением.",
-        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten."
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten.",
+        "descriptionTR": "Saygı veya sıcak bir onay ile bakmak.",
+        "descriptionAZ": "Hörmət və ya xoş niyyətlə baxmaq.",
+        "descriptionUK": "Ставитися з повагою або теплим схваленням."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through an unfamiliar area to learn about it.",
         "descriptionRU": "Путешествовать по незнакомой территории, чтобы узнать о ней.",
-        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um es kennenzulernen."
+        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um es kennenzulernen.",
+        "descriptionTR": "Bilinmeyen bir bölgede onu öğrenmek için seyahat etmek.",
+        "descriptionAZ": "Tanış olmayan bir ərazidə onu öyrənmək üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати незнайомою місцевістю, щоб дізнатися про неї."
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "To go to see and spend time with.",
         "descriptionRU": "Идти, чтобы увидеть и провести время с.",
-        "descriptionDE": "Gehen, um zu sehen und Zeit zu verbringen mit."
+        "descriptionDE": "Gehen, um zu sehen und Zeit zu verbringen mit.",
+        "descriptionTR": "Görmek ve vakit geçirmek için gitmek.",
+        "descriptionAZ": "Görmək və vaxt keçirmək üçün getmək.",
+        "descriptionUK": "Йти, щоб побачити та провести час з кимось/чимось."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "обнаружить",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find something unexpectedly or during a search.",
         "descriptionRU": "Найти что-то неожиданно или во время поиска.",
-        "descriptionDE": "Etwas unerwartet finden oder während einer Suche entdecken."
+        "descriptionDE": "Etwas unerwartet finden oder während einer Suche entdecken.",
+        "descriptionTR": "Bir şeyi beklenmedik bir şekilde veya bir arama sırasında bulmak.",
+        "descriptionAZ": "Gözlənilmədən və ya axtarış zamanı bir şey tapmaq.",
+        "descriptionUK": "Знайти щось несподівано або під час пошуку."
     }, {
         "de": "malerisch",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "pitoresk",
+        "az": "mənzərəli",
+        "uk": "мальовничий",
         "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "Визуально привлекательный, особенно в причудливой или очаровательной манере.",
-        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise."
+        "descriptionDE": "Optisch ansprechend, besonders auf eine malerische oder charmante Weise.",
+        "descriptionTR": "Görsel olarak çekici, özellikle ilginç veya büyüleyici bir şekilde.",
+        "descriptionAZ": "Görsel olaraq cəlbedici, xüsusilə qəribə və ya cazibədar şəkildə.",
+        "descriptionUK": "Візуально привабливий, особливо в мальовничому або чарівному стилі."
     }, {
         "de": "bezaubernd",
         "en": "enchanting",
         "ru": "очаровательный",
+        "tr": "büyüleyici",
+        "az": "ovsunlayıcı",
+        "uk": "чарівний",
         "descriptionEN": "Delightfully charming or attractive.",
         "descriptionRU": "Восхитительно очаровательный или привлекательный.",
-        "descriptionDE": "Entzückend charmant oder attraktiv."
+        "descriptionDE": "Entzückend charmant oder attraktiv.",
+        "descriptionTR": "Keyifli bir şekilde çekici veya cazip.",
+        "descriptionAZ": "Zövqlü, cazibədar və ya cəlbedici.",
+        "descriptionUK": "Надзвичайно чарівний або привабливий."
     }, {
         "de": "ruhig",
         "en": "quiet",
         "ru": "тихий",
+        "tr": "sakin",
+        "az": "sakit",
+        "uk": "тихий",
         "descriptionEN": "Making little or no noise.",
         "descriptionRU": "Производящий мало шума или вообще без шума.",
-        "descriptionDE": "Wenig oder keinen Lärm machen."
+        "descriptionDE": "Wenig oder keinen Lärm machen.",
+        "descriptionTR": "Az veya hiç ses çıkarmayan.",
+        "descriptionAZ": "Az və ya heç səs çıxarmayan.",
+        "descriptionUK": "Видає мало шуму або взагалі без шуму."
     }, {
         "de": "historisch",
         "en": "historic",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Famous or important in history.",
         "descriptionRU": "Известный или важный в истории.",
-        "descriptionDE": "Berühmt oder bedeutend in der Geschichte."
+        "descriptionDE": "Berühmt oder bedeutend in der Geschichte.",
+        "descriptionTR": "Tarihte ünlü veya önemli.",
+        "descriptionAZ": "Tarixdə məşhur və ya vacib.",
+        "descriptionUK": "Відомий або важливий в історії."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionEN": "Existing in or as part of a tradition; long-established.",
         "descriptionRU": "Существующий как часть традиции; давний.",
-        "descriptionDE": "Als Teil einer Tradition existierend; langjährig etabliert."
+        "descriptionDE": "Als Teil einer Tradition existierend; langjährig etabliert.",
+        "descriptionTR": "Bir geleneğin içinde veya bir parçası olarak var olan; köklü.",
+        "descriptionAZ": "Bir ənənənin daxilində və ya bir hissəsi kimi mövcud olan; uzun müddətdir mövcud olan.",
+        "descriptionUK": "Існуючий як частина традиції; давно усталений."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "знаменитый",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Known about by many people.",
         "descriptionRU": "Известный многим людям.",
-        "descriptionDE": "Von vielen Menschen gekannt."
+        "descriptionDE": "Von vielen Menschen gekannt.",
+        "descriptionTR": "Birçok kişi tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bilinən.",
+        "descriptionUK": "Відомий багатьом людям."
     }, {
         "de": "die Festung",
         "en": "fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
         "descriptionEN": "A military stronghold, especially a strongly fortified town.",
         "descriptionRU": "Военная крепость, особенно сильно укрепленный город.",
-        "descriptionDE": "Ein militärischer Stützpunkt, besonders eine stark befestigte Stadt."
+        "descriptionDE": "Ein militärischer Stützpunkt, besonders eine stark befestigte Stadt.",
+        "descriptionTR": "Bir askeri kale, özellikle güçlü bir şekilde tahkim edilmiş bir kasaba.",
+        "descriptionAZ": "Hərbi qala, xüsusilə güclü şəkildə möhkəmləndirilmiş şəhər.",
+        "descriptionUK": "Військова фортеця, особливо сильно укріплене місто."
     }
 ]

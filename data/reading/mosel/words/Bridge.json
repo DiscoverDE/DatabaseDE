@@ -3,99 +3,183 @@
         "de": "der Fluss",
         "en": "River",
         "ru": "Река",
+        "tr": "Nehir",
+        "az": "Çay",
+        "uk": "Річка",
         "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
         "descriptionRU": "Большой природный поток воды, текущий в русле к морю, озеру или другой реке.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt.",
+        "descriptionTR": "Bir kanalda denize, göle veya başka bir nehre akan büyük doğal su akıntısı.",
+        "descriptionAZ": "Kanalda dənizə, gölə və ya başqa bir çaya axan böyük təbii su axını.",
+        "descriptionUK": "Великий природний потік води, що тече по руслу до моря, озера або іншої річки."
     }, {
         "de": "das Dorf",
         "en": "Village",
         "ru": "Деревня",
+        "tr": "Köy",
+        "az": "Kənd",
+        "uk": "Село",
         "descriptionEN": "A small settlement in a rural area, typically smaller than a town.",
         "descriptionRU": "Небольшое населённое пункт в сельской местности, обычно меньше города.",
-        "descriptionDE": "Eine kleine Siedlung in ländlichen Gebieten, typischerweise kleiner als eine Stadt."
+        "descriptionDE": "Eine kleine Siedlung in ländlichen Gebieten, typischerweise kleiner als eine Stadt.",
+        "descriptionTR": "Kırsal bir alanda, genellikle bir kasabadan daha küçük olan küçük bir yerleşim yeri.",
+        "descriptionAZ": "Kənd yerində, adətən qəsəbədən kiçik olan kiçik yaşayış məntəqəsi.",
+        "descriptionUK": "Невелике поселення в сільській місцевості, зазвичай менше міста."
     }, {
         "de": "das Bauwerk",
         "en": "Building",
         "ru": "Здание",
+        "tr": "Bina",
+        "az": "Bina",
+        "uk": "Будівля",
         "descriptionEN": "A structure with a roof and walls, such as a house or factory.",
         "descriptionRU": "Сооружение с крышей и стенами, например, дом или фабрика.",
-        "descriptionDE": "Ein Gebäude mit einem Dach und Wänden, wie ein Haus oder eine Fabrik."
+        "descriptionDE": "Ein Gebäude mit einem Dach und Wänden, wie ein Haus oder eine Fabrik.",
+        "descriptionTR": "Çatısı ve duvarları olan bir yapı, örneğin bir ev veya fabrika.",
+        "descriptionAZ": "Damı və divarları olan bir quruluş, məsələn, ev və ya zavod.",
+        "descriptionUK": "Споруда з дахом і стінами, така як будинок або фабрика."
     }, {
         "de": "die Umgebung",
         "en": "Surroundings",
         "ru": "Окружение",
+        "tr": "Çevre",
+        "az": "Ətraf",
+        "uk": "Оточення",
         "descriptionEN": "The area around a particular place.",
         "descriptionRU": "Область вокруг определенного места.",
-        "descriptionDE": "Der Bereich um einen bestimmten Ort herum."
+        "descriptionDE": "Der Bereich um einen bestimmten Ort herum.",
+        "descriptionTR": "Belirli bir yerin etrafındaki alan.",
+        "descriptionAZ": "Müəyyən bir yerin ətrafındakı ərazi.",
+        "descriptionUK": "Територія навколо певного місця."
     }, {
         "de": "die Landschaft",
         "en": "Landscape",
         "ru": "Пейзаж",
+        "tr": "Manzara",
+        "az": "Mənzərə",
+        "uk": "Пейзаж",
         "descriptionEN": "All the visible features of an area of land, often considered in terms of aesthetic appeal.",
         "descriptionRU": "Все видимые характеристики области земли, часто рассматриваемые с точки зрения эстетической привлекательности.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft im Hinblick auf die ästhetische Anziehungskraft betrachtet."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs, oft im Hinblick auf die ästhetische Anziehungskraft betrachtet.",
+        "descriptionTR": "Bir kara parçasının tüm görünür özellikleri, genellikle estetik çekicilik açısından değerlendirilir.",
+        "descriptionAZ": "Bir ərazinin bütün görünən xüsusiyyətləri, tez-tez estetik cəlbedicilik baxımından nəzərə alınır.",
+        "descriptionUK": "Всі видимі особливості ділянки землі, часто розглядаються з точки зору естетичної привабливості."
     }, {
         "de": "der Verkehr",
         "en": "Traffic",
         "ru": "Движение",
+        "tr": "Trafik",
+        "az": "Nəqliyyat",
+        "uk": "Рух",
         "descriptionEN": "The movement of vehicles, people, or goods in an area.",
         "descriptionRU": "Движение транспортных средств, людей или товаров в определенной области.",
-        "descriptionDE": "Die Bewegung von Fahrzeugen, Personen oder Waren in einem Gebiet."
+        "descriptionDE": "Die Bewegung von Fahrzeugen, Personen oder Waren in einem Gebiet.",
+        "descriptionTR": "Bir alanda araçların, insanların veya malların hareketi.",
+        "descriptionAZ": "Bir ərazidə nəqliyyat vasitələrinin, insanların və ya malların hərəkəti.",
+        "descriptionUK": "Рух транспортних засобів, людей або товарів на певній території."
     }, {
         "de": "die Rolle",
         "en": "Role",
         "ru": "Роль",
+        "tr": "Rol",
+        "az": "Rol",
+        "uk": "Роль",
         "descriptionEN": "The function or position that something has in a particular situation.",
         "descriptionRU": "Функция или положение, которое что-то имеет в конкретной ситуации.",
-        "descriptionDE": "Die Funktion oder Position, die etwas in einer bestimmten Situation hat."
+        "descriptionDE": "Die Funktion oder Position, die etwas in einer bestimmten Situation hat.",
+        "descriptionTR": "Bir şeyin belirli bir durumda sahip olduğu işlev veya konum.",
+        "descriptionAZ": "Bir şeyin müəyyən bir vəziyyətdə malik olduğu funksiya və ya vəzifə.",
+        "descriptionUK": "Функція або позиція, яку щось займає в певній ситуації."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "tr": "Görünüm",
+        "az": "Görünüş",
+        "uk": "Вигляд",
         "descriptionEN": "The ability to see something or to be seen.",
         "descriptionRU": "Способность видеть что-то или быть увиденным.",
-        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder gesehen zu werden."
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder gesehen zu werden.",
+        "descriptionTR": "Bir şeyi görme veya görülme yeteneği.",
+        "descriptionAZ": "Bir şeyi görmək və ya görünmək bacarığı.",
+        "descriptionUK": "Здатність бачити щось або бути побаченим."
     }, {
         "de": "die Erkundung",
         "en": "Exploration",
         "ru": "Исследование",
+        "tr": "Keşif",
+        "az": "Kəşf",
+        "uk": "Дослідження",
         "descriptionEN": "The act of traveling through an unfamiliar area to learn about it.",
         "descriptionRU": "Действие путешествия по незнакомой местности для ее изучения.",
-        "descriptionDE": "Die Handlung, durch ein unbekanntes Gebiet zu reisen, um es kennenzulernen."
+        "descriptionDE": "Die Handlung, durch ein unbekanntes Gebiet zu reisen, um es kennenzulernen.",
+        "descriptionTR": "Bilinmeyen bir bölgede onu öğrenmek için seyahat etme eylemi.",
+        "descriptionAZ": "Tanış olmayan bir ərazidən keçərək onu öyrənmək aktı.",
+        "descriptionUK": "Дія подорожі незнайомою територією з метою її вивчення."
     }, {
         "de": "der Handel",
         "en": "Trade",
         "ru": "Торговля",
+        "tr": "Ticaret",
+        "az": "Ticarət",
+        "uk": "Торгівля",
         "descriptionEN": "The action of buying and selling goods and services.",
         "descriptionRU": "Действие покупки и продажи товаров и услуг.",
-        "descriptionDE": "Die Handlung des Kaufs und Verkaufs von Waren und Dienstleistungen."
+        "descriptionDE": "Die Handlung des Kaufs und Verkaufs von Waren und Dienstleistungen.",
+        "descriptionTR": "Mal ve hizmet alım satımı eylemi.",
+        "descriptionAZ": "Malların və xidmətlərin alqı-satqısı fəaliyyəti.",
+        "descriptionUK": "Діяльність з купівлі-продажу товарів та послуг."
     }, {
         "de": "verbinden",
         "en": "Connect",
         "ru": "Соединять",
+        "tr": "Bağlanmak",
+        "az": "Birləşdirmək",
+        "uk": "З'єднувати",
         "descriptionEN": "To join together or link.",
         "descriptionRU": "Соединять вместе или связывать.",
-        "descriptionDE": "Zusammenfügen oder verbinden."
+        "descriptionDE": "Zusammenfügen oder verbinden.",
+        "descriptionTR": "Birleştirmek veya bağlamak.",
+        "descriptionAZ": "Birləşdirmək və ya əlaqələndirmək.",
+        "descriptionUK": "З'єднувати або поєднувати."
     }, {
         "de": "spielen",
         "en": "Play",
         "ru": "Играть",
+        "tr": "Oynamak",
+        "az": "Oynamaq",
+        "uk": "Грати",
         "descriptionEN": "To engage in activity for enjoyment and recreation.",
         "descriptionRU": "Заниматься деятельностью для удовольствия и отдыха.",
-        "descriptionDE": "Aktiv sein, um Spaß und Erholung zu haben."
+        "descriptionDE": "Aktiv sein, um Spaß und Erholung zu haben.",
+        "descriptionTR": "Eğlence ve dinlence için bir etkinliğe katılmak.",
+        "descriptionAZ": "Əyləncə və istirahət üçün fəaliyyətə cəlb olunmaq.",
+        "descriptionUK": "Займатися діяльністю для задоволення та відпочинку."
     }, {
         "de": "erleben",
         "en": "Experience",
         "ru": "Испытать",
+        "tr": "Deneyimlemek",
+        "az": "Yaşamaq",
+        "uk": "Пережити",
         "descriptionEN": "To encounter or undergo an event.",
         "descriptionRU": "Столкнуться или пройти через событие.",
-        "descriptionDE": "Ein Ereignis erleben oder durchleben."
+        "descriptionDE": "Ein Ereignis erleben oder durchleben.",
+        "descriptionTR": "Bir olayla karşılaşmak veya bir olayı yaşamak.",
+        "descriptionAZ": "Bir hadisə ilə qarşılaşmaq və ya onu yaşamaq.",
+        "descriptionUK": "Зустріти або пережити подію."
     }, {
         "de": "zeigen",
         "en": "Show",
         "ru": "Показать",
+        "tr": "Göstermek",
+        "az": "Göstərmək",
+        "uk": "Показати",
         "descriptionEN": "To present or display something.",
         "descriptionRU": "Представить или показать что-то.",
-        "descriptionDE": "Etwas präsentieren oder zeigen."
+        "descriptionDE": "Etwas präsentieren oder zeigen.",
+        "descriptionTR": "Bir şeyi sunmak veya sergilemek.",
+        "descriptionAZ": "Bir şeyi təqdim etmək və ya nümayiş etdirmək.",
+        "descriptionUK": "Представити або показати щось."
     }
 ]

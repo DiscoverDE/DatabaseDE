@@ -3,113 +3,209 @@
         "de": "die Sonne",
         "en": "the sun",
         "ru": "солнце",
+        "tr": "güneş",
+        "az": "günəş",
+        "uk": "сонце",
         "descriptionEN": "The star at the center of the solar system that provides light and heat to Earth.",
         "descriptionRU": "Звезда в центре солнечной системы, которая дает свет и тепло Земле.",
-        "descriptionDE": "Der Stern im Zentrum des Sonnensystems, der Licht und Wärme zur Erde bringt."
+        "descriptionDE": "Der Stern im Zentrum des Sonnensystems, der Licht und Wärme zur Erde bringt.",
+        "descriptionTR": "Güneş sisteminin merkezinde Dünya'ya ışık ve ısı sağlayan yıldız.",
+        "descriptionAZ": "Günəş sisteminin mərkəzində Yerə işıq və istilik verən ulduz.",
+        "descriptionUK": "Зірка в центрі сонячної системи, яка забезпечує світло та тепло Землі."
     }, {
         "de": "der Weinberg",
         "en": "the vineyard",
         "ru": "виноградник",
+        "tr": "üzüm bağı",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "An area of land where grapevines are grown for wine production.",
         "descriptionRU": "Участок земли, на котором выращивают виноград для производства вина.",
-        "descriptionDE": "Ein Stück Land, auf dem Weinreben für die Weinproduktion angebaut werden."
+        "descriptionDE": "Ein Stück Land, auf dem Weinreben für die Weinproduktion angebaut werden.",
+        "descriptionTR": "Şarap üretimi için asmaların yetiştirildiği bir arazi alanı.",
+        "descriptionAZ": "Şərab istehsalı üçün üzüm bağlarının becərildiyi bir torpaq sahəsi.",
+        "descriptionUK": "Ділянка землі, де вирощують виноградні лози для виробництва вина."
     }, {
         "de": "die Festung",
         "en": "the fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
         "descriptionEN": "A large, strong building or structure used for defense against enemies.",
         "descriptionRU": "Большое, прочное здание или сооружение, использующееся для защиты от врагов.",
-        "descriptionDE": "Ein großes, starkes Gebäude oder eine Struktur, die zur Verteidigung gegen Feinde dient."
+        "descriptionDE": "Ein großes, starkes Gebäude oder eine Struktur, die zur Verteidigung gegen Feinde dient.",
+        "descriptionTR": "Düşmanlara karşı savunma için kullanılan büyük, güçlü bir bina veya yapı.",
+        "descriptionAZ": "Düşmənlərə qarşı müdafiə üçün istifadə olunan böyük, möhkəm bina və ya quruluş.",
+        "descriptionUK": "Велика, міцна будівля або споруда, що використовується для захисту від ворогів."
     }, {
         "de": "die Karte",
         "en": "the map",
         "ru": "карта",
+        "tr": "harita",
+        "az": "xəritə",
+        "uk": "карта",
         "descriptionEN": "A representation of an area, showing physical features and locations.",
         "descriptionRU": "Представление области, показывающее физические особенности и местоположения.",
-        "descriptionDE": "Eine Darstellung eines Gebiets, das physische Merkmale und Standorte zeigt."
+        "descriptionDE": "Eine Darstellung eines Gebiets, das physische Merkmale und Standorte zeigt.",
+        "descriptionTR": "Fiziksel özellikleri ve konumları gösteren bir alanın temsili.",
+        "descriptionAZ": "Ərazinin fiziki xüsusiyyətlərini və yerlərini göstərən bir təsviri.",
+        "descriptionUK": "Зображення місцевості, що показує фізичні особливості та місцеположення."
     }, {
         "de": "der Fluss",
         "en": "the river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
         "descriptionEN": "A large, flowing body of water that usually empties into a sea or ocean.",
         "descriptionRU": "Большое текущее водное тело, которое обычно впадает в море или океан.",
-        "descriptionDE": "Ein großes, fließendes Gewässer, das normalerweise in ein Meer oder einen Ozean mündet."
+        "descriptionDE": "Ein großes, fließendes Gewässer, das normalerweise in ein Meer oder einen Ozean mündet.",
+        "descriptionTR": "Genellikle bir denize veya okyanusa dökülen büyük, akan bir su kütlesi.",
+        "descriptionAZ": "Adətən dənizə və ya okeana axan böyük, axan bir su kütləsi.",
+        "descriptionUK": "Велика, текуча водойма, яка зазвичай впадає в море або океан."
     }, {
         "de": "die Zinne",
         "en": "the battlement",
         "ru": "башенка",
+        "tr": "mazgal",
+        "az": "diş",
+        "uk": "зубець",
         "descriptionEN": "A defensive structure on top of a castle wall, often with gaps for shooting.",
         "descriptionRU": "Оборонительная структура на вершине стены замка, часто с отверстиями для стрельбы.",
-        "descriptionDE": "Eine Verteidigungsstruktur auf der Spitze einer Schlossmauer, oft mit Lücken zum Schießen."
+        "descriptionDE": "Eine Verteidigungsstruktur auf der Spitze einer Schlossmauer, oft mit Lücken zum Schießen.",
+        "descriptionTR": "Bir kale duvarının üzerinde, genellikle atış için boşlukları olan savunma yapısı.",
+        "descriptionAZ": "Qala divarının üstündə, adətən atəş üçün boşluqları olan müdafiə quruluşu.",
+        "descriptionUK": "Оборонна споруда на вершині замкової стіни, часто з отворами для стрільби."
     }, {
         "de": "der Hügel",
         "en": "the hill",
         "ru": "холм",
+        "tr": "tepe",
+        "az": "təpə",
+        "uk": "пагорб",
         "descriptionEN": "A small, raised area of land, typically lower than a mountain.",
         "descriptionRU": "Небольшая возвышенность земли, обычно ниже горы.",
-        "descriptionDE": "Ein kleiner, erhöhter Landbereich, der typischerweise niedriger als ein Berg ist."
+        "descriptionDE": "Ein kleiner, erhöhter Landbereich, der typischerweise niedriger als ein Berg ist.",
+        "descriptionTR": "Genellikle bir dağdan daha alçak, küçük, yükseltilmiş bir arazi alanı.",
+        "descriptionAZ": "Adətən dağdan alçaq, kiçik, yüksək bir torpaq sahəsi.",
+        "descriptionUK": "Невелика піднесена ділянка землі, зазвичай нижча за гору."
     }, {
         "de": "die Region",
         "en": "the region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "bölgə",
+        "uk": "регіон",
         "descriptionEN": "An area or division of a country or the world with specific characteristics.",
         "descriptionRU": "Область или часть страны или мира с определенными характеристиками.",
-        "descriptionDE": "Ein Gebiet oder eine Division eines Landes oder der Welt mit spezifischen Merkmalen."
+        "descriptionDE": "Ein Gebiet oder eine Division eines Landes oder der Welt mit spezifischen Merkmalen.",
+        "descriptionTR": "Belirli özelliklere sahip bir ülkenin veya dünyanın bir alanı veya bölümü.",
+        "descriptionAZ": "Ölkənin və ya dünyanın xüsusi xüsusiyyətlərə malik bir bölgəsi və ya hissəsi.",
+        "descriptionUK": "Область або поділ країни чи світу з певними характеристиками."
     }, {
         "de": "die Entdeckung",
         "en": "the discovery",
         "ru": "открытие",
+        "tr": "keşif",
+        "az": "kəşf",
+        "uk": "відкриття",
         "descriptionEN": "The act of finding something new or unknown.",
         "descriptionRU": "Действие по нахождению чего-то нового или неизвестного.",
-        "descriptionDE": "Die Handlung, etwas Neues oder Unbekanntes zu finden."
+        "descriptionDE": "Die Handlung, etwas Neues oder Unbekanntes zu finden.",
+        "descriptionTR": "Yeni veya bilinmeyen bir şeyi bulma eylemi.",
+        "descriptionAZ": "Yeni və ya naməlum bir şeyi tapmaq hərəkəti.",
+        "descriptionUK": "Акт знаходження чогось нового або невідомого."
     }, {
         "de": "der Wasserfall",
         "en": "the waterfall",
         "ru": "водопад",
+        "tr": "şelale",
+        "az": "şəlalə",
+        "uk": "водоспад",
         "descriptionEN": "A flow of water that falls from a height, often over a cliff.",
         "descriptionRU": "Поток воды, который падает с высоты, часто с утеса.",
-        "descriptionDE": "Ein Wasserfluss, der aus einer Höhe fällt, oft über eine Klippe."
+        "descriptionDE": "Ein Wasserfluss, der aus einer Höhe fällt, oft über eine Klippe.",
+        "descriptionTR": "Genellikle bir uçurumun üzerinden yüksekten düşen bir su akışı.",
+        "descriptionAZ": "Hündürlükdən, tez-tez uçurumdan düşən su axını.",
+        "descriptionUK": "Потік води, який падає з висоти, часто над скелею."
     }, {
         "de": "die Dämmerung",
         "en": "the twilight",
         "ru": "сумерки",
+        "tr": "alacakaranlık",
+        "az": "alatoran",
+        "uk": "сутінки",
         "descriptionEN": "The period of time between sunset and nightfall when the sky is partially lit.",
         "descriptionRU": "Период времени между закатом и наступлением ночи, когда небо частично освещено.",
-        "descriptionDE": "Der Zeitraum zwischen Sonnenuntergang und Nacht, in dem der Himmel teilweise beleuchtet ist."
+        "descriptionDE": "Der Zeitraum zwischen Sonnenuntergang und Nacht, in dem der Himmel teilweise beleuchtet ist.",
+        "descriptionTR": "Gün batımı ile gece karanlığı arasındaki, gökyüzünün kısmen aydınlandığı zaman dilimi.",
+        "descriptionAZ": "Gün batımı ilə qaranlıq düşməsi arasındakı vaxt, səma qismən işıqlanır.",
+        "descriptionUK": "Період часу між заходом сонця та настанням ночі, коли небо частково освітлене."
     }, {
         "de": "freuen",
         "en": "to be happy",
         "ru": "радоваться",
+        "tr": "mutlu olmak",
+        "az": "sevinmək",
+        "uk": "радіти",
         "descriptionEN": "To feel or show happiness or pleasure.",
         "descriptionRU": "Чувствовать или показывать счастье или удовольствие.",
-        "descriptionDE": "Glück oder Freude empfinden oder zeigen."
+        "descriptionDE": "Glück oder Freude empfinden oder zeigen.",
+        "descriptionTR": "Mutluluk veya zevk hissetmek veya göstermek.",
+        "descriptionAZ": "Xoşbəxtlik və ya zövq hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчувати або виявляти щастя чи задоволення."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Приятный для чувств или разума эстетически.",
-        "descriptionDE": "Ästhetisch ansprechend für die Sinne oder den Verstand."
+        "descriptionDE": "Ästhetisch ansprechend für die Sinne oder den Verstand.",
+        "descriptionTR": "Duyulara veya zihne estetik olarak hoş gelen.",
+        "descriptionAZ": "Hisslərə və ya ağıla estetik olaraq xoş gələn.",
+        "descriptionUK": "Естетично приємний для почуттів або розуму."
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
         "descriptionEN": "Feeling or showing enthusiasm or eagerness.",
         "descriptionRU": "Чувство или проявление энтузиазма или нетерпения.",
-        "descriptionDE": "Gefühl oder Ausdruck von Begeisterung oder Eifer."
+        "descriptionDE": "Gefühl oder Ausdruck von Begeisterung oder Eifer.",
+        "descriptionTR": "Coşku veya isteklilik hissetmek veya göstermek.",
+        "descriptionAZ": "Həvəs və ya istək hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчуття або виявлення ентузіазму чи завзяття."
     }, {
         "de": "golden",
         "en": "golden",
         "ru": "золотой",
+        "tr": "altın",
+        "az": "qızıl",
+        "uk": "золотий",
         "descriptionEN": "Having the color or appearance of gold.",
         "descriptionRU": "Имеющий цвет или внешний вид золота.",
-        "descriptionDE": "Die Farbe oder das Aussehen von Gold habend."
+        "descriptionDE": "Die Farbe oder das Aussehen von Gold habend.",
+        "descriptionTR": "Altın rengine veya görünümüne sahip.",
+        "descriptionAZ": "Qızıl rənginə və ya görünüşünə sahib olmaq.",
+        "descriptionUK": "Маючий колір або вигляд золота."
     }, {
         "de": "weiter",
         "en": "further",
         "ru": "дальше",
+        "tr": "daha",
+        "az": "daha da",
+        "uk": "далі",
         "descriptionEN": "At or to a greater distance.",
         "descriptionRU": "На большем расстоянии.",
-        "descriptionDE": "In größerer Entfernung."
+        "descriptionDE": "In größerer Entfernung.",
+        "descriptionTR": "Daha uzak bir mesafede veya daha uzağa.",
+        "descriptionAZ": "Daha böyük məsafədə və ya daha böyük məsafəyə.",
+        "descriptionUK": "На або до більшої відстані."
     }
 ]

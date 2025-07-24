@@ -3,233 +3,430 @@
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "the pervading tone or mood of a place, situation, or work of art.",
         "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства.",
-        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks."
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks.",
+        "descriptionTR": "Bir yerin, durumun veya sanat eserinin genel tonu veya havası.",
+        "descriptionAZ": "Bir yerin, vəziyyətin və ya sənət əsərinin hakim tonu və ya əhval-ruhiyyəsi.",
+        "descriptionUK": "Панівний тон або настрій місця, ситуації або витвору мистецтва."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
         "descriptionEN": "a large building typically fortified and used for residence by a noble or royal family.",
         "descriptionRU": "большое укрепленное здание, обычно используемое для проживания благородной или королевской семьи.",
-        "descriptionDE": "ein großes, typischerweise befestigtes Gebäude, das von einem adligen oder königlichen Geschlecht bewohnt wird."
+        "descriptionDE": "ein großes, typischerweise befestigtes Gebäude, das von einem adligen oder königlichen Geschlecht bewohnt wird.",
+        "descriptionTR": "Tipik olarak tahkim edilmiş ve asil veya kraliyet ailesi tarafından ikamet için kullanılan büyük bir bina.",
+        "descriptionAZ": "Adətən möhkəmləndirilmiş və nəcib və ya kral ailəsi tərəfindən yaşayış üçün istifadə olunan böyük bir bina.",
+        "descriptionUK": "Велика будівля, зазвичай укріплена та використовувана для проживання шляхетної або королівської родини."
     }, {
         "de": "die Vorstellung",
         "en": "idea",
         "ru": "идея",
+        "tr": "fikir",
+        "az": "ideya",
+        "uk": "ідея",
         "descriptionEN": "a thought or suggestion as to a possible course of action.",
         "descriptionRU": "мысль или предложение относительно возможного курса действий.",
-        "descriptionDE": "ein Gedanke oder Vorschlag für einen möglichen Handlungsablauf."
+        "descriptionDE": "ein Gedanke oder Vorschlag für einen möglichen Handlungsablauf.",
+        "descriptionTR": "Olası bir eylem biçimi hakkında bir düşünce veya öneri.",
+        "descriptionAZ": "Mümkün fəaliyyət kursu barədə bir fikir və ya təklif.",
+        "descriptionUK": "Думка або пропозиція щодо можливого плану дій."
     }, {
         "de": "die Kneipe",
         "en": "pub",
         "ru": "паб",
+        "tr": "pub",
+        "az": "pab",
+        "uk": "паб",
         "descriptionEN": "an establishment where alcoholic drinks are served to customers.",
         "descriptionRU": "заведение, где клиентам подают алкогольные напитки.",
-        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke an Kunden serviert werden."
+        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke an Kunden serviert werden.",
+        "descriptionTR": "Müşterilere alkollü içeceklerin servis edildiği bir işletme.",
+        "descriptionAZ": "Müştərilərə spirtli içkilərin təqdim edildiyi bir müəssisə.",
+        "descriptionUK": "Заклад, де клієнтам подають алкогольні напої."
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "an alcoholic drink made from fermented grape juice.",
         "descriptionRU": "алкогольный напиток, изготовленный из сброженного виноградного сока.",
-        "descriptionDE": "ein alkoholisches Getränk, das aus vergorenem Traubensaft hergestellt wird."
+        "descriptionDE": "ein alkoholisches Getränk, das aus vergorenem Traubensaft hergestellt wird.",
+        "descriptionTR": "Fermente üzüm suyundan yapılan alkollü bir içecek.",
+        "descriptionAZ": "Fermentasiya olunmuş üzüm şirəsindən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого виноградного соку."
     }, {
         "de": "der Markt",
         "en": "market",
         "ru": "рынок",
+        "tr": "pazar",
+        "az": "bazar",
+        "uk": "ринок",
         "descriptionEN": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
         "descriptionRU": "регулярное собрание людей для покупки и продажи продуктов, скота и других товаров.",
-        "descriptionDE": "eine regelmäßige Zusammenkunft von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren."
+        "descriptionDE": "eine regelmäßige Zusammenkunft von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren.",
+        "descriptionTR": "Yiyecek, hayvan ve diğer malların alım satımı için düzenli bir insan topluluğu.",
+        "descriptionAZ": "Ərzaq, mal-qara və digər malların alqı-satqısı üçün insanların müntəzəm toplanması.",
+        "descriptionUK": "Регулярне зібрання людей для купівлі-продажу продовольства, худоби та інших товарів."
     }, {
         "de": "der Besuch",
         "en": "visit",
         "ru": "посещение",
+        "tr": "ziyaret",
+        "az": "səfər",
+        "uk": "відвідування",
         "descriptionEN": "an act of going or coming to a place for social reasons, tourism, shopping, etc.",
         "descriptionRU": "акт посещения места по социальным причинам, туризму, шопингу и т. д.",
-        "descriptionDE": "ein Akt des Aufsuchens oder Kommens an einen Ort aus sozialen Gründen, Tourismus, Einkaufen usw."
+        "descriptionDE": "ein Akt des Aufsuchens oder Kommens an einen Ort aus sozialen Gründen, Tourismus, Einkaufen usw.",
+        "descriptionTR": "Sosyal nedenlerle, turizm, alışveriş vb. için bir yere gitme veya gelme eylemi.",
+        "descriptionAZ": "Sosial səbəblərdən, turizm, alış-veriş və s. üçün bir yerə getmə və ya gəlmə hərəkəti.",
+        "descriptionUK": "Дія відвідування місця з соціальних причин, туризму, шопінгу тощо."
     }, {
         "de": "die Straße",
         "en": "street",
         "ru": "улица",
+        "tr": "sokak",
+        "az": "küçə",
+        "uk": "вулиця",
         "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides.",
         "descriptionRU": "общественная дорога в городе или поселке, обычно с домами и зданиями с одной или обеих сторон.",
-        "descriptionDE": "eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+        "descriptionDE": "eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten.",
+        "descriptionTR": "Bir şehirde veya kasabada, genellikle bir veya her iki tarafında evler ve binalar bulunan halka açık bir yol.",
+        "descriptionAZ": "Bir şəhərdə və ya qəsəbədə, adətən bir və ya hər iki tərəfində evlər və binalar olan ictimai yol.",
+        "descriptionUK": "Громадська дорога в місті чи селищі, зазвичай з будинками та будівлями з одного або обох боків."
     }, {
         "de": "der Ausflug",
         "en": "trip",
         "ru": "поездка",
+        "tr": "gezi",
+        "az": "gəzinti",
+        "uk": "поїздка",
         "descriptionEN": "a journey or excursion, especially for pleasure.",
         "descriptionRU": "путешествие или экскурсия, особенно для удовольствия.",
-        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen."
+        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen.",
+        "descriptionTR": "Bir yolculuk veya gezi, özellikle zevk için.",
+        "descriptionAZ": "Səyahət və ya ekskursiya, xüsusilə əyləncə üçün.",
+        "descriptionUK": "Подорож або екскурсія, особливо для задоволення."
     }, {
         "de": "die Nacht",
         "en": "night",
         "ru": "ночь",
+        "tr": "gece",
+        "az": "gecə",
+        "uk": "ніч",
         "descriptionEN": "the period of darkness in each twenty-four hours; the time from sunset to sunrise.",
         "descriptionRU": "период темноты в каждые двадцать четыре часа; время от заката до восхода солнца.",
-        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang."
+        "descriptionDE": "die Periode der Dunkelheit in jedem vierundzwanzig Stunden; die Zeit von Sonnenuntergang bis Sonnenaufgang.",
+        "descriptionTR": "Her yirmi dört saatteki karanlık dönemi; gün batımından gün doğumuna kadar olan süre.",
+        "descriptionAZ": "Hər iyirmi dörd saatda qaranlıq dövrü; gün batımından günəşin çıxmasına qədər olan vaxt.",
+        "descriptionUK": "Період темряви протягом кожних двадцяти чотирьох годин; час від заходу до сходу сонця."
     }, {
         "de": "die Brücke",
         "en": "bridge",
         "ru": "мост",
+        "tr": "köprü",
+        "az": "körpü",
+        "uk": "міст",
         "descriptionEN": "a structure carrying a road, path, railway, etc., across a river, road, or other obstacle.",
         "descriptionRU": "конструкция, переносящая дорогу, путь, железную дорогу и т. д. через реку, дорогу или другое препятствие.",
-        "descriptionDE": "eine Struktur, die eine Straße, einen Weg, eine Eisenbahn usw. über einen Fluss, eine Straße oder ein anderes Hindernis führt."
+        "descriptionDE": "eine Struktur, die eine Straße, einen Weg, eine Eisenbahn usw. über einen Fluss, eine Straße oder ein anderes Hindernis führt.",
+        "descriptionTR": "Bir nehri, yolu veya başka bir engeli aşan bir yol, patika, demiryolu vb. taşıyan bir yapı.",
+        "descriptionAZ": "Bir çay, yol və ya digər maneə üzərindən yol, cığır, dəmir yolu və s. daşıyan quruluş.",
+        "descriptionUK": "Споруда, що переносить дорогу, шлях, залізницю тощо через річку, дорогу чи іншу перешкоду."
     }, {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
+        "tr": "bakış",
+        "az": "baxış",
+        "uk": "вигляд",
         "descriptionEN": "the ability to see or the range of sight.",
         "descriptionRU": "способность видеть или область видимости.",
-        "descriptionDE": "die Fähigkeit zu sehen oder der Bereich der Sicht."
+        "descriptionDE": "die Fähigkeit zu sehen oder der Bereich der Sicht.",
+        "descriptionTR": "Görme yeteneği veya görüş alanı.",
+        "descriptionAZ": "Görmə qabiliyyəti və ya görmə sahəsi.",
+        "descriptionUK": "Здатність бачити або діапазон зору."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan işlerindeki çalışması.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan işlərindəki öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, зокрема в людських справах."
     }, {
         "de": "die Ruhe",
         "en": "peace",
         "ru": "мир",
+        "tr": "huzur",
+        "az": "sülh",
+        "uk": "мир",
         "descriptionEN": "freedom from disturbance; tranquility.",
         "descriptionRU": "свобода от беспокойства; спокойствие.",
-        "descriptionDE": "Freiheit von Störungen; Ruhe."
+        "descriptionDE": "Freiheit von Störungen; Ruhe.",
+        "descriptionTR": "Rahatsızlıktan uzak olma; dinginlik.",
+        "descriptionAZ": "Narahatçılıqdan azad olmaq; sakitlik.",
+        "descriptionUK": "Свобода від занепокоєння; спокій."
     }, {
         "de": "die Entspannung",
         "en": "relaxation",
         "ru": "расслабление",
+        "tr": "gevşeme",
+        "az": "rahatlama",
+        "uk": "розслаблення",
         "descriptionEN": "the state of being free from tension and anxiety.",
         "descriptionRU": "состояние, свободное от напряжения и тревоги.",
-        "descriptionDE": "der Zustand, frei von Spannung und Angst zu sein."
+        "descriptionDE": "der Zustand, frei von Spannung und Angst zu sein.",
+        "descriptionTR": "Gerginlik ve endişeden arınmış olma durumu.",
+        "descriptionAZ": "Gərginlikdən və narahatlıqdan azad olma vəziyyəti.",
+        "descriptionUK": "Стан свободи від напруги та тривоги."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionEN": "practical contact with and observation of facts or events.",
         "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "descriptionTR": "Gerçekler veya olaylarla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki təmas və müşahidə.",
+        "descriptionUK": "Практичний контакт та спостереження за фактами чи подіями."
     }, {
         "de": "die Einrichtung",
         "en": "establishment",
         "ru": "учреждение",
+        "tr": "kuruluş",
+        "az": "qurum",
+        "uk": "установа",
         "descriptionEN": "an organization or institution founded for a particular purpose.",
         "descriptionRU": "организация или учреждение, основанное для определенной цели.",
-        "descriptionDE": "eine Organisation oder Institution, die für einen bestimmten Zweck gegründet wurde."
+        "descriptionDE": "eine Organisation oder Institution, die für einen bestimmten Zweck gegründet wurde.",
+        "descriptionTR": "Belirli bir amaç için kurulmuş bir organizasyon veya kurum.",
+        "descriptionAZ": "Müəyyən bir məqsəd üçün qurulmuş bir təşkilat və ya qurum.",
+        "descriptionUK": "Організація або установа, заснована з певною метою."
     }, {
         "de": "das Getränk",
         "en": "drink",
         "ru": "напиток",
+        "tr": "içecek",
+        "az": "içki",
+        "uk": "напій",
         "descriptionEN": "a liquid that is swallowed for sustenance or pleasure.",
         "descriptionRU": "жидкость, глотаемая для поддержания существования или удовольствия.",
-        "descriptionDE": "eine Flüssigkeit, die zum Erhalt oder zur Freude geschluckt wird."
+        "descriptionDE": "eine Flüssigkeit, die zum Erhalt oder zur Freude geschluckt wird.",
+        "descriptionTR": "Geçim veya zevk için yutulan bir sıvı.",
+        "descriptionAZ": "Qidalanma və ya zövq üçün udulan bir maye.",
+        "descriptionUK": "Рідина, яку ковтають для підтримки існування або для задоволення."
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future.",
         "descriptionRU": "неопределенный продолжительный прогресс существования и событий в прошлом, настоящем и будущем.",
-        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins und der Ereignisse in der Vergangenheit, Gegenwart und Zukunft."
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins und der Ereignisse in der Vergangenheit, Gegenwart und Zukunft.",
+        "descriptionTR": "Geçmişte, şimdi ve gelecekte varoluşun ve olayların belirsiz devam eden ilerlemesi.",
+        "descriptionAZ": "Keçmişdə, indiki zamanda və gələcəkdə mövcudluğun və hadisələrin qeyri-müəyyən davamlı inkişafı.",
+        "descriptionUK": "Невизначений безперервний прогрес існування та подій у минулому, теперішньому та майбутньому."
     }, {
         "de": "die Seite",
         "en": "side",
         "ru": "сторона",
+        "tr": "taraf",
+        "az": "tərəf",
+        "uk": "сторона",
         "descriptionEN": "a position to the left or right of an object, place, or central point.",
         "descriptionRU": "положение слева или справа от объекта, места или центральной точки.",
-        "descriptionDE": "eine Position links oder rechts von einem Objekt, Ort oder zentralen Punkt."
+        "descriptionDE": "eine Position links oder rechts von einem Objekt, Ort oder zentralen Punkt.",
+        "descriptionTR": "Bir nesnenin, yerin veya merkez noktanın solunda veya sağında bir konum.",
+        "descriptionAZ": "Bir obyektin, yerin və ya mərkəzi nöqtənin solunda və ya sağında bir mövqe.",
+        "descriptionUK": "Позиція ліворуч або праворуч від об'єкта, місця чи центральної точки."
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "tr": "sanat",
+        "az": "incəsənət",
+        "uk": "мистецтво",
         "descriptionEN": "the expression or application of human creative skill and imagination.",
         "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения.",
-        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft."
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft.",
+        "descriptionTR": "İnsan yaratıcı becerisinin ve hayal gücünün ifade edilmesi veya uygulanması.",
+        "descriptionAZ": "İnsan yaradıcı bacarıq və təxəyyülünün ifadəsi və ya tətbiqi.",
+        "descriptionUK": "Вираження або застосування людської творчої майстерності та уяви."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "досліджувати",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "путешествовать через (незнакомую территорию) для изучения ее.",
-        "descriptionDE": "durchreisen (ein unbekanntes Gebiet), um mehr darüber zu erfahren."
+        "descriptionDE": "durchreisen (ein unbekanntes Gebiet), um mehr darüber zu erfahren.",
+        "descriptionTR": "(Bilinmeyen bir alanı) hakkında bilgi edinmek için gezmek.",
+        "descriptionAZ": "Haqqında öyrənmək üçün (tanış olmayan bir ərazidə) səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою місцевістю), щоб дізнатися про неї."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "tr": "keyfini çıkarmak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "take delight or pleasure in (an activity or occasion).",
         "descriptionRU": "наслаждаться или получать удовольствие от (деятельности или случая).",
-        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben."
+        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben.",
+        "descriptionTR": "(Bir etkinlikten veya olaydan) zevk almak veya keyif almak.",
+        "descriptionAZ": "(Bir fəaliyyət və ya hadisədən) zövq almaq və ya ləzzət almaq.",
+        "descriptionUK": "Отримувати задоволення або насолоду від (діяльності чи події)."
     }, {
         "de": "verbringen",
         "en": "spend",
         "ru": "проводить (время)",
+        "tr": "geçirmek",
+        "az": "sərf etmək",
+        "uk": "проводити (час)",
         "descriptionEN": "to pass (time) in a specified way or in a particular place.",
         "descriptionRU": "проводить (время) определенным образом или в конкретном месте.",
-        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen."
+        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen.",
+        "descriptionTR": "(Zamanı) belirli bir şekilde veya belirli bir yerde geçirmek.",
+        "descriptionAZ": "(Vaxtı) müəyyən bir şəkildə və ya müəyyən bir yerdə keçirmək.",
+        "descriptionUK": "Проводити (час) певним чином або в певному місці."
     }, {
         "de": "entscheiden",
         "en": "decide",
         "ru": "решать",
+        "tr": "karar vermek",
+        "az": "qərar vermək",
+        "uk": "вирішувати",
         "descriptionEN": "to come to a resolution in the mind as a result of consideration.",
         "descriptionRU": "прийти к решению в уме в результате обдумывания.",
-        "descriptionDE": "eine Entscheidung im Geiste als Ergebnis der Überlegung treffen."
+        "descriptionDE": "eine Entscheidung im Geiste als Ergebnis der Überlegung treffen.",
+        "descriptionTR": "Değerlendirme sonucunda zihinde bir çözüme ulaşmak.",
+        "descriptionAZ": "Nəzərdən keçirmə nəticəsində ağılda bir qətnaməyə gəlmək.",
+        "descriptionUK": "Прийняти рішення в думках в результаті обдумування."
     }, {
         "de": "schmieden",
         "en": "forge",
         "ru": "ковать",
+        "tr": "dövmek",
+        "az": "döymək",
+        "uk": "кувати",
         "descriptionEN": "to create or form (something) especially in a careful or skillful way.",
         "descriptionRU": "создать или сформировать (что-то), особенно тщательно или умело.",
-        "descriptionDE": "etwas besonders sorgfältig oder geschickt erschaffen oder formen."
+        "descriptionDE": "etwas besonders sorgfältig oder geschickt erschaffen oder formen.",
+        "descriptionTR": "Özellikle dikkatli veya ustaca bir şekilde (bir şeyi) yaratmak veya oluşturmak.",
+        "descriptionAZ": "Xüsusilə diqqətli və ya bacarıqlı şəkildə (bir şeyi) yaratmaq və ya formalaşdırmaq.",
+        "descriptionUK": "Створювати або формувати (щось) особливо обережним або вправним способом."
     }, {
         "de": "buchen",
         "en": "book",
         "ru": "бронировать",
+        "tr": "ayırtmak",
+        "az": "rezerv etmək",
+        "uk": "бронювати",
         "descriptionEN": "to arrange for someone to have a seat on a plane, a room in a hotel, etc.",
         "descriptionRU": "организовать для кого-то место на самолете, номер в отеле и т. д.",
-        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren."
+        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren.",
+        "descriptionTR": "Birinin uçakta koltuk, otelde oda vb. ayarlamasını sağlamak.",
+        "descriptionAZ": "Kiminsə təyyarədə yer, oteldə otaq və s. sifariş etmək.",
+        "descriptionUK": "Домовитися про місце для когось у літаку, номер у готелі тощо."
     }, {
         "de": "wählen",
         "en": "choose",
         "ru": "выбирать",
+        "tr": "seçmek",
+        "az": "seçmək",
+        "uk": "вибирати",
         "descriptionEN": "to select from a number of possibilities.",
         "descriptionRU": "выбрать из нескольких возможностей.",
-        "descriptionDE": "aus einer Reihe von Möglichkeiten auswählen."
+        "descriptionDE": "aus einer Reihe von Möglichkeiten auswählen.",
+        "descriptionTR": "Bir dizi olasılık arasından seçim yapmak.",
+        "descriptionAZ": "Bir neçə imkan arasından seçmək.",
+        "descriptionUK": "Вибрати з кількох можливостей."
     }, {
         "de": "entspannen",
         "en": "relax",
         "ru": "расслабиться",
+        "tr": "rahatlamak",
+        "az": "rahatlamaq",
+        "uk": "розслаблятися",
         "descriptionEN": "to make or become less tense or anxious.",
         "descriptionRU": "сделать или стать менее напряженным или тревожным.",
-        "descriptionDE": "weniger angespannt oder ängstlich werden lassen oder werden."
+        "descriptionDE": "weniger angespannt oder ängstlich werden lassen oder werden.",
+        "descriptionTR": "Daha az gergin veya endişeli hale gelmek veya olmak.",
+        "descriptionAZ": "Daha az gərgin və ya narahat olmaq.",
+        "descriptionUK": "Зробити або стати менш напруженим або тривожним."
     }, {
         "de": "buchen",
         "en": "book",
         "ru": "заказывать",
+        "tr": "sipariş etmek",
+        "az": "sifariş etmək",
+        "uk": "замовляти",
         "descriptionEN": "to arrange for someone to have a seat on a plane, a room in a hotel, etc.",
         "descriptionRU": "организовать для кого-то место на самолете, номер в отеле и т. д.",
-        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren."
+        "descriptionDE": "für jemanden einen Platz im Flugzeug, ein Zimmer im Hotel usw. arrangieren.",
+        "descriptionTR": "Birinin uçakta koltuk, otelde oda vb. ayarlamasını sağlamak.",
+        "descriptionAZ": "Kiminsə təyyarədə yer, oteldə otaq və s. sifariş etmək.",
+        "descriptionUK": "Домовитися про місце для когось у літаку, номер у готелі тощо."
     }, {
         "de": "betrachten",
         "en": "consider",
         "ru": "рассматривать",
+        "tr": "düşünmek",
+        "az": "nəzərə almaq",
+        "uk": "розглядати",
         "descriptionEN": "to think about carefully, especially in order to make a decision.",
         "descriptionRU": "подумать о внимательно, особенно для принятия решения.",
-        "descriptionDE": "besonders sorgfältig darüber nachdenken, um eine Entscheidung zu treffen."
+        "descriptionDE": "besonders sorgfältig darüber nachdenken, um eine Entscheidung zu treffen.",
+        "descriptionTR": "Özellikle bir karar vermek için dikkatlice düşünmek.",
+        "descriptionAZ": "Diqqətlə düşünmək, xüsusilə qərar vermək üçün.",
+        "descriptionUK": "Ретельно обмірковувати, особливо для прийняття рішення."
     }, {
         "de": "kompromittieren",
         "en": "compromise",
         "ru": "компромисс",
+        "tr": "uzlaşmak",
+        "az": "kompromisə getmək",
+        "uk": "компроміс",
         "descriptionEN": "to settle a dispute by mutual concession.",
         "descriptionRU": "решить спор путем взаимного уступки.",
-        "descriptionDE": "einen Streit durch gegenseitige Zugeständnisse beilegen."
+        "descriptionDE": "einen Streit durch gegenseitige Zugeständnisse beilegen.",
+        "descriptionTR": "Karşılıklı taviz vererek bir anlaşmazlığı çözmek.",
+        "descriptionAZ": "Qarşılıqlı güzəştə gedərək mübahisəni həll etmək.",
+        "descriptionUK": "Вирішити суперечку шляхом взаємних поступок."
     }, {
         "de": "verfolgen",
         "en": "pursue",
         "ru": "преследовать",
+        "tr": "takip etmek",
+        "az": "təqib etmək",
+        "uk": "переслідувати",
         "descriptionEN": "to follow in order to catch or attack.",
         "descriptionRU": "следовать, чтобы поймать или атаковать.",
-        "descriptionDE": "folgen, um zu fangen oder anzugreifen."
+        "descriptionDE": "folgen, um zu fangen oder anzugreifen.",
+        "descriptionTR": "Yakalamak veya saldırmak amacıyla takip etmek.",
+        "descriptionAZ": "Tutmaq və ya hücum etmək üçün təqib etmək.",
+        "descriptionUK": "Переслідувати, щоб спіймати або атакувати."
     }
-
 ]

@@ -3,99 +3,183 @@
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "tr": "katedral",
+        "az": "katedral",
+        "uk": "собор",
         "descriptionDE": "eine große und wichtige Kirche, in der Regel die Hauptkirche einer Diözese.",
         "descriptionEN": "a large and important church, typically one that is the main church of a diocese.",
-        "descriptionRU": "большая и важная церковь, обычно являющаяся главной церковью епархии."
+        "descriptionRU": "большая и важная церковь, обычно являющаяся главной церковью епархии.",
+        "descriptionTR": "Genellikle bir piskoposluğun ana kilisesi olan büyük ve önemli kilise.",
+        "descriptionAZ": "Adətən yeparxiyanın əsas kilsəsi olan böyük və mühüm kilsə.",
+        "descriptionUK": "Велика та важлива церква, зазвичай головна церква єпархії."
     }, {
         "de": "gotisch",
         "en": "Gothic",
         "ru": "Готический",
+        "tr": "gotik",
+        "az": "qotik",
+        "uk": "готичний",
         "descriptionDE": "bezogen auf einen Baustil, der in Europa vom 12. bis zum 16. Jahrhundert blühte.",
         "descriptionEN": "relating to a style of architecture that flourished in Europe from the 12th to the 16th century.",
-        "descriptionRU": "относящийся к стилю архитектуры, процветавшему в Европе с XII по XVI век."
+        "descriptionRU": "относящийся к стилю архитектуры, процветавшему в Европе с XII по XVI век.",
+        "descriptionTR": "12. yüzyıldan 16. yüzyıla kadar Avrupa'da gelişen mimarlık tarzıyla ilgili.",
+        "descriptionAZ": "12-ci əsrdən 16-cı əsrə qədər Avropada inkişaf edən memarlıq üslubu ilə əlaqəli.",
+        "descriptionUK": "Що стосується стилю архітектури, який процвітав в Європі з 12 по 16 століття."
     }, {
         "de": "der Turm",
         "en": "Tower",
         "ru": "Башня",
+        "tr": "kule",
+        "az": "qüllə",
+        "uk": "вежа",
         "descriptionDE": "eine hohe Struktur, in der Regel höher als breit, oft als Aussichtspunkt oder Wahrzeichen verwendet.",
         "descriptionEN": "a tall structure, typically taller than it is wide, often used as a lookout or landmark.",
-        "descriptionRU": "высокая конструкция, обычно более высокая, чем широкая, часто используемая как вышка или ориентир."
+        "descriptionRU": "высокая конструкция, обычно более высокая, чем широкая, часто используемая как вышка или ориентир.",
+        "descriptionTR": "Genellikle genişliğinden daha uzun olan, sıklıkla gözetleme noktası veya işaret noktası olarak kullanılan yüksek yapı.",
+        "descriptionAZ": "Adətən enindən daha hündür olan, tez-tez müşahidə nöqtəsi və ya orientir kimi istifadə olunan hündür quruluş.",
+        "descriptionUK": "Висока структура, зазвичай вища, ніж широка, часто використовується як оглядовий пункт або орієнтир."
     }, {
         "de": "die Verzierung",
         "en": "Decoration",
         "ru": "Украшение",
+        "tr": "süsleme",
+        "az": "bəzək",
+        "uk": "прикраса",
         "descriptionDE": "der Prozess des Verschönerns oder Dekorierens; Ornamentierung.",
         "descriptionEN": "the process of adorning or decorating; ornamentation.",
-        "descriptionRU": "процесс украшения или декорирования; орнаментация."
+        "descriptionRU": "процесс украшения или декорирования; орнаментация.",
+        "descriptionTR": "Süsleme veya dekorasyon süreci; süsleme.",
+        "descriptionAZ": "Bəzəmə və ya dekorasiya prosesi; ornamentasiya.",
+        "descriptionUK": "Процес прикрашання або декорування; орнаментація."
     }, {
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionDE": "die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
-        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionTR": "Özellikle insani meselelerde geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Xüsusilə insani məsələlərdə keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Reliquie",
         "en": "Relic",
         "ru": "Реликвия",
+        "tr": "kutsal emanet",
+        "az": "müqəddəs əşya",
+        "uk": "реліквія",
         "descriptionDE": "Gegenstände, die wegen ihrer Verbindung mit einem Heiligen oder Märtyrer geachtet und verehrt werden.",
         "descriptionEN": "objects esteemed and venerated because of association with a saint or martyr.",
-        "descriptionRU": "предметы, уважаемые и почитаемые из-за связи с святым или мучеником."
+        "descriptionRU": "предметы, уважаемые и почитаемые из-за связи с святым или мучеником.",
+        "descriptionTR": "Bir aziz veya şehitle ilişkisi nedeniyle saygı duyulan ve tapınılan nesneler.",
+        "descriptionAZ": "Müqəddəs və ya şəhidlə əlaqəsi səbəbindən hörmət edilən və tapınılan əşyalar.",
+        "descriptionUK": "Предмети, що шануються і поклоняються через зв'язок зі святим або мучеником."
     }, {
         "de": "das Artefakt",
         "en": "Artifact",
         "ru": "Артефакт",
+        "tr": "eser",
+        "az": "artefakt",
+        "uk": "артефакт",
         "descriptionDE": "ein von einem Menschen geschaffenes Objekt, in der Regel von kulturellem oder historischem Interesse.",
         "descriptionEN": "an object made by a human being, typically one of cultural or historical interest.",
-        "descriptionRU": "предмет, созданный человеком, обычно представляющий культурный или исторический интерес."
+        "descriptionRU": "предмет, созданный человеком, обычно представляющий культурный или исторический интерес.",
+        "descriptionTR": "İnsan tarafından yapılan, genellikle kültürel veya tarihi ilgi çekici nesne.",
+        "descriptionAZ": "İnsan tərəfindən yaradılan, adətən mədəni və ya tarixi maraq doğuran obyekt.",
+        "descriptionUK": "Об'єкт, створений людиною, зазвичай культурного або історичного інтересу."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
+        "tr": "mimarlık",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionDE": "die Kunst oder Praxis des Entwurfs und Baus von Gebäuden.",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
-        "descriptionRU": "искусство или практика проектирования и строительства зданий."
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionTR": "Binaları tasarlama ve inşa etme sanatı veya uygulaması.",
+        "descriptionAZ": "Binaları layihələndirmə və tikintinin sənəti və ya təcrübəsi.",
+        "descriptionUK": "Мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionDE": "die Fähigkeit zu sehen oder der Bereich der Sicht.",
         "descriptionEN": "the ability to see or the range of vision.",
-        "descriptionRU": "способность видеть или диапазон зрения."
+        "descriptionRU": "способность видеть или диапазон зрения.",
+        "descriptionTR": "Görme yeteneği veya görüş aralığı.",
+        "descriptionAZ": "Görmə qabiliyyəti və ya görmə diapazonu.",
+        "descriptionUK": "Здатність бачити або діапазон зору."
     }, {
         "de": "die Bedeutung",
         "en": "Significance",
         "ru": "Значение",
+        "tr": "önem",
+        "az": "əhəmiyyət",
+        "uk": "значення",
         "descriptionDE": "die Qualität, Aufmerksamkeit zu verdienen; Wichtigkeit.",
         "descriptionEN": "the quality of being worthy of attention; importance.",
-        "descriptionRU": "качество, достойное внимания; важность."
+        "descriptionRU": "качество, достойное внимания; важность.",
+        "descriptionTR": "Dikkat çekmeye değer olma kalitesi; önem.",
+        "descriptionAZ": "Diqqətə layiq olma keyfiyyəti; əhəmiyyət.",
+        "descriptionUK": "Якість бути гідним уваги; важливість."
     }, {
         "de": "religiöse",
         "en": "religious",
         "ru": "религиозный",
+        "tr": "dini",
+        "az": "dini",
+        "uk": "релігійний",
         "descriptionDE": "bezogen auf oder glaubend an eine Religion; starken Glauben an eine Gottheit oder Gottheiten habend.",
         "descriptionEN": "relating to or believing in a religion; having a strong belief in a deity or deities.",
-        "descriptionRU": "относящийся к религии или верящий в религию; сильно верящий в божество или богов."
+        "descriptionRU": "относящийся к религии или верящий в религию; сильно верящий в божество или богов.",
+        "descriptionTR": "Bir dinle ilgili veya ona inanan; bir tanrıya veya tanrılara güçlü inancı olan.",
+        "descriptionAZ": "Dinlə əlaqəli və ya ona inanan; tanrıya və ya tanrılara güclü inamı olan.",
+        "descriptionUK": "Що стосується релігії або віри в неї; має сильну віру в божество або божества."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionDE": "die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden.",
         "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively.",
-        "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности."
+        "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности.",
+        "descriptionTR": "Toplu olarak kabul edilen sanatlar ve insani entelektüel başarının diğer tezahürleri.",
+        "descriptionAZ": "Kollektiv olaraq qəbul edilən sənət və insani intellektual nailiyyətlərin digər təzahürləri.",
+        "descriptionUK": "Мистецтво та інші прояви людських інтелектуальних досягнень, що розглядаються колективно."
     }, {
         "de": "der Besucher",
         "en": "Visitor",
         "ru": "Посетитель",
+        "tr": "ziyaretçi",
+        "az": "ziyarətçi",
+        "uk": "відвідувач",
         "descriptionDE": "eine Person, die einen Ort aus Vergnügen oder Neugier besucht.",
         "descriptionEN": "a person visiting a place for pleasure or out of curiosity.",
-        "descriptionRU": "человек, посещающий место для удовольствия или из любопытства."
+        "descriptionRU": "человек, посещающий место для удовольствия или из любопытства.",
+        "descriptionTR": "Zevk için veya meraktan bir yeri ziyaret eden kişi.",
+        "descriptionAZ": "Həzz üçün və ya maraqdan bir yeri ziyarət edən şəxs.",
+        "descriptionUK": "Особа, що відвідує місце для задоволення або з цікавості."
     }, {
         "de": "der Jahrestag",
         "en": "Anniversary",
         "ru": "Годовщина",
+        "tr": "yıldönümü",
+        "az": "ildönümü",
+        "uk": "річниця",
         "descriptionDE": "die jährliche Wiederkehr eines Datums, das ein bemerkenswertes Ereignis kennzeichnet.",
         "descriptionEN": "the annual recurrence of a date marking a notable event.",
-        "descriptionRU": "годовая повторяемость даты, отмечающей заметное событие."
+        "descriptionRU": "годовая повторяемость даты, отмечающей заметное событие.",
+        "descriptionTR": "Önemli bir olayı işaret eden tarihin yıllık tekrarı.",
+        "descriptionAZ": "Diqqətəlayiq hadisəni qeyd edən tarihin illik təkrarı.",
+        "descriptionUK": "Щорічне повторення дати, що позначає помітну подію."
     }
 ]

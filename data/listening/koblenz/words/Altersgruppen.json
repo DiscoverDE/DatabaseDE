@@ -3,183 +3,339 @@
         "de": "die Festung",
         "en": "fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
         "descriptionEN": "a military stronghold, often large and fortified",
         "descriptionRU": "военная крепость, часто большая и укрепленная",
-        "descriptionDE": "eine militärische Festung, oft groß und befestigt"
+        "descriptionDE": "eine militärische Festung, oft groß und befestigt",
+        "descriptionTR": "genellikle büyük ve güçlendirilmiş bir askeri kale",
+        "descriptionAZ": "adətən böyük və möhkəmləndirilmiş hərbi qala",
+        "descriptionUK": "військова фортеця, часто велика та укріплена"
     }, {
         "de": "das Wahrzeichen",
         "en": "landmark",
         "ru": "ориентир",
+        "tr": "sembol",
+        "az": "simvol",
+        "uk": "орієнтир",
         "descriptionEN": "a recognizable feature or object used to identify a location",
         "descriptionRU": "узнаваемая черта или объект, используемый для определения местоположения",
-        "descriptionDE": "ein erkennbares Merkmal oder Objekt, das zur Identifizierung eines Ortes verwendet wird"
+        "descriptionDE": "ein erkennbares Merkmal oder Objekt, das zur Identifizierung eines Ortes verwendet wird",
+        "descriptionTR": "bir konumu tanımlamak için kullanılan tanınabilir özellik veya nesne",
+        "descriptionAZ": "yeri müəyyən etmək üçün istifadə olunan tanınabilir xüsusiyyət və ya obyekt",
+        "descriptionUK": "впізнавана ознака або об'єкт, що використовується для ідентифікації місця"
     }, {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionEN": "what can be seen from a particular place or position",
         "descriptionRU": "то, что можно увидеть с определенного места или позиции",
-        "descriptionDE": "was von einem bestimmten Ort oder einer bestimmten Position aus gesehen werden kann"
+        "descriptionDE": "was von einem bestimmten Ort oder einer bestimmten Position aus gesehen werden kann",
+        "descriptionTR": "belirli bir yerden veya konumdan görülebilen şey",
+        "descriptionAZ": "müəyyən bir yerdən və ya mövqedən görünən şey",
+        "descriptionUK": "те, що можна побачити з певного місця чи позиції"
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "ріка",
         "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
         "descriptionRU": "большой естественный поток воды, течущий по каналу к морю, озеру или другой реке",
-        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt"
+        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt",
+        "descriptionTR": "denize, göle veya başka bir nehre akan büyük doğal su akıntısı",
+        "descriptionAZ": "dənizə, gölə və ya başqa çaya axan böyük təbii su axını",
+        "descriptionUK": "великий природний потік води, що тече руслом до моря, озера чи іншої ріки"
     }, {
         "de": "die Ausstellung",
         "en": "exhibition",
         "ru": "выставка",
+        "tr": "sergi",
+        "az": "sərgi",
+        "uk": "виставка",
         "descriptionEN": "a public display of works of art or items of interest, held in an art gallery or museum or at a trade fair",
         "descriptionRU": "публичное представление произведений искусства или предметов интереса, проводимое в художественной галерее, музее или на ярмарке",
-        "descriptionDE": "eine öffentliche Ausstellung von Kunstwerken oder interessanten Gegenständen, die in einer Kunstgalerie oder einem Museum oder auf einer Messe stattfindet"
+        "descriptionDE": "eine öffentliche Ausstellung von Kunstwerken oder interessanten Gegenständen, die in einer Kunstgalerie oder einem Museum oder auf einer Messe stattfindet",
+        "descriptionTR": "bir sanat galerisinde, müzede veya ticaret fuarında düzenlenen sanat eserlerinin veya ilgi çekici öğelerin halka açık sergisi",
+        "descriptionAZ": "sənət qalereyasında, muzeydə və ya sərgidə keçirilən sənət əsərlərinin və ya maraqlı əşyaların ictimai nümayişi",
+        "descriptionUK": "публічний показ творів мистецтва чи предметів інтересу, що проводиться у художній галереї, музеї чи на ярмарку"
     }, {
         "de": "die Darstellung",
         "en": "representation",
         "ru": "представление",
+        "tr": "temsil",
+        "az": "təsvir",
+        "uk": "подання",
         "descriptionEN": "the action of showing something for others to see",
         "descriptionRU": "действие показать что-то для других, чтобы увидеть",
-        "descriptionDE": "die Handlung, etwas zu zeigen, damit andere es sehen können"
+        "descriptionDE": "die Handlung, etwas zu zeigen, damit andere es sehen können",
+        "descriptionTR": "başkalarının görmesi için bir şeyi gösterme eylemi",
+        "descriptionAZ": "başqalarının görməsi üçün bir şeyi göstərmə hərəkəti",
+        "descriptionUK": "дія показу чогось для інших, щоб побачили"
     }, {
         "de": "die Attraktion",
         "en": "attraction",
         "ru": "аттракцион",
+        "tr": "çekim",
+        "az": "cazibə",
+        "uk": "атракціон",
         "descriptionEN": "a thing or place that draws visitors by providing something of interest or pleasure",
         "descriptionRU": "вещь или место, которое привлекает посетителей, предоставляя что-то интересное или приятное",
-        "descriptionDE": "eine Sache oder ein Ort, der Besucher anzieht, indem er etwas Interessantes oder Angenehmes bietet"
+        "descriptionDE": "eine Sache oder ein Ort, der Besucher anzieht, indem er etwas Interessantes oder Angenehmes bietet",
+        "descriptionTR": "ilgi çekici veya keyifli bir şey sunarak ziyaretçileri çeken bir şey veya yer",
+        "descriptionAZ": "maraqlı və ya xoş bir şey təqdim edərək ziyarətçiləri cəlb edən bir şey və ya yer",
+        "descriptionUK": "річ чи місце, яке приваблює відвідувачів, пропонуючи щось цікаве чи приємне"
     }, {
         "de": "tropisch",
         "en": "tropical",
         "ru": "тропический",
+        "tr": "tropikal",
+        "az": "tropik",
+        "uk": "тропічний",
         "descriptionEN": "of, typical of, or peculiar to the tropics",
         "descriptionRU": "характерный для тропиков",
-        "descriptionDE": "typisch für oder eigenartig für die Tropen"
+        "descriptionDE": "typisch für oder eigenartig für die Tropen",
+        "descriptionTR": "tropiklere özgü veya tipik",
+        "descriptionAZ": "tropiklərə xas və ya tipik",
+        "descriptionUK": "характерний для тропіків"
     }, {
         "de": "bunt",
         "en": "colorful",
         "ru": "разноцветный",
+        "tr": "renkli",
+        "az": "rəngarəng",
+        "uk": "барвистий",
         "descriptionEN": "having much or varied color; bright and striking",
         "descriptionRU": "имеющий много или разнообразный цвет; яркий и выразительный",
-        "descriptionDE": "viel oder vielfältige Farben haben; hell und auffällig"
+        "descriptionDE": "viel oder vielfältige Farben haben; hell und auffällig",
+        "descriptionTR": "çok veya çeşitli renklere sahip; parlak ve çarpıcı",
+        "descriptionAZ": "çox və ya müxtəlif rənglərə malik; parlaq və təsirli",
+        "descriptionUK": "має багато або різноманітний колір; яскравий і виразний"
     }, {
         "de": "lehrreich",
         "en": "instructive",
         "ru": "поучительный",
+        "tr": "öğretici",
+        "az": "təlim edici",
+        "uk": "повчальний",
         "descriptionEN": "providing knowledge or information; educational",
         "descriptionRU": "предоставление знаний или информации; образовательный",
-        "descriptionDE": "Bereitstellung von Wissen oder Informationen; bildend"
+        "descriptionDE": "Bereitstellung von Wissen oder Informationen; bildend",
+        "descriptionTR": "bilgi veya bilgi sağlayan; eğitici",
+        "descriptionAZ": "bilik və ya məlumat təqdim edən; təhsil verici",
+        "descriptionUK": "надання знань чи інформації; освітній"
     }, {
         "de": "interaktiv",
         "en": "interactive",
         "ru": "интерактивный",
+        "tr": "etkileşimli",
+        "az": "interaktiv",
+        "uk": "інтерактивний",
         "descriptionEN": "involving communication between two or more parties",
         "descriptionRU": "включающий общение между двумя или более сторонами",
-        "descriptionDE": "involviert Kommunikation zwischen zwei oder mehr Parteien"
+        "descriptionDE": "involviert Kommunikation zwischen zwei oder mehr Parteien",
+        "descriptionTR": "iki veya daha fazla taraf arasında iletişim içeren",
+        "descriptionAZ": "iki və ya daha çox tərəf arasında ünsiyyətə aid olan",
+        "descriptionUK": "передбачає спілкування між двома чи більше сторонами"
     }, {
         "de": "majestätisch",
         "en": "majestic",
         "ru": "величественный",
+        "tr": "görkemli",
+        "az": "məjdəli",
+        "uk": "величний",
         "descriptionEN": "having or showing impressive beauty or dignity",
         "descriptionRU": "имеющий впечатляющую красоту или достоинство",
-        "descriptionDE": "eindrucksvolle Schönheit oder Würde zeigen"
+        "descriptionDE": "eindrucksvolle Schönheit oder Würde zeigen",
+        "descriptionTR": "etkileyici bir güzelliğe veya görkeme sahip olmak",
+        "descriptionAZ": "təsirli gözəlliyə və ya əzəmətə malik olmaq",
+        "descriptionUK": "має вражаючу красу чи гідність"
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
         "descriptionRU": "понравившийся, восхищенный или наслажденный многими людьми или конкретным человеком или группой",
-        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen",
+        "descriptionTR": "birçok kişi veya belirli bir kişi veya grup tarafından beğenilen, hayran olunan veya keyif alınan",
+        "descriptionAZ": "bir çox insan və ya müəyyən bir şəxs və ya qrup tərəfindən bəyənilən, heyran olunan və ya həzz alınan",
+        "descriptionUK": "подобається, захоплюється чи насолоджується багатьма людьми чи конкретною особою чи групою"
     }, {
         "de": "landschaftlich",
         "en": "scenic",
         "ru": "живописный",
+        "tr": "manzaralı",
+        "az": "mənzərəli",
+        "uk": "мальовничий",
         "descriptionEN": "having beautiful scenery; picturesque",
         "descriptionRU": "имеющий красивые пейзажи; живописный",
-        "descriptionDE": "eine schöne Landschaft haben; malerisch"
+        "descriptionDE": "eine schöne Landschaft haben; malerisch",
+        "descriptionTR": "güzel manzaraya sahip olmak; pitoresk",
+        "descriptionAZ": "gözəl mənzərəyə malik olmaq; rəsmə bənzər",
+        "descriptionUK": "має гарні пейзажі; мальовничий"
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "of or concerning history; concerning past events",
         "descriptionRU": "касающийся истории; касающийся прошлых событий",
-        "descriptionDE": "von oder betreffend Geschichte; betreffend vergangene Ereignisse"
+        "descriptionDE": "von oder betreffend Geschichte; betreffend vergangene Ereignisse",
+        "descriptionTR": "tarihle ilgili veya tarihe ait; geçmiş olaylarla ilgili",
+        "descriptionAZ": "tarixə aid və ya tarixlə bağlı; keçmiş hadisələrlə bağlı",
+        "descriptionUK": "стосується історії; стосується минулих подій"
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionEN": "of a size that is less than normal or usual",
         "descriptionRU": "размером меньше обычного или обычного",
-        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist"
+        "descriptionDE": "von einer Größe, die kleiner als normal oder üblich ist",
+        "descriptionTR": "normalden veya alışılmıştan daha küçük bir boyutta",
+        "descriptionAZ": "normal və ya adi olandan daha kiçik ölçüdə",
+        "descriptionUK": "розміром менше, ніж звичайно чи зазвичай"
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "pleasing the senses or mind aesthetically",
         "descriptionRU": "удовлетворяющий чувства или ум эстетически",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend",
+        "descriptionTR": "duyulara veya zihne estetik açıdan hoş gelen",
+        "descriptionAZ": "duyğulara və ya ağıla estetik baxımdan xoş gələn",
+        "descriptionUK": "приємний для почуттів чи розуму естетично"
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
         "descriptionRU": "понравившийся, восхищенный или наслажденный многими людьми или конкретным человеком или группой",
-        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+        "descriptionDE": "von vielen Menschen oder einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen",
+        "descriptionTR": "birçok kişi veya belirli bir kişi veya grup tarafından beğenilen, hayran olunan veya keyif alınan",
+        "descriptionAZ": "bir çox insan və ya müəyyən bir şəxs və ya qrup tərəfindən bəyənilən, heyran olunan və ya həzz alınan",
+        "descriptionUK": "подобається, захоплюється чи насолоджується багатьма людьми чи конкретною особою чи групою"
     }, {
         "de": "prächtig",
         "en": "splendid",
         "ru": "великолепный",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
         "descriptionEN": "magnificent; very impressive",
         "descriptionRU": "великолепный; очень впечатляющий",
-        "descriptionDE": "prachtvoll; sehr beeindruckend"
+        "descriptionDE": "prachtvoll; sehr beeindruckend",
+        "descriptionTR": "muhteşem; çok etkileyici",
+        "descriptionAZ": "möhtəşəm; çox təsirli",
+        "descriptionUK": "чудовий; дуже вражаючий"
     }, {
         "de": "pulsierend",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
         "descriptionEN": "full of energy and activity",
         "descriptionRU": "полный энергии и активности",
-        "descriptionDE": "voll von Energie und Aktivität"
+        "descriptionDE": "voll von Energie und Aktivität",
+        "descriptionTR": "enerji ve aktivite dolu",
+        "descriptionAZ": "enerji və fəaliyyətlə dolu",
+        "descriptionUK": "сповнений енергії та активності"
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "pleasing the senses or mind aesthetically",
         "descriptionRU": "удовлетворяющий чувства или ум эстетически",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend",
+        "descriptionTR": "duyulara veya zihne estetik açıdan hoş gelen",
+        "descriptionAZ": "duyğulara və ya ağıla estetik baxımdan xoş gələn",
+        "descriptionUK": "приємний для почуттів чи розуму естетично"
     }, {
         "de": "ideal",
         "en": "ideal",
         "ru": "идеальный",
+        "tr": "ideal",
+        "az": "ideal",
+        "uk": "ідеальний",
         "descriptionEN": "satisfying one's conception of what is perfect; most suitable",
         "descriptionRU": "удовлетворение своего представления о том, что совершенно; наиболее подходящий",
-        "descriptionDE": "die Vorstellung dessen, was perfekt ist, befriedigend; am besten geeignet"
+        "descriptionDE": "die Vorstellung dessen, was perfekt ist, befriedigend; am besten geeignet",
+        "descriptionTR": "mükemmel olanın kişinin kavramını tatmin eden; en uygun",
+        "descriptionAZ": "mükəmməl olanın şəxsin anlayışını qane edən; ən uyğun",
+        "descriptionUK": "задовольняє уявлення про те, що є досконалим; найбільш підходящий"
     }, {
         "de": "vielfältig",
         "en": "diverse",
         "ru": "разнообразный",
+        "tr": "çeşitli",
+        "az": "müxtəlif",
+        "uk": "різноманітний",
         "descriptionEN": "showing a great deal of variety; very different",
         "descriptionRU": "показывающий большое разнообразие; очень разный",
-        "descriptionDE": "zeigt eine große Vielfalt; sehr unterschiedlich"
+        "descriptionDE": "zeigt eine große Vielfalt; sehr unterschiedlich",
+        "descriptionTR": "büyük bir çeşitlilik gösteren; çok farklı",
+        "descriptionAZ": "böyük müxtəliflik göstərən; çox fərqli",
+        "descriptionUK": "показує велику різноманітність; дуже різний"
     }, {
         "de": "wunderbar",
         "en": "wonderful",
         "ru": "замечательный",
+        "tr": "harika",
+        "az": "möcüzəli",
+        "uk": "чудовий",
         "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good; marvellous",
         "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; крайне хороший; чудесный",
-        "descriptionDE": "inspiriert Freude, Vergnügen oder Bewunderung; extrem gut; wunderbar"
+        "descriptionDE": "inspiriert Freude, Vergnügen oder Bewunderung; extrem gut; wunderbar",
+        "descriptionTR": "neşe, zevk veya hayranlık uyandıran; son derece iyi; harika",
+        "descriptionAZ": "sevinc, zövq və ya heyranlıq oyadan; son dərəcə yaxşı; möcüzəli",
+        "descriptionUK": "надихає захват, задоволення чи захоплення; надзвичайно хороший; чудовий"
     }, {
         "de": "sicher",
         "en": "safe",
         "ru": "безопасный",
+        "tr": "güvenli",
+        "az": "təhlükəsiz",
+        "uk": "безпечний",
         "descriptionEN": "protected from or not exposed to danger or risk; not likely to be harmed or lost",
         "descriptionRU": "защищен от опасности или не подвергается риску; маловероятно, что он будет поврежден или потерян",
-        "descriptionDE": "vor Gefahr oder Risiko geschützt; nicht wahrscheinlich, dass er Schaden nimmt oder verloren geht"
+        "descriptionDE": "vor Gefahr oder Risiko geschützt; nicht wahrscheinlich, dass er Schaden nimmt oder verloren geht",
+        "descriptionTR": "tehlikeden veya riske maruz kalmayan; zarar görme veya kaybolma olasılığı düşük",
+        "descriptionAZ": "təhlükə və ya riskə məruz qalmayan; zərər görəcək və ya itiriləcək ehtimalı az",
+        "descriptionUK": "захищений від небезпеки чи не піддається ризику; навряд чи буде пошкоджений чи втрачений"
     }, {
         "de": "unterhaltsam",
         "en": "entertaining",
         "ru": "развлекательный",
+        "tr": "eğlenceli",
+        "az": "əyləncəli",
+        "uk": "розважальний",
         "descriptionEN": "providing amusement or enjoyment",
         "descriptionRU": "обеспечение развлечения или удовольствия",
-        "descriptionDE": "bietet Unterhaltung oder Genuss"
+        "descriptionDE": "bietet Unterhaltung oder Genuss",
+        "descriptionTR": "eğlence veya keyif sağlayan",
+        "descriptionAZ": "əyləncə və ya zövq təmin edən",
+        "descriptionUK": "забезпечує розваги чи задоволення"
     }
 ]

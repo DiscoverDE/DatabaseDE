@@ -3,162 +3,300 @@
         "de": "das Unternehmen",
         "en": "company",
         "ru": "компания",
+        "tr": "şirket",
+        "az": "şirkət",
+        "uk": "компанія",
         "descriptionEN": "A business organization selling goods or services.",
         "descriptionRU": "Коммерческая организация, продающая товары или услуги.",
-        "descriptionDE": "Eine Geschäftseinheit, die Waren oder Dienstleistungen verkauft."
+        "descriptionDE": "Eine Geschäftseinheit, die Waren oder Dienstleistungen verkauft.",
+        "descriptionTR": "Mal veya hizmet satan bir işletme organizasyonu.",
+        "descriptionAZ": "Mallar və ya xidmətlər satan bir iş təşkilatı.",
+        "descriptionUK": "Комерційна організація, яка продає товари або послуги."
     }, {
         "de": "das Angebot",
         "en": "offer",
         "ru": "предложение",
+        "tr": "teklif",
+        "az": "təklif",
+        "uk": "пропозиція",
         "descriptionEN": "A proposal presented for acceptance.",
         "descriptionRU": "Предложение для принятия.",
-        "descriptionDE": "Ein Vorschlag zur Annahme."
+        "descriptionDE": "Ein Vorschlag zur Annahme.",
+        "descriptionTR": "Kabul edilmesi için sunulan bir teklif.",
+        "descriptionAZ": "Qəbul üçün təqdim edilən təklif.",
+        "descriptionUK": "Пропозиція для прийняття."
     }, {
         "de": "die Sozialleistungen",
         "en": "social benefits",
         "ru": "социальные льготы",
+        "tr": "sosyal yardımlar",
+        "az": "sosial müavinətlər",
+        "uk": "соціальні пільги",
         "descriptionEN": "Benefits provided by employers beyond salary, such as health insurance.",
         "descriptionRU": "Льготы, предоставляемые работодателями помимо зарплаты, такие как медицинская страховка.",
-        "descriptionDE": "Vom Arbeitgeber zusätzlich zum Gehalt gewährte Leistungen, wie z. B. Krankenversicherung."
+        "descriptionDE": "Vom Arbeitgeber zusätzlich zum Gehalt gewährte Leistungen, wie z. B. Krankenversicherung.",
+        "descriptionTR": "Maaş dışında işverenler tarafından sağlanan sağlık sigortası gibi yardımlar.",
+        "descriptionAZ": "Əmək haqqından əlavə işəgötürənlər tərəfindən təmin edilən tibbi sığorta kimi müavinətlər.",
+        "descriptionUK": "Пільги, що надаються роботодавцями окрім зарплати, такі як медичне страхування."
     }, {
         "de": "das Fitnessstudio",
         "en": "gym",
         "ru": "тренажерный зал",
+        "tr": "spor salonu",
+        "az": "idman zalı",
+        "uk": "тренажерний зал",
         "descriptionEN": "A place equipped for physical exercise.",
         "descriptionRU": "Место, оборудованное для физических упражнений.",
-        "descriptionDE": "Ein Ort, ausgestattet für körperliche Übungen."
+        "descriptionDE": "Ein Ort, ausgestattet für körperliche Übungen.",
+        "descriptionTR": "Fiziksel egzersiz için donatılmış bir yer.",
+        "descriptionAZ": "Bədən tərbiyəsi üçün təchiz edilmiş yer.",
+        "descriptionUK": "Місце, обладнане для фізичних вправ."
     }, {
         "de": "die Vergünstigung",
         "en": "discount",
         "ru": "скидка",
+        "tr": "indirim",
+        "az": "endirim",
+        "uk": "знижка",
         "descriptionEN": "A reduction in price.",
         "descriptionRU": "Снижение цены.",
-        "descriptionDE": "Eine Preisreduzierung."
+        "descriptionDE": "Eine Preisreduzierung.",
+        "descriptionTR": "Fiyatta bir indirim.",
+        "descriptionAZ": "Qiymətdə endirim.",
+        "descriptionUK": "Зниження ціни."
     }, {
         "de": "die Sicherheit",
         "en": "security",
         "ru": "безопасность",
+        "tr": "güvenlik",
+        "az": "təhlükəsizlik",
+        "uk": "безпека",
         "descriptionEN": "The state of being free from danger or threat.",
         "descriptionRU": "Состояние защищенности от опасности или угрозы.",
-        "descriptionDE": "Der Zustand, frei von Gefahr oder Bedrohung zu sein."
+        "descriptionDE": "Der Zustand, frei von Gefahr oder Bedrohung zu sein.",
+        "descriptionTR": "Tehlikeden veya tehditten uzak olma durumu.",
+        "descriptionAZ": "Təhlükə və ya təhdiddən uzaq olma vəziyyəti.",
+        "descriptionUK": "Стан захищеності від небезпеки чи загрози."
     }, {
         "de": "das Büro",
         "en": "office",
         "ru": "офис",
+        "tr": "ofis",
+        "az": "ofis",
+        "uk": "офіс",
         "descriptionEN": "A room where people work at desks.",
         "descriptionRU": "Комната, где люди работают за столами.",
-        "descriptionDE": "Ein Raum, in dem Menschen an Schreibtischen arbeiten."
+        "descriptionDE": "Ein Raum, in dem Menschen an Schreibtischen arbeiten.",
+        "descriptionTR": "İnsanların masalarda çalıştığı bir oda.",
+        "descriptionAZ": "İnsanların masalarda işlədiyi otaq.",
+        "descriptionUK": "Кімната, де люди працюють за столами."
     }, {
         "de": "der Karrierepfad",
         "en": "career path",
         "ru": "карьерный путь",
+        "tr": "kariyer yolu",
+        "az": "karyera yolu",
+        "uk": "кар'єрний шлях",
         "descriptionEN": "The progression of a person's professional life.",
         "descriptionRU": "Профессиональное развитие человека.",
-        "descriptionDE": "Der Verlauf des beruflichen Werdegangs einer Person."
+        "descriptionDE": "Der Verlauf des beruflichen Werdegangs einer Person.",
+        "descriptionTR": "Bir kişinin profesyonel yaşamının ilerlemesi.",
+        "descriptionAZ": "Bir şəxsin peşəkar həyatının inkişafı.",
+        "descriptionUK": "Професійний розвиток людини."
     }, {
         "de": "die Nachhaltigkeit",
         "en": "sustainability",
         "ru": "устойчивость",
+        "tr": "sürdürülebilirlik",
+        "az": "davamlılıq",
+        "uk": "стійкість",
         "descriptionEN": "The ability to be maintained at a certain rate or level.",
         "descriptionRU": "Способность поддерживаться на определенном уровне.",
-        "descriptionDE": "Die Fähigkeit, auf einem bestimmten Niveau gehalten zu werden."
+        "descriptionDE": "Die Fähigkeit, auf einem bestimmten Niveau gehalten zu werden.",
+        "descriptionTR": "Belirli bir oranda veya seviyede sürdürülebilme yeteneği.",
+        "descriptionAZ": "Müəyyən səviyyədə saxlanılma qabiliyyəti.",
+        "descriptionUK": "Здатність підтримуватися на певному рівні."
     }, {
         "de": "die Dienstreise",
         "en": "business trip",
         "ru": "командировка",
+        "tr": "iş seyahati",
+        "az": "iş səfəri",
+        "uk": "відрядження",
         "descriptionEN": "A journey taken for work purposes.",
         "descriptionRU": "Поездка по работе.",
-        "descriptionDE": "Eine Reise, die zu Arbeitszwecken unternommen wird."
+        "descriptionDE": "Eine Reise, die zu Arbeitszwecken unternommen wird.",
+        "descriptionTR": "İş amaçlı yapılan bir seyahat.",
+        "descriptionAZ": "İş məqsədi ilə edilən səfər.",
+        "descriptionUK": "Поїздка за роботою."
     }, {
         "de": "wohnen",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "To reside in a place.",
         "descriptionRU": "Проживать в месте.",
-        "descriptionDE": "An einem Ort leben."
+        "descriptionDE": "An einem Ort leben.",
+        "descriptionTR": "Bir yerde ikamet etmek.",
+        "descriptionAZ": "Bir yerdə yaşamaq.",
+        "descriptionUK": "Проживати в місці."
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
         "descriptionEN": "To engage in physical or mental activity to achieve a result.",
         "descriptionRU": "Заниматься физической или умственной деятельностью для достижения результата.",
-        "descriptionDE": "Sich körperlich oder geistig betätigen, um ein Ergebnis zu erzielen."
+        "descriptionDE": "Sich körperlich oder geistig betätigen, um ein Ergebnis zu erzielen.",
+        "descriptionTR": "Bir sonuç elde etmek için fiziksel veya zihinsel aktiviteye katılmak.",
+        "descriptionAZ": "Nəticə əldə etmək üçün fiziki və ya zehni fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "Займатися фізичною або розумовою діяльністю для досягнення результату."
     }, {
         "de": "bieten",
         "en": "to offer",
         "ru": "предлагать",
+        "tr": "teklif etmek",
+        "az": "təklif etmək",
+        "uk": "пропонувати",
         "descriptionEN": "To present for acceptance or rejection.",
         "descriptionRU": "Предлагать для принятия или отклонения.",
-        "descriptionDE": "Zur Annahme oder Ablehnung vorlegen."
+        "descriptionDE": "Zur Annahme oder Ablehnung vorlegen.",
+        "descriptionTR": "Kabul veya reddedilmesi için sunmak.",
+        "descriptionAZ": "Qəbul və ya rədd edilməsi üçün təqdim etmək.",
+        "descriptionUK": "Пропонувати для прийняття або відхилення."
     }, {
         "de": "entscheiden",
         "en": "to decide",
         "ru": "решать",
+        "tr": "karar vermek",
+        "az": "qərar vermək",
+        "uk": "вирішувати",
         "descriptionEN": "To make a choice from alternatives.",
         "descriptionRU": "Сделать выбор из альтернатив.",
-        "descriptionDE": "Eine Wahl aus Alternativen treffen."
+        "descriptionDE": "Eine Wahl aus Alternativen treffen.",
+        "descriptionTR": "Alternatifler arasında bir seçim yapmak.",
+        "descriptionAZ": "Alternativlər arasında seçim etmək.",
+        "descriptionUK": "Зробити вибір із альтернатив."
     }, {
         "de": "reisen",
         "en": "to travel",
         "ru": "путешествовать",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
         "descriptionEN": "To make a journey.",
         "descriptionRU": "Совершить поездку.",
-        "descriptionDE": "Eine Reise machen."
+        "descriptionDE": "Eine Reise machen.",
+        "descriptionTR": "Bir yolculuk yapmak.",
+        "descriptionAZ": "Səfər etmək.",
+        "descriptionUK": "Здійснити поїздку."
     }, {
         "de": "beraten",
         "en": "to advise",
         "ru": "консультировать",
+        "tr": "tavsiye etmek",
+        "az": "məsləhət vermək",
+        "uk": "консультувати",
         "descriptionEN": "To offer suggestions about the best course of action.",
         "descriptionRU": "Предлагать советы о наилучшем курсе действий.",
-        "descriptionDE": "Vorschläge zum besten Vorgehen machen."
+        "descriptionDE": "Vorschläge zum besten Vorgehen machen.",
+        "descriptionTR": "En iyi eylem planı hakkında öneriler sunmak.",
+        "descriptionAZ": "Ən yaxşı hərəkət planı haqqında tövsiyələr vermək.",
+        "descriptionUK": "Пропонувати поради щодо найкращого курсу дій."
     }, {
         "de": "etabliert",
         "en": "established",
         "ru": "установленный",
+        "tr": "kurulmuş",
+        "az": "qurulmuş",
+        "uk": "встановлений",
         "descriptionEN": "Having been in existence for a long time.",
         "descriptionRU": "Существующий в течение длительного времени.",
-        "descriptionDE": "Seit langem bestehend."
+        "descriptionDE": "Seit langem bestehend.",
+        "descriptionTR": "Uzun süredir var olan.",
+        "descriptionAZ": "Uzun müddətdir mövcud olan.",
+        "descriptionUK": "Існуючий протягом тривалого часу."
     }, {
         "de": "schwer",
         "en": "difficult",
         "ru": "трудный",
+        "tr": "zor",
+        "az": "çətin",
+        "uk": "важкий",
         "descriptionEN": "Not easy to do or understand.",
         "descriptionRU": "Не легко сделать или понять.",
-        "descriptionDE": "Nicht leicht zu tun oder zu verstehen."
+        "descriptionDE": "Nicht leicht zu tun oder zu verstehen.",
+        "descriptionTR": "Yapması veya anlaması kolay olmayan.",
+        "descriptionAZ": "Etmək və ya başa düşmək asan olmayan.",
+        "descriptionUK": "Не легко зробити або зрозуміти."
     }, {
         "de": "beeindruckend",
         "en": "impressive",
         "ru": "впечатляющий",
+        "tr": "etkileyici",
+        "az": "təsir edici",
+        "uk": "вражаючий",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
         "descriptionRU": "Вызывающий восхищение благодаря размеру, качеству или мастерству.",
-        "descriptionDE": "Bewunderung durch Größe, Qualität oder Können hervorrufend."
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Können hervorrufend.",
+        "descriptionTR": "Büyüklük, kalite veya beceriyle hayranlık uyandıran.",
+        "descriptionAZ": "Ölçüsü, keyfiyyəti və ya bacarığı ilə heyranlıq oyadan.",
+        "descriptionUK": "Викликає захоплення завдяки розміру, якості чи майстерності."
     }, {
         "de": "jung",
         "en": "young",
         "ru": "молодой",
+        "tr": "genç",
+        "az": "gənc",
+        "uk": "молодий",
         "descriptionEN": "Having lived for a short time.",
         "descriptionRU": "Проживший короткое время.",
-        "descriptionDE": "Von kurzer Lebensdauer."
+        "descriptionDE": "Von kurzer Lebensdauer.",
+        "descriptionTR": "Kısa bir süre yaşamış.",
+        "descriptionAZ": "Qısa müddət yaşamış.",
+        "descriptionUK": "Прожив короткий час."
     }, {
         "de": "dynamisch",
         "en": "dynamic",
         "ru": "динамичный",
+        "tr": "dinamik",
+        "az": "dinamik",
+        "uk": "динамічний",
         "descriptionEN": "Characterized by constant change and activity.",
         "descriptionRU": "Характеризуется постоянными изменениями и активностью.",
-        "descriptionDE": "Durch ständige Veränderung und Aktivität gekennzeichnet."
+        "descriptionDE": "Durch ständige Veränderung und Aktivität gekennzeichnet.",
+        "descriptionTR": "Sürekli değişim ve aktivite ile karakterize edilen.",
+        "descriptionAZ": "Daimi dəyişiklik və fəallıqla xarakterizə olunan.",
+        "descriptionUK": "Характеризується постійними змінами та активністю."
     }, {
         "de": "klar",
         "en": "clear",
         "ru": "ясный",
+        "tr": "açık",
+        "az": "aydın",
+        "uk": "ясний",
         "descriptionEN": "Easy to understand.",
         "descriptionRU": "Легко понять.",
-        "descriptionDE": "Leicht zu verstehen."
+        "descriptionDE": "Leicht zu verstehen.",
+        "descriptionTR": "Anlaması kolay.",
+        "descriptionAZ": "Başa düşməsi asan.",
+        "descriptionUK": "Легко зрозуміти."
     }, {
         "de": "finanziell",
         "en": "financial",
         "ru": "финансовый",
+        "tr": "finansal",
+        "az": "maliyyə",
+        "uk": "фінансовий",
         "descriptionEN": "Relating to money or how it is managed.",
         "descriptionRU": "Относящийся к деньгам или их управлению.",
-        "descriptionDE": "Im Zusammenhang mit Geld oder wie es verwaltet wird."
+        "descriptionDE": "Im Zusammenhang mit Geld oder wie es verwaltet wird.",
+        "descriptionTR": "Para veya nasıl yönetildiği ile ilgili.",
+        "descriptionAZ": "Pul və ya onun idarə edilməsi ilə əlaqəli.",
+        "descriptionUK": "Стосується грошей або їх управління."
     }
 ]

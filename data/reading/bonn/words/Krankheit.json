@@ -3,85 +3,157 @@
         "de": "der Student",
         "en": "student",
         "ru": "студент",
+        "tr": "öğrenci",
+        "az": "tələbə",
+        "uk": "студент",
         "descriptionDE": "Eine Person, die an einer Universität oder einer anderen Hochschule studiert.",
         "descriptionEN": "a person who is studying at a university or other higher education institution.",
-        "descriptionRU": "человек, обучающийся в университете или другом высшем учебном заведении."
+        "descriptionRU": "человек, обучающийся в университете или другом высшем учебном заведении.",
+        "descriptionTR": "bir üniversitede veya başka bir yüksek öğretim kurumunda okuyan kişi.",
+        "descriptionAZ": "universitetdə və ya digər ali təhsil müəssisəsində oxuyan şəxs.",
+        "descriptionUK": "людина, яка навчається в університеті чи іншому вищому навчальному закладі."
     }, {
         "de": "das Symptom",
         "en": "symptom",
         "ru": "симптом",
+        "tr": "semptom",
+        "az": "simptom",
+        "uk": "симптом",
         "descriptionDE": "Anzeichen eines medizinischen Zustands, die von einem Patienten oder einem Arzt beobachtet werden.",
         "descriptionEN": "indications of a medical condition that are observed by a patient or a physician.",
-        "descriptionRU": "признаки медицинского состояния, замеченные пациентом или врачом."
+        "descriptionRU": "признаки медицинского состояния, замеченные пациентом или врачом.",
+        "descriptionTR": "bir hasta veya doktor tarafından gözlemlenen bir tıbbi durumun belirtileri.",
+        "descriptionAZ": "xəstə və ya həkim tərəfindən müşahidə edilən tibbi vəziyyətin əlamətləri.",
+        "descriptionUK": "ознаки медичного стану, які спостерігаються пацієнтом або лікарем."
     }, {
         "de": "die Apotheke",
         "en": "pharmacy",
         "ru": "аптека",
+        "tr": "eczane",
+        "az": "aptek",
+        "uk": "аптека",
         "descriptionDE": "Ein Ort, an dem medizinische Arzneimittel zubereitet, abgegeben oder verkauft werden.",
         "descriptionEN": "a place where medicinal drugs are prepared, dispensed, or sold.",
-        "descriptionRU": "место, где приготавливаются, выдаются или продаются лекарственные препараты."
+        "descriptionRU": "место, где приготавливаются, выдаются или продаются лекарственные препараты.",
+        "descriptionTR": "tıbbi ilaçların hazırlandığı, dağıtıldığı veya satıldığı yer.",
+        "descriptionAZ": "dərman preparatlarının hazırlandığı, paylandığı və ya satıldığı yer.",
+        "descriptionUK": "місце, де готуються, видаються або продаються лікарські препарати."
     }, {
         "de": "das Rezept",
         "en": "prescription",
         "ru": "рецепт",
+        "tr": "reçete",
+        "az": "resept",
+        "uk": "рецепт",
         "descriptionDE": "Eine schriftliche Anweisung für ein therapeutisches oder korrigierendes Mittel; ein ärztliches Rezept.",
         "descriptionEN": "a written direction for a therapeutic or corrective agent; a medical prescription.",
-        "descriptionRU": "письменное указание на лечебное или корректирующее средство; медицинский рецепт."
+        "descriptionRU": "письменное указание на лечебное или корректирующее средство; медицинский рецепт.",
+        "descriptionTR": "terapötik veya düzeltici bir ajan için yazılı talimat; tıbbi reçete.",
+        "descriptionAZ": "terapevtik və ya korrektiv vasitə üçün yazılı göstəriş; tibbi resept.",
+        "descriptionUK": "письмовий напрямок на лікувальний або корегуючий засіб; медичний рецепт."
     }, {
         "de": "die Untersuchung",
         "en": "examination",
         "ru": "обследование",
+        "tr": "muayene",
+        "az": "müayinə",
+        "uk": "обстеження",
         "descriptionDE": "Eine detaillierte Inspektion oder Untersuchung; das Handeln oder der Prozess des genauen Untersuchens von etwas.",
         "descriptionEN": "a detailed inspection or investigation; the act or process of examining something closely.",
-        "descriptionRU": "детальный осмотр или исследование; действие или процесс близкого рассмотрения чего-либо."
+        "descriptionRU": "детальный осмотр или исследование; действие или процесс близкого рассмотрения чего-либо.",
+        "descriptionTR": "detaylı bir inceleme veya araştırma; bir şeyi yakından inceleme eylemi veya süreci.",
+        "descriptionAZ": "ətraflı yoxlama və ya araşdırma; bir şeyi yaxından araşdırma hərəkəti və ya prosesi.",
+        "descriptionUK": "детальний огляд або дослідження; дія чи процес близького розгляду чогось."
     }, {
         "de": "das Bett",
         "en": "bed",
         "ru": "кровать",
+        "tr": "yatak",
+        "az": "yataq",
+        "uk": "ліжко",
         "descriptionDE": "Ein Möbelstück zum Schlafen oder Ausruhen, normalerweise ein Rahmen mit einer Matratze.",
         "descriptionEN": "a piece of furniture for sleep or rest, typically a framework with a mattress.",
-        "descriptionRU": "предмет мебели для сна или отдыха, обычно основа с матрасом."
+        "descriptionRU": "предмет мебели для сна или отдыха, обычно основа с матрасом.",
+        "descriptionTR": "uyumak veya dinlenmek için bir mobilya parçası, genellikle bir çerçeve ve bir şilteden oluşur.",
+        "descriptionAZ": "yuxu və ya istirahət üçün bir mebel parçası, adətən bir çərçivə və bir döşəkdən ibarətdir.",
+        "descriptionUK": "предмет меблів для сну чи відпочинку, зазвичай основа з матрацем."
     }, {
         "de": "der Vortrag",
         "en": "lecture",
         "ru": "лекция",
+        "tr": "konferans",
+        "az": "mühazirə",
+        "uk": "лекція",
         "descriptionDE": "Eine mündliche Präsentation, die dazu dient, Informationen zu präsentieren oder Menschen über ein bestimmtes Thema zu unterrichten.",
         "descriptionEN": "an oral presentation intended to present information or teach people about a particular subject.",
-        "descriptionRU": "устное выступление, предназначенное для представления информации или преподавания определенной темы."
+        "descriptionRU": "устное выступление, предназначенное для представления информации или преподавания определенной темы.",
+        "descriptionTR": "bilgi sunmak veya insanları belirli bir konu hakkında eğitmek için yapılan sözlü bir sunum.",
+        "descriptionAZ": "məlumat vermək və ya insanları müəyyən bir mövzuda təlim vermək üçün nəzərdə tutulmuş şifahi təqdimat.",
+        "descriptionUK": "усне виступлення, призначене для подання інформації чи викладання певної теми."
     }, {
         "de": "der Tee",
         "en": "tea",
         "ru": "чай",
+        "tr": "çay",
+        "az": "çay",
+        "uk": "чай",
         "descriptionDE": "Ein heißes Getränk, das durch Aufbrühen der getrockneten, zerkleinerten Blätter der Teepflanze in kochendem Wasser hergestellt wird.",
         "descriptionEN": "a hot drink made by infusing the dried, crushed leaves of the tea plant in boiling water.",
-        "descriptionRU": "горячий напиток, приготовленный заливанием сушеных, измельченных листьев чайного куста кипящей водой."
+        "descriptionRU": "горячий напиток, приготовленный заливанием сушеных, измельченных листьев чайного куста кипящей водой.",
+        "descriptionTR": "kurutulmuş ve ezilmiş çay yapraklarının kaynar suda demlenmesiyle yapılan sıcak bir içecek.",
+        "descriptionAZ": "qurutulmuş və əzilmiş çay yarpaqlarının qaynar suda dəmlənməsi ilə hazırlanan isti içki.",
+        "descriptionUK": "гарячий напій, приготований зануренням висушених, подрібнених листків чайного куща в окріп."
     }, {
         "de": "rennen",
         "en": "run",
         "ru": "бежать",
+        "tr": "koşmak",
+        "az": "qaçmaq",
+        "uk": "бігти",
         "descriptionDE": "Sich schnell zu Fuß bewegen; sprinten oder rennen.",
         "descriptionEN": "to move rapidly on foot; to sprint or dash.",
-        "descriptionRU": "двигаться быстро пешком; спринтовать или мчаться."
+        "descriptionRU": "двигаться быстро пешком; спринтовать или мчаться.",
+        "descriptionTR": "ayakla hızlı hareket etmek; koşmak veya hızla gitmek.",
+        "descriptionAZ": "piyada sürətli hərəkət etmək; qaçmaq və ya sürətlə getmək.",
+        "descriptionUK": "швидко пересуватися пішки; бігти або мчати."
     }, {
         "de": "bleiben",
         "en": "stay",
         "ru": "оставаться",
+        "tr": "kalmak",
+        "az": "qalmaq",
+        "uk": "залишатися",
         "descriptionDE": "Fortfahren, sich in einem bestimmten Zustand oder einer bestimmten Verfassung zu befinden.",
         "descriptionEN": "to continue to be in a specified state or condition.",
-        "descriptionRU": "продолжать находиться в определенном состоянии или условии."
+        "descriptionRU": "продолжать находиться в определенном состоянии или условии.",
+        "descriptionTR": "belirli bir durumda veya koşulda olmaya devam etmek.",
+        "descriptionAZ": "müəyyən bir vəziyyətdə və ya şəraitdə olmağa davam etmək.",
+        "descriptionUK": "продовжувати перебувати у певному стані чи умові."
     }, {
         "de": "gut",
         "en": "good",
         "ru": "хорошо",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добре",
         "descriptionDE": "Von hoher Qualität; zufriedenstellend oder akzeptabel in Bezug auf Qualität oder Menge.",
         "descriptionEN": "of high quality; satisfactory or acceptable in quality or quantity.",
-        "descriptionRU": "высокого качества; удовлетворительный или приемлемый по качеству или количеству."
+        "descriptionRU": "высокого качества; удовлетворительный или приемлемый по качеству или количеству.",
+        "descriptionTR": "yüksek kaliteli; kalite veya miktar açısından tatmin edici veya kabul edilebilir.",
+        "descriptionAZ": "yüksək keyfiyyətli; keyfiyyət və ya miqdar baxımından qaneedici və ya məqbul.",
+        "descriptionUK": "високої якості; задовільний або прийнятний за якістю чи кількістю."
     }, {
         "de": "viel",
         "en": "much",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionDE": "Eine große Menge oder Menge von etwas.",
         "descriptionEN": "a large amount or degree of something.",
-        "descriptionRU": "большое количество или степень чего-то."
+        "descriptionRU": "большое количество или степень чего-то.",
+        "descriptionTR": "bir şeyin büyük miktarı veya derecesi.",
+        "descriptionAZ": "bir şeyin böyük miqdarı və ya dərəcəsi.",
+        "descriptionUK": "велика кількість чи ступінь чогось."
     }
 ]

@@ -3,78 +3,144 @@
         "de": "die Zählhilfe",
         "en": "counting aid",
         "ru": "счетное устройство",
+        "tr": "sayma aracı",
+        "az": "sayma köməkçisi",
+        "uk": "лічильний пристрій",
         "descriptionDE": "Ein Instrument oder Werkzeug, das zum Zählen verwendet wird.",
         "descriptionEN": "An instrument or tool used for counting.",
-        "descriptionRU": "Инструмент или устройство, используемое для подсчета."
+        "descriptionRU": "Инструмент или устройство, используемое для подсчета.",
+        "descriptionTR": "Sayma işlemi için kullanılan bir alet veya araç.",
+        "descriptionAZ": "Saymaq üçün istifadə olunan alət və ya vasitə.",
+        "descriptionUK": "Інструмент або пристрій, що використовується для підрахунку."
     }, {
         "de": "der Rechentisch",
         "en": "calculating table",
         "ru": "вычислительный стол",
+        "tr": "hesaplama masası",
+        "az": "hesablama masası",
+        "uk": "обчислювальний стіл",
         "descriptionDE": "Ein Tisch, der für mathematische Berechnungen konzipiert ist.",
         "descriptionEN": "A table designed for performing mathematical calculations.",
-        "descriptionRU": "Стол, предназначенный для выполнения математических расчетов."
+        "descriptionRU": "Стол, предназначенный для выполнения математических расчетов.",
+        "descriptionTR": "Matematiksel hesaplamalar yapmak için tasarlanmış bir masa.",
+        "descriptionAZ": "Riyazi hesablamalar aparmaq üçün hazırlanmış masa.",
+        "descriptionUK": "Стіл, призначений для виконання математичних розрахунків."
     }, {
         "de": "die Feinmechanik",
         "en": "precision mechanics",
         "ru": "точная механика",
+        "tr": "hassas mekanik",
+        "az": "dəqiq mexanika",
+        "uk": "прецизійна механіка",
         "descriptionDE": "Die Disziplin der Mechanik, die sich mit kleinen Bewegungen und Kräften befasst.",
         "descriptionEN": "The branch of mechanics dealing with small movements and forces.",
-        "descriptionRU": "Отрасль механики, занимающаяся малыми движениями и силами."
+        "descriptionRU": "Отрасль механики, занимающаяся малыми движениями и силами.",
+        "descriptionTR": "Küçük hareketler ve kuvvetlerle ilgilenen mekanik dalı.",
+        "descriptionAZ": "Kiçik hərəkətlər və qüvvələrlə məşğul olan mexanika sahəsi.",
+        "descriptionUK": "Галузь механіки, що займається малими рухами та силами."
     }, {
         "de": "die Rechenmaschine",
         "en": "calculating machine",
         "ru": "вычислительная машина",
+        "tr": "hesaplama makinesi",
+        "az": "hesablama maşını",
+        "uk": "обчислювальна машина",
         "descriptionDE": "Ein mechanisches oder elektronisches Gerät, das zum Durchführen mathematischer Berechnungen konzipiert ist.",
         "descriptionEN": "A mechanical or electronic device designed to perform mathematical calculations.",
-        "descriptionRU": "Механическое или электронное устройство, предназначенное для выполнения математических расчетов."
+        "descriptionRU": "Механическое или электронное устройство, предназначенное для выполнения математических расчетов.",
+        "descriptionTR": "Matematiksel hesaplamalar yapmak üzere tasarlanmış mekanik veya elektronik bir cihaz.",
+        "descriptionAZ": "Riyazi hesablamalar aparmaq üçün hazırlanmış mexaniki və ya elektron cihaz.",
+        "descriptionUK": "Механічний або електронний пристрій, призначений для виконання математичних розрахунків."
     }, {
         "de": "die Verschlüsselungsmaschine",
         "en": "encryption machine",
         "ru": "шифровальная машина",
+        "tr": "şifreleme makinesi",
+        "az": "şifrələmə maşını",
+        "uk": "шифрувальна машина",
         "descriptionDE": "Eine Maschine, die zur Verschlüsselung von Informationen verwendet wird, um sie vor unbefugtem Zugriff zu schützen.",
         "descriptionEN": "A machine used for encoding information to secure it from unauthorized access.",
-        "descriptionRU": "Устройство для кодирования информации для защиты от несанкционированного доступа."
+        "descriptionRU": "Устройство для кодирования информации для защиты от несанкционированного доступа.",
+        "descriptionTR": "Yetkisiz erişime karşı korumak için bilgi şifrelemekte kullanılan bir makine.",
+        "descriptionAZ": "Qeyri-qanuni girişdən qorumaq üçün məlumat şifrələmək üçün istifadə olunan maşın.",
+        "descriptionUK": "Пристрій для кодування інформації для захисту від несанкціонованого доступу."
     }, {
         "de": "der Rundgang",
         "en": "tour",
         "ru": "тур",
+        "tr": "tur",
+        "az": "tur",
+        "uk": "тур",
         "descriptionDE": "Eine geführte oder ungeführte Tour durch einen Ort oder eine Einrichtung.",
         "descriptionEN": "A guided or unguided tour through a place or facility.",
-        "descriptionRU": "Экскурсия или самостоятельное путешествие по месту или объекту."
+        "descriptionRU": "Экскурсия или самостоятельное путешествие по месту или объекту.",
+        "descriptionTR": "Bir yer veya tesis boyunca rehberli veya rehbersiz tur.",
+        "descriptionAZ": "Bir yer və ya obyekt ətrafında bələdçili və ya bələdçisiz tur.",
+        "descriptionUK": "Екскурсія або самостійна подорож місцем або об'єктом."
     }, {
         "de": "die Entwicklung",
         "en": "development",
         "ru": "развитие",
+        "tr": "gelişim",
+        "az": "inkişaf",
+        "uk": "розвиток",
         "descriptionDE": "Der Prozess des Wachstums, Fortschritts oder Fortschritts.",
         "descriptionEN": "The process of growth, progress, or advancement.",
-        "descriptionRU": "Процесс роста, прогресса или развития."
+        "descriptionRU": "Процесс роста, прогресса или развития.",
+        "descriptionTR": "Büyüme, ilerleme veya gelişme süreci.",
+        "descriptionAZ": "Böyümə, irəliləmə və ya inkişaf prosesi.",
+        "descriptionUK": "Процес росту, прогресу чи розвитку."
     }, {
         "de": "erleichtern",
         "en": "facilitate",
         "ru": "облегчать",
+        "tr": "kolaylaştırmak",
+        "az": "asanlaşdırmaq",
+        "uk": "полегшувати",
         "descriptionDE": "Etwas einfacher oder weniger schwierig machen.",
         "descriptionEN": "To make easier or less difficult.",
-        "descriptionRU": "Делать что-то более легким или менее сложным."
+        "descriptionRU": "Делать что-то более легким или менее сложным.",
+        "descriptionTR": "Bir şeyi daha kolay veya daha az zor hale getirmek.",
+        "descriptionAZ": "Bir şeyi daha asan və ya daha az çətin etmək.",
+        "descriptionUK": "Робити щось легшим або менш складним."
     }, {
         "de": "übersteigen",
         "en": "surpass",
         "ru": "превосходить",
+        "tr": "aşmak",
+        "az": "üstələmək",
+        "uk": "перевершувати",
         "descriptionDE": "In Grad, Menge, Umfang oder Übertreffen hinausgehen.",
         "descriptionEN": "To go beyond in degree, amount, extent, or surpassing.",
-        "descriptionRU": "Превосходить по степени, количеству, объему или степени."
+        "descriptionRU": "Превосходить по степени, количеству, объему или степени.",
+        "descriptionTR": "Derece, miktar, kapsam veya aşma açısından öteye geçmek.",
+        "descriptionAZ": "Dərəcə, miqdar, həcm və ya üstünlük baxımından daha irəli getmək.",
+        "descriptionUK": "Перевершувати за ступенем, кількістю, обсягом чи рівнем."
     }, {
         "de": "raffiniert",
         "en": "sophisticated",
         "ru": "утонченный",
+        "tr": "sofistike",
+        "az": "inkişaf etmiş",
+        "uk": "витончений",
         "descriptionDE": "Mit einer raffinierten oder kultivierten Qualität.",
         "descriptionEN": "Having a refined or cultured quality.",
-        "descriptionRU": "Имеющий изысканный или культурный характер."
+        "descriptionRU": "Имеющий изысканный или культурный характер.",
+        "descriptionTR": "Zarif veya kültürlü bir niteliğe sahip.",
+        "descriptionAZ": "Zərif və ya mədəni keyfiyyətə malik.",
+        "descriptionUK": "Має витончений або культурний характер."
     }, {
         "de": "umfassend",
         "en": "comprehensive",
         "ru": "всесторонний",
+        "tr": "kapsamlı",
+        "az": "hərtərəfli",
+        "uk": "всебічний",
         "descriptionDE": "Vieles abdeckend oder umfassend; inklusiv.",
         "descriptionEN": "Covering or involving much; inclusive.",
-        "descriptionRU": "Охватывающий или включающий многое; всесторонний."
+        "descriptionRU": "Охватывающий или включающий многое; всесторонний.",
+        "descriptionTR": "Çok şeyi kapsayan veya içeren; kapsayıcı.",
+        "descriptionAZ": "Çox şeyi əhatə edən və ya daxil edən; qapsamlı.",
+        "descriptionUK": "Охоплюючий чи включаючий багато чого; всебічний."
     }
 ]

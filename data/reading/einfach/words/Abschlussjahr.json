@@ -3,113 +3,209 @@
         "de": "der Schultag",
         "en": "school day",
         "ru": "школьный день",
+        "tr": "okul günü",
+        "az": "məktəb günü",
+        "uk": "шкільний день",
         "descriptionEN": "a day designated for attending school",
         "descriptionRU": "день, выделенный для посещения школы",
-        "descriptionDE": "Ein Tag, der für den Schulbesuch bestimmt ist"
+        "descriptionDE": "Ein Tag, der für den Schulbesuch bestimmt ist",
+        "descriptionTR": "Okula gitme için ayrılmış gün",
+        "descriptionAZ": "Məktəbə getmək üçün ayrılmış gün",
+        "descriptionUK": "День, призначений для відвідування школи"
     }, {
         "de": "der Schüler",
         "en": "student",
         "ru": "ученик",
+        "tr": "öğrenci",
+        "az": "şagird",
+        "uk": "учень",
         "descriptionEN": "a person who is studying at a school",
         "descriptionRU": "человек, который учится в школе",
-        "descriptionDE": "Eine Person, die in einer Schule studiert"
+        "descriptionDE": "Eine Person, die in einer Schule studiert",
+        "descriptionTR": "Okulda okuyan kişi",
+        "descriptionAZ": "Məktəbdə oxuyan şəxs",
+        "descriptionUK": "Особа, яка навчається в школі"
     }, {
         "de": "die Mathematik",
         "en": "mathematics",
         "ru": "математика",
+        "tr": "matematik",
+        "az": "riyaziyyat",
+        "uk": "математика",
         "descriptionEN": "the abstract science of number, quantity, and space",
         "descriptionRU": "абстрактная наука о числе, количестве и пространстве",
-        "descriptionDE": "Die abstrakte Wissenschaft von Zahl, Menge und Raum"
+        "descriptionDE": "Die abstrakte Wissenschaft von Zahl, Menge und Raum",
+        "descriptionTR": "Sayı, miktar ve uzayın soyut bilimi",
+        "descriptionAZ": "Ədəd, miqdar və məkanın mücərrəd elmi",
+        "descriptionUK": "Абстрактна наука про число, кількість і простір"
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "the study of past events",
         "descriptionRU": "изучение прошлых событий",
-        "descriptionDE": "Die Untersuchung vergangener Ereignisse"
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse",
+        "descriptionTR": "Geçmiş olayların incelenmesi",
+        "descriptionAZ": "Keçmiş hadisələrin öyrənilməsi",
+        "descriptionUK": "Вивчення минулих подій"
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "tr": "sanat",
+        "az": "sənət",
+        "uk": "мистецтво",
         "descriptionEN": "the expression or application of human creative skill and imagination",
         "descriptionRU": "выражение или применение человеческого творческого ума и воображения",
-        "descriptionDE": "Der Ausdruck oder die Anwendung menschlichen kreativen Geschicks und Vorstellungskraft"
+        "descriptionDE": "Der Ausdruck oder die Anwendung menschlichen kreativen Geschicks und Vorstellungskraft",
+        "descriptionTR": "İnsan yaratıcı becerisinin ve hayal gücünün ifadesi veya uygulaması",
+        "descriptionAZ": "İnsan yaradıcı bacarığının və təxəyyülünün ifadəsi və ya tətbiqi",
+        "descriptionUK": "Вираження або застосування людської творчої майстерності та уяви"
     }, {
         "de": "die Biologie",
         "en": "biology",
         "ru": "биология",
+        "tr": "biyoloji",
+        "az": "biologiya",
+        "uk": "біологія",
         "descriptionEN": "the study of living organisms",
         "descriptionRU": "изучение живых организмов",
-        "descriptionDE": "Die Untersuchung lebender Organismen"
+        "descriptionDE": "Die Untersuchung lebender Organismen",
+        "descriptionTR": "Canlı organizmaların incelenmesi",
+        "descriptionAZ": "Canlı orqanizmlərin öyrənilməsi",
+        "descriptionUK": "Вивчення живих організмів"
     }, {
         "de": "die Natur",
         "en": "nature",
         "ru": "природа",
+        "tr": "doğa",
+        "az": "təbiət",
+        "uk": "природа",
         "descriptionEN": "the phenomena of the physical world collectively",
         "descriptionRU": "явления физического мира в целом",
-        "descriptionDE": "Die Phänomene der physischen Welt insgesamt"
+        "descriptionDE": "Die Phänomene der physischen Welt insgesamt",
+        "descriptionTR": "Fiziksel dünyanın fenomenleri toplu olarak",
+        "descriptionAZ": "Fiziki dünyanın fenomenlərinin məcmusu",
+        "descriptionUK": "Явища фізичного світу в сукупності"
     }, {
         "de": "der Traum",
         "en": "dream",
         "ru": "мечта",
+        "tr": "rüya",
+        "az": "yuxu",
+        "uk": "мрія",
         "descriptionEN": "a cherished aspiration, ambition, or ideal",
         "descriptionRU": "дорогая амбиция, амбиция или идеал",
-        "descriptionDE": "Ein gehegter Wunsch, eine Ambition oder ein Ideal"
+        "descriptionDE": "Ein gehegter Wunsch, eine Ambition oder ein Ideal",
+        "descriptionTR": "Değerli bir özlem, hırs veya ideal",
+        "descriptionAZ": "Qiymətli arzu, ambisiya və ya ideal",
+        "descriptionUK": "Заповітне прагнення, амбіція або ідеал"
     }, {
         "de": "die Chemie",
         "en": "chemistry",
         "ru": "химия",
+        "tr": "kimya",
+        "az": "kimya",
+        "uk": "хімія",
         "descriptionEN": "the branch of science concerned with the substances of which matter is composed",
         "descriptionRU": "раздел науки, занимающийся веществами, из которых состоит материя",
-        "descriptionDE": "Der Zweig der Wissenschaft, der sich mit den Substanzen befasst, aus denen die Materie besteht"
+        "descriptionDE": "Der Zweig der Wissenschaft, der sich mit den Substanzen befasst, aus denen die Materie besteht",
+        "descriptionTR": "Maddenin oluştuğu maddelerle ilgilenen bilim dalı",
+        "descriptionAZ": "Maddənin tərkib hissələri ilə məşğul olan elm sahəsi",
+        "descriptionUK": "Галузь науки, що займається речовинами, з яких складається матерія"
     }, {
         "de": "schwierig",
         "en": "difficult",
         "ru": "трудный",
+        "tr": "zor",
+        "az": "çətin",
+        "uk": "важкий",
         "descriptionEN": "needing much effort or skill to accomplish, deal with, or understand",
         "descriptionRU": "требующий много усилий или навыков для выполнения, справления или понимания",
-        "descriptionDE": "Erfordert viel Mühe oder Geschick, um zu erreichen, zu bewältigen oder zu verstehen"
+        "descriptionDE": "Erfordert viel Mühe oder Geschick, um zu erreichen, zu bewältigen oder zu verstehen",
+        "descriptionTR": "Başarmak, başa çıkmak veya anlamak için çok çaba veya beceri gerektiren",
+        "descriptionAZ": "Həyata keçirmək, öhdəsindən gəlmək və ya başa düşmək üçün çox səy və ya bacarıq tələb edən",
+        "descriptionUK": "Потребує багато зусиль або навичок для виконання, вирішення або розуміння"
     }, {
         "de": "langweilig",
         "en": "boring",
         "ru": "скучный",
+        "tr": "sıkıcı",
+        "az": "darıxdırıcı",
+        "uk": "нудний",
         "descriptionEN": "not interesting; tedious",
         "descriptionRU": "неинтересный; скучный",
-        "descriptionDE": "Nicht interessant; langweilig"
+        "descriptionDE": "Nicht interessant; langweilig",
+        "descriptionTR": "İlginç değil; sıkıcı",
+        "descriptionAZ": "Maraqlı deyil; darıxdırıcı",
+        "descriptionUK": "Не цікавий; нудний"
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "возбужденный",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
         "descriptionEN": "having strong feelings of enthusiasm or eagerness",
         "descriptionRU": "имеющий сильные чувства энтузиазма или нетерпения",
-        "descriptionDE": "Starke Gefühle von Begeisterung oder Eifer haben"
+        "descriptionDE": "Starke Gefühle von Begeisterung oder Eifer haben",
+        "descriptionTR": "Güçlü coşku veya isteklilik duygularına sahip",
+        "descriptionAZ": "Güclü həvəs və ya istək hisslərinə malik",
+        "descriptionUK": "Має сильні почуття ентузіазму або нетерпіння"
     }, {
         "de": "fest entschlossen",
         "en": "determined",
         "ru": "решительный",
+        "tr": "kararlı",
+        "az": "qətiyyətli",
+        "uk": "рішучий",
         "descriptionEN": "having made a firm decision and being resolved not to change it",
         "descriptionRU": "приняв твердое решение и решив не менять его",
-        "descriptionDE": "Eine feste Entscheidung getroffen haben und fest entschlossen sein, sie nicht zu ändern"
+        "descriptionDE": "Eine feste Entscheidung getroffen haben und fest entschlossen sein, sie nicht zu ändern",
+        "descriptionTR": "Kesin bir karar vermiş ve onu değiştirmemeye kararlı",
+        "descriptionAZ": "Qəti qərar vermiş və onu dəyişdirməməyə qərarlı",
+        "descriptionUK": "Прийняв тверде рішення і вирішив його не змінювати"
     }, {
         "de": "später",
         "en": "later",
         "ru": "позже",
+        "tr": "sonra",
+        "az": "sonra",
+        "uk": "пізніше",
         "descriptionEN": "at some time subsequent to a given time; subsequent",
         "descriptionRU": "в некоторое время после заданного времени; последующий",
-        "descriptionDE": "Zu einem Zeitpunkt nach einer gegebenen Zeit; nachfolgend"
+        "descriptionDE": "Zu einem Zeitpunkt nach einer gegebenen Zeit; nachfolgend",
+        "descriptionTR": "Belirli bir zamandan sonraki bir zamanda; sonraki",
+        "descriptionAZ": "Müəyyən vaxtdan sonrakı bir zamanda; sonrakı",
+        "descriptionUK": "У якийсь час після певного часу; наступний"
     }, {
         "de": "gemeinsam",
         "en": "together",
         "ru": "вместе",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
         "descriptionEN": "in proximity, association, cooperation, or connection with",
         "descriptionRU": "вблизи, ассоциации, сотрудничества или связи с",
-        "descriptionDE": "In der Nähe, Assoziation, Zusammenarbeit oder Verbindung mit"
+        "descriptionDE": "In der Nähe, Assoziation, Zusammenarbeit oder Verbindung mit",
+        "descriptionTR": "Yakınlık, birliktelik, işbirliği veya bağlantı içinde",
+        "descriptionAZ": "Yaxınlıq, birlik, əməkdaşlıq və ya əlaqə içində",
+        "descriptionUK": "У близькості, асоціації, співпраці або зв'язку з"
     }, {
         "de": "letztes",
         "en": "last",
         "ru": "последний",
+        "tr": "son",
+        "az": "son",
+        "uk": "останній",
         "descriptionEN": "occurring or coming after all others",
         "descriptionRU": "происходящий или приходящий после всех остальных",
-        "descriptionDE": "Nach allen anderen auftretend oder kommend"
+        "descriptionDE": "Nach allen anderen auftretend oder kommend",
+        "descriptionTR": "Diğerlerinin hepsinden sonra meydana gelen veya gelen",
+        "descriptionAZ": "Digərlərinin hamısından sonra baş verən və ya gələn",
+        "descriptionUK": "Відбувається або приходить після всіх інших"
     }
 ]

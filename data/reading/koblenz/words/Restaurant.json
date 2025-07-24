@@ -3,127 +3,235 @@
         "de": "der Kellner",
         "en": "waiter",
         "ru": "официант",
+        "tr": "garson",
+        "az": "ofisiant",
+        "uk": "офіціант",
         "descriptionEN": "A person who serves customers in a restaurant or cafe, often bringing them food and drinks.",
         "descriptionRU": "Человек, обслуживающий клиентов в ресторане или кафе, часто приносящий им еду и напитки.",
-        "descriptionDE": "Eine Person, die Kunden in einem Restaurant oder Café bedient und ihnen oft Essen und Getränke bringt."
+        "descriptionDE": "Eine Person, die Kunden in einem Restaurant oder Café bedient und ihnen oft Essen und Getränke bringt.",
+        "descriptionTR": "Bir restoran veya kafede müşterilere hizmet eden, genellikle onlara yiyecek ve içecek getiren kişi.",
+        "descriptionAZ": "Restoran və ya kafedə müştərilərə xidmət edən, tez-tez onlara yemək və içki gətirən şəxs.",
+        "descriptionUK": "Людина, яка обслуговує клієнтів у ресторані чи кафе, часто приносячи їм їжу та напої."
     }, {
         "de": "die Reservierung",
         "en": "reservation",
         "ru": "бронирование",
+        "tr": "rezervasyon",
+        "az": "rezervasiya",
+        "uk": "бронювання",
         "descriptionEN": "The action of reserving something, such as a table at a restaurant, a room in a hotel, or a ticket for an event.",
         "descriptionRU": "Действие по бронированию чего-либо, такого как столик в ресторане, номер в отеле или билет на мероприятие.",
-        "descriptionDE": "Die Handlung, etwas zu reservieren, wie einen Tisch in einem Restaurant, ein Zimmer in einem Hotel oder eine Eintrittskarte für eine Veranstaltung."
+        "descriptionDE": "Die Handlung, etwas zu reservieren, wie einen Tisch in einem Restaurant, ein Zimmer in einem Hotel oder eine Eintrittskarte für eine Veranstaltung.",
+        "descriptionTR": "Bir restoranda masa, otelde oda veya bir etkinlik için bilet gibi bir şeyi ayırtma eylemi.",
+        "descriptionAZ": "Restoranda stol, oteldə otaq və ya tədbir üçün bilet kimi bir şeyi ayırtma əməliyyatı.",
+        "descriptionUK": "Дія бронювання чогось, наприклад столика в ресторані, номера в готелі чи квитка на захід."
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yiyecek",
+        "az": "qida",
+        "uk": "їжа",
         "descriptionEN": "Any nutritious substance that people or animals eat or drink in order to maintain life and growth.",
         "descriptionRU": "Любое питательное вещество, которое люди или животные едят или пьют, чтобы поддерживать жизнь и рост.",
-        "descriptionDE": "Jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken, um Leben und Wachstum zu erhalten."
+        "descriptionDE": "Jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken, um Leben und Wachstum zu erhalten.",
+        "descriptionTR": "İnsanların veya hayvanların yaşamı ve büyümeyi sürdürmek için yediği veya içtiği herhangi bir besleyici madde.",
+        "descriptionAZ": "İnsanların və ya heyvanların həyatını və böyüməsini qorumaq üçün yediyi və ya içdiyi hər hansı qida maddəsi.",
+        "descriptionUK": "Будь-яка поживна речовина, яку люди чи тварини їдять чи п'ють для підтримки життя та росту."
     }, {
         "de": "der Tisch",
         "en": "table",
         "ru": "стол",
+        "tr": "masa",
+        "az": "stol",
+        "uk": "стіл",
         "descriptionEN": "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed.",
         "descriptionRU": "Мебельный предмет с плоской верхней частью и одной или несколькими ногами, обеспечивающий плоскую поверхность, на которую можно помещать предметы.",
-        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können."
+        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können.",
+        "descriptionTR": "Düz bir üst yüzeyi ve bir veya daha fazla ayağı olan, üzerine nesnelerin yerleştirilebileceği düz bir yüzey sağlayan bir mobilya parçası.",
+        "descriptionAZ": "Düz üst səthi və bir və ya bir neçə ayağı olan, üzərinə əşyalar qoyula bilən düz səth təmin edən bir mebel parçası.",
+        "descriptionUK": "Меблевий предмет з плоскою верхньою частиною та однією або кількома ніжками, що забезпечує рівну поверхню для розміщення предметів."
     }, {
         "de": "das Getränk",
         "en": "drink",
         "ru": "напиток",
+        "tr": "içecek",
+        "az": "içki",
+        "uk": "напій",
         "descriptionEN": "A liquid that can be consumed.",
         "descriptionRU": "Жидкость, которую можно употреблять.",
-        "descriptionDE": "Eine Flüssigkeit, die konsumiert werden kann."
+        "descriptionDE": "Eine Flüssigkeit, die konsumiert werden kann.",
+        "descriptionTR": "Tüketilebilen bir sıvı.",
+        "descriptionAZ": "İstifadə edilə bilən maye.",
+        "descriptionUK": "Рідина, яку можна споживати."
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "An alcoholic drink made from fermented grapes or other fruits.",
         "descriptionRU": "Алкогольный напиток, изготовленный из ферментированных винограда или других фруктов.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird.",
+        "descriptionTR": "Fermante üzümlerden veya diğer meyvelerden yapılan alkollü bir içecek.",
+        "descriptionAZ": "Fermentasiya olunmuş üzüm və ya digər meyvələrdən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого винограду чи інших фруктів."
     }, {
         "de": "die Karte",
         "en": "menu",
         "ru": "меню",
+        "tr": "menü",
+        "az": "menyu",
+        "uk": "меню",
         "descriptionEN": "A list of dishes available in a restaurant or meal that can be ordered or served.",
         "descriptionRU": "Список блюд, доступных в ресторане или на выбор или сервировке.",
-        "descriptionDE": "Eine Liste von Gerichten, die in einem Restaurant erhältlich sind oder bestellt oder serviert werden können."
+        "descriptionDE": "Eine Liste von Gerichten, die in einem Restaurant erhältlich sind oder bestellt oder serviert werden können.",
+        "descriptionTR": "Bir restoranda mevcut olan veya sipariş edilebilen/servis edilebilen yemeklerin listesi.",
+        "descriptionAZ": "Restoranda mövcud olan və ya sifariş edilə bilən/xidmət edilə bilən yeməklərin siyahısı.",
+        "descriptionUK": "Список страв, доступних у ресторані чи стравах, які можна замовити чи подати."
     }, {
         "de": "die Spezialität",
         "en": "specialty",
         "ru": "специальность",
+        "tr": "uzmanlık",
+        "az": "ixtisas",
+        "uk": "спеціальність",
         "descriptionEN": "A particular product or service that a person, business, or region is known for.",
         "descriptionRU": "Особый продукт или услуга, за которые известен человек, бизнес или регион.",
-        "descriptionDE": "Ein bestimmtes Produkt oder eine Dienstleistung, für die eine Person, ein Unternehmen oder eine Region bekannt ist."
+        "descriptionDE": "Ein bestimmtes Produkt oder eine Dienstleistung, für die eine Person, ein Unternehmen oder eine Region bekannt ist.",
+        "descriptionTR": "Bir kişinin, işletmenin veya bölgenin bilindiği belirli bir ürün veya hizmet.",
+        "descriptionAZ": "Bir şəxsin, müəssisənin və ya regionun tanındığı müəyyən bir məhsul və ya xidmət.",
+        "descriptionUK": "Особливий продукт чи послуга, за які відома людина, бізнес чи регіон."
     }, {
         "de": "die Empfehlung",
         "en": "recommendation",
         "ru": "рекомендация",
+        "tr": "tavsiye",
+        "az": "tövsiyə",
+        "uk": "рекомендація",
         "descriptionEN": "A suggestion or proposal as to the best course of action, especially one put forward by an authoritative body.",
         "descriptionRU": "Предложение или предложение о наилучшем способе действий, особенно тот, которое предлагает авторитетное тело.",
-        "descriptionDE": "Ein Vorschlag oder eine Empfehlung für den besten Handlungsweg, insbesondere eine von einer autoritativen Stelle vorgelegte."
+        "descriptionDE": "Ein Vorschlag oder eine Empfehlung für den besten Handlungsweg, insbesondere eine von einer autoritativen Stelle vorgelegte.",
+        "descriptionTR": "Özellikle yetkili bir kuruluş tarafından sunulan, en iyi eylem tarzına ilişkin bir öneri veya teklif.",
+        "descriptionAZ": "Xüsusilə səlahiyyətli bir qurum tərəfindən irəli sürülən ən yaxşı hərəkət kursu ilə bağlı təklif və ya təklif.",
+        "descriptionUK": "Пропозиція щодо найкращого способу дій, особливо висунута авторитетним органом."
     }, {
         "de": "die Fahrt",
         "en": "ride",
         "ru": "поездка",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "поїздка",
         "descriptionEN": "A journey made in a vehicle, especially a car, boat, or aircraft.",
         "descriptionRU": "Поездка, совершаемая на транспортном средстве, особенно на автомобиле, лодке или самолете.",
-        "descriptionDE": "Eine Reise, die in einem Fahrzeug, insbesondere einem Auto, Boot oder Flugzeug, unternommen wird."
+        "descriptionDE": "Eine Reise, die in einem Fahrzeug, insbesondere einem Auto, Boot oder Flugzeug, unternommen wird.",
+        "descriptionTR": "Özellikle bir araba, tekne veya uçak gibi bir araçla yapılan bir yolculuk.",
+        "descriptionAZ": "Xüsusilə avtomobil, qayıq və ya təyyarə kimi bir nəqliyyat vasitəsi ilə edilən səyahət.",
+        "descriptionUK": "Подорож, здійснена транспортним засобом, особливо автомобілем, човном чи літаком."
     }, {
         "de": "die Seilbahn",
         "en": "cable car",
         "ru": "канатная дорога",
+        "tr": "teleferik",
+        "az": "kabelli vağon",
+        "uk": "канатна дорога",
         "descriptionEN": "A type of cable railway used for mass transit where rail cars are hauled by a continuously moving cable running at a constant speed.",
         "descriptionRU": "Вид канатной дороги, используемой для массового транспорта, где вагоны тянутся непрерывно движущимся канатом со стабильной скоростью.",
-        "descriptionDE": "Eine Art von Seilbahn, die für den Massentransport verwendet wird, bei dem die Schienenwagen von einem kontinuierlich bewegten Seil mit konstanter Geschwindigkeit gezogen werden."
+        "descriptionDE": "Eine Art von Seilbahn, die für den Massentransport verwendet wird, bei dem die Schienenwagen von einem kontinuierlich bewegten Seil mit konstanter Geschwindigkeit gezogen werden.",
+        "descriptionTR": "Raylı vagonların sabit bir hızda hareket eden sürekli bir kablo tarafından çekildiği toplu taşıma için kullanılan bir tür kablo demiryolu.",
+        "descriptionAZ": "Sabit sürətlə hərəkət edən davamlı bir kabel ilə çəkilən rels vaqonlarının kütləvi nəqliyyat üçün istifadə olunan bir növ kabel dəmir yolu.",
+        "descriptionUK": "Вид канатної дороги, що використовується для масового транспорту, де вагони тягнуться постійно рухомим канатом із стабільною швидкістю."
     }, {
         "de": "der Aufenthalt",
         "en": "stay",
         "ru": "пребывание",
+        "tr": "kalış",
+        "az": "qalma",
+        "uk": "перебування",
         "descriptionEN": "A period of time spent in a place, especially as a temporary resident or a visitor.",
         "descriptionRU": "Период времени, проведенный в месте, особенно в качестве временного жителя или посетителя.",
-        "descriptionDE": "Eine Zeitspanne, die an einem Ort verbracht wird, insbesondere als vorübergehender Bewohner oder Besucher."
+        "descriptionDE": "Eine Zeitspanne, die an einem Ort verbracht wird, insbesondere als vorübergehender Bewohner oder Besucher.",
+        "descriptionTR": "Bir yerde, özellikle geçici bir sakin veya ziyaretçi olarak geçirilen bir süre.",
+        "descriptionAZ": "Bir yerdə, xüsusilə müvəqqəti sakin və ya ziyarətçi kimi keçirilən bir müddət.",
+        "descriptionUK": "Період часу, проведений у місці, особливо як тимчасовий мешканець чи відвідувач."
     }, {
         "de": "probiert",
         "en": "try",
         "ru": "попробовать",
+        "tr": "denemek",
+        "az": "sınamaq",
+        "uk": "спробувати",
         "descriptionEN": "To attempt or evaluate something by sampling or experimentation.",
         "descriptionRU": "Попытаться или оценить что-то путем проб и экспериментов.",
-        "descriptionDE": "Etwas durch Probieren oder Experimentieren versuchen oder bewerten."
+        "descriptionDE": "Etwas durch Probieren oder Experimentieren versuchen oder bewerten.",
+        "descriptionTR": "Bir şeyi örnekleme veya deney yaparak denemek veya değerlendirmek.",
+        "descriptionAZ": "Nəyisə nümunə götürmə və ya təcrübə etməklə sınamaq və ya qiymətləndirmək.",
+        "descriptionUK": "Спробувати чи оцінити щось за допомогою проб чи експериментів."
     }, {
         "de": "empfehlen",
         "en": "recommend",
         "ru": "рекомендовать",
+        "tr": "tavsiye etmek",
+        "az": "tövsiyə etmək",
+        "uk": "рекомендувати",
         "descriptionEN": "To suggest that someone or something would be good or suitable for a particular job or purpose, or to suggest that a particular action should be done.",
         "descriptionRU": "Предложить, что кто-то или что-то было бы хорошим или подходящим для определенной работы или цели, или предложить, что должно быть сделано определенное действие.",
-        "descriptionDE": "Vorschlagen, dass jemand oder etwas für eine bestimmte Aufgabe oder einen bestimmten Zweck gut oder geeignet wäre, oder vorschlagen, dass eine bestimmte Handlung durchgeführt werden sollte."
+        "descriptionDE": "Vorschlagen, dass jemand oder etwas für eine bestimmte Aufgabe oder einen bestimmten Zweck gut oder geeignet wäre, oder vorschlagen, dass eine bestimmte Handlung durchgeführt werden sollte.",
+        "descriptionTR": "Birinin veya bir şeyin belirli bir iş veya amaç için iyi veya uygun olacağını önermek veya belirli bir eylemin yapılmasını önermek.",
+        "descriptionAZ": "Kiminsə və ya nəyinsə müəyyən bir iş və ya məqsəd üçün yaxşı və ya uyğun olacağını təklif etmək və ya müəyyən bir hərəkətin edilməsini təklif etmək.",
+        "descriptionUK": "Запропонувати, що хтось чи щось було б хорошим чи підходящим для певної роботи чи мети, або запропонувати, що слід зробити певну дію."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "Проходить (незнакомую территорию), чтобы узнать о ней.",
-        "descriptionDE": "Durch eine unbekannte Gegend reisen, um mehr darüber zu erfahren."
+        "descriptionDE": "Durch eine unbekannte Gegend reisen, um mehr darüber zu erfahren.",
+        "descriptionTR": "(Bilinmeyen bir bölgeyi) hakkında bilgi edinmek için seyahat etmek.",
+        "descriptionAZ": "(Tanımadığınız bir ərazini) haqqında məlumat əldə etmək üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою територією), щоб дізнатися про неї."
     }, {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбный",
+        "tr": "dost canlısı",
+        "az": "dostluq",
+        "uk": "дружній",
         "descriptionEN": "Kind and pleasant.",
         "descriptionRU": "Добрый и приятный.",
-        "descriptionDE": "Freundlich und angenehm."
+        "descriptionDE": "Freundlich und angenehm.",
+        "descriptionTR": "Nazik ve hoş.",
+        "descriptionAZ": "Mehriban və xoş.",
+        "descriptionUK": "Добрий і приємний."
     }, {
         "de": "lokale",
         "en": "local",
         "ru": "местный",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий",
         "descriptionEN": "Belonging or relating to a particular area or neighborhood, typically exclusively so.",
         "descriptionRU": "Принадлежащий или относящийся к конкретному району или району, обычно исключительно так.",
-        "descriptionDE": "Gehört oder bezieht sich auf einen bestimmten Bereich oder ein bestimmtes Viertel, typischerweise ausschließlich."
+        "descriptionDE": "Gehört oder bezieht sich auf einen bestimmten Bereich oder ein bestimmtes Viertel, typischerweise ausschließlich.",
+        "descriptionTR": "Belirli bir bölgeye veya mahalleye ait olan veya ilişkin, tipik olarak yalnızca bu şekilde.",
+        "descriptionAZ": "Müəyyən bir əraziyə və ya məhəlləyə aid olan və ya aid olan, adətən yalnız bu şəkildə.",
+        "descriptionUK": "Належить чи відноситься до конкретного району чи району, зазвичай виключно так."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Known about by many people.",
         "descriptionRU": "Известно многим людям.",
-        "descriptionDE": "Von vielen Menschen bekannt."
+        "descriptionDE": "Von vielen Menschen bekannt.",
+        "descriptionTR": "Birçok kişi tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bilinən.",
+        "descriptionUK": "Відомий багатьом людям."
     }
 ]

@@ -1,130 +1,237 @@
 [
-
     {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionEN": "A building or institution for preserving and displaying historical objects.",
         "descriptionRU": "Здание или учреждение для сохранения и展示 исторических объектов.",
-        "descriptionDE": "Ein Gebäude oder eine Institution zur Bewahrung und Ausstellung historischer Objekte."
+        "descriptionDE": "Ein Gebäude oder eine Institution zur Bewahrung und Ausstellung historischer Objekte.",
+        "descriptionTR": "Tarihi nesneleri korumak ve sergilemek için bir bina veya kurum.",
+        "descriptionAZ": "Tarixi əşyaları qorumaq və nümayiş etdirmək üçün bina və ya qurum.",
+        "descriptionUK": "Будівля чи установа для збереження та показу історичних об'єктів."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events, particularly in human affairs.",
         "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinin incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərinin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Weinherstellung",
         "en": "winemaking",
         "ru": "виноделие",
+        "tr": "şarap yapımı",
+        "az": "şərab istehsalı",
+        "uk": "виноробство",
         "descriptionEN": "The process of producing wine from grapes.",
         "descriptionRU": "Процесс производства вина из винограда.",
-        "descriptionDE": "Der Prozess der Weinproduktion aus Trauben."
+        "descriptionDE": "Der Prozess der Weinproduktion aus Trauben.",
+        "descriptionTR": "Üzümden şarap üretme süreci.",
+        "descriptionAZ": "Üzümdən şərab istehsalı prosesi.",
+        "descriptionUK": "Процес виробництва вина з винограду."
     }, {
         "de": "der Werkzeug",
         "en": "tool",
         "ru": "инструмент",
+        "tr": "alet",
+        "az": "alət",
+        "uk": "інструмент",
         "descriptionEN": "A device used to carry out a specific task.",
         "descriptionRU": "Устройство, используемое для выполнения определенной задачи.",
-        "descriptionDE": "Ein Gerät, das zur Durchführung einer bestimmten Aufgabe verwendet wird."
+        "descriptionDE": "Ein Gerät, das zur Durchführung einer bestimmten Aufgabe verwendet wird.",
+        "descriptionTR": "Belirli bir görevi yerine getirmek için kullanılan bir cihaz.",
+        "descriptionAZ": "Müəyyən bir vəzifəni yerinə yetirmək üçün istifadə olunan cihaz.",
+        "descriptionUK": "Пристрій, що використовується для виконання певного завдання."
     }, {
         "de": "die Artefakte",
         "en": "artifacts",
         "ru": "артефакты",
+        "tr": "eserler",
+        "az": "artefaktlar",
+        "uk": "артефакти",
         "descriptionEN": "Objects made by humans, typically of historical or cultural significance.",
         "descriptionRU": "Объекты, созданные человеком, обычно исторического или культурного значения.",
-        "descriptionDE": "Von Menschen gemachte Objekte, die normalerweise historisch oder kulturell von Bedeutung sind."
+        "descriptionDE": "Von Menschen gemachte Objekte, die normalerweise historisch oder kulturell von Bedeutung sind.",
+        "descriptionTR": "İnsanlar tarafından yapılmış, genellikle tarihsel veya kültürel öneme sahip nesneler.",
+        "descriptionAZ": "Adətən tarixi və ya mədəni əhəmiyyət kəsb edən insanlar tərəfindən hazırlanmış obyektlər.",
+        "descriptionUK": "Об'єкти, створені людиною, зазвичай історичного чи культурного значення."
     }, {
         "de": "der Nationalpark",
         "en": "national park",
         "ru": "национальный парк",
+        "tr": "milli park",
+        "az": "milli park",
+        "uk": "національний парк",
         "descriptionEN": "A protected area of land used for conservation and enjoyment.",
         "descriptionRU": "Охраняемая территория, используемая для сохранения природы и отдыха.",
-        "descriptionDE": "Ein geschütztes Gebiet von Land, das für den Naturschutz und die Erholung genutzt wird."
+        "descriptionDE": "Ein geschütztes Gebiet von Land, das für den Naturschutz und die Erholung genutzt wird.",
+        "descriptionTR": "Koruma ve eğlence için kullanılan korunan bir arazi alanı.",
+        "descriptionAZ": "Qoruma və əyləncə üçün istifadə olunan qorunan torpaq sahəsi.",
+        "descriptionUK": "Охоронювана територія, що використовується для збереження природи та відпочинку."
     }, {
         "de": "die Tierwelt",
         "en": "wildlife",
         "ru": "дикая природа",
+        "tr": "yaban hayatı",
+        "az": "vəhşi təbiət",
+        "uk": "дика природа",
         "descriptionEN": "The animals and plants that live in the natural environment.",
         "descriptionRU": "Животные и растения, обитающие в естественной среде.",
-        "descriptionDE": "Die Tiere und Pflanzen, die in der natürlichen Umgebung leben."
+        "descriptionDE": "Die Tiere und Pflanzen, die in der natürlichen Umgebung leben.",
+        "descriptionTR": "Doğal ortamda yaşayan hayvanlar ve bitkiler.",
+        "descriptionAZ": "Təbii mühitdə yaşayan heyvanlar və bitkilər.",
+        "descriptionUK": "Тварини та рослини, що мешкають у природному середовищі."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionEN": "The passing down of customs or beliefs from generation to generation.",
         "descriptionRU": "Передача обычаев или верований из поколения в поколение.",
-        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation."
+        "descriptionDE": "Die Weitergabe von Bräuchen oder Überzeugungen von Generation zu Generation.",
+        "descriptionTR": "Geleneklerin veya inançların nesilden nesile aktarılması.",
+        "descriptionAZ": "Adətlərin və ya inancların nəsildən-nəslə ötürülməsi.",
+        "descriptionUK": "Передача звичаїв чи вірувань із покоління в покоління."
     }, {
         "de": "der Erbe",
         "en": "heritage",
         "ru": "наследие",
+        "tr": "miras",
+        "az": "irsiyyət",
+        "uk": "спадщина",
         "descriptionEN": "The cultural legacy handed down from past generations.",
         "descriptionRU": "Культурное наследие, передаваемое от поколений к поколению.",
-        "descriptionDE": "Das kulturelle Erbe, das von vergangenen Generationen weitergegeben wird."
+        "descriptionDE": "Das kulturelle Erbe, das von vergangenen Generationen weitergegeben wird.",
+        "descriptionTR": "Geçmiş nesillerden aktarılan kültürel miras.",
+        "descriptionAZ": "Keçmiş nəsillərdən ötürülən mədəni irs.",
+        "descriptionUK": "Культурна спадщина, що передається від поколінь до поколінь."
     }, {
         "de": "lernen",
         "en": "to learn",
         "ru": "учить",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "вчити",
         "descriptionEN": "To gain knowledge or skills through study or experience.",
         "descriptionRU": "Получать знания или навыки через учебу или опыт.",
-        "descriptionDE": "Wissen oder Fähigkeiten durch Studium oder Erfahrung erwerben."
+        "descriptionDE": "Wissen oder Fähigkeiten durch Studium oder Erfahrung erwerben.",
+        "descriptionTR": "Çalışma veya deneyim yoluyla bilgi veya beceri kazanmak.",
+        "descriptionAZ": "Təhsil və ya təcrübə yolu ilə bilik və ya bacarıq qazanmaq.",
+        "descriptionUK": "Отримувати знання чи навички через навчання чи досвід."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "To observe with the eyes.",
         "descriptionRU": "Наблюдать глазами.",
-        "descriptionDE": "Mit den Augen beobachten."
+        "descriptionDE": "Mit den Augen beobachten.",
+        "descriptionTR": "Gözlerle gözlemlemek.",
+        "descriptionAZ": "Gözlərlə müşahidə etmək.",
+        "descriptionUK": "Спостерігати очима."
     }, {
         "de": "erfahren",
         "en": "to learn",
         "ru": "узнавать",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "дізнаватися",
         "descriptionEN": "To gain information through experience or study.",
         "descriptionRU": "Получать информацию через опыт или учебу.",
-        "descriptionDE": "Information durch Erfahrung oder Studium erhalten."
+        "descriptionDE": "Information durch Erfahrung oder Studium erhalten.",
+        "descriptionTR": "Deneyim veya çalışma yoluyla bilgi edinmek.",
+        "descriptionAZ": "Təcrübə və ya təhsil yolu ilə məlumat əldə etmək.",
+        "descriptionUK": "Отримувати інформацію через досвід чи навчання."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through an area to learn more about it.",
         "descriptionRU": "Путешествовать по территории, чтобы узнать о ней больше.",
-        "descriptionDE": "Durch ein Gebiet reisen, um mehr darüber zu erfahren."
+        "descriptionDE": "Durch ein Gebiet reisen, um mehr darüber zu erfahren.",
+        "descriptionTR": "Bir bölge hakkında daha fazla bilgi edinmek için seyahat etmek.",
+        "descriptionAZ": "Bir ərazi haqqında daha çox məlumat əldə etmək üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати територією, щоб дізнатися про неї більше."
     }, {
         "de": "konzentrieren",
         "en": "to focus",
         "ru": "сосредотачиваться",
+        "tr": "odaklanmak",
+        "az": "diqqət yetirmək",
+        "uk": "зосереджуватися",
         "descriptionEN": "To direct attention to a specific task or subject.",
         "descriptionRU": "Направлять внимание на конкретную задачу или тему.",
-        "descriptionDE": "Die Aufmerksamkeit auf eine bestimmte Aufgabe oder ein bestimmtes Thema richten."
+        "descriptionDE": "Die Aufmerksamkeit auf eine bestimmte Aufgabe oder ein bestimmtes Thema richten.",
+        "descriptionTR": "Dikkati belirli bir göreve veya konuya yönlendirmek.",
+        "descriptionAZ": "Diqqəti müəyyən bir vəzifəyə və ya mövzuya yönəltmək.",
+        "descriptionUK": "Спрямовувати увагу на конкретне завдання чи тему."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
         "descriptionEN": "Having abundant resources, often wealth.",
         "descriptionRU": "Иметь обилие ресурсов, часто богатства.",
-        "descriptionDE": "Über reiche Ressourcen verfügen, oft Wohlstand."
+        "descriptionDE": "Über reiche Ressourcen verfügen, oft Wohlstand.",
+        "descriptionTR": "Bol miktarda kaynağa sahip olmak, genellikle zenginlik.",
+        "descriptionAZ": "Bol miqdarda resurslara malik olmaq, tez-tez sərvət.",
+        "descriptionUK": "Мати достаток ресурсів, часто багатства."
     }, {
         "de": "interaktiv",
         "en": "interactive",
         "ru": "интерактивный",
+        "tr": "etkileşimli",
+        "az": "interaktiv",
+        "uk": "інтерактивний",
         "descriptionEN": "Involving active participation or engagement.",
         "descriptionRU": "Предполагающий активное участие или вовлеченность.",
-        "descriptionDE": "Aktive Teilnahme oder Engagement einbeziehen."
+        "descriptionDE": "Aktive Teilnahme oder Engagement einbeziehen.",
+        "descriptionTR": "Aktif katılım veya bağlılık içermek.",
+        "descriptionAZ": "Aktiv iştirak və ya sədaqət əhatə etmək.",
+        "descriptionUK": "Передбачає активну участь чи залученість."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Relating to past events or history.",
         "descriptionRU": "Относящийся к прошлым событиям или истории.",
-        "descriptionDE": "Bezieht sich auf vergangene Ereignisse oder Geschichte."
+        "descriptionDE": "Bezieht sich auf vergangene Ereignisse oder Geschichte.",
+        "descriptionTR": "Geçmiş olaylara veya tarihe ilişkin.",
+        "descriptionAZ": "Keçmiş hadisələrə və ya tarixə aid.",
+        "descriptionUK": "Стосується минулих подій чи історії."
     }, {
         "de": "kulturell",
         "en": "cultural",
         "ru": "культурный",
+        "tr": "kültürel",
+        "az": "mədəni",
+        "uk": "культурний",
         "descriptionEN": "Relating to the culture of a society or group.",
         "descriptionRU": "Относящийся к культуре общества или группы.",
-        "descriptionDE": "Bezieht sich auf die Kultur einer Gesellschaft oder Gruppe."
+        "descriptionDE": "Bezieht sich auf die Kultur einer Gesellschaft oder Gruppe.",
+        "descriptionTR": "Bir toplumun veya grubun kültürüyle ilgili.",
+        "descriptionAZ": "Cəmiyyətin və ya qrupun mədəniyyəti ilə bağlı.",
+        "descriptionUK": "Стосується культури суспільства чи групи."
     }
 ]

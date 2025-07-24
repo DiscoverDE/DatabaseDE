@@ -3,162 +3,300 @@
         "de": "der Reisender",
         "en": "traveler",
         "ru": "путешественник",
+        "tr": "seyahat eden",
+        "az": "səyyah",
+        "uk": "мандрівник",
         "descriptionEN": "a person who is traveling or who often travels",
         "descriptionRU": "человек, который путешествует или часто путешествует",
-        "descriptionDE": "Eine Person, die reist oder oft reist."
+        "descriptionDE": "Eine Person, die reist oder oft reist.",
+        "descriptionTR": "Seyahat eden veya sık sık seyahat eden bir kişi",
+        "descriptionAZ": "Səyahət edən və ya tez-tez səyahət edən şəxs",
+        "descriptionUK": "людина, яка подорожує або часто подорожує"
     }, {
         "de": "der Ort",
         "en": "place",
         "ru": "место",
+        "tr": "yer",
+        "az": "yer",
+        "uk": "місце",
         "descriptionEN": "location",
         "descriptionRU": "местонахождениe",
-        "descriptionDE": "Standorte"
+        "descriptionDE": "Standorte",
+        "descriptionTR": "Konum",
+        "descriptionAZ": "Yer",
+        "descriptionUK": "місцезнаходження"
     }, {
         "de": "das Duft",
         "en": "scent",
         "ru": "запах",
+        "tr": "koku",
+        "az": "qoxu",
+        "uk": "запах",
         "descriptionEN": "a distinctive smell, especially one that is pleasant",
         "descriptionRU": "особый запах, особенно приятный",
-        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer"
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer",
+        "descriptionTR": "Ayırt edici bir koku, özellikle hoş olanı",
+        "descriptionAZ": "Fərqli bir qoxu, xüsusilə xoş olanı",
+        "descriptionUK": "характерний запах, особливо приємний"
     }, {
         "de": "die Straße",
         "en": "street",
         "ru": "улица",
+        "tr": "cadde",
+        "az": "küçə",
+        "uk": "вулиця",
         "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides",
         "descriptionRU": "общественная дорога в городе или поселке, обычно с домами и зданиями с одной или обеих сторон",
-        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten"
+        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder Gemeinde, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten",
+        "descriptionTR": "Bir şehirde veya kasabada, genellikle bir veya her iki tarafında evler ve binalar bulunan halka açık yol",
+        "descriptionAZ": "Bir şəhərdə və ya qəsəbədə, adətən bir və ya hər iki tərəfində evlər və binalar olan ictimai yol",
+        "descriptionUK": "публічна дорога в місті або селищі, зазвичай з будинками та будівлями з одного або обох боків"
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "повітря",
         "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen",
         "descriptionRU": "невидимое газообразное вещество, окружающее землю, смесь в основном кислорода и азота",
-        "descriptionDE": "Die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff"
+        "descriptionDE": "Die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff",
+        "descriptionTR": "Dünyayı çevreleyen görünmez gaz halindeki madde, esas olarak oksijen ve azottan oluşan bir karışım",
+        "descriptionAZ": "Yeri əhatə edən görünməz qaz halında maddə, əsasən oksigen və azot qarışığı",
+        "descriptionUK": "невидима газоподібна речовина, що оточує землю, суміш переважно кисню та азоту"
     }, {
         "de": "der Anblick",
         "en": "sight",
         "ru": "вид",
+        "tr": "görüş",
+        "az": "görmə",
+        "uk": "зір",
         "descriptionEN": "the faculty or power of seeing",
         "descriptionRU": "способность или сила видеть",
-        "descriptionDE": "Die Fähigkeit oder Kraft zu sehen"
+        "descriptionDE": "Die Fähigkeit oder Kraft zu sehen",
+        "descriptionTR": "Görme yeteneği veya gücü",
+        "descriptionAZ": "Görmə qabiliyyəti və ya gücü",
+        "descriptionUK": "здатність або сила бачити"
     }, {
         "de": "der Touristen",
         "en": "tourists",
         "ru": "туристы",
+        "tr": "turistler",
+        "az": "turistlər",
+        "uk": "туристи",
         "descriptionEN": "people who are traveling or visiting a place for pleasure",
         "descriptionRU": "люди, которые путешествуют или посещают место для удовольствия",
-        "descriptionDE": "Leute, die reisen oder einen Ort zum Vergnügen besuchen"
+        "descriptionDE": "Leute, die reisen oder einen Ort zum Vergnügen besuchen",
+        "descriptionTR": "Keyif için seyahat eden veya bir yeri ziyaret eden insanlar",
+        "descriptionAZ": "Zövq üçün bir yerə səyahət edən və ya ziyarət edən insanlar",
+        "descriptionUK": "люди, які подорожують або відвідують місце для задоволення"
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionEN": "the art or practice of designing and constructing buildings",
         "descriptionRU": "искусство или практика проектирования и строительства зданий",
-        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden"
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden",
+        "descriptionTR": "Binaları tasarlama ve inşa etme sanatı veya pratiği",
+        "descriptionAZ": "Binaların dizaynı və tikintisi sənəti və ya praktikası",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель"
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
         "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream",
         "descriptionRU": "большой естественный поток воды, текущий по каналу к морю, озеру или другому подобному потоку",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen solchen Strom fließt"
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen solchen Strom fließt",
+        "descriptionTR": "Denize, göle veya başka bir akarsuya bir kanalda akan büyük bir doğal su akıntısı",
+        "descriptionAZ": "Dənizə, gölə və ya başqa bir çaya kanal vasitəsilə axan böyük təbii su axını",
+        "descriptionUK": "великий природний потік води, що тече по руслу до моря, озера або іншого подібного потоку"
     }, {
         "de": "die Seilbahn",
         "en": "cable car",
         "ru": "канатная дорога",
+        "tr": "teleferik",
+        "az": "kanat yolu",
+        "uk": "канатна дорога",
         "descriptionEN": "a transportation system for steep slopes that uses cables",
         "descriptionRU": "транспортная система для крутых склонов, использующая канаты",
-        "descriptionDE": "Ein Transportsystem für steile Hänge, das Seile verwendet"
+        "descriptionDE": "Ein Transportsystem für steile Hänge, das Seile verwendet",
+        "descriptionTR": "Dik yamaçlar için kablolar kullanan bir ulaşım sistemi",
+        "descriptionAZ": "Dik yamaclar üçün kabellərdən istifadə edən nəqliyyat sistemi",
+        "descriptionUK": "транспортна система для крутих схилів, що використовує кабелі"
     }, {
         "de": "das Boot",
         "en": "boat",
         "ru": "лодка",
+        "tr": "tekne",
+        "az": "qayıq",
+        "uk": "човен",
         "descriptionEN": "a small vessel for traveling over water, propelled by oars, sails, or an engine",
         "descriptionRU": "небольшое судно для перемещения по воде, приводимое в движение веслами, парусами или двигателем",
-        "descriptionDE": "Ein kleines Gefährt zum Reisen über Wasser, angetrieben von Rudern, Segeln oder einem Motor"
+        "descriptionDE": "Ein kleines Gefährt zum Reisen über Wasser, angetrieben von Rudern, Segeln oder einem Motor",
+        "descriptionTR": "Kürekler, yelkenler veya bir motorla hareket ettirilen, su üzerinde seyahat etmek için küçük bir gemi",
+        "descriptionAZ": "Kürəklər, yelkənlər və ya mühərrik vasitəsilə su üzərində hərəkət etmək üçün kiçik bir gəmi",
+        "descriptionUK": "невелике судно для подорожей по воді, що рухається веслами, вітрилами або двигуном"
     }, {
         "de": "erkundet",
         "en": "explored",
         "ru": "исследованный",
+        "tr": "keşfedildi",
+        "az": "kəşf edilmiş",
+        "uk": "досліджений",
         "descriptionEN": "traveled in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it",
         "descriptionRU": "путешествовал или проходил через (незнакомую страну или район) с целью узнать или ознакомиться с ним",
-        "descriptionDE": "Reiste durch (ein unbekanntes Land oder Gebiet), um es kennenzulernen oder sich damit vertraut zu machen"
+        "descriptionDE": "Reiste durch (ein unbekanntes Land oder Gebiet), um es kennenzulernen oder sich damit vertraut zu machen",
+        "descriptionTR": "Hakkında bilgi edinmek veya aşina olmak amacıyla (tanıdık olmayan bir ülke veya bölgeye) seyahat etti veya içinden geçti",
+        "descriptionAZ": "Haqqında öyrənmək və ya tanış olmaq məqsədilə (tanış olmayan bir ölkəyə və ya əraziyə) səyahət etmişdir",
+        "descriptionUK": "мандрував або проходив крізь (незнайому країну чи місцевість) з метою вивчення або ознайомлення з нею"
     }, {
         "de": "bewunderte",
         "en": "admired",
         "ru": "восхищался",
+        "tr": "hayran kaldı",
+        "az": "heyran olmuş",
+        "uk": "захоплювався",
         "descriptionEN": "regard (an object, quality, or person) with respect or warm approval",
         "descriptionRU": "рассматривать (объект, качество или человека) с уважением или теплым одобрением",
-        "descriptionDE": "Betrachten (ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung"
+        "descriptionDE": "Betrachten (ein Objekt, eine Qualität oder eine Person) mit Respekt oder warmer Zustimmung",
+        "descriptionTR": "(Bir nesneyi, niteliği veya kişiyi) saygıyla veya sıcak bir onaylamayla değerlendirmek",
+        "descriptionAZ": "(Bir cismi, keyfiyyəti və ya şəxsi) hörmətlə və ya isti rəğbətlə qiymətləndirmək",
+        "descriptionUK": "ставитися (до об'єкта, якості або особи) з повагою або теплою згодою"
     }, {
         "de": "genoss",
         "en": "enjoyed",
         "ru": "наслаждался",
+        "tr": "keyif aldı",
+        "az": "zövq almış",
+        "uk": "насолоджувався",
         "descriptionEN": "take delight or pleasure in (an activity or occasion)",
         "descriptionRU": "наслаждаться (деятельностью или случаем)",
-        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben"
+        "descriptionDE": "Freude oder Vergnügen an (einer Aktivität oder Gelegenheit) haben",
+        "descriptionTR": "(Bir aktiviteden veya olaydan) keyif almak veya zevk almak",
+        "descriptionAZ": "(Bir fəaliyyətdən və ya fürsətdən) ləzzət almaq və ya zövq almaq",
+        "descriptionUK": "отримувати задоволення або насолоду від (діяльності або події)"
     }, {
         "de": "erlebnisreich",
         "en": "eventful",
         "ru": "насыщенный событиями",
+        "tr": "olaylı",
+        "az": "hadisələrlə zəngin",
+        "uk": "багатий на події",
         "descriptionEN": "full of interesting or important events",
         "descriptionRU": "полный интересных или важных событий",
-        "descriptionDE": "Voller interessanter oder wichtiger Ereignisse"
+        "descriptionDE": "Voller interessanter oder wichtiger Ereignisse",
+        "descriptionTR": "İlginç veya önemli olaylarla dolu",
+        "descriptionAZ": "Maraqlı və ya vacib hadisələrlə dolu",
+        "descriptionUK": "повний цікавих або важливих подій"
     }, {
         "de": "majestätisch",
         "en": "majestic",
         "ru": "величественный",
+        "tr": "görkemli",
+        "az": "əzəmətli",
+        "uk": "величний",
         "descriptionEN": "having or showing impressive beauty or scale",
         "descriptionRU": "имеющий или проявляющий впечатляющую красоту или масштаб",
-        "descriptionDE": "beeindruckende Schönheit oder Größe zeigend"
+        "descriptionDE": "beeindruckende Schönheit oder Größe zeigend",
+        "descriptionTR": "Etkileyici güzelliğe veya ölçeğe sahip olmak veya göstermek",
+        "descriptionAZ": "Təsiredici gözəlliyə və ya miqyasa malik olmaq və ya göstərmək",
+        "descriptionUK": "має або демонструє вражаючу красу або масштаб"
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
         "descriptionEN": "leaving a deep impression; memorable",
         "descriptionRU": "оставляющий глубокое впечатление; запоминающийся",
-        "descriptionDE": "hinterlässt einen tiefen Eindruck; unvergesslich"
+        "descriptionDE": "hinterlässt einen tiefen Eindruck; unvergesslich",
+        "descriptionTR": "Derin bir izlenim bırakan; unutulmaz",
+        "descriptionAZ": "Dərin təəssürat buraxan; yadda qalan",
+        "descriptionUK": "залишає глибоке враження; пам'ятний"
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "досліджувати",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
         "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней",
-        "descriptionDE": "Durchqueren (eines unbekannten Gebiets), um es kennenzulernen"
+        "descriptionDE": "Durchqueren (eines unbekannten Gebiets), um es kennenzulernen",
+        "descriptionTR": "Hakkında bilgi edinmek amacıyla (tanıdık olmayan bir bölgeyi) gezmek",
+        "descriptionAZ": "Haqqında öyrənmək məqsədilə (tanış olmayan bir ərazidə) səyahət etmək",
+        "descriptionUK": "подорожувати (незнайомою місцевістю) з метою її вивчення"
     }, {
         "de": "hören",
         "en": "hear",
         "ru": "слышать",
+        "tr": "duymak",
+        "az": "eşitmək",
+        "uk": "чути",
         "descriptionEN": "to perceive with the ear the sound made by (someone or something)",
         "descriptionRU": "воспринимать ухом звук, издаваемый (кем-то или чем-то)",
-        "descriptionDE": "Mit dem Ohr den vom (jemandem oder etwas) erzeugten Klang wahrnehmen"
+        "descriptionDE": "Mit dem Ohr den vom (jemandem oder etwas) erzeugten Klang wahrnehmen",
+        "descriptionTR": "(Birinin veya bir şeyin) çıkardığı sesi kulakla algılamak",
+        "descriptionAZ": "(Kiminsə və ya nəyinsə) çıxardığı səsi qulaqla qəbul etmək",
+        "descriptionUK": "сприймати вухом звук, виданий (кимсь або чимось)"
     }, {
         "de": "kommen",
         "en": "arrive",
         "ru": "прибывать",
+        "tr": "varmak",
+        "az": "çatmaq",
+        "uk": "прибувати",
         "descriptionEN": "to reach a place at the end of a journey or a stage in a journey",
         "descriptionRU": "достигать места в конце путешествия или на этапе путешествия",
-        "descriptionDE": "Ein Ziel am Ende einer Reise oder Etappe einer Reise erreichen"
+        "descriptionDE": "Ein Ziel am Ende einer Reise oder Etappe einer Reise erreichen",
+        "descriptionTR": "Bir yolculuğun sonunda veya bir yolculuk aşamasında bir yere ulaşmak",
+        "descriptionAZ": "Səyahətin sonunda və ya səyahətin bir mərhələsində bir yerə çatmaq",
+        "descriptionUK": "досягти місця призначення в кінці подорожі або на етапі подорожі"
     }, {
         "de": "fühlen",
         "en": "feel",
         "ru": "чувствовать",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
         "descriptionEN": "to perceive or become aware of (something) through physical contact",
         "descriptionRU": "воспринимать или осознавать (что-то) через физический контакт",
-        "descriptionDE": "Durch physischen Kontakt wahrnehmen oder sich etwas bewusst werden"
+        "descriptionDE": "Durch physischen Kontakt wahrnehmen oder sich etwas bewusst werden",
+        "descriptionTR": "Fiziksel temas yoluyla (bir şeyi) algılamak veya farkına varmak",
+        "descriptionAZ": "Fiziki təmas yolu ilə (nəyisə) qavramaq və ya xəbərdar olmaq",
+        "descriptionUK": "сприймати або усвідомлювати (щось) через фізичний контакт"
     }, {
         "de": "beschleunigen",
         "en": "accelerate",
         "ru": "ускорять",
+        "tr": "hızlandırmak",
+        "az": "sürətləndirmək",
+        "uk": "прискорювати",
         "descriptionEN": "to increase in rate, amount, or extent; to move faster",
         "descriptionRU": "увеличиваться по скорости, объему или масштабу; двигаться быстрее",
-        "descriptionDE": "Ansteigen der Rate, Menge oder Ausdehnung; schneller bewegen"
+        "descriptionDE": "Ansteigen der Rate, Menge oder Ausdehnung; schneller bewegen",
+        "descriptionTR": "Oranı, miktarı veya kapsamı artırmak; daha hızlı hareket etmek",
+        "descriptionAZ": "Sürəti, miqdarı və ya dərəcəsini artırmaq; daha sürətli hərəkət etmək",
+        "descriptionUK": "збільшувати швидкість, обсяг або масштаби; рухатися швидше"
     }, {
         "de": "entscheiden",
         "en": "decide",
         "ru": "решить",
+        "tr": "karar vermek",
+        "az": "qərar vermək",
+        "uk": "вирішувати",
         "descriptionEN": "to reach a conclusion or make a choice or judgment",
         "descriptionRU": "прийти к заключению или сделать выбор или суждение",
-        "descriptionDE": "Zu einem Schluss kommen oder eine Wahl oder Bewertung treffen"
+        "descriptionDE": "Zu einem Schluss kommen oder eine Wahl oder Bewertung treffen",
+        "descriptionTR": "Bir sonuca varmak veya bir seçim veya yargıda bulunmak",
+        "descriptionAZ": "Bir nəticəyə gəlmək və ya seçim və ya hökm vermək",
+        "descriptionUK": "дійти висновку або зробити вибір чи судження"
     }
 ]

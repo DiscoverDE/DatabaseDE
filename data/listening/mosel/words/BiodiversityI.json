@@ -3,155 +3,287 @@
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
         "descriptionEN": "a large natural stream of water.",
         "descriptionRU": "большой естественный поток воды.",
-        "descriptionDE": "ein großer natürlicher Wasserlauf."
+        "descriptionDE": "ein großer natürlicher Wasserlauf.",
+        "descriptionTR": "büyük doğal bir su akıntısı.",
+        "descriptionAZ": "böyük təbii su axını.",
+        "descriptionUK": "великий природний потік води."
     }, {
         "de": "das Ökosystem",
         "en": "ecosystem",
         "ru": "экосистема",
+        "tr": "ekosistem",
+        "az": "ekosistem",
+        "uk": "екосистема",
         "descriptionEN": "a community of living organisms and their physical environment.",
         "descriptionRU": "сообщество живых существ и их физическая среда.",
-        "descriptionDE": "eine Gemeinschaft von lebenden Organismen und ihrer physischen Umgebung."
+        "descriptionDE": "eine Gemeinschaft von lebenden Organismen und ihrer physischen Umgebung.",
+        "descriptionTR": "canlı organizmaların ve fiziksel çevrelerinin oluşturduğu topluluk.",
+        "descriptionAZ": "canlı orqanizmlərin və fiziki mühitlərinin ibarət olduğu icma.",
+        "descriptionUK": "спільнота живих організмів та їх фізичного середовища."
     }, {
         "de": "der Wald",
         "en": "forest",
         "ru": "лес",
+        "tr": "orman",
+        "az": "meşə",
+        "uk": "ліс",
         "descriptionEN": "a large area covered chiefly with trees and undergrowth.",
         "descriptionRU": "большая территория, покрытая деревьями и кустарниками.",
-        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Sträuchern bedeckt ist."
+        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Sträuchern bedeckt ist.",
+        "descriptionTR": "ağaçlar ve çalılıklarla kaplı büyük bir alan.",
+        "descriptionAZ": "əsasən ağaclar və kollarla örtülmüş böyük ərazi.",
+        "descriptionUK": "велика територія, вкрита деревами та чагарниками."
     }, {
         "de": "das Wildschwein",
         "en": "wild boar",
         "ru": "дикий кабан",
+        "tr": "yaban domuzu",
+        "az": "çöl donuzu",
+        "uk": "дикий кабан",
         "descriptionEN": "a large, wild pig, native to Europe, Asia, and North Africa.",
         "descriptionRU": "крупная дикая свинья, родом из Европы, Азии и Северной Африки.",
-        "descriptionDE": "ein großes, wildes Schwein, das in Europa, Asien und Nordafrika heimisch ist."
+        "descriptionDE": "ein großes, wildes Schwein, das in Europa, Asien und Nordafrika heimisch ist.",
+        "descriptionTR": "Avrupa, Asya ve Kuzey Afrika'ya özgü büyük bir yaban domuzu.",
+        "descriptionAZ": "Avropa, Asiya və Şimali Afrikaya aid böyük bir çöl donuzu.",
+        "descriptionUK": "великий дикий кабан, рідний для Європи, Азії та Північної Африки."
     }, {
         "de": "die Dämmerung",
         "en": "dusk",
         "ru": "сумерки",
+        "tr": "alacakaranlık",
+        "az": "qaranlıq",
+        "uk": "сутінки",
         "descriptionEN": "the time of day when the light is dim, either morning or evening.",
         "descriptionRU": "время суток, когда свет тусклый, утром или вечером.",
-        "descriptionDE": "die Zeit des Tages, wenn das Licht gedämpft ist, entweder am Morgen oder Abend."
+        "descriptionDE": "die Zeit des Tages, wenn das Licht gedämpft ist, entweder am Morgen oder Abend.",
+        "descriptionTR": "ışığın loş olduğu günün zamanı, sabah veya akşam.",
+        "descriptionAZ": "işığın zəif olduğu günün vaxtı, səhər və ya axşam.",
+        "descriptionUK": "час доби, коли світло тьмяне, вранці чи ввечері."
     }, {
         "de": "der Fuchs",
         "en": "fox",
         "ru": "лиса",
+        "tr": "tilki",
+        "az": "tülkü",
+        "uk": "лисиця",
         "descriptionEN": "a small to medium-sized carnivorous mammal.",
         "descriptionRU": "млекопитающее среднего размера, плотоядное.",
-        "descriptionDE": "ein kleines bis mittelgroßes fleischfressendes Säugetier."
+        "descriptionDE": "ein kleines bis mittelgroßes fleischfressendes Säugetier.",
+        "descriptionTR": "küçük ila orta boyutlu etçil bir memeli.",
+        "descriptionAZ": "kiçik və ya orta ölçülü yırtıcı məməli.",
+        "descriptionUK": "ссавець середнього розміру, хижий."
     }, {
         "de": "der Rothirsch",
         "en": "red deer",
         "ru": "красный олень",
+        "tr": "kızıl geyik",
+        "az": "qırmızı maral",
+        "uk": "благородний олень",
         "descriptionEN": "a large species of deer native to Europe and parts of Asia.",
         "descriptionRU": "крупный вид оленя, родом из Европы и части Азии.",
-        "descriptionDE": "eine große Hirschart, die in Europa und Teilen Asiens heimisch ist."
+        "descriptionDE": "eine große Hirschart, die in Europa und Teilen Asiens heimisch ist.",
+        "descriptionTR": "Avrupa ve Asya'nın bazı bölgelerine özgü büyük bir geyik türü.",
+        "descriptionAZ": "Avropa və Asiyanın bəzi hissələrinə aid böyük bir maral növü.",
+        "descriptionUK": "великий вид оленя, рідний для Європи та частини Азії."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "peyzaj",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "all the visible features of an area of countryside or land.",
         "descriptionRU": "все видимые особенности района или земли.",
-        "descriptionDE": "alle sichtbaren Merkmale eines Landstrichs oder Gebiets."
+        "descriptionDE": "alle sichtbaren Merkmale eines Landstrichs oder Gebiets.",
+        "descriptionTR": "bir kırsal alanın veya arazinin tüm görünür özellikleri.",
+        "descriptionAZ": "kənd ərazisinin və ya torpağın bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "усі видимі особливості району чи землі."
     }, {
         "de": "der Lebensraum",
         "en": "habitat",
         "ru": "место обитания",
+        "tr": "habitat",
+        "az": "yaşayış mühiti",
+        "uk": "середовище проживання",
         "descriptionEN": "the natural home or environment of an organism.",
         "descriptionRU": "естественное место обитания организма.",
-        "descriptionDE": "der natürliche Lebensbereich eines Organismus."
+        "descriptionDE": "der natürliche Lebensbereich eines Organismus.",
+        "descriptionTR": "bir organizmanın doğal yaşam alanı veya çevresi.",
+        "descriptionAZ": "bir orqizmin təbii yaşayış yeri və ya mühiti.",
+        "descriptionUK": "природне місце проживання організму."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
         "descriptionEN": "the state of being diverse; variety.",
         "descriptionRU": "состояние, при котором что-то разнообразно; многообразие.",
-        "descriptionDE": "der Zustand, vielfältig zu sein; Verschiedenheit."
+        "descriptionDE": "der Zustand, vielfältig zu sein; Verschiedenheit.",
+        "descriptionTR": "çeşitli olma durumu; çeşitlilik.",
+        "descriptionAZ": "müxtəlif olma vəziyyəti; müxtəliflik.",
+        "descriptionUK": "стан, коли щось різноманітне; багатоманітність."
     }, {
         "de": "die Morgen",
         "en": "morning",
         "ru": "утро",
+        "tr": "sabah",
+        "az": "səhər",
+        "uk": "ранок",
         "descriptionEN": "the first part of the day.",
         "descriptionRU": "первая часть дня.",
-        "descriptionDE": "der erste Teil des Tages."
+        "descriptionDE": "der erste Teil des Tages.",
+        "descriptionTR": "günün ilk kısmı.",
+        "descriptionAZ": "günün ilk hissəsi.",
+        "descriptionUK": "перша частина дня."
     }, {
         "de": "der Herbst",
         "en": "autumn",
         "ru": "осень",
+        "tr": "sonbahar",
+        "az": "payız",
+        "uk": "осінь",
         "descriptionEN": "the season between summer and winter.",
         "descriptionRU": "сезон между летом и зимой.",
-        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter."
+        "descriptionDE": "die Jahreszeit zwischen Sommer und Winter.",
+        "descriptionTR": "yaz ve kış arasındaki mevsim.",
+        "descriptionAZ": "yay və qış arasındakı fəsil.",
+        "descriptionUK": "сезон між літом та зимою."
     }, {
         "de": "essen",
         "en": "to eat",
         "ru": "есть",
+        "tr": "yemek",
+        "az": "yemək",
+        "uk": "їсти",
         "descriptionEN": "to consume food.",
         "descriptionRU": "употреблять пищу.",
-        "descriptionDE": "Nahrung zu sich nehmen."
+        "descriptionDE": "Nahrung zu sich nehmen.",
+        "descriptionTR": "yiyecek tüketmek.",
+        "descriptionAZ": "qida qəbul etmək.",
+        "descriptionUK": "споживати їжу."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "to perceive with the eyes.",
         "descriptionRU": "воспринять с помощью глаз.",
-        "descriptionDE": "mit den Augen wahrnehmen."
+        "descriptionDE": "mit den Augen wahrnehmen.",
+        "descriptionTR": "gözlerle algılamak.",
+        "descriptionAZ": "gözlərlə qavramaq.",
+        "descriptionUK": "сприймати очима."
     }, {
         "de": "anpassen",
         "en": "to adapt",
         "ru": "адаптироваться",
+        "tr": "uyum sağlamak",
+        "az": "uyğunlaşmaq",
+        "uk": "адаптуватися",
         "descriptionEN": "to change to suit new conditions.",
         "descriptionRU": "изменяться, чтобы соответствовать новым условиям.",
-        "descriptionDE": "sich an neue Bedingungen anpassen."
+        "descriptionDE": "sich an neue Bedingungen anpassen.",
+        "descriptionTR": "yeni koşullara uyum sağlamak için değişmek.",
+        "descriptionAZ": "yeni şərtlərə uyğunlaşmaq üçün dəyişmək.",
+        "descriptionUK": "змінюватися, щоб відповідати новим умовам."
     }, {
         "de": "jagen",
         "en": "to hunt",
         "ru": "охотиться",
+        "tr": "avlanmak",
+        "az": "ovlamaq",
+        "uk": "полювати",
         "descriptionEN": "to chase and kill for food or sport.",
         "descriptionRU": "преследовать и убивать ради пищи или удовольствия.",
-        "descriptionDE": "verfolgen und töten, um Nahrung zu bekommen."
+        "descriptionDE": "verfolgen und töten, um Nahrung zu bekommen.",
+        "descriptionTR": "yiyecek veya spor için kovalamak ve öldürmek.",
+        "descriptionAZ": "qida və ya idman üçün təqib etmək və öldürmək.",
+        "descriptionUK": "переслідувати та вбивати заради їжі чи задоволення."
     }, {
         "de": "majestätisch",
         "en": "majestic",
         "ru": "великолепный",
+        "tr": "görkemli",
+        "az": "məhtəşəm",
+        "uk": "величний",
         "descriptionEN": "having grandeur or beauty.",
         "descriptionRU": "иметь величие или красоту.",
-        "descriptionDE": "mit Pracht oder Schönheit."
+        "descriptionDE": "mit Pracht oder Schönheit.",
+        "descriptionTR": "ihtişam veya güzelliğe sahip olmak.",
+        "descriptionAZ": "əzəmət və ya gözəlliyə malik olmaq.",
+        "descriptionUK": "мати велич чи красу."
     }, {
         "de": "scharf",
         "en": "sharp",
         "ru": "острый",
+        "tr": "keskin",
+        "az": "iti",
+        "uk": "гострий",
         "descriptionEN": "having a fine edge or point.",
         "descriptionRU": "имеющий тонкий край или точку.",
-        "descriptionDE": "mit einer feinen Kante oder Spitze."
+        "descriptionDE": "mit einer feinen Kante oder Spitze.",
+        "descriptionTR": "ince bir kenara veya uca sahip olmak.",
+        "descriptionAZ": "incə bir kənara və ya nöqtəyə malik olmaq.",
+        "descriptionUK": "мати тонкий край чи вістря."
     }, {
         "de": "anmutig",
         "en": "graceful",
         "ru": "грациозный",
+        "tr": "zarif",
+        "az": "zərif",
+        "uk": "граціозний",
         "descriptionEN": "showing elegance and beauty in movement.",
         "descriptionRU": "показывать элегантность и красоту в движении.",
-        "descriptionDE": "Eleganz und Schönheit in der Bewegung zeigend."
+        "descriptionDE": "Eleganz und Schönheit in der Bewegung zeigend.",
+        "descriptionTR": "hareketlerde zarafet ve güzellik göstermek.",
+        "descriptionAZ": "hərəkətdə zəriflik və gözəllik göstərmək.",
+        "descriptionUK": "показувати елегантність і красу в русі."
     }, {
         "de": "schlau",
         "en": "clever",
         "ru": "умный",
+        "tr": "zeki",
+        "az": "ağıllı",
+        "uk": "розумний",
         "descriptionEN": "quick to understand or learn.",
         "descriptionRU": "быстро понимающий или обучающийся.",
-        "descriptionDE": "schnell im Verstehen oder Lernen."
+        "descriptionDE": "schnell im Verstehen oder Lernen.",
+        "descriptionTR": "hızlı anlayan veya öğrenen.",
+        "descriptionAZ": "tez başa düşən və ya öyrənən.",
+        "descriptionUK": "швидко розуміючий чи навчаючийся."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionEN": "to a greater degree than normal.",
         "descriptionRU": "в большей степени, чем обычно.",
-        "descriptionDE": "in größerem Maße als normal."
+        "descriptionDE": "in größerem Maße als normal.",
+        "descriptionTR": "normalden daha büyük bir derecede.",
+        "descriptionAZ": "normaldan daha çox dərəcədə.",
+        "descriptionUK": "у більшій мірі, ніж зазвичай."
     }, {
         "de": "häufig",
         "en": "frequently",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionEN": "occurring often.",
         "descriptionRU": "происходит часто.",
-        "descriptionDE": "kommt oft vor."
+        "descriptionDE": "kommt oft vor.",
+        "descriptionTR": "sık sık meydana gelen.",
+        "descriptionAZ": "tez-tez baş verən.",
+        "descriptionUK": "трапляється часто."
     }
 ]

@@ -3,156 +3,288 @@
         "de": "der Wachmann",
         "en": "guard",
         "ru": "страж",
+        "tr": "bekçi",
+        "az": "mühafizəçi",
+        "uk": "охоронець",
         "descriptionDE": "eine Person, die für den Schutz und die Sicherheit eines Ortes oder von Menschen verantwortlich ist.",
         "descriptionEN": "a person responsible for protecting and ensuring the safety of a place or people.",
-        "descriptionRU": "человек, ответственный за защиту и обеспечение безопасности места или людей."
+        "descriptionRU": "человек, ответственный за защиту и обеспечение безопасности места или людей.",
+        "descriptionTR": "Bir yerin veya insanların korunması ve güvenliğinin sağlanmasından sorumlu kişi.",
+        "descriptionAZ": "Bir yerin və ya insanların qorunması və təhlükəsizliyinin təmin edilməsindən məsul şəxs.",
+        "descriptionUK": "Особа, відповідальна за захист та забезпечення безпеки місця або людей."
     }, {
         "de": "die Aufgabe",
         "en": "task",
         "ru": "задача",
+        "tr": "görev",
+        "az": "vəzifə",
+        "uk": "завдання",
         "descriptionDE": "eine zu erledigende oder zu unternehmende Arbeit.",
         "descriptionEN": "a piece of work to be done or undertaken.",
-        "descriptionRU": "работа, которую нужно выполнить или предпринять."
+        "descriptionRU": "работа, которую нужно выполнить или предпринять.",
+        "descriptionTR": "Yapılacak veya üstlenilecek bir iş parçası.",
+        "descriptionAZ": "Görüləcək və ya öhdəsinə götürüləcək iş hissəsi.",
+        "descriptionUK": "Частина роботи, яку потрібно виконати або взяти на себе."
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionDE": "ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
-        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionTR": "Tarihi, bilimsel, sanatsal veya kültürel ilgi çekici nesnelerin saklandığı ve sergilendiği bina.",
+        "descriptionAZ": "Tarixi, elmi, bədii və ya mədəni maraq doğuran obyektlərin saxlanıldığı və nümayiş etdirildiyi bina.",
+        "descriptionUK": "Будівля, в якій зберігаються та виставляються предмети історичного, наукового, художнього або культурного інтересу."
     }, {
         "de": "die Leistung",
         "en": "achievement",
         "ru": "достижение",
+        "tr": "başarı",
+        "az": "nailiyyət",
+        "uk": "досягнення",
         "descriptionDE": "eine erfolgreich durchgeführte Handlung mit Anstrengung, Geschick oder Mut.",
         "descriptionEN": "a thing done successfully with effort, skill, or courage.",
-        "descriptionRU": "дело, успешно выполненное усилиями, навыками или смелостью."
+        "descriptionRU": "дело, успешно выполненное усилиями, навыками или смелостью.",
+        "descriptionTR": "Çaba, beceri veya cesaretle başarıyla yapılan bir şey.",
+        "descriptionAZ": "Səy, bacarıq və ya cəsarətlə uğurla edilən bir şey.",
+        "descriptionUK": "Річ, успішно виконана зусиллями, навичками або мужністю."
     }, {
         "de": "die Ehrfurcht",
         "en": "awe",
         "ru": "трепет",
+        "tr": "huşu",
+        "az": "ehtiram",
+        "uk": "благоговіння",
         "descriptionDE": "ein Gefühl von ehrfürchtigem Respekt, gemischt mit Angst oder Staunen.",
         "descriptionEN": "a feeling of reverential respect mixed with fear or wonder.",
-        "descriptionRU": "чувство благоговения, смешанное с страхом или удивлением."
+        "descriptionRU": "чувство благоговения, смешанное с страхом или удивлением.",
+        "descriptionTR": "Korku veya hayranlıkla karışık saygılı bir saygı duygusu.",
+        "descriptionAZ": "Qorxu və ya heyranlıqla qarışıq ehtiramkar hörmət hissi.",
+        "descriptionUK": "Почуття шанобливої поваги, змішаної зі страхом або подивом."
     }, {
         "de": "die Angst",
         "en": "fear",
         "ru": "страх",
+        "tr": "korku",
+        "az": "qorxu",
+        "uk": "страх",
         "descriptionDE": "eine unangenehme Emotion, verursacht durch die Überzeugung, dass jemand oder etwas gefährlich ist, Schmerzen verursachen könnte oder eine Bedrohung darstellt.",
         "descriptionEN": "an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
-        "descriptionRU": "неприятное эмоциональное состояние, вызванное убеждением, что кто-то или что-то опасно, вероятно, причинит боль или угрожает."
+        "descriptionRU": "неприятное эмоциональное состояние, вызванное убеждением, что кто-то или что-то опасно, вероятно, причинит боль или угрожает.",
+        "descriptionTR": "Birinin veya bir şeyin tehlikeli olduğu, acıya neden olabileceği veya tehdit oluşturduğu inancından kaynaklanan hoş olmayan duygu.",
+        "descriptionAZ": "Kiminsə və ya bir şeyin təhlükəli olduğu, ağrıya səbəb ola biləcəyi və ya təhlükə yaratdığı inancından qaynaqlanan xoşagəlməz duyğu.",
+        "descriptionUK": "Неприємна емоція, викликана переконанням, що хтось або щось небезпечне, може завдати болю або становить загрозу."
     }, {
         "de": "die Erscheinung",
         "en": "apparition",
         "ru": "явление",
+        "tr": "hayalet",
+        "az": "ruh",
+        "uk": "привид",
         "descriptionDE": "ein Geist oder gespenstisches Bild einer Person.",
         "descriptionEN": "a ghost or ghostlike image of a person.",
-        "descriptionRU": "призрак или призрачное изображение человека."
+        "descriptionRU": "призрак или призрачное изображение человека.",
+        "descriptionTR": "Bir kişinin hayaleti veya hayalet benzeri görüntüsü.",
+        "descriptionAZ": "Bir şəxsin ruhu və ya ruh kimi görüntüsü.",
+        "descriptionUK": "Привид або примарне зображення людини."
     }, {
         "de": "der Athlet",
         "en": "athlete",
         "ru": "атлет",
+        "tr": "atlet",
+        "az": "atlet",
+        "uk": "атлет",
         "descriptionDE": "eine Person, die sich in Sport und anderen Formen körperlicher Übung auskennt.",
         "descriptionEN": "a person who is proficient in sports and other forms of physical exercise.",
-        "descriptionRU": "человек, в совершенстве владеющий спортом и другими формами физических упражнений."
+        "descriptionRU": "человек, в совершенстве владеющий спортом и другими формами физических упражнений.",
+        "descriptionTR": "Spor ve diğer fiziksel egzersiz türlerinde yetkin olan kişi.",
+        "descriptionAZ": "İdman və digər fiziki məşq növlərində bacarıqlı olan şəxs.",
+        "descriptionUK": "Особа, яка володіє спортом та іншими формами фізичних вправ."
     }, {
         "de": "der Trainingsanzug",
         "en": "tracksuit",
         "ru": "спортивный костюм",
+        "tr": "eşofman",
+        "az": "idman kostyumu",
+        "uk": "спортивний костюм",
         "descriptionDE": "ein zweiteiliges Outfit bestehend aus Hose und passender Jacke, normalerweise getragen für sportliche Aktivitäten.",
         "descriptionEN": "a two-piece outfit consisting of trousers and a matching jacket, typically worn for athletic activities.",
-        "descriptionRU": "двухчастный наряд, состоящий из брюк и подходящей куртки, обычно носимый при занятиях спортом."
+        "descriptionRU": "двухчастный наряд, состоящий из брюк и подходящей куртки, обычно носимый при занятиях спортом.",
+        "descriptionTR": "Genellikle atletik aktiviteler için giyilen pantolon ve uyumlu ceketten oluşan iki parçalı kıyafet.",
+        "descriptionAZ": "Adətən atletik fəaliyyətlər üçün geyilən şalvar və uyğun gödəkçədən ibarət iki hissəli geyim.",
+        "descriptionUK": "Двочастинний одяг, що складається з штанів і відповідної куртки, зазвичай носиться для спортивних занять."
     }, {
         "de": "die Liebe",
         "en": "love",
         "ru": "любовь",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
         "descriptionDE": "ein intensives Gefühl tiefer Zuneigung.",
         "descriptionEN": "an intense feeling of deep affection.",
-        "descriptionRU": "интенсивное чувство глубокой привязанности."
+        "descriptionRU": "интенсивное чувство глубокой привязанности.",
+        "descriptionTR": "Derin sevginin yoğun bir duygusu.",
+        "descriptionAZ": "Dərin məhəbbətin intensiv hissi.",
+        "descriptionUK": "Інтенсивне почуття глибокої прихильності."
     }, {
         "de": "die Freundschaft",
         "en": "friendship",
         "ru": "дружба",
+        "tr": "dostluk",
+        "az": "dostluq",
+        "uk": "дружба",
         "descriptionDE": "eine gegenseitige Zuneigung zwischen Menschen.",
         "descriptionEN": "a mutual affection between people.",
-        "descriptionRU": "взаимная привязанность между людьми."
+        "descriptionRU": "взаимная привязанность между людьми.",
+        "descriptionTR": "İnsanlar arasında karşılıklı sevgi.",
+        "descriptionAZ": "İnsanlar arasında qarşılıqlı məhəbbət.",
+        "descriptionUK": "Взаємна прихильність між людьми."
     }, {
         "de": "der Triumph",
         "en": "triumph",
         "ru": "триумф",
+        "tr": "zafer",
+        "az": "qələbə",
+        "uk": "тріумф",
         "descriptionDE": "ein großer Sieg oder Erfolg.",
         "descriptionEN": "a great victory or achievement.",
-        "descriptionRU": "великая победа или достижение."
+        "descriptionRU": "великая победа или достижение.",
+        "descriptionTR": "Büyük bir zafer veya başarı.",
+        "descriptionAZ": "Böyük qələbə və ya nailiyyət.",
+        "descriptionUK": "Велика перемога або досягнення."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionDE": "die Erforschung vergangener Ereignisse.",
         "descriptionEN": "the study of past events.",
-        "descriptionRU": "изучение прошлых событий."
+        "descriptionRU": "изучение прошлых событий.",
+        "descriptionTR": "Geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій."
     }, {
         "de": "die Nachtschicht",
         "en": "night shift",
         "ru": "ночная смена",
+        "tr": "gece vardiyası",
+        "az": "gecə növbəsi",
+        "uk": "нічна зміна",
         "descriptionDE": "eine Arbeitszeit, die während der Nacht stattfindet.",
         "descriptionEN": "a period of work that takes place during the night.",
-        "descriptionRU": "период работы, который происходит в течение ночи."
+        "descriptionRU": "период работы, который происходит в течение ночи.",
+        "descriptionTR": "Gece boyunca gerçekleşen bir çalışma dönemi.",
+        "descriptionAZ": "Gecə ərzində baş verən iş dövrü.",
+        "descriptionUK": "Період роботи, який відбувається вночі."
     }, {
         "de": "das Artefakt",
         "en": "artifact",
         "ru": "артефакт",
+        "tr": "eser",
+        "az": "artefakt",
+        "uk": "артефакт",
         "descriptionDE": "ein von einem Menschen geschaffenes Objekt, normalerweise ein Gegenstand von kulturellem oder historischem Interesse.",
         "descriptionEN": "an object made by a human being, typically an item of cultural or historical interest.",
-        "descriptionRU": "предмет, созданный человеком, обычно предмет культурного или исторического интереса."
+        "descriptionRU": "предмет, созданный человеком, обычно предмет культурного или исторического интереса.",
+        "descriptionTR": "İnsan tarafından yapılan, genellikle kültürel veya tarihi ilgi çekici bir nesne.",
+        "descriptionAZ": "İnsan tərəfindən yaradılan, adətən mədəni və ya tarixi maraq doğuran obyekt.",
+        "descriptionUK": "Об'єкт, створений людиною, зазвичай предмет культурного або історичного інтересу."
     }, {
         "de": "die Erinnerung",
         "en": "memory",
         "ru": "память",
+        "tr": "hafıza",
+        "az": "yaddaş",
+        "uk": "пам'ять",
         "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern.",
         "descriptionEN": "the faculty by which the mind stores and remembers information.",
-        "descriptionRU": "способность ума хранить и запоминать информацию."
+        "descriptionRU": "способность ума хранить и запоминать информацию.",
+        "descriptionTR": "Zihnin bilgiyi saklama ve hatırlama yetisi.",
+        "descriptionAZ": "Ağılın məlumatı saxlama və xatırlama qabiliyyəti.",
+        "descriptionUK": "Здатність розуму зберігати та запам'ятовувати інформацію."
     }, {
         "de": "das Exponat",
         "en": "exhibit",
         "ru": "экспонат",
+        "tr": "sergi",
+        "az": "eksponat",
+        "uk": "експонат",
         "descriptionDE": "ein Objekt oder eine Ausstellung, die zur öffentlichen Unterhaltung oder Bildung gezeigt wird.",
         "descriptionEN": "an object or display shown for public entertainment or education.",
-        "descriptionRU": "предмет или дисплей, предназначенный для общественного развлечения или образования."
+        "descriptionRU": "предмет или дисплей, предназначенный для общественного развлечения или образования.",
+        "descriptionTR": "Halkın eğlencesi veya eğitimi için gösterilen nesne veya sergi.",
+        "descriptionAZ": "İctimai əyləncə və ya təhsil üçün göstərilən obyekt və ya nümayiş.",
+        "descriptionUK": "Об'єкт або виставка, показана для громадських розваг або освіти."
     }, {
         "de": "seltsam",
         "en": "strange",
         "ru": "странный",
+        "tr": "garip",
+        "az": "qəribə",
+        "uk": "дивний",
         "descriptionDE": "ungewöhnlich oder überraschend in einer Weise, die beunruhigend oder schwer zu verstehen ist.",
         "descriptionEN": "unusual or surprising in a way that is unsettling or hard to understand.",
-        "descriptionRU": "необычный или удивительный таким образом, что это настораживает или трудно понять."
+        "descriptionRU": "необычный или удивительный таким образом, что это настораживает или трудно понять.",
+        "descriptionTR": "Rahatsız edici veya anlaşılması zor bir şekilde alışılmadık veya şaşırtıcı.",
+        "descriptionAZ": "Narahat edici və ya başa düşülməsi çətin olan şəkildə qeyri-adi və ya təəccüblü.",
+        "descriptionUK": "Незвичайний або дивовижний у спосіб, що турбує або важко зрозуміти."
     }, {
         "de": "mysteriös",
         "en": "mysterious",
         "ru": "загадочный",
+        "tr": "gizemli",
+        "az": "sirli",
+        "uk": "таємничий",
         "descriptionDE": "schwer oder unmöglich zu verstehen, zu erklären oder zu identifizieren.",
         "descriptionEN": "difficult or impossible to understand, explain, or identify.",
-        "descriptionRU": "трудно или невозможно понять, объяснить или идентифицировать."
+        "descriptionRU": "трудно или невозможно понять, объяснить или идентифицировать.",
+        "descriptionTR": "Anlaması, açıklaması veya tanımlaması zor veya imkansız.",
+        "descriptionAZ": "Başa düşmək, izah etmək və ya müəyyən etmək çətin və ya mümkün deyil.",
+        "descriptionUK": "Важко або неможливо зрозуміти, пояснити або ідентифікувати."
     }, {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбный",
+        "tr": "arkadaş canlısı",
+        "az": "dostcasına",
+        "uk": "дружелюбний",
         "descriptionDE": "freundlich und angenehm.",
         "descriptionEN": "kind and pleasant.",
-        "descriptionRU": "добрый и приятный."
+        "descriptionRU": "добрый и приятный.",
+        "descriptionTR": "Nazik ve hoş.",
+        "descriptionAZ": "Mehriban və xoş.",
+        "descriptionUK": "Добрий і приємний."
     }, {
         "de": "böse",
         "en": "evil",
         "ru": "злой",
+        "tr": "kötü",
+        "az": "pis",
+        "uk": "злий",
         "descriptionDE": "zutiefst unmoralisch und bösartig.",
         "descriptionEN": "profoundly immoral and wicked.",
-        "descriptionRU": "глубоко аморальный и зловещий."
+        "descriptionRU": "глубоко аморальный и зловещий.",
+        "descriptionTR": "Derinden ahlaksız ve kötü.",
+        "descriptionAZ": "Dərindən əxlaqsız və pis.",
+        "descriptionUK": "Глибоко аморальний і злий."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
         "descriptionDE": "besser, größer oder sonstwie anders als üblich.",
         "descriptionEN": "better, greater, or otherwise different from what is usual.",
-        "descriptionRU": "лучше, величественнее или иным образом отличается от обычного."
+        "descriptionRU": "лучше, величественнее или иным образом отличается от обычного.",
+        "descriptionTR": "Her zamankinden daha iyi, daha büyük veya başka türlü farklı.",
+        "descriptionAZ": "Adi haldan daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або інакше відмінний від звичайного."
     }, {
         "de": "selbst",
         "en": "self",

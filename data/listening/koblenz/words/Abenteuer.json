@@ -3,127 +3,235 @@
         "de": "der Rucksack",
         "en": "backpack",
         "ru": "рюкзак",
+        "tr": "sırt çantası",
+        "az": "bel çantası",
+        "uk": "рюкзак",
         "descriptionEN": "A bag with shoulder straps that allow it to be carried on one's back.",
         "descriptionRU": "Сумка с плечевыми ремнями, которые позволяют носить её на спине.",
-        "descriptionDE": "Eine Tasche mit Schulterriemen, die es ermöglichen, sie auf dem Rücken zu tragen."
+        "descriptionDE": "Eine Tasche mit Schulterriemen, die es ermöglichen, sie auf dem Rücken zu tragen.",
+        "descriptionTR": "Omuz kayışları olan ve sırtta taşınabilen bir çanta.",
+        "descriptionAZ": "Çiyin kəmərləri olan və beldə daşına bilən bir çanta.",
+        "descriptionUK": "Сумка з плечовими ременями, яка дозволяє носити її на спині."
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionEN": "The arts and other manifestations of human intellectual achievement regarded collectively.",
         "descriptionRU": "Все проявления человеческого интеллектуального достижения, рассматриваемые в совокупности.",
-        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden."
+        "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen, die kollektiv betrachtet werden.",
+        "descriptionTR": "Sanatlar ve insan entelektüel başarısının diğer tezahürleri toplu olarak değerlendirildiğinde.",
+        "descriptionAZ": "İncəsənət və insan intellektual nailiyyətinin digər təzahürləri kollektiv şəkildə nəzərə alındıqda.",
+        "descriptionUK": "Мистецтво та інші прояви інтелектуальних досягнень людини, що розглядаються сукупно."
     }, {
         "de": "das Monument",
         "en": "monument",
         "ru": "памятник",
+        "tr": "anıt",
+        "az": "abidə",
+        "uk": "пам'ятник",
         "descriptionEN": "A statue, building, or other structure erected to commemorate a notable person or event.",
         "descriptionRU": "Статуя, здание или другая конструкция, установленная в честь знаменательного лица или события.",
-        "descriptionDE": "Eine Statue, ein Gebäude oder eine andere Struktur, die errichtet wurde, um an eine bemerkenswerte Person oder ein Ereignis zu erinnern."
+        "descriptionDE": "Eine Statue, ein Gebäude oder eine andere Struktur, die errichtet wurde, um an eine bemerkenswerte Person oder ein Ereignis zu erinnern.",
+        "descriptionTR": "Önemli bir kişiyi veya olayı anmak için dikilen bir heykel, bina veya diğer yapı.",
+        "descriptionAZ": "Məşhur bir şəxsi və ya hadisəni xatırlamaq üçün qoyulmuş heykəl, bina və ya digər quruluş.",
+        "descriptionUK": "Статуя, будівля чи інша споруда, встановлена на честь знаменної особи чи події."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
         "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
-        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Konstruierens von Gebäuden."
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Konstruierens von Gebäuden.",
+        "descriptionTR": "Binaları tasarlama ve inşa etme sanatı veya uygulaması.",
+        "descriptionAZ": "Binaları layihələndirmək və tikmək sənəti və ya təcrübəsi.",
+        "descriptionUK": "Мистецтво чи практика проектування та будівництва будівель."
     }, {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
+        "tr": "görünüm",
+        "az": "görünüş",
+        "uk": "вид",
         "descriptionEN": "The ability to see or the range of vision.",
         "descriptionRU": "Способность видеть или диапазон видимости.",
-        "descriptionDE": "Die Fähigkeit zu sehen oder der Sichtbereich."
+        "descriptionDE": "Die Fähigkeit zu sehen oder der Sichtbereich.",
+        "descriptionTR": "Görme yeteneği veya görüş alanı.",
+        "descriptionAZ": "Görmə qabiliyyəti və ya görüş sahəsi.",
+        "descriptionUK": "Здатність бачити чи діапазон видимості."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "ландшафт",
+        "tr": "peyzaj",
+        "az": "mənzərə",
+        "uk": "ландшафт",
         "descriptionEN": "All the visible features of an area of countryside or land.",
         "descriptionRU": "Все видимые особенности области сельской местности или земли.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets auf dem Land."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets auf dem Land.",
+        "descriptionTR": "Bir kırsal alanın veya arazinin tüm görünür özellikleri.",
+        "descriptionAZ": "Bir kənd ərazisinin və ya torpağın bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "Усі видимі особливості сільської місцевості чи землі."
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "The pervading tone or mood of a place, situation, or work of art.",
         "descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства.",
-        "descriptionDE": "Die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks."
+        "descriptionDE": "Die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks.",
+        "descriptionTR": "Bir yerin, durumun veya sanat eserinin hakim tonu veya havası.",
+        "descriptionAZ": "Bir yerin, vəziyyətin və ya sənət əsərinin üstünlük təşkil edən tonu və ya atmosferi.",
+        "descriptionUK": "Панівний тон чи настрій місця, ситуації чи твору мистецтва."
     }, {
         "de": "die Ruhe",
         "en": "peace",
         "ru": "мир",
+        "tr": "huzur",
+        "az": "sülh",
+        "uk": "спокій",
         "descriptionEN": "Freedom from disturbance; tranquility.",
         "descriptionRU": "Свобода от беспокойства; спокойствие.",
-        "descriptionDE": "Freiheit von Störungen; Ruhe."
+        "descriptionDE": "Freiheit von Störungen; Ruhe.",
+        "descriptionTR": "Rahatsızlıktan uzak olma; huzur.",
+        "descriptionAZ": "Narahatçılıqdan azad olmaq; sülh.",
+        "descriptionUK": "Вільність від турбот; спокій."
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "A plantation of grapevines, typically producing grapes used in winemaking.",
         "descriptionRU": "Плантация виноградных лоз, обычно производящая виноград, используемый в виноделии.",
-        "descriptionDE": "Eine Plantage von Weinreben, die in der Regel Trauben produziert, die zur Weinherstellung verwendet werden."
+        "descriptionDE": "Eine Plantage von Weinreben, die in der Regel Trauben produziert, die zur Weinherstellung verwendet werden.",
+        "descriptionTR": "Genellikle şarap yapımında kullanılan üzümler üreten bir asma bahçesi.",
+        "descriptionAZ": "Adətən şərab istehsalında istifadə olunan üzüm istehsal edən üzüm bağı.",
+        "descriptionUK": "Плантація виноградної лози, яка зазвичай виробляє виноград, що використовується у виноробстві."
     }, {
         "de": "der Schluck",
         "en": "sip",
         "ru": "глоток",
+        "tr": "yudum",
+        "az": "qurtum",
+        "uk": "ковток",
         "descriptionEN": "A small mouthful of liquid.",
         "descriptionRU": "Небольшое глотковое количество жидкости.",
-        "descriptionDE": "Ein kleiner Schluck Flüssigkeit."
+        "descriptionDE": "Ein kleiner Schluck Flüssigkeit.",
+        "descriptionTR": "Küçük bir ağız dolusu sıvı.",
+        "descriptionAZ": "Kiçik bir ağız dolusu maye.",
+        "descriptionUK": "Невелика кількість рідини."
     }, {
         "de": "der Blick",
         "en": "glance",
         "ru": "взгляд",
+        "tr": "bakış",
+        "az": "nəzər",
+        "uk": "погляд",
         "descriptionEN": "A brief or hurried look.",
         "descriptionRU": "Краткий или спешный взгляд.",
-        "descriptionDE": "Ein kurzer oder hastiger Blick."
+        "descriptionDE": "Ein kurzer oder hastiger Blick.",
+        "descriptionTR": "Kısa veya acele bir bakış.",
+        "descriptionAZ": "Qısa və ya tələsik bir baxış.",
+        "descriptionUK": "Короткий чи поспішний погляд."
     }, {
         "de": "die Freundschaft",
         "en": "friendship",
         "ru": "дружба",
+        "tr": "arkadaşlık",
+        "az": "dostluq",
+        "uk": "дружба",
         "descriptionEN": "The emotions or conduct of friends; the state of being friends.",
         "descriptionRU": "Эмоции или поведение друзей; состояние дружбы.",
-        "descriptionDE": "Die Emotionen oder das Verhalten von Freunden; der Zustand des Freundseins."
+        "descriptionDE": "Die Emotionen oder das Verhalten von Freunden; der Zustand des Freundseins.",
+        "descriptionTR": "Arkadaşların duyguları veya davranışları; arkadaş olma durumu.",
+        "descriptionAZ": "Dostların emosiyaları və ya davranışı; dost olma vəziyyəti.",
+        "descriptionUK": "Емоції чи поведінка друзів; стан дружби."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
         "descriptionRU": "Путешествовать по (незнакомой стране или местности) с целью узнать или ознакомиться с ней.",
-        "descriptionDE": "Reisen in ein unbekanntes Land oder Gebiet, um es kennenzulernen oder sich damit vertraut zu machen."
+        "descriptionDE": "Reisen in ein unbekanntes Land oder Gebiet, um es kennenzulernen oder sich damit vertraut zu machen.",
+        "descriptionTR": "Bir şeyi öğrenmek veya kendini ona alıştırmak için (bilinmeyen bir ülke veya bölgede) seyahat etmek.",
+        "descriptionAZ": "Bir şeyi öyrənmək və ya özünü ona alışdırmaq üçün (tanımadığınız bir ölkə və ya bölgədə) səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою країною чи місцевістю), щоб дізнатися чи ознайомитися з нею."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "Take delight or pleasure in (an activity or occasion).",
         "descriptionRU": "Получать удовольствие или наслаждение от (деятельности или случая).",
-        "descriptionDE": "Sich an (einer Aktivität oder Gelegenheit) erfreuen oder Vergnügen daran haben."
+        "descriptionDE": "Sich an (einer Aktivität oder Gelegenheit) erfreuen oder Vergnügen daran haben.",
+        "descriptionTR": "(Bir aktivitede veya durumda) zevk veya keyif almak.",
+        "descriptionAZ": "(Bir fəaliyyətdə və ya vəziyyətdə) zövq və ya həzz almaq.",
+        "descriptionUK": "Отримувати задоволення чи насолоду від (діяльності чи події)."
     }, {
         "de": "begeistert",
         "en": "enthusiastic",
         "ru": "восторженный",
+        "tr": "hevesli",
+        "az": "həvəsli",
+        "uk": "захоплений",
         "descriptionEN": "Having or showing intense and eager enjoyment, interest, or approval.",
         "descriptionRU": "Имеющий или показывающий интенсивное и живое удовольствие, интерес или одобрение.",
-        "descriptionDE": "Intensiv und begeistert Freude, Interesse oder Zustimmung zeigend."
+        "descriptionDE": "Intensiv und begeistert Freude, Interesse oder Zustimmung zeigend.",
+        "descriptionTR": "Yoğun ve hevesli bir zevk, ilgi veya onay göstermek veya sahip olmak.",
+        "descriptionAZ": "Sıx və həvəsli bir zövq, maraq və ya təsdiq göstərmək və ya sahib olmaq.",
+        "descriptionUK": "Маючи чи показуючи інтенсивне та жваве задоволення, інтерес чи схвалення."
     }, {
         "de": "magisch",
         "en": "magical",
         "ru": "волшебный",
+        "tr": "büyülü",
+        "az": "sehrli",
+        "uk": "чарівний",
         "descriptionEN": "Beautiful or delightful in a way that seems removed from everyday life.",
         "descriptionRU": "Прекрасный или восхитительный таким образом, что кажется удаленным от повседневной жизни.",
-        "descriptionDE": "Auf eine Weise schön oder entzückend, die entfernt von der Alltagswelt zu sein scheint."
+        "descriptionDE": "Auf eine Weise schön oder entzückend, die entfernt von der Alltagswelt zu sein scheint.",
+        "descriptionTR": "Gündelik yaşamdan uzaklaşmış gibi görünen güzel veya keyifli bir şekilde.",
+        "descriptionAZ": "Gündəlik həyatdan uzaqlaşmış kimi görünən gözəl və ya xoş bir şəkildə.",
+        "descriptionUK": "Прекрасний чи чарівний таким чином, що здається віддаленим від повсякденного життя."
     }, {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
+        "tr": "gizli",
+        "az": "gizli",
+        "uk": "прихований",
         "descriptionEN": "Kept out of sight; concealed.",
         "descriptionRU": "Скрытый от глаз; скрытый.",
-        "descriptionDE": "Außer Sichtweite gehalten; verborgen."
+        "descriptionDE": "Außer Sichtweite gehalten; verborgen.",
+        "descriptionTR": "Görüş alanı dışında tutulmuş; gizlenmiş.",
+        "descriptionAZ": "Görüş sahəsindən kənarda saxlanılmış; gizlədilmiş.",
+        "descriptionUK": "Тримається поза полем зору; прихований."
     }, {
         "de": "aufregend",
         "en": "exciting",
         "ru": "захватывающий",
+        "tr": "heyecan verici",
+        "az": "həyəcanverici",
+        "uk": "захоплюючий",
         "descriptionEN": "Producing excitement or interest.",
         "descriptionRU": "Производящий волнение или интерес.",
-        "descriptionDE": "Erzeugt Aufregung oder Interesse."
+        "descriptionDE": "Erzeugt Aufregung oder Interesse.",
+        "descriptionTR": "Heyecan veya ilgi uyandıran.",
+        "descriptionAZ": "Həyəcan və ya maraq oyadan.",
+        "descriptionUK": "Викликає хвилювання чи інтерес."
     }
 ]

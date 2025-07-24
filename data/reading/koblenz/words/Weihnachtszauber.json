@@ -1,123 +1,224 @@
 [
-
     {
         "de": "das Gebäude",
         "en": "building",
         "ru": "здание",
+        "tr": "bina",
+        "az": "bina",
+        "uk": "будівля",
         "descriptionEN": "Structures with walls and a roof, such as houses or factories.",
         "descriptionRU": "Структуры со стенами и крышей, такие как дома или заводы.",
-        "descriptionDE": "Strukturen mit Wänden und einem Dach, wie Häuser oder Fabriken."
+        "descriptionDE": "Strukturen mit Wänden und einem Dach, wie Häuser oder Fabriken.",
+        "descriptionTR": "Evler veya fabrikalar gibi duvarları ve çatısı olan yapılar.",
+        "descriptionAZ": "Evlər və ya fabriklər kimi divarları və damı olan tikililər.",
+        "descriptionUK": "Споруди зі стінами та дахом, такі як будинки або заводи."
     }, {
         "de": "der Weihnachtsmarkt",
         "en": "Christmas market",
         "ru": "рождественские ярмарка",
+        "tr": "Noel pazarı",
+        "az": "Milad bazarı",
+        "uk": "різдвяний ярмарок",
         "descriptionEN": "Festive markets held during the Christmas season.",
         "descriptionRU": "Праздничные ярмарки, проводимые в рождественский период.",
-        "descriptionDE": "Festliche Märkte, die während der Weihnachtszeit stattfinden."
+        "descriptionDE": "Festliche Märkte, die während der Weihnachtszeit stattfinden.",
+        "descriptionTR": "Noel sezonunda düzenlenen şenlikli pazarlar.",
+        "descriptionAZ": "Milad mövsümündə keçirilən bayram bazarları.",
+        "descriptionUK": "Святкові ярмарки, що проводяться під час Різдвяного сезону."
     }, {
         "de": "das Kunsthandwerk",
         "en": "crafts",
         "ru": "ремесла",
+        "tr": "el sanatları",
+        "az": "sənətkarlıq",
+        "uk": "ремесла",
         "descriptionEN": "Objects made by hand, often with skill and creativity.",
         "descriptionRU": "Объекты, созданные вручную, часто с умением и творчеством.",
-        "descriptionDE": "Von Hand gefertigte Objekte, oft mit Geschick und Kreativität."
+        "descriptionDE": "Von Hand gefertigte Objekte, oft mit Geschick und Kreativität.",
+        "descriptionTR": "Genellikle beceri ve yaratıcılıkla el yapımı nesneler.",
+        "descriptionAZ": "Əl ilə, tez-tez bacarıq və yaradıcılıqla hazırlanan əşyalar.",
+        "descriptionUK": "Об'єкти, виготовлені вручну, часто з майстерністю та креативністю."
     }, {
         "de": "das Geschenk",
         "en": "gift",
         "ru": "подарок",
+        "tr": "hediye",
+        "az": "hədiyyə",
+        "uk": "подарунок",
         "descriptionEN": "Something given to someone, usually on a special occasion.",
         "descriptionRU": "Что-то, подаренное кому-то, обычно по особому случаю.",
-        "descriptionDE": "Etwas, das jemandem gegeben wird, normalerweise zu einem besonderen Anlass."
+        "descriptionDE": "Etwas, das jemandem gegeben wird, normalerweise zu einem besonderen Anlass.",
+        "descriptionTR": "Genellikle özel bir durumda birine verilen bir şey.",
+        "descriptionAZ": "Adətən xüsusi bir münasibətlə kiməsə verilən bir şey.",
+        "descriptionUK": "Щось, подароване комусь, зазвичай з особливої нагоди."
     }, {
         "de": "der Duft",
         "en": "scent",
         "ru": "запах",
+        "tr": "koku",
+        "az": "qoxu",
+        "uk": "аромат",
         "descriptionEN": "A distinctive smell, especially one that is pleasant.",
         "descriptionRU": "Отличительный запах, особенно приятный.",
-        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer."
+        "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer.",
+        "descriptionTR": "Ayırt edici, özellikle hoş bir koku.",
+        "descriptionAZ": "Fərqli, xüsusilə xoş bir qoxu.",
+        "descriptionUK": "Відмінний запах, особливо приємний."
     }, {
         "de": "die Musikanten",
         "en": "musicians",
         "ru": "музыканты",
+        "tr": "müzisyenler",
+        "az": "musiqiçilər",
+        "uk": "музиканти",
         "descriptionEN": "People who play musical instruments or sing.",
         "descriptionRU": "Люди, играющие на музыкальных инструментах или поющие.",
-        "descriptionDE": "Menschen, die Musikinstrumente spielen oder singen."
+        "descriptionDE": "Menschen, die Musikinstrumente spielen oder singen.",
+        "descriptionTR": "Müzik aleti çalan veya şarkı söyleyen kişiler.",
+        "descriptionAZ": "Musiqi alətlərində çalan və ya oxuyan insanlar.",
+        "descriptionUK": "Люди, які грають на музичних інструментах або співають."
     }, {
         "de": "die Eisbahn",
         "en": "ice rink",
         "ru": "каток",
+        "tr": "buz pateni pisti",
+        "az": "buz meydançası",
+        "uk": "ковзанка",
         "descriptionEN": "A smooth, frozen surface for ice skating.",
         "descriptionRU": "Гладкая замороженная поверхность для катания на коньках.",
-        "descriptionDE": "Eine glatte, gefrorene Fläche zum Schlittschuhlaufen."
+        "descriptionDE": "Eine glatte, gefrorene Fläche zum Schlittschuhlaufen.",
+        "descriptionTR": "Buz pateni için pürüzsüz, donmuş bir yüzey.",
+        "descriptionAZ": "Buz konkisürmə üçün hamar, donmuş səth.",
+        "descriptionUK": "Гладка, замерзла поверхня для катання на ковзанах."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionEN": "A custom or belief passed down through generations.",
         "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение.",
-        "descriptionDE": "Ein Brauch oder Glauben, der durch Generationen weitergegeben wird."
+        "descriptionDE": "Ein Brauch oder Glauben, der durch Generationen weitergegeben wird.",
+        "descriptionTR": "Nesiller boyunca aktarılan bir gelenek veya inanç.",
+        "descriptionAZ": "Nəsillər boyu ötürülən bir adət və ya inanc.",
+        "descriptionUK": "Звичай або вірування, що передається з покоління в покоління."
     }, {
         "de": "das Fenster",
         "en": "window",
         "ru": "окно",
+        "tr": "pencere",
+        "az": "pəncərə",
+        "uk": "вікно",
         "descriptionEN": "An opening in a wall or roof, typically fitted with glass.",
         "descriptionRU": "Отверстие в стене или крыше, обычно с установленным стеклом.",
-        "descriptionDE": "Eine Öffnung in einer Wand oder einem Dach, typischerweise mit Glas versehen."
+        "descriptionDE": "Eine Öffnung in einer Wand oder einem Dach, typischerweise mit Glas versehen.",
+        "descriptionTR": "Duvar veya çatıda genellikle camla donatılmış bir açıklık.",
+        "descriptionAZ": "Divarda və ya damda adətən şüşə ilə təchiz olunmuş bir açılış.",
+        "descriptionUK": "Отвір у стіні або даху, зазвичай зі склом."
     }, {
         "de": "der Adventskalender",
         "en": "advent calendar",
         "ru": "адвент-календарь",
+        "tr": "advent takvimi",
+        "az": "Advent təqvimi",
+        "uk": "адвент-календар",
         "descriptionEN": "A calendar used to count down the days to Christmas, with a small gift or treat behind each door.",
         "descriptionRU": "Календарь, используемый для отсчета дней до Рождества, с небольшим подарком или угощением за каждой дверцей.",
-        "descriptionDE": "Ein Kalender, der die Tage bis Weihnachten zählt, mit einem kleinen Geschenk oder Leckerbissen hinter jeder Tür."
+        "descriptionDE": "Ein Kalender, der die Tage bis Weihnachten zählt, mit einem kleinen Geschenk oder Leckerbissen hinter jeder Tür.",
+        "descriptionTR": "Noel'e kadar günleri saymak için kullanılan, her kapısının arkasında küçük bir hediye veya ikram bulunan bir takvim.",
+        "descriptionAZ": "Milada qalan günləri saymaq üçün istifadə edilən, hər qapısının arxasında kiçik bir hədiyyə və ya ləzzət olan təqvim.",
+        "descriptionUK": "Календар, що використовується для відліку днів до Різдва, з невеликим подарунком або частуванням за кожною дверцею."
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "радость",
+        "tr": "neşe",
+        "az": "sevinc",
+        "uk": "радість",
         "descriptionEN": "A feeling of great pleasure and happiness.",
         "descriptionRU": "Чувство большого удовольствия и счастья.",
-        "descriptionDE": "Ein Gefühl großer Freude und Glück."
+        "descriptionDE": "Ein Gefühl großer Freude und Glück.",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük məmnuniyyət və xoşbəxtlik hissi.",
+        "descriptionUK": "Відчуття великого задоволення та щастя."
     }, {
         "de": "verwandeln",
         "en": "to transform",
         "ru": "превращать",
+        "tr": "dönüştürmek",
+        "az": "çevirmək",
+        "uk": "перетворювати",
         "descriptionEN": "To change in form or appearance.",
         "descriptionRU": "Изменить форму или внешний вид.",
-        "descriptionDE": "Sich in Form oder Aussehen verändern."
+        "descriptionDE": "Sich in Form oder Aussehen verändern.",
+        "descriptionTR": "Şeklini veya görünüşünü değiştirmek.",
+        "descriptionAZ": "Formanı və ya görünüşü dəyişdirmək.",
+        "descriptionUK": "Змінювати форму або зовнішній вигляд."
     }, {
         "de": "unterhalten",
         "en": "to entertain",
         "ru": "развлекать",
+        "tr": "eğlendirmek",
+        "az": "əyləndirmək",
+        "uk": "розважати",
         "descriptionEN": "To provide someone with amusement or enjoyment.",
         "descriptionRU": "Обеспечить кому-то развлечение или удовольствие.",
-        "descriptionDE": "Jemandem Unterhaltung oder Vergnügen bieten."
+        "descriptionDE": "Jemandem Unterhaltung oder Vergnügen bieten.",
+        "descriptionTR": "Birine eğlence veya keyif sağlamak.",
+        "descriptionAZ": "Kimisə əyləncə və ya zövq ilə təmin etmək.",
+        "descriptionUK": "Забезпечувати комусь розвагу або задоволення."
     }, {
         "de": "leuchten",
         "en": "to shine",
         "ru": "светить",
+        "tr": "parlamak",
+        "az": "parlamaq",
+        "uk": "сяяти",
         "descriptionEN": "To give off light.",
         "descriptionRU": "Излучать свет.",
-        "descriptionDE": "Licht abgeben."
+        "descriptionDE": "Licht abgeben.",
+        "descriptionTR": "Işık saçmak.",
+        "descriptionAZ": "İşıq vermək.",
+        "descriptionUK": "Випромінювати світло."
     }, {
         "de": "fröhlich",
         "en": "cheerful",
         "ru": "веселый",
+        "tr": "neşeli",
+        "az": "şen",
+        "uk": "веселий",
         "descriptionEN": "Noticeably happy and optimistic.",
         "descriptionRU": "Заметно счастливый и оптимистичный.",
-        "descriptionDE": "Sichtbar glücklich und optimistisch."
+        "descriptionDE": "Sichtbar glücklich und optimistisch.",
+        "descriptionTR": "Belirgin şekilde mutlu ve iyimser.",
+        "descriptionAZ": "Görünür dərəcədə xoşbəxt və optimist.",
+        "descriptionUK": "Помітно щасливий та оптимістичний."
     }, {
         "de": "festlich",
         "en": "festive",
         "ru": "праздничный",
+        "tr": "şenlikli",
+        "az": "şen",
+        "uk": "святковий",
         "descriptionEN": "Relating to a festival or celebration.",
         "descriptionRU": "Относящийся к фестивалю или празднованию.",
-        "descriptionDE": "Einen Bezug zu einem Fest oder einer Feier haben."
+        "descriptionDE": "Einen Bezug zu einem Fest oder einer Feier haben.",
+        "descriptionTR": "Bir festivale veya kutlamaya ilişkin.",
+        "descriptionAZ": "Bir festivala və ya qeyd etməyə aid olan.",
+        "descriptionUK": "Стосується свята або святкування."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
-        "descriptionDE": "Besser, größer oder anderweitig anders als gewöhnlich."
+        "descriptionDE": "Besser, größer oder anderweitig anders als gewöhnlich.",
+        "descriptionTR": "Normalden daha iyi, daha büyük veya başka şekilde farklı.",
+        "descriptionAZ": "Adi olandan daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або іншим чином відмінний від звичайного."
     }
 ]

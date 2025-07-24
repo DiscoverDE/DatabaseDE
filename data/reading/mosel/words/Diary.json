@@ -3,162 +3,300 @@
         "de": "das Abenteuer",
         "en": "adventure",
         "ru": "приключение",
+        "tr": "macera",
+        "az": "macəra",
+        "uk": "пригоди",
+        "descriptionDE": "Eine aufregende oder ungewöhnliche Erfahrung.",
         "descriptionEN": "An exciting or unusual experience.",
         "descriptionRU": "Волнующий или необычный опыт.",
-        "descriptionDE": "Eine aufregende oder ungewöhnliche Erfahrung."
+        "descriptionTR": "Heyecan verici veya olağanüstü bir deneyim.",
+        "descriptionAZ": "Həyəcanlı və ya qeyri-adi təcrübə.",
+        "descriptionUK": "захоплюючий або незвичайний досвід."
     }, {
         "de": "die Reifen",
         "en": "tires",
         "ru": "шины",
+        "tr": "lastikler",
+        "az": "təkərlər",
+        "uk": "шини",
+        "descriptionDE": "Gummiüberzüge um Räder.",
         "descriptionEN": "Rubber coverings around wheels.",
         "descriptionRU": "Резиновые покрышки вокруг колес.",
-        "descriptionDE": "Gummiüberzüge um Räder."
+        "descriptionTR": "Tekerleklerin etrafını saran kauçuk kaplamalar.",
+        "descriptionAZ": "Təkərlərin ətrafını örtən rezin örtük.",
+        "descriptionUK": "резинові покриття навколо коліс."
     }, {
         "de": "das Kopfsteinpflaster",
         "en": "cobblestone pavement",
         "ru": "брусчатка",
+        "tr": "kaldırım taşı",
+        "az": "daş döşəmə",
+        "uk": "бруківка",
+        "descriptionDE": "Eine Straßenoberfläche aus kleinen, meist runden Steinen.",
         "descriptionEN": "A road surface made of small, usually round stones.",
         "descriptionRU": "Дорожное покрытие из небольших, обычно круглых камней.",
-        "descriptionDE": "Eine Straßenoberfläche aus kleinen, meist runden Steinen."
+        "descriptionTR": "Genellikle küçük ve yuvarlak taşlardan yapılan bir yol yüzeyi.",
+        "descriptionAZ": "Adətən kiçik, yuvarlaq daşlardan ibarət yol örtüyü.",
+        "descriptionUK": "дорожнє покриття з дрібних, зазвичай круглих каменів."
     }, {
         "de": "die Weinberge",
         "en": "vineyards",
         "ru": "виноградники",
+        "tr": "üzüm bağları",
+        "az": "üzüm bağları",
+        "uk": "виноградники",
+        "descriptionDE": "Felder, auf denen Trauben für die Weinproduktion angebaut werden.",
         "descriptionEN": "Fields where grapes are grown for wine production.",
         "descriptionRU": "Поля, где выращивают виноград для производства вина.",
-        "descriptionDE": "Felder, auf denen Trauben für die Weinproduktion angebaut werden."
+        "descriptionTR": "Şarap üretimi için üzüm yetiştirilen tarlalar.",
+        "descriptionAZ": "Şərab istehsalı üçün üzüm becərilən sahələr.",
+        "descriptionUK": "поля, де вирощують виноград для виробництва вина."
     }, {
         "de": "das Tal",
         "en": "valley",
         "ru": "долина",
+        "tr": "vadi",
+        "az": "dərə",
+        "uk": "долина",
+        "descriptionDE": "Ein tiefliegendes Gebiet zwischen Hügeln oder Bergen.",
         "descriptionEN": "A low area between hills or mountains.",
         "descriptionRU": "Низина между холмами или горами.",
-        "descriptionDE": "Ein tiefliegendes Gebiet zwischen Hügeln oder Bergen."
+        "descriptionTR": "Tepeler veya dağlar arasında alçakta kalan alan.",
+        "descriptionAZ": "Təpələr və ya dağlar arasında yerləşən alçaq sahə.",
+        "descriptionUK": "низовина між пагорбами або горами."
     }, {
         "de": "das Gasthaus",
         "en": "inn",
         "ru": "гостевой дом",
+        "tr": "konuk evi",
+        "az": "qonaq evi",
+        "uk": "готель",
+        "descriptionDE": "Ein kleines Hotel oder Gästehaus, oft mit Restaurant.",
         "descriptionEN": "A small hotel or guesthouse, often with a restaurant.",
         "descriptionRU": "Небольшая гостиница или гостевой дом, часто с рестораном.",
-        "descriptionDE": "Ein kleines Hotel oder Gästehaus, oft mit Restaurant."
+        "descriptionTR": "Çoğunlukla restoranı olan küçük otel veya misafirhane.",
+        "descriptionAZ": "Çox vaxt restoranı olan kiçik otel və ya qonaq evi.",
+        "descriptionUK": "невеликий готель або гостьовий будинок, часто з рестораном."
     }, {
         "de": "der Besitzer",
         "en": "owner",
         "ru": "владелец",
+        "tr": "sahip",
+        "az": "sahib",
+        "uk": "власник",
+        "descriptionDE": "Eine Person, die etwas besitzt.",
         "descriptionEN": "A person who owns something.",
         "descriptionRU": "Человек, который чем-то владеет.",
-        "descriptionDE": "Eine Person, die etwas besitzt."
+        "descriptionTR": "Bir şeye sahip olan kişi.",
+        "descriptionAZ": "Bir şeyə sahib olan şəxs.",
+        "descriptionUK": "особа, яка щось має у власності."
     }, {
         "de": "der Hügel",
         "en": "hill",
         "ru": "холм",
+        "tr": "tepe",
+        "az": "təpə",
+        "uk": "пагорб",
+        "descriptionDE": "Eine natürliche Erhebung des Landes, kleiner als ein Berg.",
         "descriptionEN": "A naturally raised area of land, smaller than a mountain.",
         "descriptionRU": "Природное возвышение земли, меньше горы.",
-        "descriptionDE": "Eine natürliche Erhebung des Landes, kleiner als ein Berg."
+        "descriptionTR": "Doğal olarak yükselmiş arazi parçası, dağdan daha küçük.",
+        "descriptionAZ": "Təbii şəkildə yüksəlmiş torpaq sahəsi, dağdan kiçik.",
+        "descriptionUK": "природне підвищення землі, менше за гору."
     }, {
         "de": "das Straßencafé",
         "en": "street café",
         "ru": "уличное кафе",
+        "tr": "sokak kafesi",
+        "az": "küçə kafesi",
+        "uk": "вуличне кафе",
+        "descriptionDE": "Ein Café mit Außensitzplätzen, meist auf einem Gehweg oder Platz.",
         "descriptionEN": "A café with outdoor seating, usually on a sidewalk or square.",
         "descriptionRU": "Кафе с местами на улице, обычно на тротуаре или площади.",
-        "descriptionDE": "Ein Café mit Außensitzplätzen, meist auf einem Gehweg oder Platz."
+        "descriptionTR": "Genellikle kaldırımda ya da meydanda dış oturma alanı bulunan kafe.",
+        "descriptionAZ": "Adətən piyada yolunda və ya meydanda açıq oturma məkanı olan kafe.",
+        "descriptionUK": "кафе з відкритими місцями, зазвичай на тротуарі або площі."
     }, {
         "de": "der Riesling",
         "en": "Riesling",
         "ru": "Рислинг",
+        "tr": "Riesling",
+        "az": "Riesling",
+        "uk": "Рислінг",
+        "descriptionDE": "Eine Weißweinsorte und der daraus hergestellte Wein.",
         "descriptionEN": "A type of white grape and the wine made from it.",
         "descriptionRU": "Сорт белого винограда и вино, произведенное из него.",
-        "descriptionDE": "Eine Weißweinsorte und der daraus hergestellte Wein."
+        "descriptionTR": "Beyaz üzüm çeşidi ve ondan yapılan şarap.",
+        "descriptionAZ": "Ağ üzüm növü və ondan hazırlanan şərab.",
+        "descriptionUK": "вид білого винограду і вино, виготовлене з нього."
     }, {
         "de": "der Abschied",
         "en": "farewell",
         "ru": "прощание",
+        "tr": "veda",
+        "az": "vidalaşma",
+        "uk": "прощання",
+        "descriptionDE": "Der Akt des Abschiednehmens.",
         "descriptionEN": "The act of saying goodbye.",
         "descriptionRU": "Действие прощания.",
-        "descriptionDE": "Der Akt des Abschiednehmens."
+        "descriptionTR": "Elveda deme eylemi.",
+        "descriptionAZ": "Vida etmək hərəkəti.",
+        "descriptionUK": "акт прощання."
     }, {
         "de": "fahren",
         "en": "to ride",
         "ru": "ехать",
+        "tr": "sürmek",
+        "az": "sürmək",
+        "uk": "їхати",
+        "descriptionDE": "Mit einem Fahrzeug, Fahrrad oder Ähnlichem reisen.",
         "descriptionEN": "To travel in or on a vehicle, bicycle, or similar.",
         "descriptionRU": "Передвигаться на транспортном средстве, велосипеде и т. д.",
-        "descriptionDE": "Mit einem Fahrzeug, Fahrrad oder Ähnlichem reisen."
+        "descriptionTR": "Bir araç, bisiklet veya benzeri ile seyahat etmek.",
+        "descriptionAZ": "Nəqliyyat vasitəsi, velosiped və ya oxşar vasitə ilə səyahət etmək.",
+        "descriptionUK": "подорожувати на транспорті, велосипеді чи подібному."
     }, {
         "de": "rollen",
         "en": "to roll",
         "ru": "катиться",
+        "tr": "yuvarlanmak",
+        "az": "fırlanmaq",
+        "uk": "котитися",
+        "descriptionDE": "Sich sanft über eine Oberfläche bewegen, indem man sich überdreht.",
         "descriptionEN": "To move smoothly over a surface by turning over itself.",
         "descriptionRU": "Передвигаться по поверхности, переворачиваясь.",
-        "descriptionDE": "Sich sanft über eine Oberfläche bewegen, indem man sich überdreht."
+        "descriptionTR": "Kendi üzerinde dönerek bir yüzeyde yumuşak hareket etmek.",
+        "descriptionAZ": "Öz ətrafında dönərək səth üzərində hamar hərəkət etmək.",
+        "descriptionUK": "плавно рухатися по поверхні, перевертаючись."
     }, {
         "de": "gleiten",
         "en": "to glide",
         "ru": "скользить",
+        "tr": "kaymak",
+        "az": "sürüşmək",
+        "uk": "ковзати",
+        "descriptionDE": "Sich sanft und mühelos bewegen.",
         "descriptionEN": "To move smoothly and effortlessly.",
         "descriptionRU": "Двигаться плавно и без усилий.",
-        "descriptionDE": "Sich sanft und mühelos bewegen."
+        "descriptionTR": "Yumuşak ve zahmetsizce hareket etmek.",
+        "descriptionAZ": "Yumşaq və asanlıqla hərəkət etmək.",
+        "descriptionUK": "плавно і легко рухатися."
     }, {
         "de": "halten",
         "en": "to stop",
         "ru": "останавливаться",
+        "tr": "durmak",
+        "az": "dayanmaq",
+        "uk": "зупинятися",
+        "descriptionDE": "Die Bewegung beenden oder zum Stillstand kommen.",
         "descriptionEN": "To cease movement or come to a standstill.",
         "descriptionRU": "Прекратить движение или остановиться.",
-        "descriptionDE": "Die Bewegung beenden oder zum Stillstand kommen."
+        "descriptionTR": "Hareketi durdurmak veya durmak.",
+        "descriptionAZ": "Hərəkəti dayandırmaq və ya dayanmaq.",
+        "descriptionUK": "припинити рух або зупинитися."
     }, {
         "de": "schenken",
         "en": "to give (as a gift)",
         "ru": "дарить",
+        "tr": "hediye etmek",
+        "az": "hədiyyə etmək",
+        "uk": "дарувати",
+        "descriptionDE": "Etwas als Geschenk geben.",
         "descriptionEN": "To give something as a present.",
         "descriptionRU": "Подарить что-то.",
-        "descriptionDE": "Etwas als Geschenk geben."
+        "descriptionTR": "Bir şeyi hediye olarak vermek.",
+        "descriptionAZ": "Bir şeyi hədiyyə kimi vermək.",
+        "descriptionUK": "дати щось у подарунок."
     }, {
         "de": "lachen",
         "en": "to laugh",
         "ru": "смеяться",
+        "tr": "gülmek",
+        "az": "gülmək",
+        "uk": "сміятись",
+        "descriptionDE": "Freude oder Vergnügen mit einem Geräusch ausdrücken.",
         "descriptionEN": "To express happiness or amusement with a sound.",
         "descriptionRU": "Выражать радость или веселье с помощью звука.",
-        "descriptionDE": "Freude oder Vergnügen mit einem Geräusch ausdrücken."
+        "descriptionTR": "Sesle mutluluk veya eğlenceyi ifade etmek.",
+        "descriptionAZ": "Səs ilə xoşbəxtlik və ya əyləncəni ifadə etmək.",
+        "descriptionUK": "виражати радість або розвагу звуком."
     }, {
         "de": "reichhaltig",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
+        "descriptionDE": "Etwas in großer Menge habend, üppig.",
         "descriptionEN": "Having a lot of something, abundant.",
         "descriptionRU": "Имеющий в избытке что-то.",
-        "descriptionDE": "Etwas in großer Menge habend, üppig."
+        "descriptionTR": "Bol miktarda bir şeye sahip.",
+        "descriptionAZ": "Çox miqdarda bir şeyə sahib olmaq.",
+        "descriptionUK": "мати багато чогось, достаток."
     }, {
         "de": "warm",
         "en": "warm",
         "ru": "тёплый",
+        "tr": "ılık",
+        "az": "isti",
+        "uk": "теплий",
+        "descriptionDE": "Eine angenehme Wärme habend.",
         "descriptionEN": "Having a moderate heat.",
         "descriptionRU": "Имеющий умеренное тепло.",
-        "descriptionDE": "Eine angenehme Wärme habend."
+        "descriptionTR": "Orta derecede ısıya sahip olmak.",
+        "descriptionAZ": "Orta səviyyədə istilik sahibi olmaq.",
+        "descriptionUK": "мати помірне тепло."
     }, {
         "de": "wackelig",
         "en": "wobbly",
         "ru": "шаткий",
+        "tr": "sallanmış",
+        "az": "sarsılmış",
+        "uk": "нестійкий",
+        "descriptionDE": "Instabil oder nicht fest.",
         "descriptionEN": "Unstable or not firm.",
         "descriptionRU": "Неустойчивый или не прочный.",
-        "descriptionDE": "Instabil oder nicht fest."
+        "descriptionTR": "Dengesiz veya sağlam olmayan.",
+        "descriptionAZ": "Dəyişkən və ya möhkəm olmayan.",
+        "descriptionUK": "нестабільний або не міцний."
     }, {
         "de": "göttlich",
         "en": "divine",
         "ru": "божественный",
+        "tr": "ilahi",
+        "az": "ilahi",
+        "uk": "божественний",
+        "descriptionDE": "Außergewöhnlich gut oder angenehm.",
         "descriptionEN": "Extremely good or pleasant.",
         "descriptionRU": "Очень хороший или приятный.",
-        "descriptionDE": "Außergewöhnlich gut oder angenehm."
+        "descriptionTR": "Son derece iyi veya hoş.",
+        "descriptionAZ": "Çox yaxşı və ya xoş.",
+        "descriptionUK": "надзвичайно хороший або приємний."
     }, {
         "de": "schnell",
         "en": "fast",
         "ru": "быстрый",
+        "tr": "hızlı",
+        "az": "sürətli",
+        "uk": "швидкий",
+        "descriptionDE": "Mit hoher Geschwindigkeit bewegend.",
         "descriptionEN": "Moving at high speed.",
         "descriptionRU": "Двигающийся с высокой скоростью.",
-        "descriptionDE": "Mit hoher Geschwindigkeit bewegend."
+        "descriptionTR": "Yüksek hızda hareket eden.",
+        "descriptionAZ": "Yüksək sürətlə hərəkət edən.",
+        "descriptionUK": "рухається з великою швидкістю."
     }, {
         "de": "langsam",
         "en": "slow",
         "ru": "медленный",
+        "tr": "yavaş",
+        "az": "yavaş",
+        "uk": "повільний",
+        "descriptionDE": "Mit geringer Geschwindigkeit bewegend.",
         "descriptionEN": "Moving with little speed.",
         "descriptionRU": "Двигающийся медленно.",
-        "descriptionDE": "Mit geringer Geschwindigkeit bewegend."
+        "descriptionTR": "Düşük hızla hareket eden.",
+        "descriptionAZ": "Aşağı sürətlə hərəkət edən.",
+        "descriptionUK": "рухається повільно."
     }
 ]

@@ -3,176 +3,326 @@
         "de": "der Bahnhof",
         "en": "train station",
         "ru": "вокзал",
+        "tr": "tren istasyonu",
+        "az": "dəmiryol vağzalı",
+        "uk": "вокзал",
         "descriptionEN": "A place where trains stop for passengers to get on and off.",
         "descriptionRU": "Место, где поезда останавливаются для посадки и высадки пассажиров.",
-        "descriptionDE": "Ein Ort, an dem Züge halten, damit Fahrgäste ein- und aussteigen können."
+        "descriptionDE": "Ein Ort, an dem Züge halten, damit Fahrgäste ein- und aussteigen können.",
+        "descriptionTR": "Trenlerin yolcuların binip inmesi için durduğu yer.",
+        "descriptionAZ": "Qatarların sərnişinlərin minməsi və düşməsi üçün dayandığı yer.",
+        "descriptionUK": "Місце, де зупиняються потяги для посадки та висадки пасажирів."
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "потяг",
         "descriptionEN": "A series of connected vehicles traveling on railways.",
         "descriptionRU": "Ряд соединенных транспортных средств, движущихся по железным дорогам.",
-        "descriptionDE": "Eine Reihe von verbundenen Fahrzeugen, die auf Eisenbahnen fahren."
+        "descriptionDE": "Eine Reihe von verbundenen Fahrzeugen, die auf Eisenbahnen fahren.",
+        "descriptionTR": "Demiryollarında seyahat eden bağlı araçlar serisi.",
+        "descriptionAZ": "Dəmir yollarında hərəkət edən bağlı nəqliyyat vasitələri sırası.",
+        "descriptionUK": "Низка з'єднаних транспортних засобів, що рухаються залізницями."
     }, {
         "de": "die Fähre",
         "en": "ferry",
         "ru": "паром",
+        "tr": "feribot",
+        "az": "bərə",
+        "uk": "пором",
         "descriptionEN": "A boat or ship for conveying passengers and goods, especially over a relatively short distance.",
         "descriptionRU": "Судно для перевозки пассажиров и грузов, особенно на относительно короткие расстояния.",
-        "descriptionDE": "Ein Boot oder Schiff zum Transport von Passagieren und Gütern, besonders über eine relativ kurze Strecke."
+        "descriptionDE": "Ein Boot oder Schiff zum Transport von Passagieren und Gütern, besonders über eine relativ kurze Strecke.",
+        "descriptionTR": "Yolcuları ve malları, özellikle nispeten kısa mesafelerde taşımak için bir tekne veya gemi.",
+        "descriptionAZ": "Sərnişinləri və yükləri, xüsusən nisbətən qısa məsafələrdə daşımaq üçün bir qayıq və ya gəmi.",
+        "descriptionUK": "Судно для перевезення пасажирів та вантажів, особливо на відносно короткі відстані."
     }, {
         "de": "das Fahrrad",
         "en": "bicycle",
         "ru": "велосипед",
+        "tr": "bisiklet",
+        "az": "velosiped",
+        "uk": "велосипед",
         "descriptionEN": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars.",
         "descriptionRU": "Транспортное средство, состоящее из двух колес, соединенных рамой друг за другом, приводимое в движение педалями и управляемое рулем.",
-        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht, die hintereinander in einem Rahmen gehalten werden, durch Pedale angetrieben und mit einem Lenker gesteuert wird."
+        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht, die hintereinander in einem Rahmen gehalten werden, durch Pedale angetrieben und mit einem Lenker gesteuert wird.",
+        "descriptionTR": "Birbiri ardınca bir çerçevede tutulan, pedallarla hareket eden ve gidonla yönlendirilen iki tekerlekli bir araç.",
+        "descriptionAZ": "Bir-birinin ardınca çərçivədə saxlanılan, pedallarla hərəkət edən və sükanla idarə olunan iki təkərli nəqliyyat vasitəsi.",
+        "descriptionUK": "Транспортний засіб, що складається з двох коліс, з'єднаних рамою одне за одним, який приводиться в рух педалями та керується кермом."
     }, {
         "de": "das Boot",
         "en": "boat",
         "ru": "лодка",
+        "tr": "tekne",
+        "az": "qayıq",
+        "uk": "човен",
         "descriptionEN": "A small vessel for traveling over water, typically smaller than a ship.",
         "descriptionRU": "Малое судно для плавания по воде, обычно меньше, чем корабль.",
-        "descriptionDE": "Ein kleines Schiff zum Reisen über Wasser, typischerweise kleiner als ein Schiff."
+        "descriptionDE": "Ein kleines Schiff zum Reisen über Wasser, typischerweise kleiner als ein Schiff.",
+        "descriptionTR": "Genellikle bir gemiden daha küçük, su üzerinde seyahat etmek için küçük bir gemi.",
+        "descriptionAZ": "Adətən gəmidən daha kiçik, su üzərində səyahət etmək üçün kiçik bir gəmi.",
+        "descriptionUK": "Невелике судно для плавання водою, зазвичай менше, ніж корабель."
     }, {
         "de": "die Insel",
         "en": "island",
         "ru": "остров",
+        "tr": "ada",
+        "az": "ada",
+        "uk": "острів",
         "descriptionEN": "A piece of land surrounded by water.",
         "descriptionRU": "Кусок земли, окруженный водой.",
-        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist."
+        "descriptionDE": "Ein Stück Land, das von Wasser umgeben ist.",
+        "descriptionTR": "Suyla çevrili bir kara parçası.",
+        "descriptionAZ": "Su ilə əhatə olunmuş quru parçası.",
+        "descriptionUK": "Шматок землі, оточений водою."
     }, {
         "de": "die Autobahn",
         "en": "highway",
         "ru": "автобан",
+        "tr": "otoyol",
+        "az": "avtomobil yolu",
+        "uk": "автострада",
         "descriptionEN": "A major road designed for fast traffic, with no or few intersections.",
         "descriptionRU": "Основная дорога, предназначенная для быстрого движения транспорта, с минимальным количеством пересечений или без них.",
-        "descriptionDE": "Eine Hauptstraße, die für schnellen Verkehr ausgelegt ist, mit wenigen oder keinen Kreuzungen."
+        "descriptionDE": "Eine Hauptstraße, die für schnellen Verkehr ausgelegt ist, mit wenigen oder keinen Kreuzungen.",
+        "descriptionTR": "Hızlı trafik için tasarlanmış, kavşak olmayan veya çok az olan büyük bir yol.",
+        "descriptionAZ": "Sürətli hərəkət üçün nəzərdə tutulmuş, kəsişmələri olmayan və ya çox az olan əsas yol.",
+        "descriptionUK": "Основна дорога, призначена для швидкого руху транспорту, з мінімальною кількістю перехресть або без них."
     }, {
         "de": "das Motorrad",
         "en": "motorcycle",
         "ru": "мотоцикл",
+        "tr": "motosiklet",
+        "az": "motosiklet",
+        "uk": "мотоцикл",
         "descriptionEN": "A two-wheeled motor vehicle that is powered by an engine.",
         "descriptionRU": "Двухколесное транспортное средство с мотором.",
-        "descriptionDE": "Ein zweirädriges Kraftfahrzeug, das von einem Motor angetrieben wird."
+        "descriptionDE": "Ein zweirädriges Kraftfahrzeug, das von einem Motor angetrieben wird.",
+        "descriptionTR": "Bir motor tarafından çalıştırılan iki tekerlekli motorlu taşıt.",
+        "descriptionAZ": "Mühərrik tərəfindən hərəkətə gətirilən iki təkərli motorlu nəqliyyat vasitəsi.",
+        "descriptionUK": "Двоколісний транспортний засіб із двигуном."
     }, {
         "de": "die Straßenbahn",
         "en": "tram",
         "ru": "трамвай",
+        "tr": "tramvay",
+        "az": "tramvay",
+        "uk": "трамвай",
         "descriptionEN": "A rail vehicle that runs on tracks along public urban streets.",
         "descriptionRU": "Рельсовый транспорт, который движется по путям по городским улицам.",
-        "descriptionDE": "Ein Schienenfahrzeug, das auf Gleisen entlang öffentlicher städtischer Straßen fährt."
+        "descriptionDE": "Ein Schienenfahrzeug, das auf Gleisen entlang öffentlicher städtischer Straßen fährt.",
+        "descriptionTR": "Kamuya açık kentsel sokaklar boyunca raylarda çalışan bir demiryolu aracı.",
+        "descriptionAZ": "İctimai şəhər küçələri boyunca relslərdə hərəkət edən dəmiryolu nəqliyyat vasitəsi.",
+        "descriptionUK": "Рейковий транспорт, який рухається коліями міськими вулицями."
     }, {
         "de": "das Taxi",
         "en": "taxi",
         "ru": "такси",
+        "tr": "taksi",
+        "az": "taksi",
+        "uk": "таксі",
         "descriptionEN": "A car licensed to transport passengers in return for payment of a fare.",
         "descriptionRU": "Автомобиль, лицензированный на перевозку пассажиров за плату.",
-        "descriptionDE": "Ein Auto, das lizenziert ist, um Fahrgäste gegen Bezahlung zu transportieren."
+        "descriptionDE": "Ein Auto, das lizenziert ist, um Fahrgäste gegen Bezahlung zu transportieren.",
+        "descriptionTR": "Ücret karşılığında yolcu taşımak için lisanslı bir araba.",
+        "descriptionAZ": "Ödəniş qarşılığında sərnişin daşımaq üçün lisenziyalı avtomobil.",
+        "descriptionUK": "Автомобіль, ліцензований для перевезення пасажирів за плату."
     }, {
         "de": "der Flughafen",
         "en": "airport",
         "ru": "аэропорт",
+        "tr": "havaalanı",
+        "az": "hava limanı",
+        "uk": "аеропорт",
         "descriptionEN": "A complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft.",
         "descriptionRU": "Комплекс взлетно-посадочных полос и зданий для взлета, посадки и обслуживания гражданских самолетов.",
-        "descriptionDE": "Ein Komplex aus Start- und Landebahnen und Gebäuden für den Start, die Landung und die Wartung von Zivilflugzeugen."
+        "descriptionDE": "Ein Komplex aus Start- und Landebahnen und Gebäuden für den Start, die Landung und die Wartung von Zivilflugzeugen.",
+        "descriptionTR": "Sivil uçakların kalkış, iniş ve bakımı için pistler ve binalardan oluşan bir kompleks.",
+        "descriptionAZ": "Mülki təyyarələrin qalxması, enişi və texniki qulluğu üçün uçuş-eniş zolaqları və binalardan ibarət kompleks.",
+        "descriptionUK": "Комплекс злітно-посадкових смуг і будівель для зльоту, посадки та обслуговування цивільних літаків."
     }, {
         "de": "die Metro",
         "en": "subway",
         "ru": "метро",
+        "tr": "metro",
+        "az": "metro",
+        "uk": "метро",
         "descriptionEN": "An underground railway system in a city.",
         "descriptionRU": "Подземная железнодорожная система в городе.",
-        "descriptionDE": "Ein unterirdisches Eisenbahnsystem in einer Stadt."
+        "descriptionDE": "Ein unterirdisches Eisenbahnsystem in einer Stadt.",
+        "descriptionTR": "Bir şehirdeki yeraltı demiryolu sistemi.",
+        "descriptionAZ": "Şəhərdə yeraltı dəmiryolu sistemi.",
+        "descriptionUK": "Підземна залізнична система у місті."
     }, {
         "de": "fahren",
         "en": "to drive",
         "ru": "ехать",
+        "tr": "sürmek",
+        "az": "sürmək",
+        "uk": "їхати",
         "descriptionEN": "To control the movement of a vehicle.",
         "descriptionRU": "Управлять движением транспортного средства.",
-        "descriptionDE": "Die Bewegung eines Fahrzeugs steuern."
+        "descriptionDE": "Die Bewegung eines Fahrzeugs steuern.",
+        "descriptionTR": "Bir aracın hareketini kontrol etmek.",
+        "descriptionAZ": "Nəqliyyat vasitəsinin hərəkətini idarə etmək.",
+        "descriptionUK": "Керувати рухом транспортного засобу."
     }, {
         "de": "wohnen",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "To have one's home in a particular place.",
         "descriptionRU": "Иметь дом в определенном месте.",
-        "descriptionDE": "Sein Zuhause an einem bestimmten Ort haben."
+        "descriptionDE": "Sein Zuhause an einem bestimmten Ort haben.",
+        "descriptionTR": "Belirli bir yerde evi olmak.",
+        "descriptionAZ": "Müəyyən bir yerdə evi olmaq.",
+        "descriptionUK": "Мати дім у певному місці."
     }, {
         "de": "mieten",
         "en": "to rent",
         "ru": "арендовать",
+        "tr": "kiralamak",
+        "az": "kirayələmək",
+        "uk": "орендувати",
         "descriptionEN": "To pay someone for the use of something, typically property, land, or a car.",
         "descriptionRU": "Платить кому-то за использование чего-то, обычно недвижимости, земли или автомобиля.",
-        "descriptionDE": "Jemanden für die Nutzung von etwas bezahlen, typischerweise Eigentum, Land oder ein Auto."
+        "descriptionDE": "Jemanden für die Nutzung von etwas bezahlen, typischerweise Eigentum, Land oder ein Auto.",
+        "descriptionTR": "Genellikle mülk, arazi veya araba gibi bir şeyi kullanmak için birine ödeme yapmak.",
+        "descriptionAZ": "Adətən əmlak, torpaq və ya avtomobil kimi bir şeydən istifadə etmək üçün birinə ödəniş etmək.",
+        "descriptionUK": "Платити комусь за використання чогось, зазвичай нерухомості, землі чи автомобіля."
     }, {
         "de": "fliegen",
         "en": "to fly",
         "ru": "летать",
+        "tr": "uçmak",
+        "az": "uçmaq",
+        "uk": "літати",
         "descriptionEN": "To move through the air using wings.",
         "descriptionRU": "Двигаться по воздуху, используя крылья.",
-        "descriptionDE": "Sich mit Flügeln durch die Luft bewegen."
+        "descriptionDE": "Sich mit Flügeln durch die Luft bewegen.",
+        "descriptionTR": "Kanatları kullanarak havada hareket etmek.",
+        "descriptionAZ": "Qanadlardan istifadə edərək havada hərəkət etmək.",
+        "descriptionUK": "Рухатися повітрям, використовуючи крила."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "To perceive with the eyes.",
         "descriptionRU": "Воспринимать глазами.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "Сприймати очима."
     }, {
         "de": "reisen",
         "en": "to travel",
         "ru": "путешествовать",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
         "descriptionEN": "To make a journey, typically of some length.",
         "descriptionRU": "Совершать поездку, обычно на некоторое расстояние.",
-        "descriptionDE": "Eine Reise unternehmen, typischerweise von einiger Länge."
+        "descriptionDE": "Eine Reise unternehmen, typischerweise von einiger Länge.",
+        "descriptionTR": "Genellikle bir miktar uzunlukta bir yolculuk yapmak.",
+        "descriptionAZ": "Adətən bir qədər məsafəyə səyahət etmək.",
+        "descriptionUK": "Здійснювати подорож, зазвичай на певну відстань."
     }, {
         "de": "leider",
         "en": "unfortunately",
         "ru": "к сожалению",
+        "tr": "ne yazık ki",
+        "az": "təəssüf ki",
+        "uk": "на жаль",
         "descriptionEN": "It is regrettable or sad to say.",
         "descriptionRU": "Прискорбно или печально говорить.",
-        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen."
+        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen.",
+        "descriptionTR": "Söylemek üzücü veya üzücü.",
+        "descriptionAZ": "Demək təəssüflüdür və ya kədərlidir.",
+        "descriptionUK": "Прикро або сумно говорити."
     }, {
         "de": "viel",
         "en": "a lot",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionEN": "A large amount or number of.",
         "descriptionRU": "Большое количество или число.",
-        "descriptionDE": "Eine große Menge oder Anzahl von."
+        "descriptionDE": "Eine große Menge oder Anzahl von.",
+        "descriptionTR": "Büyük miktarda veya sayıda.",
+        "descriptionAZ": "Böyük miqdarda və ya sayda.",
+        "descriptionUK": "Велика кількість чи число."
     }, {
         "de": "gern",
         "en": "gladly",
         "ru": "охотно",
+        "tr": "memnuniyetle",
+        "az": "məmnuniyyətlə",
+        "uk": "охоче",
         "descriptionEN": "In a willing manner.",
         "descriptionRU": "С готовностью.",
-        "descriptionDE": "In einer willigen Weise."
+        "descriptionDE": "In einer willigen Weise.",
+        "descriptionTR": "İstekli bir şekilde.",
+        "descriptionAZ": "İstəklə.",
+        "descriptionUK": "З готовністю."
     }, {
         "de": "manchmal",
         "en": "sometimes",
         "ru": "иногда",
+        "tr": "bazen",
+        "az": "bəzən",
+        "uk": "іноді",
         "descriptionEN": "Occasionally, rather than all of the time.",
         "descriptionRU": "Время от времени, а не постоянно.",
-        "descriptionDE": "Gelegentlich, anstatt die ganze Zeit."
+        "descriptionDE": "Gelegentlich, anstatt die ganze Zeit.",
+        "descriptionTR": "Arada bir, her zaman değil.",
+        "descriptionAZ": "Arada bir, həmişə deyil.",
+        "descriptionUK": "Час від часу, а не постійно."
     }, {
         "de": "zu Fuß",
         "en": "on foot",
         "ru": "пешком",
+        "tr": "yürüyerek",
+        "az": "piyada",
+        "uk": "пішки",
         "descriptionEN": "Walking rather than traveling by car or other means.",
         "descriptionRU": "Ходить пешком, а не путешествовать на машине или другим способом.",
-        "descriptionDE": "Zu Fuß gehen statt mit dem Auto oder einem anderen Verkehrsmittel zu reisen."
+        "descriptionDE": "Zu Fuß gehen statt mit dem Auto oder einem anderen Verkehrsmittel zu reisen.",
+        "descriptionTR": "Araba veya başka bir araçla seyahat etmek yerine yürümek.",
+        "descriptionAZ": "Avtomobil və ya başqa vasitə ilə səyahət etmək əvəzinə piyada getmək.",
+        "descriptionUK": "Ходити пішки, а не подорожувати машиною чи іншим способом."
     }, {
         "de": "gern",
         "en": "gladly",
         "ru": "охотно",
+        "tr": "memnuniyetle",
+        "az": "məmnuniyyətlə",
+        "uk": "охоче",
         "descriptionEN": "In a willing manner.",
         "descriptionRU": "С готовностью.",
-        "descriptionDE": "In einer willigen Weise."
+        "descriptionDE": "In einer willigen Weise.",
+        "descriptionTR": "İstekli bir şekilde.",
+        "descriptionAZ": "İstəklə.",
+        "descriptionUK": "З готовністю."
     }, {
         "de": "leider",
         "en": "unfortunately",
         "ru": "к сожалению",
+        "tr": "ne yazık ki",
+        "az": "təəssüf ki",
+        "uk": "на жаль",
         "descriptionEN": "It is regrettable or sad to say.",
         "descriptionRU": "Прискорбно или печально говорить.",
-        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen."
+        "descriptionDE": "Es ist bedauerlich oder traurig zu sagen.",
+        "descriptionTR": "Söylemek üzücü veya üzücü.",
+        "descriptionAZ": "Demək təəssüflüdür və ya kədərlidir.",
+        "descriptionUK": "Прикро або сумно говорити."
     }
 ]

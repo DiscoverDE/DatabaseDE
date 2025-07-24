@@ -3,120 +3,222 @@
         "de": "der Sommertag",
         "en": "summer day",
         "ru": "летний день",
+        "tr": "yaz günü",
+        "az": "yaz günü",
+        "uk": "літній день",
         "descriptionEN": "a day in the summer season",
         "descriptionRU": "день в летний сезон",
-        "descriptionDE": "ein Tag in der Sommersaison"
+        "descriptionDE": "ein Tag in der Sommersaison",
+        "descriptionTR": "yaz mevsiminde bir gün",
+        "descriptionAZ": "yaz mövsümündə bir gün",
+        "descriptionUK": "день у літній сезон"
     }, {
         "de": "die Biologin",
         "en": "biologist",
         "ru": "биолог",
+        "tr": "biyolog",
+        "az": "bioloq",
+        "uk": "біолог",
         "descriptionEN": "a scientist who studies living organisms",
         "descriptionRU": "учёный, изучающий живые организмы",
-        "descriptionDE": "ein Wissenschaftler, der lebende Organismen studiert"
+        "descriptionDE": "ein Wissenschaftler, der lebende Organismen studiert",
+        "descriptionTR": "canlı organizmaları inceleyen bir bilim insanı",
+        "descriptionAZ": "canlı orqanizmləri öyrənən bir alim",
+        "descriptionUK": "вчений, що вивчає живі організми"
     }, {
         "de": "die Sozialarbeiterin",
         "en": "social worker",
         "ru": "социальный работник",
+        "tr": "sosyal hizmet uzmanı",
+        "az": "sosial işçi",
+        "uk": "соціальний працівник",
         "descriptionEN": "a professional who helps individuals and families in need",
         "descriptionRU": "профессионал, помогающий людям и семьям в нужде",
-        "descriptionDE": "ein Profi, der Einzelpersonen und Familien in Not hilft"
+        "descriptionDE": "ein Profi, der Einzelpersonen und Familien in Not hilft",
+        "descriptionTR": "ihtiyacı olan bireylere ve ailelere yardım eden bir profesyonel",
+        "descriptionAZ": "ehtiyacı olan şəxslərə və ailələrə kömək edən bir peşəkar",
+        "descriptionUK": "професіонал, який допомагає людям і сім'ям у потребі"
     }, {
         "de": "der Grafikdesigner",
         "en": "graphic designer",
         "ru": "графический дизайнер",
+        "tr": "grafik tasarımcı",
+        "az": "qrafik dizayner",
+        "uk": "графічний дизайнер",
         "descriptionEN": "a person who creates visual concepts using computer software or by hand",
         "descriptionRU": "человек, создающий визуальные концепции с помощью компьютерного программного обеспечения или вручную",
-        "descriptionDE": "eine Person, die visuelle Konzepte mit Computer-Software oder von Hand erstellt"
+        "descriptionDE": "eine Person, die visuelle Konzepte mit Computer-Software oder von Hand erstellt",
+        "descriptionTR": "bilgisayar yazılımı veya elle görsel konseptler oluşturan bir kişi",
+        "descriptionAZ": "kompüter proqramı və ya əl ilə vizual konseptlər yaradan bir şəxs",
+        "descriptionUK": "людина, яка створює візуальні концепції за допомогою комп'ютерного програмного забезпечення або вручну"
     }, {
         "de": "der Weingutbesitzer",
         "en": "winery owner",
         "ru": "владелец винодельни",
+        "tr": "şarap fabrikası sahibi",
+        "az": "şərab zavodu sahibi",
+        "uk": "власник виноробні",
         "descriptionEN": "the owner of a place where wine is produced",
         "descriptionRU": "владелец места производства вина",
-        "descriptionDE": "der Besitzer eines Ortes, an dem Wein hergestellt wird"
+        "descriptionDE": "der Besitzer eines Ortes, an dem Wein hergestellt wird",
+        "descriptionTR": "şarap üretilen bir yerin sahibi",
+        "descriptionAZ": "şərab istehsal olunan bir yerin sahibi",
+        "descriptionUK": "власник місця виробництва вина"
     }, {
         "de": "die Verkostung",
         "en": "tasting",
         "ru": "дегустация",
+        "tr": "tatma",
+        "az": "dadma",
+        "uk": "дегустація",
         "descriptionEN": "the action of tasting something, especially wine or food",
         "descriptionRU": "действие пробования чего-либо, особенно вина или еды",
-        "descriptionDE": "die Handlung des Probierens, insbesondere von Wein oder Essen"
+        "descriptionDE": "die Handlung des Probierens, insbesondere von Wein oder Essen",
+        "descriptionTR": "bir şeyi tatma eylemi, özellikle şarap veya yiyecek",
+        "descriptionAZ": "bir şeyi dadma hərəkəti, xüsusən şərab və ya qida",
+        "descriptionUK": "дія пробування чогось, особливо вина чи їжі"
     }, {
         "de": "der Wasserfall",
         "en": "waterfall",
         "ru": "водопад",
+        "tr": "şelale",
+        "az": "şəlalə",
+        "uk": "водоспад",
         "descriptionEN": "a cascade of water falling from a height",
         "descriptionRU": "каскад воды, падающий с высоты",
-        "descriptionDE": "ein Wasserfall, der von einer Höhe herabfällt"
+        "descriptionDE": "ein Wasserfall, der von einer Höhe herabfällt",
+        "descriptionTR": "bir yükseklikten düşen bir su kademesi",
+        "descriptionAZ": "bir hündürlükdən düşən bir su kaskadı",
+        "descriptionUK": "каскад води, що падає з висоти"
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yiyecek",
+        "az": "qida",
+        "uk": "їжа",
         "descriptionEN": "any nutritious substance that people or animals eat or drink",
         "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют",
-        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken"
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken",
+        "descriptionTR": "insanların veya hayvanların yediği veya içtiği herhangi bir besleyici madde",
+        "descriptionAZ": "insanların və ya heyvanların yediyi və ya içdiyi hər hansı bir qida maddəsi",
+        "descriptionUK": "будь-яка поживна речовина, яку люди чи тварини їдять чи п'ють"
     }, {
         "de": "die Reise",
         "en": "trip",
         "ru": "поездка",
+        "tr": "gezi",
+        "az": "səfər",
+        "uk": "поїздка",
         "descriptionEN": "a journey or excursion, especially for pleasure",
         "descriptionRU": "путешествие или экскурсия, особенно для удовольствия",
-        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen"
+        "descriptionDE": "eine Reise oder Exkursion, insbesondere zum Vergnügen",
+        "descriptionTR": "bir yolculuk veya gezi, özellikle zevk için",
+        "descriptionAZ": "bir səyahət və ya ekskursiya, xüsusilə zövq üçün",
+        "descriptionUK": "подорож чи екскурсія, особливо для задоволення"
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "an alcoholic drink made from fermented grapes",
         "descriptionRU": "алкогольный напиток, изготовленный из брожения винограда",
-        "descriptionDE": "ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird"
+        "descriptionDE": "ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird",
+        "descriptionTR": "fermente üzümlerden yapılan alkollü bir içecek",
+        "descriptionAZ": "qıcqırmış üzümlərdən hazırlanan spirtli içki",
+        "descriptionUK": "алкогольний напій, виготовлений із збродженого винограду"
     }, {
         "de": "probieren",
         "en": "to try",
         "ru": "попробовать",
+        "tr": "denemek",
+        "az": "sınamaq",
+        "uk": "спробувати",
         "descriptionEN": "to taste, sample, or experience something for the first time",
         "descriptionRU": "попробовать, попробовать или испытать что-то впервые",
-        "descriptionDE": "etwas zum ersten Mal probieren, probieren oder erleben"
+        "descriptionDE": "etwas zum ersten Mal probieren, probieren oder erleben",
+        "descriptionTR": "bir şeyi ilk kez tatmak, örneklemek veya deneyimlemek",
+        "descriptionAZ": "bir şeyi ilk dəfə dadmaq, nümunə götürmək və ya təcrübə etmək",
+        "descriptionUK": "спробувати, протестувати чи пережити щось вперше"
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "to travel in or through an unfamiliar area in order to learn about it",
         "descriptionRU": "путешествовать по или через незнакомую местность, чтобы узнать о ней",
-        "descriptionDE": "durch ein unbekanntes Gebiet reisen oder es erkunden, um mehr darüber zu erfahren"
+        "descriptionDE": "durch ein unbekanntes Gebiet reisen oder es erkunden, um mehr darüber zu erfahren",
+        "descriptionTR": "bir şey hakkında bilgi edinmek için tanıdık olmayan bir bölgede seyahat etmek veya gezinmek",
+        "descriptionAZ": "bir şey haqqında məlumat əldə etmək üçün tanımadığınız bir ərazidə səyahət etmək və ya gəzmək",
+        "descriptionUK": "подорожувати по або через незнайому місцевість, щоб дізнатися про неї"
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "ləzzət almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "to take pleasure in something",
         "descriptionRU": "получать удовольствие от чего-то",
-        "descriptionDE": "etwas genießen, Freude daran haben"
+        "descriptionDE": "etwas genießen, Freude daran haben",
+        "descriptionTR": "bir şeyden zevk almak",
+        "descriptionAZ": "bir şeydən ləzzət almaq",
+        "descriptionUK": "отримувати задоволення від чогось"
     }, {
         "de": "individuell",
         "en": "individual",
         "ru": "индивидуальный",
+        "tr": "bireysel",
+        "az": "fərdi",
+        "uk": "індивідуальний",
         "descriptionEN": "relating to a single person or thing, distinct from others",
         "descriptionRU": "относящийся к одному человеку или вещи, отличный от других",
-        "descriptionDE": "bezogen auf eine einzelne Person oder Sache, unterscheidet sich von anderen"
+        "descriptionDE": "bezogen auf eine einzelne Person oder Sache, unterscheidet sich von anderen",
+        "descriptionTR": "tek bir kişi veya şeyle ilgili, diğerlerinden farklı",
+        "descriptionAZ": "tək bir şəxs və ya şeylə bağlı, başqalarından fərqlənən",
+        "descriptionUK": "стосується однієї людини чи речі, відмінної від інших"
     }, {
         "de": "spannend",
         "en": "exciting",
         "ru": "захватывающий",
+        "tr": "heyecan verici",
+        "az": "həyəcanverici",
+        "uk": "захоплюючий",
         "descriptionEN": "causing great enthusiasm or eagerness",
         "descriptionRU": "вызывающий большой энтузиазм или нетерпение",
-        "descriptionDE": "große Begeisterung oder Eifer verursachend"
+        "descriptionDE": "große Begeisterung oder Eifer verursachend",
+        "descriptionTR": "büyük bir coşku veya heves uyandıran",
+        "descriptionAZ": "böyük bir həvəs və ya istək oyadan",
+        "descriptionUK": "викликає великий ентузіазм чи нетерпіння"
     }, {
         "de": "charmante",
         "en": "charming",
         "ru": "очаровательный",
+        "tr": "büyüleyici",
+        "az": "ovsunlayıcı",
+        "uk": "чарівний",
         "descriptionEN": "pleasant or attractive",
         "descriptionRU": "приятный или привлекательный",
-        "descriptionDE": "angenehm oder attraktiv"
+        "descriptionDE": "angenehm oder attraktiv",
+        "descriptionTR": "hoş veya çekici",
+        "descriptionAZ": "xoş və ya cəlbedici",
+        "descriptionUK": "приємний чи привабливий"
     }, {
         "de": "knackig",
         "en": "crisp",
         "ru": "хрустящий",
+        "tr": "gevrek",
+        "az": "xırtıldayan",
+        "uk": "хрусткий",
         "descriptionEN": "firm but easily broken or crumbled",
         "descriptionRU": "плотный, но легко разбивается или крошится",
-        "descriptionDE": "fest, aber leicht zu brechen oder zu zerbröckeln"
+        "descriptionDE": "fest, aber leicht zu brechen oder zu zerbröckeln",
+        "descriptionTR": "sert ama kolayca kırılabilen veya ufalanabilen",
+        "descriptionAZ": "sərt, lakin asanlıqla qırıla bilən və ya ufalanan",
+        "descriptionUK": "щільний, але легко ламається чи кришиться"
     }
 ]

@@ -3,85 +3,157 @@
         "de": "die Schönheit",
         "en": "Beauty",
         "ru": "Красота",
+        "tr": "Güzellik",
+        "az": "Gözəllik",
+        "uk": "Краса",
         "descriptionDE": "Die Qualität, besonders für die Sinne oder den Geist, angenehm zu sein.",
         "descriptionEN": "The quality of being pleasing, especially to the senses or the mind.",
-        "descriptionRU": "Качество, приносящее удовольствие, особенно чувствам или разуму."
+        "descriptionRU": "Качество, приносящее удовольствие, особенно чувствам или разуму.",
+        "descriptionTR": "Özellikle duyulara veya zihne hoş gelen bir nitelik.",
+        "descriptionAZ": "Xüsusilə duyğulara və ya ağıla xoş gələn keyfiyyət.",
+        "descriptionUK": "Якість, що приносить задоволення, особливо почуттям чи розуму."
     }, {
         "de": "der Ausflug",
         "en": "Excursion",
         "ru": "Экскурсия",
+        "tr": "Gezi",
+        "az": "Ekskursiya",
+        "uk": "Екскурсія",
         "descriptionDE": "Eine kurze Reise oder Ausflug, besonders als Freizeitaktivität unternommen.",
         "descriptionEN": "A short journey or trip, especially one engaged in as a leisure activity.",
-        "descriptionRU": "Короткое путешествие или поездка, особенно в качестве досуговой активности."
+        "descriptionRU": "Короткое путешествие или поездка, особенно в качестве досуговой активности.",
+        "descriptionTR": "Özellikle bir boş zaman aktivitesi olarak yapılan kısa bir seyahat veya gezi.",
+        "descriptionAZ": "Xüsusilə əyləncə fəaliyyəti kimi həyata keçirilən qısa səyahət və ya ekskursiya.",
+        "descriptionUK": "Коротка подорож або поїздка, особливо як дозвіллєва активність."
     }, {
         "de": "das Schloss",
         "en": "Castle",
         "ru": "Замок",
+        "tr": "Kale",
+        "az": "Qəsr",
+        "uk": "Замок",
         "descriptionDE": "Ein großes Gebäude, typischerweise aus der mittelalterlichen Zeit, gegen Angriffe mit dicken Mauern befestigt.",
         "descriptionEN": "A large building, typically of the medieval period, fortified against attack with thick walls.",
-        "descriptionRU": "Большое строение, обычно средневекового периода, укрепленное толстыми стенами от нападения."
+        "descriptionRU": "Большое строение, обычно средневекового периода, укрепленное толстыми стенами от нападения.",
+        "descriptionTR": "Genellikle ortaçağ dönemine ait, kalın duvarlarla saldırılara karşı güçlendirilmiş büyük bir bina.",
+        "descriptionAZ": "Adətən orta əsrlər dövrünə aid, qalın divarlarla hücumlardan qorunan böyük bina.",
+        "descriptionUK": "Велика споруда, зазвичай середньовічного періоду, укріплена товстими стінами від нападу."
     }, {
         "de": "die Natur",
         "en": "Nature",
         "ru": "Природа",
+        "tr": "Doğa",
+        "az": "Təbiət",
+        "uk": "Природа",
         "descriptionDE": "Die Erscheinungen der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, Landschaft und anderer Merkmale.",
         "descriptionEN": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features.",
-        "descriptionRU": "Явления физического мира в целом, включая растения, животных, ландшафт и другие особенности."
+        "descriptionRU": "Явления физического мира в целом, включая растения, животных, ландшафт и другие особенности.",
+        "descriptionTR": "Bitkiler, hayvanlar, manzara ve diğer özellikleri içeren fiziksel dünyanın olayları.",
+        "descriptionAZ": "Bitkilər, heyvanlar, mənzərə və digər xüsusiyyətləri əhatə edən fiziki dünyanın hadisələri.",
+        "descriptionUK": "Явища фізичного світу в цілому, включаючи рослини, тварин, ландшафт та інші особливості."
     }, {
         "de": "die Verbindung",
         "en": "Connection",
         "ru": "Связь",
+        "tr": "Bağlantı",
+        "az": "Əlaqə",
+        "uk": "Зв'язок",
         "descriptionDE": "Eine Beziehung, in der eine Person oder Sache mit etwas anderem verbunden oder assoziiert ist.",
         "descriptionEN": "A relationship in which a person or thing is linked or associated with something else.",
-        "descriptionRU": "Отношение, в котором человек или вещь связаны или ассоциируются с чем-то еще."
+        "descriptionRU": "Отношение, в котором человек или вещь связаны или ассоциируются с чем-то еще.",
+        "descriptionTR": "Bir kişinin veya şeyin başka bir şeyle bağlantılı veya ilişkili olduğu bir ilişki.",
+        "descriptionAZ": "Bir şəxsin və ya şeyin başqa bir şeylə bağlı və ya əlaqəli olduğu münasibət.",
+        "descriptionUK": "Відношення, у якому людина чи річ пов’язані чи асоціюються з чимось іншим."
     }, {
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "tr": "Tarih",
+        "az": "Tarix",
+        "uk": "Історія",
         "descriptionDE": "Die Erforschung vergangener Ereignisse, besonders in menschlichen Angelegenheiten.",
         "descriptionEN": "The study of past events, particularly in human affairs.",
-        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах."
+        "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinin incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərinin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
+        "tr": "Mimari",
+        "az": "Memarlıq",
+        "uk": "Архітектура",
         "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
-        "descriptionRU": "Искусство или практика проектирования и строительства зданий."
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
+        "descriptionTR": "Binaları tasarlama ve inşa etme sanatı veya pratiği.",
+        "descriptionAZ": "Binaların dizayn və tikilməsi sənəti və ya təcrübəsi.",
+        "descriptionUK": "Мистецтво чи практика проектування та будівництва будівель."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren",
+        "az": "Reyn",
+        "uk": "Рейн",
         "descriptionDE": "Ein europäischer Fluss, der von den Schweizer Alpen durch Deutschland bis zur Nordsee fließt.",
         "descriptionEN": "A European river flowing from the Swiss Alps through Germany to the North Sea.",
-        "descriptionRU": "Европейская река, текущая из Швейцарских Альп через Германию в Северное море."
+        "descriptionRU": "Европейская река, текущая из Швейцарских Альп через Германию в Северное море.",
+        "descriptionTR": "İsviçre Alplerinden başlayıp Almanya üzerinden Kuzey Denizi'ne akan bir Avrupa nehri.",
+        "descriptionAZ": "İsveçrə Alplarından başlayaraq Almaniya üzərindən Şimal dənizinə axan Avropa çayı.",
+        "descriptionUK": "Європейська річка, яка тече зі Швейцарських Альп через Німеччину до Північного моря."
     }, {
         "de": "planen",
         "en": "Plan",
         "ru": "Планировать",
+        "tr": "Planlamak",
+        "az": "Planlaşdırmaq",
+        "uk": "Планувати",
         "descriptionDE": "Entscheiden und im Voraus arrangieren.",
         "descriptionEN": "To decide on and arrange in advance.",
-        "descriptionRU": "Принимать решение и устраивать заранее."
+        "descriptionRU": "Принимать решение и устраивать заранее.",
+        "descriptionTR": "Önceden karar vermek ve düzenlemek.",
+        "descriptionAZ": "Əvvəlcədən qərar vermək və təşkil etmək.",
+        "descriptionUK": "Приймати рішення та влаштовувати заздалегідь."
     }, {
         "de": "spazieren",
         "en": "Stroll",
         "ru": "Гулять",
+        "tr": "Gezinti",
+        "az": "Gəzinti",
+        "uk": "Прогулюватися",
         "descriptionDE": "Auf eine gemächliche Weise gehen.",
         "descriptionEN": "To walk in a leisurely way.",
-        "descriptionRU": "Прогуливаться спокойным шагом."
+        "descriptionRU": "Прогуливаться спокойным шагом.",
+        "descriptionTR": "Rahat bir şekilde yürümek.",
+        "descriptionAZ": "Rahat şəkildə gəzmək.",
+        "descriptionUK": "Гуляти спокійним кроком."
     }, {
         "de": "lieben",
         "en": "Love",
         "ru": "Любить",
+        "tr": "Sevmek",
+        "az": "Sevmək",
+        "uk": "Любити",
         "descriptionDE": "Eine große Zuneigung oder Vorliebe für etwas haben.",
         "descriptionEN": "To have a great affection or liking for.",
-        "descriptionRU": "Иметь большую привязанность или любовь к чему-то."
+        "descriptionRU": "Иметь большую привязанность или любовь к чему-то.",
+        "descriptionTR": "Bir şeye karşı büyük bir sevgi veya beğeni duymak.",
+        "descriptionAZ": "Bir şeyə qarşı böyük məhəbbət və ya xoşbəxtlik hiss etmək.",
+        "descriptionUK": "Мати велику прихильність чи любов до чогось."
     }, {
         "de": "hoch",
         "en": "High",
         "ru": "Высокий",
+        "tr": "Yüksek",
+        "az": "Yüksək",
+        "uk": "Високий",
         "descriptionDE": "Mit großer vertikaler Ausdehnung.",
         "descriptionEN": "Of great vertical extent.",
-        "descriptionRU": "С большой вертикальной протяженностью."
+        "descriptionRU": "С большой вертикальной протяженностью.",
+        "descriptionTR": "Büyük dikey uzantıya sahip.",
+        "descriptionAZ": "Böyük şaquli uzantıya malikdir.",
+        "descriptionUK": "З великою вертикальною протяжністю."
     }
 ]

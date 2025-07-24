@@ -3,99 +3,183 @@
         "de": "das Lachen",
         "en": "laughter",
         "ru": "смех",
+        "tr": "kahkaha",
+        "az": "gülüş",
+        "uk": "сміх",
         "descriptionDE": "Die Handlung oder der Klang des Lachens.",
         "descriptionEN": "the action or sound of laughing",
-        "descriptionRU": "действие или звук смеха"
+        "descriptionRU": "действие или звук смеха",
+        "descriptionTR": "Gülmenin eylemi veya sesi",
+        "descriptionAZ": "Gülmənin hərəkəti və ya səsi",
+        "descriptionUK": "дія або звук сміху"
     }, {
         "de": "das Mädchen",
         "en": "girl",
         "ru": "девочка",
+        "tr": "kız",
+        "az": "qız",
+        "uk": "дівчинка",
         "descriptionDE": "Ein weibliches Kind.",
         "descriptionEN": "a female child",
-        "descriptionRU": "женский ребенок"
+        "descriptionRU": "женский ребенок",
+        "descriptionTR": "Kız çocuğu",
+        "descriptionAZ": "Qadın uşaq",
+        "descriptionUK": "жіноча дитина"
     }, {
         "de": "der Zoo",
         "en": "zoo",
         "ru": "зоопарк",
+        "tr": "hayvanat bahçesi",
+        "az": "heyvanat bağı",
+        "uk": "зоопарк",
         "descriptionDE": "Ein Park, in dem lebende Tiere ausgestellt sind.",
         "descriptionEN": "a park where live animals are exhibited",
-        "descriptionRU": "парк, где выставляются животные"
+        "descriptionRU": "парк, где выставляются животные",
+        "descriptionTR": "Canlı hayvanların sergilendiği park",
+        "descriptionAZ": "Canlı heyvanların nümayiş olunduğu park",
+        "descriptionUK": "парк, де експонуються живі тварини"
     }, {
         "de": "die Mutter",
         "en": "mother",
         "ru": "мать",
+        "tr": "anne",
+        "az": "ana",
+        "uk": "мати",
         "descriptionDE": "Eine Frau in Beziehung zu ihrem Kind oder ihren Kindern.",
         "descriptionEN": "a woman in relation to her child or children",
-        "descriptionRU": "женщина в отношении к ее ребенку или детям"
+        "descriptionRU": "женщина в отношении к ее ребенку или детям",
+        "descriptionTR": "Çocuğuna və ya çocuklarına bağlı kadın",
+        "descriptionAZ": "Uşağına və ya uşaqlarına aid olan qadın",
+        "descriptionUK": "жінка у відношенні до своєї дитини або дітей"
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "радость",
+        "tr": "neşe",
+        "az": "sevinç",
+        "uk": "радість",
         "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
         "descriptionEN": "a feeling of great pleasure and happiness",
-        "descriptionRU": "чувство большого удовольствия и счастья"
+        "descriptionRU": "чувство большого удовольствия и счастья",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi",
+        "descriptionAZ": "Böyük zövq və xoşbəxtlik hissi",
+        "descriptionUK": "почуття великого задоволення і щастя"
     }, {
         "de": "das Telefon",
         "en": "phone",
         "ru": "телефон",
+        "tr": "telefon",
+        "az": "telefon",
+        "uk": "телефон",
         "descriptionDE": "Ein System zur Umwandlung von Schallvibrationen in elektrische Signale.",
         "descriptionEN": "a system for converting sound vibrations into electrical signals",
-        "descriptionRU": "система преобразования звуковых вибраций в электрические сигналы"
+        "descriptionRU": "система преобразования звуковых вибраций в электрические сигналы",
+        "descriptionTR": "Ses titreşimlerini elektrik sinyallerine dönüştüren sistem",
+        "descriptionAZ": "Səs titrəyişlərini elektrik siqnallarına çevirən sistem",
+        "descriptionUK": "система перетворення звукових коливань у електричні сигнали"
     }, {
         "de": "der Moment",
         "en": "moment",
         "ru": "момент",
+        "tr": "an",
+        "az": "an",
+        "uk": "момент",
         "descriptionDE": "Ein sehr kurzer Zeitraum.",
         "descriptionEN": "a very brief period of time",
-        "descriptionRU": "очень короткий период времени"
+        "descriptionRU": "очень короткий период времени",
+        "descriptionTR": "Çok kısa bir zaman dilimi",
+        "descriptionAZ": "Çox qısa zaman müddəti",
+        "descriptionUK": "дуже короткий проміжок часу"
     }, {
         "de": "der Rucksack",
         "en": "backpack",
         "ru": "рюкзак",
+        "tr": "sırt çantası",
+        "az": "arxa çanta",
+        "uk": "рюкзак",
         "descriptionDE": "Eine Tasche mit Schulterriemen, die es ermöglichen, sie auf dem Rücken zu tragen.",
         "descriptionEN": "a bag with shoulder straps that allow it to be carried on someone's back",
-        "descriptionRU": "сумка с плечевыми ремнями, которые позволяют носить ее на спине"
+        "descriptionRU": "сумка с плечевыми ремнями, которые позволяют носить ее на спине",
+        "descriptionTR": "Taşınmasını sağlayan omuz askılı çanta",
+        "descriptionAZ": "Arxada daşınmağa imkan verən çiyin qayışlı çanta",
+        "descriptionUK": "сумка з плечовими ременями, що дозволяє носити її на спині"
     }, {
         "de": "die Hilfe",
         "en": "help",
         "ru": "помощь",
+        "tr": "yardım",
+        "az": "kömək",
+        "uk": "допомога",
         "descriptionDE": "Die Handlung, jemandem zu helfen.",
         "descriptionEN": "the action of helping someone",
-        "descriptionRU": "действие помощи"
+        "descriptionRU": "действие помощи",
+        "descriptionTR": "Birine yardım etme eylemi",
+        "descriptionAZ": "Kiməsə kömək etmə hərəkəti",
+        "descriptionUK": "дія допомоги комусь"
     }, {
         "de": "verlassen",
         "en": "leave",
         "ru": "покидать",
+        "tr": "ayrılmak",
+        "az": "tərk etmək",
+        "uk": "залишати",
         "descriptionDE": "Sich von etwas entfernen.",
         "descriptionEN": "to go away from",
-        "descriptionRU": "уходить от"
+        "descriptionRU": "уходить от",
+        "descriptionTR": "Bir şeyden uzaklaşmak",
+        "descriptionAZ": "Bir şeydən uzaqlaşmaq",
+        "descriptionUK": "йти геть від"
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionDE": "Ein Ereignis mit Festlichkeiten anerkennen und schätzen.",
         "descriptionEN": "to acknowledge and appreciate an event with festivities",
-        "descriptionRU": "признавать и оценивать событие с празднованием"
+        "descriptionRU": "признавать и оценивать событие с празднованием",
+        "descriptionTR": "Bir etkinliği kutlama ve takdir etme",
+        "descriptionAZ": "Bir hadisəni qeyd etmə və qiymətləndirmə",
+        "descriptionUK": "визнати і оцінити подію святкуванням"
     }, {
         "de": "umgeben",
         "en": "surround",
         "ru": "окружать",
+        "tr": "çevrelemek",
+        "az": "əhatə etmək",
+        "uk": "оточувати",
         "descriptionDE": "Rund um jemanden oder etwas sein.",
         "descriptionEN": "to be all around someone or something",
-        "descriptionRU": "быть вокруг кого-то или чего-то"
+        "descriptionRU": "быть вокруг кого-то или чего-то",
+        "descriptionTR": "Birinin ya da bir şeyin etrafında olmak",
+        "descriptionAZ": "Kimin və ya nəyinsə ətrafında olmaq",
+        "descriptionUK": "бути навколо когось або чогось"
     }, {
         "de": "aufregend",
         "en": "exciting",
         "ru": "захватывающий",
+        "tr": "heyecan verici",
+        "az": "həyəcanlandırıcı",
+        "uk": "захоплюючий",
         "descriptionDE": "Große Begeisterung und Ungeduld verursachend.",
         "descriptionEN": "causing great enthusiasm and eagerness",
-        "descriptionRU": "вызывающий великое восторг и нетерпение"
+        "descriptionRU": "вызывающий великое восторг и нетерпение",
+        "descriptionTR": "Büyük heyecan ve sabırsızlık yaratma",
+        "descriptionAZ": "Böyük həvəs və səbirsizlik yaratmaq",
+        "descriptionUK": "викликаючи велике захоплення і нетерпіння"
     }, {
         "de": "fröhlich",
         "en": "happy",
         "ru": "счастливый",
+        "tr": "mutlu",
+        "az": "xoşbəxt",
+        "uk": "щасливий",
         "descriptionDE": "Das Gefühl oder Zeigen von Freude oder Zufriedenheit.",
         "descriptionEN": "feeling or showing pleasure or contentment",
-        "descriptionRU": "чувство или проявление удовольствия или удовлетворенности"
+        "descriptionRU": "чувство или проявление удовольствия или удовлетворенности",
+        "descriptionTR": "Sevinc veya memnuniyet hissetme veya gösterme",
+        "descriptionAZ": "Zövq və ya razılıq hissi və ya göstərilməsi",
+        "descriptionUK": "почуття або прояв задоволення чи щастя"
     }
 ]

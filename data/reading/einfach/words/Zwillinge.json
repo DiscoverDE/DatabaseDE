@@ -3,113 +3,209 @@
         "de": "die Zwillinge",
         "en": "twins",
         "ru": "близнецы",
+        "tr": "ikizler",
+        "az": "əkizlər",
+        "uk": "близнюки",
         "descriptionEN": "Two offspring born at the same birth.",
         "descriptionRU": "Двое детей, рожденных в одной родовой акте.",
-        "descriptionDE": "Zwei Nachkommen bei einer Geburt."
+        "descriptionDE": "Zwei Nachkommen bei einer Geburt.",
+        "descriptionTR": "Aynı doğumda doğan iki yavru.",
+        "descriptionAZ": "Eyni doğuşda dünyaya gələn iki bala.",
+        "descriptionUK": "Двоє дітей, народжених під час одних пологів."
     }, {
         "de": "der Unterschied",
         "en": "difference",
         "ru": "разница",
+        "tr": "fark",
+        "az": "fərq",
+        "uk": "різниця",
         "descriptionEN": "A point or way in which people or things are not the same.",
         "descriptionRU": "Точка или способ, в котором люди или вещи не одинаковы.",
-        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind."
+        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind.",
+        "descriptionTR": "İnsanların veya şeylerin aynı olmadığı bir nokta veya yol.",
+        "descriptionAZ": "İnsanların və ya şeylərin eyni olmadığı bir nöqtə və ya üsul.",
+        "descriptionUK": "Точка чи спосіб, у якому люди чи речі не є однаковими."
     }, {
         "de": "der Fuß",
         "en": "foot",
         "ru": "нога",
+        "tr": "ayak",
+        "az": "ayaq",
+        "uk": "нога",
         "descriptionEN": "The lower extremity of the leg below the ankle.",
         "descriptionRU": "Нижняя конечность ниже лодыжки.",
-        "descriptionDE": "Das untere Ende des Beins unterhalb des Knöchels."
+        "descriptionDE": "Das untere Ende des Beins unterhalb des Knöchels.",
+        "descriptionTR": "Ayak bileğinin altındaki bacağın alt ucu.",
+        "descriptionAZ": "Topuğun altındaki ayağın aşağı hissəsi.",
+        "descriptionUK": "Нижня кінцівка нижче щиколотки."
     }, {
         "de": "das Muttermal",
         "en": "mole (skin)",
         "ru": "родинка",
+        "tr": "ben (cilt)",
+        "az": "xal (dəri)",
+        "uk": "родимка",
         "descriptionEN": "A small, dark spot or lump on the skin.",
         "descriptionRU": "Маленькое темное пятнышко или шишка на коже.",
-        "descriptionDE": "Ein kleiner dunkler Fleck oder Knoten auf der Haut."
+        "descriptionDE": "Ein kleiner dunkler Fleck oder Knoten auf der Haut.",
+        "descriptionTR": "Ciltte küçük, koyu bir leke veya yumru.",
+        "descriptionAZ": "Dəridə kiçik, tünd ləkə və ya yumru.",
+        "descriptionUK": "Маленька темна пляма або грудка на шкірі."
     }, {
         "de": "der Mathe-Test",
         "en": "math test",
         "ru": "математический тест",
+        "tr": "matematik testi",
+        "az": "riyaziyyat testi",
+        "uk": "математичний тест",
         "descriptionEN": "An assessment of mathematical knowledge or ability.",
         "descriptionRU": "Оценка математических знаний или умений.",
-        "descriptionDE": "Eine Bewertung von mathematischem Wissen oder Fähigkeiten."
+        "descriptionDE": "Eine Bewertung von mathematischem Wissen oder Fähigkeiten.",
+        "descriptionTR": "Matematik bilgisi veya yeteneğinin değerlendirilmesi.",
+        "descriptionAZ": "Riyaziyyat biliklərinin və ya bacarıqlarının qiymətləndirilməsi.",
+        "descriptionUK": "Оцінка математичних знань чи вмінь."
     }, {
         "de": "der Sportunterricht",
         "en": "physical education",
         "ru": "физкультурное занятие",
+        "tr": "beden eğitimi",
+        "az": "bədən tərbiyəsi",
+        "uk": "фізкультура",
         "descriptionEN": "Instruction in physical exercise and games, especially in schools.",
         "descriptionRU": "Обучение физическим упражнениям и играм, особенно в школах.",
-        "descriptionDE": "Unterricht in körperlicher Bewegung und Spielen, insbesondere in Schulen."
+        "descriptionDE": "Unterricht in körperlicher Bewegung und Spielen, insbesondere in Schulen.",
+        "descriptionTR": "Özellikle okullarda fiziksel egzersiz ve oyunlarla ilgili talimat.",
+        "descriptionAZ": "Xüsusilə məktəblərdə fiziki məşq və oyunlarla bağlı təlimat.",
+        "descriptionUK": "Навчання фізичним вправам та іграм, особливо в школах."
     }, {
         "de": "der Meile",
         "en": "mile",
         "ru": "миля",
+        "tr": "mil",
+        "az": "mil",
+        "uk": "миля",
         "descriptionEN": "A unit of distance equal to 5,280 feet or 1,760 yards.",
         "descriptionRU": "Единица измерения расстояния, равная 5280 футам или 1760 ярдам.",
-        "descriptionDE": "Eine Maßeinheit für die Entfernung, die 5280 Fuß oder 1760 Yards entspricht."
+        "descriptionDE": "Eine Maßeinheit für die Entfernung, die 5280 Fuß oder 1760 Yards entspricht.",
+        "descriptionTR": "5280 fit veya 1760 yarda eşit olan bir mesafe birimi.",
+        "descriptionAZ": "5280 fut və ya 1760 yarda bərabər olan məsafə vahidi.",
+        "descriptionUK": "Одиниця вимірювання відстані, що дорівнює 5280 футам або 1760 ярдам."
     }, {
         "de": "der Unterschied",
         "en": "difference",
         "ru": "разница",
+        "tr": "fark",
+        "az": "fərq",
+        "uk": "різниця",
         "descriptionEN": "A point or way in which people or things are not the same.",
         "descriptionRU": "Точка или способ, в котором люди или вещи не одинаковы.",
-        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind."
+        "descriptionDE": "Ein Punkt oder eine Art und Weise, in der Menschen oder Dinge nicht gleich sind.",
+        "descriptionTR": "İnsanların veya şeylerin aynı olmadığı bir nokta veya yol.",
+        "descriptionAZ": "İnsanların və ya şeylərin eyni olmadığı bir nöqtə və ya üsul.",
+        "descriptionUK": "Точка чи спосіб, у якому люди чи речі не є однаковими."
     }, {
         "de": "die Feindin",
         "en": "enemy (female)",
         "ru": "врагиня",
+        "tr": "düşman (kadın)",
+        "az": "düşmən (qadın)",
+        "uk": "ворожнеча (жіноча)",
         "descriptionEN": "A person who is actively opposed or hostile to someone or something.",
         "descriptionRU": "Человек, который активно противопоставляется или враждебен кому-то или чему-то.",
-        "descriptionDE": "Eine Person, die aktiv jemandem oder etwas entgegensteht oder feindlich gesinnt ist."
+        "descriptionDE": "Eine Person, die aktiv jemandem oder etwas entgegensteht oder feindlich gesinnt ist.",
+        "descriptionTR": "Birine veya bir şeye aktif olarak karşı çıkan veya düşman olan bir kişi.",
+        "descriptionAZ": "Birinə və ya bir şeyə aktiv şəkildə qarşı çıxan və ya düşmən olan bir şəxs.",
+        "descriptionUK": "Людина, яка активно протиставляється або ворожа комусь або чомусь."
     }, {
         "de": "der Lehrer",
         "en": "teacher",
         "ru": "учитель",
+        "tr": "öğretmen",
+        "az": "müəllim",
+        "uk": "вчитель",
         "descriptionEN": "A person who teaches, especially in a school.",
         "descriptionRU": "Человек, который преподает, особенно в школе.",
-        "descriptionDE": "Eine Person, die unterrichtet, besonders in einer Schule."
+        "descriptionDE": "Eine Person, die unterrichtet, besonders in einer Schule.",
+        "descriptionTR": "Özellikle bir okulda öğreten bir kişi.",
+        "descriptionAZ": "Xüsusilə məktəbdə dərs deyən bir şəxs.",
+        "descriptionUK": "Людина, яка викладає, особливо в школі."
     }, {
         "de": "die Schule",
         "en": "school",
         "ru": "школа",
+        "tr": "okul",
+        "az": "məktəb",
+        "uk": "школа",
         "descriptionEN": "An institution for educating children.",
         "descriptionRU": "Учебное заведение для обучения детей.",
-        "descriptionDE": "Eine Einrichtung zur Bildung von Kindern."
+        "descriptionDE": "Eine Einrichtung zur Bildung von Kindern.",
+        "descriptionTR": "Çocukları eğitmek için bir kurum.",
+        "descriptionAZ": "Uşaqları təhsil üçün bir qurum.",
+        "descriptionUK": "Навчальний заклад для навчання дітей."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "descriptionTR": "Gerçekler veya olaylarla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki əlaqə və müşahidə.",
+        "descriptionUK": "Практичний контакт і спостереження фактів чи подій."
     }, {
         "de": "verkleiden",
         "en": "to disguise",
         "ru": "маскировать",
+        "tr": "kılık değiştirmek",
+        "az": "gizlətmək",
+        "uk": "маскувати",
         "descriptionEN": "To change the appearance or guise of someone or something.",
         "descriptionRU": "Изменить внешний вид или облик кого-то или чего-то.",
-        "descriptionDE": "Das Aussehen oder die Verkleidung von jemandem oder etwas zu ändern."
+        "descriptionDE": "Das Aussehen oder die Verkleidung von jemandem oder etwas zu ändern.",
+        "descriptionTR": "Birinin veya bir şeyin görünüşünü veya kılığını değiştirmek.",
+        "descriptionAZ": "Kiminsə və ya nəyinsə görünüşünü və ya görkəmini dəyişdirmək.",
+        "descriptionUK": "Змінити зовнішній вигляд чи образ когось або чогось."
     }, {
         "de": "auseinanderhalten",
         "en": "to tell apart",
         "ru": "различать",
+        "tr": "ayırt etmek",
+        "az": "fərqləndirmək",
+        "uk": "розрізняти",
         "descriptionEN": "To distinguish or recognize differences between things or people.",
         "descriptionRU": "Отличать или распознавать различия между вещами или людьми.",
-        "descriptionDE": "Unterschiede zwischen Dingen oder Menschen erkennen oder unterscheiden."
+        "descriptionDE": "Unterschiede zwischen Dingen oder Menschen erkennen oder unterscheiden.",
+        "descriptionTR": "Şeyler veya insanlar arasındaki farkları ayırt etmek veya tanımak.",
+        "descriptionAZ": "Şeylər və ya insanlar arasındakı fərqləri ayırd etmək və ya tanımaq.",
+        "descriptionUK": "Відрізняти або розпізнавати відмінності між речами чи людьми."
     }, {
         "de": "verzweifelt",
         "en": "desperate",
         "ru": "отчаянный",
+        "tr": "umutsuz",
+        "az": "ümidsiz",
+        "uk": "відчайдушний",
         "descriptionEN": "Feeling or showing a hopeless sense that a situation is so bad as to be impossible to deal with.",
         "descriptionRU": "Чувство или выражение безысходности, когда ситуация настолько плоха, что ее невозможно решить.",
-        "descriptionDE": "Das Gefühl oder der Ausdruck einer hoffnungslosen Situation, die so schlecht ist, dass sie nicht zu bewältigen ist."
+        "descriptionDE": "Das Gefühl oder der Ausdruck einer hoffnungslosen Situation, die so schlecht ist, dass sie nicht zu bewältigen ist.",
+        "descriptionTR": "Bir durumun o kadar kötü olduğunu hissetmek veya göstermek ki, başa çıkılamaz.",
+        "descriptionAZ": "Bir vəziyyətin o qədər pis olduğunu hiss etmək və ya göstərmək ki, onunla başa çıxmaq mümkün deyil.",
+        "descriptionUK": "Відчуття чи вираз безнадії, коли ситуація настільки погана, що її неможливо вирішити."
     }, {
         "de": "traurig",
         "en": "sad",
         "ru": "грустный",
+        "tr": "üzgün",
+        "az": "kədərli",
+        "uk": "сумний",
         "descriptionEN": "Feeling sorrow or unhappiness.",
         "descriptionRU": "Чувство горя или несчастья.",
-        "descriptionDE": "Das Gefühl von Trauer oder Unglücklichsein."
+        "descriptionDE": "Das Gefühl von Trauer oder Unglücklichsein.",
+        "descriptionTR": "Keder veya mutsuzluk hissetmek.",
+        "descriptionAZ": "Kədər və ya bədbəxtlik hiss etmək.",
+        "descriptionUK": "Почуття горя чи нещастя."
     }
 ]

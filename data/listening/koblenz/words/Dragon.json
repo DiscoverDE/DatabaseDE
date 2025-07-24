@@ -3,57 +3,105 @@
         "de": "der Drache",
         "en": "the dragon",
         "ru": "дракон",
+        "tr": "ejderha",
+        "az": "əjdaha",
+        "uk": "дракон",
         "descriptionEN": "A mythical creature often depicted as large, serpent-like, and capable of flight.",
         "descriptionRU": "Мифическое существо, часто изображаемое как большое, змееобразное и способное к полету.",
-        "descriptionDE": "Ein mythisches Wesen, das oft als groß, schlangenartig und flugfähig dargestellt wird."
+        "descriptionDE": "Ein mythisches Wesen, das oft als groß, schlangenartig und flugfähig dargestellt wird.",
+        "descriptionTR": "Genellikle büyük, yılan benzeri ve uçabilen mitolojik bir yaratık.",
+        "descriptionAZ": "Adətən böyük, ilana bənzər və uça bilən mifik varlıq.",
+        "descriptionUK": "Міфічна істота, яку часто зображують як велику, схожу на змію та здатну літати."
     }, {
         "de": "der Ritter",
         "en": "the knight",
         "ru": "рыцарь",
+        "tr": "şövalye",
+        "az": "cəngavər",
+        "uk": "лицар",
         "descriptionEN": "A medieval soldier who typically served a lord in exchange for land or protection.",
         "descriptionRU": "Средневековый солдат, который обычно служил лорду в обмен на землю или защиту.",
-        "descriptionDE": "Ein mittelalterlicher Soldat, der typischerweise einem Herrn im Austausch für Land oder Schutz diente."
+        "descriptionDE": "Ein mittelalterlicher Soldat, der typischerweise einem Herrn im Austausch für Land oder Schutz diente.",
+        "descriptionTR": "Toprak veya koruma karşılığında bir lordu hizmet eden ortaçağ askeri.",
+        "descriptionAZ": "Torpaq və ya qorunma qarşılığında bir lord xidmət edən orta əsrlər əsgəri.",
+        "descriptionUK": "Середньовічний солдат, який зазвичай служив лорду в обмін на землю чи захист."
     }, {
         "de": "das Denkmal",
         "en": "the memorial",
         "ru": "памятник",
+        "tr": "anıt",
+        "az": "abidə",
+        "uk": "меморіал",
         "descriptionEN": "A structure established to commemorate a person or event.",
         "descriptionRU": "Структура, установленная в память о человеке или событии.",
-        "descriptionDE": "Eine Struktur, die errichtet wurde, um eine Person oder ein Ereignis zu gedenken."
+        "descriptionDE": "Eine Struktur, die errichtet wurde, um eine Person oder ein Ereignis zu gedenken.",
+        "descriptionTR": "Bir kişiyi veya olayı anmak için kurulan yapı.",
+        "descriptionAZ": "Bir şəxsi və ya hadisəni xatırlamaq üçün qurulan quruluş.",
+        "descriptionUK": "Споруда, створена для вшанування людини чи події."
     }, {
         "de": "der Kampf",
         "en": "the fight",
         "ru": "бой",
+        "tr": "dövüş",
+        "az": "döyüş",
+        "uk": "бій",
         "descriptionEN": "A violent confrontation between two or more parties.",
         "descriptionRU": "Насильственное столкновение между двумя или более сторонами.",
-        "descriptionDE": "Eine gewaltsame Konfrontation zwischen zwei oder mehr Parteien."
+        "descriptionDE": "Eine gewaltsame Konfrontation zwischen zwei oder mehr Parteien.",
+        "descriptionTR": "İki veya daha fazla taraf arasındaki şiddetli çatışma.",
+        "descriptionAZ": "İki və ya daha çox tərəf arasında zorakı qarşıdurma.",
+        "descriptionUK": "Насильницьке зіткнення між двома чи більше сторонами."
     }, {
         "de": "kommen",
         "en": "to come",
         "ru": "приходить",
+        "tr": "gelmek",
+        "az": "gəlmək",
+        "uk": "приходити",
         "descriptionEN": "To move or travel toward a place.",
         "descriptionRU": "Перемещаться или путешествовать к месту.",
-        "descriptionDE": "Sich bewegen oder reisen zu einem Ort."
+        "descriptionDE": "Sich bewegen oder reisen zu einem Ort.",
+        "descriptionTR": "Bir yere doğru hareket etmek veya seyahat etmek.",
+        "descriptionAZ": "Bir yerə doğru hərəkət etmək və ya səyahət etmək.",
+        "descriptionUK": "Переміщатися чи подорожувати до місця."
     }, {
         "de": "besiegen",
         "en": "to defeat",
         "ru": "побеждать",
+        "tr": "yenmek",
+        "az": "məğlub etmək",
+        "uk": "перемагати",
         "descriptionEN": "To overcome in a contest or conflict.",
         "descriptionRU": "Превосходить в соревновании или конфликте.",
-        "descriptionDE": "In einem Wettbewerb oder Konflikt überwinden."
+        "descriptionDE": "In einem Wettbewerb oder Konflikt überwinden.",
+        "descriptionTR": "Bir yarışma veya çatışmada üstesinden gelmek.",
+        "descriptionAZ": "Yarışda və ya münaqişədə üstün gəlmək.",
+        "descriptionUK": "Подолати у змаганні чи конфлікті."
     }, {
         "de": "errichten",
         "en": "to erect",
         "ru": "устанавливать",
+        "tr": "dikmek",
+        "az": "qurmaq",
+        "uk": "встановлювати",
         "descriptionEN": "To construct or set up something.",
         "descriptionRU": "Строить или устанавливать что-либо.",
-        "descriptionDE": "Etwas bauen oder aufstellen."
+        "descriptionDE": "Etwas bauen oder aufstellen.",
+        "descriptionTR": "Bir şey inşa etmek veya kurmak.",
+        "descriptionAZ": "Bir şey tikmək və ya qurmaq.",
+        "descriptionUK": "Щось будувати чи встановлювати."
     }, {
         "de": "mutig",
         "en": "brave",
         "ru": "смелый",
+        "tr": "cesur",
+        "az": "cəsur",
+        "uk": "сміливий",
         "descriptionEN": "Having or showing courage.",
         "descriptionRU": "Имеющий или проявляющий смелость.",
-        "descriptionDE": "Mutig oder tapfer sein."
+        "descriptionDE": "Mutig oder tapfer sein.",
+        "descriptionTR": "Cesaret sahibi olmak veya göstermek.",
+        "descriptionAZ": "Cəsarətli olmaq və ya göstərmək.",
+        "descriptionUK": "Маючи чи виявляючи мужність."
     }
 ]

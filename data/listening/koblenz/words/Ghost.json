@@ -3,50 +3,92 @@
         "de": "der Geist",
         "en": "the spirit",
         "ru": "дух",
+        "tr": "ruh",
+        "az": "ruh",
+        "uk": "дух",
         "descriptionEN": "The non-physical part of a person, often considered immortal.",
         "descriptionRU": "Неплотная часть человека, часто рассматриваемая как бессмертная.",
-        "descriptionDE": "Der nicht körperliche Teil einer Person, der oft als unsterblich angesehen wird."
+        "descriptionDE": "Der nicht körperliche Teil einer Person, der oft als unsterblich angesehen wird.",
+        "descriptionTR": "Bir kişinin fiziksel olmayan parçası, genellikle ölümsüz kabul edilir.",
+        "descriptionAZ": "Bir insanın fiziki olmayan hissəsi, çox vaxt ölməz hesab olunur.",
+        "descriptionUK": "Нефізична частина людини, яку часто вважають безсмертною."
     }, {
         "de": "die Lady",
         "en": "the lady",
         "ru": "дама",
+        "tr": "leydi",
+        "az": "xanım",
+        "uk": "леді",
         "descriptionEN": "A polite or formal way to refer to a woman.",
         "descriptionRU": "Вежливый или формальный способ обратиться к женщине.",
-        "descriptionDE": "Eine höfliche oder formelle Bezeichnung für eine Frau."
+        "descriptionDE": "Eine höfliche oder formelle Bezeichnung für eine Frau.",
+        "descriptionTR": "Bir kadına hitap etmenin kibar veya resmi yolu.",
+        "descriptionAZ": "Bir qadına müraciət etməyin nəzakətli və ya rəsmi yolu.",
+        "descriptionUK": "Ввічливий або формальний спосіб звернення до жінки."
     }, {
         "de": "erschein",
         "en": "to appear",
         "ru": "появляться",
+        "tr": "görünmek",
+        "az": "görünmək",
+        "uk": "з'являтися",
         "descriptionEN": "To come into sight or become visible.",
         "descriptionRU": "Появляться в поле зрения или становиться видимым.",
-        "descriptionDE": "In Sicht kommen oder sichtbar werden."
+        "descriptionDE": "In Sicht kommen oder sichtbar werden.",
+        "descriptionTR": "Görünür hale gelmek veya ortaya çıkmak.",
+        "descriptionAZ": "Görünən hala gəlmək və ya peyda olmaq.",
+        "descriptionUK": "З'являтися в полі зору або ставати видимим."
     }, {
         "de": "wandern",
         "en": "to wander",
         "ru": "блуждать",
+        "tr": "dolaşmak",
+        "az": "gəzmək",
+        "uk": "блукати",
         "descriptionEN": "To move about without a fixed course.",
         "descriptionRU": "Перемещаться без определенного направления.",
-        "descriptionDE": "Sich ohne festgelegten Kurs bewegen."
+        "descriptionDE": "Sich ohne festgelegten Kurs bewegen.",
+        "descriptionTR": "Sabit bir rota olmadan hareket etmek.",
+        "descriptionAZ": "Müəyyən bir istiqamət olmadan hərəkət etmək.",
+        "descriptionUK": "Пересуватися без певного напрямку."
     }, {
         "de": "erfahren",
         "en": "to experience",
         "ru": "узнавать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "дізнаватися",
         "descriptionEN": "To come to know or learn something through direct observation or participation.",
         "descriptionRU": "Узнавать или учиться чему-либо через непосредственное наблюдение или участие.",
-        "descriptionDE": "Etwas durch direkte Beobachtung oder Teilnahme kennenlernen oder lernen."
+        "descriptionDE": "Etwas durch direkte Beobachtung oder Teilnahme kennenlernen oder lernen.",
+        "descriptionTR": "Doğrudan gözlem veya katılım yoluyla bir şeyi öğrenmek veya bilmek.",
+        "descriptionAZ": "Bir şeyi birbaşa müşahidə və ya iştirak yolu ilə öyrənmək.",
+        "descriptionUK": "Дізнаватися чи вчити щось через безпосереднє спостереження чи участь."
     }, {
         "de": "erwidern",
         "en": "to respond",
         "ru": "отвечать",
+        "tr": "yanıt vermek",
+        "az": "cavab vermək",
+        "uk": "відповідати",
         "descriptionEN": "To say something in return.",
         "descriptionRU": "Сказать что-то в ответ.",
-        "descriptionDE": "Etwas als Antwort sagen."
+        "descriptionDE": "Etwas als Antwort sagen.",
+        "descriptionTR": "Karşılık olarak bir şey söylemek.",
+        "descriptionAZ": "Cavab olaraq bir şey demək.",
+        "descriptionUK": "Сказати щось у відповідь."
     }, {
         "de": "rein",
         "en": "pure",
         "ru": "чистый",
+        "tr": "saf",
+        "az": "təmiz",
+        "uk": "чистий",
         "descriptionEN": "Not mixed or contaminated; free from moral fault.",
         "descriptionRU": "Не смешанный или загрязненный; свободный от моральной вины.",
-        "descriptionDE": "Nicht gemischt oder verunreinigt; frei von moralischer Schuld."
+        "descriptionDE": "Nicht gemischt oder verunreinigt; frei von moralischer Schuld.",
+        "descriptionTR": "Karışmamış veya kirletilmemiş; ahlaki hatadan uzak.",
+        "descriptionAZ": "Qarışıq və ya çirklənməmiş; əxlaqi günahdan azad.",
+        "descriptionUK": "Не змішаний чи забруднений; вільний від моральної провини."
     }
 ]

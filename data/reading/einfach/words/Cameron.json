@@ -3,92 +3,170 @@
         "de": "der Job",
         "en": "job",
         "ru": "работа",
+        "tr": "iş",
+        "az": "iş",
+        "uk": "робота",
         "descriptionEN": "a paid position of regular employment",
         "descriptionRU": "оплачиваемая должность постоянной занятости",
-        "descriptionDE": "eine bezahlte Stelle in regelmäßiger Beschäftigung"
+        "descriptionDE": "eine bezahlte Stelle in regelmäßiger Beschäftigung",
+        "descriptionTR": "düzenli istihdamda ücretli bir pozisyon",
+        "descriptionAZ": "müntəzəm işəgötürmədə ödənişli vəzifə",
+        "descriptionUK": "оплачувана посада постійної зайнятості"
     }, {
         "de": "die Schwester",
         "en": "sister",
         "ru": "сестра",
+        "tr": "kız kardeş",
+        "az": "bacı",
+        "uk": "сестра",
         "descriptionEN": "a female sibling",
         "descriptionRU": "женский родственник",
-        "descriptionDE": "eine weibliche Geschwister"
+        "descriptionDE": "eine weibliche Geschwister",
+        "descriptionTR": "bir kız kardeş",
+        "descriptionAZ": "bir qadın qohum",
+        "descriptionUK": "жіночий родич"
     }, {
         "de": "das Auto",
         "en": "car",
         "ru": "автомобиль",
+        "tr": "araba",
+        "az": "avtomobil",
+        "uk": "автомобіль",
         "descriptionEN": "a road vehicle, typically with four wheels, powered by an internal combustion engine",
         "descriptionRU": "транспортное средство, обычно с четырьмя колесами, с двигателем внутреннего сгорания",
-        "descriptionDE": "ein Straßenfahrzeug, typischerweise mit vier Rädern, das von einem Verbrennungsmotor angetrieben wird"
+        "descriptionDE": "ein Straßenfahrzeug, typischerweise mit vier Rädern, das von einem Verbrennungsmotor angetrieben wird",
+        "descriptionTR": "genellikle dört tekerlekli, içten yanmalı motorla çalışan bir kara taşıtı",
+        "descriptionAZ": "adətən dörd təkərli, daxili yanma mühərriki ilə işləyən bir quru nəqliyyat vasitəsi",
+        "descriptionUK": "транспортний засіб, зазвичай з чотирма колесами, з двигуном внутрішнього згоряння"
     }, {
         "de": "das Semester",
         "en": "semester",
         "ru": "семестр",
+        "tr": "dönem",
+        "az": "semestr",
+        "uk": "семестр",
         "descriptionEN": "a period of six months, typically referring to an academic term",
         "descriptionRU": "период в шесть месяцев, обычно относящийся к учебному семестру",
-        "descriptionDE": "ein Zeitraum von sechs Monaten, der in der Regel auf ein akademisches Semester verweist"
+        "descriptionDE": "ein Zeitraum von sechs Monaten, der in der Regel auf ein akademisches Semester verweist",
+        "descriptionTR": "genellikle bir akademik döneme atıfta bulunan altı aylık bir dönem",
+        "descriptionAZ": "adətən akademik dövrə istinad edən altı aylıq bir dövr",
+        "descriptionUK": "період у шість місяців, який зазвичай відноситься до навчального семестру"
     }, {
         "de": "das Familienessen",
         "en": "family dinner",
         "ru": "семейный обед",
+        "tr": "aile yemeği",
+        "az": "ailə yeməyi",
+        "uk": "сімейна вечеря",
         "descriptionEN": "a meal eaten together by members of a family",
         "descriptionRU": "еда, которую семья употребляет вместе",
-        "descriptionDE": "eine Mahlzeit, die von Mitgliedern einer Familie gemeinsam eingenommen wird"
+        "descriptionDE": "eine Mahlzeit, die von Mitgliedern einer Familie gemeinsam eingenommen wird",
+        "descriptionTR": "bir ailenin üyeleri tarafından birlikte yenilen bir yemek",
+        "descriptionAZ": "bir ailənin üzvləri tərəfindən birlikdə yeyilən bir yemək",
+        "descriptionUK": "їжа, яку родина споживає разом"
     }, {
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "tr": "hafta sonu",
+        "az": "həftə sonu",
+        "uk": "вихідні",
         "descriptionEN": "the period from Friday evening through Sunday evening",
         "descriptionRU": "период с пятницы вечером до воскресенья вечером",
-        "descriptionDE": "die Zeit von Freitagabend bis Sonntagabend"
+        "descriptionDE": "die Zeit von Freitagabend bis Sonntagabend",
+        "descriptionTR": "Cuma akşamından Pazar akşamına kadar olan dönem",
+        "descriptionAZ": "Cümə axşamından Bazar axşamına qədər olan dövr",
+        "descriptionUK": "період з п’ятниці вечора до неділі вечора"
     }, {
         "de": "schreiben",
         "en": "to write",
         "ru": "писать",
+        "tr": "yazmak",
+        "az": "yazmaq",
+        "uk": "писати",
         "descriptionEN": "to compose text with a pen or other instrument",
         "descriptionRU": "составлять текст пером или другим инструментом",
-        "descriptionDE": "Text mit einem Stift oder einem anderen Instrument verfassen"
+        "descriptionDE": "Text mit einem Stift oder einem anderen Instrument verfassen",
+        "descriptionTR": "bir kalem veya başka bir aletle metin oluşturmak",
+        "descriptionAZ": "bir qələm və ya başqa bir alətlə mətn yazmaq",
+        "descriptionUK": "складати текст пером або іншим інструментом"
     }, {
         "de": "wohnen",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "to reside in a particular place",
         "descriptionRU": "проживать в определенном месте",
-        "descriptionDE": "an einem bestimmten Ort wohnen"
+        "descriptionDE": "an einem bestimmten Ort wohnen",
+        "descriptionTR": "belirli bir yerde ikamet etmek",
+        "descriptionAZ": "müəyyən bir yerdə yaşamaq",
+        "descriptionUK": "проживати у певному місці"
     }, {
         "de": "bekommen",
         "en": "to receive",
         "ru": "получать",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
         "descriptionEN": "to be given, presented with, or paid",
         "descriptionRU": "получать, предоставлять или оплачивать",
-        "descriptionDE": "gegeben, präsentiert oder bezahlt werden"
+        "descriptionDE": "gegeben, präsentiert oder bezahlt werden",
+        "descriptionTR": "verilmek, sunulmak veya ödenmek",
+        "descriptionAZ": "verilmək, təqdim edilmək və ya ödənilmək",
+        "descriptionUK": "отримувати, надавати або оплачувати"
     }, {
         "de": "vermissen",
         "en": "to miss",
         "ru": "скучать",
+        "tr": "özlemek",
+        "az": "darıxmaq",
+        "uk": "сумувати",
         "descriptionEN": "to feel a longing or regret for someone or something",
         "descriptionRU": "чувствовать тоску или сожаление по поводу кого-то или чего-то",
-        "descriptionDE": "ein Verlangen oder Bedauern für jemanden oder etwas empfinden"
+        "descriptionDE": "ein Verlangen oder Bedauern für jemanden oder etwas empfinden",
+        "descriptionTR": "birisine veya bir şeye karşı özlem veya pişmanlık hissetmek",
+        "descriptionAZ": "kiməsə və ya nəyəsə həsrət və ya peşmanlıq hiss etmək",
+        "descriptionUK": "відчувати тугу чи жаль за кимось або чимось"
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "to take pleasure or satisfaction in",
         "descriptionRU": "испытывать удовольствие или удовлетворение",
-        "descriptionDE": "Vergnügen oder Zufriedenheit empfinden"
+        "descriptionDE": "Vergnügen oder Zufriedenheit empfinden",
+        "descriptionTR": "zevk veya tatmin almak",
+        "descriptionAZ": "zövq və ya məmnuniyyət almaq",
+        "descriptionUK": "отримувати задоволення чи задоволення"
     }, {
         "de": "gut",
         "en": "good",
         "ru": "хороший",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добрий",
         "descriptionEN": "of high quality or standard",
         "descriptionRU": "высокого качества или стандарта",
-        "descriptionDE": "von hoher Qualität oder Standard"
+        "descriptionDE": "von hoher Qualität oder Standard",
+        "descriptionTR": "yüksek kaliteli veya standartta",
+        "descriptionAZ": "yüksək keyfiyyətli və ya standartda",
+        "descriptionUK": "високої якості чи стандарту"
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionEN": "of a size that is less than normal or usual",
         "descriptionRU": "размером меньше обычного или привычного",
-        "descriptionDE": "eine Größe, die kleiner als normal oder üblich ist"
+        "descriptionDE": "eine Größe, die kleiner als normal oder üblich ist",
+        "descriptionTR": "normalden veya alışılagelenden daha küçük bir boyutta",
+        "descriptionAZ": "normal və ya adi olanadan daha kiçik ölçüdə",
+        "descriptionUK": "розміром менше звичайного чи звичного"
     }
 ]

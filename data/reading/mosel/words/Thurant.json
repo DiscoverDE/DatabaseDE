@@ -3,148 +3,274 @@
         "de": "der Hügel",
         "en": "the hill",
         "ru": "холм",
+        "tr": "tepe",
+        "az": "təpə",
+        "uk": "пагорб",
         "descriptionEN": "A naturally raised area of land, smaller than a mountain.",
         "descriptionRU": "Естественно возвышенная местность, меньшая по размеру, чем гора.",
-        "descriptionDE": "Ein natürlich erhöhter Landstrich, kleiner als ein Berg."
+        "descriptionDE": "Ein natürlich erhöhter Landstrich, kleiner als ein Berg.",
+        "descriptionTR": "Dağdan daha küçük, doğal olarak yükseltilmiş bir arazi alanı.",
+        "descriptionAZ": "Dağdan kiçik, təbii yolla hündürlənmiş bir ərazi sahəsi.",
+        "descriptionUK": "Природно піднесена ділянка землі, менша за гору."
     }, {
         "de": "die Geschichte",
         "en": "the history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events, particularly in human affairs.",
         "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinde incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərində öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "der Weinberg",
         "en": "the vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "A plantation of grapevines, typically for winemaking.",
         "descriptionRU": "Плантация виноградных лоз, обычно для производства вина.",
-        "descriptionDE": "Eine Plantage von Weinreben, typischerweise zur Weinherstellung."
+        "descriptionDE": "Eine Plantage von Weinreben, typischerweise zur Weinherstellung.",
+        "descriptionTR": "Genellikle şarap yapımı için bir asma dikimi.",
+        "descriptionAZ": "Adətən şərabçılıq üçün üzüm bağı.",
+        "descriptionUK": "Плантація виноградних лоз, зазвичай для виноробства."
     }, {
         "de": "die Architektur",
         "en": "the architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
         "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
-        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden."
+        "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
+        "descriptionTR": "Binaların tasarlanması ve inşası sanatı veya pratiği.",
+        "descriptionAZ": "Binaların layihələndirilməsi və tikilməsi sənəti və ya praktikası.",
+        "descriptionUK": "Мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "das Erlebnis",
         "en": "the experience",
         "ru": "опыт",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Практическое взаимодействие и наблюдение за фактами или событиями.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "descriptionTR": "Olaylar veya olgularla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki təmas və müşahidə.",
+        "descriptionUK": "Практичний контакт та спостереження за фактами чи подіями."
     }, {
         "de": "die Natur",
         "en": "the nature",
         "ru": "природа",
+        "tr": "doğa",
+        "az": "təbiət",
+        "uk": "природа",
         "descriptionEN": "The physical world collectively, including plants, animals, and landscapes.",
         "descriptionRU": "Физический мир в совокупности, включая растения, животных и ландшафты.",
-        "descriptionDE": "Die physische Welt insgesamt, einschließlich Pflanzen, Tiere und Landschaften."
+        "descriptionDE": "Die physische Welt insgesamt, einschließlich Pflanzen, Tiere und Landschaften.",
+        "descriptionTR": "Bitkiler, hayvanlar ve manzaralar dahil olmak üzere fiziksel dünya topluluğu.",
+        "descriptionAZ": "Bitkilər, heyvanlar və landşaftlar da daxil olmaqla, kollektiv fiziki dünya.",
+        "descriptionUK": "Фізичний світ в цілому, включаючи рослини, тварин та ландшафти."
     }, {
         "de": "der Besuch",
         "en": "the visit",
         "ru": "визит",
+        "tr": "ziyaret",
+        "az": "səfər",
+        "uk": "візит",
         "descriptionEN": "An act of going to see a person or place.",
         "descriptionRU": "Акт посещения человека или места.",
-        "descriptionDE": "Ein Akt des Besuchs einer Person oder eines Ortes."
+        "descriptionDE": "Ein Akt des Besuchs einer Person oder eines Ortes.",
+        "descriptionTR": "Bir kişiyi veya yeri görmeye gitme eylemi.",
+        "descriptionAZ": "Bir şəxsi və ya yeri görməyə getmək aktı.",
+        "descriptionUK": "Акт відвідування особи або місця."
     }, {
         "de": "die Umgebung",
         "en": "the surroundings",
         "ru": "окружающая среда",
+        "tr": "çevre",
+        "az": "ətraf",
+        "uk": "оточення",
         "descriptionEN": "The area around a particular place or location.",
         "descriptionRU": "Область вокруг определенного места или местоположения.",
-        "descriptionDE": "Der Bereich um einen bestimmten Ort oder Standort."
+        "descriptionDE": "Der Bereich um einen bestimmten Ort oder Standort.",
+        "descriptionTR": "Belirli bir yerin veya konumun etrafındaki alan.",
+        "descriptionAZ": "Müəyyən bir yerin və ya məkanın ətrafındakı ərazi.",
+        "descriptionUK": "Територія навколо певного місця або місцезнаходження."
     }, {
         "de": "das Angebot",
         "en": "the offer",
         "ru": "предложение",
+        "tr": "teklif",
+        "az": "təklif",
+        "uk": "пропозиція",
         "descriptionEN": "A proposal or suggestion, typically for a service or opportunity.",
         "descriptionRU": "Предложение или совет, обычно для услуги или возможности.",
-        "descriptionDE": "Ein Vorschlag oder eine Empfehlung, typischerweise für eine Dienstleistung oder Gelegenheit."
+        "descriptionDE": "Ein Vorschlag oder eine Empfehlung, typischerweise für eine Dienstleistung oder Gelegenheit.",
+        "descriptionTR": "Genellikle bir hizmet veya fırsat için bir teklif veya öneri.",
+        "descriptionAZ": "Adətən bir xidmət və ya imkan üçün təklif və ya təklif.",
+        "descriptionUK": "Пропозиція або порада, зазвичай для послуги чи можливості."
     }, {
         "de": "die Familie",
         "en": "the family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "A group of individuals related by blood, marriage, or adoption.",
         "descriptionRU": "Группа людей, связанных кровными узами, браком или усыновлением.",
-        "descriptionDE": "Eine Gruppe von Personen, die durch Blut, Ehe oder Adoption verbunden sind."
+        "descriptionDE": "Eine Gruppe von Personen, die durch Blut, Ehe oder Adoption verbunden sind.",
+        "descriptionTR": "Kan bağı, evlilik veya evlat edinme yoluyla ilişkili bir grup birey.",
+        "descriptionAZ": "Qan, nikah və ya övladlığa götürmə yolu ilə əlaqəli şəxslər qrupu.",
+        "descriptionUK": "Група осіб, пов'язаних кров'ю, шлюбом або усиновленням."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through an unfamiliar area to learn about it.",
         "descriptionRU": "Путешествовать по незнакомой местности, чтобы узнать о ней.",
-        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um darüber zu lernen."
+        "descriptionDE": "Durch ein unbekanntes Gebiet reisen, um darüber zu lernen.",
+        "descriptionTR": "Bilinmeyen bir bölgede onu öğrenmek için seyahat etmek.",
+        "descriptionAZ": "Tanış olmayan bir ərazidə onu öyrənmək üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати незнайомою місцевістю, щоб дізнатися про неї."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "keyfini çıkarmak",
+        "az": "zövq almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "To take pleasure in something.",
         "descriptionRU": "Получать удовольствие от чего-либо.",
-        "descriptionDE": "Vergnügen an etwas haben."
+        "descriptionDE": "Vergnügen an etwas haben.",
+        "descriptionTR": "Bir şeyden zevk almak.",
+        "descriptionAZ": "Bir şeydən zövq almaq.",
+        "descriptionUK": "Отримувати задоволення від чогось."
     }, {
         "de": "zeigen",
         "en": "to show",
         "ru": "показывать",
+        "tr": "göstermek",
+        "az": "göstərmək",
+        "uk": "показувати",
         "descriptionEN": "To cause or allow something to be seen.",
         "descriptionRU": "Причинить или позволить чему-то быть увиденным.",
-        "descriptionDE": "Etwas sehen zu lassen oder zu ermöglichen."
+        "descriptionDE": "Etwas sehen zu lassen oder zu ermöglichen.",
+        "descriptionTR": "Bir şeyin görünmesine neden olmak veya izin vermek.",
+        "descriptionAZ": "Bir şeyin görünməsinə səbəb olmaq və ya icazə vermək.",
+        "descriptionUK": "Викликати або дозволити щось побачити."
     }, {
         "de": "erfahren",
         "en": "to learn",
         "ru": "узнавать",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "дізнаватися",
         "descriptionEN": "To gain knowledge or information about something.",
         "descriptionRU": "Получить знания или информацию о чем-либо.",
-        "descriptionDE": "Wissen oder Informationen über etwas zu gewinnen."
+        "descriptionDE": "Wissen oder Informationen über etwas zu gewinnen.",
+        "descriptionTR": "Bir şey hakkında bilgi edinmek.",
+        "descriptionAZ": "Bir şey haqqında bilik və ya məlumat əldə etmək.",
+        "descriptionUK": "Отримувати знання або інформацію про щось."
     }, {
         "de": "fühlen",
         "en": "to feel",
         "ru": "чувствовать",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
         "descriptionEN": "To perceive or experience an emotion or sensation.",
         "descriptionRU": "Воспринять или испытать эмоцию или ощущение.",
-        "descriptionDE": "Eine Emotion oder ein Gefühl wahrzunehmen oder zu erfahren."
+        "descriptionDE": "Eine Emotion oder ein Gefühl wahrzunehmen oder zu erfahren.",
+        "descriptionTR": "Bir duyguyu veya hissi algılamak veya deneyimlemek.",
+        "descriptionAZ": "Bir emosiya və ya hissi qəbul etmək və ya yaşamaq.",
+        "descriptionUK": "Сприймати або відчувати емоцію чи відчуття."
     }, {
         "de": "vermitteln",
         "en": "to convey",
         "ru": "передавать",
+        "tr": "aktarmak",
+        "az": "ötürmək",
+        "uk": "передавати",
         "descriptionEN": "To communicate or make something known.",
         "descriptionRU": "Передать или сделать что-то известным.",
-        "descriptionDE": "Etwas zu kommunizieren oder bekannt zu machen."
+        "descriptionDE": "Etwas zu kommunizieren oder bekannt zu machen.",
+        "descriptionTR": "Bir şeyi iletmek veya duyurmak.",
+        "descriptionAZ": "Bir şeyi çatdırmaq və ya bildirmək.",
+        "descriptionUK": "Передавати або повідомляти щось."
     }, {
         "de": "schätzen",
         "en": "to appreciate",
         "ru": "ценить",
+        "tr": "değer vermek",
+        "az": "dəyərləndirmək",
+        "uk": "цінувати",
         "descriptionEN": "To recognize the value or significance of something.",
         "descriptionRU": "Признавать ценность или значимость чего-либо.",
-        "descriptionDE": "Den Wert oder die Bedeutung von etwas zu erkennen."
+        "descriptionDE": "Den Wert oder die Bedeutung von etwas zu erkennen.",
+        "descriptionTR": "Bir şeyin değerini veya önemini tanımak.",
+        "descriptionAZ": "Bir şeyin dəyərini və ya əhəmiyyətini tanımaq.",
+        "descriptionUK": "Визнавати цінність або значення чогось."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Удовлетворяющий чувства или разум эстетически.",
-        "descriptionDE": "Das Gefühl oder den Geist ästhetisch erfreuen."
+        "descriptionDE": "Das Gefühl oder den Geist ästhetisch erfreuen.",
+        "descriptionTR": "Duyuları veya zihni estetik olarak hoşnut eden.",
+        "descriptionAZ": "Hissləri və ya ağlı estetik olaraq sevindirən.",
+        "descriptionUK": "Естетично приємний для почуттів або розуму."
     }, {
         "de": "mittelalterlich",
         "en": "medieval",
         "ru": "средневековый",
+        "tr": "ortaçağ",
+        "az": "orta əsrlər",
+        "uk": "середньовічний",
         "descriptionEN": "Relating to the Middle Ages.",
         "descriptionRU": "Относящийся к Средним векам.",
-        "descriptionDE": "In Bezug auf das Mittelalter."
+        "descriptionDE": "In Bezug auf das Mittelalter.",
+        "descriptionTR": "Orta Çağlara ait.",
+        "descriptionAZ": "Orta əsrlərə aid olan.",
+        "descriptionUK": "Відноситься до Середньовіччя."
     }, {
         "de": "günstig",
         "en": "affordable",
         "ru": "доступный",
+        "tr": "uygun fiyatlı",
+        "az": "əlçatan",
+        "uk": "доступний",
         "descriptionEN": "Inexpensive or reasonably priced.",
         "descriptionRU": "Недорогой или по разумной цене.",
-        "descriptionDE": "Preiswert oder zu einem angemessenen Preis."
+        "descriptionDE": "Preiswert oder zu einem angemessenen Preis.",
+        "descriptionTR": "Ucuz veya makul fiyatlı.",
+        "descriptionAZ": "Ucuz və ya münasib qiymətli.",
+        "descriptionUK": "Недорогий або за розумною ціною."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особенный",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличающаяся от обычного.",
-        "descriptionDE": "Besser, größer oder anders als das Gewöhnliche."
+        "descriptionDE": "Besser, größer oder anders als das Gewöhnliche.",
+        "descriptionTR": "Normalden daha iyi, daha büyük veya başka şekilde farklı.",
+        "descriptionAZ": "Adi olandan daha yaxşı, daha böyük və ya başqa cür fərqli.",
+        "descriptionUK": "Кращий, більший або іншим чином відмінний від звичайного."
     }
 ]

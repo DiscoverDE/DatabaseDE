@@ -3,141 +3,261 @@
         "de": "der Sonntag",
         "en": "Sunday",
         "ru": "воскресенье",
+        "tr": "Pazar",
+        "az": "bazar",
+        "uk": "неділя",
         "descriptionEN": "the day of the week following Saturday and preceding Monday",
         "descriptionRU": "день недели, следующий за субботой и предшествующий понедельнику",
-        "descriptionDE": "der Tag der Woche nach dem Samstag und vor dem Montag"
+        "descriptionDE": "der Tag der Woche nach dem Samstag und vor dem Montag",
+        "descriptionTR": "Cumartesi'yi takip eden ve Pazartesi'den önce gelen haftanın günü",
+        "descriptionAZ": "Şənbədən sonra və Bazar ertəsi əvvəl gələn həftənin günü",
+        "descriptionUK": "день тижня після суботи та перед понеділком"
     }, {
         "de": "die Arbeit",
         "en": "work",
         "ru": "работа",
+        "tr": "iş",
+        "az": "iş",
+        "uk": "робота",
         "descriptionEN": "activity involving mental or physical effort done in order to achieve a purpose or result",
         "descriptionRU": "деятельность, требующая умственного или физического усилия для достижения цели или результата",
-        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen"
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen",
+        "descriptionTR": "Bir amaç veya sonuç elde etmek için yapılan zihinsel veya fiziksel çaba gerektiren aktivite",
+        "descriptionAZ": "Məqsədə və ya nəticəyə nail olmaq üçün edilən əqli və ya fiziki səy tələb edən fəaliyyət",
+        "descriptionUK": "діяльність, що передбачає розумові або фізичні зусилля, що виконуються для досягнення мети або результату"
     }, {
         "de": "die Kirche",
         "en": "church",
         "ru": "церковь",
+        "tr": "kilise",
+        "az": "kilsə",
+        "uk": "церква",
         "descriptionEN": "a building used for public Christian worship",
         "descriptionRU": "здание, используемое для публичного христианского богослужения",
-        "descriptionDE": "ein Gebäude, das für öffentlichen christlichen Gottesdienst genutzt wird"
+        "descriptionDE": "ein Gebäude, das für öffentlichen christlichen Gottesdienst genutzt wird",
+        "descriptionTR": "Halka açık Hristiyan ibadeti için kullanılan bir bina",
+        "descriptionAZ": "Xristian ibadəti üçün istifadə olunan bina",
+        "descriptionUK": "будівля, що використовується для публічного християнського богослужіння"
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yemek",
+        "az": "yemək",
+        "uk": "їжа",
         "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth",
         "descriptionRU": "любое питательное вещество, которое люди или животные едят или пьют, или которое растения впитывают для поддержания жизни и роста",
-        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten"
+        "descriptionDE": "jede nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum zu erhalten",
+        "descriptionTR": "İnsanların veya hayvanların yediği veya içtiği ya da bitkilerin yaşamlarını ve büyümelerini sürdürmek için emdiği herhangi bir besleyici madde",
+        "descriptionAZ": "İnsanların və ya heyvanların yediyi və ya içdiyi, yaxud bitkilərin həyat və inkişafını təmin etmək üçün qəbul etdiyi hər hansı bir qida maddəsi",
+        "descriptionUK": "будь-яка поживна речовина, яку люди або тварини їдять або п'ють, або яку рослини поглинають для підтримки життя та зростання"
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "a group consisting of two parents and their children living together as a unit",
         "descriptionRU": "группа, состоящая из двух родителей и их детей, живущих вместе как единое целое",
-        "descriptionDE": "eine Gruppe bestehend aus zwei Elternteilen und ihren Kindern, die zusammen als Einheit leben"
+        "descriptionDE": "eine Gruppe bestehend aus zwei Elternteilen und ihren Kindern, die zusammen als Einheit leben",
+        "descriptionTR": "İki ebeveyn ve çocuklarından oluşan, bir birim olarak birlikte yaşayan bir grup",
+        "descriptionAZ": "İki valideyn və uşaqlarından ibarət, vahid bir qurum kimi yaşayan bir qrup",
+        "descriptionUK": "група, що складається з двох батьків та їхніх дітей, які живуть разом як єдине ціле"
     }, {
         "de": "der Ausflug",
         "en": "outing",
         "ru": "поездка",
+        "tr": "gezi",
+        "az": "gəzinti",
+        "uk": "поїздка",
         "descriptionEN": "a short journey made by a group of people, usually for pleasure or education",
         "descriptionRU": "короткое путешествие, совершаемое группой людей, обычно для удовольствия или образования",
-        "descriptionDE": "eine kurze Reise, die von einer Gruppe von Menschen unternommen wird, normalerweise zum Vergnügen oder zur Bildung"
+        "descriptionDE": "eine kurze Reise, die von einer Gruppe von Menschen unternommen wird, normalerweise zum Vergnügen oder zur Bildung",
+        "descriptionTR": "Genellikle eğlence veya eğitim amacıyla bir grup insan tarafından yapılan kısa bir yolculuk",
+        "descriptionAZ": "Bir qrup insanın, adətən əyləncə və ya təhsil məqsədilə etdiyi qısa səyahət",
+        "descriptionUK": "коротка подорож, здійснена групою людей, зазвичай для задоволення або освіти"
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
         "descriptionEN": "to engage in physical or mental activity in order to achieve a purpose or result",
         "descriptionRU": "заниматься физической или умственной деятельностью с целью достижения цели или результата",
-        "descriptionDE": "sich in körperliche oder geistige Aktivität begeben, um ein Ziel oder Ergebnis zu erreichen"
+        "descriptionDE": "sich in körperliche oder geistige Aktivität begeben, um ein Ziel oder Ergebnis zu erreichen",
+        "descriptionTR": "Bir amaç veya sonuç elde etmek için fiziksel veya zihinsel aktivitede bulunmak",
+        "descriptionAZ": "Məqsədə və ya nəticəyə nail olmaq üçün fiziki və ya əqli fəaliyyətlə məşğul olmaq",
+        "descriptionUK": "займатися фізичною або розумовою діяльністю для досягнення мети або результату"
     }, {
         "de": "decken",
         "en": "to cover",
         "ru": "покрывать",
+        "tr": "örtmek",
+        "az": "örtmək",
+        "uk": "покривати",
         "descriptionEN": "to place something over or upon, as to conceal or protect",
         "descriptionRU": "положить что-то сверху или на что-то, чтобы скрыть или защитить",
-        "descriptionDE": "etwas über oder auf etwas legen, um es zu verbergen oder zu schützen"
+        "descriptionDE": "etwas über oder auf etwas legen, um es zu verbergen oder zu schützen",
+        "descriptionTR": "Gizlemek veya korumak amacıyla bir şeyin üzerine veya üstüne bir şey koymak",
+        "descriptionAZ": "Gizlətmək və ya qorumaq üçün nəyisə üstünə qoymaq",
+        "descriptionUK": "помістити щось над або на щось, щоб приховати або захистити"
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "to go to see or spend time with someone socially",
         "descriptionRU": "пойти, чтобы увидеться или провести время с кем-то в обществе",
-        "descriptionDE": "zu jemandem gehen, um ihn zu sehen oder Zeit mit ihm zu verbringen"
+        "descriptionDE": "zu jemandem gehen, um ihn zu sehen oder Zeit mit ihm zu verbringen",
+        "descriptionTR": "Sosyal olarak birini görmek veya biriyle vakit geçirmek için gitmek",
+        "descriptionAZ": "Sosial olaraq kimisə görmək və ya onunla vaxt keçirmək üçün getmək",
+        "descriptionUK": "йти, щоб побачитися або провести час з кимось у соціальних цілях"
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionEN": "to produce or create something",
         "descriptionRU": "произвести или создать что-то",
-        "descriptionDE": "etwas produzieren oder erschaffen"
+        "descriptionDE": "etwas produzieren oder erschaffen",
+        "descriptionTR": "Bir şey üretmek veya yaratmak",
+        "descriptionAZ": "Nəyisə istehsal etmək və ya yaratmaq",
+        "descriptionUK": "виробляти або створювати щось"
     }, {
         "de": "heilig",
         "en": "holy",
         "ru": "святой",
+        "tr": "kutsal",
+        "az": "müqəddəs",
+        "uk": "святий",
         "descriptionEN": "dedicated or consecrated to God or a religious purpose; sacred",
         "descriptionRU": "посвященный или освященный Богу или религиозной цели; священный",
-        "descriptionDE": "Gott oder einem religiösen Zweck gewidmet oder geweiht; heilig"
+        "descriptionDE": "Gott oder einem religiösen Zweck gewidmet oder geweiht; heilig",
+        "descriptionTR": "Tanrı'ya veya dini bir amaca adanmış veya kutsanmış; kutsal",
+        "descriptionAZ": "Allaha və ya dini məqsədə həsr olunmuş; müqəddəs",
+        "descriptionUK": "присвячений або освячений Богу чи релігійній меті; священний"
     }, {
         "de": "voll",
         "en": "full",
         "ru": "полный",
+        "tr": "dolu",
+        "az": "dolu",
+        "uk": "повний",
         "descriptionEN": "containing or holding as much or as many as possible; having no empty space",
         "descriptionRU": "содержащий или вмещающий столько, сколько возможно; не имеющий пустого места",
-        "descriptionDE": "so viel oder so viele wie möglich enthaltend; keinen leeren Raum haben"
+        "descriptionDE": "so viel oder so viele wie möglich enthaltend; keinen leeren Raum haben",
+        "descriptionTR": "Mümkün olduğu kadar çok içeren veya tutan; boş alanı olmayan",
+        "descriptionAZ": "Mümkün qədər çox ehtiva edən və ya saxlayan; boş sahəsi olmayan",
+        "descriptionUK": "що містить або вміщує стільки, скільки можливо; без вільного місця"
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionEN": "to a great extent; very much",
         "descriptionRU": "в большой степени; очень",
-        "descriptionDE": "in großem Maße; sehr"
+        "descriptionDE": "in großem Maße; sehr",
+        "descriptionTR": "Büyük ölçüde; çok fazla",
+        "descriptionAZ": "Böyük dərəcədə; çox",
+        "descriptionUK": "значною мірою; дуже"
     }, {
         "de": "früher",
         "en": "earlier",
         "ru": "ранее",
+        "tr": "daha erken",
+        "az": "daha əvvəl",
+        "uk": "раніше",
         "descriptionEN": "at or during a time before the present",
         "descriptionRU": "во время или раньше настоящего времени",
-        "descriptionDE": "zu einer Zeit vor der Gegenwart"
+        "descriptionDE": "zu einer Zeit vor der Gegenwart",
+        "descriptionTR": "Şimdiki zamandan önce veya o sırada",
+        "descriptionAZ": "Hazırkı vaxtdan əvvəl və ya bu vaxtda",
+        "descriptionUK": "у час до теперішнього або протягом нього"
     }, {
         "de": "ganz",
         "en": "whole",
         "ru": "целый",
+        "tr": "tüm",
+        "az": "bütün",
+        "uk": "цілий",
         "descriptionEN": "complete; not divided or damaged",
         "descriptionRU": "полный; не разделенный или поврежденный",
-        "descriptionDE": "vollständig; nicht geteilt oder beschädigt"
+        "descriptionDE": "vollständig; nicht geteilt oder beschädigt",
+        "descriptionTR": "Tamamlanmış; bölünmemiş veya hasar görmemiş",
+        "descriptionAZ": "Tamamlanmış; bölünməmiş və ya zədələnməmiş",
+        "descriptionUK": "повний; неподілений або непошкоджений"
     }, {
         "de": "langweilig",
         "en": "boring",
         "ru": "скучный",
+        "tr": "sıkıcı",
+        "az": "darхıcı",
+        "uk": "нудний",
         "descriptionEN": "not interesting; tedious",
         "descriptionRU": "не интересный; скучный",
-        "descriptionDE": "nicht interessant; langweilig"
+        "descriptionDE": "nicht interessant; langweilig",
+        "descriptionTR": "İlginç değil; sıkıcı",
+        "descriptionAZ": "Maraqlı deyil; yorucu",
+        "descriptionUK": "нецікавий; нудний"
     }, {
         "de": "schlecht",
         "en": "bad",
         "ru": "плохой",
+        "tr": "kötü",
+        "az": "pis",
+        "uk": "поганий",
         "descriptionEN": "of poor quality or a low standard",
         "descriptionRU": "низкого качества или стандарта",
-        "descriptionDE": "von schlechter Qualität oder niedrigem Standard"
+        "descriptionDE": "von schlechter Qualität oder niedrigem Standard",
+        "descriptionTR": "Düşük kaliteli veya düşük standartta",
+        "descriptionAZ": "Keyfiyyətsiz və ya aşağı standartlı",
+        "descriptionUK": "низької якості або низького стандарту"
     }, {
         "de": "fast",
         "en": "almost",
         "ru": "почти",
+        "tr": "neredeyse",
+        "az": "demək olar ki",
+        "uk": "майже",
         "descriptionEN": "not quite; very nearly",
         "descriptionRU": "не совсем; очень близко",
-        "descriptionDE": "nicht ganz; sehr nahe"
+        "descriptionDE": "nicht ganz; sehr nahe",
+        "descriptionTR": "Tam olarak değil; çok yakın",
+        "descriptionAZ": "Tam deyil; çox yaxın",
+        "descriptionUK": "не зовсім; дуже близько"
     }, {
         "de": "so",
         "en": "so",
         "ru": "так",
+        "tr": "öyle",
+        "az": "belə",
+        "uk": "так",
         "descriptionEN": "to such a great extent",
         "descriptionRU": "до такой степени",
-        "descriptionDE": "in einem solchen Ausmaß"
+        "descriptionDE": "in einem solchen Ausmaß",
+        "descriptionTR": "Bu kadar büyük ölçüde",
+        "descriptionAZ": "Bu qədər böyük dərəcədə",
+        "descriptionUK": "такою мірою"
     }, {
         "de": "fast",
         "en": "almost",
         "ru": "почти",
+        "tr": "neredeyse",
+        "az": "demək olar ki",
+        "uk": "майже",
         "descriptionEN": "not quite; very nearly",
         "descriptionRU": "не совсем; очень близко",
-        "descriptionDE": "nicht ganz; sehr nahe"
+        "descriptionDE": "nicht ganz; sehr nahe",
+        "descriptionTR": "Tam olarak değil; çok yakın",
+        "descriptionAZ": "Tam deyil; çox yaxın",
+        "descriptionUK": "не зовсім; дуже близько"
     }
 ]

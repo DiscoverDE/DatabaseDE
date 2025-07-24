@@ -3,428 +3,794 @@
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "tr": "daire",
+        "az": "mənzil",
+        "uk": "квартира",
         "descriptionDE": "eine Reihe von Räumen zum Wohnen, normalerweise auf einer Etage eines Gebäudes.",
         "descriptionEN": "a set of rooms for living in, typically on one floor of a building.",
-        "descriptionRU": "набор комнат для проживания, обычно на одном этаже здания."
+        "descriptionRU": "набор комнат для проживания, обычно на одном этаже здания.",
+        "descriptionTR": "Genellikle bir binanın bir katında yaşamak için bir dizi oda.",
+        "descriptionAZ": "Bir binanın bir mərtəbəsində yaşamaq üçün bir sıra otaq.",
+        "descriptionUK": "Набір кімнат для проживання, зазвичай на одному поверсі будівлі."
     }, {
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "tr": "sabah",
+        "az": "səhər",
+        "uk": "ранок",
         "descriptionDE": "die Zeitspanne zwischen Mitternacht und Mittag, besonders vom Sonnenaufgang bis zum Mittag.",
         "descriptionEN": "the period of time between midnight and noon, especially from sunrise to noon.",
-        "descriptionRU": "период времени между полуночью и полуднем, особенно от восхода солнца до полудня."
+        "descriptionRU": "период времени между полуночью и полуднем, особенно от восхода солнца до полудня.",
+        "descriptionTR": "Gece yarısı ile öğlen arasındaki zaman dilimi, özellikle gün doğumundan öğlene kadar.",
+        "descriptionAZ": "Gecə yarısı ilə günorta arasındakı zaman, xüsusilə günəşin doğuşundan günorta qədər.",
+        "descriptionUK": "Період часу між опівночі та полуднем, особливо від сходу сонця до полудня."
     }, {
         "de": "die Fenster",
         "en": "windows",
         "ru": "окна",
+        "tr": "pencereler",
+        "az": "pəncərələr",
+        "uk": "вікна",
         "descriptionDE": "eine Öffnung in einer Wand oder Tür, durch die man sehen und in der Regel ein Gebäude oder Fahrzeug betreten oder verlassen kann.",
         "descriptionEN": "an opening in a wall or door through which one can see and, usually, enter or leave a building or vehicle.",
-        "descriptionRU": "отверстие в стене или двери, через которое можно видеть и, обычно, входить или выходить из здания или транспортного средства."
+        "descriptionRU": "отверстие в стене или двери, через которое можно видеть и, обычно, входить или выходить из здания или транспортного средства.",
+        "descriptionTR": "Bir duvarda veya kapıda, içinden bakılabilen ve genellikle bir binaya veya araca girip çıkılabilen açıklık.",
+        "descriptionAZ": "Divarda və ya qapıda, içərisindən baxıla bilən və adətən bir binaya və ya nəqliyyat vasitəsinə girib çıxıla bilən açılış.",
+        "descriptionUK": "Відкриття у стіні чи дверях, через яке можна бачити і, зазвичай, входити чи виходити з будівлі чи транспортного засобу."
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "повітря",
         "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, hauptsächlich eine Mischung aus Sauerstoff und Stickstoff.",
         "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
-        "descriptionRU": "невидимое газообразное вещество, окружающее Землю, в основном смесь кислорода и азота."
+        "descriptionRU": "невидимое газообразное вещество, окружающее Землю, в основном смесь кислорода и азота.",
+        "descriptionTR": "Dünyayı çevreleyen, çoğunlukla oksijen ve azottan oluşan görünmez gaz halindeki madde.",
+        "descriptionAZ": "Yeri əhatə edən, əsasən oksigen və azotdan ibarət olan görünməz qaz halında maddə.",
+        "descriptionUK": "Невидима газоподібна речовина, що оточує Землю, переважно суміш кисню та азоту."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionDE": "eine große Stadt.",
         "descriptionEN": "a large town.",
-        "descriptionRU": "большой город."
+        "descriptionRU": "большой город.",
+        "descriptionTR": "Büyük bir kasaba.",
+        "descriptionAZ": "Böyük bir şəhər.",
+        "descriptionUK": "Велике місто."
     }, {
         "de": "das Fahrrad",
         "en": "bicycle",
         "ru": "велосипед",
+        "tr": "bisiklet",
+        "az": "velosiped",
+        "uk": "велосипед",
         "descriptionDE": "ein Fahrzeug, bestehend aus zwei Rädern in einem Rahmen, eines hinter dem anderen, angetrieben von Pedalen und gelenkt mit Lenkstangen am Vorderrad.",
         "descriptionEN": "a vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
-        "descriptionRU": "транспортное средство, состоящее из двух колес, удерживаемых в раме одно за другим, приводимое в движение педалями и управляемое рулем, прикрепленным к переднему колесу."
+        "descriptionRU": "транспортное средство, состоящее из двух колес, удерживаемых в раме одно за другим, приводимое в движение педалями и управляемое рулем, прикрепленным к переднему колесу.",
+        "descriptionTR": "Bir çerçeve içinde birbiri ardına tutturulmuş, pedallarla hareket ettirilen ve ön tekerleğe bağlı gidonlarla yönlendirilen iki tekerlekli araç.",
+        "descriptionAZ": "Bir çərçivədə biri digərinin arxasında tutulan, pedallarla hərəkət edən və ön təkərə bağlı idarə çubuqları ilə idarə olunan iki təkərli nəqliyyat vasitəsi.",
+        "descriptionUK": "Транспортний засіб, що складається з двох коліс, закріплених у рамі одне за одним, що приводиться в рух педалями та керується кермом, прикріпленим до переднього колеса."
     }, {
         "de": "das Büro",
         "en": "office",
         "ru": "офис",
+        "tr": "ofis",
+        "az": "ofis",
+        "uk": "офіс",
         "descriptionDE": "ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, berufliche oder bürokratische Arbeit genutzt wird.",
         "descriptionEN": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
-        "descriptionRU": "комната, набор комнат или здание, используемое в качестве места для коммерческой, профессиональной или бюрократической работы."
+        "descriptionRU": "комната, набор комнат или здание, используемое в качестве места для коммерческой, профессиональной или бюрократической работы.",
+        "descriptionTR": "Ticari, profesyonel veya bürokratik çalışmalar için kullanılan bir oda, oda grubu veya bina.",
+        "descriptionAZ": "Ticarət, peşəkar və ya bürokratik iş üçün istifadə olunan bir otaq, otaq qrupu və ya bina.",
+        "descriptionUK": "Кімната, набір кімнат або будівля, що використовується як місце для комерційної, професійної чи бюрократичної роботи."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
         "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
         "descriptionEN": "the time between sunrise and sunset.",
-        "descriptionRU": "время между восходом и закатом солнца."
+        "descriptionRU": "время между восходом и закатом солнца.",
+        "descriptionTR": "Gün doğumu ile gün batımı arasındaki zaman.",
+        "descriptionAZ": "Günəşin doğuşu ilə qürubu arasındakı zaman.",
+        "descriptionUK": "Час між сходом і заходом сонця."
     }, {
         "de": "die Pause",
         "en": "break",
         "ru": "перерыв",
+        "tr": "mola",
+        "az": "fasilə",
+        "uk": "перерва",
         "descriptionDE": "eine vorübergehende Ruhe oder Unterbrechung einer Aktivität.",
         "descriptionEN": "a temporary rest or cessation of an activity.",
-        "descriptionRU": "временный отдых или прекращение деятельности."
+        "descriptionRU": "временный отдых или прекращение деятельности.",
+        "descriptionTR": "Bir aktivitenin geçici olarak dinlenmesi veya durdurulması.",
+        "descriptionAZ": "Bir fəaliyyətin müvəqqəti olaraq istirahəti və ya dayandırılması.",
+        "descriptionUK": "Тимчасовий відпочинок чи припинення діяльності."
     }, {
         "de": "das Café",
         "en": "café",
         "ru": "кафе",
+        "tr": "kafe",
+        "az": "kafe",
+        "uk": "кафе",
         "descriptionDE": "ein kleines Restaurant, das leichte Mahlzeiten und Getränke verkauft.",
         "descriptionEN": "a small restaurant selling light meals and drinks.",
-        "descriptionRU": "небольшой ресторан, предлагающий легкие закуски и напитки."
+        "descriptionRU": "небольшой ресторан, предлагающий легкие закуски и напитки.",
+        "descriptionTR": "Hafif yemekler ve içecekler satan küçük bir restoran.",
+        "descriptionAZ": "Yüngəl yeməklər və içkilər satan kiçik bir restoran.",
+        "descriptionUK": "Невеликий ресторан, що пропонує легкі закуски та напої."
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yiyecek",
+        "az": "qida",
+        "uk": "їжа",
         "descriptionDE": "eine nahrhafte Substanz, die Menschen oder Tiere essen oder trinken oder die Pflanzen aufnehmen, um Leben und Wachstum aufrechtzuerhalten.",
         "descriptionEN": "any nutritious substance that people or animals eat or drink or that plants absorb to maintain life and growth.",
-        "descriptionRU": "любое питательное вещество, которое люди, животные или растения потребляют или пьют для поддержания жизни и роста."
+        "descriptionRU": "любое питательное вещество, которое люди, животные или растения потребляют или пьют для поддержания жизни и роста.",
+        "descriptionTR": "İnsanların, hayvanların yediği veya içtiği ya da bitkilerin hayatı ve büyümeyi sürdürmek için emdiği besleyici herhangi bir madde.",
+        "descriptionAZ": "İnsanların, heyvanların yediyi və ya içdiyi və ya bitkilərin həyatı və böyüməni qorumaq üçün udduğu hər hansı qida maddəsi.",
+        "descriptionUK": "Будь-яка поживна речовина, яку споживають чи п'ють люди, тварини чи рослини для підтримки життя та росту."
     }, {
         "de": "die Kollegen",
         "en": "colleagues",
         "ru": "коллеги",
+        "tr": "meslektaşlar",
+        "az": "həmkarlar",
+        "uk": "колеги",
         "descriptionDE": "Menschen, mit denen man arbeitet, besonders in einem Beruf oder Geschäft.",
         "descriptionEN": "people with whom one works, especially in a profession or business.",
-        "descriptionRU": "люди, с которыми кто-то работает, особенно в профессии или бизнесе."
+        "descriptionRU": "люди, с которыми кто-то работает, особенно в профессии или бизнесе.",
+        "descriptionTR": "Özellikle bir meslekte veya işte birlikte çalışılan insanlar.",
+        "descriptionAZ": "Xüsusilə bir peşədə və ya işdə birlikdə işlənən insanlar.",
+        "descriptionUK": "Люди, з якими хтось працює, особливо у професії чи бізнесі."
     }, {
         "de": "der Alltag",
         "en": "everyday life",
         "ru": "повседневная жизнь",
+        "tr": "günlük yaşam",
+        "az": "gündəlik həyat",
+        "uk": "повсякденне життя",
         "descriptionDE": "die Routine des normalen, gewöhnlichen Lebens.",
         "descriptionEN": "the routine of normal, ordinary life.",
-        "descriptionRU": "режим нормальной, обыденной жизни."
+        "descriptionRU": "режим нормальной, обыденной жизни.",
+        "descriptionTR": "Normal, sıradan yaşamın rutini.",
+        "descriptionAZ": "Normal, adi həyatın rutini.",
+        "descriptionUK": "Режим нормального, звичайного життя."
     }, {
         "de": "die Bewegung",
         "en": "movement",
         "ru": "движение",
+        "tr": "hareket",
+        "az": "hərəkət",
+        "uk": "рух",
         "descriptionDE": "eine Handlung des Änderns der physischen Position oder Lage oder des Habens dieser Änderung.",
         "descriptionEN": "an act of changing physical location or position or of having this changed.",
-        "descriptionRU": "действие изменения физического местоположения или положения или происходящего этого."
+        "descriptionRU": "действие изменения физического местоположения или положения или происходящего этого.",
+        "descriptionTR": "Fiziksel konumu veya pozisyonu değiştirme veya bunun değiştirilmesi eylemi.",
+        "descriptionAZ": "Fiziki yerin və ya mövqeyin dəyişdirilməsi və ya bunun dəyişdirilməsi hərəkəti.",
+        "descriptionUK": "Дія зміни фізичного місцезнаходження чи положення або того, що це відбувається."
     }, {
         "de": "der Kopf",
         "en": "head",
         "ru": "голова",
+        "tr": "baş",
+        "az": "baş",
+        "uk": "голова",
         "descriptionDE": "der obere Teil des menschlichen Körpers oder der vordere oder obere Teil des Körpers eines Tieres, normalerweise vom Rest des Körpers durch einen Hals getrennt und enthält das Gehirn, den Mund und die Sinnesorgane.",
         "descriptionEN": "the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
-        "descriptionRU": "верхняя часть человеческого тела или передняя или верхняя часть тела животного, обычно отделенная от остальной части тела шеей и содержащая мозг, рот и органы чувств."
+        "descriptionRU": "верхняя часть человеческого тела или передняя или верхняя часть тела животного, обычно отделенная от остальной части тела шеей и содержащая мозг, рот и органы чувств.",
+        "descriptionTR": "İnsan vücudunun üst kısmı veya bir hayvanın vücudunun ön veya üst kısmı, genellikle boyunla vücudun geri kalanından ayrılan ve beyin, ağız ve duyu organlarını içeren.",
+        "descriptionAZ": "İnsan bədəninin yuxarı hissəsi və ya heyvanın bədəninin ön və ya yuxarı hissəsi, adətən boyunla bədənin qalan hissəsindən ayrılan və beyin, ağız və hissiyyat orqanlarını ehtiva edən.",
+        "descriptionUK": "Верхня частина людського тіла або передня чи верхня частина тіла тварини, зазвичай відокремлена від решти тіла шиєю та містить мозок, рот і органи чуття."
     }, {
         "de": "das Abendessen",
         "en": "dinner",
         "ru": "ужин",
+        "tr": "akşam yemeği",
+        "az": "axşam yeməyi",
+        "uk": "вечеря",
         "descriptionDE": "die Hauptmahlzeit des Tages, entweder gegen Mittag oder abends eingenommen.",
         "descriptionEN": "the main meal of the day, taken either around midday or in the evening.",
-        "descriptionRU": "основное блюдо дня, принимаемое либо около полудня, либо вечером."
+        "descriptionRU": "основное блюдо дня, принимаемое либо около полудня, либо вечером.",
+        "descriptionTR": "Günün ana öğünü, öğlen veya akşam yenir.",
+        "descriptionAZ": "Günün əsas yeməyi, günorta və ya axşam yenir.",
+        "descriptionUK": "Основна страва дня, що вживається або близько полудня, або ввечері."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "tr": "müzik",
+        "az": "musiqi",
+        "uk": "музика",
         "descriptionDE": "vokale oder instrumentale Klänge (oder beides), die auf eine Weise kombiniert sind, um Schönheit der Form, Harmonie und Ausdruck von Emotionen zu erzeugen.",
         "descriptionEN": "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
-        "descriptionRU": "вокальные или инструментальные звуки (или оба вместе), сочетающиеся таким образом, чтобы создавать красоту формы, гармонии и выражения эмоций."
+        "descriptionRU": "вокальные или инструментальные звуки (или оба вместе), сочетающиеся таким образом, чтобы создавать красоту формы, гармонии и выражения эмоций.",
+        "descriptionTR": "Biçim güzelliği, uyum ve duygu ifadesi üretmek için bir araya getirilmiş vokal veya enstrümantal sesler (veya her ikisi).",
+        "descriptionAZ": "Form gözəlliyi, uyğunluq və emosiya ifadəsi yaratmaq üçün birləşdirilmiş vokal və ya instrumental səslər (və ya hər ikisi).",
+        "descriptionUK": "Вокальні чи інструментальні звуки (або обидва разом), що поєднуються таким чином, щоб створювати красу форми, гармонії та вираження емоцій."
     }, {
         "de": "die Freunde",
         "en": "friends",
         "ru": "друзья",
+        "tr": "arkadaşlar",
+        "az": "dostlar",
+        "uk": "друзі",
         "descriptionDE": "Menschen, die man kennt und mit denen man eine Bindung gegenseitiger Zuneigung hat.",
         "descriptionEN": "people whom one knows and has a bond of mutual affection with.",
-        "descriptionRU": "люди, которых кто-то знает и с которыми у него есть взаимная привязанность."
+        "descriptionRU": "люди, которых кто-то знает и с которыми у него есть взаимная привязанность.",
+        "descriptionTR": "Tanıdığınız ve karşılıklı sevgi bağı olan insanlar.",
+        "descriptionAZ": "Tanıdığınız və qarşılıqlı sevgi əlaqəsi olan insanlar.",
+        "descriptionUK": "Люди, яких хтось знає і з якими має взаємну прихильність."
     }, {
         "de": "die Berge",
         "en": "mountains",
         "ru": "горы",
+        "tr": "dağlar",
+        "az": "dağlar",
+        "uk": "гори",
         "descriptionDE": "eine große Landform, die prominent über ihre Umgebung aufragt und höher ist als ein Hügel.",
         "descriptionEN": "a large landform that rises prominently above its surroundings and is higher than a hill.",
-        "descriptionRU": "большая природная форма, выступающая выдающимся образом над окружающей средой и более высокая, чем холм."
+        "descriptionRU": "большая природная форма, выступающая выдающимся образом над окружающей средой и более высокая, чем холм.",
+        "descriptionTR": "Çevresine göre belirgin şekilde yükselen ve bir tepeden daha yüksek olan büyük bir kara şekli.",
+        "descriptionAZ": "Ətrafından xeyli yüksələn və təpədən daha yüksək olan böyük quru forması.",
+        "descriptionUK": "Велика природна форма, що виступає визначним чином над навколишнім середовищем і вища за пагорб."
     }, {
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "tr": "hafta sonu",
+        "az": "həftə sonu",
+        "uk": "вихідні",
         "descriptionDE": "die Zeit von Freitagabend bis Sonntagnacht, besonders als Zeit für Freizeit betrachtet.",
         "descriptionEN": "the period from Friday evening through Sunday night, especially regarded as a time for leisure.",
-        "descriptionRU": "период с пятницы вечером до воскресенья ночью, особенно рассматриваемый как время досуга."
+        "descriptionRU": "период с пятницы вечером до воскресенья ночью, особенно рассматриваемый как время досуга.",
+        "descriptionTR": "Özellikle boş zaman olarak kabul edilen Cuma akşamından Pazar gecesine kadar olan dönem.",
+        "descriptionAZ": "Xüsusilə boş vaxt kimi qəbul edilən cümə axşamından bazar gecəsinə qədər olan dövr.",
+        "descriptionUK": "Період з п'ятниці ввечері до неділі вночі, особливо розглядається як час дозвілля."
     }, {
         "de": "die Hobbys",
         "en": "hobbies",
         "ru": "хобби",
+        "tr": "hobiler",
+        "az": "hobbilər",
+        "uk": "хобі",
         "descriptionDE": "eine regelmäßig in der Freizeit durchgeführte Aktivität zum Vergnügen.",
         "descriptionEN": "an activity done regularly in one's leisure time for pleasure.",
-        "descriptionRU": "деятельность, выполняемая регулярно в свободное время для удовольствия."
+        "descriptionRU": "деятельность, выполняемая регулярно в свободное время для удовольствия.",
+        "descriptionTR": "Boş zamanlarda düzenli olarak zevk için yapılan bir aktivite.",
+        "descriptionAZ": "Boş vaxtlarda müntəzəm olaraq zövq üçün edilən bir fəaliyyət.",
+        "descriptionUK": "Діяльність, яка регулярно виконується у вільний час для задоволення."
     }, {
         "de": "die Leserin",
         "en": "reader",
         "ru": "читательница",
+        "tr": "okuyucu",
+        "az": "oxucu",
+        "uk": "читачка",
         "descriptionDE": "eine Person, die liest oder die gerne liest.",
         "descriptionEN": "a person who reads or who is fond of reading.",
-        "descriptionRU": "человек, который читает или увлекается чтением."
+        "descriptionRU": "человек, который читает или увлекается чтением.",
+        "descriptionTR": "Okuyan veya okumayı seven bir kişi.",
+        "descriptionAZ": "Oxuyan və ya oxumağı xoşlayan bir şəxs.",
+        "descriptionUK": "Людина, яка читає або захоплюється читанням."
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
         "descriptionDE": "ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die entlang einer Seite zusammengeklebt oder zusammengenäht und in Umschläge gebunden sind.",
         "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
-        "descriptionRU": "письменное или напечатанное произведение, состоящее из страниц, склеенных или сшитых вместе с одной стороны и обложенных."
+        "descriptionRU": "письменное или напечатанное произведение, состоящее из страниц, склеенных или сшитых вместе с одной стороны и обложенных.",
+        "descriptionTR": "Bir tarafı boyunca yapıştırılmış veya dikilmiş ve kapaklarla ciltlenmiş sayfalardan oluşan yazılı veya basılı eser.",
+        "descriptionAZ": "Bir tərəfi boyunca yapışdırılmış və ya tikilmiş və üzlüklə cildlənmiş səhifələrdən ibarət yazılı və ya çap əsəri.",
+        "descriptionUK": "Письмовий або надрукований твір, що складається зі сторінок, склеєних або зшитих разом з одного боку та в обкладинках."
     }, {
         "de": "die Malerin",
         "en": "painter",
         "ru": "художница",
+        "tr": "ressam",
+        "az": "rəssam",
+        "uk": "художниця",
         "descriptionDE": "eine Künstlerin, die Bilder malt.",
         "descriptionEN": "an artist who paints pictures.",
-        "descriptionRU": "художник, рисующий картины."
+        "descriptionRU": "художник, рисующий картины.",
+        "descriptionTR": "Resim yapan bir sanatçı.",
+        "descriptionAZ": "Rəsm çəkən bir rəssam.",
+        "descriptionUK": "Художник, який малює картини."
     }, {
         "de": "das Atelier",
         "en": "studio",
         "ru": "ателье",
+        "tr": "stüdyo",
+        "az": "studio",
+        "uk": "студія",
         "descriptionDE": "ein Raum, in dem ein Künstler, Fotograf, Bildhauer usw. arbeitet.",
         "descriptionEN": "a room where an artist, photographer, sculptor, etc., works.",
-        "descriptionRU": "комната, в которой работает художник, фотограф, скульптор и т. д."
+        "descriptionRU": "комната, в которой работает художник, фотограф, скульптор и т. д.",
+        "descriptionTR": "Bir sanatçının, fotoğrafçının, heykeltıraşın vb. çalıştığı oda.",
+        "descriptionAZ": "Bir rəssamın, fotoqrafın, heykəltəraşın və s. işlədiyi otaq.",
+        "descriptionUK": "Кімната, в якій працює художник, фотограф, скульптор тощо."
     }, {
         "de": "die Freizeit",
         "en": "free time",
         "ru": "свободное время",
+        "tr": "boş zaman",
+        "az": "boş vaxt",
+        "uk": "вільний час",
         "descriptionDE": "Zeit, die für Entspannung und Erholung zur Verfügung steht.",
         "descriptionEN": "time available for ease and relaxation.",
-        "descriptionRU": "время, доступное для отдыха и расслабления."
+        "descriptionRU": "время, доступное для отдыха и расслабления.",
+        "descriptionTR": "Rahatlık ve dinlenme için kullanılabilir zaman.",
+        "descriptionAZ": "Rahatlıq və istirahət üçün mövcud olan vaxt.",
+        "descriptionUK": "Час, доступний для відпочинку та розслаблення."
     }, {
         "de": "das Tierheim",
         "en": "animal shelter",
         "ru": "приют для животных",
+        "tr": "hayvan barınağı",
+        "az": "heyvan sığınacağı",
+        "uk": "притулок для тварин",
         "descriptionDE": "eine Einrichtung, die obdachlose, verlorene oder ausgesetzte Tiere beherbergt.",
         "descriptionEN": "a facility that houses homeless, lost, or abandoned animals.",
-        "descriptionRU": "учреждение, в котором содержатся бездомные, потерянные или брошенные животные."
+        "descriptionRU": "учреждение, в котором содержатся бездомные, потерянные или брошенные животные.",
+        "descriptionTR": "Evsiz, kayıp veya terk edilmiş hayvanları barındıran bir tesis.",
+        "descriptionAZ": "Evsiz, itirilmiş və ya tərk edilmiş heyvanları yerləşdirən bir qurum.",
+        "descriptionUK": "Установа, в якій містяться бездомні, загублені чи покинуті тварини."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
         "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
         "descriptionEN": "the time between sunrise and sunset.",
-        "descriptionRU": "время между восходом и закатом солнца."
+        "descriptionRU": "время между восходом и закатом солнца.",
+        "descriptionTR": "Gün doğumu ile gün batımı arasındaki zaman.",
+        "descriptionAZ": "Günəşin doğuşu ilə qürubu arasındakı zaman.",
+        "descriptionUK": "Час між сходом і заходом сонця."
     }, {
         "de": "die Sendung",
         "en": "TV show",
         "ru": "телепередача",
+        "tr": "TV programı",
+        "az": "TV şou",
+        "uk": "телепередача",
         "descriptionDE": "eine Fernseh- oder Radiosendung.",
         "descriptionEN": "a television or radio program.",
-        "descriptionRU": "телевизионная или радиопрограмма."
+        "descriptionRU": "телевизионная или радиопрограмма.",
+        "descriptionTR": "Bir televizyon veya radyo programı.",
+        "descriptionAZ": "Bir televiziya və ya radio proqramı.",
+        "descriptionUK": "Телевізійна чи радіопрограма."
     }, {
         "de": "das Bett",
         "en": "bed",
         "ru": "кровать",
+        "tr": "yatak",
+        "az": "yataq",
+        "uk": "ліжко",
         "descriptionDE": "ein Möbelstück zum Schlafen oder Ausruhen, normalerweise ein Gestell mit Matratze und Bezügen.",
         "descriptionEN": "a piece of furniture for sleep or rest, typically a framework with a mattress and coverings.",
-        "descriptionRU": "мебель для сна или отдыха, обычно каркас с матрасом и обивкой."
+        "descriptionRU": "мебель для сна или отдыха, обычно каркас с матрасом и обивкой.",
+        "descriptionTR": "Uyumak veya dinlenmek için bir mobilya parçası, genellikle bir şasi, yatak ve örtülerden oluşur.",
+        "descriptionAZ": "Yatmaq və ya istirahət etmək üçün bir mebel parçası, adətən bir şassi, döşək və örtüklərdən ibarətdir.",
+        "descriptionUK": "Меблі для сну чи відпочинку, зазвичай каркас з матрацом та оббивкою."
     }, {
         "de": "öffnen",
         "en": "open",
         "ru": "открывать",
+        "tr": "açmak",
+        "az": "açmaq",
+        "uk": "відкривати",
         "descriptionDE": "eine Tür oder ein Fenster von sich wegbewegen, um einen Raum offen zu lassen.",
         "descriptionEN": "to move (a door or window) away from, so as to leave a space open.",
-        "descriptionRU": "отодвинуть (дверь или окно) от себя, чтобы оставить открытым пространство."
+        "descriptionRU": "отодвинуть (дверь или окно) от себя, чтобы оставить открытым пространство.",
+        "descriptionTR": "Bir kapıyı veya pencereyi kendinden uzaklaştırarak bir alanı açık bırakmak.",
+        "descriptionAZ": "Bir qapını və ya pəncərəni özündən uzaqlaşdıraraq bir sahəni açıq qoymaq.",
+        "descriptionUK": "Відсунути (двері чи вікно) від себе, щоб залишити відкритим простір."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionDE": "Vergnügen an (einer Aktivität oder Gelegenheit) haben.",
         "descriptionEN": "to take pleasure in (an activity or occasion).",
-        "descriptionRU": "получать удовольствие от (деятельности или события)."
+        "descriptionRU": "получать удовольствие от (деятельности или события).",
+        "descriptionTR": "(Bir aktiviteden veya durumdan) zevk almak.",
+        "descriptionAZ": "(Bir fəaliyyətdən və ya hadisədən) həzz almaq.",
+        "descriptionUK": "Отримувати задоволення від (діяльності чи події)."
     }, {
         "de": "starten",
         "en": "start",
         "ru": "начинать",
+        "tr": "başlamak",
+        "az": "başlamaq",
+        "uk": "починати",
         "descriptionDE": "eine Reise beginnen oder sich auf den Weg machen.",
         "descriptionEN": "to begin or set out on a journey.",
-        "descriptionRU": "начать или отправиться в путешествие."
+        "descriptionRU": "начать или отправиться в путешествие.",
+        "descriptionTR": "Bir yolculuğa başlamak veya yola çıkmak.",
+        "descriptionAZ": "Bir səfərə başlamaq və ya yola çıxmaq.",
+        "descriptionUK": "Почати чи вирушити в подорож."
     }, {
         "de": "machen",
         "en": "make",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionDE": "etwas ins Dasein bringen oder produzieren.",
         "descriptionEN": "to bring into existence or produce.",
-        "descriptionRU": "вызвать существование или произвести."
+        "descriptionRU": "вызвать существование или произвести.",
+        "descriptionTR": "Var olmasını sağlamak veya üretmek.",
+        "descriptionAZ": "Var olmasını təmin etmək və ya istehsal etmək.",
+        "descriptionUK": "Викликати існування чи виробити."
     }, {
         "de": "fertig machen",
         "en": "get ready",
         "ru": "приготовиться",
+        "tr": "hazırlanmak",
+        "az": "hazırlaşmaq",
+        "uk": "приготуватися",
         "descriptionDE": "sich auf eine Aufgabe oder Aktivität vorbereiten.",
         "descriptionEN": "to prepare oneself for a task or activity.",
-        "descriptionRU": "подготовиться к выполнению задачи или деятельности."
+        "descriptionRU": "подготовиться к выполнению задачи или деятельности.",
+        "descriptionTR": "Bir görev veya aktivite için hazırlanmak.",
+        "descriptionAZ": "Bir vəzifə və ya fəaliyyət üçün hazırlaşmaq.",
+        "descriptionUK": "Підготуватися до виконання завдання чи діяльності."
     }, {
         "de": "schwingen",
         "en": "swing",
         "ru": "качаться",
+        "tr": "sallanmak",
+        "az": "yırğalanmaq",
+        "uk": "гойдатися",
         "descriptionDE": "sich rhythmisch hin und her oder auf und ab bewegen.",
         "descriptionEN": "to move rhythmically to and fro or up and down.",
-        "descriptionRU": "двигаться ритмично туда-сюда или вверх-вниз."
+        "descriptionRU": "двигаться ритмично туда-сюда или вверх-вниз.",
+        "descriptionTR": "Ritmik olarak ileri geri veya yukarı aşağı hareket etmek.",
+        "descriptionAZ": "Ritmik olaraq irəli-geri və ya yuxarı-aşağı hərəkət etmək.",
+        "descriptionUK": "Рухатися ритмічно туди-сюди чи вгору-вниз."
     }, {
         "de": "fahren",
         "en": "ride",
         "ru": "ездить",
+        "tr": "binmek",
+        "az": "minmək",
+        "uk": "їздити",
         "descriptionDE": "sich auf ein Tier setzen und seine Bewegung kontrollieren, besonders ein Pferd.",
         "descriptionEN": "to sit on and control the movement of (an animal, especially a horse).",
-        "descriptionRU": "сидеть на и управлять движением (животного, особенно лошади)."
+        "descriptionRU": "сидеть на и управлять движением (животного, особенно лошади).",
+        "descriptionTR": "(Bir hayvana, özellikle bir ata) binmek ve hareketini kontrol etmek.",
+        "descriptionAZ": "(Bir heyvana, xüsusilə bir ata) minmək və hərəkətini idarə etmək.",
+        "descriptionUK": "Сидіти на й керувати рухом (тварини, особливо коня)."
     }, {
         "de": "nutzen",
         "en": "use",
         "ru": "использовать",
+        "tr": "kullanmak",
+        "az": "istifadə etmək",
+        "uk": "використовувати",
         "descriptionDE": "etwas als Mittel zur Erreichung eines Zwecks oder zur Erzielung eines Ergebnisses nehmen, halten oder einsetzen.",
         "descriptionEN": "to take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
-        "descriptionRU": "воспользоваться, удержать или применить (что-то) в качестве средства достижения цели или достижения результата."
+        "descriptionRU": "воспользоваться, удержать или применить (что-то) в качестве средства достижения цели или достижения результата.",
+        "descriptionTR": "Bir amacı gerçekleştirmek veya bir sonuç elde etmek için (bir şeyi) almak, tutmak veya kullanmak.",
+        "descriptionAZ": "Bir məqsədə çatmaq və ya bir nəticə əldə etmək üçün (bir şeyi) götürmək, saxlamaq və ya istifadə etmək.",
+        "descriptionUK": "Скористатися, утримати чи застосувати (щось) як засіб досягнення мети чи результату."
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionDE": "durch ein unbekanntes Gebiet reisen, um es kennenzulernen.",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
-        "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней."
+        "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней.",
+        "descriptionTR": "(Bilinmeyen bir bölgeyi) tanımak için seyahat etmek.",
+        "descriptionAZ": "(Tanımadığınız bir ərazini) tanımaq üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою місцевістю) з метою дізнатися про неї."
     }, {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
+        "tr": "gelmek",
+        "az": "gəlmək",
+        "uk": "приходити",
         "descriptionDE": "sich in Richtung oder in einen als nahe oder vertraut betrachteten Ort bewegen oder reisen.",
         "descriptionEN": "to move or travel toward or into a place thought of as near or familiar.",
-        "descriptionRU": "двигаться или путешествовать в сторону или внутрь места, рассматриваемого как близкое или знакомое."
+        "descriptionRU": "двигаться или путешествовать в сторону или внутрь места, рассматриваемого как близкое или знакомое.",
+        "descriptionTR": "Yakın veya tanıdık olarak düşünülen bir yere doğru hareket etmek veya seyahat etmek.",
+        "descriptionAZ": "Yaxın və ya tanış hesab edilən bir yerə doğru hərəkət etmək və ya səyahət etmək.",
+        "descriptionUK": "Рухатися чи подорожувати в бік чи всередину місця, що розглядається як близьке чи знайоме."
     }, {
         "de": "zurückkommen",
         "en": "return",
         "ru": "возвращаться",
+        "tr": "geri dönmek",
+        "az": "qayıtmaq",
+        "uk": "повертатися",
         "descriptionDE": "zu einem Ort oder einer Person zurückkehren.",
         "descriptionEN": "to come or go back to a place or person.",
-        "descriptionRU": "вернуться или вернуться к месту или человеку."
+        "descriptionRU": "вернуться или вернуться к месту или человеку.",
+        "descriptionTR": "Bir yere veya kişiye geri dönmek.",
+        "descriptionAZ": "Bir yerə və ya şəxsə qayıtmaq.",
+        "descriptionUK": "Повернутися чи повернутися до місця чи людини."
     }, {
         "de": "entspannen",
         "en": "relax",
         "ru": "расслабляться",
+        "tr": "rahatlamak",
+        "az": "rahatlamaq",
+        "uk": "розслаблятися",
         "descriptionDE": "sich weniger angespannt oder besorgt machen oder werden.",
         "descriptionEN": "to make or become less tense or anxious.",
-        "descriptionRU": "сделать или стать менее напряженным или тревожным."
+        "descriptionRU": "сделать или стать менее напряженным или тревожным.",
+        "descriptionTR": "Daha az gergin veya endişeli hale gelmek veya getirmek.",
+        "descriptionAZ": "Daha az gərgin və ya narahat olmaq və ya etmək.",
+        "descriptionUK": "Зробити чи стати менш напруженим чи тривожним."
     }, {
         "de": "schauen",
         "en": "watch",
         "ru": "смотреть",
+        "tr": "izlemek",
+        "az": "baxmaq",
+        "uk": "дивитися",
         "descriptionDE": "aufmerksam betrachten oder beobachten, normalerweise über einen bestimmten Zeitraum.",
         "descriptionEN": "to look at or observe attentively, typically over a period of time.",
-        "descriptionRU": "смотреть или наблюдать внимательно, обычно в течение определенного времени."
+        "descriptionRU": "смотреть или наблюдать внимательно, обычно в течение определенного времени.",
+        "descriptionTR": "Dikkatle bakmak veya gözlemlemek, genellikle belirli bir süre boyunca.",
+        "descriptionAZ": "Diqqətlə baxmaq və ya müşahidə etmək, adətən müəyyən bir müddət ərzində.",
+        "descriptionUK": "Дивитися чи спостерігати уважно, зазвичай протягом певного часу."
     }, {
         "de": "lesen",
         "en": "read",
         "ru": "читать",
+        "tr": "okumak",
+        "az": "oxumaq",
+        "uk": "читати",
         "descriptionDE": "den Sinn von (geschriebenem oder gedrucktem Material) erfassen, indem man die Buchstaben oder Symbole interpretiert, aus denen es besteht.",
         "descriptionEN": "to look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed.",
-        "descriptionRU": "посмотреть и понять смысл (письменного или напечатанного материала), интерпретируя символы или символы, из которых он состоит."
+        "descriptionRU": "посмотреть и понять смысл (письменного или напечатанного материала), интерпретируя символы или символы, из которых он состоит.",
+        "descriptionTR": "(Yazılı veya basılı materyalin) oluştuğu karakterleri veya sembolleri yorumlayarak anlamını kavramak.",
+        "descriptionAZ": "(Yazılı və ya çap materialının) təşkil etdiyi simvolları və ya işarələri şərh edərək mənasını anlamaq.",
+        "descriptionUK": "Подивитися і зрозуміти сенс (письмового чи друкованого матеріалу), інтерпретуючи символи, з яких він складається."
     }, {
         "de": "malen",
         "en": "paint",
         "ru": "рисовать",
+        "tr": "boyamak",
+        "az": "boyamaq",
+        "uk": "малювати",
         "descriptionDE": "ein Bild oder Design durch Malen produzieren.",
         "descriptionEN": "to produce (a picture or design) by painting.",
-        "descriptionRU": "создать (картину или дизайн) рисованием."
+        "descriptionRU": "создать (картину или дизайн) рисованием.",
+        "descriptionTR": "(Bir resim veya tasarım) boyayarak üretmek.",
+        "descriptionAZ": "(Bir şəkil və ya dizayn) boyamaqla istehsal etmək.",
+        "descriptionUK": "Створити (картину чи дизайн) малюванням."
     }, {
         "de": "kochen",
         "en": "cook",
         "ru": "готовить",
+        "tr": "pişirmek",
+        "az": "bişirmək",
+        "uk": "готувати",
         "descriptionDE": "Lebensmittel durch Kombinieren und Erhitzen der Zutaten auf verschiedene Weisen zubereiten.",
         "descriptionEN": "to prepare (food) by combining and heating the ingredients in various ways.",
-        "descriptionRU": "приготовить (пищу), сочетая и нагревая ингредиенты разными способами."
+        "descriptionRU": "приготовить (пищу), сочетая и нагревая ингредиенты разными способами.",
+        "descriptionTR": "(Yiyecek) malzemeleri çeşitli şekillerde birleştirerek ve ısıtarak hazırlamak.",
+        "descriptionAZ": "(Qida) maddələrini müxtəlif üsullarla birləşdirərək və qızdıraraq hazırlamaq.",
+        "descriptionUK": "Приготувати (їжу), поєднуючи та нагріваючи інгредієнти різними способами."
     }, {
         "de": "täglich",
         "en": "daily",
         "ru": "ежедневно",
+        "tr": "günlük",
+        "az": "gündəlik",
+        "uk": "щодня",
         "descriptionDE": "täglich oder alle 24 Stunden auftretend, erledigt oder produziert.",
         "descriptionEN": "occurring, done, or produced every day or every 24 hours.",
-        "descriptionRU": "происходящий, выполняемый или производимый каждый день или каждые 24 часа."
+        "descriptionRU": "происходящий, выполняемый или производимый каждый день или каждые 24 часа.",
+        "descriptionTR": "Her gün veya her 24 saatte bir meydana gelen, yapılan veya üretilen.",
+        "descriptionAZ": "Hər gün və ya hər 24 saatda bir baş verən, edilən və ya istehsal olunan.",
+        "descriptionUK": "Що відбувається, виконується чи виробляється щодня або кожні 24 години."
     }, {
         "de": "immer",
         "en": "always",
         "ru": "всегда",
+        "tr": "her zaman",
+        "az": "həmişə",
+        "uk": "завжди",
         "descriptionDE": "zu jeder Zeit; zu jeder Gelegenheit.",
         "descriptionEN": "at all times; on all occasions.",
-        "descriptionRU": "всегда; при любом случае."
+        "descriptionRU": "всегда; при любом случае.",
+        "descriptionTR": "Her zaman; her durumda.",
+        "descriptionAZ": "Hər zaman; hər halda.",
+        "descriptionUK": "Завжди; за будь-яких обставин."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
-        "descriptionRU": "много раз в короткие интервалы."
+        "descriptionRU": "много раз в короткие интервалы.",
+        "descriptionTR": "Kısa aralıklarla birçok kez.",
+        "descriptionAZ": "Qısa fasilələrlə bir çox dəfə.",
+        "descriptionUK": "Багато разів у короткі інтервали."
     }, {
         "de": "manchmal",
         "en": "sometimes",
         "ru": "иногда",
+        "tr": "bazen",
+        "az": "bəzən",
+        "uk": "іноді",
         "descriptionDE": "zu bestimmten Anlässen oder in bestimmten Fällen, aber nicht immer.",
         "descriptionEN": "on certain occasions or in certain cases but not always.",
-        "descriptionRU": "в некоторых случаях или в определенных случаях, но не всегда."
+        "descriptionRU": "в некоторых случаях или в определенных случаях, но не всегда.",
+        "descriptionTR": "Bazı durumlarda veya belirli durumlarda, ancak her zaman değil.",
+        "descriptionAZ": "Bəzi hallarda və ya müəyyən hallarda, lakin həmişə deyil.",
+        "descriptionUK": "У деяких випадках чи за певних обставин, але не завжди."
     }, {
         "de": "gerne",
         "en": "gladly",
         "ru": "с удовольствием",
+        "tr": "memnuniyetle",
+        "az": "məmnuniyyətlə",
+        "uk": "із задоволенням",
         "descriptionDE": "mit Vergnügen; bereitwillig.",
         "descriptionEN": "with pleasure; willingly.",
-        "descriptionRU": "с удовольствием; охотно."
+        "descriptionRU": "с удовольствием; охотно.",
+        "descriptionTR": "Memnuniyetle; isteyerek.",
+        "descriptionAZ": "Məmnuniyyətlə; könüllü olaraq.",
+        "descriptionUK": "Із задоволенням; охоче."
     }, {
         "de": "oftmals",
         "en": "frequently",
         "ru": "часто",
+        "tr": "sıkça",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionDE": "oft; viele Male.",
         "descriptionEN": "often; many times.",
-        "descriptionRU": "часто; много раз."
+        "descriptionRU": "часто; много раз.",
+        "descriptionTR": "Sık sık; birçok kez.",
+        "descriptionAZ": "Tez-tez; bir çox dəfə.",
+        "descriptionUK": "Часто; багато разів."
     }, {
         "de": "danach",
         "en": "afterwards",
         "ru": "после этого",
+        "tr": "sonrasında",
+        "az": "bundan sonra",
+        "uk": "після цього",
         "descriptionDE": "zu einem späteren oder nachfolgenden Zeitpunkt.",
         "descriptionEN": "at a later or succeeding time.",
-        "descriptionRU": "в более позднее или последующее время."
+        "descriptionRU": "в более позднее или последующее время.",
+        "descriptionTR": "Daha sonra veya müteakip bir zamanda.",
+        "descriptionAZ": "Daha sonra və ya ardınca gələn bir zamanda.",
+        "descriptionUK": "У пізніший чи наступний час."
     }, {
         "de": "vorher",
         "en": "beforehand",
         "ru": "заранее",
+        "tr": "önceden",
+        "az": "əvvəlcədən",
+        "uk": "заздалегідь",
         "descriptionDE": "im Voraus; vorzeitig.",
         "descriptionEN": "in advance; ahead of time.",
-        "descriptionRU": "заранее; заранее."
+        "descriptionRU": "заранее; заранее.",
+        "descriptionTR": "Önceden; zamanından önce.",
+        "descriptionAZ": "Əvvəlcədən; vaxtından qabaq.",
+        "descriptionUK": "Заздалегідь; наперед."
     }, {
         "de": "oftentimes",
         "en": "often",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionDE": "bei vielen Gelegenheiten oder in vielen Fällen.",
         "descriptionEN": "on many occasions or in many cases.",
-        "descriptionRU": "во многих случаях или во многих случаях."
+        "descriptionRU": "во многих случаях или во многих случаях.",
+        "descriptionTR": "Birçok durumda veya birçok kez.",
+        "descriptionAZ": "Bir çox hallarda və ya bir çox dəfə.",
+        "descriptionUK": "У багатьох випадках чи у багатьох випадках."
     }, {
         "de": "wirklich",
         "en": "truly",
         "ru": "действительно",
+        "tr": "gerçekten",
+        "az": "həqiqətən",
+        "uk": "дійсно",
         "descriptionDE": "auf eine wahrheitsgemäße Weise.",
         "descriptionEN": "in a truthful way.",
-        "descriptionRU": "правдиво."
+        "descriptionRU": "правдиво.",
+        "descriptionTR": "Doğru bir şekilde.",
+        "descriptionAZ": "Doğru bir şəkildə.",
+        "descriptionUK": "Правдиво."
     }, {
         "de": "zusammen",
         "en": "together",
         "ru": "вместе",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
         "descriptionDE": "mit oder in der Nähe einer anderen Person oder Personen.",
         "descriptionEN": "with or in proximity to another person or people.",
-        "descriptionRU": "с другим человеком или людьми или рядом с ними."
+        "descriptionRU": "с другим человеком или людьми или рядом с ними.",
+        "descriptionTR": "Başka bir kişi veya kişilerle birlikte veya yakınında.",
+        "descriptionAZ": "Başqa bir şəxs və ya şəxslərlə birlikdə və ya yaxınlığında.",
+        "descriptionUK": "З іншою людиною чи людьми або поруч із ними."
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
         "descriptionDE": "viele Male in kurzen Abständen.",
         "descriptionEN": "many times at short intervals.",
-        "descriptionRU": "много раз в короткие интервалы."
+        "descriptionRU": "много раз в короткие интервалы.",
+        "descriptionTR": "Kısa aralıklarla birçok kez.",
+        "descriptionAZ": "Qısa fasilələrlə bir çox dəfə.",
+        "descriptionUK": "Багато разів у короткі інтервали."
     }, {
         "de": "schnell",
         "en": "quickly",
         "ru": "быстро",
+        "tr": "hızlı",
+        "az": "tez",
+        "uk": "швидко",
         "descriptionDE": "mit hoher Geschwindigkeit; schnell.",
         "descriptionEN": "at a fast speed; rapidly.",
-        "descriptionRU": "с большой скоростью; быстро."
+        "descriptionRU": "с большой скоростью; быстро.",
+        "descriptionTR": "Yüksek hızda; hızlı bir şekilde.",
+        "descriptionAZ": "Yüksək sürətlə; tez.",
+        "descriptionUK": "З великою швидкістю; швидко."
     }, {
         "de": "langsam",
         "en": "slowly",
         "ru": "медленно",
+        "tr": "yavaş",
+        "az": "yavaş",
+        "uk": "повільно",
         "descriptionDE": "mit geringer Geschwindigkeit.",
         "descriptionEN": "at a slow speed.",
-        "descriptionRU": "с медленной скоростью."
+        "descriptionRU": "с медленной скоростью.",
+        "descriptionTR": "Düşük hızda.",
+        "descriptionAZ": "Aşağı sürətlə.",
+        "descriptionUK": "З повільною швидкістю."
     }, {
         "de": "immer noch",
         "en": "still",
         "ru": "все еще",
+        "tr": "hala",
+        "az": "hələ də",
+        "uk": "все ще",
         "descriptionDE": "bis zum aktuellen Zeitpunkt oder zum genannten Zeitpunkt.",
         "descriptionEN": "up to and including the present or the time mentioned.",
-        "descriptionRU": "до настоящего времени или указанного времени."
+        "descriptionRU": "до настоящего времени или указанного времени.",
+        "descriptionTR": "Şu ana kadar veya belirtilen zamana kadar.",
+        "descriptionAZ": "Hazırkı vaxta və ya göstərilən vaxta qədər.",
+        "descriptionUK": "До теперішнього часу чи зазначеного часу."
     }
 ]

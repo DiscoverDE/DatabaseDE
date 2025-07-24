@@ -3,141 +3,261 @@
         "de": "der Hang",
         "en": "Slope",
         "ru": "Склон",
+        "tr": "yamaç",
+        "az": "yamaç",
+        "uk": "схил",
         "descriptionEN": "A surface that is at an angle to the horizontal.",
         "descriptionRU": "Поверхность, расположенная под углом к горизонту.",
-        "descriptionDE": "Eine Oberfläche, die im Winkel zur Horizontalen steht."
+        "descriptionDE": "Eine Oberfläche, die im Winkel zur Horizontalen steht.",
+        "descriptionTR": "Yatay düzleme açı yapan bir yüzey.",
+        "descriptionAZ": "Üfüqi müstəviyə bucaq altında duran səth.",
+        "descriptionUK": "Поверхня, розташована під кутом до горизонту."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionEN": "The arts, customs, and achievements of a society or group.",
         "descriptionRU": "Искусство, обычаи и достижения общества или группы.",
-        "descriptionDE": "Die Kunst, Bräuche und Errungenschaften einer Gesellschaft oder Gruppe."
+        "descriptionDE": "Die Kunst, Bräuche und Errungenschaften einer Gesellschaft oder Gruppe.",
+        "descriptionTR": "Bir toplumun veya grubun sanatları, gelenekleri ve başarıları.",
+        "descriptionAZ": "Cəmiyyətin və ya qrupun incəsənəti, adətləri və nailiyyətləri.",
+        "descriptionUK": "Мистецтво, звичаї та досягнення суспільства чи групи."
     }, {
         "de": "der Boden",
         "en": "Soil",
         "ru": "Почва",
+        "tr": "toprak",
+        "az": "torpaq",
+        "uk": "ґрунт",
         "descriptionEN": "The upper layer of earth in which plants grow.",
         "descriptionRU": "Верхний слой земли, на котором растут растения.",
-        "descriptionDE": "Die obere Erdschicht, in der Pflanzen wachsen."
+        "descriptionDE": "Die obere Erdschicht, in der Pflanzen wachsen.",
+        "descriptionTR": "Bitkilerin yetiştiği toprağın üst tabakası.",
+        "descriptionAZ": "Bitkilərin yetişdiyi torpağın üst qatı.",
+        "descriptionUK": "Верхній шар землі, на якому ростуть рослини."
     }, {
         "de": "die Landschaft",
         "en": "Landscape",
         "ru": "Пейзаж",
+        "tr": "peyzaj",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "All the visible features of an area of land.",
         "descriptionRU": "Все видимые особенности участка земли.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Gebiets.",
+        "descriptionTR": "Bir arazi parçasının tüm görünür özellikleri.",
+        "descriptionAZ": "Torpaq sahəsinin bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "Усі видимі особливості ділянки землі."
     }, {
         "de": "die Römer",
         "en": "Romans",
         "ru": "Римляне",
+        "tr": "Romalılar",
+        "az": "Romalılar",
+        "uk": "римляни",
         "descriptionEN": "People from ancient Rome.",
         "descriptionRU": "Люди из древнего Рима.",
-        "descriptionDE": "Menschen aus dem antiken Rom."
+        "descriptionDE": "Menschen aus dem antiken Rom.",
+        "descriptionTR": "Antik Roma'dan insanlar.",
+        "descriptionAZ": "Qədim Romadan olan insanlar.",
+        "descriptionUK": "Люди з давнього Риму."
     }, {
         "de": "der Ursprung",
         "en": "Origin",
         "ru": "Происхождение",
+        "tr": "köken",
+        "az": "mənşə",
+        "uk": "походження",
         "descriptionEN": "The point where something begins.",
         "descriptionRU": "Точка, с которой что-то начинается.",
-        "descriptionDE": "Der Punkt, an dem etwas beginnt."
+        "descriptionDE": "Der Punkt, an dem etwas beginnt.",
+        "descriptionTR": "Bir şeyin başladığı nokta.",
+        "descriptionAZ": "Bir şeyin başladığı nöqtə.",
+        "descriptionUK": "Точка, з якої щось починається."
     }, {
         "de": "der Fluss",
         "en": "River",
         "ru": "Река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "ріка",
         "descriptionEN": "A large natural stream of water flowing in a channel.",
         "descriptionRU": "Крупный природный поток воды, текущий в русле.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt.",
+        "descriptionTR": "Bir kanalda akan büyük doğal su akıntısı.",
+        "descriptionAZ": "Kanalda axan böyük təbii su axını.",
+        "descriptionUK": "Великий природний потік води, що тече руслом."
     }, {
         "de": "das Erbe",
         "en": "Heritage",
         "ru": "Наследие",
+        "tr": "miras",
+        "az": "irsiyyət",
+        "uk": "спадщина",
         "descriptionEN": "The traditions and achievements passed down from previous generations.",
         "descriptionRU": "Традиции и достижения, передаваемые от предыдущих поколений.",
-        "descriptionDE": "Die Traditionen und Errungenschaften, die von früheren Generationen weitergegeben wurden."
+        "descriptionDE": "Die Traditionen und Errungenschaften, die von früheren Generationen weitergegeben wurden.",
+        "descriptionTR": "Önceki nesillerden aktarılan gelenekler ve başarılar.",
+        "descriptionAZ": "Əvvəlki nəsillərdən ötürülən ənənələr və nailiyyətlər.",
+        "descriptionUK": "Традиції та досягнення, що передаються від попередніх поколінь."
     }, {
         "de": "fließen",
         "en": "to flow",
         "ru": "течь",
+        "tr": "akmak",
+        "az": "axmaq",
+        "uk": "текти",
         "descriptionEN": "To move smoothly in a continuous stream.",
         "descriptionRU": "Двигаться плавно в непрерывном потоке.",
-        "descriptionDE": "Sich glatt in einem kontinuierlichen Strom bewegen."
+        "descriptionDE": "Sich glatt in einem kontinuierlichen Strom bewegen.",
+        "descriptionTR": "Sürekli bir akışta pürüzsüzce hareket etmek.",
+        "descriptionAZ": "Davamlı axında hamar hərəkət etmək.",
+        "descriptionUK": "Рухатися плавно у безперервному потоці."
     }, {
         "de": "entspringen",
         "en": "to originate",
         "ru": "происходить",
+        "tr": "kaynaklanmak",
+        "az": "mənbələnmək",
+        "uk": "походити",
         "descriptionEN": "To begin or arise from a source.",
         "descriptionRU": "Начинаться или происходить из источника.",
-        "descriptionDE": "Von einer Quelle beginnen oder entstehen."
+        "descriptionDE": "Von einer Quelle beginnen oder entstehen.",
+        "descriptionTR": "Bir kaynaktan başlamak veya doğmak.",
+        "descriptionAZ": "Bir mənbədən başlamaq və ya yaranmaq.",
+        "descriptionUK": "Починатися чи виникати з джерела."
     }, {
         "de": "anbauen",
         "en": "to cultivate",
         "ru": "выращивать",
+        "tr": "yetiştirmek",
+        "az": "yetişdirmək",
+        "uk": "вирощувати",
         "descriptionEN": "To prepare and use land for crops.",
         "descriptionRU": "Подготавливать и использовать землю для выращивания культур.",
-        "descriptionDE": "Land für den Anbau von Pflanzen vorbereiten und nutzen."
+        "descriptionDE": "Land für den Anbau von Pflanzen vorbereiten und nutzen.",
+        "descriptionTR": "Bitkiler için arazi hazırlamak ve kullanmak.",
+        "descriptionAZ": "Bitkilər üçün torpaq hazırlamaq və istifadə etmək.",
+        "descriptionUK": "Готувати та використовувати землю для вирощування культур."
     }, {
         "de": "verbinden",
         "en": "to connect",
         "ru": "соединять",
+        "tr": "bağlamak",
+        "az": "bağlamaq",
+        "uk": "з'єднувати",
         "descriptionEN": "To bring together or link.",
         "descriptionRU": "Объединять или связывать.",
-        "descriptionDE": "Zusammenbringen oder verbinden."
+        "descriptionDE": "Zusammenbringen oder verbinden.",
+        "descriptionTR": "Bir araya getirmek veya bağlamak.",
+        "descriptionAZ": "Bir araya gətirmək və ya bağlamaq.",
+        "descriptionUK": "Об'єднувати чи зв'язувати."
     }, {
         "de": "testen",
         "en": "to test",
         "ru": "тестировать",
+        "tr": "test etmek",
+        "az": "sınaqdan keçirmək",
+        "uk": "тестувати",
         "descriptionEN": "To assess or evaluate something.",
         "descriptionRU": "Оценивать или проверять что-либо.",
-        "descriptionDE": "Etwas bewerten oder prüfen."
+        "descriptionDE": "Etwas bewerten oder prüfen.",
+        "descriptionTR": "Bir şeyi değerlendirmek veya test etmek.",
+        "descriptionAZ": "Bir şeyi qiymətləndirmək və ya yoxlamaq.",
+        "descriptionUK": "Оцінювати чи перевіряти щось."
     }, {
         "de": "münden",
         "en": "to flow into",
         "ru": "впадать",
+        "tr": "dökülmek",
+        "az": "axmaq",
+        "uk": "впадати",
         "descriptionEN": "To empty into another body of water.",
         "descriptionRU": "Впадать в другое водное пространство.",
-        "descriptionDE": "In ein anderes Gewässer münden."
+        "descriptionDE": "In ein anderes Gewässer münden.",
+        "descriptionTR": "Başka bir su kütlesine boşalmak.",
+        "descriptionAZ": "Başqa bir su hövzəsinə axmaq.",
+        "descriptionUK": "Впадати в інший водойми."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsici",
+        "uk": "захоплюючий",
         "descriptionEN": "Astonishing or awe-inspiring.",
         "descriptionRU": "Потрясающий или вдохновляющий.",
-        "descriptionDE": "Erstaunlich oder beeindruckend."
+        "descriptionDE": "Erstaunlich oder beeindruckend.",
+        "descriptionTR": "Şaşırtıcı veya ilham verici.",
+        "descriptionAZ": "Təəccübləndirici və ya ilham verici.",
+        "descriptionUK": "Приголомшливий чи надихаючий."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
         "descriptionEN": "Having an abundance of something valuable.",
         "descriptionRU": "Имеющий изобилие чего-то ценного.",
-        "descriptionDE": "Etwas Wertvolles im Überfluss haben."
+        "descriptionDE": "Etwas Wertvolles im Überfluss haben.",
+        "descriptionTR": "Değerli bir şeyin bolluğuna sahip olmak.",
+        "descriptionAZ": "Dəyərli bir şeyin bolluğuna malik olmaq.",
+        "descriptionUK": "Маючи достаток чогось цінного."
     }, {
         "de": "lebendig",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
         "descriptionEN": "Full of energy and life.",
         "descriptionRU": "Полный энергии и жизни.",
-        "descriptionDE": "Voller Energie und Leben."
+        "descriptionDE": "Voller Energie und Leben.",
+        "descriptionTR": "Enerji ve hayat dolu.",
+        "descriptionAZ": "Enerji və həyat dolu.",
+        "descriptionUK": "Повний енергії та життя."
     }, {
         "de": "schieferhaltig",
         "en": "slate-rich",
         "ru": "содержащий сланец",
+        "tr": "şist bakımından zengin",
+        "az": "slanec zəngini",
+        "uk": "багатий на сланець",
         "descriptionEN": "Containing or rich in slate.",
         "descriptionRU": "Содержащий или богатый сланцем.",
-        "descriptionDE": "Schiefer enthaltend oder reich an Schiefer."
+        "descriptionDE": "Schiefer enthaltend oder reich an Schiefer.",
+        "descriptionTR": "Şist içeren veya şist bakımından zengin.",
+        "descriptionAZ": "Slanec ehtiva edən və ya slanec baxımından zəngin.",
+        "descriptionUK": "Містить або багатий на сланець."
     }, {
         "de": "natürlich",
         "en": "naturally",
         "ru": "естественно",
+        "tr": "doğal olarak",
+        "az": "təbii olaraq",
+        "uk": "природно",
         "descriptionEN": "In a natural manner.",
         "descriptionRU": "В естественной манере.",
-        "descriptionDE": "Auf natürliche Weise."
+        "descriptionDE": "Auf natürliche Weise.",
+        "descriptionTR": "Doğal bir şekilde.",
+        "descriptionAZ": "Təbii şəkildə.",
+        "descriptionUK": "Природним чином."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Known by many people.",
         "descriptionRU": "Известный многим людям.",
-        "descriptionDE": "Von vielen Menschen bekannt."
+        "descriptionDE": "Von vielen Menschen bekannt.",
+        "descriptionTR": "Birçok insan tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən tanınan.",
+        "descriptionUK": "Відомий багатьом людям."
     }
 ]

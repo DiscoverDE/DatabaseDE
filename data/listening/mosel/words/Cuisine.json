@@ -3,162 +3,300 @@
         "de": "der Wein",
         "en": "Wine",
         "ru": "Вино",
+        "tr": "Şarap",
+        "az": "Şərab",
+        "uk": "Вино",
         "descriptionEN": "An alcoholic drink made from fermented grapes or other fruits.",
         "descriptionRU": "Алкогольный напиток, сделанный из ферментированного винограда или других фруктов.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben oder anderen Früchten hergestellt wird.",
+        "descriptionTR": "Fermente üzümlerden veya diğer meyvelerden yapılan alkollü bir içecek.",
+        "descriptionAZ": "Qarışmış üzümlərdən və ya digər meyvələrdən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, зроблений із ферментованого винограду або інших фруктів."
     }, {
         "de": "die Soße",
         "en": "Sauce",
         "ru": "Соус",
+        "tr": "Sos",
+        "az": "Sous",
+        "uk": "Соус",
         "descriptionEN": "A liquid or semi-liquid substance served with food to add flavor.",
         "descriptionRU": "Жидкое или полужидкое вещество, подаваемое с едой для добавления вкуса.",
-        "descriptionDE": "Eine flüssige oder halbfeste Substanz, die zu Speisen gereicht wird, um Geschmack zu verleihen."
+        "descriptionDE": "Eine flüssige oder halbfeste Substanz, die zu Speisen gereicht wird, um Geschmack zu verleihen.",
+        "descriptionTR": "Yemeğe lezzet katmak için servis edilen sıvı veya yarı sıvı bir madde.",
+        "descriptionAZ": "Yeməyə dad əlavə etmək üçün verilən maye və ya yarımaye maddə.",
+        "descriptionUK": "Рідка або напіврідка речовина, яка подається з їжею для додання смаку."
     }, {
         "de": "das Gericht",
         "en": "Dish",
         "ru": "Блюдо",
+        "tr": "Yemek",
+        "az": "Yemək",
+        "uk": "Страва",
         "descriptionEN": "A specific type of prepared food.",
         "descriptionRU": "Конкретный тип приготовленной еды.",
-        "descriptionDE": "Eine bestimmte Art von zubereiteter Speise."
+        "descriptionDE": "Eine bestimmte Art von zubereiteter Speise.",
+        "descriptionTR": "Belirli bir tür hazırlanmış yiyecek.",
+        "descriptionAZ": "Xüsusi növ hazırlanmış qida.",
+        "descriptionUK": "Конкретний тип приготованої їжі."
     }, {
         "de": "das Wildbret",
         "en": "Venison",
         "ru": "Оленина",
+        "tr": "Geyik eti",
+        "az": "Maral əti",
+        "uk": "Оленина",
         "descriptionEN": "Meat from deer, often prepared in various traditional ways.",
         "descriptionRU": "Мясо оленя, часто приготовленное различными традиционными способами.",
-        "descriptionDE": "Fleisch vom Wild, das oft auf verschiedene traditionelle Weise zubereitet wird."
+        "descriptionDE": "Fleisch vom Wild, das oft auf verschiedene traditionelle Weise zubereitet wird.",
+        "descriptionTR": "Çeşitli geleneksel yollarla hazırlanan geyik eti.",
+        "descriptionAZ": "Müxtəlif ənənəvi üsullarla hazırlanan maral əti.",
+        "descriptionUK": "М'ясо оленя, часто приготоване різними традиційними способами."
     }, {
         "de": "das Kaninchen",
         "en": "Rabbit",
         "ru": "Кролик",
+        "tr": "Tavşan",
+        "az": "Dovşan",
+        "uk": "Кролик",
         "descriptionEN": "A small mammal that is often prepared as food in game dishes.",
         "descriptionRU": "Маленький млекопитающий, который часто готовится как блюдо из дичи.",
-        "descriptionDE": "Ein kleines Säugetier, das oft als Wildgericht zubereitet wird."
+        "descriptionDE": "Ein kleines Säugetier, das oft als Wildgericht zubereitet wird.",
+        "descriptionTR": "Av yemeklerinde yiyecek olarak sıkça hazırlanan küçük bir memeli.",
+        "descriptionAZ": "Ov yeməklərində qida kimi tez-tez hazırlanan kiçik məməli.",
+        "descriptionUK": "Маленький ссавець, який часто готується як страва з дичини."
     }, {
         "de": "die Zwiebel",
         "en": "Onion",
         "ru": "Лук",
+        "tr": "Soğan",
+        "az": "Soğan",
+        "uk": "Цибуля",
         "descriptionEN": "A pungent bulb used as a vegetable and flavoring in cooking.",
         "descriptionRU": "Острый луковый корнеплод, используемый как овощ и приправа в кулинарии.",
-        "descriptionDE": "Eine scharfe Zwiebel, die als Gemüse und Gewürz beim Kochen verwendet wird."
+        "descriptionDE": "Eine scharfe Zwiebel, die als Gemüse und Gewürz beim Kochen verwendet wird.",
+        "descriptionTR": "Yemek pişirmede sebze ve tatlandırıcı olarak kullanılan keskin bir soğan.",
+        "descriptionAZ": "Yemək bişirmədə tərəvəz və dadlandırıcı kimi istifadə olunan kəskin soğan.",
+        "descriptionUK": "Гострий цибулинний коренеплід, що використовується як овоч і приправа в кулінарії."
     }, {
         "de": "das Fleisch",
         "en": "Meat",
         "ru": "Мясо",
+        "tr": "Et",
+        "az": "Ət",
+        "uk": "М'ясо",
         "descriptionEN": "Animal flesh that is used as food.",
         "descriptionRU": "Плоть животных, которая используется в пищу.",
-        "descriptionDE": "Tierisches Fleisch, das als Nahrung verwendet wird."
+        "descriptionDE": "Tierisches Fleisch, das als Nahrung verwendet wird.",
+        "descriptionTR": "Yiyecek olarak kullanılan hayvan eti.",
+        "descriptionAZ": "Qida kimi istifadə olunan heyvan əti.",
+        "descriptionUK": "Тваринна плоть, яка використовується в їжу."
     }, {
         "de": "der Pilz",
         "en": "Mushroom",
         "ru": "Гриб",
+        "tr": "Mantar",
+        "az": "Göbələk",
+        "uk": "Гриб",
         "descriptionEN": "A fungal growth used in cooking for its flavor.",
         "descriptionRU": "Грибной рост, используемый в кулинарии за его вкус.",
-        "descriptionDE": "Ein Pilzgewächs, das wegen seines Geschmacks beim Kochen verwendet wird."
+        "descriptionDE": "Ein Pilzgewächs, das wegen seines Geschmacks beim Kochen verwendet wird.",
+        "descriptionTR": "Lezzeti için yemeklerde kullanılan mantar.",
+        "descriptionAZ": "Dadı üçün yeməklərdə istifadə olunan göbələk.",
+        "descriptionUK": "Грибний ріст, що використовується в кулінарії за його смак."
     }, {
         "de": "das Kraut",
         "en": "Herb",
         "ru": "Трава",
+        "tr": "Ot",
+        "az": "Göyərti",
+        "uk": "Трава",
         "descriptionEN": "A plant or plant part used for its flavor, scent, or medicinal properties.",
         "descriptionRU": "Растение или его часть, используемая за аромат, вкус или лечебные свойства.",
-        "descriptionDE": "Eine Pflanze oder Pflanzenteil, die wegen ihres Geschmacks, Duftes oder medizinischer Eigenschaften verwendet wird."
+        "descriptionDE": "Eine Pflanze oder Pflanzenteil, die wegen ihres Geschmacks, Duftes oder medizinischer Eigenschaften verwendet wird.",
+        "descriptionTR": "Lezzeti, kokusu veya tıbbi özellikleri için kullanılan bir bitki veya bitki parçası.",
+        "descriptionAZ": "Dadı, qoxusu və ya dərman xüsusiyyətləri üçün istifadə olunan bitki və ya bitki hissəsi.",
+        "descriptionUK": "Рослина або її частина, що використовується за аромат, смак або лікувальні властивості."
     }, {
         "de": "der Speck",
         "en": "Bacon",
         "ru": "Бекон",
+        "tr": "Pastırma",
+        "az": "Becon",
+        "uk": "Бекон",
         "descriptionEN": "Cured meat, often from pork, used to add flavor to dishes.",
         "descriptionRU": "Вяленое мясо, часто свинина, используемое для придания вкуса блюдам.",
-        "descriptionDE": "Gepökeltes Fleisch, oft vom Schwein, das verwendet wird, um Gerichten Geschmack zu verleihen."
+        "descriptionDE": "Gepökeltes Fleisch, oft vom Schwein, das verwendet wird, um Gerichten Geschmack zu verleihen.",
+        "descriptionTR": "Yemeklere lezzet katmak için kullanılan, genellikle domuz etinden yapılan işlenmiş et.",
+        "descriptionAZ": "Yeməklərə dad vermək üçün istifadə olunan, çox vaxt donuz əti ilə hazırlanmış emal edilmiş ət.",
+        "descriptionUK": "В'ялене м'ясо, часто свинина, що використовується для надання смаку стравам."
     }, {
         "de": "das Schweinefleisch",
         "en": "Pork",
         "ru": "Свинина",
+        "tr": "Domuz eti",
+        "az": "Donuz əti",
+        "uk": "Свинина",
         "descriptionEN": "Meat from pigs, widely used in various cuisines.",
         "descriptionRU": "Мясо свиней, широко используемое в разных кухнях.",
-        "descriptionDE": "Fleisch von Schweinen, das in verschiedenen Küchen verwendet wird."
+        "descriptionDE": "Fleisch von Schweinen, das in verschiedenen Küchen verwendet wird.",
+        "descriptionTR": "Çeşitli mutfaklarda yaygın olarak kullanılan domuz eti.",
+        "descriptionAZ": "Müxtəlif mətbəxlərdə geniş istifadə olunan donuz əti.",
+        "descriptionUK": "М'ясо свиней, широко використовуване в різних кухнях."
     }, {
         "de": "der Markt",
         "en": "Market",
         "ru": "Рынок",
+        "tr": "Pazar",
+        "az": "Bazar",
+        "uk": "Ринок",
         "descriptionEN": "A place where goods and services are bought and sold.",
         "descriptionRU": "Место, где товары и услуги покупаются и продаются.",
-        "descriptionDE": "Ein Ort, an dem Waren und Dienstleistungen gekauft und verkauft werden."
+        "descriptionDE": "Ein Ort, an dem Waren und Dienstleistungen gekauft und verkauft werden.",
+        "descriptionTR": "Mal ve hizmetlerin alınıp satıldığı yer.",
+        "descriptionAZ": "Malların və xidmətlərin alınıb satıldığı yer.",
+        "descriptionUK": "Місце, де товари та послуги купуються і продаються."
     }, {
         "de": "zubereiten",
         "en": "to prepare",
         "ru": "готовить",
+        "tr": "hazırlamak",
+        "az": "hazırlamaq",
+        "uk": "готувати",
         "descriptionEN": "To make food or a meal ready for eating.",
         "descriptionRU": "Подготовить еду или блюдо к употреблению.",
-        "descriptionDE": "Essen oder eine Mahlzeit zum Verzehr bereitmachen."
+        "descriptionDE": "Essen oder eine Mahlzeit zum Verzehr bereitmachen.",
+        "descriptionTR": "Yemeği veya bir öğünü yemeye hazır hale getirmek.",
+        "descriptionAZ": "Yeməyi və ya bir yeməyi yeməyə hazır etmək.",
+        "descriptionUK": "Приготувати їжу чи страву до вживання."
     }, {
         "de": "grillen",
         "en": "to grill",
         "ru": "жарить на гриле",
+        "tr": "ızgarada pişirmek",
+        "az": "qril etmək",
+        "uk": "смажити на грилі",
         "descriptionEN": "To cook food on a grill or open flame.",
         "descriptionRU": "Готовить еду на гриле или открытом огне.",
-        "descriptionDE": "Essen auf einem Grill oder über offenem Feuer zubereiten."
+        "descriptionDE": "Essen auf einem Grill oder über offenem Feuer zubereiten.",
+        "descriptionTR": "Yiyecekleri ızgarada veya açık ateşte pişirmek.",
+        "descriptionAZ": "Qida məhsullarını qril və ya açıq odda bişirmək.",
+        "descriptionUK": "Готувати їжу на грилі чи відкритому вогні."
     }, {
         "de": "servieren",
         "en": "to serve",
         "ru": "подавать",
+        "tr": "servis etmek",
+        "az": "servis etmək",
+        "uk": "подавати",
         "descriptionEN": "To present food or drink for consumption.",
         "descriptionRU": "Представить еду или напитки для употребления.",
-        "descriptionDE": "Essen oder Getränke zum Verzehr anbieten."
+        "descriptionDE": "Essen oder Getränke zum Verzehr anbieten.",
+        "descriptionTR": "Yiyecek veya içecekleri tüketime sunmak.",
+        "descriptionAZ": "Qida və ya içkiləri istehlak üçün təqdim etmək.",
+        "descriptionUK": "Подати їжу чи напої для вживання."
     }, {
         "de": "belegen",
         "en": "to top",
         "ru": "накрывать",
+        "tr": "üzerine koymak",
+        "az": "üstünü örtmək",
+        "uk": "накривати",
         "descriptionEN": "To cover or garnish a dish with an ingredient.",
         "descriptionRU": "Покрыть или украсить блюдо ингредиентом.",
-        "descriptionDE": "Ein Gericht mit einer Zutat bedecken oder garnieren."
+        "descriptionDE": "Ein Gericht mit einer Zutat bedecken oder garnieren.",
+        "descriptionTR": "Bir yemeği bir malzemeyle kaplamak veya süslemek.",
+        "descriptionAZ": "Bir yeməyi bir maddə ilə örtmək və ya bəzəmək.",
+        "descriptionUK": "Накрити чи прикрасити страву інгредієнтом."
     }, {
         "de": "verwenden",
         "en": "to use",
         "ru": "использовать",
+        "tr": "kullanmak",
+        "az": "istifadə etmək",
+        "uk": "використовувати",
         "descriptionEN": "To employ something as a means to an end.",
         "descriptionRU": "Применять что-то как средство для достижения цели.",
-        "descriptionDE": "Etwas als Mittel zum Zweck verwenden."
+        "descriptionDE": "Etwas als Mittel zum Zweck verwenden.",
+        "descriptionTR": "Bir şeyi bir amaç için kullanmak.",
+        "descriptionAZ": "Bir şeyi məqsəd üçün vasitə kimi istifadə etmək.",
+        "descriptionUK": "Використовувати щось як засіб для досягнення мети."
     }, {
         "de": "kombinieren",
         "en": "to combine",
         "ru": "сочетать",
+        "tr": "birleştirmek",
+        "az": "birləşdirmək",
+        "uk": "поєднувати",
         "descriptionEN": "To bring together or merge two or more elements.",
         "descriptionRU": "Соединить или объединить два или более элемента.",
-        "descriptionDE": "Zwei oder mehr Elemente zusammenführen oder verschmelzen."
+        "descriptionDE": "Zwei oder mehr Elemente zusammenführen oder verschmelzen.",
+        "descriptionTR": "İki veya daha fazla öğeyi bir araya getirmek veya birleştirmek.",
+        "descriptionAZ": "İki və ya daha çox elementi bir araya gətirmək və ya birləşdirmək.",
+        "descriptionUK": "Поєднати або об'єднати два чи більше елементів."
     }, {
         "de": "süß",
         "en": "sweet",
         "ru": "сладкий",
+        "tr": "tatlı",
+        "az": "şirin",
+        "uk": "солодкий",
         "descriptionEN": "Having a pleasant sugary taste.",
         "descriptionRU": "Обладает приятным сладким вкусом.",
-        "descriptionDE": "Mit einem angenehmen zuckerhaltigen Geschmack."
+        "descriptionDE": "Mit einem angenehmen zuckerhaltigen Geschmack.",
+        "descriptionTR": "Hoş bir şekerli tada sahip olmak.",
+        "descriptionAZ": "Xoş bir şəkərli dada malik olmaq.",
+        "descriptionUK": "Має приємний солодкий смак."
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "Liked or enjoyed by many people.",
         "descriptionRU": "Любимый или пользующийся популярностью у многих людей.",
-        "descriptionDE": "Von vielen Menschen gemocht oder genossen."
+        "descriptionDE": "Von vielen Menschen gemocht oder genossen.",
+        "descriptionTR": "Birçok insan tarafından sevilen veya beğenilen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bəyənilən və ya sevilən.",
+        "descriptionUK": "Улюблений або популярний серед багатьох людей."
     }, {
         "de": "herbstlich",
         "en": "autumnal",
         "ru": "осенний",
+        "tr": "sonbahara ait",
+        "az": "payıza aid",
+        "uk": "осінній",
         "descriptionEN": "Related to or typical of autumn.",
         "descriptionRU": "Связано с осенью или типично для нее.",
-        "descriptionDE": "Im Zusammenhang mit dem Herbst oder typisch dafür."
+        "descriptionDE": "Im Zusammenhang mit dem Herbst oder typisch dafür.",
+        "descriptionTR": "Sonbaharla ilgili veya sonbahara özgü.",
+        "descriptionAZ": "Payızla əlaqəli və ya payıza xas.",
+        "descriptionUK": "Пов'язано з осінню або типове для неї."
     }, {
         "de": "frisch",
         "en": "fresh",
         "ru": "свежий",
+        "tr": "taze",
+        "az": "təzə",
+        "uk": "свіжий",
         "descriptionEN": "Recently made or obtained, not stale.",
         "descriptionRU": "Недавно приготовлен или получен, не несвежий.",
-        "descriptionDE": "Kürzlich gemacht oder erhalten, nicht abgestanden."
+        "descriptionDE": "Kürzlich gemacht oder erhalten, nicht abgestanden.",
+        "descriptionTR": "Yakın zamanda yapılmış veya elde edilmiş, bayat değil.",
+        "descriptionAZ": "Yaxın vaxtda hazırlanmış və ya əldə edilmiş, təzə.",
+        "descriptionUK": "Нещодавно приготований або отриманий, не черствий."
     }, {
         "de": "pikant",
         "en": "spicy",
         "ru": "острый",
+        "tr": "baharatlı",
+        "az": "ədviyyatlı",
+        "uk": "гострий",
         "descriptionEN": "Having a strong, pungent flavor.",
         "descriptionRU": "Имеет сильный, резкий вкус.",
-        "descriptionDE": "Mit einem starken, würzigen Geschmack."
+        "descriptionDE": "Mit einem starken, würzigen Geschmack.",
+        "descriptionTR": "Güçlü, keskin bir tada sahip olmak.",
+        "descriptionAZ": "Güclü, kəskin dada malik olmaq.",
+        "descriptionUK": "Має сильний, різкий смак."
     }
 ]

@@ -3,162 +3,300 @@
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes.",
         "descriptionEN": "The pervading tone or mood of a place.",
         "descriptionRU": "Всеобщее настроение или тон какого-либо места.",
-        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes."
+        "descriptionTR": "Bir yerin hakim tonu veya ruh hali.",
+        "descriptionAZ": "Bir yerin dominant tonu və ya əhvalı.",
+        "descriptionUK": "панівний тон або настрій місця."
     }, {
         "de": "der Besucher",
         "en": "visitor",
         "ru": "посетитель",
+        "tr": "ziyaretçi",
+        "az": "zəvvar",
+        "uk": "відвідувач",
+        "descriptionDE": "Eine Person, die einen Ort besucht.",
         "descriptionEN": "A person who visits a place.",
         "descriptionRU": "Человек, который посещает какое-то место.",
-        "descriptionDE": "Eine Person, die einen Ort besucht."
+        "descriptionTR": "Bir yeri ziyaret eden kişi.",
+        "descriptionAZ": "Bir yeri ziyarət edən şəxs.",
+        "descriptionUK": "особа, яка відвідує місце."
     }, {
         "de": "die Veranstaltung",
         "en": "event",
         "ru": "мероприятие",
+        "tr": "etkinlik",
+        "az": "tədbir",
+        "uk": "заходи",
+        "descriptionDE": "Eine organisierte Veranstaltung.",
         "descriptionEN": "An organized occasion.",
         "descriptionRU": "Организованное событие.",
-        "descriptionDE": "Eine organisierte Veranstaltung."
+        "descriptionTR": "Düzenlenen bir etkinlik.",
+        "descriptionAZ": "Təşkil edilən bir tədbir.",
+        "descriptionUK": "організований захід."
     }, {
         "de": "das Festzelt",
         "en": "festival tent",
         "ru": "праздничный шатер",
+        "tr": "festival çadırı",
+        "az": "festival çadırası",
+        "uk": "святковий намет",
+        "descriptionDE": "Ein großes Zelt, das für Feste verwendet wird.",
         "descriptionEN": "A large tent used for festivals.",
         "descriptionRU": "Большая палатка, используемая для фестивалей.",
-        "descriptionDE": "Ein großes Zelt, das für Feste verwendet wird."
+        "descriptionTR": "Festival için kullanılan büyük çadır.",
+        "descriptionAZ": "Festival üçün istifadə olunan böyük çadır.",
+        "descriptionUK": "великий намет, що використовується для фестивалів."
     }, {
         "de": "das Fahrgeschäft",
         "en": "ride",
         "ru": "аттракцион",
+        "tr": "lunapark aracı",
+        "az": "əyləncə vasitəsi",
+        "uk": "атракціон",
+        "descriptionDE": "Ein Fahrgeschäft auf einem Jahrmarkt oder in einem Vergnügungspark.",
         "descriptionEN": "An amusement ride at a fair or amusement park.",
         "descriptionRU": "Аттракцион на ярмарке или в парке развлечений.",
-        "descriptionDE": "Ein Fahrgeschäft auf einem Jahrmarkt oder in einem Vergnügungspark."
+        "descriptionTR": "Panayır veya lunaparkta bir eğlence aracı.",
+        "descriptionAZ": "Yarmarka və ya əyləncə parkında olan əyləncə vasitəsi.",
+        "descriptionUK": "атракціон на ярмарку або в парку розваг."
     }, {
         "de": "die Spezialität",
         "en": "specialty",
         "ru": "специальность",
+        "tr": "özellik",
+        "az": "xüsusiyyət",
+        "uk": "особливість",
+        "descriptionDE": "Ein charakteristisches oder typisches Produkt.",
         "descriptionEN": "A distinctive or characteristic product.",
         "descriptionRU": "Характерный продукт.",
-        "descriptionDE": "Ein charakteristisches oder typisches Produkt."
+        "descriptionTR": "Ayırt edici veya karakteristik bir ürün.",
+        "descriptionAZ": "Xas və ya xarakterik məhsul.",
+        "descriptionUK": "відмінний або характерний продукт."
     }, {
         "de": "die Köstlichkeit",
         "en": "delicacy",
         "ru": "деликатес",
+        "tr": "lezizlik",
+        "az": "dadlı yemək",
+        "uk": "делікатес",
+        "descriptionDE": "Ein köstliches und seltenes Nahrungsmittel.",
         "descriptionEN": "A delicious and rare food item.",
         "descriptionRU": "Вкусный и редкий продукт питания.",
-        "descriptionDE": "Ein köstliches und seltenes Nahrungsmittel."
+        "descriptionTR": "Lezzetli ve nadir bir yiyecek.",
+        "descriptionAZ": "Dadlı və nadir qida məhsulu.",
+        "descriptionUK": "смачний та рідкісний харчовий продукт."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "tr": "müzik",
+        "az": "musıqı",
+        "uk": "музика",
+        "descriptionDE": "Vokale oder instrumentale Klänge, die kombiniert werden, um Harmonie zu erzeugen.",
         "descriptionEN": "Vocal or instrumental sounds combined to produce harmony.",
         "descriptionRU": "Вокальные или инструментальные звуки, объединенные для создания гармонии.",
-        "descriptionDE": "Vokale oder instrumentale Klänge, die kombiniert werden, um Harmonie zu erzeugen."
+        "descriptionTR": "Uyum yaratmak için birleştirilen vokal veya enstrümantal sesler.",
+        "descriptionAZ": "Harmoniya yaratmaq üçün birləşdirilmiş vokal və ya instrumental səslər.",
+        "descriptionUK": "голосові чи інструментальні звуки, поєднані для створення гармонії."
     }, {
         "de": "die Kirmes",
         "en": "fair",
         "ru": "ярмарка",
+        "tr": "panayır",
+        "az": "yarmarka",
+        "uk": "ярмарок",
+        "descriptionDE": "Ein Treffen mit Fahrgeschäften und Unterhaltung.",
         "descriptionEN": "A gathering with rides and entertainment.",
         "descriptionRU": "Сборище с аттракционами и развлечениями.",
-        "descriptionDE": "Ein Treffen mit Fahrgeschäften und Unterhaltung."
+        "descriptionTR": "Lunapark araçları ve eğlence ile bir araya gelme.",
+        "descriptionAZ": "Əyləncəli və attraksionlarla bir yığıncaq.",
+        "descriptionUK": "збір з атракціонами та розвагами."
     }, {
         "de": "das Bier",
         "en": "beer",
         "ru": "пиво",
+        "tr": "bira",
+        "az": "pivə",
+        "uk": "пиво",
+        "descriptionDE": "Ein alkoholisches Getränk, das aus Hefe-fermentiertem Malz hergestellt wird.",
         "descriptionEN": "An alcoholic drink made from yeast-fermented malt.",
         "descriptionRU": "Алкогольный напиток, приготовленный из ферментированного солода.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus Hefe-fermentiertem Malz hergestellt wird."
+        "descriptionTR": "Mayalanmış malt ve mayadan yapılan alkollü içecek.",
+        "descriptionAZ": "Mayalanmış malt və maya ilə hazırlanmış spirtli içki.",
+        "descriptionUK": "алкогольний напій, виготовлений із дріжджового ферментованого солоду."
     }, {
         "de": "die Blaskapelle",
         "en": "brass band",
         "ru": "духовой оркестр",
+        "tr": "bakır üflemeli orkestra",
+        "az": "misli alət orkestri",
+        "uk": "духовий оркестр",
+        "descriptionDE": "Ein musikalisches Ensemble, das aus Blechblasinstrumenten besteht.",
         "descriptionEN": "A musical ensemble consisting of brass instruments.",
         "descriptionRU": "Музыкальный ансамбль, состоящий из духовых инструментов.",
-        "descriptionDE": "Ein musikalisches Ensemble, das aus Blechblasinstrumenten besteht."
+        "descriptionTR": "Bakır üflemeli çalgılardan oluşan müzik grubu.",
+        "descriptionAZ": "Misli üfləyici alətlərdən ibarət musiqi qrupu.",
+        "descriptionUK": "музичний ансамбль, який складається з духових інструментів."
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen.",
         "descriptionEN": "To acknowledge a significant event with festivities.",
         "descriptionRU": "Отмечать значительное событие торжествами.",
-        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+        "descriptionTR": "Önemli bir olayı kutlamalarla tanımak.",
+        "descriptionAZ": "Əhəmiyyətli hadisəni mərasimlərlə tanımaq.",
+        "descriptionUK": "визнати значну подію святкуваннями."
     }, {
         "de": "bieten",
         "en": "offer",
         "ru": "предлагать",
+        "tr": "sunmak",
+        "az": "təklif etmək",
+        "uk": "пропонувати",
+        "descriptionDE": "Etwas zur Annahme präsentieren oder anbieten.",
         "descriptionEN": "To present or proffer something for acceptance.",
         "descriptionRU": "Предлагать что-либо для принятия.",
-        "descriptionDE": "Etwas zur Annahme präsentieren oder anbieten."
+        "descriptionTR": "Kabul için bir şey sunmak veya teklif etmek.",
+        "descriptionAZ": "Qəbul üçün bir şeyi təqdim etmək və ya təklif etmək.",
+        "descriptionUK": "представити або запропонувати щось для прийняття."
     }, {
         "de": "verwandeln",
         "en": "transform",
         "ru": "превращать",
+        "tr": "dönüştürmek",
+        "az": "dönüştürmək",
+        "uk": "перетворювати",
+        "descriptionDE": "Die Form oder das Aussehen ändern.",
         "descriptionEN": "To change in form or appearance.",
         "descriptionRU": "Изменить форму или внешний вид.",
-        "descriptionDE": "Die Form oder das Aussehen ändern."
+        "descriptionTR": "Biçim veya görünüşü değiştirmek.",
+        "descriptionAZ": "Formanı və ya görünüşü dəyişdirmək.",
+        "descriptionUK": "змінити форму або зовнішній вигляд."
     }, {
         "de": "erleben",
         "en": "experience",
         "ru": "испытывать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "відчувати",
+        "descriptionDE": "Ein Ereignis erleben oder durchmachen.",
         "descriptionEN": "To encounter or undergo an event or occurrence.",
         "descriptionRU": "Столкнуться с событием или пережить его.",
-        "descriptionDE": "Ein Ereignis erleben oder durchmachen."
+        "descriptionTR": "Bir olayı yaşamak veya geçirmek.",
+        "descriptionAZ": "Hadisəni yaşamaq və ya təcrübə etmək.",
+        "descriptionUK": "зустрітися або пережити подію чи випадок."
     }, {
         "de": "tauchen",
         "en": "immerse",
         "ru": "погружаться",
+        "tr": "dalmak",
+        "az": "dalmaq",
+        "uk": "занурюватись",
+        "descriptionDE": "Sich tief in eine bestimmte Tätigkeit einlassen.",
         "descriptionEN": "To involve oneself deeply in a particular activity.",
         "descriptionRU": "Глубоко вовлекаться в определенную деятельность.",
-        "descriptionDE": "Sich tief in eine bestimmte Tätigkeit einlassen."
+        "descriptionTR": "Belirli bir etkinliğe derinlemesine dahil olmak.",
+        "descriptionAZ": "Müəyyən bir fəaliyyətə dərinləşmək.",
+        "descriptionUK": "глибоко зануритися в певну діяльність."
     }, {
         "de": "malerisch",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "tablo gibi",
+        "az": "rəngarəng",
+        "uk": "живописний",
+        "descriptionDE": "Visuell attraktiv, besonders auf eine malerische Weise.",
         "descriptionEN": "Visually attractive, especially in a quaint way.",
         "descriptionRU": "Визуально привлекательный, особенно в причудливом стиле.",
-        "descriptionDE": "Visuell attraktiv, besonders auf eine malerische Weise."
+        "descriptionTR": "Görsel olarak çekici, özellikle tablo gibi.",
+        "descriptionAZ": "Vizual cəhətdən cazibədar, xüsusilə rəngarəng şəkildə.",
+        "descriptionUK": "візуально привабливий, особливо у мальовничому стилі."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
+        "descriptionDE": "Im Rahmen einer Tradition existierend oder Teil davon.",
         "descriptionEN": "Existing in or as part of a tradition.",
         "descriptionRU": "Существующий в рамках традиции или как часть традиции.",
-        "descriptionDE": "Im Rahmen einer Tradition existierend oder Teil davon."
+        "descriptionTR": "Bir gelenek içinde var olan veya ona ait olan.",
+        "descriptionAZ": "Ənənənin bir hissəsi kimi mövcud olan.",
+        "descriptionUK": "існуючий в межах традиції або як її частина."
     }, {
         "de": "abwechslungsreich",
         "en": "varied",
         "ru": "разнообразный",
+        "tr": "çeşitli",
+        "az": "müxtəlif",
+        "uk": "різноманітний",
+        "descriptionDE": "Verschiedene Arten oder Elemente einbeziehend.",
         "descriptionEN": "Incorporating a number of different types or elements.",
         "descriptionRU": "Включающий множество различных типов или элементов.",
-        "descriptionDE": "Verschiedene Arten oder Elemente einbeziehend."
+        "descriptionTR": "Birçok farklı tür veya öğeyi içeren.",
+        "descriptionAZ": "Bir neçə fərqli növ və ya elementi əhatə edən.",
+        "descriptionUK": "включаючи кілька різних типів або елементів."
     }, {
         "de": "deftig",
         "en": "hearty",
         "ru": "сытный",
+        "tr": "tok tutan",
+        "az": "doyurucu",
+        "uk": "ситний",
+        "descriptionDE": "Herzhaft und gehaltvoll.",
         "descriptionEN": "Wholesome and substantial.",
         "descriptionRU": "Здоровый и существенный.",
-        "descriptionDE": "Herzhaft und gehaltvoll."
+        "descriptionTR": "Besleyici ve doyurucu.",
+        "descriptionAZ": "Qidalı və doyurucu.",
+        "descriptionUK": "поживний та ситний."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unutulmaz",
+        "uk": "незабутній",
+        "descriptionDE": "Nicht leicht zu vergessen.",
         "descriptionEN": "Not likely to be forgotten.",
         "descriptionRU": "Трудно забываемый.",
-        "descriptionDE": "Nicht leicht zu vergessen."
+        "descriptionTR": "Kolay kolay unutulmayacak.",
+        "descriptionAZ": "Asanlıqla unudulmayacaq.",
+        "descriptionUK": "нелегко забути."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "varlı",
+        "uk": "багатий",
+        "descriptionDE": "Viel von etwas haben.",
         "descriptionEN": "Having a lot of something.",
         "descriptionRU": "Имеющий много чего-либо.",
-        "descriptionDE": "Viel von etwas haben."
+        "descriptionTR": "Bir şeyin çok olması.",
+        "descriptionAZ": "Bir şeyin çox olması.",
+        "descriptionUK": "мати багато чогось."
     }, {
         "de": "zünftig",
         "en": "jolly",
         "ru": "веселый",
+        "tr": "neşeli",
+        "az": "şən",
+        "uk": "веселий",
+        "descriptionDE": "Fröhlich und lebhaft.",
         "descriptionEN": "Cheerful and lively.",
         "descriptionRU": "Веселый и живой.",
-        "descriptionDE": "Fröhlich und lebhaft."
+        "descriptionTR": "Neşeli ve canlı.",
+        "descriptionAZ": "Şən və canlı.",
+        "descriptionUK": "веселий і жвавий."
     }
 ]

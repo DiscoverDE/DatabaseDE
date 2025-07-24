@@ -3,162 +3,300 @@
         "de": "das Wetter",
         "en": "weather",
         "ru": "погода",
+        "tr": "hava durumu",
+        "az": "hava şəraiti",
+        "uk": "погода",
+        "descriptionDE": "Der Zustand der Atmosphäre an einem Ort und zu einer bestimmten Zeit in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw.",
         "descriptionEN": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
         "descriptionRU": "Состояние атмосферы в конкретном месте и времени в отношении тепла, сухости, солнечного света, ветра, дождя и т. д.",
-        "descriptionDE": "Der Zustand der Atmosphäre an einem Ort und zu einer bestimmten Zeit in Bezug auf Wärme, Trockenheit, Sonnenschein, Wind, Regen usw."
+        "descriptionTR": "Bir yer ve zamanda ısınma, kuruluk, güneş ışığı, rüzgar, yağmur vb. açısından atmosferin durumu.",
+        "descriptionAZ": "Bir yer və zamanda istilik, quruqluq, günəş işığı, külək, yağış və s. ilə bağlı atmosferin vəziyyəti.",
+        "descriptionUK": "стан атмосфери в певному місці й часі щодо тепла, сухості, сонячного світла, вітру, дощу тощо."
     }, {
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
+        "tr": "hafta sonu",
+        "az": "həftəsonu",
+        "uk": "вихідні",
+        "descriptionDE": "Der Zeitraum von Freitagabend bis Sonntagabend, besonders als Freizeit betrachtet.",
         "descriptionEN": "The period from Friday evening through Sunday evening, especially regarded as a time for leisure.",
         "descriptionRU": "Период с вечера пятницы до вечера воскресенья, особенно рассматриваемый как время для отдыха.",
-        "descriptionDE": "Der Zeitraum von Freitagabend bis Sonntagabend, besonders als Freizeit betrachtet."
+        "descriptionTR": "Cuma akşamından Pazar akşamına kadar olan dönem, özellikle boş zaman olarak değerlendirilir.",
+        "descriptionAZ": "Cümə axşamından bazar axşamına qədər olan müddət, xüsusən istirahət vaxtı kimi qiymətləndirilir.",
+        "descriptionUK": "період з п’ятниці вечора до неділі вечора, особливо вважається часом для відпочинку."
     }, {
         "de": "das Festival",
         "en": "festival",
         "ru": "фестиваль",
+        "tr": "festival",
+        "az": "festival",
+        "uk": "фестиваль",
+        "descriptionDE": "Ein Tag oder Zeitraum des Feierns, typischerweise aus religiösen Gründen.",
         "descriptionEN": "A day or period of celebration, typically for religious reasons.",
         "descriptionRU": "День или период празднования, обычно по религиозным причинам.",
-        "descriptionDE": "Ein Tag oder Zeitraum des Feierns, typischerweise aus religiösen Gründen."
+        "descriptionTR": "Genellikle dini nedenlerle yapılan bir kutlama günü veya dönemi.",
+        "descriptionAZ": "Adətən dini səbəblərlə əlaqədar olan bir bayram günü və ya dövrü.",
+        "descriptionUK": "день або період святкування, зазвичай з релігійних причин."
     }, {
         "de": "der Regen",
         "en": "rain",
         "ru": "дождь",
+        "tr": "yağmur",
+        "az": "yağış",
+        "uk": "дощ",
+        "descriptionDE": "Feuchtigkeit, die sich in der Atmosphäre kondensiert und sichtbar in einzelnen Tropfen fällt.",
         "descriptionEN": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
         "descriptionRU": "Влага, конденсирующаяся в атмосфере и падающая видимыми отдельными каплями.",
-        "descriptionDE": "Feuchtigkeit, die sich in der Atmosphäre kondensiert und sichtbar in einzelnen Tropfen fällt."
+        "descriptionTR": "Atmosferden yoğuşan ve ayrı damlalar halinde görülebilen nem.",
+        "descriptionAZ": "Atmosferdən yoğuşan və ayrı damcılar şəklində görünən nəmlik.",
+        "descriptionUK": "волога, що конденсується в атмосфері та падає видимими окремими краплями."
     }, {
         "de": "die Nachricht",
         "en": "news",
         "ru": "новость",
+        "tr": "haber",
+        "az": "xəbər",
+        "uk": "новина",
+        "descriptionDE": "Neu eingegangene oder bemerkenswerte Informationen, insbesondere über aktuelle oder wichtige Ereignisse.",
         "descriptionEN": "Newly received or noteworthy information, especially about recent or important events.",
         "descriptionRU": "Новополученная или примечательная информация, особенно о недавних или важных событиях.",
-        "descriptionDE": "Neu eingegangene oder bemerkenswerte Informationen, insbesondere über aktuelle oder wichtige Ereignisse."
+        "descriptionTR": "Yeni alınan veya dikkat çekici bilgiler, özellikle güncel veya önemli olaylar hakkında.",
+        "descriptionAZ": "Yenicə alınmış və ya diqqətəlayiq məlumatlar, xüsusən son və ya əhəmiyyətli hadisələr barədə.",
+        "descriptionUK": "новов отримана або помітна інформація, особливо про нещодавні або важливі події."
     }, {
         "de": "der Regenschirm",
         "en": "umbrella",
         "ru": "зонт",
+        "tr": "şemsiye",
+        "az": "çətir",
+        "uk": "парасоля",
+        "descriptionDE": "Ein Gerät, das aus einem runden Tuchdach auf einem faltbaren Metallrahmen besteht, das von einer zentralen Stange getragen wird, als Schutz gegen Regen oder manchmal Sonne verwendet.",
         "descriptionEN": "A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
         "descriptionRU": "Устройство, состоящее из круглого купола из ткани на складной металлической раме, поддерживаемой центральным стержнем, используется как защита от дождя или иногда солнца.",
-        "descriptionDE": "Ein Gerät, das aus einem runden Tuchdach auf einem faltbaren Metallrahmen besteht, das von einer zentralen Stange getragen wird, als Schutz gegen Regen oder manchmal Sonne verwendet."
+        "descriptionTR": "Orta bir çubukla desteklenen, katlanabilir metal çerçeve üzerine gerilmiş yuvarlak bir kumaş örtüsü olan, yağmurdan veya bazen güneşten korunmak için kullanılan araç.",
+        "descriptionAZ": "Mərkəzi çubuqla dəstəklənən qatlanan metal çərçivə üzərində dairəvi parçadan ibarət cihaz, yağışdan və bəzən günəşdən qorunmaq üçün istifadə olunur.",
+        "descriptionUK": "пристрій, що складається з круглого тканинного куполу на складаній металевій рамі, підтримуваній центральним стержнем, використовується як захист від дощу або іноді сонця."
     }, {
         "de": "der Sonnenschein",
         "en": "sunshine",
         "ru": "солнечный свет",
+        "tr": "güneş ışığı",
+        "az": "günəş işığı",
+        "uk": "сонячне світло",
+        "descriptionDE": "Direktes Sonnenlicht, das nicht durch Wolken unterbrochen wird, insbesondere über einem vergleichsweise großen Gebiet.",
         "descriptionEN": "Direct sunlight unbroken by cloud, especially over a comparatively large area.",
         "descriptionRU": "Прямой солнечный свет, не прерываемый облаками, особенно над сравнительно большой площадью.",
-        "descriptionDE": "Direktes Sonnenlicht, das nicht durch Wolken unterbrochen wird, insbesondere über einem vergleichsweise großen Gebiet."
+        "descriptionTR": "Bulutların engellemediği doğrudan güneş ışığı, özellikle nispeten geniş bir alan üzerinde.",
+        "descriptionAZ": "Buludlar tərəfindən kəsilməyən birbaşa günəş işığı, xüsusilə nisbətən böyük bir sahədə.",
+        "descriptionUK": "пряме сонячне світло, не перерване хмарами, особливо над порівняно великою територією."
     }, {
         "de": "die Hoffnung",
         "en": "hope",
         "ru": "надежда",
+        "tr": "umut",
+        "az": "ümid",
+        "uk": "надія",
+        "descriptionDE": "Ein Gefühl der Erwartung und des Wunsches, dass etwas Bestimmtes passiert.",
         "descriptionEN": "A feeling of expectation and desire for a certain thing to happen.",
         "descriptionRU": "Чувство ожидания и желания, чтобы что-то произошло.",
-        "descriptionDE": "Ein Gefühl der Erwartung und des Wunsches, dass etwas Bestimmtes passiert."
+        "descriptionTR": "Belirli bir şeyin olmasını bekleme ve arzu etme hissi.",
+        "descriptionAZ": "Müəyyən bir şeyin baş verməsini gözləmə və arzulama hissi.",
+        "descriptionUK": "відчуття очікування та бажання, щоб щось певне сталося."
     }, {
         "de": "der Spaß",
         "en": "fun",
         "ru": "веселье",
+        "tr": "eğlence",
+        "az": "əzə",
+        "uk": "розвага",
+        "descriptionDE": "Genuss, Vergnügen oder unbeschwerter Spaß.",
         "descriptionEN": "Enjoyment, amusement, or light-hearted pleasure.",
         "descriptionRU": "Удовольствие, развлечение или беззаботное удовольствие.",
-        "descriptionDE": "Genuss, Vergnügen oder unbeschwerter Spaß."
+        "descriptionTR": "Keyif, eğlence veya hafif yürekli zevk.",
+        "descriptionAZ": "Zövq, əyləncə və ya yüngül ürəkli zövq.",
+        "descriptionUK": "задоволення, розвага або безтурботне насолода."
     }, {
         "de": "die Traurigkeit",
         "en": "sadness",
         "ru": "грусть",
+        "tr": "üzüntü",
+        "az": "kədər",
+        "uk": "сум",
+        "descriptionDE": "Der Zustand oder die Qualität, traurig zu sein.",
         "descriptionEN": "The condition or quality of being sad.",
         "descriptionRU": "Состояние или качество быть грустным.",
-        "descriptionDE": "Der Zustand oder die Qualität, traurig zu sein."
+        "descriptionTR": "Üzgün olma durumu veya niteliği.",
+        "descriptionAZ": "Kədərlə olma vəziyyəti və ya keyfiyyəti.",
+        "descriptionUK": "стан або якість бути сумним."
     }, {
         "de": "der Himmel",
         "en": "sky",
         "ru": "небо",
+        "tr": "gökyüzü",
+        "az": "səmavi",
+        "uk": "небо",
+        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus gesehen wird.",
         "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
         "descriptionRU": "Область атмосферы и космического пространства, видимая с Земли.",
-        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus gesehen wird."
+        "descriptionTR": "Dünyadan görülen atmosfer ve uzay bölgesi.",
+        "descriptionAZ": "Yerdən görünən atmosfer və kosmos bölgəsi.",
+        "descriptionUK": "область атмосфери і космічного простору, видима з Землі."
     }, {
         "de": "der Platzregen",
         "en": "downpour",
         "ru": "ливень",
+        "tr": "sağnak yağmur",
+        "az": "şiddətli yağış",
+        "uk": "злива",
+        "descriptionDE": "Ein heftiger Regenschauer.",
         "descriptionEN": "A heavy fall of rain.",
         "descriptionRU": "Сильный ливень.",
-        "descriptionDE": "Ein heftiger Regenschauer."
+        "descriptionTR": "Yoğun ve şiddetli yağmur.",
+        "descriptionAZ": "Güclü və sıx yağış.",
+        "descriptionUK": "сильний дощ."
     }, {
         "de": "hören",
         "en": "to hear",
         "ru": "слышать",
+        "tr": "duymak",
+        "az": "eşitmək",
+        "uk": "чути",
+        "descriptionDE": "Mit dem Ohr den Klang wahrnehmen, der von (jemandem oder etwas) gemacht wird.",
         "descriptionEN": "Perceive with the ear the sound made by (someone or something).",
         "descriptionRU": "Воспринимать ухом звук, издаваемый (кем-то или чем-то).",
-        "descriptionDE": "Mit dem Ohr den Klang wahrnehmen, der von (jemandem oder etwas) gemacht wird."
+        "descriptionTR": "Kulakla biri ya da bir şey tarafından yapılan sesi algılamak.",
+        "descriptionAZ": "Qulaqla kimsə və ya nəsə tərəfindən çıxarılan səsləri qəbul etmək.",
+        "descriptionUK": "сприймати вухом звук, створений (кимось або чимось)."
     }, {
         "de": "sagen",
         "en": "to say",
         "ru": "говорить",
+        "tr": "söylemek",
+        "az": "demək",
+        "uk": "сказати",
+        "descriptionDE": "Worte äußern, um Informationen, eine Meinung, ein Gefühl oder eine Absicht oder eine Anweisung zu übermitteln.",
         "descriptionEN": "Utter words so as to convey information, an opinion, a feeling or intention, or an instruction.",
         "descriptionRU": "Произносить слова, чтобы передать информацию, мнение, чувство или намерение, или инструкцию.",
-        "descriptionDE": "Worte äußern, um Informationen, eine Meinung, ein Gefühl oder eine Absicht oder eine Anweisung zu übermitteln."
+        "descriptionTR": "Bilgi, görüş, duygu, niyet veya talimat iletmek için kelimeler söylemek.",
+        "descriptionAZ": "Məlumat, fikir, hiss, niyyət və ya təlimat vermək üçün söz demək.",
+        "descriptionUK": "вимовити слова, щоб передати інформацію, думку, почуття, намір або інструкцію."
     }, {
         "de": "schauen",
         "en": "to watch",
         "ru": "смотреть",
+        "tr": "izlemek",
+        "az": "baxmaq",
+        "uk": "дивитися",
+        "descriptionDE": "Aufmerksam über einen Zeitraum beobachten oder ansehen.",
         "descriptionEN": "Look at or observe attentively over a period of time.",
         "descriptionRU": "Смотреть или наблюдать внимательно в течение некоторого времени.",
-        "descriptionDE": "Aufmerksam über einen Zeitraum beobachten oder ansehen."
+        "descriptionTR": "Belirli bir süre boyunca dikkatle bakmak veya gözlemlemek.",
+        "descriptionAZ": "Müəyyən müddət ərzində diqqətlə baxmaq və ya müşahidə etmək.",
+        "descriptionUK": "уважно дивитися або спостерігати протягом певного часу."
     }, {
         "de": "finden",
         "en": "to find",
         "ru": "находить",
+        "tr": "bulmak",
+        "az": "tapmaq",
+        "uk": "знаходити",
+        "descriptionDE": "Durch Zufall oder unerwartet entdecken oder wahrnehmen.",
         "descriptionEN": "Discover or perceive by chance or unexpectedly.",
         "descriptionRU": "Обнаруживать или воспринимать случайно или неожиданно.",
-        "descriptionDE": "Durch Zufall oder unerwartet entdecken oder wahrnehmen."
+        "descriptionTR": "Tesadüf veya beklenmedik şekilde keşfetmek veya fark etmek.",
+        "descriptionAZ": "Təsadüfən və ya gözlənilmədən kəşf etmək və ya anlamaq.",
+        "descriptionUK": "виявити або помітити випадково чи несподівано."
     }, {
         "de": "gehen",
         "en": "to go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
+        "descriptionDE": "Sich von einem Ort zu einem anderen bewegen; reisen.",
         "descriptionEN": "Move from one place to another; travel.",
         "descriptionRU": "Перемещаться из одного места в другое; путешествовать.",
-        "descriptionDE": "Sich von einem Ort zu einem anderen bewegen; reisen."
+        "descriptionTR": "Bir yerden başka bir yere hareket etmek; seyahat etmek.",
+        "descriptionAZ": "Bir yerdən başqa yerə hərəkət etmək; səyahət etmək.",
+        "descriptionUK": "рухатися з одного місця в інше; подорожувати."
     }, {
         "de": "machen",
         "en": "to do",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
+        "descriptionDE": "Eine Handlung ausführen (deren genaue Art oft nicht spezifiziert ist).",
         "descriptionEN": "Perform (an action, the precise nature of which is often unspecified).",
         "descriptionRU": "Выполнять (действие, точная природа которого часто не уточняется).",
-        "descriptionDE": "Eine Handlung ausführen (deren genaue Art oft nicht spezifiziert ist)."
+        "descriptionTR": "Genellikle kesin doğası belirtilmeyen bir eylemi gerçekleştirmek.",
+        "descriptionAZ": "Tez-tez dəqiq mahiyyəti göstərilməyən bir əməli yerinə yetirmək.",
+        "descriptionUK": "виконувати дію (точна природа якої часто не уточнюється)."
     }, {
         "de": "wahrscheinlich",
         "en": "probably",
         "ru": "вероятно",
+        "tr": "muhtemelen",
+        "az": "ehtimal ki",
+        "uk": "ймовірно",
+        "descriptionDE": "Höchstwahrscheinlich; soweit man weiß oder sagen kann.",
         "descriptionEN": "Almost certainly; as far as one knows or can tell.",
         "descriptionRU": "Почти наверняка; насколько можно знать или судить.",
-        "descriptionDE": "Höchstwahrscheinlich; soweit man weiß oder sagen kann."
+        "descriptionTR": "Neredeyse kesinlikle; bilindiği veya söylenebildiği kadarıyla.",
+        "descriptionAZ": "Demək olar ki, mütləq; bildiyi və ya söyləyə biləcəyi qədər.",
+        "descriptionUK": "майже напевно; наскільки відомо чи можна стверджувати."
     }, {
         "de": "traurig",
         "en": "sad",
         "ru": "грустный",
+        "tr": "üzgün",
+        "az": "kədərli",
+        "uk": "сумний",
+        "descriptionDE": "Trauer oder Unglück zeigend oder empfindend; unglücklich.",
         "descriptionEN": "Feeling or showing sorrow; unhappy.",
         "descriptionRU": "Чувствовать или показывать печаль; несчастный.",
-        "descriptionDE": "Trauer oder Unglück zeigend oder empfindend; unglücklich."
+        "descriptionTR": "Üzüntü hissetmek veya göstermek; mutsuz.",
+        "descriptionAZ": "Kədər hiss etmək və ya göstərmək; bədbəxt.",
+        "descriptionUK": "відчувати або проявляти смуток; нещасний."
     }, {
         "de": "immer",
         "en": "always",
         "ru": "всегда",
+        "tr": "her zaman",
+        "az": "həmişə",
+        "uk": "завжди",
+        "descriptionDE": "Zu allen Zeiten; bei allen Gelegenheiten.",
         "descriptionEN": "At all times; on all occasions.",
         "descriptionRU": "Во все времена; во всех случаях.",
-        "descriptionDE": "Zu allen Zeiten; bei allen Gelegenheiten."
+        "descriptionTR": "Her zaman; her durumda.",
+        "descriptionAZ": "Hər zaman; hər fürsətdə.",
+        "descriptionUK": "завжди; у всіх випадках."
     }, {
         "de": "ganz",
         "en": "whole",
         "ru": "весь",
+        "tr": "bütünü",
+        "az": "bütöv",
+        "uk": "цілий",
+        "descriptionDE": "Das Ganze von; gesamt.",
         "descriptionEN": "All of; entire.",
         "descriptionRU": "Всё из; целый.",
-        "descriptionDE": "Das Ganze von; gesamt."
+        "descriptionTR": "Bir parçanın tamamı; tümü.",
+        "descriptionAZ": "Bir şeyin tamlığı; bütünü.",
+        "descriptionUK": "усе; ціле."
     }, {
         "de": "einmal",
         "en": "once",
         "ru": "один раз",
+        "tr": "birkez",
+        "az": "bir dəfə",
+        "uk": "один раз",
+        "descriptionDE": "Bei einer Gelegenheit oder nur einmal.",
         "descriptionEN": "On one occasion or for one time only.",
         "descriptionRU": "В одном случае или только один раз.",
-        "descriptionDE": "Bei einer Gelegenheit oder nur einmal."
+        "descriptionTR": "Bir defa ya da sadece bir kere şansla.",
+        "descriptionAZ": "Bir dəfə və ya sadəcə bir dəfə fürsətdə.",
+        "descriptionUK": "в один раз або лише один раз."
     }
 ]

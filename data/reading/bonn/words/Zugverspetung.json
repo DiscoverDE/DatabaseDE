@@ -3,155 +3,287 @@
         "de": "die Reise",
         "en": "journey",
         "ru": "путешествие",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "подорож",
         "descriptionEN": "A journey, especially a long one.",
         "descriptionRU": "Путешествие, особенно длительное.",
-        "descriptionDE": "Eine Reise, insbesondere eine lange."
+        "descriptionDE": "Eine Reise, insbesondere eine lange.",
+        "descriptionTR": "Bir yolculuk, özellikle uzun olan.",
+        "descriptionAZ": "Səyahət, xüsusilə uzun olan.",
+        "descriptionUK": "Подорож, особливо довга."
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "поїзд",
         "descriptionEN": "A connected series of railroad cars moved by a locomotive.",
         "descriptionRU": "Связанная серия железнодорожных вагонов, передвигаемых локомотивом.",
-        "descriptionDE": "Eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive bewegt wird."
+        "descriptionDE": "Eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive bewegt wird.",
+        "descriptionTR": "Lokomotif tarafından hareket ettirilen bağlı demiryolu vagonları serisi.",
+        "descriptionAZ": "Lokomotiv tərəfindən hərəkət etdirilən bağlı dəmir yolu vaqonları seriyası.",
+        "descriptionUK": "Пов'язана серія залізничних вагонів, що рухаються локомотивом."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "descriptionTR": "Gerçekler veya olaylarla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktik təmas və müşahidə.",
+        "descriptionUK": "Практичний контакт та спостереження фактів або подій."
     }, {
         "de": "der Grund",
         "en": "reason",
         "ru": "причина",
+        "tr": "sebep",
+        "az": "səbəb",
+        "uk": "причина",
         "descriptionEN": "A basis or cause, as for some belief, action, fact, event, etc.",
         "descriptionRU": "Основание или причина, как для какого-то убеждения, действия, факта, события и т. д.",
-        "descriptionDE": "Eine Grundlage oder Ursache, wie für einen Glauben, eine Handlung, eine Tatsache, ein Ereignis usw."
+        "descriptionDE": "Eine Grundlage oder Ursache, wie für einen Glauben, eine Handlung, eine Tatsache, ein Ereignis usw.",
+        "descriptionTR": "Bir inanç, eylem, gerçek, olay vb. için temel veya neden.",
+        "descriptionAZ": "Bir inanc, hərəkət, fakt, hadisə və s. üçün əsas və ya səbəb.",
+        "descriptionUK": "Основа або причина, як для якогось переконання, дії, факту, події тощо."
     }, {
         "de": "die Störung",
         "en": "disruption",
         "ru": "нарушение",
+        "tr": "bozulma",
+        "az": "pozulma",
+        "uk": "порушення",
         "descriptionEN": "Disturbance or problems which interrupt an event, activity, or process.",
         "descriptionRU": "Нарушение или проблемы, прерывающие событие, деятельность или процесс.",
-        "descriptionDE": "Störung oder Probleme, die ein Ereignis, eine Aktivität oder einen Prozess unterbrechen."
+        "descriptionDE": "Störung oder Probleme, die ein Ereignis, eine Aktivität oder einen Prozess unterbrechen.",
+        "descriptionTR": "Bir olayı, aktiviteyi veya süreci kesintiye uğratan rahatsızlık veya sorunlar.",
+        "descriptionAZ": "Bir hadisəni, fəaliyyəti və ya prosesi kəsən narahatlıq və ya problemlər.",
+        "descriptionUK": "Порушення або проблеми, які переривають подію, діяльність або процес."
     }, {
         "de": "die Präzision",
         "en": "precision",
         "ru": "точность",
+        "tr": "hassasiyet",
+        "az": "dəqiqlik",
+        "uk": "точність",
         "descriptionEN": "The quality, condition, or fact of being exact and accurate.",
         "descriptionRU": "Качество, состояние или факт быть точным и аккуратным.",
-        "descriptionDE": "Die Qualität, der Zustand oder die Tatsache, genau und präzise zu sein."
+        "descriptionDE": "Die Qualität, der Zustand oder die Tatsache, genau und präzise zu sein.",
+        "descriptionTR": "Kesin ve doğru olma kalitesi, durumu veya gerçeği.",
+        "descriptionAZ": "Dəqiq və düzgün olma keyfiyyəti, vəziyyəti və ya faktı.",
+        "descriptionUK": "Якість, стан або факт бути точним і акуратним."
     }, {
         "de": "die Effizienz",
         "en": "efficiency",
         "ru": "эффективность",
+        "tr": "verimlilik",
+        "az": "səmərəlilik",
+        "uk": "ефективність",
         "descriptionEN": "The ability to accomplish a job with a minimum expenditure of time and effort.",
         "descriptionRU": "Способность выполнять работу с минимальными затратами времени и усилий.",
-        "descriptionDE": "Die Fähigkeit, eine Aufgabe mit einem minimalen Zeitaufwand und Aufwand zu erledigen."
+        "descriptionDE": "Die Fähigkeit, eine Aufgabe mit einem minimalen Zeitaufwand und Aufwand zu erledigen.",
+        "descriptionTR": "Minimum zaman ve çaba harcayarak bir işi başarma yeteneği.",
+        "descriptionAZ": "Minimum vaxt və səy sərf edərək bir işi yerinə yetirmə qabiliyyəti.",
+        "descriptionUK": "Здатність виконувати роботу з мінімальними витратами часу та зусиль."
     }, {
         "de": "die Verspätung",
         "en": "delay",
         "ru": "задержка",
+        "tr": "gecikme",
+        "az": "gecikma",
+        "uk": "затримка",
         "descriptionEN": "The action of delaying or being delayed.",
         "descriptionRU": "Действие задержки или состояние задержки.",
-        "descriptionDE": "Die Handlung des Verzögerns oder die Verzögerung selbst."
+        "descriptionDE": "Die Handlung des Verzögerns oder die Verzögerung selbst.",
+        "descriptionTR": "Geciktirme eylemi veya geciktirilme durumu.",
+        "descriptionAZ": "Gecikdirmə hərəkəti və ya gecikdirilmə vəziyyəti.",
+        "descriptionUK": "Дія затримки або стан затримки."
     }, {
         "de": "der Anschlusszug",
         "en": "connecting train",
         "ru": "поезд-соединение",
+        "tr": "aktarma treni",
+        "az": "birləşdirici qatar",
+        "uk": "з'єднувальний поїзд",
         "descriptionEN": "A train that is caught in order to continue a journey after changing from another train.",
         "descriptionRU": "Поезд, который берется, чтобы продолжить путешествие после пересадки с другого поезда.",
-        "descriptionDE": "Ein Zug, der bestiegen wird, um eine Reise nach dem Wechsel von einem anderen Zug fortzusetzen."
+        "descriptionDE": "Ein Zug, der bestiegen wird, um eine Reise nach dem Wechsel von einem anderen Zug fortzusetzen.",
+        "descriptionTR": "Başka bir trenden değiştikten sonra yolculuğa devam etmek için binilen tren.",
+        "descriptionAZ": "Başqa qatardan dəyişdikdən sonra səyahəti davam etdirmək üçün minilən qatar.",
+        "descriptionUK": "Поїзд, на який сідають, щоб продовжити подорож після пересадки з іншого поїзда."
     }, {
         "de": "die Wartungsarbeit",
         "en": "maintenance work",
         "ru": "работы по обслуживанию",
+        "tr": "bakım çalışması",
+        "az": "texniki xidmət işi",
+        "uk": "технічне обслуговування",
         "descriptionEN": "Tasks performed to keep machinery, equipment, or infrastructure in proper working condition.",
         "descriptionRU": "Работы, выполняемые для поддержания машин, оборудования или инфраструктуры в должном рабочем состоянии.",
-        "descriptionDE": "Aufgaben, die ausgeführt werden, um Maschinen, Ausrüstung oder Infrastruktur in einem ordnungsgemäßen Arbeitszustand zu halten."
+        "descriptionDE": "Aufgaben, die ausgeführt werden, um Maschinen, Ausrüstung oder Infrastruktur in einem ordnungsgemäßen Arbeitszustand zu halten.",
+        "descriptionTR": "Makine, ekipman veya altyapıyı uygun çalışma durumunda tutmak için gerçekleştirilen görevler.",
+        "descriptionAZ": "Maşın, avadanlıq və ya infrastrukturu düzgün işləyən vəziyyətdə saxlamaq üçün yerinə yetirilən vəzifələr.",
+        "descriptionUK": "Завдання, що виконуються для підтримання машин, обладнання або інфраструктури в належному робочому стані."
     }, {
         "de": "der Fahrgast",
         "en": "passenger",
         "ru": "пассажир",
+        "tr": "yolcu",
+        "az": "sərnişin",
+        "uk": "пасажир",
         "descriptionEN": "A person who is traveling in a vehicle, especially one who is not driving, flying, or walking.",
         "descriptionRU": "Человек, путешествующий на транспортном средстве, особенно тот, кто не ведет, не летит и не ходит.",
-        "descriptionDE": "Eine Person, die in einem Fahrzeug reist, insbesondere jemand, der nicht fährt, fliegt oder läuft."
+        "descriptionDE": "Eine Person, die in einem Fahrzeug reist, insbesondere jemand, der nicht fährt, fliegt oder läuft.",
+        "descriptionTR": "Bir araçta seyahat eden kişi, özellikle araba kullanmayan, uçmayan veya yürümeyen biri.",
+        "descriptionAZ": "Nəqliyyat vasitəsində səyahət edən şəxs, xüsusilə sürməyən, uçmayan və ya gəzməyən biri.",
+        "descriptionUK": "Особа, яка подорожує транспортним засобом, особливо та, яка не керує, не літає або не йде пішки."
     }, {
         "de": "reisen",
         "en": "to travel",
         "ru": "путешествовать",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
         "descriptionEN": "To make a journey, typically of some length or abroad.",
         "descriptionRU": "Совершать путешествие, обычно какого-то продолжительного или за границу.",
-        "descriptionDE": "Eine Reise machen, normalerweise von einiger Länge oder ins Ausland."
+        "descriptionDE": "Eine Reise machen, normalerweise von einiger Länge oder ins Ausland.",
+        "descriptionTR": "Genellikle belirli bir uzunlukta veya yurt dışına yolculuk yapmak.",
+        "descriptionAZ": "Adətən müəyyən uzunluqda və ya xaricə səyahət etmək.",
+        "descriptionUK": "Здійснювати подорож, зазвичай певної тривалості або за кордон."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "Проезжать (незнакомую территорию), чтобы узнать о ней.",
-        "descriptionDE": "Durchreisen (ein unbekanntes Gebiet), um es kennenzulernen."
+        "descriptionDE": "Durchreisen (ein unbekanntes Gebiet), um es kennenzulernen.",
+        "descriptionTR": "Hakkında bilgi edinmek için (bilinmeyen bir bölgede) seyahat etmek.",
+        "descriptionAZ": "Haqqında məlumat əldə etmək üçün (naməlum ərazidə) səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою місцевістю), щоб дізнатися про неї."
     }, {
         "de": "freuen",
         "en": "to be glad",
         "ru": "радоваться",
+        "tr": "sevinmek",
+        "az": "sevinmək",
+        "uk": "радіти",
         "descriptionEN": "To feel pleased or satisfied about something.",
         "descriptionRU": "Чувствовать удовлетворение или удовлетворенность чем-то.",
-        "descriptionDE": "Sich über etwas freuen oder zufrieden sein."
+        "descriptionDE": "Sich über etwas freuen oder zufrieden sein.",
+        "descriptionTR": "Bir şey hakkında memnun veya tatmin olmak.",
+        "descriptionAZ": "Bir şey haqqında məmnun və ya razı hiss etmək.",
+        "descriptionUK": "Відчувати задоволення або задоволеність чимось."
     }, {
         "de": "häufig",
         "en": "frequent",
         "ru": "частый",
+        "tr": "sık",
+        "az": "tez-tez",
+        "uk": "частий",
         "descriptionEN": "Occurring or done often; prevalent.",
         "descriptionRU": "Часто происходящий или совершаемый; распространенный.",
-        "descriptionDE": "Häufig auftretend oder häufig ausgeführt; verbreitet."
+        "descriptionDE": "Häufig auftretend oder häufig ausgeführt; verbreitet.",
+        "descriptionTR": "Sık sık meydana gelen veya yapılan; yaygın.",
+        "descriptionAZ": "Tez-tez baş verən və ya edilən; geniş yayılmış.",
+        "descriptionUK": "Що часто відбувається або робиться; поширений."
     }, {
         "de": "frustrierend",
         "en": "frustrating",
         "ru": "разочаровывающий",
+        "tr": "sinir bozucu",
+        "az": "əsəbiləşdirici",
+        "uk": "розчаровуючий",
         "descriptionEN": "Causing feelings of anger and annoyance.",
         "descriptionRU": "Вызывающий чувства гнева и раздражения.",
-        "descriptionDE": "Gefühle von Wut und Ärger verursachend."
+        "descriptionDE": "Gefühle von Wut und Ärger verursachend.",
+        "descriptionTR": "Öfke ve sinirlilik duygularına neden olan.",
+        "descriptionAZ": "Qəzəb və əsəbilik hisslərini yaradan.",
+        "descriptionUK": "Що викликає почуття гніву та роздратування."
     }, {
         "de": "technisch",
         "en": "technical",
         "ru": "технический",
+        "tr": "teknik",
+        "az": "texniki",
+        "uk": "технічний",
         "descriptionEN": "Relating to a particular subject, art, or craft, or its techniques.",
         "descriptionRU": "Относящийся к определенной теме, искусству или ремеслу, или его методике.",
-        "descriptionDE": "Bezogen auf ein bestimmtes Thema, eine Kunst oder ein Handwerk oder deren Techniken."
+        "descriptionDE": "Bezogen auf ein bestimmtes Thema, eine Kunst oder ein Handwerk oder deren Techniken.",
+        "descriptionTR": "Belirli bir konu, sanat veya zanaat veya tekniklerle ilgili.",
+        "descriptionAZ": "Müəyyən bir mövzu, sənət və ya sənətkarlıq və ya onun texnikaları ilə bağlı.",
+        "descriptionUK": "Що стосується певного предмета, мистецтва або ремесла, або його технік."
     }, {
         "de": "regelmäßig",
         "en": "regular",
         "ru": "регулярный",
+        "tr": "düzenli",
+        "az": "müntəzəm",
+        "uk": "регулярний",
         "descriptionEN": "Customary, usual, or normal.",
         "descriptionRU": "Привычный, обычный или нормальный.",
-        "descriptionDE": "Üblich, normal oder normal."
+        "descriptionDE": "Üblich, normal oder normal.",
+        "descriptionTR": "Alışılmış, olağan veya normal.",
+        "descriptionAZ": "Adət, adi və ya normal.",
+        "descriptionUK": "Звичайний, звичний або нормальний."
     }, {
         "de": "bitter",
         "en": "bitter",
         "ru": "горький",
+        "tr": "acı",
+        "az": "acı",
+        "uk": "гіркий",
         "descriptionEN": "Causing pain or unhappiness.",
         "descriptionRU": "Вызывающий боль или несчастье.",
-        "descriptionDE": "Schmerz oder Unglück verursachend."
+        "descriptionDE": "Schmerz oder Unglück verursachend.",
+        "descriptionTR": "Acı veya mutsuzluğa neden olan.",
+        "descriptionAZ": "Ağrı və ya bədbəxtliyə səbəb olan.",
+        "descriptionUK": "Що викликає біль або нещастя."
     }, {
         "de": "positiv",
         "en": "positive",
         "ru": "положительный",
+        "tr": "pozitif",
+        "az": "müsbət",
+        "uk": "позитивний",
         "descriptionEN": "Consisting in or characterized by the presence or possession of features or qualities rather than their absence.",
         "descriptionRU": "Состоящий или характеризующийся наличием или обладанием характеристик или качеств, а не их отсутствием.",
-        "descriptionDE": "Bestehend aus oder gekennzeichnet durch das Vorhandensein oder den Besitz von Merkmalen oder Qualitäten anstelle ihres Fehlens."
+        "descriptionDE": "Bestehend aus oder gekennzeichnet durch das Vorhandensein oder den Besitz von Merkmalen oder Qualitäten anstelle ihres Fehlens.",
+        "descriptionTR": "Özelliklerin veya niteliklerin yokluğundan ziyade varlığı veya sahipliği ile oluşan veya karakterize edilen.",
+        "descriptionAZ": "Xüsusiyyətlərin və ya keyfiyyətlərin yoxluğundan daha çox mövcudluğu və ya sahibliyi ilə təşkil olunan və ya xarakterizə olunan.",
+        "descriptionUK": "Що складається або характеризується наявністю або володінням ознаками або якостями, а не їх відсутністю."
     }, {
         "de": "interessant",
         "en": "interesting",
         "ru": "интересный",
+        "tr": "ilginç",
+        "az": "maraqlı",
+        "uk": "цікавий",
         "descriptionEN": "Arousing curiosity or interest; holding or catching the attention.",
         "descriptionRU": "Будоражащий любопытство или интерес; привлекающий или захватывающий внимание.",
-        "descriptionDE": "Neugier oder Interesse weckend; Aufmerksamkeit erregend oder einfangend."
+        "descriptionDE": "Neugier oder Interesse weckend; Aufmerksamkeit erregend oder einfangend.",
+        "descriptionTR": "Merak veya ilgi uyandıran; dikkati çeken veya yakalayan.",
+        "descriptionAZ": "Maraq və ya həvəs oyadan; diqqəti çəkən və ya tutan.",
+        "descriptionUK": "Що викликає цікавість або інтерес; що привертає або захоплює увагу."
     }, {
         "de": "lang",
         "en": "long",
         "ru": "длинный",
+        "tr": "uzun",
+        "az": "uzun",
+        "uk": "довгий",
         "descriptionEN": "Measuring a great distance from end to end.",
         "descriptionRU": "Измерение большого расстояния от края до края.",
-        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende."
+        "descriptionDE": "Messung einer großen Entfernung von Ende zu Ende.",
+        "descriptionTR": "Uçtan uca büyük bir mesafe ölçen.",
+        "descriptionAZ": "Ucdan uca böyük məsafə ölçən.",
+        "descriptionUK": "Що вимірює велику відстань від кінця до кінця."
     }
 ]

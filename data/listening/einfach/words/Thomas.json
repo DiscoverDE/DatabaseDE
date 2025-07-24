@@ -3,141 +3,261 @@
         "de": "die Orange",
         "en": "orange",
         "ru": "апельсин",
+        "tr": "portakal",
+        "az": "portağal",
+        "uk": "апельсин",
         "descriptionEN": "A round citrus fruit with a bright orange color, known for its juicy flesh and high vitamin C content.",
         "descriptionRU": "Круглый цитрусовый фрукт с ярко-оранжевой окраской, известный своим сочным мякотью и высоким содержанием витамина C.",
-        "descriptionDE": "Eine runde Zitrusfrucht mit leuchtend orangener Farbe, bekannt für ihr saftiges Fruchtfleisch und den hohen Vitamin-C-Gehalt."
+        "descriptionDE": "Eine runde Zitrusfrucht mit leuchtend orangener Farbe, bekannt für ihr saftiges Fruchtfleisch und den hohen Vitamin-C-Gehalt.",
+        "descriptionTR": "Parlak turuncu rengiyle yuvarlak bir narenciye meyvesi, sulu eti ve yüksek C vitamini içeriğiyle bilinir.",
+        "descriptionAZ": "Parlaq narıncı rəngli dəyirmi sitrus meyvəsi, şirəli əti və yüksək C vitamini tərkibi ilə tanınır.",
+        "descriptionUK": "Круглий цитрусовий фрукт яскраво-помаранчевого кольору, відомий соковитою м'якоттю та високим вмістом вітаміну C."
     }, {
         "de": "der Apfel",
         "en": "apple",
         "ru": "яблоко",
+        "tr": "elma",
+        "az": "alma",
+        "uk": "яблуко",
         "descriptionEN": "A round fruit that can be red or green, known for its sweet and juicy taste.",
         "descriptionRU": "Круглый фрукт, который может быть красным или зеленым, известный своим сладким и сочным вкусом.",
-        "descriptionDE": "Ein runder Obst, das rot oder grün sein kann, bekannt für seinen süßen und saftigen Geschmack."
+        "descriptionDE": "Ein runder Obst, das rot oder grün sein kann, bekannt für seinen süßen und saftigen Geschmack.",
+        "descriptionTR": "Kırmızı veya yeşil olabilen yuvarlak bir meyve, tatlı ve sulu tadıyla bilinir.",
+        "descriptionAZ": "Qırmızı və ya yaşıl ola bilən yumru meyvə, şirin və şirəli dadı ilə tanınır.",
+        "descriptionUK": "Круглий фрукт, який може бути червоним або зеленим, відомий своїм солодким та соковитим смаком."
     }, {
         "de": "die Banane",
         "en": "banana",
         "ru": "банан",
+        "tr": "muz",
+        "az": "banan",
+        "uk": "банан",
         "descriptionEN": "A long curved fruit with a smooth yellow skin, known for its sweet flavor and soft texture.",
         "descriptionRU": "Длинный изогнутый фрукт с гладкой желтой кожурой, известный своим сладким вкусом и мягкой текстурой.",
-        "descriptionDE": "Ein langer gebogener Obst mit glatter gelber Schale, bekannt für seinen süßen Geschmack und weiche Textur."
+        "descriptionDE": "Ein langer gebogener Obst mit glatter gelber Schale, bekannt für seinen süßen Geschmack und weiche Textur.",
+        "descriptionTR": "Pürüzsüz sarı kabuğu olan uzun, kavisli bir meyve, tatlı lezzeti ve yumuşak dokusuyla bilinir.",
+        "descriptionAZ": "Hamar sarı qabığı olan uzun, əyri meyvə, şirin dadı və yumşaq toxuması ilə tanınır.",
+        "descriptionUK": "Довгий вигнутий фрукт з гладкою жовтою шкіркою, відомий своїм солодким смаком та м'якою текстурою."
     }, {
         "de": "die Möhre",
         "en": "carrot",
         "ru": "морковь",
+        "tr": "havuç",
+        "az": "yerkökü",
+        "uk": "морква",
         "descriptionEN": "A long, orange vegetable with a crunchy texture, known for its high beta-carotene content and benefits for eye health.",
         "descriptionRU": "Длинное оранжевое овощ с хрустящей текстурой, известное своим высоким содержанием бета-каротина и полезностью для здоровья глаз.",
-        "descriptionDE": "Ein langes, orangefarbenes Gemüse mit knackiger Textur, bekannt für seinen hohen Gehalt an Beta-Carotin und die Vorteile für die Augengesundheit."
+        "descriptionDE": "Ein langes, orangefarbenes Gemüse mit knackiger Textur, bekannt für seinen hohen Gehalt an Beta-Carotin und die Vorteile für die Augengesundheit.",
+        "descriptionTR": "Gevrek dokusu olan uzun, turuncu bir sebze, yüksek beta-karoten içeriği ve göz sağlığına faydalarıyla bilinir.",
+        "descriptionAZ": "Xırtıldayan toxuması olan uzun, narıncı tərəvəz, yüksək beta-karotin tərkibi və göz sağlamlığı üçün faydaları ilə tanınır.",
+        "descriptionUK": "Довгий помаранчевий овоч з хрусткою текстурою, відомий високим вмістом бета-каротину та корисністю для здоров'я очей."
     }, {
         "de": "die Tomate",
         "en": "tomato",
         "ru": "помидор",
+        "tr": "domates",
+        "az": "pomidor",
+        "uk": "помідор",
         "descriptionEN": "A round, red fruit often used in salads and sauces, known for its juicy flesh and versatility in cooking.",
         "descriptionRU": "Круглый, красный фрукт, часто используемый в салатах и соусах, известный своим сочным мякотью и универсальностью в кулинарии.",
-        "descriptionDE": "Ein runder, roter Obst, das oft in Salaten und Saucen verwendet wird, bekannt für sein saftiges Fruchtfleisch und seine Vielseitigkeit beim Kochen."
+        "descriptionDE": "Ein runder, roter Obst, das oft in Salaten und Saucen verwendet wird, bekannt für sein saftiges Fruchtfleisch und seine Vielseitigkeit beim Kochen.",
+        "descriptionTR": "Salatalarda ve soslarda sık kullanılan yuvarlak, kırmızı meyve, sulu eti ve yemek pişirmedeki çok yönlülüğüyle bilinir.",
+        "descriptionAZ": "Tez-tez salatlarda və souslarda istifadə olunan yumru, qırmızı meyvə, şirəli əti və yemək bişirmədə çox istiqamətliliyi ilə tanınır.",
+        "descriptionUK": "Круглий червоний фрукт, який часто використовують у салатах та соусах, відомий своєю соковитою м'якоттю та універсальністю у кулінарії."
     }, {
         "de": "die Gurke",
         "en": "cucumber",
         "ru": "огурец",
+        "tr": "salatalık",
+        "az": "xiyar",
+        "uk": "огірок",
         "descriptionEN": "A long, green vegetable with a smooth skin, often used in salads and sandwiches for its crisp texture and mild flavor.",
         "descriptionRU": "Длинное, зеленое овощ с гладкой кожурой, часто используемое в салатах и бутербродах за его хрустящую текстуру и нежный вкус.",
-        "descriptionDE": "Ein langes, grünes Gemüse mit glatter Haut, das oft in Salaten und Sandwiches für seine knackige Textur und milden Geschmack verwendet wird."
+        "descriptionDE": "Ein langes, grünes Gemüse mit glatter Haut, das oft in Salaten und Sandwiches für seine knackige Textur und milden Geschmack verwendet wird.",
+        "descriptionTR": "Pürüzsüz kabuğu olan uzun, yeşil bir sebze, gevrek dokusu ve hafif tadı için salatalarda ve sandviçlerde sık kullanılır.",
+        "descriptionAZ": "Hamar qabığı olan uzun, yaşıl tərəvəz, xırtıldayan toxuması və yumşaq dadı üçün tez-tez salatlarda və sandviçlərdə istifadə olunur.",
+        "descriptionUK": "Довгий зелений овоч з гладкою шкіркою, який часто використовують у салатах та бутербродах за його хрустку текстуру та ніжний смак."
     }, {
         "de": "der Salat",
         "en": "salad",
         "ru": "салат",
+        "tr": "salata",
+        "az": "salat",
+        "uk": "салат",
         "descriptionEN": "A dish consisting of a mixture of raw or cooked vegetables, often served with a dressing, and sometimes accompanied by meat, fish, or other ingredients.",
         "descriptionRU": "Блюдо, состоящее из смеси сырых или вареных овощей, часто подается с заправкой и иногда сопровождается мясом, рыбой или другими ингредиентами.",
-        "descriptionDE": "Ein Gericht, bestehend aus einer Mischung aus rohen oder gekochten Gemüsen, oft serviert mit einem Dressing und manchmal begleitet von Fleisch, Fisch oder anderen Zutaten."
+        "descriptionDE": "Ein Gericht, bestehend aus einer Mischung aus rohen oder gekochten Gemüsen, oft serviert mit einem Dressing und manchmal begleitet von Fleisch, Fisch oder anderen Zutaten.",
+        "descriptionTR": "Çiğ veya pişmiş sebzelerin karışımından oluşan, genellikle sosla servis edilen ve bazen et, balık veya diğer malzemelerle birlikte sunulan bir yemek.",
+        "descriptionAZ": "Xam və ya bişmiş tərəvəzlərin qarışığından ibarət, tez-tez sousla servis edilən və bəzən ət, balıq və ya digər maddələrlə birlikdə təqdim olunan yemək.",
+        "descriptionUK": "Страва, що складається з суміші сирих або варених овочів, часто подається з заправкою, а іноді супроводжується м'ясом, рибою чи іншими інгредієнтами."
     }, {
         "de": "der Paprika",
         "en": "bell pepper",
         "ru": "болгарский перец",
+        "tr": "dolmalık biber",
+        "az": "bibər",
+        "uk": "болгарський перець",
         "descriptionEN": "A large, bell-shaped fruit with various colors such as red, yellow, or green, known for its sweet and crunchy flesh.",
         "descriptionRU": "Крупный плод формы колокольчика с различными цветами, такими как красный, желтый или зеленый, известный своим сладким и хрустящим мякотью.",
-        "descriptionDE": "Eine große, glockenförmige Frucht mit verschiedenen Farben wie rot, gelb oder grün, bekannt für ihr süßes und knackiges Fruchtfleisch."
+        "descriptionDE": "Eine große, glockenförmige Frucht mit verschiedenen Farben wie rot, gelb oder grün, bekannt für ihr süßes und knackiges Fruchtfleisch.",
+        "descriptionTR": "Kırmızı, sarı veya yeşil gibi çeşitli renklerde büyük, çan şeklinde bir meyve, tatlı ve gevrek etiyle bilinir.",
+        "descriptionAZ": "Qırmızı, sarı və ya yaşıl kimi müxtəlif rənglərdə böyük, zəng şəkilli meyvə, şirin və xırtıldayan əti ilə tanınır.",
+        "descriptionUK": "Великий плід у формі дзвоника різних кольорів, таких як червоний, жовтий чи зелений, відомий своєю солодкою та хрусткою м'якоттю."
     }, {
         "de": "essen",
         "en": "to eat",
         "ru": "есть",
+        "tr": "yemek",
+        "az": "yemək",
+        "uk": "їсти",
         "descriptionEN": "To consume food by putting it into the mouth, chewing, and swallowing.",
         "descriptionRU": "Поглощать пищу, помещая ее в рот, жуя и глотая.",
-        "descriptionDE": "Lebensmittel durch Einführen in den Mund, Kauen und Schlucken konsumieren."
+        "descriptionDE": "Lebensmittel durch Einführen in den Mund, Kauen und Schlucken konsumieren.",
+        "descriptionTR": "Yiyeceği ağza alarak, çiğneyerek ve yutarak tüketmek.",
+        "descriptionAZ": "Qidanı ağıza qoyaraq, çeynəyərək və udaraq istehlak etmək.",
+        "descriptionUK": "Споживати їжу, покладаючи її в рот, жуючи та ковтаючи."
     }, {
         "de": "sprechen",
         "en": "to speak",
         "ru": "говорить",
+        "tr": "konuşmak",
+        "az": "danışmaq",
+        "uk": "говорити",
         "descriptionEN": "To express thoughts, feelings, or ideas verbally.",
         "descriptionRU": "Выражать мысли, чувства или идеи словами.",
-        "descriptionDE": "Gedanken, Gefühle oder Ideen verbal ausdrücken."
+        "descriptionDE": "Gedanken, Gefühle oder Ideen verbal ausdrücken.",
+        "descriptionTR": "Düşünceleri, duyguları veya fikirleri sözle ifade etmek.",
+        "descriptionAZ": "Fikirləri, hissləri və ya ideyaları şifahi ifadə etmək.",
+        "descriptionUK": "Виражати думки, почуття чи ідеї словами."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionEN": "To create or produce something.",
         "descriptionRU": "Создавать или производить что-то.",
-        "descriptionDE": "Etwas erschaffen oder produzieren."
+        "descriptionDE": "Etwas erschaffen oder produzieren.",
+        "descriptionTR": "Bir şey yaratmak veya üretmek.",
+        "descriptionAZ": "Nəsə yaratmaq və ya istehsal etmək.",
+        "descriptionUK": "Створювати чи виробляти щось."
     }, {
         "de": "wohnen",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "To reside in a particular place.",
         "descriptionRU": "Проживать в определенном месте.",
-        "descriptionDE": "An einem bestimmten Ort wohnen."
+        "descriptionDE": "An einem bestimmten Ort wohnen.",
+        "descriptionTR": "Belirli bir yerde ikamet etmek.",
+        "descriptionAZ": "Müəyyən bir yerdə yaşamaq.",
+        "descriptionUK": "Проживати у певному місці."
     }, {
         "de": "gesund",
         "en": "healthy",
         "ru": "здоровый",
+        "tr": "sağlıklı",
+        "az": "sağlam",
+        "uk": "здоровий",
         "descriptionEN": "Beneficial to one's physical, mental, or emotional well-being.",
         "descriptionRU": "Полезный для физического, умственного или эмоционального благополучия.",
-        "descriptionDE": "Zuträglich für das körperliche, geistige oder emotionale Wohlbefinden."
+        "descriptionDE": "Zuträglich für das körperliche, geistige oder emotionale Wohlbefinden.",
+        "descriptionTR": "Fiziksel, zihinsel veya duygusal refah için faydalı.",
+        "descriptionAZ": "Bədən, zehni və ya emosional rifah üçün faydalı.",
+        "descriptionUK": "Корисний для фізичного, розумового чи емоційного добробуту."
     }, {
         "de": "lecker",
         "en": "tasty",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "dadlı",
+        "uk": "смачний",
         "descriptionEN": "Having a pleasant flavor or taste.",
         "descriptionRU": "Имеющий приятный вкус или аромат.",
-        "descriptionDE": "Einen angenehmen Geschmack oder Geschmack haben."
+        "descriptionDE": "Einen angenehmen Geschmack oder Geschmack haben.",
+        "descriptionTR": "Hoş bir tada veya lezzete sahip olmak.",
+        "descriptionAZ": "Xoş bir dada və ya ləzzətə malik olmaq.",
+        "descriptionUK": "Має приємний смак чи аромат."
     }, {
         "de": "knackig",
         "en": "crispy",
         "ru": "хрустящий",
+        "tr": "gevrek",
+        "az": "xırtıldayan",
+        "uk": "хрусткий",
         "descriptionEN": "Having a crunchy texture or consistency.",
         "descriptionRU": "Имеющий хрустящую текстуру или консистенцию.",
-        "descriptionDE": "Eine knusprige Textur oder Konsistenz haben."
+        "descriptionDE": "Eine knusprige Textur oder Konsistenz haben.",
+        "descriptionTR": "Gevrek bir dokuya veya kıvama sahip olmak.",
+        "descriptionAZ": "Xırtıldayan toxuma və ya qıvama malik olmaq.",
+        "descriptionUK": "Має хрустку текстуру чи консистенцію."
     }, {
         "de": "süß",
         "en": "sweet",
         "ru": "сладкий",
+        "tr": "tatlı",
+        "az": "şirin",
+        "uk": "солодкий",
         "descriptionEN": "Having a taste resembling that of sugar; not bitter or salty.",
         "descriptionRU": "Имеющий вкус, напоминающий вкус сахара; не горький или соленый.",
-        "descriptionDE": "Einen Geschmack haben, der dem von Zucker ähnelt; nicht bitter oder salzig sein."
+        "descriptionDE": "Einen Geschmack haben, der dem von Zucker ähnelt; nicht bitter oder salzig sein.",
+        "descriptionTR": "Şeker tadına benzeyen bir tada sahip olmak; acı veya tuzlu değil.",
+        "descriptionAZ": "Şəkər dadına bənzər dada malik olmaq; acı və ya duzlu deyil.",
+        "descriptionUK": "Має смак, схожий на смак цукру; не гіркий чи солоний."
     }, {
         "de": "saftig",
         "en": "juicy",
         "ru": "соковитый",
+        "tr": "sulu",
+        "az": "şirəli",
+        "uk": "соковитий",
         "descriptionEN": "Containing a lot of juice; moist and succulent.",
         "descriptionRU": "Содержащий много сока; влажный и сочный.",
-        "descriptionDE": "Viel Saft enthaltend; feucht und saftig."
+        "descriptionDE": "Viel Saft enthaltend; feucht und saftig.",
+        "descriptionTR": "Bol miktarda su içermek; nemli ve sulu.",
+        "descriptionAZ": "Çox şirəli; nəm və şirəli.",
+        "descriptionUK": "Містить багато соку; вологий та соковитий."
     }, {
         "de": "glatt",
         "en": "smooth",
         "ru": "гладкий",
+        "tr": "pürüzsüz",
+        "az": "hamar",
+        "uk": "гладкий",
         "descriptionEN": "Having an even surface without roughness, lumps, or indentations.",
         "descriptionRU": "Имеющий ровную поверхность без шероховатостей, комков или вдавлений.",
-        "descriptionDE": "Eine gleichmäßige Oberfläche ohne Rauheit, Klumpen oder Vertiefungen haben."
+        "descriptionDE": "Eine gleichmäßige Oberfläche ohne Rauheit, Klumpen oder Vertiefungen haben.",
+        "descriptionTR": "Pürüzsüz, yumru veya çöküntü olmayan düz bir yüzeye sahip olmak.",
+        "descriptionAZ": "Kələ-kötürlük, topaq və ya çöküntü olmayan hamar səthə malik olmaq.",
+        "descriptionUK": "Має рівну поверхню без шорсткостей, горбків чи заглиблень."
     }, {
         "de": "ideal",
         "en": "ideal",
         "ru": "идеальный",
+        "tr": "ideal",
+        "az": "ideal",
+        "uk": "ідеальний",
         "descriptionEN": "Satisfying one's conception of what is perfect or most suitable.",
         "descriptionRU": "Удовлетворяющий чье-то представление о том, что совершенно или наиболее подходяще.",
-        "descriptionDE": "Die Vorstellung dessen befriedigen, was perfekt oder am besten geeignet ist."
+        "descriptionDE": "Die Vorstellung dessen befriedigen, was perfekt oder am besten geeignet ist.",
+        "descriptionTR": "Mükemmel veya en uygun olan hakkındaki fikri tatmin etmek.",
+        "descriptionAZ": "Mükəmməl və ya ən uyğun olan haqqında fikri qane etmək.",
+        "descriptionUK": "Задовольняти чиєсь уявлення про те, що є досконалим чи найбільш підходящим."
     }, {
         "de": "verschieden",
         "en": "various",
         "ru": "различный",
+        "tr": "çeşitli",
+        "az": "müxtəlif",
+        "uk": "різний",
         "descriptionEN": "Differing from one another or from a standard.",
         "descriptionRU": "Отличающийся друг от друга или от стандарта.",
-        "descriptionDE": "Voneinander oder von einem Standard abweichend."
+        "descriptionDE": "Voneinander oder von einem Standard abweichend.",
+        "descriptionTR": "Birbirinden veya bir standarttan farklı olmak.",
+        "descriptionAZ": "Bir-birindən və ya standartdan fərqli olmaq.",
+        "descriptionUK": "Відрізнятися один від одного чи від стандарту."
     }
 ]

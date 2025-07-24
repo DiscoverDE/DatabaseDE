@@ -3,141 +3,261 @@
         "de": "das Abenteuer",
         "en": "Adventure",
         "ru": "Приключение",
+        "tr": "Macera",
+        "az": "Macəra",
+        "uk": "Пригода",
         "descriptionEN": "An unusual and exciting experience.",
         "descriptionRU": "Необычный и захватывающий опыт.",
-        "descriptionDE": "Ein ungewöhnliches und spannendes Erlebnis."
+        "descriptionDE": "Ein ungewöhnliches und spannendes Erlebnis.",
+        "descriptionTR": "Olağandışı ve heyecan verici bir deneyim.",
+        "descriptionAZ": "Qeyri-adi və həyəcanverici təcrübə.",
+        "descriptionUK": "Незвичайний та захоплюючий досвід."
     }, {
         "de": "das Fahrrad",
         "en": "Bicycle",
         "ru": "Велосипед",
+        "tr": "Bisiklet",
+        "az": "Velosiped",
+        "uk": "Велосипед",
         "descriptionEN": "A vehicle composed of two wheels held in a frame.",
         "descriptionRU": "Транспортное средство, состоящее из двух колес, удерживаемых в раме.",
-        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht und in einem Rahmen gehalten wird."
+        "descriptionDE": "Ein Fahrzeug, das aus zwei Rädern besteht und in einem Rahmen gehalten wird.",
+        "descriptionTR": "Bir çerçevede tutulan iki tekerlekten oluşan bir araç.",
+        "descriptionAZ": "Bir çərçivədə saxlanılan iki təkərdən ibarət nəqliyyat vasitəsi.",
+        "descriptionUK": "Транспортний засіб, що складається з двох коліс, утримуваних у рамі."
     }, {
         "de": "der Fluss",
         "en": "River",
         "ru": "Река",
+        "tr": "Nehir",
+        "az": "Çay",
+        "uk": "Річка",
         "descriptionEN": "A large natural stream of water flowing in a channel.",
         "descriptionRU": "Большой природный поток воды, текущий в русле.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt.",
+        "descriptionTR": "Bir kanalda akan büyük doğal su akıntısı.",
+        "descriptionAZ": "Bir kanalda axan böyük təbii su axını.",
+        "descriptionUK": "Великий природний потік води, що тече у руслі."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
+        "tr": "Manzara",
+        "az": "Mənzərə",
+        "uk": "Вид",
         "descriptionEN": "The ability to see something, especially a landscape.",
         "descriptionRU": "Способность видеть что-то, особенно пейзаж.",
-        "descriptionDE": "Die Fähigkeit, etwas zu sehen, insbesondere eine Landschaft."
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, insbesondere eine Landschaft.",
+        "descriptionTR": "Bir şeyi, özellikle bir manzarayı görme yeteneği.",
+        "descriptionAZ": "Nəyisə, xüsusilə mənzərəni görə bilmə qabiliyyəti.",
+        "descriptionUK": "Здатність бачити щось, особливо пейзаж."
     }, {
         "de": "die Burg",
         "en": "Castle",
         "ru": "Замок",
+        "tr": "Kale",
+        "az": "Qala",
+        "uk": "Замок",
         "descriptionEN": "A large building fortified against attack.",
         "descriptionRU": "Большое здание, укрепленное против атак.",
-        "descriptionDE": "Ein großes Gebäude, das gegen Angriffe befestigt ist."
+        "descriptionDE": "Ein großes Gebäude, das gegen Angriffe befestigt ist.",
+        "descriptionTR": "Saldırılara karşı güçlendirilmiş büyük bir bina.",
+        "descriptionAZ": "Hücumlara qarşı möhkəmləndirilmiş böyük bina.",
+        "descriptionUK": "Велика будівля, укріплена проти атак."
     }, {
         "de": "das Dorf",
         "en": "Village",
         "ru": "Деревня",
+        "tr": "Köy",
+        "az": "Kənd",
+        "uk": "Село",
         "descriptionEN": "A small settlement, typically rural.",
         "descriptionRU": "Небольшое населённое место, обычно сельское.",
-        "descriptionDE": "Eine kleine Siedlung, typischerweise ländlich."
+        "descriptionDE": "Eine kleine Siedlung, typischerweise ländlich.",
+        "descriptionTR": "Genellikle kırsal olan küçük bir yerleşim yeri.",
+        "descriptionAZ": "Adətən kənd olan kiçik yaşayış məntəqəsi.",
+        "descriptionUK": "Невелике населене місце, зазвичай сільське."
     }, {
         "de": "die Erinnerung",
         "en": "Memory",
         "ru": "Память",
+        "tr": "Hafıza",
+        "az": "Yaddaş",
+        "uk": "Пам'ять",
         "descriptionEN": "The faculty by which the mind stores and remembers information.",
         "descriptionRU": "Способность ума хранить и запоминать информацию.",
-        "descriptionDE": "Die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern."
+        "descriptionDE": "Die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern.",
+        "descriptionTR": "Zihnin bilgiyi depolama ve hatırlama yeteneği.",
+        "descriptionAZ": "Ağlın məlumatı saxlama və xatırlama qabiliyyəti.",
+        "descriptionUK": "Здатність розуму зберігати та запам'ятовувати інформацію."
     }, {
         "de": "die Gasse",
         "en": "Alley",
         "ru": "Переулок",
+        "tr": "Ara sokak",
+        "az": "Döngə",
+        "uk": "Провулок",
         "descriptionEN": "A narrow passageway between buildings.",
         "descriptionRU": "Узкий проход между зданиями.",
-        "descriptionDE": "Ein schmaler Durchgang zwischen Gebäuden."
+        "descriptionDE": "Ein schmaler Durchgang zwischen Gebäuden.",
+        "descriptionTR": "Binalar arasında dar bir geçit.",
+        "descriptionAZ": "Binalar arasında dar keçid.",
+        "descriptionUK": "Вузький прохід між будівлями."
     }, {
         "de": "die Landschaft",
         "en": "Landscape",
         "ru": "Пейзаж",
+        "tr": "Manzara",
+        "az": "Landşaft",
+        "uk": "Пейзаж",
         "descriptionEN": "All the visible features of an area of land.",
         "descriptionRU": "Все видимые особенности области земли.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landbereichs."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landbereichs.",
+        "descriptionTR": "Bir arazi alanının tüm görünür özellikleri.",
+        "descriptionAZ": "Bir torpaq sahəsinin bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "Усі видимі особливості ділянки землі."
     }, {
         "de": "bewundern",
         "en": "To admire",
         "ru": "Восхищаться",
+        "tr": "Hayran olmak",
+        "az": "Heyran olmaq",
+        "uk": "Захоплюватися",
         "descriptionEN": "To regard with respect or warm approval.",
         "descriptionRU": "Смотреть с уважением или теплым одобрением.",
-        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten."
+        "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten.",
+        "descriptionTR": "Saygı veya sıcak onayla bakmak.",
+        "descriptionAZ": "Hörmətlə və ya isti təsdiqlə baxmaq.",
+        "descriptionUK": "Дивитися з повагою чи теплим схваленням."
     }, {
         "de": "schlendern",
         "en": "To stroll",
         "ru": "Гулять",
+        "tr": "Geziye çıkmak",
+        "az": "Gəzmək",
+        "uk": "Прогулюватися",
         "descriptionEN": "To walk in a leisurely way.",
         "descriptionRU": "Гулять неторопливо.",
-        "descriptionDE": "Langsam und entspannt gehen."
+        "descriptionDE": "Langsam und entspannt gehen.",
+        "descriptionTR": "Ağır ağır yürümek.",
+        "descriptionAZ": "Yavaş-yavaş gəzmək.",
+        "descriptionUK": "Гуляти неспішно."
     }, {
         "de": "fließen",
         "en": "To flow",
         "ru": "Течь",
+        "tr": "Akmak",
+        "az": "Axmaq",
+        "uk": "Текти",
         "descriptionEN": "To move steadily and continuously in a current.",
         "descriptionRU": "Двигаться постоянно и непрерывно по течению.",
-        "descriptionDE": "Stetig und kontinuierlich in einem Strom bewegen."
+        "descriptionDE": "Stetig und kontinuierlich in einem Strom bewegen.",
+        "descriptionTR": "Bir akıntıda sürekli ve devamlı hareket etmek.",
+        "descriptionAZ": "Bir axında sabit və davamlı hərəkət etmək.",
+        "descriptionUK": "Рухатися постійно та безперервно за течією."
     }, {
         "de": "erreichen",
         "en": "To reach",
         "ru": "Достигать",
+        "tr": "Ulaşmak",
+        "az": "Çatmaq",
+        "uk": "Досягати",
         "descriptionEN": "To arrive at a destination.",
         "descriptionRU": "Прибыть к месту назначения.",
-        "descriptionDE": "An einem Ziel ankommen."
+        "descriptionDE": "An einem Ziel ankommen.",
+        "descriptionTR": "Bir varış noktasına varmak.",
+        "descriptionAZ": "Bir təyinat yerinə çatmaq.",
+        "descriptionUK": "Прибути до місця призначення."
     }, {
         "de": "freuen",
         "en": "To rejoice",
         "ru": "Радоваться",
+        "tr": "Sevinmek",
+        "az": "Sevinmək",
+        "uk": "Радіти",
         "descriptionEN": "To feel joy or great delight.",
         "descriptionRU": "Чувствовать радость или большое удовольствие.",
-        "descriptionDE": "Freude oder großes Vergnügen empfinden."
+        "descriptionDE": "Freude oder großes Vergnügen empfinden.",
+        "descriptionTR": "Neşe veya büyük haz hissetmek.",
+        "descriptionAZ": "Şadlıq və ya böyük zövq hiss etmək.",
+        "descriptionUK": "Відчувати радість чи велике задоволення."
     }, {
         "de": "untergehen",
         "en": "To set",
         "ru": "Садиться",
+        "tr": "Batmak",
+        "az": "Batmaq",
+        "uk": "Сідати",
         "descriptionEN": "To go down below the horizon.",
         "descriptionRU": "Опуститься ниже горизонта.",
-        "descriptionDE": "Unter den Horizont gehen."
+        "descriptionDE": "Unter den Horizont gehen.",
+        "descriptionTR": "Ufkun altına inmek.",
+        "descriptionAZ": "Üfüqün altına enmək.",
+        "descriptionUK": "Заходити за горизонт."
     }, {
         "de": "schmecken",
         "en": "To taste",
         "ru": "Пробовать",
+        "tr": "Tatmak",
+        "az": "Dadmaq",
+        "uk": "Скуштувати",
         "descriptionEN": "To perceive the flavor of something.",
         "descriptionRU": "Воспринимать вкус чего-либо.",
-        "descriptionDE": "Den Geschmack von etwas wahrnehmen."
+        "descriptionDE": "Den Geschmack von etwas wahrnehmen.",
+        "descriptionTR": "Bir şeyin tadını algılamak.",
+        "descriptionAZ": "Nəyinsə dadını qəbul etmək.",
+        "descriptionUK": "Сприймати смак чогось."
     }, {
         "de": "lebendig",
         "en": "Lively",
         "ru": "Живой",
+        "tr": "Canlı",
+        "az": "Canlı",
+        "uk": "Жвавий",
         "descriptionEN": "Full of life and energy.",
         "descriptionRU": "Полный жизни и энергии.",
-        "descriptionDE": "Voll von Leben und Energie."
+        "descriptionDE": "Voll von Leben und Energie.",
+        "descriptionTR": "Hayat ve enerji dolu.",
+        "descriptionAZ": "Həyat və enerji ilə dolu.",
+        "descriptionUK": "Повний життя та енергії."
     }, {
         "de": "malerisch",
         "en": "Picturesque",
         "ru": "Живописный",
+        "tr": "Resim gibi",
+        "az": "Rəngarəng",
+        "uk": "Малярський",
         "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "Визуально привлекательный, особенно в старомодном или очаровательном смысле.",
-        "descriptionDE": "Visuell ansprechend, besonders in einer malerischen oder charmanten Weise."
+        "descriptionDE": "Visuell ansprechend, besonders in einer malerischen oder charmanten Weise.",
+        "descriptionTR": "Görsel olarak çekici, özellikle eski moda veya büyüleyici bir şekilde.",
+        "descriptionAZ": "Vizual olaraq cəlbedici, xüsusilə qəribə və ya cazibədar şəkildə.",
+        "descriptionUK": "Візуально привабливий, особливо у старомодному чи чарівному сенсі."
     }, {
         "de": "traumhaft",
         "en": "Dreamlike",
         "ru": "Сказочный",
+        "tr": "Rüya gibi",
+        "az": "Xəyal kimi",
+        "uk": "Казковий",
         "descriptionEN": "Having the qualities of a dream.",
         "descriptionRU": "Имеющий качества сна.",
-        "descriptionDE": "Die Eigenschaften eines Traums habend."
+        "descriptionDE": "Die Eigenschaften eines Traums habend.",
+        "descriptionTR": "Bir rüyanın niteliklerine sahip olmak.",
+        "descriptionAZ": "Yuxunun keyfiyyətlərinə malik olmaq.",
+        "descriptionUK": "Має якості сну."
     }, {
         "de": "wundervoll",
         "en": "Wonderful",
         "ru": "Замечательный",
+        "tr": "Harika",
+        "az": "Möhtəşəm",
+        "uk": "Чудовий",
         "descriptionEN": "Inspiring delight or pleasure.",
         "descriptionRU": "Вдохновляющий восторг или удовольствие.",
-        "descriptionDE": "Freude oder Vergnügen inspirierend."
+        "descriptionDE": "Freude oder Vergnügen inspirierend.",
+        "descriptionTR": "Neşe veya zevk ilham veren.",
+        "descriptionAZ": "Şadlıq və ya zövq ilham verən.",
+        "descriptionUK": "Надихає захват чи задоволення."
     }
 ]

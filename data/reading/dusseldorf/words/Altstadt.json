@@ -3,169 +3,313 @@
         "de": "die Altstadt",
         "en": "old town",
         "ru": "старый город",
+        "tr": "eski şehir",
+        "az": "köhnə şəhər",
+        "uk": "старе місто",
         "descriptionEN": "Historic district of a city, often characterized by traditional buildings and streets.",
         "descriptionRU": "Исторический район города, часто характеризующийся традиционными зданиями и улицами.",
-        "descriptionDE": "Historischer Stadtteil einer Stadt, oft gekennzeichnet durch traditionelle Gebäude und Straßen."
+        "descriptionDE": "Historischer Stadtteil einer Stadt, oft gekennzeichnet durch traditionelle Gebäude und Straßen.",
+        "descriptionTR": "Bir şehrin tarihi bölgesi, genellikle geleneksel binalar ve sokaklar ile karakterize edilir.",
+        "descriptionAZ": "Şəhərin tarixi rayonu, adətən ənənəvi binalar və küçələrlə xarakterizə olunur.",
+        "descriptionUK": "Історичний район міста, часто характеризується традиційними будівлями та вулицями."
     }, {
         "de": "die Theke",
         "en": "counter",
         "ru": "стойка",
+        "tr": "tezgah",
+        "az": "piştaxta",
+        "uk": "стійка",
         "descriptionEN": "A long, narrow table or counter at which food or drinks are served.",
         "descriptionRU": "Длинный, узкий стол или прилавок, за которым подают еду или напитки.",
-        "descriptionDE": "Ein langer, schmaler Tisch oder Tresen, an dem Essen oder Getränke serviert werden."
+        "descriptionDE": "Ein langer, schmaler Tisch oder Tresen, an dem Essen oder Getränke serviert werden.",
+        "descriptionTR": "Yemek veya içeceklerin servis edildiği uzun, dar masa veya tezgah.",
+        "descriptionAZ": "Yemək və ya içkilərin verildiyi uzun, dar masa və ya piştaxta.",
+        "descriptionUK": "Довгий, вузький стіл або стійка, за якою подають їжу або напої."
     }, {
         "de": "der Aufschwung",
         "en": "upswing",
         "ru": "подъем",
+        "tr": "yükseliş",
+        "az": "yüksəliş",
+        "uk": "підйом",
         "descriptionEN": "A period of economic or business growth, often marked by increased activity and prosperity.",
         "descriptionRU": "Период экономического или бизнес-роста, часто отмеченный увеличением активности и процветанием.",
-        "descriptionDE": "Eine Phase des wirtschaftlichen oder geschäftlichen Wachstums, oft gekennzeichnet durch erhöhte Aktivität und Wohlstand."
+        "descriptionDE": "Eine Phase des wirtschaftlichen oder geschäftlichen Wachstums, oft gekennzeichnet durch erhöhte Aktivität und Wohlstand.",
+        "descriptionTR": "Genellikle artan aktivite ve refah ile işaretlenen ekonomik veya ticari büyüme dönemi.",
+        "descriptionAZ": "Adətən artan fəaliyyət və rifah ilə qeyd olunan iqtisadi və ya biznes böyümə dövrü.",
+        "descriptionUK": "Період економічного або ділового зростання, часто відзначений підвищеною активністю та процвітанням."
     }, {
         "de": "das Bier",
         "en": "beer",
         "ru": "пиво",
+        "tr": "bira",
+        "az": "pivə",
+        "uk": "пиво",
         "descriptionEN": "An alcoholic beverage made from fermented grains, typically barley, flavored with hops.",
         "descriptionRU": "Алкогольный напиток, изготавливаемый из сброженных зерновых, обычно ячменя, с добавлением хмеля.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Getreidesorten, in der Regel Gerste, mit Hopfen aromatisiert wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Getreidesorten, in der Regel Gerste, mit Hopfen aromatisiert wird.",
+        "descriptionTR": "Genellikle arpadan yapılan, şerbetçiotu ile tatlandırılmış fermente tahıllardan yapılan alkollü bir içecek.",
+        "descriptionAZ": "Adətən arpadan hazırlanan, şümşad ilə dadlandırılmış qıcqırmış taxıllardan hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із зброджених зернових, зазвичай ячменю, з додаванням хмелю."
     }, {
         "de": "die Feier",
         "en": "celebration",
         "ru": "праздник",
+        "tr": "kutlama",
+        "az": "bayram",
+        "uk": "святкування",
         "descriptionEN": "A social gathering or event held to mark a special occasion or holiday.",
         "descriptionRU": "Социальная встреча или мероприятие, проводимое в честь особого случая или праздника.",
-        "descriptionDE": "Ein gesellschaftliches Treffen oder Ereignis, das abgehalten wird, um einen besonderen Anlass oder Feiertag zu markieren."
+        "descriptionDE": "Ein gesellschaftliches Treffen oder Ereignis, das abgehalten wird, um einen besonderen Anlass oder Feiertag zu markieren.",
+        "descriptionTR": "Özel bir durumu veya tatili kutlamak için düzenlenen sosyal bir toplantı veya etkinlik.",
+        "descriptionAZ": "Xüsusi bir hadisəni və ya bayramı qeyd etmək üçün keçirilən ictimai görüş və ya tədbir.",
+        "descriptionUK": "Соціальна зустріч або захід, що проводиться на честь особливої події чи свята."
     }, {
         "de": "das Rezept",
         "en": "recipe",
         "ru": "рецепт",
+        "tr": "tarif",
+        "az": "resept",
+        "uk": "рецепт",
         "descriptionEN": "A set of instructions for preparing a particular dish, including a list of ingredients.",
         "descriptionRU": "Набор инструкций для приготовления определенного блюда, включая список ингредиентов.",
-        "descriptionDE": "Eine Anleitung zum Zubereiten eines bestimmten Gerichts, einschließlich einer Liste der Zutaten."
+        "descriptionDE": "Eine Anleitung zum Zubereiten eines bestimmten Gerichts, einschließlich einer Liste der Zutaten.",
+        "descriptionTR": "Malzeme listesi de dahil olmak üzere belirli bir yemeği hazırlamak için bir dizi talimat.",
+        "descriptionAZ": "İnqrediyentlərin siyahısı da daxil olmaqla müəyyən bir yeməyin hazırlanması üçün təlimatlar toplusu.",
+        "descriptionUK": "Набір інструкцій для приготування певної страви, включаючи список інгредієнтів."
     }, {
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
         "descriptionEN": "A festive season occurring before Lent, often involving parades, costumes, and parties.",
         "descriptionRU": "Праздничный сезон, происходящий перед Великим постом, часто включающий парады, костюмы и вечеринки.",
-        "descriptionDE": "Eine festliche Jahreszeit vor der Fastenzeit, die oft Umzüge, Kostüme und Partys beinhaltet."
+        "descriptionDE": "Eine festliche Jahreszeit vor der Fastenzeit, die oft Umzüge, Kostüme und Partys beinhaltet.",
+        "descriptionTR": "Büyük Perhiz'den önce gerçekleşen, genellikle geçit törenleri, kostümler ve partiler içeren bir festival sezonu.",
+        "descriptionAZ": "Böyük Pəhrizdən əvvəl baş verən, adətən yürüşlər, kostyumlar və ziyafətlər daxil olan bir festival mövsümü.",
+        "descriptionUK": "Святковий сезон, що відбувається перед Великим постом, часто включає паради, костюми та вечірки."
     }, {
         "de": "der Besucher",
         "en": "visitor",
         "ru": "посетитель",
+        "tr": "ziyaretçi",
+        "az": "ziyarətçi",
+        "uk": "відвідувач",
         "descriptionEN": "Someone who goes to a place, event, etc., for a short time.",
         "descriptionRU": "Человек, который приходит в место, событие и т. д., на короткое время.",
-        "descriptionDE": "Jemand, der für kurze Zeit an einen Ort, ein Ereignis usw. geht."
+        "descriptionDE": "Jemand, der für kurze Zeit an einen Ort, ein Ereignis usw. geht.",
+        "descriptionTR": "Bir yere, etkinliğe vb. kısa süreliğine giden biri.",
+        "descriptionAZ": "Bir yerə, tədbirə və s. qısa müddətə gedən kimsə.",
+        "descriptionUK": "Людина, яка приходить до місця, події тощо на короткий час."
     }, {
         "de": "die Spezialität",
         "en": "specialty",
         "ru": "специальность",
+        "tr": "uzmanlık",
+        "az": "ixtisas",
+        "uk": "спеціальність",
         "descriptionEN": "A particular or distinctive quality, characteristic, or feature.",
         "descriptionRU": "Особое или характерное качество, черта или особенность.",
-        "descriptionDE": "Eine bestimmte oder charakteristische Qualität, Eigenschaft oder Merkmal."
+        "descriptionDE": "Eine bestimmte oder charakteristische Qualität, Eigenschaft oder Merkmal.",
+        "descriptionTR": "Belirli veya ayırt edici bir nitelik, özellik veya karakteristik.",
+        "descriptionAZ": "Xüsusi və ya fərqləndirici bir keyfiyyət, xüsusiyyət və ya xarakteristik.",
+        "descriptionUK": "Особлива чи характерна якість, риса чи особливість."
     }, {
         "de": "der Umzug",
         "en": "parade",
         "ru": "парад",
+        "tr": "geçit töreni",
+        "az": "yürüş",
+        "uk": "парад",
         "descriptionEN": "A public procession, especially one celebrating a special day or event.",
         "descriptionRU": "Публичное шествие, особенно празднующее особый день или событие.",
-        "descriptionDE": "Ein öffentlicher Umzug, besonders einer, der einen besonderen Tag oder ein Ereignis feiert."
+        "descriptionDE": "Ein öffentlicher Umzug, besonders einer, der einen besonderen Tag oder ein Ereignis feiert.",
+        "descriptionTR": "Özellikle özel bir günü veya olayı kutlayan bir halk geçit töreni.",
+        "descriptionAZ": "Xüsusilə xüsusi bir günü və ya hadisəni qeyd edən ictimai yürüş.",
+        "descriptionUK": "Публічне хода, особливо таке, що святкує особливий день чи подію."
     }, {
         "de": "die Auswahl",
         "en": "selection",
         "ru": "выбор",
+        "tr": "seçim",
+        "az": "seçim",
+        "uk": "вибір",
         "descriptionEN": "The action or fact of carefully choosing someone or something as being the best or most suitable.",
         "descriptionRU": "Действие или факт тщательного выбора кого-то или чего-то как наилучшего или наиболее подходящего.",
-        "descriptionDE": "Die Handlung oder Tatsache, jemanden oder etwas sorgfältig als das Beste oder Geeignetste auszuwählen."
+        "descriptionDE": "Die Handlung oder Tatsache, jemanden oder etwas sorgfältig als das Beste oder Geeignetste auszuwählen.",
+        "descriptionTR": "Birini veya bir şeyi en iyi veya en uygun olarak dikkatlice seçme eylemi veya gerçeği.",
+        "descriptionAZ": "Birini və ya bir şeyi ən yaxşı və ya ən uyğun olaraq diqqətlə seçmək hərəkəti və ya faktı.",
+        "descriptionUK": "Дія чи факт ретельного вибору когось чи чогось як найкращого чи найбільш підходящого."
     }, {
         "de": "trinken",
         "en": "to drink",
         "ru": "пить",
+        "tr": "içmek",
+        "az": "içmək",
+        "uk": "пити",
         "descriptionEN": "To consume liquid through the mouth.",
         "descriptionRU": "Потреблять жидкость через рот.",
-        "descriptionDE": "Flüssigkeit durch den Mund aufnehmen."
+        "descriptionDE": "Flüssigkeit durch den Mund aufnehmen.",
+        "descriptionTR": "Ağız yoluyla sıvı tüketmek.",
+        "descriptionAZ": "Ağız vasitəsilə maye qəbul etmək.",
+        "descriptionUK": "Споживати рідину через рот."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "To observe an event or occasion with ceremonies of respect, festivity, or rejoicing.",
         "descriptionRU": "Отмечать событие или случай церемониями уважения, праздника или веселья.",
-        "descriptionDE": "Ein Ereignis oder einen Anlass mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten."
+        "descriptionDE": "Ein Ereignis oder einen Anlass mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten.",
+        "descriptionTR": "Bir olayı veya durumu saygı, şenlik veya sevinç törenleriyle gözlemlemek.",
+        "descriptionAZ": "Bir hadisəni və ya vəziyyəti hörmət, şənlik və ya sevinc mərasimləri ilə qeyd etmək.",
+        "descriptionUK": "Відзначати подію чи випадок церемоніями поваги, свята чи радості."
     }, {
         "de": "erleben",
         "en": "to experience",
         "ru": "переживать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "переживати",
         "descriptionEN": "To encounter or undergo an event or occurrence.",
         "descriptionRU": "Сталкиваться или переживать событие или явление.",
-        "descriptionDE": "Ein Ereignis oder Vorkommnis begegnen oder durchmachen."
+        "descriptionDE": "Ein Ereignis oder Vorkommnis begegnen oder durchmachen.",
+        "descriptionTR": "Bir olayla veya durumla karşılaşmak veya onu yaşamak.",
+        "descriptionAZ": "Bir hadisə ilə qarşılaşmaq və ya onu yaşamaq.",
+        "descriptionUK": "Зіткнутися чи пережити подію чи явище."
     }, {
         "de": "bieten",
         "en": "to offer",
         "ru": "предлагать",
+        "tr": "teklif etmek",
+        "az": "təklif etmək",
+        "uk": "пропонувати",
         "descriptionEN": "To present or proffer something for (someone) to accept or reject as so desired.",
         "descriptionRU": "Представить или предложить что-то для принятия или отклонения, как это желается.",
-        "descriptionDE": "Etwas (jemandem) zur Annahme oder Ablehnung vorlegen oder anbieten, wie gewünscht."
+        "descriptionDE": "Etwas (jemandem) zur Annahme oder Ablehnung vorlegen oder anbieten, wie gewünscht.",
+        "descriptionTR": "Bir şeyi (birine) kabul etmesi veya reddetmesi için sunmak veya teklif etmek, istendiği gibi.",
+        "descriptionAZ": "Bir şeyi (birinə) qəbul etməsi və ya rədd etməsi üçün təqdim etmək və ya təklif etmək, istədiyi kimi.",
+        "descriptionUK": "Представити чи запропонувати щось для прийняття чи відхилення, як це бажається."
     }, {
         "de": "verwöhnen",
         "en": "to spoil",
         "ru": "баловать",
+        "tr": "şımartmak",
+        "az": "əzişdirmək",
+        "uk": "балувати",
         "descriptionEN": "To give someone everything they want and demand, often in a way that is not good for them.",
         "descriptionRU": "Давать кому-то все, что они хотят и требуют, часто таким образом, который для них не хорош.",
-        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist."
+        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist.",
+        "descriptionTR": "Birine istediği ve talep ettiği her şeyi vermek, genellikle onlar için iyi olmayan bir şekilde.",
+        "descriptionAZ": "Birinə istədiyi və tələb etdiyi hər şeyi vermək, adətən onlar üçün yaxşı olmayan bir şəkildə.",
+        "descriptionUK": "Давати комусь все, що вони хочуть і вимагають, часто таким чином, який для них не є хорошим."
     }, {
         "de": "köstlich",
         "en": "delicious",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "ləzzətli",
+        "uk": "смачний",
         "descriptionEN": "Extremely pleasing to the sense of taste.",
         "descriptionRU": "Чрезвычайно приятный для чувства вкуса.",
-        "descriptionDE": "Äußerst angenehm für den Geschmackssinn."
+        "descriptionDE": "Äußerst angenehm für den Geschmackssinn.",
+        "descriptionTR": "Tat alma duyusuna son derece hoş gelen.",
+        "descriptionAZ": "Dad alma hissinə son dərəcə xoş gələn.",
+        "descriptionUK": "Надзвичайно приємний для почуття смаку."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionEN": "Existing in or as part of a tradition; long-established.",
         "descriptionRU": "Существующий в или как часть традиции; долго установленный.",
-        "descriptionDE": "Bestehend in oder als Teil einer Tradition; lange etabliert."
+        "descriptionDE": "Bestehend in oder als Teil einer Tradition; lange etabliert.",
+        "descriptionTR": "Bir gelenek içinde veya bir geleneğin parçası olarak var olan; uzun süredir yerleşmiş.",
+        "descriptionAZ": "Bir ənənə daxilində və ya bir ənənənin hissəsi kimi mövcud olan; uzun müddətdir yerləşmiş.",
+        "descriptionUK": "Існуючий у або як частина традиції; давно встановлений."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Known about by many people.",
         "descriptionRU": "Известный многим людям.",
-        "descriptionDE": "Von vielen Menschen bekannt."
+        "descriptionDE": "Von vielen Menschen bekannt.",
+        "descriptionTR": "Birçok insan tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bilinən.",
+        "descriptionUK": "Відомий багатьом людям."
     }, {
         "de": "beherbergen",
         "en": "to accommodate",
         "ru": "размещать",
+        "tr": "barındırmak",
+        "az": "yerləşdirmək",
+        "uk": "розміщувати",
         "descriptionEN": "To provide housing or shelter for someone or something.",
         "descriptionRU": "Обеспечить жильем или укрытием кого-то или что-то.",
-        "descriptionDE": "Jemandem oder etwas Unterkunft oder Schutz bieten."
+        "descriptionDE": "Jemandem oder etwas Unterkunft oder Schutz bieten.",
+        "descriptionTR": "Birine veya bir şeye barınma veya korunma sağlamak.",
+        "descriptionAZ": "Birinə və ya bir şeyə sığınacaq və ya qorunma təmin etmək.",
+        "descriptionUK": "Забезпечити житлом чи притулком когось чи щось."
     }, {
         "de": "unterscheiden",
         "en": "to distinguish",
         "ru": "отличать",
+        "tr": "ayırt etmek",
+        "az": "fərqləndirmək",
+        "uk": "відрізняти",
         "descriptionEN": "To recognize or perceive the difference between things.",
         "descriptionRU": "Распознать или воспринять разницу между вещами.",
-        "descriptionDE": "Den Unterschied zwischen Dingen erkennen oder wahrnehmen."
+        "descriptionDE": "Den Unterschied zwischen Dingen erkennen oder wahrnehmen.",
+        "descriptionTR": "Şeyler arasındaki farkı tanımak veya algılamak.",
+        "descriptionAZ": "Şeylər arasındakı fərqi tanımaq və ya qavramaq.",
+        "descriptionUK": "Розпізнати чи сприйняти різницю між речами."
     }, {
         "de": "erwerben",
         "en": "to acquire",
         "ru": "приобретать",
+        "tr": "edinmek",
+        "az": "əldə etmək",
+        "uk": "придбати",
         "descriptionEN": "To gain or come into possession of something.",
         "descriptionRU": "Получить или завладеть чем-то.",
-        "descriptionDE": "Etwas erhalten oder in den Besitz von etwas gelangen."
+        "descriptionDE": "Etwas erhalten oder in den Besitz von etwas gelangen.",
+        "descriptionTR": "Bir şeyi kazanmak veya sahip olmak.",
+        "descriptionAZ": "Bir şeyi qazanmaq və ya ona sahib olmaq.",
+        "descriptionUK": "Отримати чи заволодіти чимось."
     }, {
         "de": "halten",
         "en": "to hold",
         "ru": "держать",
+        "tr": "tutmak",
+        "az": "tutmaq",
+        "uk": "тримати",
         "descriptionEN": "To support and keep someone or something in a particular position or state.",
         "descriptionRU": "Поддерживать и сохранять кого-то или что-то в определенном положении или состоянии.",
-        "descriptionDE": "Jemanden oder etwas in einer bestimmten Position oder einem bestimmten Zustand unterstützen und halten."
+        "descriptionDE": "Jemanden oder etwas in einer bestimmten Position oder einem bestimmten Zustand unterstützen und halten.",
+        "descriptionTR": "Birini veya bir şeyi belirli bir pozisyonda veya durumda desteklemek ve tutmak.",
+        "descriptionAZ": "Birini və ya bir şeyi müəyyən bir mövqedə və ya vəziyyətdə dəstəkləmək və saxlamaq.",
+        "descriptionUK": "Підтримувати та зберігати когось чи щось у певному положенні чи стані."
     }, {
         "de": "verwöhnen",
         "en": "to spoil",
         "ru": "баловать",
+        "tr": "şımartmak",
+        "az": "əzişdirmək",
+        "uk": "балувати",
         "descriptionEN": "To give someone everything they want and demand, often in a way that is not good for them.",
         "descriptionRU": "Давать кому-то все, что они хотят и требуют, часто таким образом, который для них не хорош.",
-        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist."
+        "descriptionDE": "Jemandem alles geben, was er will und fordert, oft auf eine Weise, die für ihn nicht gut ist.",
+        "descriptionTR": "Birine istediği ve talep ettiği her şeyi vermek, genellikle onlar için iyi olmayan bir şekilde.",
+        "descriptionAZ": "Birinə istədiyi və tələb etdiyi hər şeyi vermək, adətən onlar üçün yaxşı olmayan bir şəkildə.",
+        "descriptionUK": "Давати комусь все, що вони хочуть і вимагають, часто таким чином, який для них не є хорошим."
     }
 ]

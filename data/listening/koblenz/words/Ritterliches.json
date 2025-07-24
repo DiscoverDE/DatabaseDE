@@ -3,141 +3,261 @@
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qəsr",
+        "uk": "замок",
         "descriptionEN": "A large building typically of the medieval period, fortified against attack.",
         "descriptionRU": "Большое здание, обычно средневекового периода, укрепленное для защиты от атак.",
-        "descriptionDE": "Ein großes Gebäude, das typischerweise aus dem Mittelalter stammt und zur Verteidigung gegen Angriffe befestigt ist."
+        "descriptionDE": "Ein großes Gebäude, das typischerweise aus dem Mittelalter stammt und zur Verteidigung gegen Angriffe befestigt ist.",
+        "descriptionTR": "Genellikle ortaçağ dönemine ait, saldırılara karşı güçlendirilmiş büyük bir bina.",
+        "descriptionAZ": "Adətən orta əsrlər dövrünə aid olan, hücumlara qarşı möhkəmləndirilmiş böyük bir bina.",
+        "descriptionUK": "Велика будівля, зазвичай середньовічного періоду, укріплена для захисту від атак."
     }, {
         "de": "der Ritter",
         "en": "knight",
         "ru": "рыцарь",
+        "tr": "şövalye",
+        "az": "cəngavər",
+        "uk": "лицар",
         "descriptionEN": "A man who served as a mounted soldier in armor, especially in the Middle Ages.",
         "descriptionRU": "Человек, который служил в качестве всадника в доспехах, особенно в Средние века.",
-        "descriptionDE": "Ein Mann, der als gepanzerter Reiter diente, insbesondere im Mittelalter."
+        "descriptionDE": "Ein Mann, der als gepanzerter Reiter diente, insbesondere im Mittelalter.",
+        "descriptionTR": "Özellikle Orta Çağ'da zırhlı bir atlı asker olarak hizmet eden bir adam.",
+        "descriptionAZ": "Xüsusilə Orta Əsrlərdə zirehli atlı əsgər kimi xidmət edən bir adam.",
+        "descriptionUK": "Людина, яка служила вершником у обладунках, особливо в Середньовіччі."
     }, {
         "de": "der Turm",
         "en": "tower",
         "ru": "башня",
+        "tr": "kule",
+        "az": "qüllə",
+        "uk": "вежа",
         "descriptionEN": "A tall, narrow building or part of a building that rises above the rest.",
         "descriptionRU": "Высокое, узкое здание или часть здания, которое поднимается над остальным.",
-        "descriptionDE": "Ein hohes, schmales Gebäude oder Teil eines Gebäudes, das über den Rest hinausragt."
+        "descriptionDE": "Ein hohes, schmales Gebäude oder Teil eines Gebäudes, das über den Rest hinausragt.",
+        "descriptionTR": "Geri kalanın üzerinde yükselen uzun, dar bir bina veya binanın bir parçası.",
+        "descriptionAZ": "Qalan hissənin üzərində yüksələn hündür, dar bir bina və ya binanın bir hissəsi.",
+        "descriptionUK": "Висока, вузька будівля або частина будівлі, яка підноситься над рештою."
     }, {
         "de": "die Treppe",
         "en": "stairs",
         "ru": "лестница",
+        "tr": "merdiven",
+        "az": "pilləkən",
+        "uk": "сходи",
         "descriptionEN": "A set of steps leading from one floor to another.",
         "descriptionRU": "Набор ступеней, ведущих с одного этажа на другой.",
-        "descriptionDE": "Eine Reihe von Stufen, die von einer Etage zur anderen führen."
+        "descriptionDE": "Eine Reihe von Stufen, die von einer Etage zur anderen führen.",
+        "descriptionTR": "Bir kattan diğerine giden bir dizi basamak.",
+        "descriptionAZ": "Bir mərtəbədən digərinə aparan bir sıra pillə.",
+        "descriptionUK": "Набір сходинок, що ведуть з одного поверху на інший."
     }, {
         "de": "das Tal",
         "en": "valley",
         "ru": "долина",
+        "tr": "vadi",
+        "az": "vadi",
+        "uk": "долина",
         "descriptionEN": "A low area of land between hills or mountains, typically with a river running through it.",
         "descriptionRU": "Низкая территория между холмами или горами, обычно с рекой, протекающей через нее.",
-        "descriptionDE": "Ein niedriges Gebiet zwischen Hügeln oder Bergen, typischerweise mit einem Fluss, der hindurch fließt."
+        "descriptionDE": "Ein niedriges Gebiet zwischen Hügeln oder Bergen, typischerweise mit einem Fluss, der hindurch fließt.",
+        "descriptionTR": "Tepeler veya dağlar arasında, genellikle bir nehrin aktığı alçak bir arazi alanı.",
+        "descriptionAZ": "Təpələr və ya dağlar arasında, adətən bir çayın axdığı alçaq bir torpaq sahəsi.",
+        "descriptionUK": "Низька територія між пагорбами чи горами, зазвичай з річкою, що протікає через неї."
     }, {
         "de": "die Rüstung",
         "en": "armor",
         "ru": "доспехи",
+        "tr": "zırh",
+        "az": "zireh",
+        "uk": "обладунки",
         "descriptionEN": "Protective covering worn to prevent injury in combat.",
         "descriptionRU": "Защитное покрытие, надеваемое для предотвращения травм в бою.",
-        "descriptionDE": "Schutzkleidung, die getragen wird, um Verletzungen im Kampf zu verhindern."
+        "descriptionDE": "Schutzkleidung, die getragen wird, um Verletzungen im Kampf zu verhindern.",
+        "descriptionTR": "Savaşta yaralanmayı önlemek için giyilen koruyucu örtü.",
+        "descriptionAZ": "Döyüşdə xəsarətin qarşısını almaq üçün geyilən qoruyucu örtük.",
+        "descriptionUK": "Захисне покриття, що надягається для запобігання травмам у бою."
     }, {
         "de": "das Schwert",
         "en": "sword",
         "ru": "меч",
+        "tr": "kılıç",
+        "az": "qılınc",
+        "uk": "меч",
         "descriptionEN": "A weapon with a long metal blade and a handle, used for cutting or thrusting.",
         "descriptionRU": "Оружие с длинным металлическим лезвием и рукояткой, используемое для резки или колющих ударов.",
-        "descriptionDE": "Eine Waffe mit einer langen Metallklinge und einem Griff, die zum Schneiden oder Stoßen verwendet wird."
+        "descriptionDE": "Eine Waffe mit einer langen Metallklinge und einem Griff, die zum Schneiden oder Stoßen verwendet wird.",
+        "descriptionTR": "Kesmek veya saplamak için kullanılan, uzun metal bir bıçak ve sapı olan bir silah.",
+        "descriptionAZ": "Kəsmək və ya sancmaq üçün istifadə olunan uzun metal bir bıçaq və dəstəyi olan bir silah.",
+        "descriptionUK": "Зброя з довгим металевим лезом та рукояттю, що використовується для різання чи колючих ударів."
     }, {
         "de": "die Tür",
         "en": "door",
         "ru": "дверь",
+        "tr": "kapı",
+        "az": "qapı",
+        "uk": "двері",
         "descriptionEN": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.",
         "descriptionRU": "Заслонка с петлями, скользящая или вращающаяся, на входе в здание, комнату или транспортное средство.",
-        "descriptionDE": "Eine schwenkbare, gleitende oder drehende Barriere am Eingang zu einem Gebäude, Raum oder Fahrzeug."
+        "descriptionDE": "Eine schwenkbare, gleitende oder drehende Barriere am Eingang zu einem Gebäude, Raum oder Fahrzeug.",
+        "descriptionTR": "Bir binanın, odanın veya aracın girişinde menteşeli, sürgülü veya döner bir bariyer.",
+        "descriptionAZ": "Bir binanın, otağın və ya nəqliyyat vasitəsinin girişində menteşeli, sürüşən və ya fırlanan bir maneə.",
+        "descriptionUK": "Заслінка з петлями, ковзна або обертальна, на вході до будівлі, кімнати чи транспортного засобу."
     }, {
         "de": "der Sommer",
         "en": "summer",
         "ru": "лето",
+        "tr": "yaz",
+        "az": "yay",
+        "uk": "літо",
         "descriptionEN": "The warmest season of the year, occurring between spring and autumn.",
         "descriptionRU": "Самый теплый сезон года, происходящий между весной и осенью.",
-        "descriptionDE": "Die wärmste Jahreszeit des Jahres, die zwischen Frühling und Herbst liegt."
+        "descriptionDE": "Die wärmste Jahreszeit des Jahres, die zwischen Frühling und Herbst liegt.",
+        "descriptionTR": "İlkbahar ve sonbahar arasında gerçekleşen yılın en sıcak mevsimi.",
+        "descriptionAZ": "Yaz və payız arasında baş verən ilin ən isti mövsümü.",
+        "descriptionUK": "Найтепліша пора року, що настає між весною та осінню."
     }, {
         "de": "das Gefühl",
         "en": "feeling",
         "ru": "чувство",
+        "tr": "duygu",
+        "az": "hiss",
+        "uk": "почуття",
         "descriptionEN": "An emotional state or reaction.",
         "descriptionRU": "Эмоциональное состояние или реакция.",
-        "descriptionDE": "Ein emotionaler Zustand oder eine Reaktion."
+        "descriptionDE": "Ein emotionaler Zustand oder eine Reaktion.",
+        "descriptionTR": "Bir duygusal durum veya tepki.",
+        "descriptionAZ": "Bir emosional vəziyyət və ya reaksiya.",
+        "descriptionUK": "Емоційний стан чи реакція."
     }, {
         "de": "die Aussicht",
         "en": "view",
         "ru": "вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionEN": "The ability to see or the scenery visible from a particular place.",
         "descriptionRU": "Способность видеть или пейзаж, видимый с определенного места.",
-        "descriptionDE": "Die Fähigkeit zu sehen oder die Aussicht, die von einem bestimmten Ort aus sichtbar ist."
+        "descriptionDE": "Die Fähigkeit zu sehen oder die Aussicht, die von einem bestimmten Ort aus sichtbar ist.",
+        "descriptionTR": "Görebilme yeteneği veya belirli bir yerden görülebilen manzara.",
+        "descriptionAZ": "Görə bilmək qabiliyyəti və ya müəyyən bir yerdən görünən mənzərə.",
+        "descriptionUK": "Здатність бачити чи пейзаж, видимий з певного місця."
     }, {
         "de": "die Frage",
         "en": "question",
         "ru": "вопрос",
+        "tr": "soru",
+        "az": "sual",
+        "uk": "питання",
         "descriptionEN": "A sentence worded or expressed so as to elicit information.",
         "descriptionRU": "Предложение, сформулированное или выраженное для получения информации.",
-        "descriptionDE": "Ein Satz, der so formuliert oder ausgedrückt ist, dass er Informationen anfordert."
+        "descriptionDE": "Ein Satz, der so formuliert oder ausgedrückt ist, dass er Informationen anfordert.",
+        "descriptionTR": "Bilgi almak için ifade edilmiş veya formüle edilmiş bir cümle.",
+        "descriptionAZ": "Məlumat almaq üçün ifadə edilmiş və ya formalaşdırılmış bir cümlə.",
+        "descriptionUK": "Речення, сформульоване чи виражене для отримання інформації."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "To perceive with the eyes.",
         "descriptionRU": "Воспринимать глазами.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "Сприймати очима."
     }, {
         "de": "klettern",
         "en": "to climb",
         "ru": "лезть",
+        "tr": "tırmanmak",
+        "az": "dırmaşmaq",
+        "uk": "лізти",
         "descriptionEN": "To go up or ascend something using hands and feet.",
         "descriptionRU": "Подниматься или восходить по чему-либо, используя руки и ноги.",
-        "descriptionDE": "Etwas hinauf- oder aufsteigen, indem man Hände und Füße verwendet."
+        "descriptionDE": "Etwas hinauf- oder aufsteigen, indem man Hände und Füße verwendet.",
+        "descriptionTR": "Elleri ve ayakları kullanarak bir şeyin üzerine çıkmak veya tırmanmak.",
+        "descriptionAZ": "Əlləri və ayaqları istifadə edərək bir şeyin üzərinə çıxmaq və ya dırmaşmaq.",
+        "descriptionUK": "Підніматися чи сходити по чомусь, використовуючи руки й ноги."
     }, {
         "de": "verteidigen",
         "en": "to defend",
         "ru": "защищать",
+        "tr": "savunmak",
+        "az": "müdafiə etmək",
+        "uk": "захищати",
         "descriptionEN": "To protect from harm or danger.",
         "descriptionRU": "Защищать от вреда или опасности.",
-        "descriptionDE": "Vor Schaden oder Gefahr schützen."
+        "descriptionDE": "Vor Schaden oder Gefahr schützen.",
+        "descriptionTR": "Zarardan veya tehlikeden korumak.",
+        "descriptionAZ": "Zərərdən və ya təhlükədən qorumaq.",
+        "descriptionUK": "Захищати від шкоди чи небезпеки."
     }, {
         "de": "wollen",
         "en": "to want",
         "ru": "хотеть",
+        "tr": "istemek",
+        "az": "istəmək",
+        "uk": "хотіти",
         "descriptionEN": "To have a desire for something.",
         "descriptionRU": "Иметь желание чего-либо.",
-        "descriptionDE": "Ein Verlangen nach etwas haben."
+        "descriptionDE": "Ein Verlangen nach etwas haben.",
+        "descriptionTR": "Bir şey için arzu duymak.",
+        "descriptionAZ": "Bir şey üçün arzu duymaq.",
+        "descriptionUK": "Мати бажання чогось."
     }, {
         "de": "leben",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "To remain alive or to reside in a particular place.",
         "descriptionRU": "Оставаться живым или проживать в определенном месте.",
-        "descriptionDE": "Lebendig bleiben oder an einem bestimmten Ort wohnen."
+        "descriptionDE": "Lebendig bleiben oder an einem bestimmten Ort wohnen.",
+        "descriptionTR": "Hayatta kalmak veya belirli bir yerde ikamet etmek.",
+        "descriptionAZ": "Canlı qalmaq və ya müəyyən bir yerdə yaşamaq.",
+        "descriptionUK": "Залишатися живим чи проживати у певному місці."
     }, {
         "de": "sein",
         "en": "to be",
         "ru": "быть",
+        "tr": "olmak",
+        "az": "olmaq",
+        "uk": "бути",
         "descriptionEN": "To exist or live.",
         "descriptionRU": "Существовать или жить.",
-        "descriptionDE": "Existieren oder leben."
+        "descriptionDE": "Existieren oder leben.",
+        "descriptionTR": "Var olmak veya yaşamak.",
+        "descriptionAZ": "Var olmaq və ya yaşamaq.",
+        "descriptionUK": "Існувати чи жити."
     }, {
         "de": "cool",
         "en": "cool",
         "ru": "крутой",
+        "tr": "havalı",
+        "az": "zəhmli",
+        "uk": "крутий",
         "descriptionEN": "Fashionable or impressive.",
         "descriptionRU": "Модный или впечатляющий.",
-        "descriptionDE": "Modisch oder beeindruckend."
+        "descriptionDE": "Modisch oder beeindruckend.",
+        "descriptionTR": "Moda uygun veya etkileyici.",
+        "descriptionAZ": "Dəbli və ya təsirli.",
+        "descriptionUK": "Модний чи вражаючий."
     }, {
         "de": "steep",
         "en": "steep",
         "ru": "крутой",
+        "tr": "dik",
+        "az": "dik",
+        "uk": "крутий",
         "descriptionEN": "Having a sharp inclination.",
         "descriptionRU": "Имеющий резкий наклон.",
-        "descriptionDE": "Mit einer scharfen Neigung."
+        "descriptionDE": "Mit einer scharfen Neigung.",
+        "descriptionTR": "Keskin bir eğime sahip olmak.",
+        "descriptionAZ": "Kəskin bir meylə malik olmaq.",
+        "descriptionUK": "Має різкий нахил."
     }
 ]
