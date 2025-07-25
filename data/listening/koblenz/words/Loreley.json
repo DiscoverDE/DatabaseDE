@@ -1,67 +1,120 @@
 [
-
     {
         "de": "die Nixe",
         "en": "the mermaid",
         "ru": "русалка",
+        "tr": "deniz kızı",
+        "az": "su pərisi",
+        "uk": "русалка",
         "descriptionEN": "A mythical sea creature with a woman's upper body and a fish's tail.",
         "descriptionRU": "Мифическое морское существо с верхней частью тела женщины и хвостом рыбы.",
-        "descriptionDE": "Ein mythisches Meereswesen mit dem Oberkörper einer Frau und dem Schwanz eines Fisches."
+        "descriptionDE": "Ein mythisches Meereswesen mit dem Oberkörper einer Frau und dem Schwanz eines Fisches.",
+        "descriptionTR": "Bir kadının üst vücudu ve bir balığın kuyruğu olan efsanevi bir deniz yaratığı.",
+        "descriptionAZ": "Qadının üst bədəni və balığın quyruğu olan mifik dəniz varlığı.",
+        "descriptionUK": "Міфічна морська істота з верхньою частиною тіла жінки та хвостом риби."
     }, {
         "de": "der Gesang",
         "en": "the song",
         "ru": "песня",
+        "tr": "şarkı",
+        "az": "mahnı",
+        "uk": "пісня",
         "descriptionEN": "The act of singing or a melody.",
         "descriptionRU": "Акт пения или мелодия.",
-        "descriptionDE": "Der Akt des Singens oder eine Melodie."
+        "descriptionDE": "Der Akt des Singens oder eine Melodie.",
+        "descriptionTR": "Şarkı söyleme eylemi veya bir melodi.",
+        "descriptionAZ": "Oxuma aktı və ya bir melodiya.",
+        "descriptionUK": "Акт співу або мелодія."
     }, {
         "de": "der Felsen",
         "en": "the rock",
         "ru": "скала",
+        "tr": "kaya",
+        "az": "qaya",
+        "uk": "скеля",
         "descriptionEN": "A solid mineral material forming part of the earth's surface.",
         "descriptionRU": "Твердый минеральный материал, составляющий часть земной поверхности.",
-        "descriptionDE": "Ein fester mineralischer Stoff, der Teil der Erdoberfläche ist."
+        "descriptionDE": "Ein fester mineralischer Stoff, der Teil der Erdoberfläche ist.",
+        "descriptionTR": "Yeryüzünün bir parçasını oluşturan katı mineral malzeme.",
+        "descriptionAZ": "Yer səthinin bir hissəsini təşkil edən bərk mineral material.",
+        "descriptionUK": "Твердий мінеральний матеріал, що становить частину земної поверхні."
     }, {
         "de": "die Strömung",
         "en": "the current",
         "ru": "течение",
+        "tr": "akıntı",
+        "az": "axın",
+        "uk": "течія",
         "descriptionEN": "A flow of water in a particular direction.",
         "descriptionRU": "Поток воды в определенном направлении.",
-        "descriptionDE": "Ein Wasserfluss in eine bestimmte Richtung."
+        "descriptionDE": "Ein Wasserfluss in eine bestimmte Richtung.",
+        "descriptionTR": "Belirli bir yönde su akışı.",
+        "descriptionAZ": "Müəyyən bir istiqamətdə su axını.",
+        "descriptionUK": "Потік води у певному напрямку."
     }, {
         "de": "der Nebel",
         "en": "the fog",
         "ru": "туман",
+        "tr": "sis",
+        "az": "duman",
+        "uk": "туман",
         "descriptionEN": "A thick cloud of tiny water droplets suspended in the atmosphere.",
         "descriptionRU": "Плотное облако крошечных капель воды, находящихся в атмосфере.",
-        "descriptionDE": "Eine dichte Wolke kleiner Wassertröpfchen in der Atmosphäre."
+        "descriptionDE": "Eine dichte Wolke kleiner Wassertröpfchen in der Atmosphäre.",
+        "descriptionTR": "Atmosferde asılı duran küçük su damlacıklarından oluşan yoğun bir bulut.",
+        "descriptionAZ": "Atmosferdə asılı duran kiçik su damcılarından ibarət sıx bir bulud.",
+        "descriptionUK": "Щільна хмара крихітних крапель води, що знаходяться в атмосфері."
     }, {
         "de": "verzaubern",
         "en": "to enchant",
         "ru": "очаровывать",
+        "tr": "büyülemek",
+        "az": "ovsunlamaq",
+        "uk": "чарувати",
         "descriptionEN": "To delight someone in a way that is almost magical.",
         "descriptionRU": "Очаровать кого-то так, что это почти магически.",
-        "descriptionDE": "Jemanden auf eine fast magische Weise erfreuen."
+        "descriptionDE": "Jemanden auf eine fast magische Weise erfreuen.",
+        "descriptionTR": "Birini neredeyse büyülü bir şekilde memnun etmek.",
+        "descriptionAZ": "Birini demək olar ki, sehrli bir şəkildə məmnun etmək.",
+        "descriptionUK": "Зачарувати когось так, що це майже магічно."
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "muhteşem",
+        "az": "gözəl",
+        "uk": "прекрасний",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Угодно чувствам или уму эстетически.",
-        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuen."
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuen.",
+        "descriptionTR": "Duyuları veya zihni estetik olarak memnun etmek.",
+        "descriptionAZ": "Duyğuları və ya ağılı estetik olaraq məmnun etmək.",
+        "descriptionUK": "Приємний почуттям чи розуму естетично."
     }, {
         "de": "gefährlich",
         "en": "dangerous",
         "ru": "опасный",
+        "tr": "tehlikeli",
+        "az": "təhlükəli",
+        "uk": "небезпечний",
         "descriptionEN": "Able or likely to cause harm or injury.",
         "descriptionRU": "Способный или вероятный причинить вред или травму.",
-        "descriptionDE": "Fähig oder wahrscheinlich, Schaden oder Verletzungen zu verursachen."
+        "descriptionDE": "Fähig oder wahrscheinlich, Schaden oder Verletzungen zu verursachen.",
+        "descriptionTR": "Zarar veya yaralanmaya neden olabilen veya olası.",
+        "descriptionAZ": "Zərər və ya xəsarətə səbəb ola bilən və ya ehtimal olunan.",
+        "descriptionUK": "Здатний чи ймовірний заподіяти шкоду чи травму."
     }, {
         "de": "abgelenkt",
         "en": "distracted",
         "ru": "отвлеченный",
+        "tr": "dikkati dağılmış",
+        "az": "diqqəti dağılmış",
+        "uk": "відволічений",
         "descriptionEN": "Unable to concentrate because one's mind is preoccupied.",
         "descriptionRU": "Невозможность сосредоточиться, потому что ум занят.",
-        "descriptionDE": "Unfähig, sich zu konzentrieren, weil der Geist beschäftigt ist."
+        "descriptionDE": "Unfähig, sich zu konzentrieren, weil der Geist beschäftigt ist.",
+        "descriptionTR": "Zihni meşgul olduğu için konsantre olamamak.",
+        "descriptionAZ": "Ağıl məşğul olduğu üçün diqqətini toplaya bilməmək.",
+        "descriptionUK": "Неможливість зосередитися, тому що розум зайнятий."
     }
 ]

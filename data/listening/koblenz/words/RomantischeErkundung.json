@@ -3,135 +3,248 @@
         "de": "der Traum",
         "en": "dream",
         "ru": "мечта",
+        "tr": "rüya",
+        "az": "arzu",
+        "uk": "мрія",
         "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
         "descriptionRU": "серия мыслей, образов или эмоций, возникающих во время сна",
-        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten"
+        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten",
+        "descriptionTR": "uyku sırasında ortaya çıkan bir dizi düşünce, görüntü veya duygu",
+        "descriptionAZ": "yuxu zamanı yaranan bir sıra fikir, şəkil və ya emosiya",
+        "descriptionUK": "серія думок, образів чи емоцій, що виникають під час сну"
     }, {
         "de": "die Reise",
         "en": "journey",
         "ru": "путешествие",
+        "tr": "yolculuk",
+        "az": "səyahət",
+        "uk": "подорож",
         "descriptionEN": "an act of traveling from one place to another",
         "descriptionRU": "действие путешествия из одного места в другое",
-        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen"
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen",
+        "descriptionTR": "bir yerden başka bir yere seyahat etme eylemi",
+        "descriptionAZ": "bir yerdən başqa bir yerə səyahət etmək hərəkəti",
+        "descriptionUK": "дія подорожі з одного місця до іншого"
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "ріка",
         "descriptionEN": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
         "descriptionRU": "большой естественный поток воды, текущий по каналу к морю, озеру или другой реке",
-        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt"
+        "descriptionDE": "ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt",
+        "descriptionTR": "denize, bir göle veya başka bir nehre akan büyük bir doğal su akıntısı",
+        "descriptionAZ": "dənizə, bir gölə və ya başqa bir çaya axan böyük təbii su axını",
+        "descriptionUK": "великий природний потік води, що тече каналом до моря, озера чи іншої річки"
     }, {
         "de": "die Liebe",
         "en": "love",
         "ru": "любовь",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
         "descriptionEN": "an intense feeling of deep affection",
         "descriptionRU": "интенсивное чувство глубокой привязанности",
-        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung"
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung",
+        "descriptionTR": "derin bir sevginin yoğun hissi",
+        "descriptionAZ": "dərin bir məhəbbətin güclü hissi",
+        "descriptionUK": "інтенсивне почуття глибокої прихильності"
     }, {
         "de": "die Beziehung",
         "en": "relationship",
         "ru": "отношения",
+        "tr": "ilişki",
+        "az": "əlaqə",
+        "uk": "стосунки",
         "descriptionEN": "the way in which two or more people or things are connected, or the state of being connected",
         "descriptionRU": "способ, которым два или более человека или вещи связаны, или состояние быть связанным",
-        "descriptionDE": "die Art und Weise, wie zwei oder mehr Personen oder Dinge miteinander verbunden sind, oder der Zustand der Verbindung"
+        "descriptionDE": "die Art und Weise, wie zwei oder mehr Personen oder Dinge miteinander verbunden sind, oder der Zustand der Verbindung",
+        "descriptionTR": "iki veya daha fazla kişi veya şeyin bağlı olduğu yol veya bağlı olma durumu",
+        "descriptionAZ": "iki və ya daha çox insan və ya şeyin bağlı olduğu üsul və ya bağlı olma vəziyyəti",
+        "descriptionUK": "спосіб, у який два чи більше людей чи речей пов'язані, або стан зв'язку"
     }, {
         "de": "erkunden",
         "en": "explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it",
         "descriptionRU": "путешествовать через (незнакомую местность) с целью изучить её",
-        "descriptionDE": "durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen"
+        "descriptionDE": "durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen",
+        "descriptionTR": "(tanıdık olmayan bir bölgeyi) öğrenmek için seyahat etmek",
+        "descriptionAZ": "(tanımadığınız bir ərazini) öyrənmək üçün səyahət etmək",
+        "descriptionUK": "подорожувати через (незнайому місцевість) з метою вивчити її"
     }, {
         "de": "festhalten",
         "en": "capture",
         "ru": "захватить",
+        "tr": "yakalamak",
+        "az": "tutmaq",
+        "uk": "захопити",
         "descriptionEN": "to record or take a photograph of (something) using a camera",
         "descriptionRU": "записать или сделать фотографию (чего-то) с помощью камеры",
-        "descriptionDE": "etwas mit einer Kamera aufzeichnen oder fotografieren"
+        "descriptionDE": "etwas mit einer Kamera aufzeichnen oder fotografieren",
+        "descriptionTR": "bir kamerayla (bir şeyin) kaydını yapmak veya fotoğrafını çekmek",
+        "descriptionAZ": "bir kameradan istifadə edərək (bir şeyin) qeydini etmək və ya fotoşəkilini çəkmək",
+        "descriptionUK": "записати чи зробити фотографію (чогось) за допомогою камери"
     }, {
         "de": "dokumentieren",
         "en": "document",
         "ru": "документировать",
+        "tr": "belgelemek",
+        "az": "sənədləşdirmək",
+        "uk": "документувати",
         "descriptionEN": "to record (something) in written, photographic, or other form",
         "descriptionRU": "записывать (что-то) в письменной, фотографической или другой форме",
-        "descriptionDE": "(etwas) in schriftlicher, fotografischer oder anderer Form festhalten"
+        "descriptionDE": "(etwas) in schriftlicher, fotografischer oder anderer Form festhalten",
+        "descriptionTR": "(bir şeyi) yazılı, fotoğrafik veya başka bir biçimde kaydetmek",
+        "descriptionAZ": "(bir şeyi) yazılı, fotoqrafik və ya başqa bir formada qeyd etmək",
+        "descriptionUK": "записувати (щось) у письмовій, фотографічній чи іншій формі"
     }, {
         "de": "pausieren",
         "en": "pause",
         "ru": "пауза",
+        "tr": "duraklatmak",
+        "az": "fasilə vermək",
+        "uk": "пауза",
         "descriptionEN": "to stop doing something for a short time before doing it again",
         "descriptionRU": "прекратить что-то делать на короткое время, прежде чем снова это делать",
-        "descriptionDE": "eine kurze Pause machen, bevor man etwas wieder tut"
+        "descriptionDE": "eine kurze Pause machen, bevor man etwas wieder tut",
+        "descriptionTR": "bir şeyi tekrar yapmadan önce kısa bir süre durdurmak",
+        "descriptionAZ": "bir şeyi yenidən etmədən əvvəl qısa bir müddət dayandırmaq",
+        "descriptionUK": "припинити щось робити на короткий час, перш ніж знову це робити"
     }, {
         "de": "kaufen",
         "en": "buy",
         "ru": "купить",
+        "tr": "satın almak",
+        "az": "almaq",
+        "uk": "купити",
         "descriptionEN": "to acquire in exchange for money or its equivalent",
         "descriptionRU": "приобрести в обмен на деньги или их эквивалент",
-        "descriptionDE": "im Austausch gegen Geld oder dessen Äquivalent erwerben"
+        "descriptionDE": "im Austausch gegen Geld oder dessen Äquivalent erwerben",
+        "descriptionTR": "para veya eşdeğeri karşılığında edinmek",
+        "descriptionAZ": "pul və ya onun ekvivalenti müqabilində əldə etmək",
+        "descriptionUK": "придбати в обмін на гроші чи їх еквівалент"
     }, {
         "de": "schreiben",
         "en": "write",
         "ru": "писать",
+        "tr": "yazmak",
+        "az": "yazmaq",
+        "uk": "писати",
         "descriptionEN": "to mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement",
         "descriptionRU": "отметить (буквы, слова или другие символы) на поверхности, обычно бумаге, ручкой, карандашом или подобным инструментом",
-        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf einer Oberfläche, typischerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren"
+        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf einer Oberfläche, typischerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren",
+        "descriptionTR": "(harfleri, kelimeleri veya diğer sembolleri) bir yüzeyde, genellikle kağıt üzerinde, kalem, kurşun kalem veya benzeri bir araçla işaretlemek",
+        "descriptionAZ": "(hərfləri, sözləri və ya digər simvolları) bir səthdə, adətən kağız üzərində, qələm, karandaş və ya oxşar alətlə işarələmək",
+        "descriptionUK": "позначити (літери, слова чи інші символи) на поверхні, зазвичай папері, ручкою, олівцем чи подібним інструментом"
     }, {
         "de": "näher",
         "en": "closer",
         "ru": "ближе",
+        "tr": "daha yakın",
+        "az": "daha yaxın",
+        "uk": "ближче",
         "descriptionEN": "at a shorter distance in space or time",
         "descriptionRU": "на более коротком расстоянии в пространстве или времени",
-        "descriptionDE": "in kürzerer Entfernung im Raum oder in der Zeit"
+        "descriptionDE": "in kürzerer Entfernung im Raum oder in der Zeit",
+        "descriptionTR": "mekanda veya zamanda daha kısa bir mesafede",
+        "descriptionAZ": "məkanda və ya zamanda daha qısa məsafədə",
+        "descriptionUK": "на коротшій відстані в просторі чи часі"
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unutulmaz",
+        "uk": "незабутній",
         "descriptionEN": "impossible to forget",
         "descriptionRU": "невозможно забыть",
-        "descriptionDE": "unmöglich zu vergessen"
+        "descriptionDE": "unmöglich zu vergessen",
+        "descriptionTR": "unutulması imkansız",
+        "descriptionAZ": "unutmaq mümkün deyil",
+        "descriptionUK": "неможливо забути"
     }, {
         "de": "bezaubernd",
         "en": "enchanting",
         "ru": "очаровательный",
-
+        "tr": "büyüleyici",
+        "az": "ovsunlayıcı",
+        "uk": "чарівний",
         "descriptionEN": "charming or delightful",
         "descriptionRU": "очаровательный или восхитительный",
-        "descriptionDE": "charmant oder entzückend"
+        "descriptionDE": "charmant oder entzückend",
+        "descriptionTR": "büyüleyici veya hoş",
+        "descriptionAZ": "ovsunlayıcı və ya xoş",
+        "descriptionUK": "чарівний чи захопливий"
     }, {
         "de": "magisch",
         "en": "magical",
         "ru": "волшебный",
+        "tr": "büyülü",
+        "az": "sehrli",
+        "uk": "чарівний",
         "descriptionEN": "possessing or involving qualities of magic",
         "descriptionRU": "обладающий или включающий в себя качества магии",
-        "descriptionDE": "besitzt oder beinhaltet Eigenschaften von Magie"
+        "descriptionDE": "besitzt oder beinhaltet Eigenschaften von Magie",
+        "descriptionTR": "büyü niteliklerine sahip olan veya içeren",
+        "descriptionAZ": "sehr xüsusiyyətlərinə malik olan və ya əhatə edən",
+        "descriptionUK": "володіючий чи включаючий у себе якості магії"
     }, {
         "de": "dankbar",
         "en": "grateful",
         "ru": "благодарный",
+        "tr": "minnettar",
+        "az": "minnətdar",
+        "uk": "вдячний",
         "descriptionEN": "feeling or showing an appreciation of kindness; thankful",
         "descriptionRU": "чувствующий или выражающий признательность за доброту; благодарный",
-        "descriptionDE": "fühlen oder zeigen eine Wertschätzung für Freundlichkeit; dankbar"
+        "descriptionDE": "fühlen oder zeigen eine Wertschätzung für Freundlichkeit; dankbar",
+        "descriptionTR": "nazikliğin takdirini hissetmek veya göstermek; minnettar",
+        "descriptionAZ": "nəzakətin qiymətini hiss etmək və ya göstərmək; minnətdar",
+        "descriptionUK": "почуваючи чи виражаючи вдячність за доброту; вдячний"
     }, {
         "de": "gemütlich",
         "en": "cozy",
         "ru": "уютный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation",
         "descriptionRU": "дающий ощущение комфорта, тепла и расслабления",
-        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung"
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung",
+        "descriptionTR": "konfor, sıcaklık ve rahatlama hissi veren",
+        "descriptionAZ": "rahatlıq, istilik və rahatlıq hissi verən",
+        "descriptionUK": "який дає відчуття комфорту, тепла та розслаблення"
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "pleasing the senses or mind aesthetically",
         "descriptionRU": "угождающий чувствам или разуму эстетически",
-        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend"
+        "descriptionDE": "die Sinne oder den Geist ästhetisch ansprechend",
+        "descriptionTR": "duyulara veya zihne estetik açıdan hoş gelen",
+        "descriptionAZ": "duyğulara və ya ağıla estetik baxımdan xoş gələn",
+        "descriptionUK": "який догоджає почуттям чи розуму естетично"
     }, {
         "de": "malersich",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "resim gibi",
+        "az": "rəngarəng",
+        "uk": "мальовничий",
         "descriptionEN": "visually attractive, especially in a quaint or charming way",
         "descriptionRU": "визуально привлекательный, особенно в старомодном или очаровательном стиле",
-        "descriptionDE": "visuell ansprechend, besonders auf eine malerische oder charmante Weise"
+        "descriptionDE": "visuell ansprechend, besonders auf eine malerische oder charmante Weise",
+        "descriptionTR": "özellikle tuhaf veya büyüleyici bir şekilde görsel olarak çekici",
+        "descriptionAZ": "xüsusilə qəribə və ya sehrli bir şəkildə vizual olaraq cəlbedici",
+        "descriptionUK": "візуально привабливий, особливо у старомодному чи чарівному стилі"
     }
 ]

@@ -3,176 +3,326 @@
         "de": "die Freundschaft",
         "en": "Friendship",
         "ru": "Дружба",
+        "tr": "Arkadaşlık",
+        "az": "Dostluq",
+        "uk": "Дружба",
+        "descriptionDE": "Eine enge und gegenseitige Bindung zwischen Menschen.",
         "descriptionEN": "A close and mutual bond between people.",
         "descriptionRU": "Близкая и взаимная связь между людьми.",
-        "descriptionDE": "Eine enge und gegenseitige Bindung zwischen Menschen."
+        "descriptionTR": "İnsanlar arasında yakın ve karşılıklı bağ.",
+        "descriptionAZ": "İnsanlar arasında yaxın və qarşılıqlı bağ.",
+        "descriptionUK": "тесний і взаємний зв’язок між людьми."
     }, {
         "de": "das Café",
         "en": "Cafe",
         "ru": "Кафе",
+        "tr": "Kafe",
+        "az": "Kofe",
+        "uk": "Кафе",
+        "descriptionDE": "Ein kleines Restaurant, in dem Getränke und Snacks verkauft werden.",
         "descriptionEN": "A small restaurant where drinks and snacks are sold.",
         "descriptionRU": "Маленький ресторан, где продают напитки и закуски.",
-        "descriptionDE": "Ein kleines Restaurant, in dem Getränke und Snacks verkauft werden."
+        "descriptionTR": "İçeceklerin ve atıştırmalıkların satıldığı küçük restoran.",
+        "descriptionAZ": "İçkilərin və qəlyanaltıların satıldığı kiçik restoran.",
+        "descriptionUK": "маленький ресторан, де продають напої та закуски."
     }, {
         "de": "der Autor",
         "en": "Author",
         "ru": "Автор",
+        "tr": "Yazar",
+        "az": "Müəllif",
+        "uk": "Автор",
+        "descriptionDE": "Eine Person, die Bücher oder Artikel schreibt.",
         "descriptionEN": "A person who writes books or articles.",
         "descriptionRU": "Человек, который пишет книги или статьи.",
-        "descriptionDE": "Eine Person, die Bücher oder Artikel schreibt."
+        "descriptionTR": "Kitaplar veya makaleler yazan kişi.",
+        "descriptionAZ": "Kitablar və ya məqalələr yazan şəxs.",
+        "descriptionUK": "особа, яка пише книги або статті."
     }, {
         "de": "das Studium",
         "en": "Studies",
         "ru": "Учеба",
+        "tr": "Eğitim",
+        "az": "Təhsil",
+        "uk": "Навчання",
+        "descriptionDE": "Der Prozess des Studiums an einer Universität oder Hochschule.",
         "descriptionEN": "The process of studying at a university or college.",
         "descriptionRU": "Процесс обучения в университете или колледже.",
-        "descriptionDE": "Der Prozess des Studiums an einer Universität oder Hochschule."
+        "descriptionTR": "Üniversite veya kolejde eğitim görme süreci.",
+        "descriptionAZ": "Universitetdə və ya kollecde təhsil prosesi.",
+        "descriptionUK": "процес навчання в університеті чи коледжі."
     }, {
         "de": "die Medizin",
         "en": "Medicine",
         "ru": "Медицина",
+        "tr": "Tıp",
+        "az": "Tibb",
+        "uk": "Медицина",
+        "descriptionDE": "Die Wissenschaft oder Praxis der Diagnose, Behandlung und Prävention von Krankheiten.",
         "descriptionEN": "The science or practice of diagnosing, treating, and preventing diseases.",
         "descriptionRU": "Наука или практика диагностики, лечения и профилактики заболеваний.",
-        "descriptionDE": "Die Wissenschaft oder Praxis der Diagnose, Behandlung und Prävention von Krankheiten."
+        "descriptionTR": "Hastalıkların teşhis, tedavi ve önlenmesi bilimi veya uygulaması.",
+        "descriptionAZ": "Xəstəliklərin diaqnostikası, müalicəsi və qarşısının alınması elmi və ya praktikası.",
+        "descriptionUK": "наука або практика діагностики, лікування та профілактики хвороб."
     }, {
         "de": "der Drehbuchautor",
         "en": "Screenwriter",
         "ru": "Сценарист",
+        "tr": "Senarist",
+        "az": "Ssenarist",
+        "uk": "Сценарист",
+        "descriptionDE": "Eine Person, die Drehbücher für Filme oder Fernsehen schreibt.",
         "descriptionEN": "A person who writes scripts for movies or television.",
         "descriptionRU": "Человек, который пишет сценарии для фильмов или телевидения.",
-        "descriptionDE": "Eine Person, die Drehbücher für Filme oder Fernsehen schreibt."
+        "descriptionTR": "Filmler veya televizyon için senaryo yazan kişi.",
+        "descriptionAZ": "Filmlər və ya televiziya üçün ssenarilər yazan şəxs.",
+        "descriptionUK": "особа, яка пише сценарії для фільмів або телебачення."
     }, {
         "de": "der Investmentbanker",
         "en": "Investment Banker",
         "ru": "Инвестиционный банкир",
+        "tr": "Yatırım bankacısı",
+        "az": "İnvestisiya bankiri",
+        "uk": "Інвестиційний банкір",
+        "descriptionDE": "Eine Person, die in einer Bank arbeitet, die sich mit Investitionen befasst.",
         "descriptionEN": "A person who works in a bank that deals with investments.",
         "descriptionRU": "Человек, который работает в банке, занимающемся инвестициями.",
-        "descriptionDE": "Eine Person, die in einer Bank arbeitet, die sich mit Investitionen befasst."
+        "descriptionTR": "Yatırımlarla ilgilenen bir bankada çalışan kişi.",
+        "descriptionAZ": "İnvestisiyalarla məşğul olan bankda işləyən şəxs.",
+        "descriptionUK": "особа, що працює в банку, який займається інвестиціями."
     }, {
         "de": "der Grafikdesigner",
         "en": "Graphic Designer",
         "ru": "Графический дизайнер",
+        "tr": "Grafik tasarımcı",
+        "az": "Qrafik dizayner",
+        "uk": "Графічний дизайнер",
+        "descriptionDE": "Eine Person, die visuelle Inhalte erstellt, um Botschaften zu vermitteln.",
         "descriptionEN": "A person who creates visual content to communicate messages.",
         "descriptionRU": "Человек, который создает визуальный контент для передачи сообщений.",
-        "descriptionDE": "Eine Person, die visuelle Inhalte erstellt, um Botschaften zu vermitteln."
+        "descriptionTR": "Mesaj iletmek için görsel içerik yaratan kişi.",
+        "descriptionAZ": "Mesajları çatdırmaq üçün vizual məzmun yaradan şəxs.",
+        "descriptionUK": "особа, що створює візуальний контент для передачі повідомлень."
     }, {
         "de": "die Persönlichkeit",
         "en": "Personality",
         "ru": "Личность",
+        "tr": "Kişilik",
+        "az": "Şəxsiyyət",
+        "uk": "Особистість",
+        "descriptionDE": "Die Kombination von Eigenschaften oder Qualitäten, die den unverwechselbaren Charakter einer Person ausmachen.",
         "descriptionEN": "The combination of characteristics or qualities that form an individual's distinctive character.",
         "descriptionRU": "Совокупность характеристик или качеств, которые формируют отличительный характер человека.",
-        "descriptionDE": "Die Kombination von Eigenschaften oder Qualitäten, die den unverwechselbaren Charakter einer Person ausmachen."
+        "descriptionTR": "Bir bireyin karakteristik özellikleri veya niteliklerinin birleşimi.",
+        "descriptionAZ": "Fərdin fərqli xarakterini təşkil edən xüsusiyyətlər və keyfiyyətlər kombinasiyası.",
+        "descriptionUK": "комбінація характеристик або якостей, що формують індивідуальний характер."
     }, {
         "de": "das Treffen",
         "en": "Meeting",
         "ru": "Встреча",
+        "tr": "Toplantı",
+        "az": "Görüş",
+        "uk": "Зустріч",
+        "descriptionDE": "Eine Versammlung von Menschen zu einem bestimmten Zweck.",
         "descriptionEN": "An assembly of people for a particular purpose.",
         "descriptionRU": "Собрание людей с определенной целью.",
-        "descriptionDE": "Eine Versammlung von Menschen zu einem bestimmten Zweck."
+        "descriptionTR": "Belirli bir amaç için insanların bir araya gelmesi.",
+        "descriptionAZ": "Müəyyən məqsədlə insanların toplanması.",
+        "descriptionUK": "збір людей з певною метою."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "tr": "Müze",
+        "az": "Muzey",
+        "uk": "Музей",
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "A building where objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "Здание, где хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
-        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+        "descriptionTR": "Tarihi, bilimsel, sanatsal veya kültürel öneme sahip nesnelerin saklandığı ve sergilendiği bina.",
+        "descriptionAZ": "Tarixi, elmi, bədii və ya mədəni maraq obyektlərinin saxlanıldığı və sərgiləndiyi bina.",
+        "descriptionUK": "будівля, у якій зберігаються та виставляються об’єкти історичного, наукового, художнього чи культурного інтересу."
     }, {
         "de": "die Weinprobe",
         "en": "Wine Tasting",
         "ru": "Дегустация вина",
+        "tr": "Şarap tadımı",
+        "az": "Şərab dada bilmə",
+        "uk": "Дегустація вина",
+        "descriptionDE": "Eine Veranstaltung, bei der Menschen verschiedene Weine probieren.",
         "descriptionEN": "An event where people sample different wines.",
         "descriptionRU": "Мероприятие, где люди пробуют разные вина.",
-        "descriptionDE": "Eine Veranstaltung, bei der Menschen verschiedene Weine probieren."
+        "descriptionTR": "İnsanların çeşitli şarapları tattığı etkinlik.",
+        "descriptionAZ": "İnsanların müxtəlif şərabları dadduğu tədbir.",
+        "descriptionUK": "захід, на якому люди дегустують різні вина."
     }, {
         "de": "kennenlernen",
         "en": "to meet",
         "ru": "знакомиться",
+        "tr": "tanış olmak",
+        "az": "tanış olmaq",
+        "uk": "познайомитися",
+        "descriptionDE": "Mit jemandem neuen bekannt werden.",
         "descriptionEN": "To become acquainted with someone new.",
         "descriptionRU": "Познакомиться с кем-то новым.",
-        "descriptionDE": "Mit jemandem neuen bekannt werden."
+        "descriptionTR": "Yeni biriyle tanış olmak.",
+        "descriptionAZ": "Yeni biri ilə tanış olmaq.",
+        "descriptionUK": "познайомитися з новою людиною."
     }, {
         "de": "einladen",
         "en": "to invite",
         "ru": "приглашать",
+        "tr": "davet etmek",
+        "az": "dəvət etmək",
+        "uk": "запрошувати",
+        "descriptionDE": "Jemanden zu einer Veranstaltung einladen.",
         "descriptionEN": "To ask someone to come to an event.",
         "descriptionRU": "Пригласить кого-то на мероприятие.",
-        "descriptionDE": "Jemanden zu einer Veranstaltung einladen."
+        "descriptionTR": "Birini bir etkinliğe davet etmek.",
+        "descriptionAZ": "Birini tədbirə dəvət etmək.",
+        "descriptionUK": "попросити когось прийти на захід."
     }, {
         "de": "veröffentlichen",
         "en": "to publish",
         "ru": "публиковать",
+        "tr": "yayınlamak",
+        "az": "nəşr etmək",
+        "uk": "публікувати",
+        "descriptionDE": "Ein Dokument oder ein Medium der Öffentlichkeit zugänglich machen.",
         "descriptionEN": "To make a document or piece of media available to the public.",
         "descriptionRU": "Сделать документ или произведение доступным для публики.",
-        "descriptionDE": "Ein Dokument oder ein Medium der Öffentlichkeit zugänglich machen."
+        "descriptionTR": "Bir belgeyi veya medyayı halka sunmak.",
+        "descriptionAZ": "Sənədi və ya medianı ictimaiyyətə təqdim etmək.",
+        "descriptionUK": "зробити документ або медіа доступними для публіки."
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
+        "descriptionDE": "Einer Arbeit oder einem Beruf nachgehen.",
         "descriptionEN": "To engage in a job or profession.",
         "descriptionRU": "Заниматься работой или профессией.",
-        "descriptionDE": "Einer Arbeit oder einem Beruf nachgehen."
+        "descriptionTR": "Bir işte veya meslekte çalışmak.",
+        "descriptionAZ": "Bir işdə və ya peşədə məşğul olmaq.",
+        "descriptionUK": "займатися роботою чи професією."
     }, {
         "de": "streiten",
         "en": "to argue",
         "ru": "спорить",
+        "tr": "tartışmak",
+        "az": "mübahisə etmək",
+        "uk": "сперечатися",
+        "descriptionDE": "Unterschiedliche Ansichten äußern, oft hitzig.",
         "descriptionEN": "To express differing views, often heatedly.",
         "descriptionRU": "Выражать разные мнения, часто горячо.",
-        "descriptionDE": "Unterschiedliche Ansichten äußern, oft hitzig."
+        "descriptionTR": "Farklı görüşler ifade etmek, genellikle hararetli bir şekilde.",
+        "descriptionAZ": "Fərqli fikirləri ifadə etmək, tez-tez qızğın şəkildə.",
+        "descriptionUK": "висловлювати різні погляди, часто гаряче."
     }, {
         "de": "kümmern",
         "en": "to care",
         "ru": "заботиться",
+        "tr": "ilgilenmek",
+        "az": "baxmaq",
+        "uk": "дбати",
+        "descriptionDE": "Sich um jemanden kümmern und für seine Bedürfnisse sorgen.",
         "descriptionEN": "To look after and provide for the needs of someone.",
         "descriptionRU": "Заботиться и обеспечивать чьи-то нужды.",
-        "descriptionDE": "Sich um jemanden kümmern und für seine Bedürfnisse sorgen."
+        "descriptionTR": "Birinin ihtiyaçlarına bakmak ve onu sağlamak.",
+        "descriptionAZ": "Birinin ehtiyaclarına baxmaq və təmin etmək.",
+        "descriptionUK": "піклуватися про когось і задовольняти його потреби."
     }, {
         "de": "scheu",
         "en": "shy",
         "ru": "застенчивый",
+        "tr": "utangaç",
+        "az": "utancaq",
+        "uk": "сором’язливий",
+        "descriptionDE": "Nervös oder schüchtern im Beisein anderer.",
         "descriptionEN": "Nervous or timid in the company of others.",
         "descriptionRU": "Нервный или робкий в компании других людей.",
-        "descriptionDE": "Nervös oder schüchtern im Beisein anderer."
+        "descriptionTR": "Başkalarının yanında gergin veya çekingen.",
+        "descriptionAZ": "Başqalarının yanında həyəcanlı və ya utancaq.",
+        "descriptionUK": "нервовий або сором’язливий у компанії інших."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
+        "descriptionDE": "Lang etablierten Praktiken folgend.",
         "descriptionEN": "Following long-established practices.",
         "descriptionRU": "Следующий давно установленным практикам.",
-        "descriptionDE": "Lang etablierten Praktiken folgend."
+        "descriptionTR": "Uzun zamandır yerleşmiş uygulamalara uyan.",
+        "descriptionAZ": "Uzun müddətdir mövcud olan təcrübələri izləyən.",
+        "descriptionUK": "дотримуючись давно встановлених практик."
     }, {
         "de": "offen",
         "en": "outspoken",
         "ru": "откровенный",
+        "tr": "açık sözlü",
+        "az": "açıq sözlü",
+        "uk": "відкритий",
+        "descriptionDE": "Direkt und ehrlich in der Rede.",
         "descriptionEN": "Direct and honest in speech.",
         "descriptionRU": "Прямой и честный в речи.",
-        "descriptionDE": "Direkt und ehrlich in der Rede."
+        "descriptionTR": "Söylemde doğrudan ve dürüst.",
+        "descriptionAZ": "Danışıqda birbaşa və dürüst.",
+        "descriptionUK": "прямий і чесний у розмові."
     }, {
         "de": "naiv",
         "en": "naive",
         "ru": "наивный",
+        "tr": "naif",
+        "az": "sadəlövh",
+        "uk": "наївний",
+        "descriptionDE": "Mangel an Erfahrung oder Raffinesse.",
         "descriptionEN": "Lacking experience or sophistication.",
         "descriptionRU": "Не имеющий опыта или утонченности.",
-        "descriptionDE": "Mangel an Erfahrung oder Raffinesse."
+        "descriptionTR": "Deneyim veya incelik eksikliği.",
+        "descriptionAZ": "Təcrübə və ya zəriflik çatışmazlığı.",
+        "descriptionUK": "брак досвіду або вишуканості."
     }, {
         "de": "lustig",
         "en": "funny",
         "ru": "смешной",
+        "tr": "komik",
+        "az": "gülməli",
+        "uk": "смішний",
+        "descriptionDE": "Lachen oder Amüsement hervorrufen.",
         "descriptionEN": "Causing laughter or amusement.",
         "descriptionRU": "Вызывающий смех или развлечение.",
-        "descriptionDE": "Lachen oder Amüsement hervorrufen."
+        "descriptionTR": "Gülme veya eğlenceye neden olur.",
+        "descriptionAZ": "Gülüş və ya əyləncə yaradır.",
+        "descriptionUK": "викликає сміх або розвагу."
     }, {
         "de": "gierig",
         "en": "greedy",
         "ru": "жадный",
+        "tr": "aç gözlü",
+        "az": "tamahkar",
+        "uk": "жадібний",
+        "descriptionDE": "Ein übermäßiges Verlangen nach Reichtum oder Besitz haben.",
         "descriptionEN": "Having an excessive desire for wealth or possessions.",
         "descriptionRU": "Имеющий чрезмерное желание к богатству или владению.",
-        "descriptionDE": "Ein übermäßiges Verlangen nach Reichtum oder Besitz haben."
+        "descriptionTR": "Maddi zenginlik veya mülke aşırı arzu duymak.",
+        "descriptionAZ": "Sərvət və ya mülkiyyətə həddindən artıq istək duymaq.",
+        "descriptionUK": "мати надмірне бажання до багатства чи майна."
     }, {
         "de": "fürsorglich",
         "en": "caring",
         "ru": "заботливый",
+        "tr": "şefkatli",
+        "az": "qayğıkeş",
+        "uk": "турботливий",
+        "descriptionDE": "Freundlichkeit und Sorge für andere zeigen.",
         "descriptionEN": "Displaying kindness and concern for others.",
         "descriptionRU": "Проявляющий доброту и заботу о других.",
-        "descriptionDE": "Freundlichkeit und Sorge für andere zeigen."
+        "descriptionTR": "Başkalarına karşı nazik ve özenli olmak.",
+        "descriptionAZ": "Başqalarına qarşı mehriban və qayğıkeş olmaq.",
+        "descriptionUK": "показувати доброту та піклування про інших."
     }
 ]

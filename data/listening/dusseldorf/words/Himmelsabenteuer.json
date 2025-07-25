@@ -5,223 +5,415 @@
         "ru": "башня",
         "descriptionEN": "a tall structure, typically taller than it is wide, often used as a vantage point.",
         "descriptionRU": "высокая конструкция, обычно выше, чем широкая, часто используется в качестве точки обзора.",
-        "descriptionDE": "eine hohe Struktur, typischerweise höher als breit, oft als Aussichtspunkt genutzt."
+        "descriptionDE": "eine hohe Struktur, typischerweise höher als breit, oft als Aussichtspunkt genutzt.",
+        "tr": "kule",
+        "az": "qüllə",
+        "uk": "вежа",
+        "descriptionTR": "genellikle genişliğinden daha uzun olan, sıklıkla bir gözetleme noktası olarak kullanılan uzun bir yapı.",
+        "descriptionAZ": "adətən enindən hündür olan, tez-tez müşahidə nöqtəsi kimi istifadə olunan hündür bir tikili.",
+        "descriptionUK": "висока споруда, зазвичай вища, ніж широка, часто використовується як оглядовий пункт."
     }, {
         "de": "die Kamera",
         "en": "camera",
         "ru": "камера",
         "descriptionEN": "a device for recording visual images in the form of photographs, film, or video signals.",
         "descriptionRU": "устройство для записи визуальных изображений в форме фотографий, кино или видеосигналов.",
-        "descriptionDE": "ein Gerät zur Aufzeichnung visueller Bilder in Form von Fotografien, Film oder Videosignalen."
+        "descriptionDE": "ein Gerät zur Aufzeichnung visueller Bilder in Form von Fotografien, Film oder Videosignalen.",
+        "tr": "kamera",
+        "az": "kamera",
+        "uk": "камера",
+        "descriptionTR": "fotoğraf, film veya video sinyalleri şeklinde görsel görüntüleri kaydetmek için bir cihaz.",
+        "descriptionAZ": "fotoşəkillər, filmlər və ya video siqnalları şəklində vizual görüntüləri yazmaq üçün bir cihaz.",
+        "descriptionUK": "пристрій для запису візуальних зображень у формі фотографій, фільму або відеосигналів."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
         "descriptionEN": "a large town.",
         "descriptionRU": "большой город.",
-        "descriptionDE": "eine große Stadt."
+        "descriptionDE": "eine große Stadt.",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
+        "descriptionTR": "büyük bir kasaba.",
+        "descriptionAZ": "böyük bir qəsəbə.",
+        "descriptionUK": "велике місто."
     }, {
         "de": "das Abenteuer",
         "en": "adventure",
         "ru": "приключение",
         "descriptionEN": "an unusual and exciting or daring experience.",
         "descriptionRU": "необычный и захватывающий или смелый опыт.",
-        "descriptionDE": "eine ungewöhnliche und aufregende oder kühne Erfahrung."
+        "descriptionDE": "eine ungewöhnliche und aufregende oder kühne Erfahrung.",
+        "tr": "macera",
+        "az": "macəra",
+        "uk": "пригода",
+        "descriptionTR": "sıra dışı ve heyecan verici veya cesur bir deneyim.",
+        "descriptionAZ": "qeyri-adi və həyəcanlı və ya cəsarətli təcrübə.",
+        "descriptionUK": "незвичний та захоплюючий або сміливий досвід."
     }, {
         "de": "die Herausforderung",
         "en": "challenge",
         "ru": "вызов",
         "descriptionEN": "a task or situation that tests someone's abilities.",
         "descriptionRU": "задача или ситуация, проверяющая способности человека.",
-        "descriptionDE": "eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet."
+        "descriptionDE": "eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet.",
+        "tr": "meydan okuma",
+        "az": "çətinlik",
+        "uk": "виклик",
+        "descriptionTR": "birinin yeteneklerini test eden bir görev veya durum.",
+        "descriptionAZ": "kiminsə bacarıqlarını sınaqdan keçirən bir vəzifə və ya vəziyyət.",
+        "descriptionUK": "завдання або ситуація, що перевіряє чиїсь здібності."
     }, {
         "de": "der Blickwinkel",
         "en": "perspective",
         "ru": "перспектива",
         "descriptionEN": "a particular attitude toward or way of regarding something; a point of view.",
         "descriptionRU": "особое отношение к чему-либо; точка зрения.",
-        "descriptionDE": "eine bestimmte Einstellung oder Art und Weise, etwas zu betrachten; eine Perspektive."
+        "descriptionDE": "eine bestimmte Einstellung oder Art und Weise, etwas zu betrachten; eine Perspektive.",
+        "tr": "bakış açısı",
+        "az": "perspektiv",
+        "uk": "перспектива",
+        "descriptionTR": "bir şeye karşı belirli bir tutum veya onu değerlendirme şekli; bir bakış açısı.",
+        "descriptionAZ": "nəyəsə qarşı müəyyən bir münasibət və ya baxış tərzi; baxış nöqtəsi.",
+        "descriptionUK": "особливе ставлення або спосіб сприйняття чогось; точка зору."
     }, {
         "de": "das Licht",
         "en": "light",
         "ru": "свет",
         "descriptionEN": "the natural agent that stimulates sight and makes things visible.",
         "descriptionRU": "естественный агент, стимулирующий зрение и делающий вещи видимыми.",
-        "descriptionDE": "der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht."
+        "descriptionDE": "der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht.",
+        "tr": "ışık",
+        "az": "işıq",
+        "uk": "світло",
+        "descriptionTR": "görmeyi uyaran ve nesneleri görünür kılan doğal etken.",
+        "descriptionAZ": "görməni stimullaşdıran və əşyaları görünən edən təbii agent.",
+        "descriptionUK": "природний агент, що стимулює зір і робить речі видимими."
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
         "descriptionEN": "the invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
         "descriptionRU": "невидимое газообразное вещество, окружающее землю, смесь в основном кислорода и азота.",
-        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff."
+        "descriptionDE": "die unsichtbare gasförmige Substanz, die die Erde umgibt, eine Mischung hauptsächlich aus Sauerstoff und Stickstoff.",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "повітря",
+        "descriptionTR": "dünyayı çevreleyen görünmez gaz halindeki madde, esas olarak oksijen ve azot karışımı.",
+        "descriptionAZ": "yer kürəsini əhatə edən görünməz qaz maddəsi, əsasən oksigen və azot qarışığı.",
+        "descriptionUK": "невидима газоподібна речовина, що оточує землю, суміш переважно кисню та азоту."
     }, {
         "de": "glitzernd",
         "en": "sparkling",
         "ru": "искрящийся",
         "descriptionEN": "shining with a flickering light.",
         "descriptionRU": "сияющий мерцающим светом.",
-        "descriptionDE": "mit einem flackernden Licht glänzend."
+        "descriptionDE": "mit einem flackernden Licht glänzend.",
+        "tr": "parıldayan",
+        "az": "parıldayan",
+        "uk": "іскристий",
+        "descriptionTR": "titrek bir ışıkla parlayan.",
+        "descriptionAZ": "titrəyən bir işıqla parıldayan.",
+        "descriptionUK": "сяючий мерехтливим світлом."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий дух",
         "descriptionEN": "extremely impressive or beautiful.",
         "descriptionRU": "чрезвычайно впечатляющий или красивый.",
-        "descriptionDE": "äußerst beeindruckend oder schön."
+        "descriptionDE": "äußerst beeindruckend oder schön.",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий",
+        "descriptionTR": "son derece etkileyici veya güzel.",
+        "descriptionAZ": "son dərəcə təsirli və ya gözəl.",
+        "descriptionUK": "надзвичайно вражаючий або красивий."
     }, {
         "de": "belebt",
         "en": "lively",
         "ru": "живой",
         "descriptionEN": "full of life and energy; active and outgoing.",
         "descriptionRU": "полный жизни и энергии; активный и общительный.",
-        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig."
+        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig.",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
+        "descriptionTR": "hayat ve enerji dolu; aktif ve dışa dönük.",
+        "descriptionAZ": "həyat və enerji dolu; aktiv və ünsiyyətcil.",
+        "descriptionUK": "повний життя та енергії; активний та товариський."
     }, {
         "de": "berauschend",
         "en": "exhilarating",
         "ru": "воодушевляющий",
         "descriptionEN": "making one feel very happy, animated, or elated; thrilling.",
         "descriptionRU": "заставляющий чувствовать себя очень счастливым, воодушевленным или взволнованным; захватывающий.",
-        "descriptionDE": "ein Gefühl von großer Freude, Belebung oder Hochstimmung erzeugend; aufregend."
+        "descriptionDE": "ein Gefühl von großer Freude, Belebung oder Hochstimmung erzeugend; aufregend.",
+        "tr": "coşkun",
+        "az": "həyəcanlandırıcı",
+        "uk": "хвилюючий",
+        "descriptionTR": "birini çok mutlu, canlı veya neşeli hissettiren; heyecan verici.",
+        "descriptionAZ": "insanı çox xoşbəxt, canlı və ya ruh yüksəkliyində hiss etdirən; həyəcanlandırıcı.",
+        "descriptionUK": "змушує відчувати себе дуже щасливим, жвавим або піднесеним; захоплюючий."
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
         "descriptionEN": "produced, introduced, or discovered recently or now for the first time; not existing before.",
         "descriptionRU": "произведенный, представленный или обнаруженный недавно или впервые; не существовавший ранее.",
-        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend."
+        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend.",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
+        "descriptionTR": "yakın zamanda veya şimdi ilk kez üretilen, tanıtılan veya keşfedilen; daha önce var olmayan.",
+        "descriptionAZ": "yaxınlarda və ya indi ilk dəfə istehsal olunan, təqdim olunan və ya kəşf edilən; əvvəllər mövcud olmayan.",
+        "descriptionUK": "виготовлений, представлений або відкритий нещодавно або зараз вперше; не існуючий раніше."
     }, {
         "de": "perfekt",
         "en": "perfect",
         "ru": "идеальный",
         "descriptionEN": "having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
         "descriptionRU": "имеющий все необходимые или желательные элементы, качества или характеристики; такой хороший, каким только возможно быть.",
-        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend; so gut wie es nur möglich ist."
+        "descriptionDE": "alle erforderlichen oder wünschenswerten Elemente, Eigenschaften oder Merkmale aufweisend; so gut wie es nur möglich ist.",
+        "tr": "mükemmel",
+        "az": "mükəmməl",
+        "uk": "ідеальний",
+        "descriptionTR": "gerekli veya arzu edilen tüm unsurlara, niteliklere veya özelliklere sahip; olabilecek en iyi şekilde.",
+        "descriptionAZ": "bütün tələb olunan və ya arzu olunan elementlərə, keyfiyyətlərə və ya xüsusiyyətlərə malik; mümkün qədər yaxşı olan.",
+        "descriptionUK": "маючи всі необхідні або бажані елементи, якості або характеристики; настільки хороший, наскільки це можливо."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
         "descriptionEN": "being the only one of its kind; unlike anything else.",
         "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
-        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert.",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
+        "descriptionTR": "türünün tek örneği olmak; başka hiçbir şeye benzememek.",
+        "descriptionAZ": "öz növünün yeganəsi olmaq; başqa heç nəyə bənzəməmək.",
+        "descriptionUK": "будучи єдиним у своєму роді; несхожий ні на що інше."
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
         "descriptionEN": "very enthusiastic and eager.",
         "descriptionRU": "очень восторженный и нетерпеливый.",
-        "descriptionDE": "sehr begeistert und eifrig."
+        "descriptionDE": "sehr begeistert und eifrig.",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
+        "descriptionTR": "çok hevesli ve istekli.",
+        "descriptionAZ": "çox həvəskar və istəkli.",
+        "descriptionUK": "дуже захоплений і нетерплячий."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий дух",
         "descriptionEN": "extremely impressive or beautiful.",
         "descriptionRU": "чрезвычайно впечатляющий или красивый.",
-        "descriptionDE": "äußerst beeindruckend oder schön."
+        "descriptionDE": "äußerst beeindruckend oder schön.",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий",
+        "descriptionTR": "son derece etkileyici veya güzel.",
+        "descriptionAZ": "son dərəcə təsirli və ya gözəl.",
+        "descriptionUK": "надзвичайно вражаючий або красивий."
     }, {
         "de": "spektakulär",
         "en": "spectacular",
         "ru": "зрелищный",
         "descriptionEN": "beautiful in a dramatic and eye-catching way.",
         "descriptionRU": "красивый в драматическом и привлекательном смысле.",
-        "descriptionDE": "auf dramatische und auffällige Weise schön."
+        "descriptionDE": "auf dramatische und auffällige Weise schön.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "видовищний",
+        "descriptionTR": "dramatik ve dikkat çekici bir şekilde güzel.",
+        "descriptionAZ": "dramatik və diqqətçəkən bir şəkildə gözəl.",
+        "descriptionUK": "красивий у драматичний та привабливий спосіб."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
         "descriptionEN": "being the only one of its kind; unlike anything else.",
         "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
-        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert.",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
+        "descriptionTR": "türünün tek örneği olmak; başka hiçbir şeye benzememek.",
+        "descriptionAZ": "öz növünün yeganəsi olmaq; başqa heç nəyə bənzəməmək.",
+        "descriptionUK": "будучи єдиним у своєму роді; несхожий ні на що інше."
     }, {
         "de": "wertvoll",
         "en": "valuable",
         "ru": "ценный",
         "descriptionEN": "worth a lot of money or highly prized.",
         "descriptionRU": "стоящий много денег или высоко ценится.",
-        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+        "descriptionDE": "viel Geld wert oder hoch geschätzt.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "цінний",
+        "descriptionTR": "çok para değerinde veya çok değerli.",
+        "descriptionAZ": "çox pul dəyərində və ya yüksək qiymətləndirilən.",
+        "descriptionUK": "коштує багато грошей або високо цінується."
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
         "descriptionEN": "produced, introduced, or discovered recently or now for the first time; not existing before.",
         "descriptionRU": "произведенный, представленный или обнаруженный недавно или впервые; не существовавший ранее.",
-        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend."
+        "descriptionDE": "kürzlich oder jetzt zum ersten Mal produziert, eingeführt oder entdeckt; zuvor nicht existierend.",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
+        "descriptionTR": "yakın zamanda veya şimdi ilk kez üretilen, tanıtılan veya keşfedilen; daha önce var olmayan.",
+        "descriptionAZ": "yaxınlarda və ya indi ilk dəfə istehsal olunan, təqdim olunan və ya kəşf edilən; əvvəllər mövcud olmayan.",
+        "descriptionUK": "виготовлений, представлений або відкритий нещодавно або зараз вперше; не існуючий раніше."
     }, {
         "de": "wertvoll",
         "en": "valuable",
         "ru": "ценный",
         "descriptionEN": "worth a lot of money or highly prized.",
         "descriptionRU": "стоящий много денег или высоко ценится.",
-        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+        "descriptionDE": "viel Geld wert oder hoch geschätzt.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "цінний",
+        "descriptionTR": "çok para değerinde veya çok değerli.",
+        "descriptionAZ": "çox pul dəyərində və ya yüksək qiymətləndirilən.",
+        "descriptionUK": "коштує багато грошей або високо цінується."
     }, {
         "de": "wertvoll",
         "en": "valuable",
         "ru": "ценный",
         "descriptionEN": "worth a lot of money or highly prized.",
         "descriptionRU": "стоящий много денег или высоко ценится.",
-        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+        "descriptionDE": "viel Geld wert oder hoch geschätzt.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "цінний",
+        "descriptionTR": "çok para değerinde veya çok değerli.",
+        "descriptionAZ": "çox pul dəyərində və ya yüksək qiymətləndirilən.",
+        "descriptionUK": "коштує багато грошей або високо цінується."
     }, {
         "de": "bemerkenswert",
         "en": "remarkable",
         "ru": "замечательный",
         "descriptionEN": "worthy of attention; striking.",
         "descriptionRU": "достойный внимания; выдающийся.",
-        "descriptionDE": "beachtenswert; auffallend."
+        "descriptionDE": "beachtenswert; auffallend.",
+        "tr": "dikkate değer",
+        "az": "diqqətəlayiq",
+        "uk": "чудовий",
+        "descriptionTR": "dikkat çekmeye değer; çarpıcı.",
+        "descriptionAZ": "diqqətəlayiq; təsirli.",
+        "descriptionUK": "варти уваги; вражаючий."
     }, {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий дух",
         "descriptionEN": "extremely impressive or beautiful.",
         "descriptionRU": "чрезвычайно впечатляющий или красивый.",
-        "descriptionDE": "äußerst beeindruckend oder schön."
+        "descriptionDE": "äußerst beeindruckend oder schön.",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий",
+        "descriptionTR": "son derece etkileyici veya güzel.",
+        "descriptionAZ": "son dərəcə təsirli və ya gözəl.",
+        "descriptionUK": "надзвичайно вражаючий або красивий."
     }, {
         "de": "wertvoll",
         "en": "valuable",
         "ru": "ценный",
         "descriptionEN": "worth a lot of money or highly prized.",
         "descriptionRU": "стоящий много денег или высоко ценится.",
-        "descriptionDE": "viel Geld wert oder hoch geschätzt."
+        "descriptionDE": "viel Geld wert oder hoch geschätzt.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "цінний",
+        "descriptionTR": "çok para değerinde veya çok değerli.",
+        "descriptionAZ": "çox pul dəyərində və ya yüksək qiymətləndirilən.",
+        "descriptionUK": "коштує багато грошей або високо цінується."
     }, {
         "de": "wunderschön",
         "en": "gorgeous",
         "ru": "великолепный",
         "descriptionEN": "beautiful; very attractive.",
         "descriptionRU": "красивый; очень привлекательный.",
-        "descriptionDE": "schön; sehr attraktiv."
+        "descriptionDE": "schön; sehr attraktiv.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
+        "descriptionTR": "güzel; çok çekici.",
+        "descriptionAZ": "gözəl; çox cəlbedici.",
+        "descriptionUK": "красивий; дуже привабливий."
     }, {
         "de": "spektakulär",
         "en": "spectacular",
         "ru": "зрелищный",
         "descriptionEN": "beautiful in a dramatic and eye-catching way.",
         "descriptionRU": "красивый в драматическом и привлекательном смысле.",
-        "descriptionDE": "auf dramatische und auffällige Weise schön."
+        "descriptionDE": "auf dramatische und auffällige Weise schön.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "видовищний",
+        "descriptionTR": "dramatik ve dikkat çekici bir şekilde güzel.",
+        "descriptionAZ": "dramatik və diqqətçəkən bir şəkildə gözəl.",
+        "descriptionUK": "красивий у драматичний та привабливий спосіб."
     }, {
         "de": "beeindruckend",
         "en": "impressive",
         "ru": "впечатляющий",
         "descriptionEN": "evoking admiration through size, quality, or skill.",
         "descriptionRU": "вызывающий восхищение своими размерами, качеством или мастерством.",
-        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufend."
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufend.",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
+        "descriptionTR": "boyutu, kalitesi veya becerisiyle hayranlık uyandıran.",
+        "descriptionAZ": "ölçüsü, keyfiyyəti və ya bacarığı ilə heyranlıq doğuran.",
+        "descriptionUK": "викликає захоплення розміром, якістю або майстерністю."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
         "descriptionEN": "being the only one of its kind; unlike anything else.",
         "descriptionRU": "будучи единственным в своем роде; не похожий ни на что другое.",
-        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert."
+        "descriptionDE": "als einzigartig, andersartig oder unverwechselbar charakterisiert.",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
+        "descriptionTR": "türünün tek örneği olmak; başka hiçbir şeye benzememek.",
+        "descriptionAZ": "öz növünün yeganəsi olmaq; başqa heç nəyə bənzəməmək.",
+        "descriptionUK": "будучи єдиним у своєму роді; несхожий ні на що інше."
     }, {
         "de": "spektakulär",
         "en": "spectacular",
         "ru": "зрелищный",
         "descriptionEN": "beautiful in a dramatic and eye-catching way.",
         "descriptionRU": "красивый в драматическом и привлекательном смысле.",
-        "descriptionDE": "auf dramatische und auffällige Weise schön."
+        "descriptionDE": "auf dramatische und auffällige Weise schön.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "видовищний",
+        "descriptionTR": "dramatik ve dikkat çekici bir şekilde güzel.",
+        "descriptionAZ": "dramatik və diqqətçəkən bir şəkildə gözəl.",
+        "descriptionUK": "красивий у драматичний та привабливий спосіб."
     }, {
         "de": "belebt",
         "en": "lively",
         "ru": "живой",
         "descriptionEN": "full of life and energy; active and outgoing.",
         "descriptionRU": "полный жизни и энергии; активный и общительный.",
-        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig."
+        "descriptionDE": "voll Leben und Energie; aktiv und kontaktfreudig.",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
+        "descriptionTR": "hayat ve enerji dolu; aktif ve dışa dönük.",
+        "descriptionAZ": "həyat və enerji dolu; aktiv və ünsiyyətcil.",
+        "descriptionUK": "повний життя та енергії; активний та товариський."
     }
 ]

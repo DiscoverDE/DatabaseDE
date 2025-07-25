@@ -5,153 +5,285 @@
         "ru": "книжный магазин",
         "descriptionEN": "a store where books are sold",
         "descriptionRU": "магазин, где продаются книги",
-        "descriptionDE": "ein Geschäft, in dem Bücher verkauft werden"
+        "descriptionDE": "ein Geschäft, in dem Bücher verkauft werden",
+        "tr": "kitapçı",
+        "az": "kitab dükanı",
+        "uk": "книгарня",
+        "descriptionTR": "kitapların satıldığı bir mağaza",
+        "descriptionAZ": "kitab satılan mağaza",
+        "descriptionUK": "магазин, де продаються книги"
     }, {
         "de": "der Monat",
         "en": "month",
         "ru": "месяц",
         "descriptionEN": "a unit of time approximately equal to 30 days",
         "descriptionRU": "единица времени, примерно равная 30 дням",
-        "descriptionDE": "eine Zeiteinheit von ungefähr 30 Tagen"
+        "descriptionDE": "eine Zeiteinheit von ungefähr 30 Tagen",
+        "tr": "ay",
+        "az": "ay",
+        "uk": "місяць",
+        "descriptionTR": "yaklaşık 30 güne eşit bir zaman birimi",
+        "descriptionAZ": "təxminən 30 günə bərabər zaman vahidi",
+        "descriptionUK": "одиниця часу, приблизно рівна 30 дням"
     }, {
         "de": "der Traum",
         "en": "dream",
         "ru": "мечта",
         "descriptionEN": "a series of thoughts, images, or emotions occurring during sleep",
         "descriptionRU": "последовательность мыслей, образов или эмоций, происходящих во сне",
-        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die im Schlaf auftreten"
+        "descriptionDE": "eine Abfolge von Gedanken, Bildern oder Emotionen, die im Schlaf auftreten",
+        "tr": "rüya",
+        "az": "yuxu",
+        "uk": "мрія",
+        "descriptionTR": "uyku sırasında oluşan düşünceler, imgeler veya duygular dizisi",
+        "descriptionAZ": "yuxu zamanı baş verən düşüncələr, görüntülər və ya emosiyalar silsiləsi",
+        "descriptionUK": "послідовність думок, образів або емоцій, що виникають під час сну"
     }, {
         "de": "der Autor",
         "en": "author",
         "ru": "автор",
         "descriptionEN": "a writer of a book, article, or document",
         "descriptionRU": "писатель книги, статьи или документа",
-        "descriptionDE": "ein Verfasser eines Buches, Artikels oder Dokuments"
+        "descriptionDE": "ein Verfasser eines Buches, Artikels oder Dokuments",
+        "tr": "yazar",
+        "az": "müəllif",
+        "uk": "автор",
+        "descriptionTR": "bir kitap, makale veya belge yazarı",
+        "descriptionAZ": "kitabın, məqalənin və ya sənədin yazıçısı",
+        "descriptionUK": "письменник книги, статті або документа"
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
         "descriptionEN": "a set of written, printed, or blank pages fastened together",
         "descriptionRU": "набор написанных, напечатанных или пустых страниц, скрепленных вместе",
-        "descriptionDE": "eine Sammlung von beschriebenen, gedruckten oder leeren Seiten, die zusammengebunden sind"
+        "descriptionDE": "eine Sammlung von beschriebenen, gedruckten oder leeren Seiten, die zusammengebunden sind",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
+        "descriptionTR": "yazılı, basılı veya boş sayfaların birbirine tutturulmuş bir seti",
+        "descriptionAZ": "yazılı, çap olunmuş və ya boş səhifələrin bir-birinə bərkidilmiş dəsti",
+        "descriptionUK": "набір написаних, надрукованих або чистих сторінок, скріплених разом"
     }, {
         "de": "die Freizeit",
         "en": "leisure time",
         "ru": "свободное время",
         "descriptionEN": "time that is free from work or other responsibilities",
         "descriptionRU": "время, свободное от работы или других обязанностей",
-        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Verpflichtungen ist"
+        "descriptionDE": "Zeit, die frei von Arbeit oder anderen Verpflichtungen ist",
+        "tr": "boş zaman",
+        "az": "asudə vaxt",
+        "uk": "вільний час",
+        "descriptionTR": "iş veya diğer sorumluluklardan arınmış zaman",
+        "descriptionAZ": "işdən və ya digər məsuliyyətlərdən azad olan vaxt",
+        "descriptionUK": "час, вільний від роботи або інших обов'язків"
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
         "descriptionEN": "a group of people related by blood or marriage",
         "descriptionRU": "группа людей, связанных кровными узами или браком",
-        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind"
+        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
+        "descriptionTR": "kan veya evlilik yoluyla akraba olan bir grup insan",
+        "descriptionAZ": "qan və ya evlilik yolu ilə əlaqəli bir qrup insan",
+        "descriptionUK": "група людей, пов'язаних кровними узами або шлюбом"
     }, {
         "de": "das Geld",
         "en": "money",
         "ru": "деньги",
         "descriptionEN": "a medium of exchange for goods and services",
         "descriptionRU": "средство обмена для товаров и услуг",
-        "descriptionDE": "ein Tauschmittel für Waren und Dienstleistungen"
+        "descriptionDE": "ein Tauschmittel für Waren und Dienstleistungen",
+        "tr": "para",
+        "az": "pul",
+        "uk": "гроші",
+        "descriptionTR": "mal ve hizmetler için bir değişim aracı",
+        "descriptionAZ": "mal və xidmətlər üçün mübadilə vasitəsi",
+        "descriptionUK": "засіб обміну товарами та послугами"
     }, {
         "de": "der Grund",
         "en": "reason",
         "ru": "причина",
         "descriptionEN": "a basis or cause for an action, decision, or belief",
         "descriptionRU": "основание или причина для действия, решения или убеждения",
-        "descriptionDE": "eine Basis oder Ursache für eine Handlung, Entscheidung oder Überzeugung"
+        "descriptionDE": "eine Basis oder Ursache für eine Handlung, Entscheidung oder Überzeugung",
+        "tr": "neden",
+        "az": "səbəb",
+        "uk": "причина",
+        "descriptionTR": "bir eylem, karar veya inanç için bir temel veya neden",
+        "descriptionAZ": "hərəkət, qərar və ya inanc üçün əsas və ya səbəb",
+        "descriptionUK": "основа або причина для дії, рішення або переконання"
     }, {
         "de": "das Auto",
         "en": "car",
         "ru": "автомобиль",
         "descriptionEN": "a four-wheeled vehicle used for transportation",
         "descriptionRU": "четырехколесный транспортное средство",
-        "descriptionDE": "ein vierrädriges Fahrzeug zur Beförderung"
+        "descriptionDE": "ein vierrädriges Fahrzeug zur Beförderung",
+        "tr": "araba",
+        "az": "avtomobil",
+        "uk": "автомобіль",
+        "descriptionTR": "ulaşım için kullanılan dört tekerlekli bir araç",
+        "descriptionAZ": "nəqliyyat üçün istifadə edilən dörd təkərli vasitə",
+        "descriptionUK": "чотириколісний транспортний засіб, що використовується для перевезення"
     }, {
         "de": "der Kauf",
         "en": "purchase",
         "ru": "покупка",
         "descriptionEN": "the act of buying something",
         "descriptionRU": "действие покупки чего-то",
-        "descriptionDE": "der Akt des Kaufens von etwas"
+        "descriptionDE": "der Akt des Kaufens von etwas",
+        "tr": "satın alma",
+        "az": "alış",
+        "uk": "покупка",
+        "descriptionTR": "bir şey satın alma eylemi",
+        "descriptionAZ": "bir şeyi satın alma hərəkəti",
+        "descriptionUK": "акт купівлі чогось"
     }, {
         "de": "die Entscheidung",
         "en": "decision",
         "ru": "решение",
         "descriptionEN": "a conclusion or resolution reached after consideration",
         "descriptionRU": "заключение или решение, принятое после обдумывания",
-        "descriptionDE": "ein Schluss oder eine Lösung nach Abwägung"
+        "descriptionDE": "ein Schluss oder eine Lösung nach Abwägung",
+        "tr": "karar",
+        "az": "qərar",
+        "uk": "рішення",
+        "descriptionTR": "düşünüldükten sonra ulaşılan bir sonuç veya çözüm",
+        "descriptionAZ": "nəzərdən keçirildikdən sonra əldə edilən nəticə və ya qətnamə",
+        "descriptionUK": "висновок або рішення, прийняте після розгляду"
     }, {
         "de": "die Zeitschrift",
         "en": "magazine",
         "ru": "журнал",
         "descriptionEN": "a periodical publication containing articles and illustrations",
         "descriptionRU": "периодическое издание, содержащее статьи и иллюстрации",
-        "descriptionDE": "eine periodische Veröffentlichung mit Artikeln und Illustrationen"
+        "descriptionDE": "eine periodische Veröffentlichung mit Artikeln und Illustrationen",
+        "tr": "dergi",
+        "az": "jurnal",
+        "uk": "журнал",
+        "descriptionTR": "makaleler ve illüstrasyonlar içeren süreli bir yayın",
+        "descriptionAZ": "məqalələr və illüstrasiyalar ehtiva edən dövri nəşr",
+        "descriptionUK": "періодичне видання, що містить статті та ілюстрації"
     }, {
         "de": "lesen",
         "en": "read",
         "ru": "читать",
         "descriptionEN": "to look at and comprehend the meaning of written or printed matter",
         "descriptionRU": "смотреть и понимать значение письменного или печатного материала",
-        "descriptionDE": "betrachten und den Sinn von schriftlichem oder gedrucktem Material verstehen"
+        "descriptionDE": "betrachten und den Sinn von schriftlichem oder gedrucktem Material verstehen",
+        "tr": "okumak",
+        "az": "oxumaq",
+        "uk": "читати",
+        "descriptionTR": "yazılı veya basılı bir malzemenin anlamını okumak ve kavramak",
+        "descriptionAZ": "yazılı və ya çap olunmuş materialın mənasını oxumaq və anlamaq",
+        "descriptionUK": "дивитися та розуміти значення написаного або надрукованого матеріалу"
     }, {
         "de": "empfehlen",
         "en": "recommend",
         "ru": "рекомендовать",
         "descriptionEN": "to suggest or endorse as being suitable, beneficial, or necessary",
         "descriptionRU": "предложить или поддержать как подходящий, полезный или необходимый",
-        "descriptionDE": "vorschlagen oder unterstützen als geeignet, vorteilhaft oder notwendig"
+        "descriptionDE": "vorschlagen oder unterstützen als geeignet, vorteilhaft oder notwendig",
+        "tr": "tavsiye etmek",
+        "az": "tövsiyə etmək",
+        "uk": "рекомендувати",
+        "descriptionTR": "uygun, faydalı veya gerekli olarak önermek veya onaylamak",
+        "descriptionAZ": "uyğun, faydalı və ya zəruri kimi təklif etmək və ya təsdiq etmək",
+        "descriptionUK": "пропонувати або схвалювати як підходяще, корисне або необхідне"
     }, {
         "de": "sparen",
         "en": "save",
         "ru": "экономить",
         "descriptionEN": "to set aside money for future use",
         "descriptionRU": "откладывать деньги на будущее",
-        "descriptionDE": "Geld für zukünftige Verwendung beiseite legen"
+        "descriptionDE": "Geld für zukünftige Verwendung beiseite legen",
+        "tr": "biriktirmek",
+        "az": "yığmaq",
+        "uk": "економити",
+        "descriptionTR": "gelecekteki kullanım için para ayırmak",
+        "descriptionAZ": "gələcək istifadə üçün pul ayırmaq",
+        "descriptionUK": "відкладати гроші для майбутнього використання"
     }, {
         "de": "kaufen",
         "en": "buy",
         "ru": "покупать",
         "descriptionEN": "to acquire something in exchange for money",
         "descriptionRU": "приобретать что-то в обмен на деньги",
-        "descriptionDE": "etwas gegen Geld erwerben"
+        "descriptionDE": "etwas gegen Geld erwerben",
+        "tr": "satın almak",
+        "az": "almaq",
+        "uk": "купувати",
+        "descriptionTR": "para karşılığında bir şey edinmek",
+        "descriptionAZ": "pul müqabilində nəyisə əldə etmək",
+        "descriptionUK": "отримувати щось в обмін на гроші"
     }, {
         "de": "arbeiten",
         "en": "work",
         "ru": "работать",
         "descriptionEN": "to perform tasks for a job or occupation",
         "descriptionRU": "выполнять задачи для работы или занятия",
-        "descriptionDE": "Aufgaben für eine Arbeit oder Tätigkeit ausführen"
+        "descriptionDE": "Aufgaben für eine Arbeit oder Tätigkeit ausführen",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
+        "descriptionTR": "bir iş veya meslek için görevleri yerine getirmek",
+        "descriptionAZ": "iş və ya məşğuliyyət üçün tapşırıqları yerinə yetirmək",
+        "descriptionUK": "виконувати завдання для роботи або професії"
     }, {
         "de": "hören",
         "en": "hear",
         "ru": "слышать",
         "descriptionEN": "to perceive with the ear",
         "descriptionRU": "воспринимать ухом",
-        "descriptionDE": "mit dem Ohr wahrnehmen"
+        "descriptionDE": "mit dem Ohr wahrnehmen",
+        "tr": "duymak",
+        "az": "eşitmək",
+        "uk": "чути",
+        "descriptionTR": "kulakla algılamak",
+        "descriptionAZ": "qulaqla qavramaq",
+        "descriptionUK": "сприймати вухом"
     }, {
         "de": "lieben",
         "en": "love",
         "ru": "любить",
         "descriptionEN": "to have a great affection or liking for",
         "descriptionRU": "иметь большую привязанность или симпатию к",
-        "descriptionDE": "eine große Zuneigung oder Vorliebe haben für"
+        "descriptionDE": "eine große Zuneigung oder Vorliebe haben für",
+        "tr": "sevmek",
+        "az": "sevmək",
+        "uk": "любити",
+        "descriptionTR": "büyük bir sevgi veya hoşlanmaya sahip olmak",
+        "descriptionAZ": "böyük bir məhəbbət və ya xoşagəlməzlik hissi keçirmək",
+        "descriptionUK": "мати велику прихильність або симпатію до"
     }, {
         "de": "schwer",
         "en": "hard",
         "ru": "трудно",
         "descriptionEN": "requiring a great deal of effort or endurance",
         "descriptionRU": "требующий большого усилия или выносливости",
-        "descriptionDE": "erfordert viel Mühe oder Ausdauer"
+        "descriptionDE": "erfordert viel Mühe oder Ausdauer",
+        "tr": "zor",
+        "az": "çətin",
+        "uk": "важко",
+        "descriptionTR": "çok çaba veya dayanıklılık gerektiren",
+        "descriptionAZ": "çox səy və ya dözümlülük tələb edən",
+        "descriptionUK": "вимагаючий великих зусиль або витривалості"
     }, {
         "de": "klassisch",
         "en": "classic",
         "ru": "классический",
         "descriptionEN": "of the highest quality or class",
         "descriptionRU": "высшего качества или класса",
-        "descriptionDE": "von höchster Qualität oder Klasse"
+        "descriptionDE": "von höchster Qualität oder Klasse",
+        "tr": "klasik",
+        "az": "klassik",
+        "uk": "класичний",
+        "descriptionTR": "en yüksek kalite veya sınıfta olan",
+        "descriptionAZ": "ən yüksək keyfiyyət və ya sinifə aid olan",
+        "descriptionUK": "найвищої якості або класу"
     }
 ]

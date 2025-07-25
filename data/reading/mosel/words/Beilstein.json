@@ -3,71 +3,131 @@
         "de": "der Ort",
         "en": "place",
         "ru": "место",
+        "tr": "yer",
+        "az": "yer",
+        "uk": "місце",
+        "descriptionDE": "Ein bestimmter Standort oder Punkt im Raum.",
         "descriptionEN": "a particular position or point in space.",
         "descriptionRU": "определенное местоположение или точка в пространстве.",
-        "descriptionDE": "Ein bestimmter Standort oder Punkt im Raum."
+        "descriptionTR": "Mekandaki belirli bir konum veya nokta.",
+        "descriptionAZ": "Məkandakı müəyyən bir mövqe və ya nöqtə.",
+        "descriptionUK": "певне розташування або точка в просторі."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
+        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind.",
         "descriptionEN": "a large building or group of buildings fortified against attack.",
         "descriptionRU": "большое здание или группа зданий, укрепленных против нападения.",
-        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind."
+        "descriptionTR": "Saldırılara karşı güçlendirilmiş büyük bir bina veya bina grubu.",
+        "descriptionAZ": "Hücumlardan qorunmaq üçün möhkəmləndirilmiş böyük bina və ya binalar qrupu.",
+        "descriptionUK": "велика будівля або група будівель, укріплених проти нападу."
     }, {
         "de": "das Dorf",
         "en": "village",
         "ru": "деревня",
+        "tr": "köy",
+        "az": "kənd",
+        "uk": "село",
+        "descriptionDE": "Eine kleine Siedlung, typischerweise kleiner als eine Stadt.",
         "descriptionEN": "a small settlement, typically one smaller than a town.",
         "descriptionRU": "небольшое поселение, обычно меньше города.",
-        "descriptionDE": "Eine kleine Siedlung, typischerweise kleiner als eine Stadt."
+        "descriptionTR": "Genellikle bir kasabadan küçük olan küçük bir yerleşim yeri.",
+        "descriptionAZ": "Adətən şəhərdən kiçik olan kiçik yaşayış məntəqəsi.",
+        "descriptionUK": "невелике поселення, зазвичай менше міста."
     }, {
         "de": "die Prinzessin",
         "en": "princess",
         "ru": "принцесса",
+        "tr": "prenses",
+        "az": "şahzadə",
+        "uk": "принцеса",
+        "descriptionDE": "Eine Tochter eines Monarchen.",
         "descriptionEN": "a daughter of a monarch.",
         "descriptionRU": "дочь монарха.",
-        "descriptionDE": "Eine Tochter eines Monarchen."
+        "descriptionTR": "Bir monarşinin kızı.",
+        "descriptionAZ": "Monarxın qızı.",
+        "descriptionUK": "дочка монарха."
     }, {
         "de": "schlängeln",
         "en": "to meander",
         "ru": "извиваться",
+        "tr": "dolamak",
+        "az": "sarmaq",
+        "uk": "звиватися",
+        "descriptionDE": "Einem gewundenen Pfad folgen.",
         "descriptionEN": "to follow a winding course.",
         "descriptionRU": "следовать извилистому пути.",
-        "descriptionDE": "Einem gewundenen Pfad folgen."
+        "descriptionTR": "Kıvrımlı bir yol izlemek.",
+        "descriptionAZ": "Qıvrımlı bir yol izləmək.",
+        "descriptionUK": "слідувати звивистому шляху."
     }, {
         "de": "erklimmen",
         "en": "to climb",
         "ru": "взбираться",
+        "tr": "tırmanmak",
+        "az": "dırmanmaq",
+        "uk": "підніматися",
+        "descriptionDE": "Einen Hang oder eine Steigung hinaufgehen oder erklimmen.",
         "descriptionEN": "to go or come up a slope or incline.",
         "descriptionRU": "подниматься или приходить по склону или наклону.",
-        "descriptionDE": "Einen Hang oder eine Steigung hinaufgehen oder erklimmen."
+        "descriptionTR": "Bir yokuş veya eğim yukarı çıkmak veya tırmanmak.",
+        "descriptionAZ": "Yoxuş və ya yamac boyunca çıxmaq və ya dırmanmaq.",
+        "descriptionUK": "йти або підійматися схилом або схилом."
     }, {
         "de": "malerisch",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "tablo gibi",
+        "az": "rəngli",
+        "uk": "живописний",
+        "descriptionDE": "Visuell ansprechend, besonders auf malerische oder charmante Weise.",
         "descriptionEN": "visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "визуально привлекательный, особенно в причудливом или очаровательном виде.",
-        "descriptionDE": "Visuell ansprechend, besonders auf malerische oder charmante Weise."
+        "descriptionTR": "Özellikle şirin veya çekici bir şekilde görsel olarak çekici.",
+        "descriptionAZ": "Xüsusilə cazibədar və ya estetik cəhətdən cəlbedici görünüşlü.",
+        "descriptionUK": "візуально привабливий, особливо в мальовничому або чарівному вигляді."
     }, {
         "de": "liebevoll",
         "en": "loving",
         "ru": "любящий",
+        "tr": "sevgili",
+        "az": "sevgi dolu",
+        "uk": "люблячий",
+        "descriptionDE": "Ein Gefühl oder Ausdruck von Liebe oder großer Fürsorge.",
         "descriptionEN": "feeling or showing love or great care.",
         "descriptionRU": "испытывающий или проявляющий любовь или большую заботу.",
-        "descriptionDE": "Ein Gefühl oder Ausdruck von Liebe oder großer Fürsorge."
+        "descriptionTR": "Sevgi veya büyük bir özen gösterme hissi veya ifadesi.",
+        "descriptionAZ": "Sevgi və ya böyük qayğı göstərmə hissi və ya ifadəsi.",
+        "descriptionUK": "відчуття або прояв любові чи великої турботи."
     }, {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбный",
+        "tr": "dost canlısı",
+        "az": "səmimi",
+        "uk": "дружній",
+        "descriptionDE": "Nett und angenehm.",
         "descriptionEN": "kind and pleasant.",
         "descriptionRU": "добрый и приятный.",
-        "descriptionDE": "Nett und angenehm."
+        "descriptionTR": "Nazik ve hoş.",
+        "descriptionAZ": "Mehriban və xoş.",
+        "descriptionUK": "добрий та приємний."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
+        "descriptionDE": "Wird verwendet, um eine Person, Sache oder Situation vor allen anderen hervorzuheben.",
         "descriptionEN": "used to single out one person, thing, or situation over all others.",
         "descriptionRU": "используется для выделения одного человека, вещи или ситуации среди всех остальных.",
-        "descriptionDE": "Wird verwendet, um eine Person, Sache oder Situation vor allen anderen hervorzuheben."
+        "descriptionTR": "Bir kişi, şey veya durumu diğerlerinden ayırmak için kullanılır.",
+        "descriptionAZ": "Bir şəxs, əşya və ya vəziyyəti digər hamıdan seçmək üçün istifadə olunur.",
+        "descriptionUK": "використовується для виділення однієї особи, речі чи ситуації серед усіх інших."
     }
 ]

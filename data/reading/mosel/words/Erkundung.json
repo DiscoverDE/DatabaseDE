@@ -3,141 +3,261 @@
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
+        "descriptionDE": "Ein großes befestigtes Gebäude, oft historisch.",
         "descriptionEN": "A large fortified building, often historical.",
         "descriptionRU": "Большое укреплённое здание, часто историческое.",
-        "descriptionDE": "Ein großes befestigtes Gebäude, oft historisch."
+        "descriptionTR": "Genellikle tarihi olan büyük bir tahkimatlı bina.",
+        "descriptionAZ": "Adətən tarixi olan böyük möhkəmləndirilmiş bina.",
+        "descriptionUK": "велика укріплена будівля, часто історична."
     }, {
         "de": "der Hügel",
         "en": "hill",
         "ru": "холм",
+        "tr": "tepe",
+        "az": "təpə",
+        "uk": "пагорб",
+        "descriptionDE": "Ein erhöhter Bereich der Landschaft, kleiner als ein Berg.",
         "descriptionEN": "A raised area of land, smaller than a mountain.",
         "descriptionRU": "Возвышенность на поверхности земли, меньше горы.",
-        "descriptionDE": "Ein erhöhter Bereich der Landschaft, kleiner als ein Berg."
+        "descriptionTR": "Bir dağdan daha küçük yükseltilmiş arazi parçası.",
+        "descriptionAZ": "Dağdan kiçik yüksəldilmiş torpaq sahəsi.",
+        "descriptionUK": "підвищена ділянка землі, менша за гору."
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt.",
         "descriptionEN": "A large natural stream of water flowing in a channel.",
         "descriptionRU": "Крупный естественный поток воды, текущий по руслу.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal fließt."
+        "descriptionTR": "Bir kanalda akan büyük doğal su akışı.",
+        "descriptionAZ": "Çayırda axan böyük təbii su axını.",
+        "descriptionUK": "великий природний потік води, що тече по руслу."
     }, {
         "de": "das Boot",
         "en": "boat",
         "ru": "лодка",
+        "tr": "tekne",
+        "az": "qayıq",
+        "uk": "човен",
+        "descriptionDE": "Ein kleines Fahrzeug zum Reisen auf dem Wasser.",
         "descriptionEN": "A small vessel for traveling on water.",
         "descriptionRU": "Малое судно для передвижения по воде.",
-        "descriptionDE": "Ein kleines Fahrzeug zum Reisen auf dem Wasser."
+        "descriptionTR": "Suda seyahat etmek için küçük bir taşıt.",
+        "descriptionAZ": "Suda səyahət üçün kiçik gəmi.",
+        "descriptionUK": "невелике судно для подорожей водою."
     }, {
         "de": "das Café",
         "en": "café",
         "ru": "кафе",
+        "tr": "kafe",
+        "az": "kafe",
+        "uk": "кафе",
+        "descriptionDE": "Ein kleines Restaurant, das Getränke und Snacks serviert.",
         "descriptionEN": "A small restaurant serving drinks and snacks.",
         "descriptionRU": "Небольшое заведение, подающее напитки и закуски.",
-        "descriptionDE": "Ein kleines Restaurant, das Getränke und Snacks serviert."
+        "descriptionTR": "İçecekler ve atıştırmalıklar sunan küçük restoran.",
+        "descriptionAZ": "İçkilər və qəlyanaltılar təqdim edən kiçik restoran.",
+        "descriptionUK": "невеликий ресторан, що подає напої та закуски."
     }, {
         "de": "die Region",
         "en": "region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "region",
+        "uk": "регіон",
+        "descriptionDE": "Ein geografisches Gebiet mit bestimmten Merkmalen.",
         "descriptionEN": "A geographical area with specific characteristics.",
         "descriptionRU": "Географическая область с особыми характеристиками.",
-        "descriptionDE": "Ein geografisches Gebiet mit bestimmten Merkmalen."
+        "descriptionTR": "Belirli özelliklere sahip coğrafi alan.",
+        "descriptionAZ": "Müəyyən xüsusiyyətləri olan coğrafi sahə.",
+        "descriptionUK": "географічна область з певними характеристиками."
     }, {
         "de": "das Wasser",
         "en": "water",
         "ru": "вода",
+        "tr": "su",
+        "az": "su",
+        "uk": "вода",
+        "descriptionDE": "Eine klare, geschmacklose Flüssigkeit, die für das Leben notwendig ist.",
         "descriptionEN": "A clear, tasteless liquid essential for life.",
         "descriptionRU": "Прозрачная жидкость без вкуса, необходимая для жизни.",
-        "descriptionDE": "Eine klare, geschmacklose Flüssigkeit, die für das Leben notwendig ist."
+        "descriptionTR": "Yaşam için gerekli olan berrak, tatsız sıvı.",
+        "descriptionAZ": "Həyat üçün vacib olan şəffaf, dadsız maye.",
+        "descriptionUK": "прозора, безсмакова рідина, необхідна для життя."
     }, {
         "de": "der Abend",
         "en": "evening",
         "ru": "вечер",
+        "tr": "akşam",
+        "az": "axşam",
+        "uk": "вечір",
+        "descriptionDE": "Die Zeit zwischen Nachmittag und Nacht.",
         "descriptionEN": "The time between afternoon and night.",
         "descriptionRU": "Время между днём и ночью.",
-        "descriptionDE": "Die Zeit zwischen Nachmittag und Nacht."
+        "descriptionTR": "Öğleden sonra ile gece arasındaki zaman.",
+        "descriptionAZ": "Günortadan gecəyə qədər olan vaxt.",
+        "descriptionUK": "час між післяобідом і ніччю."
     }, {
         "de": "das Restaurant",
         "en": "restaurant",
         "ru": "ресторан",
+        "tr": "restoran",
+        "az": "restoran",
+        "uk": "ресторан",
+        "descriptionDE": "Ein Ort, an dem Mahlzeiten zubereitet und serviert werden.",
         "descriptionEN": "A place where meals are prepared and served.",
         "descriptionRU": "Место, где готовят и подают еду.",
-        "descriptionDE": "Ein Ort, an dem Mahlzeiten zubereitet und serviert werden."
+        "descriptionTR": "Yemeklerin hazırlandığı ve servis edildiği yer.",
+        "descriptionAZ": "Yeməklərin hazırlandığı və təqdim olunduğu yer.",
+        "descriptionUK": "місце, де готують і подають їжу."
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "zəvvar olmaq",
+        "uk": "відвідувати",
+        "descriptionDE": "Für kurze Zeit an einen Ort gehen.",
         "descriptionEN": "To go to a place for a short time.",
         "descriptionRU": "Прийти в место на короткое время.",
-        "descriptionDE": "Für kurze Zeit an einen Ort gehen."
+        "descriptionTR": "Kısa bir süreliğine bir yere gitmek.",
+        "descriptionAZ": "Qısa müddətə bir yerə getmək.",
+        "descriptionUK": "піти в якесь місце на короткий час."
     }, {
         "de": "sitzen",
         "en": "to sit",
         "ru": "сидеть",
+        "tr": "oturmak",
+        "az": "oturmaq",
+        "uk": "сидіти",
+        "descriptionDE": "In einer sitzenden Position verweilen.",
         "descriptionEN": "To rest in a seated position.",
         "descriptionRU": "Находиться в положении сидя.",
-        "descriptionDE": "In einer sitzenden Position verweilen."
+        "descriptionTR": "Oturur vaziyette dinlenmek.",
+        "descriptionAZ": "Oturaraq istirahət etmək.",
+        "descriptionUK": "відпочивати в сидячому положенні."
     }, {
         "de": "trinken",
         "en": "to drink",
         "ru": "пить",
+        "tr": "içmek",
+        "az": "içmək",
+        "uk": "пити",
+        "descriptionDE": "Eine Flüssigkeit zu sich nehmen.",
         "descriptionEN": "To consume a liquid.",
         "descriptionRU": "Употреблять жидкость.",
-        "descriptionDE": "Eine Flüssigkeit zu sich nehmen."
+        "descriptionTR": "Bir sıvı tüketmek.",
+        "descriptionAZ": "Maye qəbul etmək.",
+        "descriptionUK": "споживати рідину."
     }, {
         "de": "machen",
         "en": "to do",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
+        "descriptionDE": "Eine Handlung oder Aufgabe ausführen.",
         "descriptionEN": "To perform an action or task.",
         "descriptionRU": "Совершать действие или задачу.",
-        "descriptionDE": "Eine Handlung oder Aufgabe ausführen."
+        "descriptionTR": "Bir eylem veya görev yapmak.",
+        "descriptionAZ": "Bir hərəkət və ya tapşırıq yerinə yetirmək.",
+        "descriptionUK": "виконувати дію або завдання."
     }, {
         "de": "probieren",
         "en": "to try",
         "ru": "пробовать",
+        "tr": "denemek",
+        "az": "sınaqdan keçirmək",
+        "uk": "спробувати",
+        "descriptionDE": "Etwas testen oder kosten.",
         "descriptionEN": "To test or taste something.",
         "descriptionRU": "Испытать или попробовать что-то.",
-        "descriptionDE": "Etwas testen oder kosten."
+        "descriptionTR": "Bir şeyi denemek veya tadına bakmak.",
+        "descriptionAZ": "Bir şeyi sınaqdan keçirmək və ya dadına baxmaq.",
+        "descriptionUK": "перевірити або скуштувати щось."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "малий",
+        "descriptionDE": "Von begrenzter Größe oder Umfang.",
         "descriptionEN": "Of a limited size or extent.",
         "descriptionRU": "Ограниченного размера или объёма.",
-        "descriptionDE": "Von begrenzter Größe oder Umfang."
+        "descriptionTR": "Sınırlı büyüklük veya kapsamda.",
+        "descriptionAZ": "Məhdud ölçü və miqdarda.",
+        "descriptionUK": "обмеженого розміру або обсягу."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "гарний",
+        "descriptionDE": "Ansprechend im Aussehen.",
         "descriptionEN": "Pleasing in appearance.",
         "descriptionRU": "Приятный на вид.",
-        "descriptionDE": "Ansprechend im Aussehen."
+        "descriptionTR": "Görünüş olarak hoş.",
+        "descriptionAZ": "Görünüşcə xoş.",
+        "descriptionUK": "приємний на вигляд."
     }, {
         "de": "ruhig",
         "en": "calm",
         "ru": "спокойный",
+        "tr": "sakin",
+        "az": "sakit",
+        "uk": "спокійний",
+        "descriptionDE": "Frei von Störungen oder Lärm.",
         "descriptionEN": "Free from disturbance or noise.",
         "descriptionRU": "Без шума и волнений.",
-        "descriptionDE": "Frei von Störungen oder Lärm."
+        "descriptionTR": "Rahatsızlık ya da gürültüden uzak.",
+        "descriptionAZ": "Narahatlıq və ya səs-küydən azad.",
+        "descriptionUK": "вільний від турбот або шуму."
     }, {
         "de": "alt",
         "en": "old",
         "ru": "старый",
+        "tr": "eski",
+        "az": "köhnə",
+        "uk": "старий",
+        "descriptionDE": "Seit langer Zeit existierend.",
         "descriptionEN": "Having existed for a long time.",
         "descriptionRU": "Существующий долгое время.",
-        "descriptionDE": "Seit langer Zeit existierend."
+        "descriptionTR": "Uzun zamandır var olan.",
+        "descriptionAZ": "Uzun müddətdir mövcud olan.",
+        "descriptionUK": "існуючий протягом тривалого часу."
     }, {
         "de": "regional",
         "en": "regional",
         "ru": "региональный",
+        "tr": "bölgesel",
+        "az": "regional",
+        "uk": "регіональний",
+        "descriptionDE": "Bezogen auf eine bestimmte Region.",
         "descriptionEN": "Relating to a specific area.",
         "descriptionRU": "Относящийся к определенному региону.",
-        "descriptionDE": "Bezogen auf eine bestimmte Region."
+        "descriptionTR": "Belirli bir bölge ile ilgili.",
+        "descriptionAZ": "Müəyyən bir ərazi ilə əlaqəli.",
+        "descriptionUK": "пов’язаний з певною територією."
     }, {
         "de": "wunderschön",
         "en": "gorgeous",
         "ru": "великолепный",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
+        "descriptionDE": "Außergewöhnlich schön oder erfreulich.",
         "descriptionEN": "Extremely beautiful or delightful.",
         "descriptionRU": "Очень красивый или восхитительный.",
-        "descriptionDE": "Außergewöhnlich schön oder erfreulich."
+        "descriptionTR": "Son derece güzel veya hoş.",
+        "descriptionAZ": "Çox gözəl və ya ləzzətli.",
+        "descriptionUK": "надзвичайно гарний або приємний."
     }
 ]

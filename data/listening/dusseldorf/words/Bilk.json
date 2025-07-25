@@ -5,174 +5,324 @@
         "ru": "университет",
         "descriptionEN": "an institution of higher education and research",
         "descriptionRU": "учебное заведение высшего образования и научных исследований",
-        "descriptionDE": "Eine Einrichtung für höhere Bildung und Forschung"
+        "descriptionDE": "Eine Einrichtung für höhere Bildung und Forschung",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
+        "descriptionTR": "yüksek öğrenim ve araştırma kurumu",
+        "descriptionAZ": "ali təhsil və tədqiqat müəssisəsi",
+        "descriptionUK": "вищий навчальний заклад та науково-дослідна установа"
     }, {
         "de": "die Kirche",
         "en": "church",
         "ru": "церковь",
         "descriptionEN": "a building used for public Christian worship",
         "descriptionRU": "здание, используемое для общественного христианского богослужения",
-        "descriptionDE": "Ein Gebäude, das für öffentliche christliche Gottesdienste genutzt wird"
+        "descriptionDE": "Ein Gebäude, das für öffentliche christliche Gottesdienste genutzt wird",
+        "tr": "kilise",
+        "az": "kilsə",
+        "uk": "церква",
+        "descriptionTR": "kamuya açık Hristiyan ibadeti için kullanılan bir bina",
+        "descriptionAZ": "ictimai xristian ibadəti üçün istifadə olunan bina",
+        "descriptionUK": "будівля, що використовується для публічного християнського богослужіння"
     }, {
         "de": "der Hafen",
         "en": "harbor",
         "ru": "гавань",
         "descriptionEN": "a place on the coast where ships may moor in shelter, especially one protected from rough water by piers, jetties, and other artificial structures",
         "descriptionRU": "место на побережье, где суда могут швартоваться в укрытии, особенно защищенное от штормов волнами причалов, молами и другими искусственными сооружениями",
-        "descriptionDE": "Ein Ort an der Küste, an dem Schiffe geschützt vor rauem Wasser anlegen können, insbesondere ein Ort, der durch Molen, Dämme und andere künstliche Strukturen geschützt ist"
+        "descriptionDE": "Ein Ort an der Küste, an dem Schiffe geschützt vor rauem Wasser anlegen können, insbesondere ein Ort, der durch Molen, Dämme und andere künstliche Strukturen geschützt ist",
+        "tr": "liman",
+        "az": "liman",
+        "uk": "гавань",
+        "descriptionTR": "gemilerin barınak içinde demirleyebileceği, özellikle iskeleler, dalgakıranlar ve diğer yapay yapılarla dalgalı sudan korunan bir kıyı yeri",
+        "descriptionAZ": "gəmilərin sığınacaqda lövbər sala biləcəyi sahil yer, xüsusilə körpülər, dalğaqıranlar və digər süni quruluşlar tərəfindən sərt sulardan qorunan yer",
+        "descriptionUK": "місце на узбережжі, де судна можуть швартуватися в укритті, особливо захищене від бурхливої води пірсами, причалами та іншими штучними спорудами"
     }, {
         "de": "die Werft",
         "en": "shipyard",
         "ru": "верфь",
         "descriptionEN": "a place where ships are built or repaired",
         "descriptionRU": "место, где строятся или ремонтируются суда",
-        "descriptionDE": "Ein Ort, an dem Schiffe gebaut oder repariert werden"
+        "descriptionDE": "Ein Ort, an dem Schiffe gebaut oder repariert werden",
+        "tr": "tersane",
+        "az": "gəmiqayırma zavodu",
+        "uk": "верф",
+        "descriptionTR": "gemilerin inşa edildiği veya tamir edildiği bir yer",
+        "descriptionAZ": "gəmilərin tikildiyi və ya təmir edildiyi yer",
+        "descriptionUK": "місце, де будуються або ремонтуються судна"
     }, {
         "de": "der Stadtteil",
         "en": "district",
         "ru": "район",
         "descriptionEN": "a part of a city or town",
         "descriptionRU": "часть города или города",
-        "descriptionDE": "Ein Teil einer Stadt oder einer Gemeinde"
+        "descriptionDE": "Ein Teil einer Stadt oder einer Gemeinde",
+        "tr": "ilçe",
+        "az": "rayon",
+        "uk": "район",
+        "descriptionTR": "bir şehrin veya kasabanın bir kısmı",
+        "descriptionAZ": "bir şəhərin və ya qəsəbənin bir hissəsi",
+        "descriptionUK": "частина міста або містечка"
     }, {
         "de": "die Einwohner",
         "en": "residents",
         "ru": "жители",
         "descriptionEN": "people who live in a particular place",
         "descriptionRU": "люди, живущие в определенном месте",
-        "descriptionDE": "Menschen, die an einem bestimmten Ort leben"
+        "descriptionDE": "Menschen, die an einem bestimmten Ort leben",
+        "tr": "sakinler",
+        "az": "sakinlər",
+        "uk": "мешканці",
+        "descriptionTR": "belirli bir yerde yaşayan insanlar",
+        "descriptionAZ": "müəyyən bir yerdə yaşayan insanlar",
+        "descriptionUK": "люди, які проживають у певному місці"
     }, {
         "de": "die Arbeitsklasse",
         "en": "working class",
         "ru": "рабочий класс",
         "descriptionEN": "the social group consisting of people who are employed for wages, especially in manual or industrial work",
-        "descriptionRU": "социальная группа, состоящая из людей, которые трудоустроены на заработную плату, особенно в ручном или промышленном труде",
-        "descriptionDE": "Die soziale Gruppe von Menschen, die für Löhne beschäftigt sind, insbesondere in manueller oder industrieller Arbeit"
+        "descriptionRU": "социальная группа, состоящая из людей, которые трудоустроены на заработную плату, особенно в ручном или промышленном труžem",
+        "descriptionDE": "Die soziale Gruppe von Menschen, die für Löhne beschäftigt sind, insbesondere in manueller oder industrieller Arbeit",
+        "tr": "işçi sınıfı",
+        "az": "işçi sinfi",
+        "uk": "робітничий клас",
+        "descriptionTR": "ücret karşılığı çalışan, özellikle el emeği veya sanayi işlerinde çalışan insanlardan oluşan sosyal grup",
+        "descriptionAZ": "əmək haqqı ilə işləyən, xüsusilə əl və ya sənaye işlərində çalışan insanlardan ibarət sosial qrup",
+        "descriptionUK": "соціальна група, що складається з людей, які працюють за заробітну плату, особливо у ручній або промисловій праці"
     }, {
         "de": "die Medienbranche",
         "en": "media industry",
         "ru": "медиа-индустрия",
         "descriptionEN": "businesses and organizations that produce and distribute news, entertainment, and other information to the public",
         "descriptionRU": "предприятия и организации, производящие и распространяющие новости, развлечения и другую информацию для общественности",
-        "descriptionDE": "Unternehmen und Organisationen, die Nachrichten, Unterhaltung und andere Informationen für die Öffentlichkeit produzieren und verbreiten"
+        "descriptionDE": "Unternehmen und Organisationen, die Nachrichten, Unterhaltung und andere Informationen für die Öffentlichkeit produzieren und verbreiten",
+        "tr": "medya endüstrisi",
+        "az": "media sənayesi",
+        "uk": "медіаіндустрія",
+        "descriptionTR": "kamuoyuna haber, eğlence ve diğer bilgileri üreten ve dağıtan işletmeler ve kuruluşlar",
+        "descriptionAZ": "ictimaiyyətə xəbərlər, əyləncə və digər məlumatlar istehsal edən və yayan bizneslər və təşkilatlar",
+        "descriptionUK": "підприємства та організації, що виробляють та розповсюджують новини, розваги та іншу інформацію для громадськості"
     }, {
         "de": "die Gentrifizierung",
         "en": "gentrification",
         "ru": "гентрификация",
         "descriptionEN": "the process of renovating and improving a house or district so that it conforms to middle-class taste",
         "descriptionRU": "процесс реновации и улучшения дома или района, чтобы он соответствовал вкусу среднего класса",
-        "descriptionDE": "Der Prozess der Renovierung und Verbesserung eines Hauses oder Stadtteils, damit er dem Geschmack der Mittelschicht entspricht"
+        "descriptionDE": "Der Prozess der Renovierung und Verbesserung eines Hauses oder Stadtteils, damit er dem Geschmack der Mittelschicht entspricht",
+        "tr": "soylulaştırma",
+        "az": "gentrifikasiya",
+        "uk": "джентрифікація",
+        "descriptionTR": "bir evi veya mahalleyi orta sınıf zevkine uygun hale getirmek için yenileme ve iyileştirme süreci",
+        "descriptionAZ": "bir evin və ya rayonun orta sinif zövqünə uyğun gəlməsi üçün yenilənməsi və yaxşılaşdırılması prosesi",
+        "descriptionUK": "процес оновлення та покращення будинку або району таким чином, щоб він відповідав смаку середнього класу"
     }, {
         "de": "der Lebensunterhalt",
         "en": "livelihood",
         "ru": "средства к существованию",
         "descriptionEN": "a means of securing the necessities of life",
         "descriptionRU": "средство обеспечения необходимостями жизни",
-        "descriptionDE": "Ein Mittel zur Sicherung der Lebensnotwendigkeiten"
+        "descriptionDE": "Ein Mittel zur Sicherung der Lebensnotwendigkeiten",
+        "tr": "geçim",
+        "az": "dolandırıcı",
+        "uk": "засоби до існування",
+        "descriptionTR": "yaşamın gerekliliklerini sağlama aracı",
+        "descriptionAZ": "həyatın zəruri ehtiyaclarını təmin etmək vasitəsi",
+        "descriptionUK": "засіб забезпечення життєвих потреб"
     }, {
         "de": "die Multikulturalität",
         "en": "multiculturalism",
         "ru": "мультикультурализм",
         "descriptionEN": "the presence of, or support for the presence of, several distinct cultural or ethnic groups within a society",
         "descriptionRU": "присутствие нескольких отличных культурных или этнических групп в обществе или поддержка этого присутствия",
-        "descriptionDE": "Das Vorhandensein von mehreren verschiedenen kulturellen oder ethnischen Gruppen innerhalb einer Gesellschaft oder die Unterstützung dieses Vorhandenseins"
+        "descriptionDE": "Das Vorhandensein von mehreren verschiedenen kulturellen oder ethnischen Gruppen innerhalb einer Gesellschaft oder die Unterstützung dieses Vorhandenseins",
+        "tr": "çokkültürlülük",
+        "az": "multikulturalizm",
+        "uk": "мультикультуралізм",
+        "descriptionTR": "bir toplum içinde birkaç farklı kültürel veya etnik grubun varlığı veya varlığına destek",
+        "descriptionAZ": "bir cəmiyyət daxilində bir neçə fərqli mədəni və ya etnik qrupun olması və ya onların olmasına dəstək",
+        "descriptionUK": "присутність або підтримка присутності кількох відмінних культурних або етнічних груп у суспільстві"
     }, {
         "de": "die Melting Pot",
         "en": "melting pot",
         "ru": "плавильный котел",
         "descriptionEN": "a place where different peoples, styles, theories, etc. are mixed together",
         "descriptionRU": "место, где смешиваются различные народы, стили, теории и т. д.",
-        "descriptionDE": "Ein Ort, an dem verschiedene Völker, Stile, Theorien usw. miteinander vermischt werden"
+        "descriptionDE": "Ein Ort, an dem verschiedene Völker, Stile, Theorien usw. miteinander vermischt werden",
+        "tr": "eritme potası",
+        "az": "ərimə qazanı",
+        "uk": "плавильний котел",
+        "descriptionTR": "farklı halkların, tarzların, teorilerin vb. bir araya getirildiği bir yer",
+        "descriptionAZ": "müxtəlif xalqların, üslubların, nəzəriyyələrin və s. bir-birinə qarışdığı yer",
+        "descriptionUK": "місце, де змішуються різні народи, стилі, теорії тощо"
     }, {
         "de": "die Anbindung",
         "en": "connection",
         "ru": "соединение",
         "descriptionEN": "a relationship in which a person, thing, or idea is linked or associated with something else",
         "descriptionRU": "отношения, в которых человек, вещь или идея связаны или ассоциируются с чем-то другим",
-        "descriptionDE": "Eine Beziehung, in der eine Person, eine Sache oder eine Idee mit etwas anderem verbunden oder assoziiert ist"
+        "descriptionDE": "Eine Beziehung, in der eine Person, eine Sache oder eine Idee mit etwas anderem verbunden oder assoziiert ist",
+        "tr": "bağlantı",
+        "az": "əlaqə",
+        "uk": "з'єднання",
+        "descriptionTR": "bir kişi, nesne veya fikrin başka bir şeyle bağlantılı veya ilişkili olduğu bir ilişki",
+        "descriptionAZ": "bir şəxsin, əşyanın və ya ideyanın başqa bir şeylə əlaqəli və ya assosiasiya olunduğu münasibət",
+        "descriptionUK": "відносини, в яких людина, річ або ідея пов'язані або асоціюються з чимось іншим"
     }, {
         "de": "die Budgetmieten",
         "en": "budget rentals",
         "ru": "бюджетная аренда",
         "descriptionEN": "rental properties available at affordable prices",
         "descriptionRU": "арендные объекты, доступные по доступным ценам",
-        "descriptionDE": "Mietobjekte zu erschwinglichen Preisen"
+        "descriptionDE": "Mietobjekte zu erschwinglichen Preisen",
+        "tr": "bütçe kiralama",
+        "az": "büdcə icarəsi",
+        "uk": "бюджетна оренда",
+        "descriptionTR": "uygun fiyatlarla kiralanabilecek mülkler",
+        "descriptionAZ": "uyğun qiymətlərlə mövcud olan kirayə əmlakları",
+        "descriptionUK": "орендовані об'єкти, доступні за доступними цінами"
     }, {
         "de": "die Attraktivität",
         "en": "attractiveness",
         "ru": "привлекательность",
         "descriptionEN": "the quality of being appealing or interesting",
         "descriptionRU": "качество привлекательности или интересности",
-        "descriptionDE": "Die Qualität, ansprechend oder interessant zu sein"
+        "descriptionDE": "Die Qualität, ansprechend oder interessant zu sein",
+        "tr": "çekicilik",
+        "az": "cazibədarlıq",
+        "uk": "привабливість",
+        "descriptionTR": "çekici veya ilgi çekici olma niteliği",
+        "descriptionAZ": "cazibədar və ya maraqlı olma keyfiyyəti",
+        "descriptionUK": "якість бути привабливим або цікавим"
     }, {
         "de": "der Konkurrenzkampf",
         "en": "competition",
         "ru": "конкуренция",
         "descriptionEN": "the activity or condition of competing",
         "descriptionRU": "деятельность или состояние конкуренции",
-        "descriptionDE": "Die Aktivität oder Bedingung des Wettbewerbs"
+        "descriptionDE": "Die Aktivität oder Bedingung des Wettbewerbs",
+        "tr": "rekabet",
+        "az": "rəqabət",
+        "uk": "конкуренція",
+        "descriptionTR": "rekabet etme faaliyeti veya durumu",
+        "descriptionAZ": "rəqabət fəaliyyəti və ya vəziyyəti",
+        "descriptionUK": "діяльність або стан конкуренції"
     }, {
         "de": "die Beliebtheit",
         "en": "popularity",
         "ru": "популярность",
         "descriptionEN": "the state or condition of being liked, admired, or supported by many people",
         "descriptionRU": "состояние или условие того, что нравится, восхищается или поддерживается многими людьми",
-        "descriptionDE": "Der Zustand oder die Bedingung, von vielen Menschen gemocht, bewundert oder unterstützt zu werden"
+        "descriptionDE": "Der Zustand oder die Bedingung, von vielen Menschen gemocht, bewundert oder unterstützt zu werden",
+        "tr": "popülerlik",
+        "az": "populyarlıq",
+        "uk": "популярність",
+        "descriptionTR": "birçok kişi tarafından beğenilme, hayranlık duyulma veya desteklenme durumu veya koşulu",
+        "descriptionAZ": "bir çox insan tərəfindən bəyənilmə, heyran olunma və ya dəstəklənmə vəziyyəti",
+        "descriptionUK": "стан або умова того, що подобається, захоплюється або підтримується багатьма людьми"
     }, {
         "de": "das Herz",
         "en": "heart",
         "ru": "сердце",
         "descriptionEN": "the central or most important part",
         "descriptionRU": "центральная или наиболее важная часть",
-        "descriptionDE": "Der zentrale oder wichtigste Teil"
+        "descriptionDE": "Der zentrale oder wichtigste Teil",
+        "tr": "kalp",
+        "az": "ürək",
+        "uk": "серце",
+        "descriptionTR": "merkezi veya en önemli kısım",
+        "descriptionAZ": "mərkəzi və ya ən vacib hissə",
+        "descriptionUK": "центральна або найважливіша частина"
     }, {
         "de": "die Oase",
         "en": "oasis",
-        "ru": "oазис",
+        "ru": "оазис",
         "descriptionEN": "a fertile spot in a desert where water is found",
         "descriptionRU": "плодородное место в пустыне, где находится вода",
-        "descriptionDE": "Ein fruchtbarer Fleck in einer Wüste, wo Wasser zu finden ist"
+        "descriptionDE": "Ein fruchtbarer Fleck in einer Wüste, wo Wasser zu finden ist",
+        "tr": "vaha",
+        "az": "vaha",
+        "uk": "оазис",
+        "descriptionTR": "bir çölde su bulunan verimli bir yer",
+        "descriptionAZ": "çöldə su tapılan münbit yer",
+        "descriptionUK": "родюче місце в пустелі, де є вода"
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
         "descriptionEN": "the state of being diverse; variety",
         "descriptionRU": "состояние разнообразия; разнообразие",
-        "descriptionDE": "Der Zustand der Vielfalt; Vielfalt"
+        "descriptionDE": "Der Zustand der Vielfalt; Vielfalt",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
+        "descriptionTR": "farklı olma durumu; çeşitlilik",
+        "descriptionAZ": "müxtəlif olma vəziyyəti; müxtəliflik",
+        "descriptionUK": "стан різноманітності; різноманітність"
     }, {
         "de": "die Bequemlichkeit",
         "en": "comfort",
         "ru": "комфорт",
         "descriptionEN": "a state of physical ease and freedom from pain or constraint",
         "descriptionRU": "состояние физического комфорта и свободы от боли или ограничения",
-        "descriptionDE": "Ein Zustand körperlicher Leichtigkeit und Freiheit von Schmerzen oder Einschränkungen"
+        "descriptionDE": "Ein Zustand körperlicher Leichtigkeit und Freiheit von Schmerzen oder Einschränkungen",
+        "tr": "konfor",
+        "az": "rahatlıq",
+        "uk": "комфорт",
+        "descriptionTR": "fiziksel rahatlık ve ağrı veya kısıtlamalardan özgürlük durumu",
+        "descriptionAZ": "fiziki rahatlıq və ağrıdan və ya məhdudiyyətdən azad olma vəziyyəti",
+        "descriptionUK": "стан фізичного комфорту та свободи від болю або обмежень"
     }, {
         "de": "die Erreichbarkeit",
         "en": "accessibility",
         "ru": "доступность",
         "descriptionEN": "the quality of being able to be reached or entered",
         "descriptionRU": "качество, которое может быть достигнуто или введено",
-        "descriptionDE": "Die Qualität, erreicht oder betreten werden zu können"
+        "descriptionDE": "Die Qualität, erreicht oder betreten werden zu können",
+        "tr": "erişilebilirlik",
+        "az": "əlçatanlıq",
+        "uk": "доступність",
+        "descriptionTR": "erişilebilir veya girilebilir olma kalitesi",
+        "descriptionAZ": "çatmaq və ya daxil olmaq imkanı keyfiyyəti",
+        "descriptionUK": "якість бути доступним або таким, що можна увійти"
     }, {
         "de": "die Belastbarkeit",
         "en": "resilience",
         "ru": "устойчивость",
         "descriptionEN": "the capacity to recover quickly from difficulties; toughness",
         "descriptionRU": "способность быстро оправляться от трудностей; жесткость",
-        "descriptionDE": "Die Fähigkeit, sich schnell von Schwierigkeiten zu erholen; Robustheit"
+        "descriptionDE": "Die Fähigkeit, sich schnell von Schwierigkeiten zu erholen; Robustheit",
+        "tr": "dayanıklılık",
+        "az": "dözümlülük",
+        "uk": "стійкість",
+        "descriptionTR": "zorluklardan hızla kurtulma yeteneği; sağlamlık",
+        "descriptionAZ": "çətinliklərdən tez qurtarma qabiliyyəti; sərtlik",
+        "descriptionUK": "здатність швидко відновлюватися після труднощів; витривалість"
     }, {
         "de": "die Zentralität",
         "en": "centrality",
         "ru": "центральность",
         "descriptionEN": "the quality of being central",
         "descriptionRU": "качество быть центральным",
-        "descriptionDE": "Die Qualität, zentral zu sein"
+        "descriptionDE": "Die Qualität, zentral zu sein",
+        "tr": "merkezilik",
+        "az": "mərkəzilik",
+        "uk": "центральність",
+        "descriptionTR": "merkezi olma kalitesi",
+        "descriptionAZ": "mərkəzi olma keyfiyyəti",
+        "descriptionUK": "якість бути центральним"
     }, {
         "de": "das Stadtzentrum",
         "en": "city center",
         "ru": "центр города",
         "descriptionEN": "the central part of a city, typically characterized by a concentration of business and administrative activity",
         "descriptionRU": "центральная часть города, обычно характеризующаяся концентрацией бизнеса и административной деятельности",
-        "descriptionDE": "Der zentrale Teil einer Stadt, der typischerweise durch eine Konzentration von Geschäfts- und Verwaltungsaktivitäten gekennzeichnet ist"
+        "descriptionDE": "Der zentrale Teil einer Stadt, der typischerweise durch eine Konzentration von Geschäfts- und Verwaltungsaktivitäten gekennzeichnet ist",
+        "tr": "şehir merkezi",
+        "az": "şəhər mərkəzi",
+        "uk": "центр міста",
+        "descriptionTR": "bir şehrin merkezi kısmı, tipik olarak iş ve idari faaliyetlerin yoğunlaştığı yer",
+        "descriptionAZ": "bir şəhərin mərkəzi hissəsi, adətən iş və inzibati fəaliyyətin cəmləşməsi ilə xarakterizə olunur",
+        "descriptionUK": "центральна частина міста, що зазвичай характеризується концентрацією ділової та адміністративної діяльності"
     }
 ]

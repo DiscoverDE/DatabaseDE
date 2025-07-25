@@ -3,134 +3,248 @@
         "de": "der Garten",
         "en": "Garden",
         "ru": "Сад",
+        "tr": "Bahçe",
+        "az": "Bağ",
+        "uk": "Сад",
         "descriptionEN": "A piece of ground for growing plants and flowers.",
         "descriptionRU": "Участок земли для выращивания растений и цветов.",
-        "descriptionDE": "Ein Stück Land zum Anpflanzen von Pflanzen und Blumen."
+        "descriptionDE": "Ein Stück Land zum Anpflanzen von Pflanzen und Blumen.",
+        "descriptionTR": "Bitki ve çiçek yetiştirmek için bir toprak parçası.",
+        "descriptionAZ": "Bitki və çiçək yetişdirmək üçün bir torpaq sahəsi.",
+        "descriptionUK": "Ділянка землі для вирощування рослин і квітів."
     }, {
         "de": "der Schlossgarten",
         "en": "Palace garden",
         "ru": "Дворцовый сад",
+        "tr": "Saray bahçesi",
+        "az": "Saray bağı",
+        "uk": "Палацовий сад",
         "descriptionEN": "A garden located at a palace.",
         "descriptionRU": "Сад, расположенный при дворце.",
-        "descriptionDE": "Ein Garten, der sich an einem Schloss befindet."
+        "descriptionDE": "Ein Garten, der sich an einem Schloss befindet.",
+        "descriptionTR": "Bir sarayda bulunan bahçe.",
+        "descriptionAZ": "Bir sarayda yerləşən bağ.",
+        "descriptionUK": "Сад, розташований при палаці."
     }, {
         "de": "die Blumen",
         "en": "Flowers",
         "ru": "Цветы",
+        "tr": "Çiçekler",
+        "az": "Güllər",
+        "uk": "Квіти",
         "descriptionEN": "The reproductive part of a plant, often colorful and fragrant.",
         "descriptionRU": "Репродуктивная часть растения, часто яркая и ароматная.",
-        "descriptionDE": "Der Fortpflanzungsteil einer Pflanze, oft bunt und duftend."
+        "descriptionDE": "Der Fortpflanzungsteil einer Pflanze, oft bunt und duftend.",
+        "descriptionTR": "Bir bitkinin üreme kısmı, genellikle renkli ve kokulu.",
+        "descriptionAZ": "Bir bitkinin çoxalma hissəsi, tez-tez rəngli və ətirli.",
+        "descriptionUK": "Репродуктивна частина рослини, часто яскрава та ароматна."
     }, {
         "de": "der Schmetterling",
         "en": "Butterfly",
         "ru": "Бабочка",
+        "tr": "Kelebek",
+        "az": "Kəpənək",
+        "uk": "Метелик",
         "descriptionEN": "An insect with large, colorful wings.",
         "descriptionRU": "Насекомое с большими, цветными крыльями.",
-        "descriptionDE": "Ein Insekt mit großen, bunten Flügeln."
+        "descriptionDE": "Ein Insekt mit großen, bunten Flügeln.",
+        "descriptionTR": "Büyük, renkli kanatları olan bir böcek.",
+        "descriptionAZ": "Böyük, rəngli qanadları olan bir həşərat.",
+        "descriptionUK": "Комаха з великими, кольоровими крилами."
     }, {
         "de": "der Springbrunnen",
         "en": "Fountain",
         "ru": "Фонтан",
+        "tr": "Fıskiye",
+        "az": "Fəvvarə",
+        "uk": "Фонтан",
         "descriptionEN": "A decorative structure that shoots water into the air.",
         "descriptionRU": "Декоративная конструкция, которая выбрасывает воду в воздух.",
-        "descriptionDE": "Eine dekorative Struktur, die Wasser in die Luft schießt."
+        "descriptionDE": "Eine dekorative Struktur, die Wasser in die Luft schießt.",
+        "descriptionTR": "Havaya su fışkırtan dekoratif bir yapı.",
+        "descriptionAZ": "Havaya su atan dekorativ quruluş.",
+        "descriptionUK": "Декоративна конструкція, яка викидає воду в повітря."
     }, {
         "de": "der Zauberbrunnen",
         "en": "Magic fountain",
         "ru": "Волшебный фонтан",
+        "tr": "Sihirli çeşme",
+        "az": "Sehrli fəvvarə",
+        "uk": "Чарівний фонтан",
         "descriptionEN": "A fountain believed to have magical properties.",
         "descriptionRU": "Фонтан, который считается имеющим магические свойства.",
-        "descriptionDE": "Ein Brunnen, der als magisch angesehen wird."
+        "descriptionDE": "Ein Brunnen, der als magisch angesehen wird.",
+        "descriptionTR": "Büyülü özelliklere sahip olduğuna inanılan bir çeşme.",
+        "descriptionAZ": "Sehrli xüsusiyyətlərə malik olduğuna inanılan bir fəvvarə.",
+        "descriptionUK": "Фонтан, який вважається має магічні властивості."
     }, {
         "de": "der Hund",
         "en": "Dog",
         "ru": "Собака",
+        "tr": "Köpek",
+        "az": "İt",
+        "uk": "Собака",
         "descriptionEN": "A domesticated carnivorous mammal with a bark or howl.",
         "descriptionRU": "Домашнее хищное млекопитающее с лаем или воем.",
-        "descriptionDE": "Ein domestiziertes Raubtier mit Bellen oder Heulen."
+        "descriptionDE": "Ein domestiziertes Raubtier mit Bellen oder Heulen.",
+        "descriptionTR": "Havlayan veya uluyan evcil bir etçil memeli.",
+        "descriptionAZ": "Hürən və ya uluyan evcil bir yırtıcı məməli.",
+        "descriptionUK": "Одомашнена хижа тварина з гавкотом або виттям."
     }, {
         "de": "das Eichhörnchen",
         "en": "Squirrel",
         "ru": "Белка",
+        "tr": "Sincap",
+        "az": "Dələ",
+        "uk": "Білка",
         "descriptionEN": "A small rodent with a bushy tail, often found in trees.",
         "descriptionRU": "Маленькое грызун с пушистым хвостом, часто встречающееся на деревьях.",
-        "descriptionDE": "Ein kleines Nagetier mit buschigem Schwanz, oft in Bäumen."
+        "descriptionDE": "Ein kleines Nagetier mit buschigem Schwanz, oft in Bäumen.",
+        "descriptionTR": "Ağaçlarda sıkça bulunan, kabarık kuyruklu küçük bir kemirgen.",
+        "descriptionAZ": "Ağaclarda tez-tez tapılan, tüklü quyruğu olan kiçik bir gəmirici.",
+        "descriptionUK": "Маленький гризун з пухнастим хвостом, який часто зустрічається на деревах."
     }, {
         "de": "die Nuss",
         "en": "Nut",
         "ru": "Орех",
+        "tr": "Fındık",
+        "az": "Qoz",
+        "uk": "Горіх",
         "descriptionEN": "A hard-shelled fruit containing a seed.",
         "descriptionRU": "Плод с твердым панцирем, содержащий семя.",
-        "descriptionDE": "Eine harte Frucht, die einen Samen enthält."
+        "descriptionDE": "Eine harte Frucht, die einen Samen enthält.",
+        "descriptionTR": "Bir tohum içeren sert kabuklu bir meyve.",
+        "descriptionAZ": "Bir toxum ehtiva edən sərt qabıqlı meyvə.",
+        "descriptionUK": "Плід з твердою шкаралупою, що містить насіння."
     }, {
         "de": "der Lieblingsplatz",
         "en": "Favorite place",
         "ru": "Любимое место",
+        "tr": "Favori yer",
+        "az": "Sevimli yer",
+        "uk": "Улюблене місце",
         "descriptionEN": "A place that one prefers or loves the most.",
         "descriptionRU": "Место, которое кто-то предпочитает или любит больше всего.",
-        "descriptionDE": "Ein Ort, den man am meisten bevorzugt oder liebt."
+        "descriptionDE": "Ein Ort, den man am meisten bevorzugt oder liebt.",
+        "descriptionTR": "Birinin en çok tercih ettiği veya sevdiği yer.",
+        "descriptionAZ": "Birinin ən çox üstünlük verdiyi və ya sevdiyi yer.",
+        "descriptionUK": "Місце, яке хтось віддає перевагу чи любить найбільше."
     }, {
         "de": "der Wunsch",
         "en": "Wish",
         "ru": "Желание",
+        "tr": "Dilek",
+        "az": "Arzu",
+        "uk": "Бажання",
         "descriptionEN": "A desire or hope for something.",
         "descriptionRU": "Желание или надежда на что-то.",
-        "descriptionDE": "Ein Verlangen oder Hoffnung auf etwas."
+        "descriptionDE": "Ein Verlangen oder Hoffnung auf etwas.",
+        "descriptionTR": "Bir şey için arzu veya umut.",
+        "descriptionAZ": "Bir şey üçün arzu və ya ümid.",
+        "descriptionUK": "Бажання чи надія на щось."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find or learn something new.",
         "descriptionRU": "Находить или узнавать что-то новое.",
-        "descriptionDE": "Etwas Neues finden oder lernen."
+        "descriptionDE": "Etwas Neues finden oder lernen.",
+        "descriptionTR": "Yeni bir şey bulmak veya öğrenmek.",
+        "descriptionAZ": "Yeni bir şey tapmaq və ya öyrənmək.",
+        "descriptionUK": "Знаходити чи дізнаватися щось нове."
     }, {
         "de": "fühlen",
         "en": "to feel",
         "ru": "чувствовать",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
         "descriptionEN": "To experience an emotion or sensation.",
         "descriptionRU": "Испытывать эмоцию или ощущение.",
-        "descriptionDE": "Eine Emotion oder Empfindung erleben."
+        "descriptionDE": "Eine Emotion oder Empfindung erleben.",
+        "descriptionTR": "Bir duygu veya his yaşamak.",
+        "descriptionAZ": "Bir emosiya və ya hiss yaşamaq.",
+        "descriptionUK": "Відчувати емоцію чи відчуття."
     }, {
         "de": "verstecken",
         "en": "to hide",
         "ru": "прятать",
+        "tr": "saklamak",
+        "az": "gizlətmək",
+        "uk": "ховати",
         "descriptionEN": "To put something in a place where it cannot be seen.",
         "descriptionRU": "Поместить что-то в место, где это не видно.",
-        "descriptionDE": "Etwas an einem Ort verstecken, an dem es nicht gesehen werden kann."
+        "descriptionDE": "Etwas an einem Ort verstecken, an dem es nicht gesehen werden kann.",
+        "descriptionTR": "Bir şeyi görünmeyeceği bir yere koymak.",
+        "descriptionAZ": "Bir şeyi görünməyəcəyi bir yerdə saxlamaq.",
+        "descriptionUK": "Покласти щось у місце, де це не видно."
     }, {
         "de": "nennen",
         "en": "to name",
         "ru": "называть",
+        "tr": "isim vermek",
+        "az": "adlandırmaq",
+        "uk": "називати",
         "descriptionEN": "To give a name to someone or something.",
         "descriptionRU": "Дать имя кому-то или чему-то.",
-        "descriptionDE": "Jemandem oder etwas einen Namen geben."
+        "descriptionDE": "Jemandem oder etwas einen Namen geben.",
+        "descriptionTR": "Birine veya bir şeye isim vermek.",
+        "descriptionAZ": "Kiməsə və ya bir şeyə ad vermək.",
+        "descriptionUK": "Дати ім'я комусь чи чомусь."
     }, {
         "de": "hoffen",
         "en": "to hope",
         "ru": "надеяться",
+        "tr": "ummak",
+        "az": "ümid etmək",
+        "uk": "сподіватися",
         "descriptionEN": "To desire a certain outcome or result.",
         "descriptionRU": "Желать определенного результата.",
-        "descriptionDE": "Ein bestimmtes Ergebnis oder Ergebnis wünschen."
+        "descriptionDE": "Ein bestimmtes Ergebnis oder Ergebnis wünschen.",
+        "descriptionTR": "Belirli bir sonuç veya sonuç arzulamak.",
+        "descriptionAZ": "Müəyyən bir nəticə və ya nəticə arzulamaq.",
+        "descriptionUK": "Бажати певного результату."
     }, {
         "de": "lustig",
         "en": "funny",
         "ru": "веселый",
+        "tr": "komik",
+        "az": "gülməli",
+        "uk": "смішний",
         "descriptionEN": "Causing laughter or amusement.",
         "descriptionRU": "Вызывающий смех или развлечение.",
-        "descriptionDE": "Lachen oder Unterhaltung verursachend."
+        "descriptionDE": "Lachen oder Unterhaltung verursachend.",
+        "descriptionTR": "Kahkaha veya eğlenceye neden olan.",
+        "descriptionAZ": "Gülüş və ya əyləncə səbəb olan.",
+        "descriptionUK": "Викликає сміх чи розвагу."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionEN": "Of a size that is less than normal or usual.",
         "descriptionRU": "Размер, который меньше нормального или обычного.",
-        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist."
+        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist.",
+        "descriptionTR": "Normalden veya alışılmıştan daha küçük bir boyutta.",
+        "descriptionAZ": "Normal və ya adi olandan daha kiçik ölçüdə.",
+        "descriptionUK": "Розміром менше, ніж звичайно чи зазвичай."
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "прекрасный",
+        "tr": "harika",
+        "az": "gözəl",
+        "uk": "прекрасний",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Угодно воспринимаемое органами чувств или умом.",
-        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuend."
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch erfreuend.",
+        "descriptionTR": "Duyulara veya zihne estetik açıdan hoş gelen.",
+        "descriptionAZ": "Duyğulara və ya ağıla estetik baxımdan xoş gələn.",
+        "descriptionUK": "Приємне для органів чуття чи розуму естетично."
     }
 ]

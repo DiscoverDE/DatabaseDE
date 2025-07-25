@@ -3,239 +3,443 @@
         "de": "das Juwel",
         "en": "jewel",
         "ru": "драгоценность",
+        "tr": "mücevher",
+        "az": "zibillik",
+        "uk": "коштовність",
         "descriptionDE": "Ein kostbarer Stein, in der Regel ein einzelner Kristall oder Edelstein.",
         "descriptionEN": "A precious stone, typically a single crystal or gemstone.",
-        "descriptionRU": "Драгоценный камень, обычно единичный кристалл или драгоценный камень."
+        "descriptionRU": "Драгоценный камень, обычно единичный кристалл или драгоценный камень.",
+        "descriptionTR": "Değerli bir taş, genellikle tek bir kristal veya mücevher.",
+        "descriptionAZ": "Qiymətli daş, adətən tək bir kristal və ya zibillik.",
+        "descriptionUK": "Дорогоцінний камінь, зазвичай одиничний кристал або дорогоцінний камінь."
     }, {
         "de": "der Laden",
         "en": "store",
         "ru": "магазин",
+        "tr": "mağaza",
+        "az": "mağaza",
+        "uk": "магазин",
         "descriptionDE": "Ein Einzelhandelsunternehmen, das Artikel an die Öffentlichkeit verkauft.",
         "descriptionEN": "A retail establishment selling items to the public.",
-        "descriptionRU": "Розничное предприятие, продающее товары общественности."
+        "descriptionRU": "Розничное предприятие, продающее товары общественности.",
+        "descriptionTR": "Halka ürün satan bir perakende işletmesi.",
+        "descriptionAZ": "İctimaiyyətə məhsul satan pərakəndə müəssisə.",
+        "descriptionUK": "Роздрібне підприємство, що продає товари громадськості."
     }, {
         "de": "die Naschkatze",
         "en": "sweet tooth",
         "ru": "сладкоежка",
+        "tr": "tatlı düşkünü",
+        "az": "şirin yeyən",
+        "uk": "солодкоїжка",
         "descriptionDE": "Eine Person, die gerne süße und zuckerhaltige Lebensmittel isst.",
         "descriptionEN": "A person who loves to eat sweet and sugary foods.",
-        "descriptionRU": "Человек, который любит употреблять сладкие и сахаристые продукты."
+        "descriptionRU": "Человек, который любит употреблять сладкие и сахаристые продукты.",
+        "descriptionTR": "Tatlı ve şekerli yiyecekleri yemeyi seven kişi.",
+        "descriptionAZ": "Şirin və şəkərli qidaları yeməyi sevən şəxs.",
+        "descriptionUK": "Людина, яка любить вживати солодкі та цукристі продукти."
     }, {
         "de": "der Künstler",
         "en": "artist",
         "ru": "художник",
+        "tr": "sanatçı",
+        "az": "rəssam",
+        "uk": "художник",
         "descriptionDE": "Eine Person, die Gemälde oder Zeichnungen als Beruf oder Hobby herstellt.",
         "descriptionEN": "A person who produces paintings or drawings as a profession or hobby.",
-        "descriptionRU": "Человек, создающий картины или рисунки как профессию или хобби."
+        "descriptionRU": "Человек, создающий картины или рисунки как профессию или хобби.",
+        "descriptionTR": "Resim veya çizimleri meslek veya hobi olarak üreten kişi.",
+        "descriptionAZ": "Rəsm və ya çertyojları peşə və ya hobi kimi hazırlayan şəxs.",
+        "descriptionUK": "Людина, яка створює картини чи малюнки як професію чи хобі."
     }, {
         "de": "die Inspirationsquelle",
         "en": "source of inspiration",
         "ru": "источник вдохновения",
+        "tr": "ilham kaynağı",
+        "az": "ilham mənbəyi",
+        "uk": "джерело натхнення",
         "descriptionDE": "Etwas oder jemand, der kreative Ideen oder Handlungen anregt.",
         "descriptionEN": "Something or someone that stimulates creative ideas or actions.",
-        "descriptionRU": "То, что или тот, кто стимулирует творческие идеи или действия."
+        "descriptionRU": "То, что или тот, кто стимулирует творческие идеи или действия.",
+        "descriptionTR": "Yaratıcı fikirleri veya eylemleri teşvik eden bir şey veya biri.",
+        "descriptionAZ": "Yaradıcı fikirləri və ya hərəkətləri stimullaşdıran bir şey və ya biri.",
+        "descriptionUK": "Те, що чи той, хто стимулює творчі ідеї чи дії."
     }, {
         "de": "der Stadtplan",
         "en": "city map",
         "ru": "городская карта",
+        "tr": "şehir haritası",
+        "az": "şəhər xəritəsi",
+        "uk": "міська карта",
         "descriptionDE": "Eine detaillierte Darstellung der Straßen, Sehenswürdigkeiten und anderer Merkmale einer Stadt.",
         "descriptionEN": "A detailed representation of the streets, landmarks, and other features of a city.",
-        "descriptionRU": "Подробное изображение улиц, достопримечательностей и других особенностей города."
+        "descriptionRU": "Подробное изображение улиц, достопримечательностей и других особенностей города.",
+        "descriptionTR": "Bir şehrin sokaklarının, önemli yerlerinin ve diğer özelliklerinin detaylı bir temsili.",
+        "descriptionAZ": "Bir şəhərin küçələrinin, görkəmli yerlərinin və digər xüsusiyyətlərinin ətraflı təsviri.",
+        "descriptionUK": "Детальне зображення вулиць, пам’яток та інших особливостей міста."
     }, {
         "de": "der Ort",
         "en": "place",
         "ru": "место",
+        "tr": "yer",
+        "az": "yer",
+        "uk": "місце",
         "descriptionDE": "Eine bestimmte Position, Punkt oder Fläche im Raum.",
         "descriptionEN": "A particular position, point, or area in space.",
-        "descriptionRU": "Конкретное положение, точка или область в пространстве."
+        "descriptionRU": "Конкретное положение, точка или область в пространстве.",
+        "descriptionTR": "Belirli bir konum, nokta veya uzaydaki bir alan.",
+        "descriptionAZ": "Müəyyən bir mövqe, nöqtə və ya kosmosda bir sahə.",
+        "descriptionUK": "Конкретне положення, точка чи область у просторі."
     }, {
         "de": "der Geschmack",
         "en": "flavor",
         "ru": "вкус",
+        "tr": "tat",
+        "az": "dad",
+        "uk": "смак",
         "descriptionDE": "Der charakteristische Geschmack von Essen oder Trinken.",
         "descriptionEN": "The distinctive taste of a food or drink.",
-        "descriptionRU": "Особенный вкус пищи или напитка."
+        "descriptionRU": "Особенный вкус пищи или напитка.",
+        "descriptionTR": "Bir yiyecek veya içeceğin ayırt edici tadı.",
+        "descriptionAZ": "Bir qida və ya içkinin fərqli dadı.",
+        "descriptionUK": "Особливий смак їжі чи напою."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
         "descriptionDE": "Eine Vielzahl verschiedener Dinge oder die Qualität, vielfältig zu sein.",
         "descriptionEN": "A range of different things or the quality of being diverse.",
-        "descriptionRU": "Разнообразие различных вещей или качество быть разнообразным."
+        "descriptionRU": "Разнообразие различных вещей или качество быть разнообразным.",
+        "descriptionTR": "Çeşitli şeylerin bir yelpazesi veya çeşitli olma niteliği.",
+        "descriptionAZ": "Müxtəlif şeylərin çeşidi və ya müxtəlif olma keyfiyyəti.",
+        "descriptionUK": "Різноманіття різних речей або якість бути різноманітним."
     }, {
         "de": "der Spaß",
         "en": "fun",
         "ru": "веселье",
+        "tr": "eğlence",
+        "az": "əyləncə",
+        "uk": "веселощі",
         "descriptionDE": "Vergnügen, Unterhaltung oder fröhliche Freude.",
         "descriptionEN": "Enjoyment, amusement, or lighthearted pleasure.",
-        "descriptionRU": "Удовольствие, развлечение или легкое удовольствие."
+        "descriptionRU": "Удовольствие, развлечение или легкое удовольствие.",
+        "descriptionTR": "Keyif, eğlence veya hafif bir zevk.",
+        "descriptionAZ": "Zövq, əyləncə və ya yüngül ləzzət.",
+        "descriptionUK": "Задоволення, розвага чи легка насолода."
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "радость",
+        "tr": "neşe",
+        "az": "sevinc",
+        "uk": "радість",
         "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
         "descriptionEN": "A feeling of great pleasure and happiness.",
-        "descriptionRU": "Чувство большого удовольствия и счастья."
+        "descriptionRU": "Чувство большого удовольствия и счастья.",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük bir zövq və xoşbəxtlik hissi.",
+        "descriptionUK": "Почуття великого задоволення та щастя."
     }, {
         "de": "die Botschaft",
         "en": "message",
         "ru": "сообщение",
+        "tr": "mesaj",
+        "az": "mesaj",
+        "uk": "повідомлення",
         "descriptionDE": "Eine verbale, schriftliche oder aufgezeichnete Mitteilung, die an einen Empfänger gesendet oder für ihn hinterlassen wurde.",
         "descriptionEN": "A verbal, written, or recorded communication sent to or left for a recipient.",
-        "descriptionRU": "Устное, письменное или записанное сообщение, отправленное или оставленное для получателя."
+        "descriptionRU": "Устное, письменное или записанное сообщение, отправленное или оставленное для получателя.",
+        "descriptionTR": "Bir alıcıya gönderilen veya onun için bırakılan sözlü, yazılı veya kaydedilmiş bir iletişim.",
+        "descriptionAZ": "Bir alıcıya göndərilən və ya onun üçün qoyulan şifahi, yazılı və ya qeyd edilmiş bir ünsiyyət.",
+        "descriptionUK": "Усне, письмове чи записане повідомлення, надіслане чи залишене для отримувача."
     }, {
         "de": "die Bedeutung",
         "en": "meaning",
         "ru": "значение",
+        "tr": "anlam",
+        "az": "məna",
+        "uk": "значення",
         "descriptionDE": "Was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist.",
         "descriptionEN": "What is meant by a word, text, concept, or action.",
-        "descriptionRU": "То, что означает слово, текст, концепция или действие."
+        "descriptionRU": "То, что означает слово, текст, концепция или действие.",
+        "descriptionTR": "Bir kelimenin, metnin, kavramın veya eylemin ne anlama geldiği.",
+        "descriptionAZ": "Bir sözün, mətnin, konseptin və ya hərəkətin nə demək olduğu.",
+        "descriptionUK": "Те, що означає слово, текст, концепція чи дія."
     }, {
         "de": "die Gemeinschaft",
         "en": "community",
         "ru": "община",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "громада",
         "descriptionDE": "Eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine bestimmte Eigenschaft gemeinsam haben.",
         "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
-        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общую характеристику."
+        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общую характеристику.",
+        "descriptionTR": "Aynı yerde yaşayan veya belirli bir özelliği paylaşan bir grup insan.",
+        "descriptionAZ": "Eyni yerdə yaşayan və ya müəyyən bir xüsusiyyəti paylaşan bir qrup insan.",
+        "descriptionUK": "Група людей, які живуть в одному місці чи мають спільну характеристику."
     }, {
         "de": "die Entdeckungsreise",
         "en": "discovery journey",
         "ru": "путешествие открытий",
+        "tr": "keşif yolculuğu",
+        "az": "kəşf səyahəti",
+        "uk": "подорож відкриттів",
         "descriptionDE": "Eine Reise oder Exkursion, bei der neue und interessante Dinge gefunden oder gelernt werden.",
         "descriptionEN": "A trip or excursion where new and interesting things are found or learned.",
-        "descriptionRU": "Поездка или экскурсия, в ходе которой находятся или изучаются новые и интересные вещи."
+        "descriptionRU": "Поездка или экскурсия, в ходе которой находятся или изучаются новые и интересные вещи.",
+        "descriptionTR": "Yeni ve ilginç şeylerin bulunduğu veya öğrenildiği bir gezi veya gezi.",
+        "descriptionAZ": "Yeni və maraqlı şeylərin tapıldığı və ya öyrənildiyi bir səyahət və ya ekskursiya.",
+        "descriptionUK": "Поїздка чи екскурсія, під час якої знаходять чи вивчають нові та цікаві речі."
     }, {
         "de": "die Phantasie",
         "en": "imagination",
         "ru": "воображение",
+        "tr": "hayal gücü",
+        "az": "xəyal gücü",
+        "uk": "уява",
         "descriptionDE": "Die Fähigkeit des Geistes, kreativ oder einfallsreich zu sein.",
         "descriptionEN": "The ability of the mind to be creative or resourceful.",
-        "descriptionRU": "Способность ума быть творческим или изобретательным."
+        "descriptionRU": "Способность ума быть творческим или изобретательным.",
+        "descriptionTR": "Zihnin yaratıcı veya becerikli olma yeteneği.",
+        "descriptionAZ": "Ağlın yaradıcı və ya bacarıqlı olma qabiliyyəti.",
+        "descriptionUK": "Здатність розуму бути творчим чи винахідливим."
     }, {
         "de": "süß",
         "en": "sweet",
         "ru": "сладкий",
+        "tr": "tatlı",
+        "az": "şirin",
+        "uk": "солодкий",
         "descriptionDE": "Den Geschmack oder das Aroma von Zucker oder Honig haben.",
         "descriptionEN": "Having the taste or flavor characteristic of sugar or honey.",
-        "descriptionRU": "Имеющий вкус или аромат, характерный для сахара или меда."
+        "descriptionRU": "Имеющий вкус или аромат, характерный для сахара или меда.",
+        "descriptionTR": "Şeker veya balın tadına veya aromasına sahip olmak.",
+        "descriptionAZ": "Şəkər və ya balın dadına və ya aromasına sahib olmaq.",
+        "descriptionUK": "Має смак чи аромат, характерний для цукру чи меду."
     }, {
         "de": "bunt",
         "en": "colorful",
         "ru": "разноцветный",
+        "tr": "renkli",
+        "az": "rəngli",
+        "uk": "барвистий",
         "descriptionDE": "Mit lebhaften Farben oder vielen verschiedenen Farben.",
         "descriptionEN": "Having bright colors or a lot of different colors.",
-        "descriptionRU": "Имеющий яркие цвета или много различных цветов."
+        "descriptionRU": "Имеющий яркие цвета или много различных цветов.",
+        "descriptionTR": "Parlak renkler veya birçok farklı renge sahip olmak.",
+        "descriptionAZ": "Parlaq rənglər və ya bir çox müxtəlif rənglərə sahib olmaq.",
+        "descriptionUK": "Має яскраві кольори чи багато різних кольорів."
     }, {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
+        "tr": "gizli",
+        "az": "gizli",
+        "uk": "прихований",
         "descriptionDE": "Nicht leicht zu sehen oder zu bemerken.",
         "descriptionEN": "Not easily seen or noticed.",
-        "descriptionRU": "Не легко видимый или заметный."
+        "descriptionRU": "Не легко видимый или заметный.",
+        "descriptionTR": "Kolayca görülmeyen veya fark edilmeyen.",
+        "descriptionAZ": "Asanlıqla görünməyən və ya fərq edilməyən.",
+        "descriptionUK": "Не легко видимий чи помітний."
     }, {
         "de": "bunt gemischt",
         "en": "mixed",
         "ru": "смешанный",
+        "tr": "karışık",
+        "az": "qarışıq",
+        "uk": "змішаний",
         "descriptionDE": "Bestehend aus verschiedenen Arten oder Elementen.",
         "descriptionEN": "Consisting of a variety of different types or elements.",
-        "descriptionRU": "Состоящий из различных типов или элементов."
+        "descriptionRU": "Состоящий из различных типов или элементов.",
+        "descriptionTR": "Çeşitli türlerden veya elementlerden oluşan.",
+        "descriptionAZ": "Müxtəlif növlərdən və ya elementlərdən ibarət olan.",
+        "descriptionUK": "Складається з різних типів чи елементів."
     }, {
         "de": "schnell",
         "en": "quick",
         "ru": "быстрый",
+        "tr": "hızlı",
+        "az": "sürətli",
+        "uk": "швидкий",
         "descriptionDE": "Schnell bewegend oder etwas in kurzer Zeit erledigend.",
         "descriptionEN": "Moving fast or doing something in a short amount of time.",
-        "descriptionRU": "Двигающийся быстро или выполняющий что-то за короткое время."
+        "descriptionRU": "Двигающийся быстро или выполняющий что-то за короткое время.",
+        "descriptionTR": "Hızlı hareket eden veya kısa sürede bir şey yapan.",
+        "descriptionAZ": "Sürətli hərəkət edən və ya qısa zamanda bir şey edən.",
+        "descriptionUK": "Рухається швидко або виконує щось за короткий час."
     }, {
         "de": "überwältigend",
         "en": "overwhelming",
         "ru": "подавляющий",
+        "tr": "baskın",
+        "az": "böyük",
+        "uk": "переважний",
         "descriptionDE": "Sehr intensiv oder stark; überwältigend.",
         "descriptionEN": "Very intense or strong; overpowering.",
-        "descriptionRU": "Очень интенсивный или сильный; подавляющий."
+        "descriptionRU": "Очень интенсивный или сильный; подавляющий.",
+        "descriptionTR": "Çok yoğun veya güçlü; baskın.",
+        "descriptionAZ": "Çox intensiv və ya güclü; böyük.",
+        "descriptionUK": "Дуже інтенсивний чи сильний; переважний."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "eşsiz",
+        "az": "bənzərsiz",
+        "uk": "унікальний",
         "descriptionDE": "Der einzige seiner Art; anders als alles andere.",
         "descriptionEN": "Being the only one of its kind; unlike anything else.",
-        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим."
+        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим.",
+        "descriptionTR": "Kendi türünde tek; başka hiçbir şeye benzemeyen.",
+        "descriptionAZ": "Öz növündə tək; başqa heç nəyə bənzəməyən.",
+        "descriptionUK": "Єдиний у своєму роді; ні на що не схожий."
     }, {
         "de": "phantasievoll",
         "en": "whimsical",
         "ru": "капризный",
+        "tr": "kaprisli",
+        "az": "xəyalpərəst",
+        "uk": "химерний",
         "descriptionDE": "Spielhaft skurril oder phantasievoll, besonders auf eine ansprechende und amüsante Weise.",
         "descriptionEN": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
-        "descriptionRU": "Игриво странный или фантазийный, особенно в привлекательном и забавном смысле."
+        "descriptionRU": "Игриво странный или фантазийный, особенно в привлекательном и забавном смысле.",
+        "descriptionTR": "Oyunbaz bir şekilde tuhaf veya fantezi dolu, özellikle çekici ve eğlenceli bir şekilde.",
+        "descriptionAZ": "Oyunbaz şəkildə qəribə və ya xəyalpərəst, xüsusilə cazibədar və əyləncəli bir şəkildə.",
+        "descriptionUK": "Грайливо дивний чи фантазійний, особливо в привабливому та кумедному сенсі."
     }, {
         "de": "tief",
         "en": "deep",
         "ru": "глубокий",
+        "tr": "derin",
+        "az": "dərin",
+        "uk": "глибокий",
         "descriptionDE": "Sich weit von oben oder der Oberfläche erstreckend.",
         "descriptionEN": "Extending far down from the top or surface.",
-        "descriptionRU": "Простирающийся далеко вниз от вершины или поверхности."
+        "descriptionRU": "Простирающийся далеко вниз от вершины или поверхности.",
+        "descriptionTR": "Üstten veya yüzeyden çok aşağıya uzanan.",
+        "descriptionAZ": "Yuxarıdan və ya səthdən çox aşağıya uzanan.",
+        "descriptionUK": "Простягається далеко вниз від вершини чи поверхні."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionDE": "Von einer Größe, die kleiner ist als normal oder üblich.",
         "descriptionEN": "Of a size that is less than normal or usual.",
-        "descriptionRU": "Размером меньше обычного или привычного."
+        "descriptionRU": "Размером меньше обычного или привычного.",
+        "descriptionTR": "Normalden veya alışılagelenden daha küçük bir boyutta.",
+        "descriptionAZ": "Normal və ya adi olandan daha kiçik ölçüdə.",
+        "descriptionUK": "Розміром менше звичайного чи звичного."
     }, {
         "de": "ganz",
         "en": "whole",
         "ru": "целый",
+        "tr": "bütün",
+        "az": "bütün",
+        "uk": "цілий",
         "descriptionDE": "Vollständig oder ganz; nicht fehlend oder gebrochen.",
         "descriptionEN": "Complete or full; not lacking or broken.",
-        "descriptionRU": "Полный или целый; не лишенный или сломанный."
+        "descriptionRU": "Полный или целый; не лишенный или сломанный.",
+        "descriptionTR": "Tam veya bütün; eksik veya kırık olmayan.",
+        "descriptionAZ": "Tam və ya bütün; çatışmayan və ya qırıq olmayan.",
+        "descriptionUK": "Повний чи цілий; не позбавлений чи зламаний."
     }, {
         "de": "kleinste",
         "en": "smallest",
         "ru": "самый маленький",
+        "tr": "en küçük",
+        "az": "ən kiçik",
+        "uk": "найменший",
         "descriptionDE": "Von einer Größe, die kleiner ist als andere derselben Art.",
         "descriptionEN": "Of a size that is less than others of the same kind.",
-        "descriptionRU": "Размером меньше, чем у других того же рода."
+        "descriptionRU": "Размером меньше, чем у других того же рода.",
+        "descriptionTR": "Aynı türden diğerlerinden daha küçük bir boyutta.",
+        "descriptionAZ": "Eyni növdən digərlərindən daha kiçik ölçüdə.",
+        "descriptionUK": "Розміром менше, ніж у інших того ж роду."
     }, {
         "de": "eindeutig",
         "en": "clear",
         "ru": "ясный",
+        "tr": "açık",
+        "az": "aydın",
+        "uk": "ясний",
         "descriptionDE": "Leicht wahrnehmbar, verständlich oder interpretierbar.",
         "descriptionEN": "Easy to perceive, understand, or interpret.",
-        "descriptionRU": "Легкий для восприятия, понимания или интерпретации."
+        "descriptionRU": "Легкий для восприятия, понимания или интерпретации.",
+        "descriptionTR": "Algılaması, anlaması veya yorumlaması kolay.",
+        "descriptionAZ": "Qavraması, anlaması və ya şərh etməsi asan.",
+        "descriptionUK": "Легкий для сприйняття, розуміння чи інтерпретації."
     }, {
         "de": "lecker",
         "en": "delicious",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "ləzzətli",
+        "uk": "смачний",
         "descriptionDE": "Hoch angenehm im Geschmack.",
         "descriptionEN": "Highly pleasant to the taste.",
-        "descriptionRU": "Очень приятный на вкус."
+        "descriptionRU": "Очень приятный на вкус.",
+        "descriptionTR": "Tadı son derece hoş.",
+        "descriptionAZ": "Dadı son dərəcə xoş.",
+        "descriptionUK": "Дуже приємний на смак."
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
         "descriptionDE": "Vorher nicht existierend; kürzlich oder jetzt zum ersten Mal gemacht, eingeführt oder entdeckt.",
         "descriptionEN": "Not existing before; made, introduced, or discovered recently or now for the first time.",
-        "descriptionRU": "Не существующий ранее; сделанный, введенный или открытый недавно или впервые."
+        "descriptionRU": "Не существующий ранее; сделанный, введенный или открытый недавно или впервые.",
+        "descriptionTR": "Daha önce var olmayan; yakın zamanda veya şimdi ilk kez yapılan, tanıtılan veya keşfedilen.",
+        "descriptionAZ": "Əvvəllər mövcud olmayan; yaxınlarda və ya indi ilk dəfə edilən, təqdim edilən və ya kəşf edilən.",
+        "descriptionUK": "Не існував раніше; зроблений, введений чи відкритий нещодавно чи вперше."
     }, {
         "de": "einzig",
         "en": "only",
         "ru": "только",
+        "tr": "sadece",
+        "az": "yalnız",
+        "uk": "лише",
         "descriptionDE": "Nur oder ausschließlich.",
         "descriptionEN": "Solely or exclusively.",
-        "descriptionRU": "Исключительно или исключительно."
+        "descriptionRU": "Исключительно или исключительно.",
+        "descriptionTR": "Yalnızca veya sadece.",
+        "descriptionAZ": "Yalnız və ya yalnız.",
+        "descriptionUK": "Виключно чи виключно."
     }, {
         "de": "lebendig",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
         "descriptionDE": "Voller Energie und Leben.",
         "descriptionEN": "Full of energy and life.",
-        "descriptionRU": "Полный энергии и жизни."
+        "descriptionRU": "Полный энергии и жизни.",
+        "descriptionTR": "Enerji ve hayat dolu.",
+        "descriptionAZ": "Enerji və həyat dolu.",
+        "descriptionUK": "Повний енергії та життя."
     }, {
         "de": "kleinste",
         "en": "smallest",
         "ru": "самый маленький",
+        "tr": "en küçük",
+        "az": "ən kiçik",
+        "uk": "найменший",
         "descriptionDE": "Von einer Größe, die kleiner ist als andere derselben Art.",
         "descriptionEN": "Of a size that is less than others of the same kind.",
-        "descriptionRU": "Размером меньше, чем у других того же рода."
+        "descriptionRU": "Размером меньше, чем у других того же рода.",
+        "descriptionTR": "Aynı türden diğerlerinden daha küçük bir boyutta.",
+        "descriptionAZ": "Eyni növdən digərlərindən daha kiçik ölçüdə.",
+        "descriptionUK": "Розміром менше, ніж у інших того ж роду."
     }
 ]

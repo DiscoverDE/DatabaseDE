@@ -5,83 +5,155 @@
         "ru": "Река",
         "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
         "descriptionRU": "Большой естественный поток воды, текущий по каналу к морю, озеру или другой реке.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Kanal zum Meer, einem See oder einem anderen Fluss fließt.",
+        "tr": "Nehir",
+        "az": "Çay",
+        "uk": "Річка",
+        "descriptionTR": "Denize, göle veya başka bir nehre doğru bir kanalda akan büyük doğal bir su akıntısı.",
+        "descriptionAZ": "Dənizə, gölə və ya başqa bir çaya doğru bir kanalda axan böyük təbii su axını.",
+        "descriptionUK": "Велика природна течія води, що тече по руслу до моря, озера або іншої річки."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
         "descriptionEN": "The ability to see something or to be seen from a particular place.",
         "descriptionRU": "Способность видеть что-то или быть видимым с определенного места.",
-        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder von einem bestimmten Ort aus gesehen zu werden."
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen oder von einem bestimmten Ort aus gesehen zu werden.",
+        "tr": "Manzara",
+        "az": "Mənzərə",
+        "uk": "Вид",
+        "descriptionTR": "Belirli bir yerden bir şeyi görme veya görünme yeteneği.",
+        "descriptionAZ": "Müəyyən bir yerdən bir şeyi görmək və ya görünmək bacarığı.",
+        "descriptionUK": "Можливість бачити щось або бути побаченим з певного місця."
     }, {
         "de": "der Himmel",
         "en": "Sky",
         "ru": "Небо",
         "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
         "descriptionRU": "Регион атмосферы и космического пространства, видимый с Земли.",
-        "descriptionDE": "Die Region der Atmosphäre und des Weltraums, die von der Erde aus zu sehen ist."
+        "descriptionDE": "Die Region der Atmosphäre und des Weltraums, die von der Erde aus zu sehen ist.",
+        "tr": "Gökyüzü",
+        "az": "Səma",
+        "uk": "Небо",
+        "descriptionTR": "Yerden görünen atmosfer ve uzay bölgesi.",
+        "descriptionAZ": "Yerdən görünən atmosfer və kosmos bölgəsi.",
+        "descriptionUK": "Область атмосфери та космічного простору, видима з Землі."
     }, {
         "de": "der Morgenkaffee",
         "en": "Morning coffee",
         "ru": "Утренний кофе",
         "descriptionEN": "Coffee consumed in the morning, often as part of one's morning routine.",
         "descriptionRU": "Кофе, употребляемый утром, часто как часть утренней рутины.",
-        "descriptionDE": "Kaffee, der morgens getrunken wird, oft als Teil der morgendlichen Routine."
+        "descriptionDE": "Kaffee, der morgens getrunken wird, oft als Teil der morgendlichen Routine.",
+        "tr": "Sabah kahvesi",
+        "az": "Səhər qəhvəsi",
+        "uk": "Ранкова кава",
+        "descriptionTR": "Sabahları, genellikle sabah rutininin bir parçası olarak tüketilen kahve.",
+        "descriptionAZ": "Səhər istehlak olunan qəhvə, tez-tez səhər rutinlərinin bir hissəsi olaraq.",
+        "descriptionUK": "Кава, що вживається вранці, часто як частина ранкової рутини."
     }, {
         "de": "der Weg",
         "en": "Path",
         "ru": "Путь",
         "descriptionEN": "A way or track laid down for walking or made by continual treading.",
         "descriptionRU": "Путь или тропа, проложенная для ходьбы или образованная постоянным наступанием.",
-        "descriptionDE": "Ein Weg oder Pfad, der zum Gehen angelegt oder durch fortgesetztes Treten entstanden ist."
+        "descriptionDE": "Ein Weg oder Pfad, der zum Gehen angelegt oder durch fortgesetztes Treten entstanden ist.",
+        "tr": "Yol",
+        "az": "Yol",
+        "uk": "Шлях",
+        "descriptionTR": "Yürümek için belirlenmiş veya sürekli basılarak yapılmış bir yol veya iz.",
+        "descriptionAZ": "Gəzmək üçün salınmış və ya daimi basmaqla yaranmış bir yol və ya cığır.",
+        "descriptionUK": "Шлях або стежка, прокладена для ходьби або утворена постійним топтанням."
     }, {
         "de": "joggen",
         "en": "to jog",
         "ru": "бегать",
         "descriptionEN": "To run at a steady gentle pace, especially on a regular basis as a form of physical exercise.",
         "descriptionRU": "Бегать с умеренным, плавным темпом, особенно регулярно в качестве физических упражнений.",
-        "descriptionDE": "Mit gleichmäßigem, sanftem Tempo laufen, insbesondere regelmäßig als Form von körperlicher Bewegung."
+        "descriptionDE": "Mit gleichmäßigem, sanftem Tempo laufen, insbesondere regelmäßig als Form von körperlicher Bewegung.",
+        "tr": "koşu yapmak",
+        "az": "qaçmaq",
+        "uk": "бігати підтюпцем",
+        "descriptionTR": "Sabit ve nazik bir tempoda koşmak, özellikle fiziksel egzersiz olarak düzenli olarak.",
+        "descriptionAZ": "Sabit, yüngül templə qaçmaq, xüsusən də fiziki məşq forması olaraq müntəzəm olaraq.",
+        "descriptionUK": "Бігати в рівномірному, легкому темпі, особливо регулярно як форма фізичних вправ."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
         "descriptionEN": "To take pleasure in something.",
         "descriptionRU": "Испытывать удовольствие от чего-либо.",
-        "descriptionDE": "Vergnügen an etwas haben."
+        "descriptionDE": "Vergnügen an etwas haben.",
+        "tr": "keyif almak",
+        "az": "zövq almaq",
+        "uk": "насолоджуватися",
+        "descriptionTR": "Bir şeyden zevk almak.",
+        "descriptionAZ": "Bir şeydən zövq almaq.",
+        "descriptionUK": "Отримувати задоволення від чогось."
     }, {
         "de": "atemberaubend",
         "en": "Breathtaking",
         "ru": "Захватывающий дух",
         "descriptionEN": "Causing great astonishment or wonder.",
         "descriptionRU": "Вызывающий большое удивление или восхищение.",
-        "descriptionDE": "Großes Erstaunen oder Staunen verursachend."
+        "descriptionDE": "Großes Erstaunen oder Staunen verursachend.",
+        "tr": "Nefes kesici",
+        "az": "Nəfəs kəsən",
+        "uk": "Захоплюючий",
+        "descriptionTR": "Büyük hayranlık veya şaşkınlık uyandıran.",
+        "descriptionAZ": "Böyük təəccüb və ya heyrət doğuran.",
+        "descriptionUK": "Викликає велике здивування або захоплення."
     }, {
-        "de": "malenrisch",
+        "de": "malerisch",
         "en": "Picturesque",
         "ru": "Живописный",
         "descriptionEN": "Visually attractive, especially in a quaint or charming way.",
         "descriptionRU": "Визуально привлекательный, особенно в живописном или очаровательном стиле.",
-        "descriptionDE": "Visuell attraktiv, besonders auf malerische oder charmante Weise."
+        "descriptionDE": "Visuell attraktiv, besonders auf malerische oder charmante Weise.",
+        "tr": "Pitoresk",
+        "az": "Mənzərəli",
+        "uk": "Мальовничий",
+        "descriptionTR": "Görsel olarak çekici, özellikle ilginç veya büyüleyici bir şekilde.",
+        "descriptionAZ": "Görünüşcə cəlbedici, xüsusən də qəribə və ya cazibədar bir şəkildə.",
+        "descriptionUK": "Візуально привабливий, особливо у химерний або чарівний спосіб."
     }, {
         "de": "friedlich",
         "en": "Peaceful",
         "ru": "Мирный",
         "descriptionEN": "Free from disturbance; tranquil.",
         "descriptionRU": "Свободный от беспорядка; спокойный.",
-        "descriptionDE": "Frei von Störungen; ruhig."
+        "descriptionDE": "Frei von Störungen; ruhig.",
+        "tr": "Huzurlu",
+        "az": "Dinc",
+        "uk": "Мирний",
+        "descriptionTR": "Rahatsızlıktan uzak; sakin.",
+        "descriptionAZ": "Pozulmadan azad; sakit.",
+        "descriptionUK": "Вільний від заворушень; спокійний."
     }, {
         "de": "flach",
         "en": "Flat",
         "ru": "Плоский",
         "descriptionEN": "Having a level surface; without raised areas or indentations.",
         "descriptionRU": "Имеющий ровную поверхность; без выступов или впадин.",
-        "descriptionDE": "Eine ebene Oberfläche haben; ohne Erhöhungen oder Vertiefungen."
+        "descriptionDE": "Eine ebene Oberfläche haben; ohne Erhöhungen oder Vertiefungen.",
+        "tr": "Düz",
+        "az": "Düz",
+        "uk": "Плоский",
+        "descriptionTR": "Düz bir yüzeye sahip; yükseltilmiş alanlar veya girintiler olmadan.",
+        "descriptionAZ": "Düz bir səthə malik; qabarıq sahələr və ya girintilər olmadan.",
+        "descriptionUK": "Має рівну поверхню; без піднесених ділянок або вм'ятин."
     }, {
         "de": "perfekt",
         "en": "Perfect",
         "ru": "Идеальный",
         "descriptionEN": "Having all the required or desirable elements, qualities, or characteristics.",
         "descriptionRU": "Обладающий всеми необходимыми или желательными элементами, качествами или характеристиками.",
-        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale aufweisend."
+        "descriptionDE": "Alle erforderlichen oder wünschenswerten Elemente, Qualitäten oder Merkmale aufweisend.",
+        "tr": "Mükemmel",
+        "az": "Mükəmməl",
+        "uk": "Ідеальний",
+        "descriptionTR": "Gerekli veya arzu edilen tüm unsurlara, niteliklere veya özelliklere sahip.",
+        "descriptionAZ": "Bütün tələb olunan və ya arzu olunan elementlərə, keyfiyyətlərə və ya xüsusiyyətlərə malik olan.",
+        "descriptionUK": "Має всі необхідні або бажані елементи, якості або характеристики."
     }
 ]

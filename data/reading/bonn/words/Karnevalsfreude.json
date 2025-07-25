@@ -3,197 +3,365 @@
         "de": "das Festival",
         "en": "Festival",
         "ru": "Фестиваль",
+        "tr": "Festival",
+        "az": "Festival",
+        "uk": "Фестиваль",
         "descriptionDE": "Ein Fest oder eine Serie von Aufführungen einer bestimmten Art, oft musikalisch.",
         "descriptionEN": "A celebration or series of performances of a certain kind, often musical.",
-        "descriptionRU": "Празднование или серия выступлений определенного рода, часто музыкальных."
+        "descriptionRU": "Празднование или серия выступлений определенного рода, часто музыкальных.",
+        "descriptionTR": "Belirli bir türde, genellikle müzikal, kutlama veya performans serisi.",
+        "descriptionAZ": "Müəyyən bir növ, çox vaxt musiqili, təntənə və ya ifa seriyası.",
+        "descriptionUK": "Святкування або серія виступів певного роду, часто музичних."
     }, {
         "de": "die Veranstaltung",
         "en": "Event",
         "ru": "Событие",
+        "tr": "Etkinlik",
+        "az": "Tədbir",
+        "uk": "Подія",
         "descriptionDE": "Eine geplante öffentliche oder soziale Veranstaltung.",
         "descriptionEN": "A planned public or social occasion.",
-        "descriptionRU": "Запланированное общественное или социальное событие."
+        "descriptionRU": "Запланированное общественное или социальное событие.",
+        "descriptionTR": "Planlanmış bir halka açık veya sosyal etkinlik.",
+        "descriptionAZ": "Planlaşdırılmış ictimai və ya sosial tədbir.",
+        "descriptionUK": "Запланована громадська чи соціальна подія."
     }, {
         "de": "die Prozession",
         "en": "Procession",
         "ru": "Процессия",
+        "tr": "Alay",
+        "az": "Korte",
+        "uk": "Процесія",
         "descriptionDE": "Eine organisierte Gruppe von Menschen, die sich formal oder zeremoniell bewegt.",
         "descriptionEN": "An organized body of people advancing in a formal or ceremonial manner.",
-        "descriptionRU": "Организованное движение людей формальным или церемониальным образом."
+        "descriptionRU": "Организованное движение людей формальным или церемониальным образом.",
+        "descriptionTR": "Resmi veya törensel bir şekilde ilerleyen organize bir insan grubu.",
+        "descriptionAZ": "Rəsmi və ya mərasim şəklində irəliləyən təşkilatlanmış insan qrupu.",
+        "descriptionUK": "Організований рух людей формальним або церемоніальним способом."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren",
+        "az": "Reyn",
+        "uk": "Рейн",
         "descriptionDE": "Ein bedeutender europäischer Fluss, der von den Schweizer Alpen durch Deutschland fließt.",
         "descriptionEN": "A major European river flowing from the Swiss Alps through Germany.",
-        "descriptionRU": "Крупная европейская река, текущая от швейцарских Альп через Германию."
+        "descriptionRU": "Крупная европейская река, текущая от швейцарских Альп через Германию.",
+        "descriptionTR": "İsviçre Alplerinden doğup Almanya'dan geçen önemli bir Avrupa nehri.",
+        "descriptionAZ": "İsveçrə Alplarından qaynaqlanan və Almaniyadan keçən əhəmiyyətli Avropa çayı.",
+        "descriptionUK": "Велика європейська річка, що тече від швейцарських Альп через Німеччину."
     }, {
         "de": "die Nacht",
         "en": "Night",
         "ru": "Ночь",
+        "tr": "Gece",
+        "az": "Gecə",
+        "uk": "Ніч",
         "descriptionDE": "Die Periode der Dunkelheit in jedem vierundzwanzig Stunden.",
         "descriptionEN": "The period of darkness in each twenty-four hours.",
-        "descriptionRU": "Период темноты в каждые двадцать четыре часа."
+        "descriptionRU": "Период темноты в каждые двадцать четыре часа.",
+        "descriptionTR": "Her yirmi dört saatte bir gerçekleşen karanlık dönem.",
+        "descriptionAZ": "Hər iyirmi dörd saatda bir baş verən qaranlıq dövr.",
+        "descriptionUK": "Період темряви в кожні двадцять чотири години."
     }, {
         "de": "der Tourist",
         "en": "Tourist",
         "ru": "Турист",
+        "tr": "Turist",
+        "az": "Turist",
+        "uk": "Турист",
         "descriptionDE": "Eine Person, die für Vergnügen reist oder einen Ort besucht.",
         "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
-        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия."
+        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
+        "descriptionTR": "Keyif için seyahat eden veya bir yeri ziyaret eden kişi.",
+        "descriptionAZ": "Zövq üçün səyahət edən və ya bir yeri ziyarət edən şəxs.",
+        "descriptionUK": "Людина, яка подорожує або відвідує місце для задоволення."
     }, {
         "de": "die Musikgruppe",
         "en": "Music Group",
         "ru": "Музыкальная группа",
+        "tr": "Müzik Grubu",
+        "az": "Musiqi Qrupu",
+        "uk": "Музична група",
         "descriptionDE": "Eine Gruppe von Musikern, die gemeinsam auftreten.",
         "descriptionEN": "A group of musicians who perform together.",
-        "descriptionRU": "Группа музыкантов, выступающих вместе."
+        "descriptionRU": "Группа музыкантов, выступающих вместе.",
+        "descriptionTR": "Birlikte performans sergileyen müzisyenler grubu.",
+        "descriptionAZ": "Birlikdə ifa edən musiqiçilər qrupu.",
+        "descriptionUK": "Група музикантів, які виступають разом."
     }, {
         "de": "die Kirmesplätze",
         "en": "Fairgrounds",
         "ru": "Площади ярмарки",
+        "tr": "Fuar Alanları",
+        "az": "Yarmarka Meydanları",
+        "uk": "Ярмаркові площі",
         "descriptionDE": "Ein Bereich, der für eine Messe oder einen Jahrmarkt reserviert ist.",
         "descriptionEN": "An area set aside for a fair or carnival.",
-        "descriptionRU": "Территория, выделенная для проведения ярмарки или карнавала."
+        "descriptionRU": "Территория, выделенная для проведения ярмарки или карнавала.",
+        "descriptionTR": "Bir fuar veya karnaval için ayrılmış alan.",
+        "descriptionAZ": "Yarmarka və ya karnaval üçün ayrılmış ərazi.",
+        "descriptionUK": "Територія, виділена для проведення ярмарку чи карнавалу."
     }, {
         "de": "das Feuerwerk",
         "en": "Fireworks",
         "ru": "Фейерверк",
+        "tr": "Havai Fişek",
+        "az": "Havai Fişəklər",
+        "uk": "Феєрверк",
         "descriptionDE": "Eine Darbietung von Feuerwerkskörpern.",
         "descriptionEN": "A display of fireworks.",
-        "descriptionRU": "Показ фейерверка."
+        "descriptionRU": "Показ фейерверка.",
+        "descriptionTR": "Havai fişek gösterisi.",
+        "descriptionAZ": "Havai fişək nümayişi.",
+        "descriptionUK": "Показ феєрверку."
     }, {
         "de": "der Markt",
         "en": "Market",
         "ru": "Рынок",
+        "tr": "Pazar",
+        "az": "Bazar",
+        "uk": "Ринок",
         "descriptionDE": "Ein regelmäßiges Treffen von Menschen zum Kauf und Verkauf von Lebensmitteln, Vieh und anderen Waren.",
         "descriptionEN": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
-        "descriptionRU": "Регулярное собрание людей для покупки и продажи продовольствия, скота и других товаров."
+        "descriptionRU": "Регулярное собрание людей для покупки и продажи продовольствия, скота и других товаров.",
+        "descriptionTR": "Yiyecek, canlı hayvan ve diğer malların alım satımı için düzenli olarak toplanan insanlar.",
+        "descriptionAZ": "Qida, mal-qara və digər malların alqı-satqısı üçün müntəzəm olaraq toplanan insanlar.",
+        "descriptionUK": "Регулярні збори людей для купівлі та продажу продовольства, худоби та інших товарів."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "tr": "Müze",
+        "az": "Muzey",
+        "uk": "Музей",
         "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
-        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+        "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionTR": "Tarihsel, bilimsel, sanatsal veya kültürel ilgi çeken nesnelerin saklandığı ve sergilendiği bina.",
+        "descriptionAZ": "Tarixi, elmi, bədii və ya mədəni maraq doğuran obyektlərin saxlanıldığı və nümayiş etdirildiyi bina.",
+        "descriptionUK": "Будівля, в якій зберігаються та виставляються об’єкти історичного, наукового, художнього чи культурного інтересу."
     }, {
         "de": "der Weihnachtsmarkt",
         "en": "Christmas Market",
         "ru": "Рождественский рынок",
+        "tr": "Noel Pazarı",
+        "az": "Milad Bazası",
+        "uk": "Різдвяний ринок",
         "descriptionDE": "Ein Straßenmarkt, der mit der Feier von Weihnachten verbunden ist.",
         "descriptionEN": "A street market associated with the celebration of Christmas.",
-        "descriptionRU": "Уличный рынок, связанный с празднованием Рождества."
+        "descriptionRU": "Уличный рынок, связанный с празднованием Рождества.",
+        "descriptionTR": "Noel kutlamalarıyla ilişkili bir sokak pazarı.",
+        "descriptionAZ": "Milad bayramı ilə əlaqəli küçə bazarı.",
+        "descriptionUK": "Вуличний ринок, пов’язаний із святкуванням Різдва."
     }, {
         "de": "anziehen",
         "en": "Attract",
         "ru": "Привлекать",
+        "tr": "Çekmek",
+        "az": "Cəlb etmək",
+        "uk": "Приваблювати",
         "descriptionDE": "Veranlassen Sie jemanden, an einen Ort zu kommen oder an einem Unternehmen teilzunehmen.",
         "descriptionEN": "Cause to come to a place or participate in a venture.",
-        "descriptionRU": "Побуждать приходить в определенное место или участвовать в предприятии."
+        "descriptionRU": "Побуждать приходить в определенное место или участвовать в предприятии.",
+        "descriptionTR": "Bir yere gelmeye veya bir girişime katılmaya teşvik etmek.",
+        "descriptionAZ": "Bir yerə gəlməyə və ya bir işə qoşulmağa sövq etmək.",
+        "descriptionUK": "Сприяти приходу до певного місця чи участі у підприємстві."
     }, {
         "de": "probieren",
         "en": "Try",
         "ru": "Пробовать",
+        "tr": "Denemek",
+        "az": "Sınamaq",
+        "uk": "Спробувати",
         "descriptionDE": "Versuchen Sie, etwas zu tun.",
         "descriptionEN": "Make an attempt or effort to do something.",
-        "descriptionRU": "Предпринимать попытку или усилие сделать что-то."
+        "descriptionRU": "Предпринимать попытку или усилие сделать что-то.",
+        "descriptionTR": "Bir şey yapmak için girişimde bulunmak veya çaba göstermek.",
+        "descriptionAZ": "Bir şey etmək üçün cəhd göstərmək və ya səy göstərmək.",
+        "descriptionUK": "Робити спробу чи зусилля щось зробити."
     }, {
         "de": "besuchen",
         "en": "Visit",
         "ru": "Посещать",
+        "tr": "Ziyaret Etmek",
+        "az": "Ziyarət Etmək",
+        "uk": "Відвідувати",
         "descriptionDE": "Gehen Sie hin und verbringen Sie Zeit mit jemandem sozial.",
         "descriptionEN": "Go to see and spend time with (someone) socially.",
-        "descriptionRU": "Идти, чтобы увидеть и провести время с кем-то социально."
+        "descriptionRU": "Идти, чтобы увидеть и провести время с кем-то социально.",
+        "descriptionTR": "Birini görmeye gitmek ve sosyal olarak vakit geçirmek.",
+        "descriptionAZ": "Birini görməyə getmək və sosial olaraq vaxt keçirmək.",
+        "descriptionUK": "Іти, щоб побачити і провести час з кимось соціально."
     }, {
         "de": "veranstalten",
         "en": "Organize",
         "ru": "Организовывать",
+        "tr": "Düzenlemek",
+        "az": "Təşkil Etmək",
+        "uk": "Організовувати",
         "descriptionDE": "Veranstalten oder organisieren Sie eine geplante Veranstaltung oder Aktivität.",
         "descriptionEN": "Arrange or establish a planned event or activity.",
-        "descriptionRU": "Устраивать или учреждать запланированное событие или мероприятие."
+        "descriptionRU": "Устраивать или учреждать запланированное событие или мероприятие.",
+        "descriptionTR": "Planlanmış bir etkinlik veya aktivite düzenlemek veya kurmak.",
+        "descriptionAZ": "Planlaşdırılmış bir tədbir və ya fəaliyyət təşkil etmək və ya qurmaq.",
+        "descriptionUK": "Влаштовувати чи засновувати заплановану подію чи захід."
     }, {
         "de": "bewundern",
         "en": "Admire",
         "ru": "Восхищаться",
+        "tr": "Hayran Olmak",
+        "az": "Heyran Olmaq",
+        "uk": "Захоплюватися",
         "descriptionDE": "Betrachten Sie mit Respekt oder warmer Zustimmung.",
         "descriptionEN": "Regard with respect or warm approval.",
-        "descriptionRU": "Смотреть с уважением или теплым одобрением."
+        "descriptionRU": "Смотреть с уважением или теплым одобрением.",
+        "descriptionTR": "Saygı veya sıcak bir onayla bakmak.",
+        "descriptionAZ": "Hörmətlə və ya isti bir təsdiqlə baxmaq.",
+        "descriptionUK": "Дивитися з повагою чи теплим схваленням."
     }, {
         "de": "öffnen",
         "en": "Open",
         "ru": "Открывать",
+        "tr": "Açmak",
+        "az": "Açmaq",
+        "uk": "Відкривати",
         "descriptionDE": "Bewegen oder anpassen, um den Zugang zu ermöglichen.",
         "descriptionEN": "Move or adjust to permit access.",
-        "descriptionRU": "Перемещаться или регулироваться для предоставления доступа."
+        "descriptionRU": "Перемещаться или регулироваться для предоставления доступа.",
+        "descriptionTR": "Erişime izin vermek için hareket ettirmek veya ayarlamak.",
+        "descriptionAZ": "Girişə icazə vermək üçün hərəkət etdirmək və ya tənzimləmək.",
+        "descriptionUK": "Пересуватися чи регулюватися для надання доступу."
     }, {
         "de": "verwandeln",
         "en": "Transform",
         "ru": "Преобразовывать",
+        "tr": "Dönüştürmek",
+        "az": "Çevirmək",
+        "uk": "Перетворювати",
         "descriptionDE": "Eine deutliche Veränderung in Form, Natur oder Erscheinungsbild bewirken.",
         "descriptionEN": "Make a marked change in the form, nature, or appearance.",
-        "descriptionRU": "Произвести заметное изменение формы, природы или внешнего вида."
+        "descriptionRU": "Произвести заметное изменение формы, природы или внешнего вида.",
+        "descriptionTR": "Biçimde, doğada veya görünüşte belirgin bir değişiklik yapmak.",
+        "descriptionAZ": "Formada, təbiətdə və ya görünüşdə əhəmiyyətli dəyişiklik etmək.",
+        "descriptionUK": "Здійснити помітну зміну форми, природи чи зовнішнього вигляду."
     }, {
         "de": "feiern",
         "en": "Celebrate",
         "ru": "Праздновать",
+        "tr": "Kutlamak",
+        "az": "Qeyd Etmək",
+        "uk": "Святкувати",
         "descriptionDE": "Anerkennen und genießen Sie ein bedeutendes Ereignis.",
         "descriptionEN": "Acknowledge and enjoy a significant event.",
-        "descriptionRU": "Признавать и наслаждаться значимым событием."
+        "descriptionRU": "Признавать и наслаждаться значимым событием.",
+        "descriptionTR": "Önemli bir olayı kabul etmek ve keyfini çıkarmak.",
+        "descriptionAZ": "Əhəmiyyətli bir hadisəni qəbul etmək və əylənmək.",
+        "descriptionUK": "Визнавати та насолоджуватися значущою подією."
     }, {
         "de": "faszinierend",
         "en": "Fascinating",
         "ru": "Захватывающий",
+        "tr": "Büyüleyici",
+        "az": "Heyranedici",
+        "uk": "Захоплюючий",
         "descriptionDE": "Äußerst interessant oder charmant.",
         "descriptionEN": "Extremely interesting or charming.",
-        "descriptionRU": "Крайне интересный или очаровательный."
+        "descriptionRU": "Крайне интересный или очаровательный.",
+        "descriptionTR": "Son derece ilginç veya büyüleyici.",
+        "descriptionAZ": "Son dərəcə maraqlı və ya cazibədar.",
+        "descriptionUK": "Надзвичайно цікавий або чарівний."
     }, {
         "de": "reichhaltig",
         "en": "Rich",
         "ru": "Богатый",
+        "tr": "Zengin",
+        "az": "Zəngin",
+        "uk": "Багатий",
         "descriptionDE": "Mit viel von etwas, besonders Reichtum oder Ressourcen.",
         "descriptionEN": "Having a great deal of something, especially wealth or resources.",
-        "descriptionRU": "Имеющий много чего-то, особенно богатства или ресурсов."
+        "descriptionRU": "Имеющий много чего-то, особенно богатства или ресурсов.",
+        "descriptionTR": "Bir şeyden çok miktarda sahip olma, özellikle zenginlik veya kaynaklar.",
+        "descriptionAZ": "Bir şeydən çox miqdarda olma, xüsusilə sərvət və ya resurslar.",
+        "descriptionUK": "Маючи багато чогось, особливо багатства чи ресурсів."
     }, {
         "de": "spektakulär",
         "en": "Spectacular",
         "ru": "Спектакульный",
+        "tr": "Muhteşem",
+        "az": "Gözəl",
+        "uk": "Видатний",
         "descriptionDE": "Schön auf dramatische und auffällige Weise.",
         "descriptionEN": "Beautiful in a dramatic and eye-catching way.",
-        "descriptionRU": "Красивый драматическим и привлекательным образом."
+        "descriptionRU": "Красивый драматическим и привлекательным образом.",
+        "descriptionTR": "Dramatik ve göz alıcı bir şekilde güzel.",
+        "descriptionAZ": "Dramatik və diqqət çəkən şəkildə gözəl.",
+        "descriptionUK": "Красивий драматичним і привабливим способом."
     }, {
         "de": "einzigartig",
         "en": "Unique",
         "ru": "Уникальный",
+        "tr": "Eşsiz",
+        "az": "Bənzərsiz",
+        "uk": "Унікальний",
         "descriptionDE": "Das einzige seiner Art; anders als alles andere.",
         "descriptionEN": "Being the only one of its kind; unlike anything else.",
-        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим."
+        "descriptionRU": "Будучи единственным в своем роде; ни на что не похожим.",
+        "descriptionTR": "Kendi türünde tek; başka hiçbir şeye benzemeyen.",
+        "descriptionAZ": "Öz növündə tək; başqa heç nəyə bənzəməyən.",
+        "descriptionUK": "Єдиний у своєму роді; ні на що не схожий."
     }, {
         "de": "fröhlich",
         "en": "Cheerful",
         "ru": "Веселый",
+        "tr": "Neşeli",
+        "az": "Şən",
+        "uk": "Веселий",
         "descriptionDE": "Deutlich glücklich und optimistisch.",
         "descriptionEN": "Noticeably happy and optimistic.",
-        "descriptionRU": "Заметно счастливый и оптимистичный."
+        "descriptionRU": "Заметно счастливый и оптимистичный.",
+        "descriptionTR": "Fark edilir derecede mutlu ve iyimser.",
+        "descriptionAZ": "Aydın şəkildə xoşbəxt və optimist.",
+        "descriptionUK": "Помітно щасливий і оптимістичний."
     }, {
         "de": "interessant",
         "en": "Interesting",
         "ru": "Интересный",
+        "tr": "İlginç",
+        "az": "Maraqlı",
+        "uk": "Цікавий",
         "descriptionDE": "Weckt Neugier oder Interesse; faszinierend.",
         "descriptionEN": "Arousing curiosity or interest; captivating.",
-        "descriptionRU": "Будоражащий любопытство или интерес; завораживающий."
+        "descriptionRU": "Будоражащий любопытство или интерес; завораживающий.",
+        "descriptionTR": "Merak veya ilgi uyandıran; büyüleyici.",
+        "descriptionAZ": "Maraq və ya həvəs oyadan; heyranedici.",
+        "descriptionUK": "Викликає цікавість чи інтерес; заворожуючий."
     }, {
         "de": "märchenhaft",
         "en": "Fairytale-like",
         "ru": "Сказочный",
+        "tr": "Masalsı",
+        "az": "Nağıl kimi",
+        "uk": "Казковий",
         "descriptionDE": "Charakteristisch für oder ähnlich einem Märchen.",
         "descriptionEN": "Characteristic of or resembling a fairy tale.",
-        "descriptionRU": "Характерный для или напоминающий сказку."
+        "descriptionRU": "Характерный для или напоминающий сказку.",
+        "descriptionTR": "Bir masalı karakterize eden veya andıran.",
+        "descriptionAZ": "Nağıl xarakterli və ya ona bənzəyən.",
+        "descriptionUK": "Характерний для чи нагадує казку."
     }, {
         "de": "regelmäßig",
         "en": "Regularly",
         "ru": "Регулярно",
+        "tr": "Düzenli Olarak",
+        "az": "Müntəzəm Olaraq",
+        "uk": "Регулярно",
         "descriptionDE": "In regelmäßigen Abständen; nicht unterbrochen oder variierend.",
         "descriptionEN": "At evenly spaced intervals; not interrupted or varying.",
-        "descriptionRU": "С равными интервалами; не прерывается и не изменяется."
+        "descriptionRU": "С равными интервалами; не прерывается и не изменяется.",
+        "descriptionTR": "Eşit aralıklarla; kesintiye uğramadan veya değişmeden.",
+        "descriptionAZ": "Bərabər fasilələrlə; kəsilmədən və ya dəyişmədən.",
+        "descriptionUK": "З рівними інтервалами; не переривається і не змінюється."
     }
 ]

@@ -4,7 +4,10 @@
         "title": {
             "en": "Summer Festival",
             "de": "Sommerfest",
-            "ru": "Летний Фестиваль"
+            "ru": "Летний Фестиваль",
+            "tr": "Yaz Festivali",
+            "uk": "Літній фестиваль",
+            "az": "Yay Festivalı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Sommerfest.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Sommerfest.json"
@@ -13,7 +16,10 @@
         "title": {
             "en": "Marko's Journey",
             "de": "Markos Reise",
-            "ru": "Путешествие Марко"
+            "ru": "Путешествие Марко",
+            "tr": "Marko'nun Yolculuğu",
+            "uk": "Подорож Марко",
+            "az": "Markonun Səyahəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Markos.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Markos.json"
@@ -22,7 +28,10 @@
         "title": {
             "en": "In the restaurant",
             "de": "Im Restaurant",
-            "ru": "В ресторане"
+            "ru": "В ресторане",
+            "tr": "Restoranda",
+            "uk": "У ресторані",
+            "az": "Restoranda"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Restaurant.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Restaurant.json"
@@ -31,7 +40,10 @@
         "title": {
             "en": "Beer Buddies",
             "de": "Bierfreunde",
-            "ru": "Пивные друзья"
+            "ru": "Пивные друзья",
+            "tr": "Bira Dostları",
+            "uk": "Пивні друзі",
+            "az": "Pivə Dostları"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Bierfreunde.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Bierfreunde.json"
@@ -40,7 +52,10 @@
         "title": {
             "en": "My city",
             "de": "Meine Stadt",
-            "ru": "Мой город"
+            "ru": "Мой город",
+            "tr": "Benim Şehrim",
+            "uk": "Моє місто",
+            "az": "Mənim Şəhərim"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Lukas.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Lukas.json"
@@ -49,7 +64,10 @@
         "title": {
             "en": "Outdoor Adventures",
             "de": "Outdoor-Abenteuer",
-            "ru": "Приключения на свежем воздухе"
+            "ru": "Приключения на свежем воздухе",
+            "tr": "Açık Hava Maceraları",
+            "uk": "Пригоди на свіжому повітрі",
+            "az": "Açıq Hava Macəraları"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Excursions1.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Excursions.json"
@@ -58,7 +76,10 @@
         "title": {
             "en": "Football Traditions",
             "de": "Fußball Traditionen",
-            "ru": "Футбольные традиции"
+            "ru": "Футбольные традиции",
+            "tr": "Futbol Gelenekleri",
+            "uk": "Футбольні традиції",
+            "az": "Futbol Ənənələri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Traditions.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Traditions.json"
@@ -67,7 +88,10 @@
         "title": {
             "en": "Exploring two museums",
             "de": "Erkundung zweier Museen",
-            "ru": "Исследование двух музеев"
+            "ru": "Исследование двух музеев",
+            "tr": "İki Müze Keşfi",
+            "uk": "Дослідження двох музеїв",
+            "az": "İki Muzeyin Kəşfi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Wehrtechnisches.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Wehrtechnisches.json"
@@ -76,7 +100,10 @@
         "title": {
             "en": "Christmas Magic",
             "de": "Weihnachtszauber",
-            "ru": "Рождественская магия"
+            "ru": "Рождественская магия",
+            "tr": "Noel Büyüsü",
+            "uk": "Різдвяна магія",
+            "az": "Milad Sehrləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Weihnachtszauber.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Weihnachtszauber.json"
@@ -85,7 +112,10 @@
         "title": {
             "en": "Exploring Deutsches Eck",
             "de": "Erkundung von Deutsches Eck",
-            "ru": "Исследование Дойчес Эк"
+            "ru": "Исследование Дойчес Эк",
+            "tr": "Deutsches Eck Keşfi",
+            "uk": "Дослідження Deutsches Eck",
+            "az": "Deutsches Eck Kəşfi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Deutsches_Eck_Erkunden.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Deutsches_Eck_Erkunden.json"
@@ -94,7 +124,10 @@
         "title": {
             "en": "Ehrenbreitstein Fortress",
             "de": "Festung Ehrenbreitstein",
-            "ru": "Крепость Эренбрейтштайн"
+            "ru": "Крепость Эренбрейтштайн",
+            "tr": "Ehrenbreitstein Kalesi",
+            "uk": "Фортеця Еренбрайтштайн",
+            "az": "Ehrenbreitstein Qalası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Ehrenbreitstein.jpeg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Ehrenbreitstein.json"
@@ -103,7 +136,10 @@
         "title": {
             "en": "Museum Mystery",
             "de": "Museumsgeheimnis",
-            "ru": "Тайна музея"
+            "ru": "Тайна музея",
+            "tr": "Müze Gizemi",
+            "uk": "Таємниця музею",
+            "az": "Muzey Sirri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Museumsgeheimnis.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Museumsgeheimnis.json"
@@ -112,7 +148,10 @@
         "title": {
             "en": "Riesling",
             "de": "Riesling",
-            "ru": "Рислинг"
+            "ru": "Рислинг",
+            "tr": "Riesling",
+            "uk": "Рислінг",
+            "az": "Riesling"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Riesling.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Riesling.json"
@@ -121,7 +160,10 @@
         "title": {
             "en": "Bakery Triumph",
             "de": "Bäckerei-Triumph",
-            "ru": "Триумф пекарни"
+            "ru": "Триумф пекарни",
+            "tr": "Fırın Zaferi",
+            "uk": "Тріумф пекарні",
+            "az": "Çörək Zavodu Qələbəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Stormy.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Stormy.json"
@@ -130,7 +172,10 @@
         "title": {
             "en": "Oktoberfest",
             "de": "Oktoberfest",
-            "ru": "Октоберфест"
+            "ru": "Октоберфест",
+            "tr": "Oktoberfest",
+            "uk": "Октоберфест",
+            "az": "Oktoberfest"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/img/Oktoberfest.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/koblenz/words/Oktoberfest.json"

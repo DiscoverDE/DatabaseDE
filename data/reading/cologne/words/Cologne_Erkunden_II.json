@@ -3,71 +3,131 @@
         "de": "die Gedenkstätte",
         "en": "Memorial site",
         "ru": "Мемориальное место",
+        "tr": "anıt yeri",
+        "az": "xatirə yeri",
+        "uk": "меморіальне місце",
         "descriptionEN": "A location dedicated to preserving the memory of a person or event.",
         "descriptionRU": "Место, посвященное сохранению памяти о человеке или событии.",
-        "descriptionDE": "ein Ort, der der Bewahrung der Erinnerung an eine Person oder ein Ereignis gewidmet ist."
+        "descriptionDE": "ein Ort, der der Bewahrung der Erinnerung an eine Person oder ein Ereignis gewidmet ist.",
+        "descriptionTR": "Bir kişi veya olayın anısını korumaya adanmış yer.",
+        "descriptionAZ": "Bir şəxs və ya hadisənin xatirəsini qorumağa həsr olunmuş yer.",
+        "descriptionUK": "Місце, присвячене збереженню пам'яті про особу або подію."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionEN": "An institution dedicated to the acquisition, preservation, and exhibition of objects of artistic, cultural, or scientific significance.",
         "descriptionRU": "Учреждение, посвященное приобретению, сохранению и выставке объектов художественного, культурного или научного значения.",
-        "descriptionDE": "eine Institution, die sich der Beschaffung, Erhaltung und Ausstellung von Objekten künstlerischer, kultureller oder wissenschaftlicher Bedeutung widmet."
+        "descriptionDE": "eine Institution, die sich der Beschaffung, Erhaltung und Ausstellung von Objekten künstlerischer, kultureller oder wissenschaftlicher Bedeutung widmet.",
+        "descriptionTR": "Sanatsal, kültürel veya bilimsel öneme sahip nesnelerin edinimi, korunması ve sergilenmesine adanmış kurum.",
+        "descriptionAZ": "Bədii, mədəni və ya elmi əhəmiyyətə malik obyektlərin əldə edilməsi, qorunması və nümayişinə həsr olunmuş qurum.",
+        "descriptionUK": "Установа, присвячена придбанню, збереженню та виставці предметів художнього, культурного або наукового значення."
     }, {
         "de": "der Schwerpunkt",
         "en": "Focus",
         "ru": "Акцент",
+        "tr": "odak",
+        "az": "diqqət mərkəzi",
+        "uk": "акцент",
         "descriptionEN": "The central or main point of emphasis.",
         "descriptionRU": "Центральная или основная точка акцента.",
-        "descriptionDE": "der zentrale oder Hauptpunkt der Betonung."
+        "descriptionDE": "der zentrale oder Hauptpunkt der Betonung.",
+        "descriptionTR": "Vurgunun merkezi veya ana noktası.",
+        "descriptionAZ": "Vurğunun mərkəzi və ya əsas nöqtəsi.",
+        "descriptionUK": "Центральна або основна точка акценту."
     }, {
         "de": "die Rundfahrt",
         "en": "Round trip",
         "ru": "Круговой тур",
+        "tr": "tur",
+        "az": "dövri səyahət",
+        "uk": "кругова поїздка",
         "descriptionEN": "A journey that starts and finishes at the same place, often with stops along the way.",
         "descriptionRU": "Путешествие, которое начинается и заканчивается в одном и том же месте, часто с остановками по пути.",
-        "descriptionDE": "eine Reise, die an einem Ort beginnt und endet, oft mit Stopps entlang des Weges."
+        "descriptionDE": "eine Reise, die an einem Ort beginnt und endet, oft mit Stopps entlang des Weges.",
+        "descriptionTR": "Aynı yerde başlayıp biten, genellikle yol boyunca durakları olan yolculuk.",
+        "descriptionAZ": "Eyni yerdə başlayıb bitən, adətən yol boyu dayanacaqları olan səyahət.",
+        "descriptionUK": "Подорож, яка починається і закінчується в одному місці, часто з зупинками по дорозі."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionEN": "A sight or prospect, typically of attractive natural scenery.",
         "descriptionRU": "Зрелище или перспектива, обычно привлекательного природного пейзажа.",
-        "descriptionDE": "eine Aussicht oder Perspektive, in der Regel von attraktiver natürlicher Landschaft."
+        "descriptionDE": "eine Aussicht oder Perspektive, in der Regel von attraktiver natürlicher Landschaft.",
+        "descriptionTR": "Genellikle çekici doğal manzara olan bir görüntü veya manzara.",
+        "descriptionAZ": "Adətən cəlbedici təbii mənzərə olan görüntü və ya mənzərə.",
+        "descriptionUK": "Вигляд або перспектива, зазвичай привабливого природного пейзажу."
     }, {
         "de": "gemütlich",
         "en": "Cozy",
         "ru": "Уютный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
         "descriptionEN": "Giving a feeling of comfort, warmth, and relaxation.",
         "descriptionRU": "Создающий ощущение уюта, тепла и расслабления.",
-        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung."
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung.",
+        "descriptionTR": "Rahatlık, sıcaklık ve gevşeme hissi veren.",
+        "descriptionAZ": "Rahatlıq, istilik və dincəlmə hissi verən.",
+        "descriptionUK": "Що дає відчуття комфорту, тепла та розслаблення."
     }, {
         "de": "regionale",
         "en": "Regional",
         "ru": "Региональный",
+        "tr": "bölgesel",
+        "az": "regional",
+        "uk": "регіональний",
         "descriptionEN": "Relating to or characteristic of a particular region.",
         "descriptionRU": "Относящийся к или характерный для определенного региона.",
-        "descriptionDE": "bezogen auf oder charakteristisch für eine bestimmte Region."
+        "descriptionDE": "bezogen auf oder charakteristisch für eine bestimmte Region.",
+        "descriptionTR": "Belirli bir bölge ile ilgili veya ona özgü.",
+        "descriptionAZ": "Müəyyən bir bölgə ilə əlaqəli və ya ona xas.",
+        "descriptionUK": "Що стосується або характерно для певного регіону."
     }, {
         "de": "dreistündigen",
         "en": "Three-hour",
         "ru": "Трехчасовой",
+        "tr": "üç saatlik",
+        "az": "üç saatlıq",
+        "uk": "тригодинний",
         "descriptionEN": "Lasting for a period of three hours.",
         "descriptionRU": "Длительностью три часа.",
-        "descriptionDE": "eine Dauer von drei Stunden."
+        "descriptionDE": "eine Dauer von drei Stunden.",
+        "descriptionTR": "Üç saat süren.",
+        "descriptionAZ": "Üç saat davam edən.",
+        "descriptionUK": "Що триває протягом трьох годин."
     }, {
         "de": "unvergleichlichen",
         "en": "Unparalleled",
         "ru": "Безпрецедентный",
+        "tr": "eşsiz",
+        "az": "müqayisəsiz",
+        "uk": "неперевершений",
         "descriptionEN": "Having no equal; better or greater than others.",
         "descriptionRU": "Не имеющий равных; лучший или больший чем другие.",
-        "descriptionDE": "hat keinen Vergleich; besser oder größer als andere."
+        "descriptionDE": "hat keinen Vergleich; besser oder größer als andere.",
+        "descriptionTR": "Eşi olmayan; diğerlerinden daha iyi veya büyük.",
+        "descriptionAZ": "Bərabəri olmayan; digərlərindən daha yaxşı və ya böyük.",
+        "descriptionUK": "Що не має рівних; кращий або більший за інших."
     }, {
         "de": "charmanten",
         "en": "Charming",
         "ru": "Очаровательный",
+        "tr": "büyüleyici",
+        "az": "cazibədar",
+        "uk": "чарівний",
         "descriptionEN": "Delightfully pleasing or attractive.",
         "descriptionRU": "Восхитительно приятный или привлекательный.",
-        "descriptionDE": "auf entzückende Weise angenehm oder attraktiv."
+        "descriptionDE": "auf entzückende Weise angenehm oder attraktiv.",
+        "descriptionTR": "Hoş bir şekilde memnun edici veya çekici.",
+        "descriptionAZ": "Xoş şəkildə məmnun edici və ya cəlbedici.",
+        "descriptionUK": "Приємно задовольняючий або привабливий."
     }
 ]

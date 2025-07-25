@@ -4,7 +4,10 @@
         "description": {
             "en": "Modal Verbs",
             "de": "Modalverben",
-            "ru": "Модальные глаголы"
+            "ru": "Модальные глаголы",
+            "tr": "Modal fiiller",
+            "uk": "Модальні дієслова",
+            "az": "Modal fellər"
         },
         "file": "modalverben.json",
         "level": "B1",
@@ -15,7 +18,10 @@
         "description": {
             "en": "Verbs with prepositions",
             "de": "Verben mit Präpositionen",
-            "ru": "Глаголы с предлогами"
+            "ru": "Глаголы с предлогами",
+            "tr": "Edatlı fiiller",
+            "uk": "Дієслова з прийменниками",
+            "az": "Ədatlı fellər"
         },
         "file": "verbPrepo.json",
         "level": "B1",
@@ -26,7 +32,10 @@
         "description": {
             "en": "Verbs with prepositions II",
             "de": "Verben mit Präpositionen II",
-            "ru": "Глаголы с предлогами II"
+            "ru": "Глаголы с предлогами II",
+            "tr": "Edatlı fiiller II",
+            "uk": "Дієслова з прийменниками II",
+            "az": "Ədatlı fellər II"
         },
         "file": "verbPrepoII.json",
         "level": "B1",
@@ -37,7 +46,10 @@
         "description": {
             "en": "Reflexive pronoun",
             "de": "Reflexivpronomen",
-            "ru": "Возвратное местоимение"
+            "ru": "Возвратное местоимение",
+            "tr": "Dönüşlü zamir",
+            "uk": "Зворотний займенник",
+            "az": "Qayıdış əvəzliyi"
         },
         "file": "reflexive.json",
         "level": "B1",
@@ -48,19 +60,24 @@
         "description": {
             "en": "Dative",
             "de": "Dativ",
-            "ru": "Датив"
+            "ru": "Датив",
+            "tr": "Yalın hâl (Dativ)",
+            "uk": "Датив (давальний відмінок)",
+            "az": "Yönlük hal (Dativ)"
         },
         "file": "dativ.json",
         "level": "B1",
         "icon": "hardware",
         "iconFamily": "MaterialIcons"
-    },
-    {
+    }, {
         "name": "dem - des",
         "description": {
             "en": "Genitive",
             "de": "Genitiv",
-            "ru": "Родительный падеж"
+            "ru": "Родительный падеж",
+            "tr": "İyelik hâli (Genitiv)",
+            "uk": "Родовий відмінок",
+            "az": "Yiyəlik halı (Genitiv)"
         },
         "file": "genitiv.json",
         "level": "B1",

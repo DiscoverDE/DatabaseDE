@@ -3,162 +3,322 @@
         "de": "die Studentin",
         "en": "student",
         "ru": "студентка",
+        "tr": "öğrenci",
+        "az": "tələbə",
+        "uk": "студентка",
         "descriptionDE": "Eine Person, die an einer Universität oder einer anderen Hochschule studiert.",
         "descriptionEN": "a person who is studying at a university or other higher education institution.",
-        "descriptionRU": "человек, который учится в университете или другом учебном заведении высшего образования."
-    }, {
+        "descriptionRU": "человек, который учится в университете или другом учебном заведении высшего образования.",
+        "descriptionTR": "üniversitede veya başka bir yüksek öğretim kurumunda okuyan kişi.",
+        "descriptionAZ": "universitetdə və ya digər ali təhsil müəssisəsində oxuyan şəxs.",
+        "descriptionUK": "людина, яка навчається в університеті чи іншому вищому навчальному закладі."
+    },
+    {
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "tr": "sabah",
+        "az": "səhər",
+        "uk": "ранок",
         "descriptionDE": "Die Zeitspanne zwischen Mitternacht und Mittag, insbesondere vom Sonnenaufgang bis zum Mittag.",
         "descriptionEN": "the period of time between midnight and noon, especially from sunrise to noon.",
-        "descriptionRU": "период времени с полуночи до полудня, особенно с рассвета до полудня."
-    }, {
+        "descriptionRU": "период времени с полуночи до полудня, особенно с рассвета до полудня.",
+        "descriptionTR": "gece yarısı ile öğlen arasındaki zaman dilimi, özellikle gün doğumundan öğlene kadar.",
+        "descriptionAZ": "gecə yarısı ilə günorta arasındakı vaxt, xüsusən günəşin doğmasından günortaya qədər.",
+        "descriptionUK": "період часу між північчю та полуднем, особливо від сходу сонця до полудня."
+    },
+    {
         "de": "die Vorfreude",
         "en": "anticipation",
         "ru": "предвкушение",
+        "tr": "beklenti",
+        "az": "gözləmə",
+        "uk": "передчуття",
         "descriptionDE": "Das Gefühl von Aufregung und Erwartung vor einem bedeutenden Ereignis.",
         "descriptionEN": "the feeling of excitement and expectation before a significant event.",
-        "descriptionRU": "чувство волнения и ожидания перед значительным событием."
-    }, {
+        "descriptionRU": "чувство волнения и ожидания перед значительным событием.",
+        "descriptionTR": "önemli bir olaydan önce heyecan ve beklenti duygusu.",
+        "descriptionAZ": "əhəmiyyətli bir hadisədən əvvəl həyəcan və gözləmə hissi.",
+        "descriptionUK": "почуття хвилювання та очікування перед значною подією."
+    },
+    {
         "de": "der Charme",
         "en": "charm",
         "ru": "очарование",
+        "tr": "çekicilik",
+        "az": "cazibə",
+        "uk": "чарівність",
         "descriptionDE": "Die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu wecken.",
         "descriptionEN": "the power or quality of giving delight or arousing admiration.",
-        "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение."
-    }, {
+        "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение.",
+        "descriptionTR": "zevk veren veya hayranlık uyandıran güç veya kalite.",
+        "descriptionAZ": "zövq verən və ya heyranlıq oyadan güc və ya keyfiyyət.",
+        "descriptionUK": "сила або якість, що викликає захоплення або викликає захоплення."
+    },
+    {
         "de": "die Herzlichkeit",
         "en": "warmth",
         "ru": "теплота",
+        "tr": "sıcaklık",
+        "az": "səmimiyyət",
+        "uk": "теплота",
         "descriptionDE": "Die Qualität oder der Zustand des Warmseins; Freundlichkeit und Herzlichkeit.",
         "descriptionEN": "the quality or state of being warm; friendliness and cordiality.",
-        "descriptionRU": "качество или состояние теплоты; дружелюбие и сердечность."
-    }, {
+        "descriptionRU": "качество или состояние теплоты; дружелюбие и сердечность.",
+        "descriptionTR": "sıcak olma kalitesi veya durumu; arkadaşlık ve samimiyet.",
+        "descriptionAZ": "isti olma keyfiyyəti və ya vəziyyəti; dostluq və səmimiyyət.",
+        "descriptionUK": "якість або стан теплоти; дружелюбність і сердечність."
+    },
+    {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "the art or practice of designing and constructing buildings.",
-        "descriptionRU": "искусство или практика проектирования и строительства зданий."
-    }, {
+        "descriptionRU": "искусство или практика проектирования и строительства зданий.",
+        "descriptionTR": "binaların tasarlanması ve inşa edilmesi sanatı veya uygulaması.",
+        "descriptionAZ": "binaların dizaynı və tikintisi sənəti və ya təcrübəsi.",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель."
+    },
+    {
         "de": "die Kulturgeschichte",
         "en": "cultural history",
         "ru": "культурная история",
+        "tr": "kültür tarihi",
+        "az": "mədəniyyət tarixi",
+        "uk": "культурна історія",
         "descriptionDE": "Die Untersuchung kultureller Traditionen, Praktiken und gesellschaftlicher Entwicklung im Laufe der Zeit.",
         "descriptionEN": "the study of cultural traditions, practices, and societal development over time.",
-        "descriptionRU": "изучение культурных традиций, практик и общественного развития в течение времени."
-    }, {
+        "descriptionRU": "изучение культурных традиций, практик и общественного развития в течение времени.",
+        "descriptionTR": "kültürel geleneklerin, uygulamaların ve toplumsal gelişimin zaman içindeki incelenmesi.",
+        "descriptionAZ": "mədəni ənənələrin, təcrübələrin və sosial inkişafın zamanla öyrənilməsi.",
+        "descriptionUK": "вивчення культурних традицій, практик та суспільного розвитку з часом."
+    },
+    {
         "de": "das Konzert",
         "en": "concert",
         "ru": "концерт",
+        "tr": "konser",
+        "az": "konsert",
+        "uk": "концерт",
         "descriptionDE": "Eine musikalische Darbietung, an der mehrere Stimmen oder Instrumente teilnehmen.",
         "descriptionEN": "a musical performance in which several voices or instruments take part.",
-        "descriptionRU": "музыкальное выступление, в котором принимают участие несколько голосов или инструментов."
-    }, {
+        "descriptionRU": "музыкальное выступление, в котором принимают участие несколько голосов или инструментов.",
+        "descriptionTR": "birden fazla sesin veya enstrümanın yer aldığı müzikal performans.",
+        "descriptionAZ": "bir neçə səs və ya alətin iştirak etdiyi musiqi performansı.",
+        "descriptionUK": "музичний виступ, у якому беруть участь кілька голосів або інструментів."
+    },
+    {
         "de": "die Sehenswürdigkeit",
         "en": "sightseeing attraction",
         "ru": "достопримечательность",
+        "tr": "turistik cazibe",
+        "az": "görməli yer",
+        "uk": "пам'ятка",
         "descriptionDE": "Ein interessanter Ort, den Touristen aufgrund seiner kulturellen, historischen oder natürlichen Bedeutung besuchen.",
         "descriptionEN": "a place of interest that tourists visit for its cultural, historical, or natural significance.",
-        "descriptionRU": "место интереса, которое туристы посещают из-за его культурного, исторического или природного значения."
-    }, {
+        "descriptionRU": "место интереса, которое туристы посещают из-за его культурного, исторического или природного значения.",
+        "descriptionTR": "turistlerin kültürel, tarihi veya doğal önemi nedeniyle ziyaret ettiği ilgi çekici bir yer.",
+        "descriptionAZ": "turistlərin mədəni, tarixi və ya təbii əhəmiyyətinə görə ziyarət etdiyi maraqlı bir yer.",
+        "descriptionUK": "місце інтересу, яке туристи відвідують через його культурне, історичне чи природне значення."
+    },
+    {
         "de": "der Bauernmarkt",
         "en": "farmers' market",
         "ru": "фермерский рынок",
+        "tr": "çiftçi pazarı",
+        "az": "fermer bazarı",
+        "uk": "фермерський ринок",
         "descriptionDE": "Ein Markt, auf dem Bauern ihre Produkte direkt an Verbraucher verkaufen.",
         "descriptionEN": "a market where farmers sell their produce directly to consumers.",
-        "descriptionRU": "рынок, где фермеры продают свою продукцию напрямую потребителям."
-    }, {
+        "descriptionRU": "рынок, где фермеры продают свою продукцию напрямую потребителям.",
+        "descriptionTR": "çiftçilerin ürünlerini doğrudan tüketicilere sattığı bir pazar.",
+        "descriptionAZ": "fermerlərin məhsullarını birbaşa istehlakçılara satdığı bazar.",
+        "descriptionUK": "ринок, де фермери продають свою продукцію безпосередньо споживачам."
+    },
+    {
         "de": "die Sonne",
         "en": "sun",
         "ru": "солнце",
+        "tr": "güneş",
+        "az": "günəş",
+        "uk": "сонце",
         "descriptionDE": "Der Stern, um den die Erde kreist, der Licht und Wärme liefert.",
         "descriptionEN": "the star around which the Earth orbits, providing light and heat.",
-        "descriptionRU": "звезда, вокруг которой вращается Земля, обеспечивая свет и тепло."
-    }, {
+        "descriptionRU": "звезда, вокруг которой вращается Земля, обеспечивая свет и тепло.",
+        "descriptionTR": "dünyanın etrafında döndüğü, ışık ve ısı sağlayan yıldız.",
+        "descriptionAZ": "yerin ətrafında fırlandığı, işıq və istilik təmin edən ulduz.",
+        "descriptionUK": "зірка, навколо якої обертається Земля, забезпечуючи світло і тепло."
+    },
+    {
         "de": "beschaulich",
         "en": "picturesque",
         "ru": "живописный",
+        "tr": "pitoresk",
+        "az": "mənzərəli",
+        "uk": "мальовничий",
         "descriptionDE": "Visuell ansprechend, besonders auf malerische oder charmante Weise.",
         "descriptionEN": "visually attractive, especially in a quaint or charming way.",
-        "descriptionRU": "визуально привлекательный, особенно в живописном или очаровательном стиле."
-    }, {
+        "descriptionRU": "визуально привлекательный, особенно в живописном или очаровательном стиле.",
+        "descriptionTR": "özellikle ilginç veya çekici bir şekilde görsel olarak çekici.",
+        "descriptionAZ": "xüsusən qəribə və ya cazibədar şəkildə vizual olaraq cəlbedici.",
+        "descriptionUK": "візуально привабливий, особливо в мальовничому або чарівному стилі."
+    },
+    {
         "de": "prächtig",
         "en": "splendid",
         "ru": "великолепный",
+        "tr": "görkemli",
+        "az": "gözəl",
+        "uk": "чудовий",
         "descriptionDE": "Impressiv im Aussehen; großartig.",
         "descriptionEN": "impressive in appearance; magnificent.",
-        "descriptionRU": "впечатляющий внешне; великолепный."
-    }, {
+        "descriptionRU": "впечатляющий внешне; великолепный.",
+        "descriptionTR": "görünüşte etkileyici; muhteşem.",
+        "descriptionAZ": "görünüşdə təsirli; möhtəşəm.",
+        "descriptionUK": "вражаючий на вигляд; чудовий."
+    },
+    {
         "de": "blühend",
         "en": "thriving",
         "ru": "процветающий",
+        "tr": "gelişen",
+        "az": "çiçəklənən",
+        "uk": "процвітаючий",
         "descriptionDE": "Wächst oder entwickelt sich gut; blühend.",
         "descriptionEN": "growing or developing well; flourishing.",
-        "descriptionRU": "хорошо растущий или развивающийся; процветающий."
-    }, {
+        "descriptionRU": "хорошо растущий или развивающийся; процветающий.",
+        "descriptionTR": "iyi büyüyor veya gelişiyor; gelişiyor.",
+        "descriptionAZ": "yaxşı böyüyür və ya inkişaf edir; çiçəklənir.",
+        "descriptionUK": "добре зростає або розвивається; процвітає."
+    },
+    {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionDE": "Bezogen auf die Vergangenheit, insbesondere die Geschichte eines Ortes, einer Person oder eines Ereignisses.",
         "descriptionEN": "related to the past, especially the history of a place, person, or event.",
-        "descriptionRU": "связанный с прошлым, особенно историей места, человека или события."
-    }, {
+        "descriptionRU": "связанный с прошлым, особенно историей места, человека или события.",
+        "descriptionTR": "geçmişle, özellikle bir yerin, kişinin veya olayın tarihiyle ilgili.",
+        "descriptionAZ": "keçmişlə, xüsusən bir yerin, insanın və ya hadisənin tarixi ilə əlaqəli.",
+        "descriptionUK": "пов'язаний з минулим, особливо історією місця, людини чи події."
+    },
+    {
         "de": "renommiert",
         "en": "renowned",
         "ru": "признанный",
+        "tr": "ünlü",
+        "az": "tanınmış",
+        "uk": "відомий",
         "descriptionDE": "Weit bekannt und respektiert; berühmt.",
         "descriptionEN": "widely known and respected; famous.",
-        "descriptionRU": "широко известный и уважаемый; известный."
-    }, {
+        "descriptionRU": "широко известный и уважаемый; известный.",
+        "descriptionTR": "geniş çapta tanınan ve saygı duyulan; ünlü.",
+        "descriptionAZ": "geniş tanınmış və hörmət edilən; məşhur.",
+        "descriptionUK": "широко відомий і шанований; відомий."
+    },
+    {
         "de": "friedlich",
         "en": "peaceful",
         "ru": "мирный",
+        "tr": "huzurlu",
+        "az": "dinc",
+        "uk": "мирний",
         "descriptionDE": "Gekennzeichnet durch das Fehlen von Gewalt oder Störungen.",
         "descriptionEN": "characterized by a lack of violence or disturbance.",
-        "descriptionRU": "характеризующийся отсутствием насилия или беспорядка."
-    }, {
+        "descriptionRU": "характеризующийся отсутствием насилия или беспорядка.",
+        "descriptionTR": "şiddet veya rahatsızlık eksikliği ile karakterize edilir.",
+        "descriptionAZ": "zorakılıq və ya narahatlıq olmaması ilə xarakterizə olunur.",
+        "descriptionUK": "характеризується відсутністю насильства чи заворушень."
+    },
+    {
         "de": "entspannt",
         "en": "relaxed",
         "ru": "расслабленный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "розслаблений",
         "descriptionDE": "Frei von Spannung und Angst; entspannt.",
         "descriptionEN": "free from tension and anxiety; at ease.",
-        "descriptionRU": "освобожденный от напряжения и беспокойства; спокойный."
-    }, {
+        "descriptionRU": "освобожденный от напряжения и беспокойства; спокойный.",
+        "descriptionTR": "gerginlik ve endişeden uzak; rahat.",
+        "descriptionAZ": "gərginlik və narahatlıqdan uzaq; rahat.",
+        "descriptionUK": "вільний від напруги та тривоги; спокійний."
+    },
+    {
         "de": "lecker",
         "en": "delicious",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "dadlı",
+        "uk": "смачний",
         "descriptionDE": "Hoch angenehm im Geschmack; sehr lecker.",
         "descriptionEN": "highly pleasant to the taste; very tasty.",
-        "descriptionRU": "очень приятный на вкус; очень вкусный."
-    }, {
+        "descriptionRU": "очень приятный на вкус; очень вкусный.",
+        "descriptionTR": "tadı çok hoş; çok lezzetli.",
+        "descriptionAZ": "dadı çox xoş; çox dadlı.",
+        "descriptionUK": "дуже приємний на смак; дуже смачний."
+    },
+    {
         "de": "gemütlich",
         "en": "cozy",
         "ru": "уютный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
         "descriptionDE": "Verleiht ein Gefühl von Komfort, Wärme und Entspannung.",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation.",
-        "descriptionRU": "создающий ощущение комфорта, тепла и расслабления."
-    }, {
+        "descriptionRU": "создающий ощущение комфорта, тепла и расслабления.",
+        "descriptionTR": "konfor, sıcaklık ve rahatlama hissi verir.",
+        "descriptionAZ": "rahatlıq, istilik və rahatlama hissi verir.",
+        "descriptionUK": "створює відчуття комфорту, тепла та розслаблення."
+    },
+    {
         "de": "freundlich",
         "en": "friendly",
         "ru": "дружелюбный",
+        "tr": "arkadaşça",
+        "az": "dostluq",
+        "uk": "дружній",
         "descriptionDE": "Freundlich und angenehm; verhält sich auf angenehme, freundliche Weise.",
         "descriptionEN": "kind and pleasant; behaving in a pleasant, kind way.",
-        "descriptionRU": "добрый и приятный; ведущий себя приятным и добрым образом."
-    }, {
+        "descriptionRU": "добрый и приятный; ведущий себя приятным и добрым образом.",
+        "descriptionTR": "nazik ve hoş; hoş, nazik bir şekilde davranmak.",
+        "descriptionAZ": "mehriban və xoş; xoş, mehriban bir şəkildə davranmaq.",
+        "descriptionUK": "добрий і приємний; поводиться приємно, доброзичливо."
+    },
+    {
         "de": "entscheidend",
         "en": "decisive",
         "ru": "решающий",
+        "tr": "belirleyici",
+        "az": "həlledici",
+        "uk": "вирішальний",
         "descriptionDE": "Löst eine Frage; bringt ein definitives Ergebnis hervor.",
         "descriptionEN": "settling an issue; producing a definite result.",
-        "descriptionRU": "решение вопроса; производящий определенный результат."
-    }, {
+        "descriptionRU": "решение вопроса; производящий определенный результат.",
+        "descriptionTR": "bir sorunu çözmek; kesin bir sonuç üretmek.",
+        "descriptionAZ": "məsələni həll etmək; müəyyən bir nəticə vermək.",
+        "descriptionUK": "вирішення питання; отримання певного результату."
+    },
+    {
         "de": "versteckt",
         "en": "hidden",
         "ru": "скрытый",
+        "tr": "gizli",
+        "az": "gizli",
+        "uk": "прихований",
         "descriptionDE": "Nicht leicht zu sehen oder zu bemerken; verborgen.",
         "descriptionEN": "not easily seen or noticed; concealed.",
-        "descriptionRU": "не легко видимый или заметный; скрытый."
+        "descriptionRU": "не легко видимый или заметный; скрытый.",
+        "descriptionTR": "kolayca görülmeyen veya fark edilmeyen; gizli.",
+        "descriptionAZ": "asanlıqla görülməyən və ya diqqət edilməyən; gizli.",
+        "descriptionUK": "не легко побачити або помітити; прихований."
     }
 ]

@@ -3,176 +3,326 @@
         "de": "der Kaffee",
         "en": "coffee",
         "ru": "кофе",
+        "tr": "kahve",
+        "az": "qəhvə",
+        "uk": "кава",
+        "descriptionDE": "Ein aufgebrühtes Getränk aus gerösteten Kaffeebohnen.",
         "descriptionEN": "A brewed drink prepared from roasted coffee beans.",
         "descriptionRU": "Напиток, приготовленный из жареных кофейных зерен.",
-        "descriptionDE": "Ein aufgebrühtes Getränk aus gerösteten Kaffeebohnen."
+        "descriptionTR": "Kavrulmuş kahve çekirdeklerinden hazırlanan demleme içecek.",
+        "descriptionAZ": "Qovrulmuş qəhvə dənələrindən hazırlanmış dəmlənmiş içki.",
+        "descriptionUK": "напій, приготований із смажених кавових зерен."
     }, {
         "de": "die Tasse",
         "en": "cup",
         "ru": "чашка",
+        "tr": "fincan",
+        "az": "stəkən",
+        "uk": "горнятко",
+        "descriptionDE": "Ein kleiner Behälter zum Trinken von Flüssigkeiten.",
         "descriptionEN": "A small container for drinking liquids.",
         "descriptionRU": "Небольшой контейнер для питья жидкостей.",
-        "descriptionDE": "Ein kleiner Behälter zum Trinken von Flüssigkeiten."
+        "descriptionTR": "Sıvı içmek için küçük kap.",
+        "descriptionAZ": "Maye içmək üçün kiçik qab.",
+        "descriptionUK": "невелика ємність для пиття рідин."
     }, {
         "de": "die Mutter",
         "en": "mother",
         "ru": "мать",
+        "tr": "anne",
+        "az": "ana",
+        "uk": "мати",
+        "descriptionDE": "Eine Frau in Beziehung zu ihrem Kind oder ihren Kindern.",
         "descriptionEN": "A woman in relation to her child or children.",
         "descriptionRU": "Женщина по отношению к своему ребенку или детям.",
-        "descriptionDE": "Eine Frau in Beziehung zu ihrem Kind oder ihren Kindern."
+        "descriptionTR": "Çocuğuna veya çocuklarına ait olan kadın.",
+        "descriptionAZ": "Övladına və ya uşaqlarına aid qadın.",
+        "descriptionUK": "жінка у відношенні до своєї дитини або дітей."
     }, {
         "de": "die Schule",
         "en": "school",
         "ru": "школа",
+        "tr": "okul",
+        "az": "məktəb",
+        "uk": "школа",
+        "descriptionDE": "Eine Institution zur Bildung von Kindern.",
         "descriptionEN": "An institution for educating children.",
         "descriptionRU": "Учреждение для обучения детей.",
-        "descriptionDE": "Eine Institution zur Bildung von Kindern."
+        "descriptionTR": "Çocukları eğitmek için bir kurum.",
+        "descriptionAZ": "Uşaqların təhsili üçün bir müəssisə.",
+        "descriptionUK": "установа для навчання дітей."
     }, {
         "de": "die Krankenschwester",
         "en": "nurse",
         "ru": "медсестра",
+        "tr": "hemşire",
+        "az": "tibb bacısı",
+        "uk": "медсестра",
+        "descriptionDE": "Eine Person, die zur Pflege von Kranken oder Gebrechlichen ausgebildet ist.",
         "descriptionEN": "A person trained to care for the sick or infirm.",
         "descriptionRU": "Человек, обученный уходу за больными или немощными.",
-        "descriptionDE": "Eine Person, die zur Pflege von Kranken oder Gebrechlichen ausgebildet ist."
+        "descriptionTR": "Hastalara veya hasta olanlara bakım yapmak için eğitilmiş kişi.",
+        "descriptionAZ": "Xəstə və ya zəif olanlara qulluq etmək üçün təlim keçmiş şəxs.",
+        "descriptionUK": "особа, навчена доглядати за хворими чи немічними."
     }, {
         "de": "der Markt",
         "en": "market",
         "ru": "рынок",
+        "tr": "pazar",
+        "az": "bazar",
+        "uk": "ринок",
+        "descriptionDE": "Ein regelmäßiges Treffen zum Verkauf von Waren.",
         "descriptionEN": "A regular gathering for the sale of goods.",
         "descriptionRU": "Регулярное собрание для продажи товаров.",
-        "descriptionDE": "Ein regelmäßiges Treffen zum Verkauf von Waren."
+        "descriptionTR": "Malları satmak için düzenli toplanma.",
+        "descriptionAZ": "Malların satışı üçün müntəzəm yığıncaq.",
+        "descriptionUK": "регулярне зібрання для продажу товарів."
     }, {
         "de": "die Milch",
         "en": "milk",
         "ru": "молоко",
+        "tr": "süt",
+        "az": "süd",
+        "uk": "молоко",
+        "descriptionDE": "Eine weiße Flüssigkeit, die von Säugetieren als Nahrung für ihre Jungen produziert wird.",
         "descriptionEN": "A white liquid produced by mammals as food for their young.",
         "descriptionRU": "Белая жидкость, производимая млекопитающими для питания своих детенышей.",
-        "descriptionDE": "Eine weiße Flüssigkeit, die von Säugetieren als Nahrung für ihre Jungen produziert wird."
+        "descriptionTR": "Memeliler tarafından yavruları için üretilen beyaz sıvı.",
+        "descriptionAZ": "Məməlilər tərəfindən yavruları üçün istehsal olunan ağ maye.",
+        "descriptionUK": "біла рідина, що виробляється ссавцями для живлення своїх дитинчат."
     }, {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
+        "descriptionDE": "Eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat.",
         "descriptionEN": "A person with whom one has a bond of mutual affection.",
         "descriptionRU": "Человек, с которым есть взаимная привязанность.",
-        "descriptionDE": "Eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat."
+        "descriptionTR": "Karşılıklı sevgi bağı olan kişi.",
+        "descriptionAZ": "Qarşılıqlı məhəbbət bağı olan şəxs.",
+        "descriptionUK": "особа, з якою маєш взаємний зв’язок прихильності."
     }, {
         "de": "der Lehrer",
         "en": "teacher",
         "ru": "учитель",
+        "tr": "öğretmen",
+        "az": "müəllim",
+        "uk": "вчитель",
+        "descriptionDE": "Eine Person, die anderen hilft, Wissen zu erwerben.",
         "descriptionEN": "A person who helps others to acquire knowledge.",
         "descriptionRU": "Человек, который помогает другим приобретать знания.",
-        "descriptionDE": "Eine Person, die anderen hilft, Wissen zu erwerben."
+        "descriptionTR": "Başkasına bilgi kazandıran kişi.",
+        "descriptionAZ": "Başqasına bilik qazandıran şəxs.",
+        "descriptionUK": "особа, що допомагає іншим набувати знань."
     }, {
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
+        "descriptionDE": "Ein Zeitraum von 24 Stunden.",
         "descriptionEN": "A period of 24 hours.",
         "descriptionRU": "Период в 24 часа.",
-        "descriptionDE": "Ein Zeitraum von 24 Stunden."
+        "descriptionTR": "24 saatlik zaman dilimi.",
+        "descriptionAZ": "24 saatlik zaman periodu.",
+        "descriptionUK": "період у 24 години."
     }, {
         "de": "der Morgen",
         "en": "morning",
         "ru": "утро",
+        "tr": "sabah",
+        "az": "səhər",
+        "uk": "ранок",
+        "descriptionDE": "Der frühe Teil des Tages.",
         "descriptionEN": "The early part of the day.",
         "descriptionRU": "Ранняя часть дня.",
-        "descriptionDE": "Der frühe Teil des Tages."
+        "descriptionTR": "Günün erken kısmı.",
+        "descriptionAZ": "Günün erkən hissəsi.",
+        "descriptionUK": "рання частина дня."
     }, {
         "de": "der Nachmittag",
         "en": "afternoon",
         "ru": "день",
+        "tr": "öğleden sonra",
+        "az": "günorta sonrası",
+        "uk": "після обіду",
+        "descriptionDE": "Der Teil des Tages zwischen Mittag und Abend.",
         "descriptionEN": "The part of the day between noon and evening.",
         "descriptionRU": "Часть дня между полуднем и вечером.",
-        "descriptionDE": "Der Teil des Tages zwischen Mittag und Abend."
+        "descriptionTR": "Öğle ile akşam arası olan zaman dilimi.",
+        "descriptionAZ": "Günorta ilə axşam arası vaxt.",
+        "descriptionUK": "період дня між полуднем і вечором."
     }, {
         "de": "trinken",
         "en": "to drink",
         "ru": "пить",
+        "tr": "içmek",
+        "az": "içmək",
+        "uk": "пити",
+        "descriptionDE": "Flüssigkeit in den Mund nehmen und schlucken.",
         "descriptionEN": "To take liquid into the mouth and swallow.",
         "descriptionRU": "Принимать жидкость в рот и глотать.",
-        "descriptionDE": "Flüssigkeit in den Mund nehmen und schlucken."
+        "descriptionTR": "Ağıza sıvı almak ve yutmak.",
+        "descriptionAZ": "Ağıza maye almaq və udmaq.",
+        "descriptionUK": "взяти рідину до рота і проковтнути."
     }, {
         "de": "gehen",
         "en": "to go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
+        "descriptionDE": "Von einem Ort zum anderen bewegen.",
         "descriptionEN": "To move from one place to another.",
         "descriptionRU": "Двигаться из одного места в другое.",
-        "descriptionDE": "Von einem Ort zum anderen bewegen."
+        "descriptionTR": "Bir yerden başka bir yere hareket etmek.",
+        "descriptionAZ": "Bir yerdən başqa yerə hərəkət etmək.",
+        "descriptionUK": "переміщатися з одного місця в інше."
     }, {
         "de": "kaufen",
         "en": "to buy",
         "ru": "покупать",
+        "tr": "satın almak",
+        "az": "almaq",
+        "uk": "купувати",
+        "descriptionDE": "Im Austausch für Geld erwerben.",
         "descriptionEN": "To acquire in exchange for money.",
         "descriptionRU": "Приобретать в обмен на деньги.",
-        "descriptionDE": "Im Austausch für Geld erwerben."
+        "descriptionTR": "Para karşılığında satın almak.",
+        "descriptionAZ": "Pul müqabilində əldə etmək.",
+        "descriptionUK": "придбати в обмін на гроші."
     }, {
         "de": "lachen",
         "en": "to laugh",
         "ru": "смеяться",
+        "tr": "gülmek",
+        "az": "gülmək",
+        "uk": "сміятися",
+        "descriptionDE": "Geräusche des Amüsements machen.",
         "descriptionEN": "To make sounds of amusement.",
         "descriptionRU": "Издавать звуки веселья.",
-        "descriptionDE": "Geräusche des Amüsements machen."
+        "descriptionTR": "Eğlence sesleri çıkarmak.",
+        "descriptionAZ": "Əyləncə səsləri çıxarmaq.",
+        "descriptionUK": "видавати звуки розваги."
     }, {
         "de": "sagen",
         "en": "to say",
         "ru": "сказать",
+        "tr": "söylemek",
+        "az": "demək",
+        "uk": "сказати",
+        "descriptionDE": "Worte äußern, um Informationen zu vermitteln.",
         "descriptionEN": "To utter words so as to convey information.",
         "descriptionRU": "Произносить слова, чтобы передать информацию.",
-        "descriptionDE": "Worte äußern, um Informationen zu vermitteln."
+        "descriptionTR": "Bilgi vermek amaçlı söz söylemek.",
+        "descriptionAZ": "Məlumat ötürmək məqsədi ilə söz demək.",
+        "descriptionUK": "виголошувати слова, щоб передати інформацію."
     }, {
         "de": "schlafen",
         "en": "to sleep",
         "ru": "спать",
+        "tr": "uyumak",
+        "az": "yatmaq",
+        "uk": "спати",
+        "descriptionDE": "Im Zustand der Ruhe sein.",
         "descriptionEN": "To be in a state of rest.",
         "descriptionRU": "Находиться в состоянии отдыха.",
-        "descriptionDE": "Im Zustand der Ruhe sein."
+        "descriptionTR": "Dinlenme halinde olmak.",
+        "descriptionAZ": "İstirahət vəziyyətində olmaq.",
+        "descriptionUK": "бути в стані відпочинку."
     }, {
         "de": "müde",
         "en": "tired",
         "ru": "уставший",
+        "tr": "yorgun",
+        "az": "yorğun",
+        "uk": "втомлений",
+        "descriptionDE": "Bedürftig von Ruhe oder Schlaf.",
         "descriptionEN": "In need of rest or sleep.",
         "descriptionRU": "Нуждающийся в отдыхе или сне.",
-        "descriptionDE": "Bedürftig von Ruhe oder Schlaf."
+        "descriptionTR": "Dinlenme veya uyku ihtiyacı olan.",
+        "descriptionAZ": "İstirahət və ya yuxu ehtiyacı olan.",
+        "descriptionUK": "потребує відпочинку або сну."
     }, {
         "de": "schlecht",
         "en": "bad",
         "ru": "плохой",
+        "tr": "kötü",
+        "az": "pis",
+        "uk": "поганий",
+        "descriptionDE": "Von schlechter Qualität oder niedrigem Standard.",
         "descriptionEN": "Of poor quality or a low standard.",
         "descriptionRU": "Плохого качества или низкого стандарта.",
-        "descriptionDE": "Von schlechter Qualität oder niedrigem Standard."
+        "descriptionTR": "Kötü kalite veya düşük standartta olan.",
+        "descriptionAZ": "Pis keyfiyyətdə və ya aşağı standartda olan.",
+        "descriptionUK": "поганої якості або низького стандарту."
     }, {
         "de": "wütend",
         "en": "angry",
         "ru": "злой",
+        "tr": "öfkeli",
+        "az": "qəzəbli",
+        "uk": "злий",
+        "descriptionDE": "Gefühl oder zeigen von starkem Ärger.",
         "descriptionEN": "Feeling or showing strong annoyance.",
         "descriptionRU": "Чувство или демонстрация сильного раздражения.",
-        "descriptionDE": "Gefühl oder zeigen von starkem Ärger."
+        "descriptionTR": "Şiddetli kızgınlık hissetmek veya göstermek.",
+        "descriptionAZ": "Güclü əsəbi hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчувати або проявляти сильне роздратування."
     }, {
         "de": "leicht",
         "en": "easy",
         "ru": "легкий",
+        "tr": "kolay",
+        "az": "asandır",
+        "uk": "легкий",
+        "descriptionDE": "Ohne großen Aufwand erreicht.",
         "descriptionEN": "Achieved without great effort.",
         "descriptionRU": "Достигнуто без больших усилий.",
-        "descriptionDE": "Ohne großen Aufwand erreicht."
+        "descriptionTR": "Büyük çaba olmadan başarılmış.",
+        "descriptionAZ": "Böyük səy göstərmədən əldə edilmiş.",
+        "descriptionUK": "досягнуто без великих зусиль."
     }, {
         "de": "schwer",
         "en": "difficult",
         "ru": "трудный",
+        "tr": "zor",
+        "az": "çətin",
+        "uk": "важкий",
+        "descriptionDE": "Benötigt viel Aufwand, um es zu erreichen.",
         "descriptionEN": "Needing much effort to accomplish.",
         "descriptionRU": "Требует больших усилий для выполнения.",
-        "descriptionDE": "Benötigt viel Aufwand, um es zu erreichen."
+        "descriptionTR": "Başarmak için çok çaba gerektirir.",
+        "descriptionAZ": "Uğur qazanmaq üçün çox səylə tələb olunur.",
+        "descriptionUK": "потребує великих зусиль для виконання."
     }, {
         "de": "gut",
         "en": "good",
         "ru": "хороший",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добрий",
+        "descriptionDE": "Gewünscht oder genehmigt.",
         "descriptionEN": "To be desired or approved of.",
         "descriptionRU": "Желанный или одобряемый.",
-        "descriptionDE": "Gewünscht oder genehmigt."
+        "descriptionTR": "Arzu edilen veya onaylanan.",
+        "descriptionAZ": "İstənilən və ya təsdiq olunan.",
+        "descriptionUK": "бажаний або схвалений."
     }, {
         "de": "irgendwann",
         "en": "eventually",
         "ru": "в конце концов",
+        "tr": "en sonunda",
+        "az": "nəhayət",
+        "uk": "зрештою",
+        "descriptionDE": "Zu einem späteren Zeitpunkt.",
         "descriptionEN": "At some later time.",
         "descriptionRU": "В какой-то момент позже.",
-        "descriptionDE": "Zu einem späteren Zeitpunkt."
+        "descriptionTR": "Daha sonraki bir zamanda.",
+        "descriptionAZ": "Sonrakı bir vaxtda.",
+        "descriptionUK": "у якийсь пізніший час."
     }
 ]

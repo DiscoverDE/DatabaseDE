@@ -3,176 +3,326 @@
         "de": "die Sommerferien",
         "en": "summer vacation",
         "ru": "летние каникулы",
+        "tr": "yaz tatili",
+        "az": "yay tətili",
+        "uk": "літні канікули",
         "descriptionEN": "A period of vacation during the summer months.",
         "descriptionRU": "Период отдыха летом.",
-        "descriptionDE": "Eine Zeit des Urlaubs in den Sommermonaten."
+        "descriptionDE": "Eine Zeit des Urlaubs in den Sommermonaten.",
+        "descriptionTR": "Yaz aylarında bir tatil dönemi.",
+        "descriptionAZ": "Yay aylarında bir tətil dövrü.",
+        "descriptionUK": "Період відпочинку влітку."
     }, {
         "de": "der Großvater",
         "en": "grandfather",
         "ru": "дедушка",
+        "tr": "büyükbaba",
+        "az": "baba",
+        "uk": "дідусь",
         "descriptionEN": "The father of one's parent.",
         "descriptionRU": "Отец одного из родителей.",
-        "descriptionDE": "Der Vater eines Elternteils."
+        "descriptionDE": "Der Vater eines Elternteils.",
+        "descriptionTR": "Bir kişinin ebeveyninin babası.",
+        "descriptionAZ": "Bir insanın valideyninin atası.",
+        "descriptionUK": "Батько одного з батьків."
     }, {
         "de": "die Festung",
         "en": "fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
         "descriptionEN": "A large, strong building used for defense.",
         "descriptionRU": "Большое, прочное здание, используемое для обороны.",
-        "descriptionDE": "Ein großes, starkes Gebäude, das zur Verteidigung verwendet wird."
+        "descriptionDE": "Ein großes, starkes Gebäude, das zur Verteidigung verwendet wird.",
+        "descriptionTR": "Savunma için kullanılan büyük, sağlam bir bina.",
+        "descriptionAZ": "Müdafiə üçün istifadə olunan böyük, möhkəm bina.",
+        "descriptionUK": "Велика, міцна будівля, що використовується для оборони."
     }, {
         "de": "das Denkmal",
         "en": "monument",
         "ru": "памятник",
+        "tr": "anıt",
+        "az": "abidə",
+        "uk": "пам'ятник",
         "descriptionEN": "A structure erected to commemorate a person or event.",
         "descriptionRU": "Структура, возведенная в честь человека или события.",
-        "descriptionDE": "Ein Bauwerk, das zur Erinnerung an eine Person oder ein Ereignis errichtet wird."
+        "descriptionDE": "Ein Bauwerk, das zur Erinnerung an eine Person oder ein Ereignis errichtet wird.",
+        "descriptionTR": "Bir kişiyi veya olayı anmak için dikilen bir yapı.",
+        "descriptionAZ": "Bir şəxsi və ya hadisəni xatırlamaq üçün qoyulmuş quruluş.",
+        "descriptionUK": "Споруда, зведена на честь людини чи події."
     }, {
         "de": "die Aussicht",
         "en": "view",
         "ru": "вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionEN": "The visual perception of a scene or landscape.",
         "descriptionRU": "Визуальное восприятие сцены или пейзажа.",
-        "descriptionDE": "Die visuelle Wahrnehmung einer Szene oder Landschaft."
+        "descriptionDE": "Die visuelle Wahrnehmung einer Szene oder Landschaft.",
+        "descriptionTR": "Bir sahnenin veya manzaranın görsel algısı.",
+        "descriptionAZ": "Bir səhnənin və ya mənzərənin vizual qavranışı.",
+        "descriptionUK": "Візуальне сприйняття сцени чи пейзажу."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events.",
         "descriptionRU": "Изучение прошлых событий.",
-        "descriptionDE": "Die Studie vergangener Ereignisse."
+        "descriptionDE": "Die Studie vergangener Ereignisse.",
+        "descriptionTR": "Geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren",
+        "az": "Reyn",
+        "uk": "Рейн",
         "descriptionEN": "A major European river flowing through Germany and the Netherlands.",
         "descriptionRU": "Основная европейская река, протекающая через Германию и Нидерланды.",
-        "descriptionDE": "Ein wichtiger europäischer Fluss, der durch Deutschland und die Niederlande fließt."
+        "descriptionDE": "Ein wichtiger europäischer Fluss, der durch Deutschland und die Niederlande fließt.",
+        "descriptionTR": "Almanya ve Hollanda'dan geçen büyük bir Avrupa nehri.",
+        "descriptionAZ": "Almaniya və Niderlanddan keçən böyük bir Avropa çayı.",
+        "descriptionUK": "Велика європейська річка, що протікає через Німеччину та Нідерланди."
     }, {
         "de": "die Statue",
         "en": "statue",
         "ru": "статуя",
+        "tr": "heykel",
+        "az": "heykəl",
+        "uk": "статуя",
         "descriptionEN": "A sculpture representing a person or animal.",
         "descriptionRU": "Скульптура, изображающая человека или животное.",
-        "descriptionDE": "Eine Skulptur, die eine Person oder ein Tier darstellt."
+        "descriptionDE": "Eine Skulptur, die eine Person oder ein Tier darstellt.",
+        "descriptionTR": "Bir kişiyi veya hayvanı temsil eden bir heykel.",
+        "descriptionAZ": "Bir insanı və ya heyvanı təsvir edən heykəl.",
+        "descriptionUK": "Скульптура, що зображує людину чи тварину."
     }, {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "ріка",
         "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
         "descriptionRU": "Большой естественный поток воды, текущий в русле к морю, озеру или другой реке.",
-        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserstrom, der in einem Bett zum Meer, einem See oder einem anderen Fluss fließt.",
+        "descriptionTR": "Denize, göle veya başka bir nehre akan büyük doğal bir su akıntısı.",
+        "descriptionAZ": "Dənizə, gölə və ya başqa çaya axan böyük təbii su axını.",
+        "descriptionUK": "Великий природний потік води, що тече руслом до моря, озера чи іншої ріки."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionEN": "A large and significant town.",
         "descriptionRU": "Большой и значимый населенный пункт.",
-        "descriptionDE": "Eine große und bedeutende Stadt."
+        "descriptionDE": "Eine große und bedeutende Stadt.",
+        "descriptionTR": "Büyük ve önemli bir kasaba.",
+        "descriptionAZ": "Böyük və əhəmiyyətli bir yaşayış məntəqəsi.",
+        "descriptionUK": "Велике й значне населене місце."
     }, {
         "de": "die Leckerei",
         "en": "treat",
         "ru": "угощение",
+        "tr": "ikram",
+        "az": "zövq",
+        "uk": "ласощі",
         "descriptionEN": "A delightful or appetizing food or drink.",
         "descriptionRU": "Вкусная или аппетитная еда или напиток.",
-        "descriptionDE": "Ein köstliches oder appetitanregendes Lebensmittel oder Getränk."
+        "descriptionDE": "Ein köstliches oder appetitanregendes Lebensmittel oder Getränk.",
+        "descriptionTR": "Keyif veren veya iştah açıcı bir yiyecek veya içecek.",
+        "descriptionAZ": "Zövqlü və ya iştah açan bir yemək və ya içki.",
+        "descriptionUK": "Смачна чи апетитна їжа чи напій."
     }, {
         "de": "der Rucksack",
         "en": "backpack",
         "ru": "рюкзак",
+        "tr": "sırt çantası",
+        "az": "bel çantası",
+        "uk": "рюкзак",
         "descriptionEN": "A bag with shoulder straps carried on the back.",
         "descriptionRU": "Сумка с лямками, носимая на спине.",
-        "descriptionDE": "Eine Tasche mit Schulterriemen, die auf dem Rücken getragen wird."
+        "descriptionDE": "Eine Tasche mit Schulterriemen, die auf dem Rücken getragen wird.",
+        "descriptionTR": "Omuz kayışları olan ve sırtta taşınan bir çanta.",
+        "descriptionAZ": "Çiyin kəmərləri olan və beldə daşınan bir çanta.",
+        "descriptionUK": "Сумка з лямками, що носиться на спині."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "To perceive with the eyes.",
         "descriptionRU": "Воспринимать глазами.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "Сприймати очима."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "To take pleasure in something.",
         "descriptionRU": "Получать удовольствие от чего-либо.",
-        "descriptionDE": "Vergnügen an etwas haben."
+        "descriptionDE": "Vergnügen an etwas haben.",
+        "descriptionTR": "Bir şeyden zevk almak.",
+        "descriptionAZ": "Bir şeydən həzz almaq.",
+        "descriptionUK": "Отримувати задоволення від чогось."
     }, {
         "de": "erforschen",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To investigate or examine something thoroughly.",
         "descriptionRU": "Тщательно исследовать или проверять что-то.",
-        "descriptionDE": "Etwas gründlich untersuchen oder prüfen."
+        "descriptionDE": "Etwas gründlich untersuchen oder prüfen.",
+        "descriptionTR": "Bir şeyi derinlemesine araştırmak veya incelemek.",
+        "descriptionAZ": "Bir şeyi hərtərəfli araşdırmaq və ya yoxlamaq.",
+        "descriptionUK": "Ретельно досліджувати чи перевіряти щось."
     }, {
         "de": "skizzieren",
         "en": "to sketch",
         "ru": "набросать",
+        "tr": "taslak çizmek",
+        "az": "eskiz çəkmək",
+        "uk": "накреслити",
         "descriptionEN": "To make a rough drawing of something.",
         "descriptionRU": "Сделать грубый рисунок чего-либо.",
-        "descriptionDE": "Eine grobe Zeichnung von etwas machen."
+        "descriptionDE": "Eine grobe Zeichnung von etwas machen.",
+        "descriptionTR": "Bir şeyin kabaca bir çizimini yapmak.",
+        "descriptionAZ": "Bir şeyin təxmini bir rəsm çəkmək.",
+        "descriptionUK": "Зробити грубий малюнок чогось."
     }, {
         "de": "fotografieren",
         "en": "to photograph",
         "ru": "фотографировать",
+        "tr": "fotoğraf çekmek",
+        "az": "foto çəkmək",
+        "uk": "фотографувати",
         "descriptionEN": "To take a picture with a camera.",
         "descriptionRU": "Сделать снимок с помощью камеры.",
-        "descriptionDE": "Ein Bild mit einer Kamera machen."
+        "descriptionDE": "Ein Bild mit einer Kamera machen.",
+        "descriptionTR": "Bir kamerayla fotoğraf çekmek.",
+        "descriptionAZ": "Bir kamerayla şəkil çəkmək.",
+        "descriptionUK": "Зробити знімок за допомогою камери."
     }, {
         "de": "spazieren",
         "en": "to walk",
         "ru": "гулять",
+        "tr": "yürüyüş yapmak",
+        "az": "gəzmək",
+        "uk": "гуляти",
         "descriptionEN": "To move at a regular pace by lifting and setting down each foot in turn.",
         "descriptionRU": "Двигаться в регулярном темпе, поднимая и ставя каждую ногу по очереди.",
-        "descriptionDE": "Sich in regelmäßigem Tempo fortbewegen, indem man abwechselnd einen Fuß hebt und absetzt."
+        "descriptionDE": "Sich in regelmäßigem Tempo fortbewegen, indem man abwechselnd einen Fuß hebt und absetzt.",
+        "descriptionTR": "Her bir ayağı sırayla kaldırarak ve indirerek düzenli bir tempoda hareket etmek.",
+        "descriptionAZ": "Hər ayağı növbə ilə qaldıraraq və endirərək müntəzəm tempdə hərəkət etmək.",
+        "descriptionUK": "Пересуватися в регулярному темпі, піднімаючи й ставлячи кожну ногу по черзі."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Приятный для органов чувств или ума эстетически.",
-        "descriptionDE": "Ästhetisch angenehm für die Sinne oder den Verstand."
+        "descriptionDE": "Ästhetisch angenehm für die Sinne oder den Verstand.",
+        "descriptionTR": "Duyulara veya zihne estetik açıdan hoş gelen.",
+        "descriptionAZ": "Duyğulara və ya ağıla estetik baxımdan xoş gələn.",
+        "descriptionUK": "Приємний для органів чуття чи розуму естетично."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Relating to history or past events.",
         "descriptionRU": "Относящийся к истории или прошлым событиям.",
-        "descriptionDE": "Geschichte oder vergangenen Ereignissen betreffend."
+        "descriptionDE": "Geschichte oder vergangenen Ereignissen betreffend.",
+        "descriptionTR": "Tarih veya geçmiş olaylarla ilgili.",
+        "descriptionAZ": "Tarix və ya keçmiş hadisələrlə bağlı.",
+        "descriptionUK": "Стосується історії чи минулих подій."
     }, {
         "de": "spannend",
         "en": "exciting",
         "ru": "волнующий",
+        "tr": "heyecan verici",
+        "az": "həyəcanverici",
+        "uk": "хвилюючий",
         "descriptionEN": "Causing great enthusiasm and eagerness.",
         "descriptionRU": "Вызывающий большой энтузиазм и нетерпение.",
-        "descriptionDE": "Große Begeisterung und Eifer hervorrufend."
+        "descriptionDE": "Große Begeisterung und Eifer hervorrufend.",
+        "descriptionTR": "Büyük bir heves ve istek uyandıran.",
+        "descriptionAZ": "Böyük bir həvəs və istək oyadan.",
+        "descriptionUK": "Викликає великий ентузіазм і нетерпіння."
     }, {
         "de": "wunderbar",
         "en": "wonderful",
         "ru": "чудесный",
+        "tr": "harika",
+        "az": "möcüzəli",
+        "uk": "чудовий",
         "descriptionEN": "Inspiring delight or admiration.",
         "descriptionRU": "Вдохновляющий восторг или восхищение.",
-        "descriptionDE": "Begeisterung oder Bewunderung inspirierend."
+        "descriptionDE": "Begeisterung oder Bewunderung inspirierend.",
+        "descriptionTR": "Neşe veya hayranlık uyandıran.",
+        "descriptionAZ": "Sevinc və ya heyranlıq oyadan.",
+        "descriptionUK": "Надихає захват чи захоплення."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionEN": "Of limited size or extent.",
         "descriptionRU": "Ограниченный по размеру или протяженности.",
-        "descriptionDE": "Begrenzt in Größe oder Umfang."
+        "descriptionDE": "Begrenzt in Größe oder Umfang.",
+        "descriptionTR": "Sınırlı boyut veya kapsamda.",
+        "descriptionAZ": "Məhdud ölçüdə və ya əhatə dairəsində.",
+        "descriptionUK": "Обмежений за розміром чи протяжністю."
     }, {
         "de": "lecker",
         "en": "tasty",
         "ru": "вкусный",
+        "tr": "lezzetli",
+        "az": "dadlı",
+        "uk": "смачний",
         "descriptionEN": "Having a pleasant taste.",
         "descriptionRU": "Имеющий приятный вкус.",
-        "descriptionDE": "Einen angenehmen Geschmack haben."
+        "descriptionDE": "Einen angenehmen Geschmack haben.",
+        "descriptionTR": "Hoş bir tada sahip olmak.",
+        "descriptionAZ": "Xoş bir dada malik olmaq.",
+        "descriptionUK": "Має приємний смак."
     }, {
         "de": "schnell",
         "en": "fast",
         "ru": "быстрый",
+        "tr": "hızlı",
+        "az": "sürətli",
+        "uk": "швидкий",
         "descriptionEN": "Moving or capable of moving at high speed.",
         "descriptionRU": "Двигающийся или способный двигаться с высокой скоростью.",
-        "descriptionDE": "Sich mit hoher Geschwindigkeit bewegen oder bewegen können."
+        "descriptionDE": "Sich mit hoher Geschwindigkeit bewegen oder bewegen können.",
+        "descriptionTR": "Yüksek hızda hareket eden veya edebilen.",
+        "descriptionAZ": "Yüksək sürətlə hərəkət edən və ya edə bilən.",
+        "descriptionUK": "Рухається чи здатний рухатися з високою швидкістю."
     }
 ]

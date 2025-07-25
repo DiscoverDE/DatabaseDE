@@ -5,209 +5,389 @@
         "ru": "очарование",
         "descriptionEN": "the power or quality of giving delight or arousing admiration",
         "descriptionRU": "сила или качество, придающее восторг или вызывающее восхищение",
-        "descriptionDE": "die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu wecken"
+        "descriptionDE": "die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu wecken",
+        "tr": "çekicilik",
+        "az": "cazibə",
+        "uk": "чарівність",
+        "descriptionTR": "zevk veren veya hayranlık uyandıran güç veya nitelik",
+        "descriptionAZ": "zövq verən və ya heyranlıq doğuran güc və ya keyfiyyət",
+        "descriptionUK": "сила або якість, що викликає насолоду або захоплення"
     }, {
         "de": "die Ecke",
         "en": "corner",
         "ru": "угол",
         "descriptionEN": "the point at which converging lines or surfaces meet",
         "descriptionRU": "точка, в которой сходятся сходящиеся линии или поверхности",
-        "descriptionDE": "der Punkt, an dem konvergierende Linien oder Flächen zusammentreffen"
+        "descriptionDE": "der Punkt, an dem konvergierende Linien oder Flächen zusammentreffen",
+        "tr": "köşe",
+        "az": "künc",
+        "uk": "кут",
+        "descriptionTR": "birleşen çizgilerin veya yüzeylerin buluştuğu nokta",
+        "descriptionAZ": "yaxınlaşan xətlərin və ya səthlərin görüşdüyü nöqtə",
+        "descriptionUK": "точка, в якій сходяться лінії або поверхні"
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
         "descriptionEN": "a long-established custom or belief passed on from generation to generation",
         "descriptionRU": "долго установившийся обычай или вера, передаваемые из поколения в поколение",
-        "descriptionDE": "eine lange bestehende Sitte oder Überzeugung, die von Generation zu Generation weitergegeben wird"
+        "descriptionDE": "eine lange bestehende Sitte oder Überzeugung, die von Generation zu Generation weitergegeben wird",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
+        "descriptionTR": "nesilden nesile aktarılan, köklü bir gelenek veya inanç",
+        "descriptionAZ": "nəsildən nəslə keçən, uzun müddətdir davam edən adət və ya inanc",
+        "descriptionUK": "давня традиція або вірування, що передається з покоління в покоління"
     }, {
         "de": "der Besuch",
         "en": "visit",
         "ru": "посещение",
         "descriptionEN": "the act of going to see someone or something",
         "descriptionRU": "действие посещения кого-то или чего-то",
-        "descriptionDE": "das Handeln des Aufsuchens von jemandem oder etwas"
+        "descriptionDE": "das Handeln des Aufsuchens von jemandem oder etwas",
+        "tr": "ziyaret",
+        "az": "ziyarət",
+        "uk": "візит",
+        "descriptionTR": "birini veya bir şeyi görmeye gitme eylemi",
+        "descriptionAZ": "kimisə və ya nəyisə görməyə getmə hərəkəti",
+        "descriptionUK": "дія відвідування когось або чогось"
     }, {
         "de": "das Fest",
         "en": "celebration",
         "ru": "празднование",
         "descriptionEN": "the action of marking one's pleasure at an important event or occasion",
         "descriptionRU": "действие выражения своего удовлетворения важным событием или случаем",
-        "descriptionDE": "die Handlung, seine Freude über ein wichtiges Ereignis oder einen Anlass auszudrücken"
+        "descriptionDE": "die Handlung, seine Freude über ein wichtiges Ereignis oder einen Anlass auszudrücken",
+        "tr": "kutlama",
+        "az": "bayram",
+        "uk": "святкування",
+        "descriptionTR": "önemli bir olay veya vesileyle duyulan hazzı işaretleme eylemi",
+        "descriptionAZ": "vacib bir hadisə və ya münasibətlə öz məmnuniyyətini qeyd etmə hərəkəti",
+        "descriptionUK": "дія, що відзначає задоволення важливою подією або нагодою"
     }, {
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
         "descriptionEN": "a festive season occurring before Lent",
         "descriptionRU": "праздничный сезон, предшествующий Великому посту",
-        "descriptionDE": "eine festliche Jahreszeit vor der Fastenzeit"
+        "descriptionDE": "eine festliche Jahreszeit vor der Fastenzeit",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
+        "descriptionTR": "Büyük Perhiz'den önce gerçekleşen şenlikli bir sezon",
+        "descriptionAZ": "Böyük Orucluqdan əvvəl baş verən bayram mövsümü",
+        "descriptionUK": "святковий сезон, що відбувається перед Великим постом"
     }, {
         "de": "der Zoo",
         "en": "zoo",
         "ru": "зоопарк",
         "descriptionEN": "an establishment that maintains a collection of wild animals",
         "descriptionRU": "учреждение, содержащее коллекцию диких животных",
-        "descriptionDE": "eine Einrichtung, die eine Sammlung von wilden Tieren pflegt"
+        "descriptionDE": "eine Einrichtung, die eine Sammlung von wilden Tieren pflegt",
+        "tr": "hayvanat bahçesi",
+        "az": "zoopark",
+        "uk": "зоопарк",
+        "descriptionTR": "vahşi hayvan koleksiyonunu barındıran bir kuruluş",
+        "descriptionAZ": "vəhşi heyvanlar kolleksiyasını saxlayan bir müəssisə",
+        "descriptionUK": "установа, яка утримує колекцію диких тварин"
     }, {
         "de": "der Wald",
         "en": "forest",
         "ru": "лес",
         "descriptionEN": "a large area covered chiefly with trees and undergrowth",
         "descriptionRU": "большая территория, в основном покрытая деревьями и подлеском",
-        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Unterholz bedeckt ist"
+        "descriptionDE": "eine große Fläche, die hauptsächlich mit Bäumen und Unterholz bedeckt ist",
+        "tr": "orman",
+        "az": "meşə",
+        "uk": "ліс",
+        "descriptionTR": "esas olarak ağaçlar ve çalılıklarla kaplı geniş bir alan",
+        "descriptionAZ": "əsasən ağaclar və kol bitkiləri ilə örtülmüş geniş ərazi",
+        "descriptionUK": "велика територія, вкрита переважно деревами та підліском"
     }, {
         "de": "der Sinn",
         "en": "sense",
         "ru": "смысл",
         "descriptionEN": "a faculty by which the body perceives an external stimulus",
         "descriptionRU": "способность, с помощью которой тело воспринимает внешний стимул",
-        "descriptionDE": "eine Fähigkeit, durch die der Körper einen äußeren Reiz wahrnimmt"
+        "descriptionDE": "eine Fähigkeit, durch die der Körper einen äußeren Reiz wahrnimmt",
+        "tr": "duyu",
+        "az": "hiss",
+        "uk": "відчуття",
+        "descriptionTR": "vücudun dış bir uyaranı algıladığı bir yetenek",
+        "descriptionAZ": "orqanizmin xarici stimulu qəbul etdiyi bir qabiliyyət",
+        "descriptionUK": "здатність, за допомогою якої тіло сприймає зовнішній стимул"
     }, {
         "de": "die Nachhaltigkeit",
         "en": "sustainability",
         "ru": "устойчивость",
         "descriptionEN": "the ability to be maintained at a certain rate or level",
         "descriptionRU": "способность поддерживаться на определенном уровне или уровне",
-        "descriptionDE": "die Fähigkeit, auf einem bestimmten Niveau oder einer bestimmten Rate aufrechterhalten zu werden"
+        "descriptionDE": "die Fähigkeit, auf einem bestimmten Niveau oder einer bestimmten Rate aufrechterhalten zu werden",
+        "tr": "sürdürülebilirlik",
+        "az": "dayanıqlılıq",
+        "uk": "сталість",
+        "descriptionTR": "belirli bir oranda veya seviyede sürdürülebilme yeteneği",
+        "descriptionAZ": "müəyyən bir sürətdə və ya səviyyədə qorunmaq qabiliyyəti",
+        "descriptionUK": "здатність підтримуватися на певному рівні або темпі"
     }, {
         "de": "der Verkehr",
         "en": "traffic",
         "ru": "движение",
         "descriptionEN": "vehicles moving on a road or public highway",
         "descriptionRU": "транспортные средства, движущиеся по дороге или общественной автомагистрали",
-        "descriptionDE": "Fahrzeuge, die auf einer Straße oder öffentlichen Autobahn fahren"
+        "descriptionDE": "Fahrzeuge, die auf einer Straße oder öffentlichen Autobahn fahren",
+        "tr": "trafik",
+        "az": "nəqliyyat",
+        "uk": "рух",
+        "descriptionTR": "bir yolda veya karayolunda hareket eden araçlar",
+        "descriptionAZ": "yolda və ya ictimai magistral yolda hərəkət edən nəqliyyat vasitələri",
+        "descriptionUK": "транспортні засоби, що рухаються по дорозі або автомагістралі"
     }, {
         "de": "die Umweltverschmutzung",
         "en": "environmental pollution",
         "ru": "загрязнение окружающей среды",
         "descriptionEN": "the presence in or introduction into the environment of contaminants",
         "descriptionRU": "присутствие в окружающей среде или введение в нее загрязнителей",
-        "descriptionDE": "das Vorhandensein von Schadstoffen in der Umwelt oder deren Einbringung"
+        "descriptionDE": "das Vorhandensein von Schadstoffen in der Umwelt oder deren Einbringung",
+        "tr": "çevre kirliliği",
+        "az": "ətraf mühitin çirklənməsi",
+        "uk": "забруднення довкілля",
+        "descriptionTR": "kirleticilerin çevrede bulunması veya çevreye sokulması",
+        "descriptionAZ": "çirkləndiricilərin ətraf mühitdə olması və ya ona daxil edilməsi",
+        "descriptionUK": "присутність або потрапляння забруднюючих речовин у навколишнє середовище"
     }, {
         "de": "der Fußabdruck",
         "en": "footprint",
         "ru": "след",
         "descriptionEN": "a mark of a foot or shoe on a surface",
         "descriptionRU": "след ноги или обуви на поверхности",
-        "descriptionDE": "eine Markierung eines Fußes oder Schuhs auf einer Oberfläche"
+        "descriptionDE": "eine Markierung eines Fußes oder Schuhs auf einer Oberfläche",
+        "tr": "ayak izi",
+        "az": "ayaq izi",
+        "uk": "слід",
+        "descriptionTR": "bir yüzeyde ayak veya ayakkabı izi",
+        "descriptionAZ": "ayağın və ya ayaqqabının səthdə qoyduğu iz",
+        "descriptionUK": "слід ноги або взуття на поверхні"
     }, {
         "de": "der Sinn",
         "en": "meaning",
         "ru": "значение",
         "descriptionEN": "what is meant by a word, text, concept, or action",
         "descriptionRU": "то, что означается словом, текстом, концепцией или действием",
-        "descriptionDE": "was durch ein Wort, einen Text, ein Konzept oder eine Handlung gemeint ist"
+        "descriptionDE": "was durch ein Wort, einen Text, ein Konzept oder eine Handlung gemeint ist",
+        "tr": "anlam",
+        "az": "məna",
+        "uk": "значення",
+        "descriptionTR": "bir kelime, metin, kavram veya eylemle kastedilen şey",
+        "descriptionAZ": "söz, mətn, konsepsiya və ya hərəkətlə nəzərdə tutulan",
+        "descriptionUK": "те, що мається на увазі словом, текстом, поняттям або дією"
     }, {
         "de": "die Gemeinschaft",
         "en": "community",
         "ru": "сообщество",
         "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
         "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику",
-        "descriptionDE": "eine Gruppe von Menschen, die am selben Ort lebt oder eine bestimmte Eigenschaft gemeinsam hat"
+        "descriptionDE": "eine Gruppe von Menschen, die am selben Ort lebt oder eine bestimmte Eigenschaft gemeinsam hat",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "спільнота",
+        "descriptionTR": "aynı yerde yaşayan veya ortak bir özelliği olan bir grup insan",
+        "descriptionAZ": "eyni yerdə yaşayan və ya müəyyən bir xüsusiyyəti ortaq olan bir qrup insan",
+        "descriptionUK": "група людей, що проживають в одному місці або мають спільну певну характеристику"
     }, {
         "de": "die Möglichkeit",
         "en": "possibility",
         "ru": "возможность",
         "descriptionEN": "a thing that may happen or be the case",
         "descriptionRU": "то, что может произойти или быть случаем",
-        "descriptionDE": "eine Sache, die passieren oder der Fall sein kann"
+        "descriptionDE": "eine Sache, die passieren oder der Fall sein kann",
+        "tr": "ihtimal",
+        "az": "ehtimal",
+        "uk": "можливість",
+        "descriptionTR": "olabilecek veya olası bir şey",
+        "descriptionAZ": "baş verə biləcək və ya ola biləcək bir şey",
+        "descriptionUK": "річ, яка може статися або бути істинною"
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
         "descriptionEN": "the ideas, customs, and social behavior of a particular people or society",
         "descriptionRU": "идеи, обычаи и социальное поведение определенного народа или общества",
-        "descriptionDE": "die Ideen, Bräuche und soziales Verhalten eines bestimmten Volkes oder einer Gesellschaft"
+        "descriptionDE": "die Ideen, Bräuche und soziales Verhalten eines bestimmten Volkes oder einer Gesellschaft",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
+        "descriptionTR": "belirli bir halkın veya toplumun fikirleri, gelenekleri ve sosyal davranışları",
+        "descriptionAZ": "müəyyən bir xalqın və ya cəmiyyətin ideyaları, adətləri və sosial davranışı",
+        "descriptionUK": "ідеї, звичаї та соціальна поведінка певного народу чи суспільства"
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
         "descriptionEN": "the transmission of customs or beliefs from generation to generation",
         "descriptionRU": "передача обычаев или верований из поколения в поколение",
-        "descriptionDE": "die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation"
+        "descriptionDE": "die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
+        "descriptionTR": "adetlerin veya inançların nesilden nesile aktarılması",
+        "descriptionAZ": "adət və ya inancların nəsildən nəslə ötürülməsi",
+        "descriptionUK": "передача звичаїв або вірувань від покоління до покоління"
     }, {
         "de": "schnell",
         "en": "quickly",
         "ru": "быстро",
         "descriptionEN": "at a fast speed",
         "descriptionRU": "на высокой скорости",
-        "descriptionDE": "mit hoher Geschwindigkeit"
+        "descriptionDE": "mit hoher Geschwindigkeit",
+        "tr": "hızlıca",
+        "az": "sürətlə",
+        "uk": "швидко",
+        "descriptionTR": "hızlı bir şekilde",
+        "descriptionAZ": "yüksək sürətlə",
+        "descriptionUK": "на високій швидкості"
     }, {
         "de": "ruhig",
         "en": "calmly",
         "ru": "спокойно",
         "descriptionEN": "in a peaceful and relaxed manner",
         "descriptionRU": "спокойным и расслабленным образом",
-        "descriptionDE": "auf friedliche und entspannte Weise"
+        "descriptionDE": "auf friedliche und entspannte Weise",
+        "tr": "sakin bir şekilde",
+        "az": "sakitcə",
+        "uk": "спокійно",
+        "descriptionTR": "huzurlu ve rahat bir şekilde",
+        "descriptionAZ": "dinc və rahat şəkildə",
+        "descriptionUK": "у спокійній та розслабленій манері"
     }, {
         "de": "oft",
         "en": "often",
         "ru": "часто",
         "descriptionEN": "many times or frequently",
         "descriptionRU": "много раз или часто",
-        "descriptionDE": "viele Male oder häufig"
+        "descriptionDE": "viele Male oder häufig",
+        "tr": "sık sık",
+        "az": "tez-tez",
+        "uk": "часто",
+        "descriptionTR": "birçok kez veya sık sık",
+        "descriptionAZ": "çox vaxt və ya tez-tez",
+        "descriptionUK": "багато разів або часто"
     }, {
         "de": "gut",
         "en": "well",
         "ru": "хорошо",
         "descriptionEN": "in a satisfactory or skillful manner",
         "descriptionRU": "удовлетворительно или мастерски",
-        "descriptionDE": "auf zufriedenstellende oder geschickte Weise"
+        "descriptionDE": "auf zufriedenstellende oder geschickte Weise",
+        "tr": "iyi",
+        "az": "yaxşı",
+        "uk": "добре",
+        "descriptionTR": "tatmin edici veya ustaca bir şekilde",
+        "descriptionAZ": "qənaətbəxş və ya bacarıqlı şəkildə",
+        "descriptionUK": "задовільно або вправно"
     }, {
         "de": "laut",
         "en": "loudly",
         "ru": "громко",
         "descriptionEN": "with a great deal of volume or intensity",
         "descriptionRU": "с большим объемом или интенсивностью",
-        "descriptionDE": "mit viel Lautstärke oder Intensität"
+        "descriptionDE": "mit viel Lautstärke oder Intensität",
+        "tr": "yüksek sesle",
+        "az": "ucadan",
+        "uk": "голосно",
+        "descriptionTR": "çok fazla ses veya yoğunlukla",
+        "descriptionAZ": "böyük həcm və ya intensivliklə",
+        "descriptionUK": "з великою гучністю або інтенсивністю"
     }, {
         "de": "vollständig",
         "en": "completely",
         "ru": "полностью",
         "descriptionEN": "in every way or as much as possible",
         "descriptionRU": "во всех отношениях или насколько это возможно",
-        "descriptionDE": "in jeder Hinsicht oder so weit wie möglich"
+        "descriptionDE": "in jeder Hinsicht oder so weit wie möglich",
+        "tr": "tamamen",
+        "az": "tamamilə",
+        "uk": "повністю",
+        "descriptionTR": "her şekilde veya mümkün olduğunca",
+        "descriptionAZ": "hər cəhətdən və ya mümkün qədər",
+        "descriptionUK": "у всьому або наскільки це можливо"
     }, {
         "de": "tanzen",
         "en": "to dance",
         "ru": "танцевать",
         "descriptionEN": "to move the body rhythmically to music",
         "descriptionRU": "двигаться телом ритмично под музыку",
-        "descriptionDE": "den Körper rhythmisch zur Musik bewegen"
+        "descriptionDE": "den Körper rhythmisch zur Musik bewegen",
+        "tr": "dans etmek",
+        "az": "rəqs etmək",
+        "uk": "танцювати",
+        "descriptionTR": "müziğe ritmik olarak vücudu hareket ettirmek",
+        "descriptionAZ": "musiqiyə ritmik olaraq bədəni hərəkət etdirmək",
+        "descriptionUK": "рухати тілом ритмічно під музику"
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
         "descriptionEN": "to find something for the first time",
         "descriptionRU": "находить что-то впервые",
-        "descriptionDE": "etwas zum ersten Mal finden"
+        "descriptionDE": "etwas zum ersten Mal finden",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
+        "descriptionTR": "bir şeyi ilk kez bulmak",
+        "descriptionAZ": "nəyisə ilk dəfə tapmaq",
+        "descriptionUK": "знайти щось вперше"
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
         "descriptionEN": "to take pleasure in something",
         "descriptionRU": "получать удовольствие от чего-то",
-        "descriptionDE": "etwas genießen"
+        "descriptionDE": "etwas genießen",
+        "tr": "keyif almak",
+        "az": "zövq almaq",
+        "uk": "насолоджуватися",
+        "descriptionTR": "bir şeyden keyif almak",
+        "descriptionAZ": "nədənsə zövq almaq",
+        "descriptionUK": "отримувати задоволення від чогось"
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
         "descriptionEN": "to travel in or through an unfamiliar area in order to learn about it",
         "descriptionRU": "путешествовать в незнакомой области с целью узнать о ней",
-        "descriptionDE": "in einem unbekannten Gebiet reisen, um es kennenzulernen"
+        "descriptionDE": "in einem unbekannten Gebiet reisen, um es kennenzulernen",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
+        "descriptionTR": "hakkında bilgi edinmek için yabancı bir alanda veya bu alan boyunca seyahat etmek",
+        "descriptionAZ": "haqqında öyrənmək üçün tanış olmayan bir ərazidə və ya ərazidən keçərək səyahət etmək",
+        "descriptionUK": "подорожувати незнайомою місцевістю, щоб дізнатися про неї"
     }, {
         "de": "teilen",
         "en": "to share",
         "ru": "делить",
         "descriptionEN": "to give a portion of something to another or others",
         "descriptionRU": "отдавать часть чего-то другому или другим",
-        "descriptionDE": "einen Teil von etwas an andere oder andere geben"
+        "descriptionDE": "einen Teil von etwas an andere oder andere geben",
+        "tr": "paylaşmak",
+        "az": "bölüşmək",
+        "uk": "ділитися",
+        "descriptionTR": "bir şeyin bir kısmını başkasına veya başkalarına vermek",
+        "descriptionAZ": "nəyinsə bir hissəsini başqasına və ya başqalarına vermək",
+        "descriptionUK": "віддати частину чогось іншому або іншим"
     }, {
         "de": "bewundern",
         "en": "to admire",
         "ru": "восхищаться",
         "descriptionEN": "to regard with respect or warm approval",
         "descriptionRU": "смотреть с уважением или теплым одобрением",
-        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten"
+        "descriptionDE": "mit Respekt oder warmer Zustimmung betrachten",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionTR": "saygı veya sıcak bir onayla bakmak",
+        "descriptionAZ": "hörmət və ya səmimi rəğbətlə baxmaq",
+        "descriptionUK": "ставитися з повагою або теплою прихильністю"
     }
 ]

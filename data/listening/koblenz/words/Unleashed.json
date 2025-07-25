@@ -3,148 +3,274 @@
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionEN": "a large and permanent human settlement",
         "descriptionRU": "большое и постоянное человеческое поселение",
-        "descriptionDE": "eine große und dauerhafte menschliche Siedlung"
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung",
+        "descriptionTR": "büyük ve kalıcı insan yerleşimi",
+        "descriptionAZ": "böyük və daimi insan yaşayış məntəqəsi",
+        "descriptionUK": "велике та постійне людське поселення"
     }, {
         "de": "das Mädchen",
         "en": "girl",
         "ru": "девочка",
+        "tr": "kız",
+        "az": "qız",
+        "uk": "дівчина",
         "descriptionEN": "a female child",
         "descriptionRU": "женский ребенок",
-        "descriptionDE": "ein weibliches Kind"
+        "descriptionDE": "ein weibliches Kind",
+        "descriptionTR": "kız çocuğu",
+        "descriptionAZ": "qız uşaq",
+        "descriptionUK": "жіноча дитина"
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "a group consisting of parents and children living together in a household",
         "descriptionRU": "группа, состоящая из родителей и детей, проживающих вместе в одном доме",
-        "descriptionDE": "eine Gruppe von Eltern und Kindern, die zusammen in einem Haushalt leben"
+        "descriptionDE": "eine Gruppe von Eltern und Kindern, die zusammen in einem Haushalt leben",
+        "descriptionTR": "bir hane içinde birlikte yaşayan ebeveynler ve çocuklardan oluşan grup",
+        "descriptionAZ": "bir evdə birlikdə yaşayan valideynlər və uşaqlardan ibarət qrup",
+        "descriptionUK": "група, що складається з батьків та дітей, які живуть разом у одному домі"
     }, {
         "de": "das Talent",
         "en": "talent",
         "ru": "талант",
+        "tr": "yetenek",
+        "az": "istedad",
+        "uk": "талант",
         "descriptionEN": "natural aptitude or skill",
         "descriptionRU": "естественная способность или умение",
-        "descriptionDE": "natürliche Begabung oder Fähigkeit"
+        "descriptionDE": "natürliche Begabung oder Fähigkeit",
+        "descriptionTR": "doğal yetenek veya beceri",
+        "descriptionAZ": "təbii qabiliyyət və ya bacarıq",
+        "descriptionUK": "природна здатність чи вміння"
     }, {
         "de": "der Schauspieler",
         "en": "actor",
         "ru": "актер",
+        "tr": "aktör",
+        "az": "aktyor",
+        "uk": "актор",
         "descriptionEN": "a person who performs in plays, movies, or television shows",
         "descriptionRU": "человек, играющий в театральных постановках, фильмах или телевизионных шоу",
-        "descriptionDE": "eine Person, die in Theaterstücken, Filmen oder Fernsehsendungen auftritt"
+        "descriptionDE": "eine Person, die in Theaterstücken, Filmen oder Fernsehsendungen auftritt",
+        "descriptionTR": "oyunlarda, filmlerde veya televizyon şovlarında oynayan kişi",
+        "descriptionAZ": "teatr tamaşalarında, filmlərdə və ya televiziya şoularında oynayan şəxs",
+        "descriptionUK": "людина, яка грає у театральних постановках, фільмах чи телевізійних шоу"
     }, {
         "de": "die Rolle",
         "en": "role",
         "ru": "роль",
+        "tr": "rol",
+        "az": "rol",
+        "uk": "роль",
         "descriptionEN": "a part or character played by an actor or actress",
         "descriptionRU": "часть или персонаж, сыгранный актером или актрисой",
-        "descriptionDE": "eine Rolle oder Figur, die von einem Schauspieler oder einer Schauspielerin gespielt wird"
+        "descriptionDE": "eine Rolle oder Figur, die von einem Schauspieler oder einer Schauspielerin gespielt wird",
+        "descriptionTR": "bir aktör veya aktris tarafından oynanan bir parça veya karakter",
+        "descriptionAZ": "bir aktyor və ya aktrisa tərəfindən oynanan bir hissə və ya xarakter",
+        "descriptionUK": "частина або персонаж, якого грає актор чи акторка"
     }, {
         "de": "die Kritik",
         "en": "critique",
         "ru": "критика",
+        "tr": "eleştiri",
+        "az": "tənqid",
+        "uk": "критика",
         "descriptionEN": "a detailed analysis and assessment of something",
         "descriptionRU": "детальный анализ и оценка чего-либо",
-        "descriptionDE": "eine ausführliche Analyse und Bewertung von etwas"
+        "descriptionDE": "eine ausführliche Analyse und Bewertung von etwas",
+        "descriptionTR": "bir şeyin detaylı analizi ve değerlendirmesi",
+        "descriptionAZ": "bir şeyin ətraflı təhlili və qiymətləndirilməsi",
+        "descriptionUK": "детальний аналіз та оцінка чогось"
     }, {
         "de": "das Angebot",
         "en": "offer",
         "ru": "предложение",
+        "tr": "teklif",
+        "az": "təklif",
+        "uk": "пропозиція",
         "descriptionEN": "a proposal or suggestion presented for acceptance or rejection",
         "descriptionRU": "предложение или предложение, представленное для принятия или отклонения",
-        "descriptionDE": "ein Vorschlag oder eine Anregung, die zur Annahme oder Ablehnung vorgelegt wird"
+        "descriptionDE": "ein Vorschlag oder eine Anregung, die zur Annahme oder Ablehnung vorgelegt wird",
+        "descriptionTR": "kabul veya ret için sunulan bir teklif veya öneri",
+        "descriptionAZ": "qəbul və ya rədd edilmək üçün təqdim olunan təklif və ya təklif",
+        "descriptionUK": "пропозиція чи пропозиція, подані для прийняття чи відхилення"
     }, {
         "de": "das Fest",
         "en": "festival",
         "ru": "фестиваль",
+        "tr": "festival",
+        "az": "festival",
+        "uk": "фестиваль",
         "descriptionEN": "a day or period of celebration",
         "descriptionRU": "день или период празднования",
-        "descriptionDE": "ein Tag oder Zeitraum der Feier"
+        "descriptionDE": "ein Tag oder Zeitraum der Feier",
+        "descriptionTR": "kutlama günü veya dönemi",
+        "descriptionAZ": "qeyd etmə günü və ya müddəti",
+        "descriptionUK": "день чи період святкування"
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "tr": "sanat",
+        "az": "sənət",
+        "uk": "мистецтво",
         "descriptionEN": "the expression or application of human creative skill and imagination",
         "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
-        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft",
+        "descriptionTR": "insanın yaratıcı becerilerinin ve hayal gücünün ifadesi veya uygulaması",
+        "descriptionAZ": "insanın yaradıcı bacarıqlarının və təxəyyülünün ifadəsi və ya tətbiqi",
+        "descriptionUK": "вираз або застосування людської творчої майстерності та уяви"
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "the study of past events",
         "descriptionRU": "изучение прошлых событий",
-        "descriptionDE": "das Studium vergangener Ereignisse"
+        "descriptionDE": "das Studium vergangener Ereignisse",
+        "descriptionTR": "geçmiş olayların incelenmesi",
+        "descriptionAZ": "keçmiş hadisələrin öyrənilməsi",
+        "descriptionUK": "вивчення минулих подій"
     }, {
         "de": "die Nachstellung",
         "en": "reenactment",
         "ru": "переигровка",
+        "tr": "yeniden canlandırma",
+        "az": "yenidən canlandırma",
+        "uk": "відтворення",
         "descriptionEN": "the acting out of a past event",
         "descriptionRU": "исполнение прошлого события",
-        "descriptionDE": "das Nachspielen eines vergangenen Ereignisses"
+        "descriptionDE": "das Nachspielen eines vergangenen Ereignisses",
+        "descriptionTR": "geçmiş bir olayın canlandırılması",
+        "descriptionAZ": "keçmiş bir hadisənin canlandırılması",
+        "descriptionUK": "відтворення минулої події"
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
         "descriptionEN": "to engage in activity for enjoyment and recreation",
         "descriptionRU": "заниматься деятельностью для удовольствия и отдыха",
-        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen"
+        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen",
+        "descriptionTR": "zevk ve dinlenme için bir etkinliğe katılmak",
+        "descriptionAZ": "zövq və istirahət üçün fəaliyyətlə məşğul olmaq",
+        "descriptionUK": "займатися діяльністю для задоволення та відпочинку"
     }, {
         "de": "bewerben",
         "en": "to apply",
         "ru": "применять",
+        "tr": "başvurmak",
+        "az": "müraciət etmək",
+        "uk": "подавати заявку",
         "descriptionEN": "to make a formal application for a job or place in a school or other institution",
         "descriptionRU": "подать официальное заявление на работу или место в школе или другом учреждении",
-        "descriptionDE": "eine formelle Bewerbung für einen Job oder einen Platz in einer Schule oder einer anderen Institution einreichen"
+        "descriptionDE": "eine formelle Bewerbung für einen Job oder einen Platz in einer Schule oder einer anderen Institution einreichen",
+        "descriptionTR": "bir iş veya okulda yer için resmi başvuru yapmak",
+        "descriptionAZ": "iş və ya məktəbdə yer üçün rəsmi müraciət etmək",
+        "descriptionUK": "подати офіційну заявку на роботу чи місце в школі чи іншій установі"
     }, {
         "de": "bekommen",
         "en": "to get",
         "ru": "получить",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримати",
         "descriptionEN": "to receive or be given something",
         "descriptionRU": "получать или получать что-то",
-        "descriptionDE": "etwas erhalten oder bekommen"
+        "descriptionDE": "etwas erhalten oder bekommen",
+        "descriptionTR": "bir şey almak veya verilmek",
+        "descriptionAZ": "bir şey almaq və ya verilmək",
+        "descriptionUK": "отримувати або отримувати щось"
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
         "descriptionEN": "feeling or showing excitement",
         "descriptionRU": "чувствуя или показывая волнение",
-        "descriptionDE": "Gefühl oder Zeigen von Aufregung"
+        "descriptionDE": "Gefühl oder Zeigen von Aufregung",
+        "descriptionTR": "heyecan hissetmek veya göstermek",
+        "descriptionAZ": "həyəcan hiss etmək və ya göstərmək",
+        "descriptionUK": "відчувати чи виявляти збудження"
     }, {
         "de": "neugierig",
         "en": "curious",
         "ru": "любопытный",
+        "tr": "meraklı",
+        "az": "maraqlı",
+        "uk": "цікавий",
         "descriptionEN": "eager to know or learn something",
         "descriptionRU": "жаждущий узнать или узнать что-то новое",
-        "descriptionDE": "begierig zu wissen oder etwas zu lernen"
+        "descriptionDE": "begierig zu wissen oder etwas zu lernen",
+        "descriptionTR": "bir şeyi bilmek veya öğrenmek için hevesli",
+        "descriptionAZ": "bir şeyi bilmək və ya öyrənmək üçün həvəsli",
+        "descriptionUK": "бажаючи дізнатися чи дізнатися щось нове"
     }, {
         "de": "zauberhaft",
         "en": "enchanting",
         "ru": "очаровательный",
+        "tr": "büyüleyici",
+        "az": "möhtəşəm",
+        "uk": "чарівний",
         "descriptionEN": "charming or captivating",
         "descriptionRU": "очаровательный или завораживающий",
-        "descriptionDE": "charmant oder fesselnd"
+        "descriptionDE": "charmant oder fesselnd",
+        "descriptionTR": "büyüleyici veya etkileyici",
+        "descriptionAZ": "məftunedici və ya heyranedici",
+        "descriptionUK": "чарівний або захоплюючий"
     }, {
         "de": "begeistert",
         "en": "enthusiastic",
         "ru": "восторженный",
+        "tr": "hevesli",
+        "az": "həvəsli",
+        "uk": "ентузіаст",
         "descriptionEN": "showing intense and eager enjoyment, interest, or approval",
         "descriptionRU": "показывает интенсивное и увлеченное удовольствие, интерес или одобрение",
-        "descriptionDE": "zeigt intensives und eifriges Vergnügen, Interesse oder Zustimmung"
+        "descriptionDE": "zeigt intensives und eifriges Vergnügen, Interesse oder Zustimmung",
+        "descriptionTR": "yoğun ve hevesli bir zevk, ilgi veya onay göstermek",
+        "descriptionAZ": "şiddətli və həvəsli bir zövq, maraq və ya təsdiq göstərmək",
+        "descriptionUK": "демонструє інтенсивне та жваве задоволення, інтерес чи схвалення"
     }, {
         "de": "tapfer",
         "en": "brave",
         "ru": "смелый",
+        "tr": "cesur",
+        "az": "igid",
+        "uk": "хоробрий",
         "descriptionEN": "showing courage",
         "descriptionRU": "проявление смелости",
-        "descriptionDE": "zeigt Mut"
+        "descriptionDE": "zeigt Mut",
+        "descriptionTR": "cesaret göstermek",
+        "descriptionAZ": "cəsarət göstərmək",
+        "descriptionUK": "прояв мужності"
     }, {
         "de": "realistisch",
         "en": "realistic",
         "ru": "реалистичный",
+        "tr": "gerçekçi",
+        "az": "realist",
+        "uk": "реалістичний",
         "descriptionEN": "closely resembling real life",
         "descriptionRU": "тесно напоминает реальную жизнь",
-        "descriptionDE": "ähnelt eng dem wirklichen Leben"
+        "descriptionDE": "ähnelt eng dem wirklichen Leben",
+        "descriptionTR": "gerçek hayata yakından benzeyen",
+        "descriptionAZ": "real həyata yaxından bənzəyən",
+        "descriptionUK": "тісно нагадує реальне життя"
     }
 ]

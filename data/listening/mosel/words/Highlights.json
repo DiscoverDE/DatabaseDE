@@ -3,155 +3,287 @@
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "ріка",
         "descriptionEN": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
         "descriptionRU": "Большой естественный поток воды, текущий в канале к морю, озеру или другой реке.",
-        "descriptionDE": "Ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, See oder einem anderen Fluss fließt."
+        "descriptionDE": "Ein großer natürlicher Wasserlauf, der in einem Kanal zum Meer, See oder einem anderen Fluss fließt.",
+        "descriptionTR": "Denize, göle veya başka bir nehre akan büyük doğal su akıntısı.",
+        "descriptionAZ": "Dənizə, gölə və ya başqa bir çaya axan böyük təbii su axını.",
+        "descriptionUK": "Великий природний потік води, що тече руслом до моря, озера чи іншої річки."
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "An alcoholic drink made from fermented grape juice.",
         "descriptionRU": "Алкогольный напиток, приготовленный из ферментированного виноградного сока.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentiertem Traubensaft hergestellt wird.",
+        "descriptionTR": "Fermente üzüm suyundan yapılan alkollü içecek.",
+        "descriptionAZ": "Qıcqırmış üzüm şirəsindən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого виноградного соку."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "All the visible features of an area of land, often considered in terms of their aesthetic appeal.",
         "descriptionRU": "Все видимые черты области земли, часто рассматриваемые с точки зрения их эстетической привлекательности.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets, oft in Bezug auf ihre ästhetische Anziehungskraft betrachtet."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets, oft in Bezug auf ihre ästhetische Anziehungskraft betrachtet.",
+        "descriptionTR": "Bir arazi parçasının tüm görünür özellikleri, genellikle estetik çekicilik açısından değerlendirilir.",
+        "descriptionAZ": "Torpaq sahəsinin bütün görünən xüsusiyyətləri, tez-tez estetik cəhətdən qiymətləndirilir.",
+        "descriptionUK": "Усі видимі риси місцевості, які часто розглядаються з точки зору їхньої естетичної привабливості."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionEN": "A large town or a significant urban area.",
         "descriptionRU": "Большой город или значительная городская территория.",
-        "descriptionDE": "Eine große Stadt oder ein bedeutendes städtisches Gebiet."
+        "descriptionDE": "Eine große Stadt oder ein bedeutendes städtisches Gebiet.",
+        "descriptionTR": "Büyük bir kasaba veya önemli bir kentsel alan.",
+        "descriptionAZ": "Böyük bir şəhər və ya əhəmiyyətli şəhər ərazisi.",
+        "descriptionUK": "Велике місто або значна міська територія."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
         "descriptionEN": "A large building typically of the medieval period, fortified against attack.",
         "descriptionRU": "Большое здание, типичное для средневековья, укрепленное против нападения.",
-        "descriptionDE": "Ein großes Gebäude, typischerweise aus dem Mittelalter, das gegen Angriffe befestigt ist."
+        "descriptionDE": "Ein großes Gebäude, typischerweise aus dem Mittelalter, das gegen Angriffe befestigt ist.",
+        "descriptionTR": "Genellikle ortaçağ dönemine ait, saldırılara karşı güçlendirilmiş büyük bir bina.",
+        "descriptionAZ": "Adətən orta əsrlər dövrünə aid, hücumlara qarşı möhkəmləndirilmiş böyük bina.",
+        "descriptionUK": "Велика будівля, типова для середньовіччя, укріплена проти нападів."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events, particularly in human affairs.",
         "descriptionRU": "Изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "Das Studium vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinin incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərinin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "das Weinfest",
         "en": "wine festival",
         "ru": "винный фестиваль",
+        "tr": "şarap festivali",
+        "az": "şərab festivalı",
+        "uk": "винний фестиваль",
         "descriptionEN": "A festival celebrating local wines with tastings, music, and food.",
         "descriptionRU": "Фестиваль, посвященный местным винам с дегустациями, музыкой и едой.",
-        "descriptionDE": "Ein Fest, das lokale Weine mit Verkostungen, Musik und Essen feiert."
+        "descriptionDE": "Ein Fest, das lokale Weine mit Verkostungen, Musik und Essen feiert.",
+        "descriptionTR": "Yerel şarapları tatma, müzik ve yemekle kutlayan bir festival.",
+        "descriptionAZ": "Yerli şarapları dadma, musiqi və yeməklə qeyd edən festival.",
+        "descriptionUK": "Фестиваль, присвячений місцевим винам з дегустаціями, музикою та їжею."
     }, {
         "de": "das Tal",
         "en": "valley",
         "ru": "долина",
+        "tr": "vadi",
+        "az": "vadi",
+        "uk": "долина",
         "descriptionEN": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
         "descriptionRU": "Низменная область земли между холмами или горами, обычно с текущей через нее рекой или ручьем.",
-        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, in dem typischerweise ein Fluss oder Bach fließt."
+        "descriptionDE": "Ein niedriges Landgebiet zwischen Hügeln oder Bergen, in dem typischerweise ein Fluss oder Bach fließt.",
+        "descriptionTR": "Tepeler veya dağlar arasında, genellikle bir nehir veya dere akan alçak arazi.",
+        "descriptionAZ": "Təpələr və ya dağlar arasında, adətən çay və ya axar axan alçaq torpaq sahəsi.",
+        "descriptionUK": "Низька ділянка землі між пагорбами чи горами, зазвичай з річкою чи струмком, що тече через неї."
     }, {
         "de": "die Region",
         "en": "region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "region",
+        "uk": "регіон",
         "descriptionEN": "An area, especially part of a country or the world having definable characteristics but not always fixed boundaries.",
         "descriptionRU": "Область, особенно часть страны или мира, имеющая определяемые характеристики, но не всегда фиксированные границы.",
-        "descriptionDE": "Ein Gebiet, insbesondere ein Teil eines Landes oder der Welt, das definierbare Merkmale, aber nicht immer feste Grenzen aufweist."
+        "descriptionDE": "Ein Gebiet, insbesondere ein Teil eines Landes oder der Welt, das definierbare Merkmale, aber nicht immer feste Grenzen aufweist.",
+        "descriptionTR": "Özellikle bir ülkenin veya dünyanın bir parçası olan, tanımlanabilir özelliklere sahip ancak her zaman sabit sınırları olmayan bir alan.",
+        "descriptionAZ": "Xüsusilə bir ölkənin və ya dünyanın bir hissəsi olan, müəyyən edilə bilən xüsusiyyətlərə malik, lakin həmişə sabit sərhədləri olmayan bir ərazi.",
+        "descriptionUK": "Область, особливо частина країни чи світу, що має визначенні характеристики, але не завжди фіксовані кордони."
     }, {
         "de": "der Tourist",
         "en": "tourist",
         "ru": "турист",
+        "tr": "turist",
+        "az": "turist",
+        "uk": "турист",
         "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
         "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
-        "descriptionDE": "Eine Person, die zum Vergnügen reist oder einen Ort besucht."
+        "descriptionDE": "Eine Person, die zum Vergnügen reist oder einen Ort besucht.",
+        "descriptionTR": "Zevk için seyahat eden veya bir yeri ziyaret eden kişi.",
+        "descriptionAZ": "Zövq üçün səyahət edən və ya bir yeri ziyarət edən şəxs.",
+        "descriptionUK": "Людина, яка подорожує чи відвідує місце для задоволення."
     }, {
         "de": "das Gebiet",
         "en": "area",
         "ru": "область",
+        "tr": "alan",
+        "az": "sahə",
+        "uk": "область",
         "descriptionEN": "A region or part of a town, a country, or the world.",
         "descriptionRU": "Регион или часть города, страны или мира.",
-        "descriptionDE": "Ein Gebiet oder Teil einer Stadt, eines Landes oder der Welt."
+        "descriptionDE": "Ein Gebiet oder Teil einer Stadt, eines Landes oder der Welt.",
+        "descriptionTR": "Bir kasabanın, ülkenin veya dünyanın bir bölgesi veya parçası.",
+        "descriptionAZ": "Şəhərin, ölkənin və ya dünyanın bir regionu və ya hissəsi.",
+        "descriptionUK": "Регіон чи частина міста, країни чи світу."
     }, {
         "de": "das Ereignis",
         "en": "event",
         "ru": "событие",
+        "tr": "olay",
+        "az": "hadisə",
+        "uk": "подія",
         "descriptionEN": "A thing that happens, especially one of importance.",
         "descriptionRU": "То, что происходит, особенно что-то важное.",
-        "descriptionDE": "Eine Sache, die passiert, insbesondere eine von Bedeutung."
+        "descriptionDE": "Eine Sache, die passiert, insbesondere eine von Bedeutung.",
+        "descriptionTR": "Olan bir şey, özellikle önemli olan.",
+        "descriptionAZ": "Baş verən bir şey, xüsusilə əhəmiyyətli olan.",
+        "descriptionUK": "Те, що відбувається, особливо щось важливе."
     }, {
         "de": "lieben",
         "en": "to love",
         "ru": "любить",
+        "tr": "sevmek",
+        "az": "sevmək",
+        "uk": "любити",
         "descriptionEN": "To have a deep affection for someone or something.",
         "descriptionRU": "Иметь глубокую привязанность к кому-то или чему-то.",
-        "descriptionDE": "Eine tiefe Zuneigung zu jemandem oder etwas haben."
+        "descriptionDE": "Eine tiefe Zuneigung zu jemandem oder etwas haben.",
+        "descriptionTR": "Birine veya bir şeye derin bir sevgi duymak.",
+        "descriptionAZ": "Birinə və ya bir şeyə dərin məhəbbət bəsləmək.",
+        "descriptionUK": "Мати глибоку прихильність до когось чи чогось."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "To acknowledge a significant or happy day or event with a social gathering or enjoyable activity.",
         "descriptionRU": "Отмечать значимый или счастливый день или событие социальной встречей или приятным занятием.",
-        "descriptionDE": "Einen bedeutenden oder glücklichen Tag oder ein Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen."
+        "descriptionDE": "Einen bedeutenden oder glücklichen Tag oder ein Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen.",
+        "descriptionTR": "Önemli veya mutlu bir günü veya olayı sosyal bir toplantı veya keyifli bir aktiviteyle kutlamak.",
+        "descriptionAZ": "Əhəmiyyətli və ya xoşbəxt bir günü və ya hadisəni sosial görüş və ya xoş bir fəaliyyətlə qeyd etmək.",
+        "descriptionUK": "Відзначати важливий чи щасливий день чи подію соціальною зустріччю чи приємною діяльністю."
     }, {
         "de": "reisen",
         "en": "to travel",
         "ru": "путешествовать",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
         "descriptionEN": "To make a journey, typically of some length.",
         "descriptionRU": "Совершить поездку, как правило, продолжительную.",
-        "descriptionDE": "Eine Reise machen, typischerweise von einiger Länge."
+        "descriptionDE": "Eine Reise machen, typischerweise von einiger Länge.",
+        "descriptionTR": "Genellikle bir süreliğine yolculuk yapmak.",
+        "descriptionAZ": "Adətən bir müddətliyinə səyahət etmək.",
+        "descriptionUK": "Здійснити подорож, як правило, тривалу."
     }, {
         "de": "fehlen",
         "en": "to lack",
         "ru": "не хватать",
+        "tr": "eksik olmak",
+        "az": "çatışmamaq",
+        "uk": "бракувати",
         "descriptionEN": "To be without or deficient in something.",
         "descriptionRU": "Не иметь чего-то или испытывать в чем-то недостаток.",
-        "descriptionDE": "Ohne etwas sein oder an etwas mangeln."
+        "descriptionDE": "Ohne etwas sein oder an etwas mangeln.",
+        "descriptionTR": "Bir şeyden yoksun olmak veya eksikliğini çekmek.",
+        "descriptionAZ": "Bir şeydən məhrum olmaq və ya çatışmazlığını hiss etmək.",
+        "descriptionUK": "Не мати чогось або відчувати в чомусь нестачу."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "знаменитый",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "знаменитий",
         "descriptionEN": "Known about by many people.",
         "descriptionRU": "Известный многим людям.",
-        "descriptionDE": "Von vielen Menschen bekannt."
+        "descriptionDE": "Von vielen Menschen bekannt.",
+        "descriptionTR": "Birçok insan tarafından bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bilinən.",
+        "descriptionUK": "Відомий багатьом людям."
     }, {
         "de": "mittelalterlich",
         "en": "medieval",
         "ru": "средневековый",
+        "tr": "ortaçağ",
+        "az": "orta əsr",
+        "uk": "середньовічний",
         "descriptionEN": "Relating to the Middle Ages.",
         "descriptionRU": "Относящийся к Средним векам.",
-        "descriptionDE": "Bezogen auf das Mittelalter."
+        "descriptionDE": "Bezogen auf das Mittelalter.",
+        "descriptionTR": "Orta Çağ'a ait.",
+        "descriptionAZ": "Orta əsrlərə aid.",
+        "descriptionUK": "Стосується Середніх віків."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "varlı",
+        "uk": "багатий",
         "descriptionEN": "Having a great deal of money or assets.",
         "descriptionRU": "Имеющий большое количество денег или активов.",
-        "descriptionDE": "Viel Geld oder Vermögenswerte haben."
+        "descriptionDE": "Viel Geld oder Vermögenswerte haben.",
+        "descriptionTR": "Çok miktarda para veya varlığa sahip olmak.",
+        "descriptionAZ": "Çoxlu pul və ya aktivə malik olmaq.",
+        "descriptionUK": "Мати велику кількість грошей чи активів."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Эстетически приятный для чувств или ума.",
-        "descriptionDE": "Die Sinne oder den Geist ästhetisch ansprechend."
+        "descriptionDE": "Die Sinne oder den Geist ästhetisch ansprechend.",
+        "descriptionTR": "Duyulara veya zihne estetik açıdan hoş gelen.",
+        "descriptionAZ": "Duyğulara və ya ağıla estetik cəhətdən xoş gələn.",
+        "descriptionUK": "Естетично приємний для почуттів чи розуму."
     }, {
         "de": "historisch",
         "en": "historic",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Famous or important in history.",
         "descriptionRU": "Знаменитый или важный в истории.",
-        "descriptionDE": "Berühmt oder wichtig in der Geschichte."
+        "descriptionDE": "Berühmt oder wichtig in der Geschichte.",
+        "descriptionTR": "Tarihte ünlü veya önemli.",
+        "descriptionAZ": "Tarixdə məşhur və ya əhəmiyyətli.",
+        "descriptionUK": "Знаменитий чи важливий в історії."
     }, {
         "de": "lokal",
         "en": "local",
         "ru": "местный",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий",
         "descriptionEN": "Relating to a particular area or neighborhood.",
         "descriptionRU": "Относящийся к определенной области или району.",
-        "descriptionDE": "Bezogen auf ein bestimmtes Gebiet oder eine Nachbarschaft."
+        "descriptionDE": "Bezogen auf ein bestimmtes Gebiet oder eine Nachbarschaft.",
+        "descriptionTR": "Belirli bir alan veya mahalleye ait.",
+        "descriptionAZ": "Müəyyən bir əraziya və ya məhəlləyə aid.",
+        "descriptionUK": "Стосується певної області чи району."
     }
 ]

@@ -3,106 +3,196 @@
         "de": "die Brücke",
         "en": "Bridge",
         "ru": "Мост",
+        "tr": "Köprü",
+        "az": "Körpü",
+        "uk": "Міст",
         "descriptionDE": "eine Struktur, die eine Straße, einen Weg, eine Eisenbahn usw. über einen Fluss, eine Straße oder ein anderes Hindernis trägt.",
         "descriptionEN": "a structure carrying a road, path, railway, etc. across a river, road, or other obstacle.",
-        "descriptionRU": "конструкция, переносящая дорогу, тропу, железнодорожный путь и т. д. через реку, дорогу или другое препятствие."
+        "descriptionRU": "конструкция, переносящая дорогу, тропу, железнодорожный путь и т. д. через реку, дорогу или другое препятствие.",
+        "descriptionTR": "Bir nehir, yol veya başka bir engelin üzerinden yol, patika, demiryolu vb. taşıyan yapı.",
+        "descriptionAZ": "Çay, yol və ya digər maneənin üzərindən yol, yol, dəmir yolu və s. daşıyan quruluş.",
+        "descriptionUK": "структура, що несе дорогу, стежку, залізницю тощо через річку, дорогу або іншу перешкоду."
     }, {
         "de": "der Herbsttag",
         "en": "Autumn day",
         "ru": "осенний день",
+        "tr": "Sonbahar günü",
+        "az": "Payız günü",
+        "uk": "осінній день",
         "descriptionDE": "ein Tag, der in der Jahreszeit Herbst auftritt und durch kühlere Temperaturen und fallende Blätter gekennzeichnet ist.",
         "descriptionEN": "a day occurring in the season of autumn, characterized by cooler temperatures and falling leaves.",
-        "descriptionRU": "день, происходящий в сезон осени, характеризующийся более прохладными температурами и опадающими листьями."
+        "descriptionRU": "день, происходящий в сезон осени, характеризующийся более прохладными температурами и опадающими листьями.",
+        "descriptionTR": "Serin sıcaklıklar ve düşen yapraklarla karakterize olan sonbahar mevsiminde geçen bir gün.",
+        "descriptionAZ": "Soyuq temperatur və düşən yarpaqlarla xarakterizə olunan payız mövsümündə baş verən gün.",
+        "descriptionUK": "день, що відбувається в сезон осені, характеризується прохолоднішою температурою та опадаючим листям."
     }, {
         "de": "die Geldbörse",
         "en": "Wallet",
         "ru": "бумажник",
+        "tr": "Cüzdan",
+        "az": "Pulqabı",
+        "uk": "Гаманець",
         "descriptionDE": "ein kleines, flaches, zusammenklappbares Etui zum Tragen von Papiergeld, Karten und Münzen.",
         "descriptionEN": "a small, flat, folding case for carrying paper money, cards, and coins.",
-        "descriptionRU": "небольшой, плоский, складывающийся чехол для ношения бумажных денег, карточек и монет."
+        "descriptionRU": "небольшой, плоский, складывающийся чехол для ношения бумажных денег, карточек и монет.",
+        "descriptionTR": "Kağıt para, kartlar ve madeni paraları taşımak için küçük, düz, katlanabilir kılıf.",
+        "descriptionAZ": "Kağız pul, kartlar və sikkələri daşımaq üçün kiçik, yastı, qatlanan qutu.",
+        "descriptionUK": "невеликий плоский складний футляр для носіння паперових грошей, карток та монет."
     }, {
         "de": "das Liebesschloss",
         "en": "Love lock",
         "ru": "замок любви",
+        "tr": "Aşk kilidi",
+        "az": "Sevgi kilidi",
+        "uk": "Замок кохання",
         "descriptionDE": "ein Vorhängeschloss, das von Liebenden an einer Brücke befestigt wird, als Symbol ihrer ewigen Liebe.",
         "descriptionEN": "a padlock attached to a bridge by sweethearts as a symbol of their everlasting love.",
-        "descriptionRU": "замок, прикрепленный к мосту влюбленными в знак их вечной любви."
+        "descriptionRU": "замок, прикрепленный к мосту влюбленными в знак их вечной любви.",
+        "descriptionTR": "Sevginin sonsuzluğunu simgeleyen ve aşıklar tarafından bir köprüye takılan asma kilit.",
+        "descriptionAZ": "Əbədi sevgilərinin simvolu olaraq aşiq cütlüklər tərəfindən körpüyə bağlanan asma qıfıl.",
+        "descriptionUK": "навісний замок, прикріплений закоханими до мосту як символ їх вічної любові."
     }, {
         "de": "die Freude",
         "en": "Joy",
         "ru": "Радость",
+        "tr": "Sevinç",
+        "az": "Sevinc",
+        "uk": "Радість",
         "descriptionDE": "ein Gefühl großer Freude und Glückseligkeit.",
         "descriptionEN": "a feeling of great pleasure and happiness.",
-        "descriptionRU": "чувство большого удовольствия и счастья."
+        "descriptionRU": "чувство большого удовольствия и счастья.",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük zövq və xoşbəxtlik hissi.",
+        "descriptionUK": "почуття великої радості та щастя."
     }, {
         "de": "die Hochzeit",
         "en": "Wedding",
         "ru": "Свадьба",
+        "tr": "Düğün",
+        "az": "Toy",
+        "uk": "Весілля",
         "descriptionDE": "die Zeremonie der Eheschließung; das festliche Ereignis, das die Vereinigung von zwei Menschen in der Ehe feiert.",
         "descriptionEN": "the ceremony of marriage; the festive event celebrating the union of two people in matrimony.",
-        "descriptionRU": "церемония бракосочетания; торжественное событие, отмечающее объединение двух людей в браке."
+        "descriptionRU": "церемония бракосочетания; торжественное событие, отмечающее объединение двух людей в браке.",
+        "descriptionTR": "Evlilik töreni; iki insanın evlilik birliğini kutlayan şenlikli etkinlik.",
+        "descriptionAZ": "Nikah mərasimi; iki insanın evlilik birliyini qeyd edən bayram tədbiri.",
+        "descriptionUK": "церемонія шлюбу; святковий захід, що відзначає об'єднання двох людей у шлюбі."
     }, {
         "de": "die Sorge",
         "en": "Worry",
         "ru": "Беспокойство",
+        "tr": "Endişe",
+        "az": "Narahatlıq",
+        "uk": "Турбота",
         "descriptionDE": "Angst und Unsicherheit hinsichtlich eines realen oder potenziellen Problems.",
         "descriptionEN": "anxiety and uncertainty about a real or potential problem.",
-        "descriptionRU": "тревога и неопределенность по поводу реальной или потенциальной проблемы."
+        "descriptionRU": "тревога и неопределенность по поводу реальной или потенциальной проблемы.",
+        "descriptionTR": "Gerçek veya olası bir sorun hakkında kaygı ve belirsizlik.",
+        "descriptionAZ": "Həqiqi və ya potensial problem barədə narahatlıq və qeyri-müəyyənlik.",
+        "descriptionUK": "тривога і невпевненість щодо реальної або потенційної проблеми."
     }, {
         "de": "die Jugend",
         "en": "Youth",
         "ru": "Молодежь",
+        "tr": "Gençlik",
+        "az": "Gənclik",
+        "uk": "Молодь",
         "descriptionDE": "die Lebensphase, in der man jung ist, die Zeit zwischen Kindheit und Erwachsenenalter.",
         "descriptionEN": "the time of life when one is young, the period between childhood and adulthood.",
-        "descriptionRU": "время жизни, когда человек молод, период между детством и взрослой жизнью."
+        "descriptionRU": "время жизни, когда человек молод, период между детством и взрослой жизнью.",
+        "descriptionTR": "Genç olunan yaşam dönemi, çocukluk ile yetişkinlik arasındaki zaman.",
+        "descriptionAZ": "Gənc olan həyat dövrü, uşaqlıq ilə böyüklük arasındakı vaxt.",
+        "descriptionUK": "час життя, коли людина молода, період між дитинством і дорослістю."
     }, {
         "de": "die Verbindung",
         "en": "Connection",
         "ru": "Связь",
+        "tr": "Bağlantı",
+        "az": "Əlaqə",
+        "uk": "Зв'язок",
         "descriptionDE": "eine Beziehung, in der eine Person, eine Sache oder eine Idee mit etwas anderem verknüpft oder assoziiert ist.",
         "descriptionEN": "a relationship in which a person, thing, or idea is linked or associated with something else.",
-        "descriptionRU": "отношение, в котором человек, вещь или идея связаны или ассоциируются с чем-то другим."
+        "descriptionRU": "отношение, в котором человек, вещь или идея связаны или ассоциируются с чем-то другим.",
+        "descriptionTR": "Bir kişi, şey veya fikrin başka bir şeyle bağlantılı veya ilişkili olduğu ilişki.",
+        "descriptionAZ": "Bir şəxsin, şeyin və ya fikrin başqa bir şeylə əlaqəli olduğu münasibət.",
+        "descriptionUK": "стосунок, у якому людина, річ або ідея пов’язані чи асоційовані з чимось іншим."
     }, {
         "de": "der Zufall",
         "en": "Accident",
         "ru": "Случайность",
+        "tr": "Tesadüf",
+        "az": "Təsadüf",
+        "uk": "Випадок",
         "descriptionDE": "ein Ereignis, das zufällig passiert oder ohne offensichtliche oder absichtliche Ursache ist.",
         "descriptionEN": "an event that happens by chance or that is without apparent or deliberate cause.",
-        "descriptionRU": "событие, происходящее случайно или без видимой или преднамеренной причины."
+        "descriptionRU": "событие, происходящее случайно или без видимой или преднамеренной причины.",
+        "descriptionTR": "Görünür veya kasıtlı sebep olmadan tesadüfen meydana gelen olay.",
+        "descriptionAZ": "Açıq və ya qəsdən səbəb olmadan təsadüfən baş verən hadisə.",
+        "descriptionUK": "подія, що трапляється випадково або без видимої чи умисної причини."
     }, {
         "de": "die Erleichterung",
         "en": "Relief",
         "ru": "Облегчение",
+        "tr": "Rahatlama",
+        "az": "Rahatlama",
+        "uk": "Полегшення",
         "descriptionDE": "ein Gefühl der Beruhigung und Entspannung nach der Befreiung von Angst oder Bedrängnis.",
         "descriptionEN": "a feeling of reassurance and relaxation following release from anxiety or distress.",
-        "descriptionRU": "чувство уверенности и расслабления после освобождения от тревоги или беспокойства."
+        "descriptionRU": "чувство уверенности и расслабления после освобождения от тревоги или беспокойства.",
+        "descriptionTR": "Kaygı veya sıkıntıdan kurtulduktan sonra gelen rahatlama ve huzur hissi.",
+        "descriptionAZ": "Narahatlıq və ya sıxıntıdan azad olduqdan sonra rahatlıq və dinclik hissi.",
+        "descriptionUK": "відчуття заспокоєння і розслаблення після звільнення від тривоги чи стресу."
     }, {
         "de": "das Kapitel",
         "en": "Chapter",
         "ru": "Глава",
+        "tr": "Bölüm",
+        "az": "Fəsil",
+        "uk": "Розділ",
         "descriptionDE": "eine Hauptabteilung eines Buches, normalerweise mit einer Nummer oder einem Titel.",
         "descriptionEN": "a main division of a book, typically with a number or title.",
-        "descriptionRU": "основное деление книги, обычно с номером или заголовком."
+        "descriptionRU": "основное деление книги, обычно с номером или заголовком.",
+        "descriptionTR": "Genellikle numara veya başlık içeren bir kitabın ana bölümü.",
+        "descriptionAZ": "Adətən nömrə və ya başlıq olan bir kitabın əsas bölməsi.",
+        "descriptionUK": "основний розділ книги, зазвичай з номером або назвою."
     }, {
         "de": "stolpern",
         "en": "stumble",
         "ru": "спотыкаться",
+        "tr": "Tökezlemek",
+        "az": "Tövbə etmək",
+        "uk": "Спіткнутися",
         "descriptionDE": "über etwas stolpern oder vorübergehend das Gleichgewicht verlieren; einen Fehler oder wiederholte Fehler beim Sprechen machen.",
         "descriptionEN": "trip or momentarily lose one's balance; make a mistake or repeated mistakes in speaking.",
-        "descriptionRU": "спотыкаться или мгновенно терять равновесие; допускать ошибку или повторять ошибки в речи."
+        "descriptionRU": "спотыкаться или мгновенно терять равновесие; допускать ошибку или повторять ошибки в речи.",
+        "descriptionTR": "Bir şeye takılmak veya geçici olarak dengemi kaybetmek; konuşmada hata yapmak veya tekrar eden hatalar yapmak.",
+        "descriptionAZ": "Bir şeyə ilişmək və ya müvəqqəti tarazlığını itirmək; danışıqda səhv etmək və ya təkrar səhvlər etmək.",
+        "descriptionUK": "спіткнутися або тимчасово втратити рівновагу; робити помилку або повторювані помилки у мовленні."
     }, {
         "de": "tauschen",
         "en": "exchange",
         "ru": "обмен",
+        "tr": "Değiş tokuş yapmak",
+        "az": "Mübadilə etmək",
+        "uk": "Обмінювати",
         "descriptionDE": "etwas geben und etwas von gleicher Art im Austausch erhalten; tauschen.",
         "descriptionEN": "give something and receive something of the same kind in return; swap.",
-        "descriptionRU": "давать что-то и получать что-то такого же рода взамен; менять."
+        "descriptionRU": "давать что-то и получать что-то такого же рода взамен; менять.",
+        "descriptionTR": "Bir şeyi verip karşılığında aynı türden bir şey almak; takas etmek.",
+        "descriptionAZ": "Bir şeyi verib əvəzində eyni növdən bir şey almaq; dəyişmək.",
+        "descriptionUK": "дати щось і отримати щось такого ж виду натомість; обмінювати."
     }, {
         "de": "begleiten",
         "en": "accompany",
         "ru": "сопровождать",
+        "tr": "Eşlik etmek",
+        "az": "Yoldaşlıq etmək",
+        "uk": "Супроводжувати",
         "descriptionDE": "irgendwohin mitgehen (jemanden) als Begleiter oder Eskorte.",
         "descriptionEN": "go somewhere with (someone) as a companion or escort.",
-        "descriptionRU": "идти куда-то в качестве спутника или сопровождающего (кого-то)."
+        "descriptionRU": "идти куда-то в качестве спутника или сопровождающего (кого-то).",
+        "descriptionTR": "Birine eşlik etmek veya refakatçi olarak bir yere gitmek.",
+        "descriptionAZ": "Birinə yoldaşlıq etmək və ya müşayiətçi kimi bir yerdə getmək.",
+        "descriptionUK": "іти кудись з кимось як супутник або ескорт."
     }
 ]

@@ -1,0 +1,8 @@
+in the given array add to each item the following:
+
+tr: translation of the word in turkish
+az: translation of the word in azerbaijani
+uk: translation of the word in ukranian
+descriptionUK: description of the word in ukranian
+descriptionTR: description of the word in turkish
+descriptionAZ: description of the word in azerbaijani

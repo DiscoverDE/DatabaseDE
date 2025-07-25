@@ -3,12 +3,18 @@
         "name": {
             "de": "Ein Tag in Köln",
             "en": "A Day in Cologne",
-            "ru": "День в Кёльне"
+            "ru": "День в Кёльне",
+            "tr": "Köln'de Bir Gün",
+            "uk": "День у Кельні",
+            "az": "Köln-də Bir Gün"
         },
         "description": {
             "de": "Maraike's Samstag",
             "en": "Maraike's Saturday",
-            "ru": "Суббота Марайки"
+            "ru": "Суббота Марайки",
+            "tr": "Maraike'nin Cumartesi",
+            "uk": "Субота Марайки",
+            "az": "Maraike'nin Şənbəsi"
         },
         "level": "A2",
         "image": "Maraike.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "de": "Adrians Köln",
             "en": "Adrian's Cologne",
-            "ru": "Кельн Адриана"
+            "ru": "Кельн Адриана",
+            "tr": "Adrian'ın Köln'ü",
+            "uk": "Кельн Адріана",
+            "az": "Adrian-ın Köln-ü"
         },
         "description": {
             "de": "Entdeckung der Lieblingsorte",
             "en": "Exploring Favorite Places",
-            "ru": "Исследование любимых мест"
+            "ru": "Исследование любимых мест",
+            "tr": "Favori Yerleri Keşfetmek",
+            "uk": "Дослідження улюблених місць",
+            "az": "Sevimli Yerləri Kəşf Etmək"
         },
         "level": "A2",
         "image": "ExploringCologne.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "de": "Einkaufsabenteuer",
             "en": "Shopping Adventure",
-            "ru": "Приключение в магазине"
+            "ru": "Приключение в магазине",
+            "tr": "Alışveriş Macerası",
+            "uk": "Пригода в магазині",
+            "az": "Alış-veriş Macərası"
         },
         "description": {
             "de": "Pauls erstes Einkaufen",
             "en": "Paul's First Shopping",
-            "ru": "Первые покупки Поля"
+            "ru": "Первые покупки Поля",
+            "tr": "Paul'ün İlk Alışverişi",
+            "uk": "Перші покупки Поля",
+            "az": "Paul-ün İlk Alış-verişi"
         },
         "level": "A2",
         "image": "Einkaufen.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "de": "Kölner Begegnung",
             "en": "Meeting in Cologne",
-            "ru": "Знакомство в Кельне"
+            "ru": "Знакомство в Кельне",
+            "tr": "Köln'de Buluşma",
+            "uk": "Знайомство у Кельні",
+            "az": "Köln-də Görüş"
         },
         "description": {
             "en": "City Rediscovery",
             "de": "Stadt-Wiederentdeckung",
-            "ru": "Переосмысление города"
+            "ru": "Переосмысление города",
+            "tr": "Şehri Yeniden Keşfetmek",
+            "uk": "Переосмислення міста",
+            "az": "Şəhəri Yenidən Kəşf Etmək"
         },
         "level": "A2",
         "image": "Meeting_Cologne.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "en": "Urban Dreamers",
             "de": "Stadträume",
-            "ru": "Городские мечтатели"
+            "ru": "Городские мечтатели",
+            "tr": "Şehir Hayalperestleri",
+            "uk": "Міські мрійники",
+            "az": "Şəhər Xəyalpərəstləri"
         },
         "description": {
             "en": "Friendship in the city",
             "de": "Freundschaft in der Stadt",
-            "ru": "Дружба в городе"
+            "ru": "Дружба в городе",
+            "tr": "Şehirde Arkadaşlık",
+            "uk": "Дружба у місті",
+            "az": "Şəhərdə Dostluq"
         },
         "level": "A2",
         "image": "FriendshipWork.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "en": "Fragrant Legacy",
             "de": "Duftvolles Erbe",
-            "ru": "Ароматное наследие"
+            "ru": "Ароматное наследие",
+            "tr": "Kokulu Miras",
+            "uk": "Ароматна спадщина",
+            "az": "Ətri İrs"
         },
         "description": {
             "en": "Legacy of Eau de Cologne",
             "de": "Erbe des Eau de Cologne",
-            "ru": "Наследие одеколона"
+            "ru": "Наследие одеколона",
+            "tr": "Eau de Cologne Mirası",
+            "uk": "Спадщина одеколону",
+            "az": "Eau de Cologne Mirası"
         },
         "level": "B1",
         "image": "Parfum.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "de": "Morgenerlebnisse",
             "en": "Morning Explorations",
-            "ru": "Утренние приключения"
+            "ru": "Утренние приключения",
+            "tr": "Sabah Keşifleri",
+            "uk": "Ранкові пригоди",
+            "az": "Səhər Kəşfləri"
         },
         "description": {
             "en": "An Interview with Citizens",
             "de": "Ein Interview mit Bürgern",
-            "ru": "Интервью с горожанами"
+            "ru": "Интервью с горожанами",
+            "tr": "Vatandaşlarla Bir Röportaj",
+            "uk": "Інтерв'ю з мешканцями",
+            "az": "Vətəndaşlarla Müsahibə"
         },
         "level": "B1",
         "image": "MorgenerlebnisseI.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "de": "Schokoladenparadies",
             "en": "Chocolate Paradise",
-            "ru": "Шоколадный рай"
+            "ru": "Шоколадный рай",
+            "tr": "Çikolata Cenneti",
+            "uk": "Шоколадний рай",
+            "az": "Şokolad Cənnəti"
         },
         "description": {
             "de": "Jan Hoffmann im Schokoladenmuseum",
             "en": "Jan Hoffmann at the Chocolate Museum",
-            "ru": "Ян Хоффман в Шоколадном музее"
+            "ru": "Ян Хоффман в Шоколадном музее",
+            "tr": "Jan Hoffmann Çikolata Müzesi'nde",
+            "uk": "Ян Гоффман у Шоколадному музеї",
+            "az": "Jan Hoffmann Şokolad Muzeyində"
         },
         "level": "B1",
         "image": "Schokoladenparadies.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "de": "Freundschaft",
             "en": "Friendship",
-            "ru": "Дружба"
+            "ru": "Дружба",
+            "tr": "Arkadaşlık",
+            "uk": "Дружба",
+            "az": "Dostluq"
         },
         "description": {
             "de": "Unterschiedliche Menschen und Kulturen",
             "en": "Different people and cultures",
-            "ru": "Разные люди и культуры"
+            "ru": "Разные люди и культуры",
+            "tr": "Farklı İnsanlar ve Kültürler",
+            "uk": "Різні люди та культури",
+            "az": "Fərqli İnsanlar və Mədəniyyətlər"
         },
         "level": "B1",
         "image": "Friendship.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "de": "Osterfest",
             "en": "Easter festival",
-            "ru": "Пасха"
+            "ru": "Пасха",
+            "tr": "Paskalya Festivali",
+            "uk": "Великдень",
+            "az": "Pasxa Festivalı"
         },
         "description": {
             "de": "Von Trauer zu Freude",
             "en": "From sadness to joy",
-            "ru": "От траура к радости"
+            "ru": "От траура к радости",
+            "tr": "Üzüntüden Neşeye",
+            "uk": "Від смутку до радості",
+            "az": "Kədərdən Şada"
         },
         "level": "B1",
         "image": "Ostern.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "de": "Unvergessliche Begegnungen",
             "en": "Memorable Encounters",
-            "ru": "Незабвенные встречи"
+            "ru": "Незабвенные встречи",
+            "tr": "Unutulmaz Karşılaşmalar",
+            "uk": "Незабутні зустрічі",
+            "az": "Unudulmaz Görüşlər"
         },
         "description": {
             "de": "Eine Reise mit der Kölner Seilbahn",
             "en": "A Journey on the Cologne Cable Car",
-            "ru": "Путешествие на Кельнской канатной дороге"
+            "ru": "Путешествие на Кельнской канатной дороге",
+            "tr": "Köln Teleferiği ile Bir Yolculuk",
+            "uk": "Подорож на Кельнській канатній дорозі",
+            "az": "Köln Kabel Yolu ilə Səyahət"
         },
         "level": "B2",
         "image": "Seilbahn.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "de": "Meine Familie",
             "en": "My family",
-            "ru": "Моя семья"
+            "ru": "Моя семья",
+            "tr": "Ailem",
+            "uk": "Моя сім'я",
+            "az": "Ailəm"
         },
         "description": {
             "de": "Grüße aus Köln",
             "en": "Greetings from Cologne",
-            "ru": "Привет из Кёльна"
+            "ru": "Привет из Кёльна",
+            "tr": "Köln'den Selamlar",
+            "uk": "Привіт з Кельна",
+            "az": "Köln-dən Salamlar"
         },
         "level": "B2",
         "image": "Sarah.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "de": "Flughafen Bonn/Köln",
             "en": "Bonn/Cologne Airport",
-            "ru": "Аэропорт Бонн/Кельн"
+            "ru": "Аэропорт Бонн/Кельн",
+            "tr": "Bonn/Köln Havalimanı",
+            "uk": "Аеропорт Бонн/Кельн",
+            "az": "Bonn/Köln Hava Limanı"
         },
         "description": {
             "en": "Interesting details about the airport",
             "de": "Interessante Details über den Flughafen",
-            "ru": "Интересные детали аэропорта"
+            "ru": "Интересные детали аэропорта",
+            "tr": "Havalimanı Hakkında İlginç Detaylar",
+            "uk": "Цікаві деталі про аеропорт",
+            "az": "Hava Limanı Haqqında Maraqlı Detallar"
         },
         "level": "B2",
         "image": "Flughafen_Cologne_Bonn.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "de": "Kölns Erbe",
             "en": "Cologne's Heritage",
-            "ru": "Наследие Кёльна"
+            "ru": "Наследие Кёльна",
+            "tr": "Köln'ün Mirası",
+            "uk": "Спадщина Кельна",
+            "az": "Köln-ün Mirası"
         },
         "description": {
             "de": "Ein Zentrum der Literatur und Kunst",
             "en": "A Hub of Literature and Art",
-            "ru": "Центр литературы и искусства"
+            "ru": "Центр литературы и искусства",
+            "tr": "Edebiyat ve Sanat Merkezi",
+            "uk": "Центр літератури та мистецтва",
+            "az": "Ədəbiyyat və İncəsənət Mərkəzi"
         },
         "level": "B2",
         "image": "Literatur.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "de": "Kölner Messe",
             "en": "Cologne Fair",
-            "ru": "Кельнская Ярмарка"
+            "ru": "Кельнская Ярмарка",
+            "tr": "Köln Fuarı",
+            "uk": "Кельнський ярмарок",
+            "az": "Köln Yarmarkası"
         },
         "description": {
             "de": "Ein Globales Zentrum für Wirtschaft",
             "en": "A Global Hub for Business",
-            "ru": "Глобальный Центр Бизнеса"
+            "ru": "Глобальный Центр Бизнеса",
+            "tr": "Küresel Bir İş Merkezi",
+            "uk": "Глобальний центр бізнесу",
+            "az": "Qlobal Biznes Mərkəzi"
         },
         "level": "B2",
         "image": "Koelnmesse.jpg",

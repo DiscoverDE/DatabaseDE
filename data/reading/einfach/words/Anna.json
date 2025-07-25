@@ -3,246 +3,456 @@
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "поїзд",
         "descriptionEN": "a connected series of railroad cars propelled by a locomotive",
         "descriptionRU": "соединенная серия вагонов, тянемых локомотивом",
-        "descriptionDE": "eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive angetrieben wird"
+        "descriptionDE": "eine verbundene Reihe von Eisenbahnwagen, die von einer Lokomotive angetrieben wird",
+        "descriptionTR": "Lokomotif tarafından itilen bağlı demiryolu vagonları serisi",
+        "descriptionAZ": "Lokomotiv tərəfindən hərəkət etdirilən bağlı dəmiryol vaqonları seriyası",
+        "descriptionUK": "Пов'язана серія залізничних вагонів, що рухаються локомотивом"
     }, {
         "de": "die Frau",
         "en": "woman",
         "ru": "женщина",
+        "tr": "kadın",
+        "az": "qadın",
+        "uk": "жінка",
         "descriptionEN": "adult human female",
         "descriptionRU": "взрослая женщина",
-        "descriptionDE": "erwachsene weibliche Person"
+        "descriptionDE": "erwachsene weibliche Person",
+        "descriptionTR": "Yetişkin insan dişi",
+        "descriptionAZ": "Yetkin insan qadını",
+        "descriptionUK": "Доросла людина жіночої статі"
     }, {
         "de": "der Bahnhof",
         "en": "train station",
         "ru": "вокзал",
+        "tr": "tren istasyonu",
+        "az": "qatar vağzalı",
+        "uk": "залізничний вокзал",
         "descriptionEN": "a place where trains regularly stop for passengers",
         "descriptionRU": "место, где поезда регулярно останавливаются для пассажиров",
-        "descriptionDE": "ein Ort, an dem Züge regelmäßig für Passagiere halten"
+        "descriptionDE": "ein Ort, an dem Züge regelmäßig für Passagiere halten",
+        "descriptionTR": "Trenlerin yolcular için düzenli olarak durduğu yer",
+        "descriptionAZ": "Qatarların sərnişinlər üçün müntəzəm olaraq dayandığı yer",
+        "descriptionUK": "Місце, де поїзди регулярно зупиняються для пасажирів"
     }, {
         "de": "das Gleis",
         "en": "platform",
         "ru": "платформа",
+        "tr": "peron",
+        "az": "platforma",
+        "uk": "платформа",
         "descriptionEN": "a flat area beside railroad tracks where passengers board and disembark from trains",
         "descriptionRU": "плоская площадка рядом с железнодорожными путями, на которой пассажиры садятся и высаживаются из поездов",
-        "descriptionDE": "eine ebene Fläche neben den Bahngleisen, auf der Passagiere in Züge ein- und aussteigen"
+        "descriptionDE": "eine ebene Fläche neben den Bahngleisen, auf der Passagiere in Züge ein- und aussteigen",
+        "descriptionTR": "Yolcuların trenlere binip indikleri demiryolu raylarının yanındaki düz alan",
+        "descriptionAZ": "Sərnişinlərin qatarlara minib endikləri dəmiryol relslərinin yanındakı düz sahə",
+        "descriptionUK": "Плоска ділянка біля залізничних колій, де пасажири сідають і виходять з поїздів"
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence and events",
         "descriptionRU": "неопределенное продолжение существования и событий",
-        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse"
+        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse",
+        "descriptionTR": "Varlık ve olayların belirsiz sürekli ilerlemesi",
+        "descriptionAZ": "Varlıq və hadisələrin qeyri-müəyyən davamlı irəliləyişi",
+        "descriptionUK": "Невизначений безперервний прогрес існування та подій"
     }, {
         "de": "die Hilfe",
         "en": "help",
         "ru": "помощь",
+        "tr": "yardım",
+        "az": "kömək",
+        "uk": "допомога",
         "descriptionEN": "assistance or support given to someone in need",
         "descriptionRU": "помощь или поддержка, оказываемая кому-то в нужде",
-        "descriptionDE": "Unterstützung oder Hilfe, die jemandem in Not gegeben wird"
+        "descriptionDE": "Unterstützung oder Hilfe, die jemandem in Not gegeben wird",
+        "descriptionTR": "İhtiyacı olan birine verilen yardım veya destek",
+        "descriptionAZ": "Ehtiyacı olan kiməsə verilən yardım və ya dəstək",
+        "descriptionUK": "Допомога або підтримка, надана комусь у потребі"
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence and events",
         "descriptionRU": "неопределенное продолжение существования и событий",
-        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse"
+        "descriptionDE": "der unbegrenzte fortlaufende Fortschritt des Daseins und der Ereignisse",
+        "descriptionTR": "Varlık ve olayların belirsiz sürekli ilerlemesi",
+        "descriptionAZ": "Varlıq və hadisələrin qeyri-müəyyən davamlı irəliləyişi",
+        "descriptionUK": "Невизначений безперервний прогрес існування та подій"
     }, {
         "de": "der Kaffee",
         "en": "coffee",
         "ru": "кофе",
+        "tr": "kahve",
+        "az": "qəhvə",
+        "uk": "кава",
         "descriptionEN": "a drink made from roasted and ground coffee beans",
         "descriptionRU": "напиток из обжаренных и молотых кофейных зерен",
-        "descriptionDE": "ein Getränk aus gerösteten und gemahlenen Kaffeebohnen"
+        "descriptionDE": "ein Getränk aus gerösteten und gemahlenen Kaffeebohnen",
+        "descriptionTR": "Kavrulmuş ve öğütülmüş kahve çekirdeklerinden yapılan içecek",
+        "descriptionAZ": "Qovurulmuş və üyüdülmüş qəhvə dənələrindən hazırlanan içki",
+        "descriptionUK": "Напій з обсмажених і мелених кавових зерен"
     }, {
         "de": "das Wasser",
         "en": "water",
         "ru": "вода",
+        "tr": "su",
+        "az": "su",
+        "uk": "вода",
         "descriptionEN": "a transparent, odorless, tasteless liquid essential for life",
         "descriptionRU": "прозрачная, без запаха, безвкусная жидкость, необходимая для жизни",
-        "descriptionDE": "eine transparente, geruchlose, geschmacklose Flüssigkeit, die lebensnotwendig ist"
+        "descriptionDE": "eine transparente, geruchlose, geschmacklose Flüssigkeit, die lebensnotwendig ist",
+        "descriptionTR": "Yaşam için gerekli şeffaf, kokusuz, tatsız sıvı",
+        "descriptionAZ": "Həyat üçün vacib olan şəffaf, qoxusuz, dadsız maye",
+        "descriptionUK": "Прозора, без запаху, безсмакова рідина, необхідна для життя"
     }, {
         "de": "der Hunger",
         "en": "hunger",
         "ru": "голод",
+        "tr": "açlık",
+        "az": "aclıq",
+        "uk": "голод",
         "descriptionEN": "a feeling of discomfort or weakness caused by lack of food",
         "descriptionRU": "чувство дискомфорта или слабости, вызванное отсутствием пищи",
-        "descriptionDE": "ein Gefühl von Unbehagen oder Schwäche aufgrund von Nahrungsmangel"
+        "descriptionDE": "ein Gefühl von Unbehagen oder Schwäche aufgrund von Nahrungsmangel",
+        "descriptionTR": "Yiyecek eksikliğinden kaynaklanan rahatsızlık veya zayıflık hissi",
+        "descriptionAZ": "Qida çatışmazlığından yaranan narahatlıq və ya zəiflik hissi",
+        "descriptionUK": "Відчуття дискомфорту або слабкості, викликане нестачею їжі"
     }, {
         "de": "die Vorfreude",
         "en": "anticipation",
         "ru": "ожидание с нетерпением",
+        "tr": "beklenti",
+        "az": "gözlənti",
+        "uk": "очікування",
         "descriptionEN": "pleasurable expectation of an upcoming event",
         "descriptionRU": "приятное ожидание предстоящего события",
-        "descriptionDE": "angenehme Erwartung eines bevorstehenden Ereignisses"
+        "descriptionDE": "angenehme Erwartung eines bevorstehenden Ereignisses",
+        "descriptionTR": "Yaklaşan bir olayın keyifli beklentisi",
+        "descriptionAZ": "Gələcək hadisənin xoş gözlənməsi",
+        "descriptionUK": "Приємне очікування майбутньої події"
     }, {
         "de": "der Platz",
         "en": "place",
         "ru": "место",
+        "tr": "yer",
+        "az": "yer",
+        "uk": "місце",
         "descriptionEN": "a specific portion of space",
         "descriptionRU": "определенная часть пространства",
-        "descriptionDE": "ein bestimmter Bereich des Raumes"
+        "descriptionDE": "ein bestimmter Bereich des Raumes",
+        "descriptionTR": "Belirli bir alan kısmı",
+        "descriptionAZ": "Məkanın müəyyən hissəsi",
+        "descriptionUK": "Певна частина простору"
     }, {
         "de": "die Verspätung",
         "en": "delay",
         "ru": "задержка",
+        "tr": "gecikme",
+        "az": "gecikdirmə",
+        "uk": "затримка",
         "descriptionEN": "the action of delaying or the state of being delayed",
         "descriptionRU": "действие задержки или состояние задержки",
-        "descriptionDE": "die Handlung des Verzögerns oder der Zustand der Verzögerung"
+        "descriptionDE": "die Handlung des Verzögerns oder der Zustand der Verzögerung",
+        "descriptionTR": "Geciktirme eylemi veya geciktirilme durumu",
+        "descriptionAZ": "Gecikdirmə hərəkəti və ya gecikdirilmə vəziyyəti",
+        "descriptionUK": "Дія затримки або стан затримки"
     }, {
         "de": "die Ewigkeit",
         "en": "eternity",
         "ru": "вечность",
+        "tr": "sonsuzluk",
+        "az": "əbədiyyət",
+        "uk": "вічність",
         "descriptionEN": "infinite or unending time",
         "descriptionRU": "бесконечное или нескончаемое время",
-        "descriptionDE": "unendliche oder endlose Zeit"
+        "descriptionDE": "unendliche oder endlose Zeit",
+        "descriptionTR": "Sonsuz veya bitmeyen zaman",
+        "descriptionAZ": "Sonsuz və ya bitməyən vaxt",
+        "descriptionUK": "Нескінченний або безкінечний час"
     }, {
         "de": "das Brötchen",
         "en": "roll (bread)",
         "ru": "булочка",
+        "tr": "çörek",
+        "az": "çörək",
+        "uk": "булочка",
         "descriptionEN": "a small bread typically baked and served hot",
         "descriptionRU": "маленький хлеб, обычно выпекаемый и подающийся горячим",
-        "descriptionDE": "ein kleines Brot, das typischerweise gebacken und warm serviert wird"
+        "descriptionDE": "ein kleines Brot, das typischerweise gebacken und warm serviert wird",
+        "descriptionTR": "Genellikle pişirilip sıcak servis edilen küçük ekmek",
+        "descriptionAZ": "Adətən bişirilən və isti verilən kiçik çörək",
+        "descriptionUK": "Маленький хліб, зазвичай випечений і поданий гарячим"
     }, {
         "de": "der Snack",
         "en": "snack",
         "ru": "закуска",
+        "tr": "atıştırmalık",
+        "az": "qəlyanaltı",
+        "uk": "закуска",
         "descriptionEN": "a small amount of food eaten between meals",
         "descriptionRU": "небольшое количество еды, съедаемое между основными приемами пищи",
-        "descriptionDE": "eine kleine Menge Essen, die zwischen den Mahlzeiten gegessen wird"
+        "descriptionDE": "eine kleine Menge Essen, die zwischen den Mahlzeiten gegessen wird",
+        "descriptionTR": "Öğünler arasında yenen az miktarda yiyecek",
+        "descriptionAZ": "Yeməklər arasında yeyilən az miqdarda qida",
+        "descriptionUK": "Невелика кількість їжі, що вживається між прийомами їжі"
     }, {
         "de": "der Bus",
         "en": "bus",
         "ru": "автобус",
+        "tr": "otobüs",
+        "az": "avtobus",
+        "uk": "автобус",
         "descriptionEN": "a large motor vehicle carrying passengers by road",
         "descriptionRU": "большой автомобиль, перевозящий пассажиров по дороге",
-        "descriptionDE": "ein großes Kraftfahrzeug, das Passagiere auf der Straße befördert"
+        "descriptionDE": "ein großes Kraftfahrzeug, das Passagiere auf der Straße befördert",
+        "descriptionTR": "Yolda yolcu taşıyan büyük motorlu araç",
+        "descriptionAZ": "Yolda sərnişin daşıyan böyük motorlu nəqliyyat vasitəsi",
+        "descriptionUK": "Великий моторний транспортний засіб, що перевозить пасажирів дорогою"
     }, {
         "de": "die Mitarbeiter",
         "en": "employees",
         "ru": "сотрудники",
+        "tr": "çalışanlar",
+        "az": "işçilər",
+        "uk": "співробітники",
         "descriptionEN": "people who work for an organization",
         "descriptionRU": "люди, работающие в организации",
-        "descriptionDE": "Personen, die für eine Organisation arbeiten"
+        "descriptionDE": "Personen, die für eine Organisation arbeiten",
+        "descriptionTR": "Bir organizasyon için çalışan insanlar",
+        "descriptionAZ": "Təşkilat üçün işləyən insanlar",
+        "descriptionUK": "Люди, які працюють в організації"
     }, {
         "de": "der Informationsschalter",
         "en": "information desk",
         "ru": "информационный стол",
+        "tr": "bilgi masası",
+        "az": "məlumat masası",
+        "uk": "інформаційний стіл",
         "descriptionEN": "a counter, typically in a public place, where information and assistance are provided",
         "descriptionRU": "стойка, обычно в общественном месте, где предоставляются информация и помощь",
-        "descriptionDE": "ein Schalter, typischerweise an öffentlichen Orten, an dem Informationen und Hilfe angeboten werden"
+        "descriptionDE": "ein Schalter, typischerweise an öffentlichen Orten, an dem Informationen und Hilfe angeboten werden",
+        "descriptionTR": "Genellikle halka açık yerlerde bilgi ve yardım sağlanan tezgah",
+        "descriptionAZ": "Adətən ictimai yerlərdə məlumat və yardım təqdim edilən piştaxta",
+        "descriptionUK": "Стійка, зазвичай у громадському місці, де надається інформація та допомога"
     }, {
         "de": "die Mitarbeiterin",
         "en": "employee (female)",
         "ru": "сотрудница",
+        "tr": "çalışan (kadın)",
+        "az": "işçi (qadın)",
+        "uk": "співробітниця",
         "descriptionEN": "a woman who works for an organization",
         "descriptionRU": "женщина, работающая в организации",
-        "descriptionDE": "eine Frau, die für eine Organisation arbeitet"
+        "descriptionDE": "eine Frau, die für eine Organisation arbeitet",
+        "descriptionTR": "Bir organizasyon için çalışan kadın",
+        "descriptionAZ": "Təşkilat üçün işləyən qadın",
+        "descriptionUK": "Жінка, яка працює в організації"
     }, {
         "de": "fahren",
         "en": "to drive",
         "ru": "ехать",
+        "tr": "sürmek",
+        "az": "sürmək",
+        "uk": "їхати",
         "descriptionEN": "to travel in a vehicle",
         "descriptionRU": "путешествовать на транспортном средстве",
-        "descriptionDE": "in einem Fahrzeug reisen"
+        "descriptionDE": "in einem Fahrzeug reisen",
+        "descriptionTR": "Bir araçla seyahat etmek",
+        "descriptionAZ": "Nəqliyyat vasitəsilə səyahət etmək",
+        "descriptionUK": "Подорожувати транспортним засобом"
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посетить",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "to go to see someone in their home or where they work",
         "descriptionRU": "пойти навестить кого-то дома или на работе",
-        "descriptionDE": "jemanden zu Hause oder an seinem Arbeitsplatz besuchen"
+        "descriptionDE": "jemanden zu Hause oder an seinem Arbeitsplatz besuchen",
+        "descriptionTR": "Birini evinde veya çalıştığı yerde görmeye gitmek",
+        "descriptionAZ": "Kiminsə evində və ya işlədiyi yerdə görməyə getmək",
+        "descriptionUK": "Піти побачити когось вдома або на роботі"
     }, {
         "de": "vermissen",
         "en": "to miss",
         "ru": "скучать",
+        "tr": "özlemek",
+        "az": "darıxmaq",
+        "uk": "сумувати",
         "descriptionEN": "to feel sad because you are not with someone",
         "descriptionRU": "чувствовать грусть из-за того, что ты не с кем-то",
-        "descriptionDE": "traurig sein, weil man nicht mit jemandem zusammen ist"
+        "descriptionDE": "traurig sein, weil man nicht mit jemandem zusammen ist",
+        "descriptionTR": "Biriyle birlikte olmadığın için üzgün hissetmek",
+        "descriptionAZ": "Kiminləsə birlikdə olmadığın üçün kədərlənmək",
+        "descriptionUK": "Відчувати сум через те, що ти не з кимось"
     }, {
         "de": "planen",
         "en": "to plan",
         "ru": "планировать",
+        "tr": "planlamak",
+        "az": "planlaşdırmaq",
+        "uk": "планувати",
         "descriptionEN": "to decide what you are going to do and how you are going to do it",
         "descriptionRU": "решить, что вы собираетесь делать и как вы это будете делать",
-        "descriptionDE": "entscheiden, was man tun und wie man es tun wird"
+        "descriptionDE": "entscheiden, was man tun und wie man es tun wird",
+        "descriptionTR": "Ne yapacağınıza ve nasıl yapacağınıza karar vermek",
+        "descriptionAZ": "Nə edəcəyinizə və necə edəcəyinizə qərar vermək",
+        "descriptionUK": "Вирішити, що ви збираєтеся робити і як ви це будете робити"
     }, {
         "de": "helfen",
         "en": "to help",
         "ru": "помогать",
+        "tr": "yardım etmek",
+        "az": "kömək etmək",
+        "uk": "допомагати",
         "descriptionEN": "to make it easier for someone to do something",
         "descriptionRU": "сделать что-то легче для кого-то",
-        "descriptionDE": "es jemandem erleichtern, etwas zu tun"
+        "descriptionDE": "es jemandem erleichtern, etwas zu tun",
+        "descriptionTR": "Birinin bir şey yapmasını kolaylaştırmak",
+        "descriptionAZ": "Kiminsə bir şey etməsini asanlaşdırmaq",
+        "descriptionUK": "Полегшити комусь щось зробити"
     }, {
         "de": "ankommen",
         "en": "to arrive",
         "ru": "прибыть",
+        "tr": "varmak",
+        "az": "çatmaq",
+        "uk": "прибувати",
         "descriptionEN": "to reach a place, especially at the end of a journey",
         "descriptionRU": "достигнуть места, особенно в конце путешествия",
-        "descriptionDE": "einen Ort erreichen, besonders am Ende einer Reise"
+        "descriptionDE": "einen Ort erreichen, besonders am Ende einer Reise",
+        "descriptionTR": "Özellikle bir yolculuğun sonunda bir yere ulaşmak",
+        "descriptionAZ": "Xüsusilə səyahətin sonunda bir yerə çatmaq",
+        "descriptionUK": "Досягти місця, особливо в кінці подорожі"
     }, {
         "de": "warten",
         "en": "to wait",
         "ru": "ждать",
+        "tr": "beklemek",
+        "az": "gözləmək",
+        "uk": "чекати",
         "descriptionEN": "to stay in one place until something happens or someone arrives",
         "descriptionRU": "оставаться на одном месте, пока что-то не случится или кто-то не придет",
-        "descriptionDE": "an einem Ort bleiben, bis etwas passiert oder jemand ankommt"
+        "descriptionDE": "an einem Ort bleiben, bis etwas passiert oder jemand ankommt",
+        "descriptionTR": "Bir şey olana veya biri gelene kadar bir yerde kalmak",
+        "descriptionAZ": "Bir şey baş verənə və ya kimsə gələnə qədər bir yerdə qalmaq",
+        "descriptionUK": "Залишатися в одному місці, поки щось не станеться або хтось не прийде"
     }, {
         "de": "kaufen",
         "en": "to buy",
         "ru": "купить",
+        "tr": "satın almak",
+        "az": "almaq",
+        "uk": "купувати",
         "descriptionEN": "to get something by paying money for it",
         "descriptionRU": "получить что-то, заплатив за это деньги",
-        "descriptionDE": "etwas durch Bezahlung erwerben"
+        "descriptionDE": "etwas durch Bezahlung erwerben",
+        "descriptionTR": "Bir şeyi para ödeyerek elde etmek",
+        "descriptionAZ": "Bir şeyi pul ödəyərək əldə etmək",
+        "descriptionUK": "Отримати щось, заплативши за це гроші"
     }, {
         "de": "finden",
         "en": "to find",
         "ru": "найти",
+        "tr": "bulmak",
+        "az": "tapmaq",
+        "uk": "знаходити",
         "descriptionEN": "to discover something or someone by looking for them carefully",
         "descriptionRU": "обнаружить что-то или кого-то, ища их внимательно",
-        "descriptionDE": "etwas oder jemanden entdecken, indem man sorgfältig danach sucht"
+        "descriptionDE": "etwas oder jemanden entdecken, indem man sorgfältig danach sucht",
+        "descriptionTR": "Dikkatli bir şekilde arayarak bir şeyi veya birini keşfetmek",
+        "descriptionAZ": "Diqqətlə axtararaq bir şeyi və ya kimisə kəşf etmək",
+        "descriptionUK": "Виявити щось або когось, ретельно шукаючи їх"
     }, {
         "de": "trinken",
         "en": "to drink",
         "ru": "пить",
+        "tr": "içmek",
+        "az": "içmək",
+        "uk": "пити",
         "descriptionEN": "to take liquid into the body through the mouth",
         "descriptionRU": "принимать жидкость в организм через рот",
-        "descriptionDE": "Flüssigkeit durch den Mund in den Körper aufnehmen"
+        "descriptionDE": "Flüssigkeit durch den Mund in den Körper aufnehmen",
+        "descriptionTR": "Ağızdan vücuda sıvı almak",
+        "descriptionAZ": "Ağızdan bədənə maye qəbul etmək",
+        "descriptionUK": "Приймати рідину в організм через рот"
     }, {
         "de": "müde",
         "en": "tired",
         "ru": "усталый",
+        "tr": "yorgun",
+        "az": "yorğun",
+        "uk": "втомлений",
         "descriptionEN": "needing to rest or sleep",
         "descriptionRU": "нуждающийся в отдыхе или сне",
-        "descriptionDE": "Ruhe oder Schlaf benötigend"
+        "descriptionDE": "Ruhe oder Schlaf benötigend",
+        "descriptionTR": "Dinlenme veya uyku ihtiyacı olan",
+        "descriptionAZ": "Dincəlmə və ya yuxu ehtiyacı olan",
+        "descriptionUK": "Потребує відпочинку або сну"
     }, {
         "de": "ungeduldig",
         "en": "impatient",
         "ru": "нетерпеливый",
+        "tr": "sabırsız",
+        "az": "səbirsiz",
+        "uk": "нетерплячий",
         "descriptionEN": "wanting something to happen as soon as possible",
         "descriptionRU": "хотящий, чтобы что-то произошло как можно скорее",
-        "descriptionDE": "möchte, dass etwas so schnell wie möglich passiert"
+        "descriptionDE": "möchte, dass etwas so schnell wie möglich passiert",
+        "descriptionTR": "Bir şeyin mümkün olduğunca çabuk olmasını isteyen",
+        "descriptionAZ": "Bir şeyin mümkün qədər tez baş verməsini istəyən",
+        "descriptionUK": "Хоче, щоб щось сталося якомога швидше"
     }, {
         "de": "genau",
         "en": "exactly",
         "ru": "точно",
+        "tr": "tam olarak",
+        "az": "dəqiq",
+        "uk": "точно",
         "descriptionEN": "in a complete and detailed way",
         "descriptionRU": "полным и подробным образом",
-        "descriptionDE": "auf vollständige und detaillierte Weise"
+        "descriptionDE": "auf vollständige und detaillierte Weise",
+        "descriptionTR": "Tam ve ayrıntılı bir şekilde",
+        "descriptionAZ": "Tam və ətraflı şəkildə",
+        "descriptionUK": "Повним і детальним способом"
     }, {
         "de": "sonnig",
         "en": "sunny",
         "ru": "солнечный",
+        "tr": "güneşli",
+        "az": "günəşli",
+        "uk": "сонячний",
         "descriptionEN": "having a lot of light and warmth from the sun",
         "descriptionRU": "имеющий много света и тепла от солнца",
-        "descriptionDE": "mit viel Licht und Wärme von der Sonne"
+        "descriptionDE": "mit viel Licht und Wärme von der Sonne",
+        "descriptionTR": "Güneşten çok ışık ve sıcaklığa sahip",
+        "descriptionAZ": "Günəşdən çox işıq və istiliyə malik",
+        "descriptionUK": "Має багато світла і тепла від сонця"
     }, {
         "de": "hilfsbereit",
         "en": "helpful",
         "ru": "полезный",
+        "tr": "yardımsever",
+        "az": "kömək edən",
+        "uk": "готовий допомогти",
         "descriptionEN": "willing to help",
         "descriptionRU": "готовый помочь",
-        "descriptionDE": "bereit zu helfen"
+        "descriptionDE": "bereit zu helfen",
+        "descriptionTR": "Yardım etmeye istekli",
+        "descriptionAZ": "Kömək etməyə hazır",
+        "descriptionUK": "Готовий допомогти"
     }
 ]

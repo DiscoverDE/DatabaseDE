@@ -4,7 +4,10 @@
         "title": {
             "de": "Lebensfreude in Bonn",
             "en": "Joy of Life in Bonn",
-            "ru": "Радость жизни в Бонне"
+            "ru": "Радость жизни в Бонне",
+            "tr": "Bonn'da Yaşam Sevinci",
+            "uk": "Радість життя в Бонні",
+            "az": "Bonn'da Həyat Sevinci"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Anna.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Anna.json"
@@ -13,7 +16,10 @@
         "title": {
             "de": "Süße Geheimnisse",
             "en": "Sweet Secrets",
-            "ru": "Сладкие тайны"
+            "ru": "Сладкие тайны",
+            "tr": "Tatlı Sırlar",
+            "uk": "Солодкі таємниці",
+            "az": "Şirin Sirlər"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Geheimnisse.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Geheimnisse.json"
@@ -22,7 +28,10 @@
         "title": {
             "de": "Gesundheitsberatung",
             "en": "Health Consultation",
-            "ru": "Опыт консультации по здоровью"
+            "ru": "Опыт консультации по здоровью",
+            "tr": "Sağlık Danışmanlığı",
+            "uk": "Консультація зі здоров'я",
+            "az": "Sağlamlıq Məsləhəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Krankheit.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Krankheit.json"
@@ -31,7 +40,10 @@
         "title": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
-            "ru": "Теплый выходной"
+            "ru": "Теплый выходной",
+            "tr": "Sıcak Hafta Sonu",
+            "uk": "Теплі вихідні",
+            "az": "İsti Həftəsonu"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Weekend.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Weekend.json"
@@ -40,7 +52,10 @@
         "title": {
             "de": "Wohnungssuche",
             "en": "Flat search",
-            "ru": "Поиск жилья"
+            "ru": "Поиск жилья",
+            "tr": "Daire Arama",
+            "uk": "Пошук житла",
+            "az": "Mənzil Axtarışı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Wohnung.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Wohnung.json"
@@ -49,7 +64,10 @@
         "title": {
             "de": "Der rosa Zwischenfall",
             "en": "The Pink Incident",
-            "ru": "Розовый инцидент"
+            "ru": "Розовый инцидент",
+            "tr": "Pembe Olay",
+            "uk": "Рожевий інцидент",
+            "az": "Çəhrayı Hadisə"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/PinkIncident.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/PinkIncident.json"
@@ -58,7 +76,10 @@
         "title": {
             "de": "Karnevalsfreude",
             "en": "Carnival joy",
-            "ru": "Радость карнавала"
+            "ru": "Радость карнавала",
+            "tr": "Karnaval Sevinci",
+            "uk": "Радість карнавалу",
+            "az": "Karnaval Sevinci"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Karnevalsfreude.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Karnevalsfreude.json"
@@ -67,7 +88,10 @@
         "title": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
-            "ru": "Почему Бонн?"
+            "ru": "Почему Бонн?",
+            "tr": "Neden Bonn?",
+            "uk": "Чому Бонн?",
+            "az": "Niyə Bonn?"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Bonn.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Warum_Bonn.json"
@@ -76,7 +100,10 @@
         "title": {
             "de": "Diamanten und Täuschung",
             "en": "Diamonds and deception",
-            "ru": "Бриллианты и обман"
+            "ru": "Бриллианты и обман",
+            "tr": "Elmaslar ve Aldatma",
+            "uk": "Діаманти та обман",
+            "az": "Brilyantlar və Aldatma"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Frank.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Frank.json"
@@ -85,7 +112,10 @@
         "title": {
             "de": "Harmonien der Vergangenheit",
             "en": "Harmonies of the Past",
-            "ru": "Гармонии прошлого"
+            "ru": "Гармонии прошлого",
+            "tr": "Geçmişin Uyumu",
+            "uk": "Гармонії минулого",
+            "az": "Keçmişin Harmoniyaları"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Rock_Symphony.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Rock_Symphony.json"
@@ -94,7 +124,10 @@
         "title": {
             "de": "Wandern durch die Geschichte",
             "en": "Hiking through History",
-            "ru": "Путешествие в прошлое"
+            "ru": "Путешествие в прошлое",
+            "tr": "Tarih Boyunca Yürüyüş",
+            "uk": "Подорож у минуле",
+            "az": "Tarix Boyu Gəzinti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Wandern.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Wandern.json"
@@ -103,7 +136,10 @@
         "title": {
             "de": "Karnevalsfeier",
             "en": "Carnival Celebration",
-            "ru": "Празднование карнавала"
+            "ru": "Празднование карнавала",
+            "tr": "Karnaval Kutlaması",
+            "uk": "Святкування карнавалу",
+            "az": "Karnaval Bayramı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/RosenmontagBonn.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/RosenmontagBonn.json"
@@ -112,7 +148,10 @@
         "title": {
             "de": "Zugverspätungen",
             "en": "Train Delays",
-            "ru": "Задержки поездов"
+            "ru": "Задержки поездов",
+            "tr": "Tren Gecikmeleri",
+            "uk": "Затримки поїздів",
+            "az": "Qatar Gecikmələri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Zugverspetung.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Zugverspetung.json"
@@ -121,7 +160,10 @@
         "title": {
             "de": "COVID mit Beethoven",
             "en": "COVID with Beethoven",
-            "ru": "КОВИД с Бетховеном"
+            "ru": "КОВИД с Бетховеном",
+            "tr": "Beethoven ile COVID",
+            "uk": "COVID з Бетховеном",
+            "az": "Beethoven ilə COVID"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/COVID_Beethoven.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/COVID_Beethoven.json"
@@ -130,7 +172,10 @@
         "title": {
             "de": "Das Arithmeum ",
             "en": "The Arithmeum",
-            "ru": "Аритмеум"
+            "ru": "Аритмеум",
+            "tr": "Aritmeum",
+            "uk": "Аритмеум",
+            "az": "Aritmeum"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/img/Arithmeum.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/bonn/words/Arithmeum.json"

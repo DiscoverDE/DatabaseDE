@@ -3,106 +3,196 @@
         "de": "die Stadt",
         "en": "City",
         "ru": "Город",
+        "tr": "Şehir",
+        "az": "Şəhər",
+        "uk": "Місто",
         "descriptionEN": "a large and permanent human settlement.",
         "descriptionRU": "Большое и постоянное человеческое поселение.",
-        "descriptionDE": "Eine große und dauerhafte menschliche Siedlung."
+        "descriptionDE": "Eine große und dauerhafte menschliche Siedlung.",
+        "descriptionTR": "Büyük ve kalıcı bir insan yerleşimi.",
+        "descriptionAZ": "Böyük və daimi insan yaşayış məntəqəsi.",
+        "descriptionUK": "Велике та постійне людське поселення."
     }, {
         "de": "der Tourist",
         "en": "Tourist",
         "ru": "Турист",
+        "tr": "Turist",
+        "az": "Turist",
+        "uk": "Турист",
         "descriptionEN": "a person who is traveling or visiting a place for pleasure.",
         "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
-        "descriptionDE": "Eine Person, die reist oder einen Ort zum Vergnügen besucht."
+        "descriptionDE": "Eine Person, die reist oder einen Ort zum Vergnügen besucht.",
+        "descriptionTR": "Bir yeri zevk için gezen veya ziyaret eden kişi.",
+        "descriptionAZ": "Bir yeri zövq üçün gəzən və ya ziyarət edən şəxs.",
+        "descriptionUK": "Людина, яка подорожує або відвідує місце для задоволення."
     }, {
         "de": "der Grund",
         "en": "Reason",
         "ru": "Причина",
+        "tr": "Sebep",
+        "az": "Səbəb",
+        "uk": "Причина",
         "descriptionEN": "a cause or justification for an action or event.",
         "descriptionRU": "Причина или обоснование для действия или события.",
-        "descriptionDE": "Eine Ursache oder Rechtfertigung für eine Handlung oder ein Ereignis."
+        "descriptionDE": "Eine Ursache oder Rechtfertigung für eine Handlung oder ein Ereignis.",
+        "descriptionTR": "Bir eylem veya olayın nedeni veya gerekçesi.",
+        "descriptionAZ": "Bir hərəkət və ya hadisənin səbəbi və ya əsası.",
+        "descriptionUK": "Причина або обґрунтування для дії чи події."
     }, {
         "de": "die Kirschblüte",
         "en": "Cherry Blossom",
         "ru": "Цветение вишни",
+        "tr": "Kiraz Çiçeği",
+        "az": "Albalı Çiçəyi",
+        "uk": "Цвітіння вишні",
         "descriptionEN": "the period during which cherry trees bloom.",
         "descriptionRU": "Период цветения вишни.",
-        "descriptionDE": "Die Zeit, in der Kirschbäume blühen."
+        "descriptionDE": "Die Zeit, in der Kirschbäume blühen.",
+        "descriptionTR": "Kiraz ağaçlarının çiçek açtığı dönem.",
+        "descriptionAZ": "Albalı ağaclarının çiçək açdığı dövr.",
+        "descriptionUK": "Період, коли цвітуть вишневі дерева."
     }, {
         "de": "der Musiker",
         "en": "Musician",
         "ru": "Музыкант",
+        "tr": "Müzisyen",
+        "az": "Musiqiçi",
+        "uk": "Музикант",
         "descriptionEN": "a person who plays a musical instrument or is musically talented.",
         "descriptionRU": "Человек, играющий на музыкальном инструменте или обладающий музыкальным талантом.",
-        "descriptionDE": "Eine Person, die ein Musikinstrument spielt oder musikalisch begabt ist."
+        "descriptionDE": "Eine Person, die ein Musikinstrument spielt oder musikalisch begabt ist.",
+        "descriptionTR": "Bir müzik aleti çalan veya müzik yeteneği olan kişi.",
+        "descriptionAZ": "Musiqi aləti çalan və ya musiqi qabiliyyəti olan şəxs.",
+        "descriptionUK": "Людина, яка грає на музичному інструменті або має музичний талант."
     }, {
         "de": "die Heimat",
         "en": "Homeland",
         "ru": "Родина",
+        "tr": "Vatan",
+        "az": "Vətən",
+        "uk": "Батьківщина",
         "descriptionEN": "one's place of origin; a country to which one belongs.",
         "descriptionRU": "Место происхождения; страна, к которой принадлежит человек.",
-        "descriptionDE": "Der Ursprungsort einer Person; ein Land, zu dem man gehört."
+        "descriptionDE": "Der Ursprungsort einer Person; ein Land, zu dem man gehört.",
+        "descriptionTR": "Bir kişinin kökeninin olduğu yer; ait olduğu ülke.",
+        "descriptionAZ": "Bir şəxsin mənşəyinin olduğu yer; aid olduğu ölkə.",
+        "descriptionUK": "Місце походження; країна, до якої належить людина."
     }, {
         "de": "das Souvenir",
         "en": "Souvenir",
         "ru": "Сувенир",
+        "tr": "Hatıra",
+        "az": "Souvenir",
+        "uk": "Сувенір",
         "descriptionEN": "a keepsake or token of remembrance.",
         "descriptionRU": "Сувенир или токен воспоминания.",
-        "descriptionDE": "Ein Andenken oder Erinnerungszeichen."
+        "descriptionDE": "Ein Andenken oder Erinnerungszeichen.",
+        "descriptionTR": "Bir hatıra veya anı nesnesi.",
+        "descriptionAZ": "Xatirə və ya yadigar əşya.",
+        "descriptionUK": "Пам'ятка чи знак спогаду."
     }, {
         "de": "der Spaziergang",
         "en": "Stroll",
         "ru": "Прогулка",
+        "tr": "Yürüyüş",
+        "az": "Gəzinti",
+        "uk": "Прогулянка",
         "descriptionEN": "a leisurely walk; a wander on foot.",
         "descriptionRU": "Неспешная прогулка; бродяжничество пешком.",
-        "descriptionDE": "Ein gemütlicher Spaziergang; ein Fußmarsch."
+        "descriptionDE": "Ein gemütlicher Spaziergang; ein Fußmarsch.",
+        "descriptionTR": "Rahat bir yürüyüş; ayakla gezinti.",
+        "descriptionAZ": "Rahat gəzinti; piyada səyahət.",
+        "descriptionUK": "Невпинна прогулянка; блукання пішки."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren",
+        "az": "Reyn",
+        "uk": "Рейн",
         "descriptionEN": "a European river flowing from the Swiss Alps through Germany to the North Sea.",
         "descriptionRU": "Европейская река, текущая из швейцарских Альп через Германию в Северное море.",
-        "descriptionDE": "Ein europäischer Fluss, der von den Schweizer Alpen durch Deutschland bis zur Nordsee fließt."
+        "descriptionDE": "Ein europäischer Fluss, der von den Schweizer Alpen durch Deutschland bis zur Nordsee fließt.",
+        "descriptionTR": "İsviçre Alplerinden doğup Almanya'dan geçerek Kuzey Denizi'ne dökülen bir Avrupa nehri.",
+        "descriptionAZ": "İsveçrə Alplarından qaynaqlanan və Almaniyadan keçərək Şimal dənizinə tökülən Avropa çayı.",
+        "descriptionUK": "Європейська річка, що бере початок у Швейцарських Альпах, тече через Німеччину та впадає у Північне море."
     }, {
         "de": "der Freizeitpark",
         "en": "Amusement Park",
         "ru": "Парк развлечений",
+        "tr": "Eğlence Parkı",
+        "az": "Əyləncə Parkı",
+        "uk": "Парк розваг",
         "descriptionEN": "a large outdoor area with fairground rides, games, and shows.",
         "descriptionRU": "Большая территория на открытом воздухе с аттракционами, играми и представлениями.",
-        "descriptionDE": "Ein großer Freiluftbereich mit Jahrmarktattraktionen, Spielen und Shows."
+        "descriptionDE": "Ein großer Freiluftbereich mit Jahrmarktattraktionen, Spielen und Shows.",
+        "descriptionTR": "Lunapark oyuncakları, oyunlar ve gösteriler içeren büyük bir açık hava alanı.",
+        "descriptionAZ": "Yarmarka attraksionları, oyunlar və şoular olan böyük açıq hava sahəsi.",
+        "descriptionUK": "Велика територія на відкритому повітрі з атракціонами, іграми та виставами."
     }, {
         "de": "die Oase",
         "en": "Oasis",
         "ru": "Оазис",
+        "tr": "Vaha",
+        "az": "Vaha",
+        "uk": "Оазис",
         "descriptionEN": "a fertile spot in a desert where water is found.",
         "descriptionRU": "Плодородное место в пустыне, где есть вода.",
-        "descriptionDE": "Eine fruchtbare Stelle in der Wüste, an der Wasser zu finden ist."
+        "descriptionDE": "Eine fruchtbare Stelle in der Wüste, an der Wasser zu finden ist.",
+        "descriptionTR": "Çölde su bulunan verimli bir nokta.",
+        "descriptionAZ": "Səhrada su tapılan münbit bir yer.",
+        "descriptionUK": "Родюче місце в пустелі, де є вода."
     }, {
         "de": "das Picknick",
         "en": "Picnic",
         "ru": "Пикник",
+        "tr": "Piknik",
+        "az": "Piknik",
+        "uk": "Пікнік",
         "descriptionEN": "an outdoor meal where participants bring their food.",
         "descriptionRU": "Пикник - прием пищи на свежем воздухе, где участники принесли свою еду.",
-        "descriptionDE": "Eine Mahlzeit im Freien, bei der die Teilnehmer ihr Essen mitbringen."
+        "descriptionDE": "Eine Mahlzeit im Freien, bei der die Teilnehmer ihr Essen mitbringen.",
+        "descriptionTR": "Katılımcıların kendi yiyeceklerini getirdiği açık hava yemeği.",
+        "descriptionAZ": "İştirakçıların öz yeməklərini gətirdiyi açıq havada yemək.",
+        "descriptionUK": "Прийом їжі на свіжому повітрі, де учасники приносять свою їжу."
     }, {
         "de": "das Eichhörnchen",
         "en": "Squirrel",
         "ru": "Белка",
+        "tr": "Sincap",
+        "az": "Dələ",
+        "uk": "Білка",
         "descriptionEN": "a small, bushy-tailed rodent often seen climbing trees.",
         "descriptionRU": "Маленькое, кистевиднохвостое грызунчик, часто видимое на деревьях.",
-        "descriptionDE": "Ein kleines, buschschwänziges Nagetier, das oft beim Klettern auf Bäumen gesehen wird."
+        "descriptionDE": "Ein kleines, buschschwänziges Nagetier, das oft beim Klettern auf Bäumen gesehen wird.",
+        "descriptionTR": "Ağaçlara tırmanırken sık görülen küçük, kuyruklu bir kemirgen.",
+        "descriptionAZ": "Ağaclara dırmaşarkən tez-tez görülən kiçik, quyruqlu gəmirici.",
+        "descriptionUK": "Маленький гризун з пухнастим хвостом, якого часто можна побачити на деревах."
     }, {
         "de": "die Ente",
         "en": "Duck",
         "ru": "Утка",
+        "tr": "Ördek",
+        "az": "Ördək",
+        "uk": "Качка",
         "descriptionEN": "a waterbird with a broad flat bill, webbed feet, and a quack.",
         "descriptionRU": "Водоплавающая птица с широким плоским клювом, лапами с перепонками и кряквой.",
-        "descriptionDE": "Ein Wasservogel mit einem breiten flachen Schnabel, Schwimmfüßen und einem Quaken."
+        "descriptionDE": "Ein Wasservogel mit einem breiten flachen Schnabel, Schwimmfüßen und einem Quaken.",
+        "descriptionTR": "Geniş düz gagalı, perdeli ayaklı ve vakvaklayan bir su kuşu.",
+        "descriptionAZ": "Geniş düz dimdikli, pərdəli ayaqlı və vıq-vıq edən su quşu.",
+        "descriptionUK": "Водоплавний птах з широким плоским дзьобом, перетинчастими лапами та кряканням."
     }, {
         "de": "das Buch",
         "en": "Book",
         "ru": "Книга",
+        "tr": "Kitap",
+        "az": "Kitab",
+        "uk": "Книга",
         "descriptionEN": "a written or printed work consisting of pages glued or sewn together.",
         "descriptionRU": "Письменное или печатное произведение, состоящее из склеенных или сшитых страниц.",
-        "descriptionDE": "Ein schriftliches oder gedrucktes Werk, bestehend aus zusammengeklebten oder zusammengenähten Seiten."
+        "descriptionDE": "Ein schriftliches oder gedrucktes Werk, bestehend aus zusammengeklebten oder zusammengenähten Seiten.",
+        "descriptionTR": "Yapıştırılmış veya dikilmiş sayfalardan oluşan yazılı veya basılı eser.",
+        "descriptionAZ": "Yapışdırılmış və ya tikilmiş səhifələrdən ibarət yazılı və ya çap əsəri.",
+        "descriptionUK": "Письмовий або друкований твір, що складається зі склеєних або зшитих сторінок."
     }
 ]

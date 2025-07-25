@@ -5,139 +5,259 @@
         "ru": "Календарь",
         "descriptionEN": "A system for organizing days for social, religious, commercial, or administrative purposes.",
         "descriptionRU": "Система для организации дней для социальных, религиозных, коммерческих или административных целей.",
-        "descriptionDE": "Ein System zur Organisation von Tagen für soziale, religiöse, kommerzielle oder administrative Zwecke."
+        "descriptionDE": "Ein System zur Organisation von Tagen für soziale, religiöse, kommerzielle oder administrative Zwecke.",
+        "tr": "Takvim",
+        "az": "Təqvim",
+        "uk": "Календар",
+        "descriptionTR": "Sosyal, dini, ticari veya idari amaçlar için günleri düzenleme sistemi.",
+        "descriptionAZ": "Sosial, dini, ticarət və ya inzibati məqsədlər üçün günləri təşkil etmək üçün bir sistem.",
+        "descriptionUK": "Система організації днів для соціальних, релігійних, комерційних або адміністративних цілей."
     }, {
         "de": "die Pause",
         "en": "Break",
         "ru": "Перерыв",
         "descriptionEN": "A short period of rest or relaxation.",
         "descriptionRU": "Короткий период отдыха или расслабления.",
-        "descriptionDE": "Eine kurze Zeit der Ruhe oder Entspannung."
+        "descriptionDE": "Eine kurze Zeit der Ruhe oder Entspannung.",
+        "tr": "Mola",
+        "az": "Fasilə",
+        "uk": "Перерва",
+        "descriptionTR": "Kısa bir dinlenme veya rahatlama süresi.",
+        "descriptionAZ": "Qısa istirahət və ya rahatlama dövrü.",
+        "descriptionUK": "Короткий період відпочинку або розслаблення."
     }, {
         "de": "die Gedanken",
         "en": "Thoughts",
         "ru": "Мысли",
         "descriptionEN": "The product of mental activity; ideas or reflections.",
         "descriptionRU": "Результат умственной деятельности; идеи или размышления.",
-        "descriptionDE": "Das Produkt geistiger Aktivität; Ideen oder Überlegungen."
+        "descriptionDE": "Das Produkt geistiger Aktivität; Ideen oder Überlegungen.",
+        "tr": "Düşünceler",
+        "az": "Fikirlər",
+        "uk": "Думки",
+        "descriptionTR": "Zihinsel aktivitenin ürünü; fikirler veya yansımalar.",
+        "descriptionAZ": "Əqli fəaliyyətin məhsulu; ideyalar və ya əks etdirmələr.",
+        "descriptionUK": "Продукт розумової діяльності; ідеї або роздуми."
     }, {
         "de": "das Wasser",
         "en": "Water",
         "ru": "Вода",
         "descriptionEN": "A clear, colorless, odorless, and tasteless liquid essential for life.",
         "descriptionRU": "Прозрачная, бесцветная, без запаха и вкуса жидкость, необходимая для жизни.",
-        "descriptionDE": "Eine klare, farb- und geruchlose Flüssigkeit, die für das Leben unerlässlich ist."
+        "descriptionDE": "Eine klare, farb- und geruchlose Flüssigkeit, die für das Leben unerlässlich ist.",
+        "tr": "Su",
+        "az": "Su",
+        "uk": "Вода",
+        "descriptionTR": "Yaşam için gerekli berrak, renksiz, kokusuz ve tatsız bir sıvı.",
+        "descriptionAZ": "Həyat üçün vacib olan şəffaf, rəngsiz, qoxusuz və dadsız maye.",
+        "descriptionUK": "Прозора, безбарвна, без запаху та смаку рідина, необхідна для життя."
     }, {
         "de": "die Häuser",
         "en": "Houses",
         "ru": "Дома",
         "descriptionEN": "Buildings for human habitation.",
         "descriptionRU": "Здания для проживания людей.",
-        "descriptionDE": "Gebäude für die menschliche Behausung."
+        "descriptionDE": "Gebäude für die menschliche Behausung.",
+        "tr": "Evler",
+        "az": "Evlər",
+        "uk": "Будинки",
+        "descriptionTR": "İnsan yerleşimi için binalar.",
+        "descriptionAZ": "İnsan yaşayışı üçün binalar.",
+        "descriptionUK": "Будівлі для проживання людей."
     }, {
         "de": "die Menschenmassen",
         "en": "Crowds",
         "ru": "Толпы",
         "descriptionEN": "A large number of people gathered together.",
         "descriptionRU": "Большое количество людей, собравшихся вместе.",
-        "descriptionDE": "Eine große Anzahl von Menschen, die zusammengekommen sind."
+        "descriptionDE": "Eine große Anzahl von Menschen, die zusammengekommen sind.",
+        "tr": "Kalabalıklar",
+        "az": "Kütlələr",
+        "uk": "Натовпи",
+        "descriptionTR": "Bir araya toplanmış çok sayıda insan.",
+        "descriptionAZ": "Birlikdə toplanmış çox sayda insan.",
+        "descriptionUK": "Велика кількість людей, зібраних разом."
     }, {
         "de": "der Kamin",
         "en": "Fireplace",
         "ru": "Камин",
         "descriptionEN": "A structure for containing a fire in a building.",
         "descriptionRU": "Структура для размещения огня в здании.",
-        "descriptionDE": "Eine Struktur zum Beherbergen eines Feuers in einem Gebäude."
+        "descriptionDE": "Eine Struktur zum Beherbergen eines Feuers in einem Gebäude.",
+        "tr": "Şömine",
+        "az": "Kamin",
+        "uk": "Камін",
+        "descriptionTR": "Bir binada ateşin tutulması için bir yapı.",
+        "descriptionAZ": "Binada odun saxlamaq üçün bir quruluş.",
+        "descriptionUK": "Споруда для розміщення вогню в будівлі."
     }, {
         "de": "die Sonne",
         "en": "Sun",
         "ru": "Солнце",
         "descriptionEN": "The star around which the earth orbits.",
         "descriptionRU": "Звезда, вокруг которой вращается Земля.",
-        "descriptionDE": "Der Stern, um den die Erde kreist."
+        "descriptionDE": "Der Stern, um den die Erde kreist.",
+        "tr": "Güneş",
+        "az": "Günəş",
+        "uk": "Сонце",
+        "descriptionTR": "Dünya'nın yörüngesinde döndüğü yıldız.",
+        "descriptionAZ": "Yerin ətrafında fırlanan ulduz.",
+        "descriptionUK": "Зірка, навколо якої обертається Земля."
     }, {
         "de": "der Alltagslärm",
         "en": "Everyday noise",
         "ru": "Повседневный шум",
         "descriptionEN": "The usual background noise of daily life.",
         "descriptionRU": "Обычный фоновый шум повседневной жизни.",
-        "descriptionDE": "Der übliche Hintergrundgeräusch des täglichen Lebens."
+        "descriptionDE": "Der übliche Hintergrundgeräusch des täglichen Lebens.",
+        "tr": "Günlük gürültü",
+        "az": "Gündəlik səs-küy",
+        "uk": "Щоденний шум",
+        "descriptionTR": "Günlük yaşamın olağan arka plan gürültüsü.",
+        "descriptionAZ": "Gündəlik həyatın adi fon səs-küyü.",
+        "descriptionUK": "Звичайний фоновий шум повсякденного життя."
     }, {
         "de": "die Zeit",
         "en": "Time",
         "ru": "Время",
         "descriptionEN": "The indefinite continued progress of existence.",
         "descriptionRU": "Неопределённый продолженный процесс существования.",
-        "descriptionDE": "Der unbestimmte kontinuierliche Fortschritt der Existenz."
+        "descriptionDE": "Der unbestimmte kontinuierliche Fortschritt der Existenz.",
+        "tr": "Zaman",
+        "az": "Zaman",
+        "uk": "Час",
+        "descriptionTR": "Varlığın belirsiz sürekli ilerleyişi.",
+        "descriptionAZ": "Varlığın qeyri-müəyyən davamlı irəliləyişi.",
+        "descriptionUK": "Невизначений безперервний прогрес існування."
     }, {
         "de": "entspannen",
         "en": "To relax",
         "ru": "Расслабляться",
         "descriptionEN": "To make or become less tense or anxious.",
         "descriptionRU": "Сделать или стать менее напряжённым или тревожным.",
-        "descriptionDE": "Sich weniger angespannt oder besorgt fühlen."
+        "descriptionDE": "Sich weniger angespannt oder besorgt fühlen.",
+        "tr": "Rahatlamak",
+        "az": "Rahatlaşmaq",
+        "uk": "Розслабитися",
+        "descriptionTR": "Daha az gergin veya endişeli olmak veya olmak.",
+        "descriptionAZ": "Daha az gərgin və ya narahat olmaq və ya olmaq.",
+        "descriptionUK": "Зробити або стати менш напруженим або тривожним."
     }, {
         "de": "suchen",
         "en": "To search",
         "ru": "Искать",
         "descriptionEN": "To try to find something.",
         "descriptionRU": "Попытаться найти что-то.",
-        "descriptionDE": "Versuchen, etwas zu finden."
+        "descriptionDE": "Versuchen, etwas zu finden.",
+        "tr": "Aramak",
+        "az": "Axtarmaq",
+        "uk": "Шукати",
+        "descriptionTR": "Bir şey bulmaya çalışmak.",
+        "descriptionAZ": "Bir şey tapmağa çalışmaq.",
+        "descriptionUK": "Намагатися щось знайти."
     }, {
         "de": "schauen",
         "en": "To look",
         "ru": "Смотреть",
         "descriptionEN": "To direct one's gaze in a particular direction.",
         "descriptionRU": "Направить взгляд в определённом направлении.",
-        "descriptionDE": "Seinen Blick in eine bestimmte Richtung richten."
+        "descriptionDE": "Seinen Blick in eine bestimmte Richtung richten.",
+        "tr": "Bakmak",
+        "az": "Baxmaq",
+        "uk": "Дивитися",
+        "descriptionTR": "Bakışını belirli bir yöne çevirmek.",
+        "descriptionAZ": "Nəzərini müəyyən bir istiqamətə yönəltmək.",
+        "descriptionUK": "Направити свій погляд у певному напрямку."
     }, {
         "de": "lächeln",
         "en": "To smile",
         "ru": "Улыбаться",
         "descriptionEN": "To make a facial expression of happiness or amusement.",
         "descriptionRU": "Сделать выражение лица счастья или удовольствия.",
-        "descriptionDE": "Ein Gesichtsausdruck von Glück oder Vergnügen machen."
+        "descriptionDE": "Ein Gesichtsausdruck von Glück oder Vergnügen machen.",
+        "tr": "Gülümsemek",
+        "az": "Gülmək",
+        "uk": "Посміхатися",
+        "descriptionTR": "Mutluluk veya eğlence ifadesi yapmak.",
+        "descriptionAZ": "Xoşbəxtlik və ya əyləncə üz ifadəsi etmək.",
+        "descriptionUK": "Зробити вираз обличчя щастя або розваги."
     }, {
         "de": "überwältigen",
         "en": "To overwhelm",
         "ru": "Переполнять",
         "descriptionEN": "To affect someone very strongly or suddenly.",
         "descriptionRU": "Влиять на кого-то очень сильно или внезапно.",
-        "descriptionDE": "Jemanden sehr stark oder plötzlich beeinflussen."
+        "descriptionDE": "Jemanden sehr stark oder plötzlich beeinflussen.",
+        "tr": "Bunaltmak",
+        "az": "Boğmaq",
+        "uk": "Переповнювати",
+        "descriptionTR": "Birini çok güçlü veya aniden etkilemek.",
+        "descriptionAZ": "Kiməsə çox güclü və ya qəfil təsir etmək.",
+        "descriptionUK": "Дуже сильно або раптово впливати на когось."
     }, {
         "de": "ruhig",
         "en": "Quiet",
         "ru": "Тихий",
         "descriptionEN": "Making little or no noise.",
         "descriptionRU": "Создающий мало или никакого шума.",
-        "descriptionDE": "Wenig oder keinen Lärm machen."
+        "descriptionDE": "Wenig oder keinen Lärm machen.",
+        "tr": "Sessiz",
+        "az": "Sakit",
+        "uk": "Тихий",
+        "descriptionTR": "Az veya hiç ses çıkarmayan.",
+        "descriptionAZ": "Az və ya heç səs çıxarmayan.",
+        "descriptionUK": "Створюючий мало або зовсім без шуму."
     }, {
         "de": "gemütlich",
         "en": "Cozy",
         "ru": "Уютный",
         "descriptionEN": "Providing a feeling of comfort and warmth.",
         "descriptionRU": "Обеспечивающий ощущение комфорта и тепла.",
-        "descriptionDE": "Ein Gefühl von Komfort und Wärme bieten."
+        "descriptionDE": "Ein Gefühl von Komfort und Wärme bieten.",
+        "tr": "Rahat",
+        "az": "Rahat",
+        "uk": "Затишний",
+        "descriptionTR": "Rahatlık ve sıcaklık hissi veren.",
+        "descriptionAZ": "Rahatlıq və istilik hissi verən.",
+        "descriptionUK": "Забезпечує відчуття комфорту та тепла."
     }, {
         "de": "wundervoll",
         "en": "Wonderful",
         "ru": "Чудесный",
         "descriptionEN": "Inspiring delight or admiration.",
         "descriptionRU": "Вдохновляющий восторг или восхищение.",
-        "descriptionDE": "Begeisterung oder Bewunderung hervorrufend."
+        "descriptionDE": "Begeisterung oder Bewunderung hervorrufend.",
+        "tr": "Harika",
+        "az": "Möhtəşəm",
+        "uk": "Чудовий",
+        "descriptionTR": "Zevk veya hayranlık uyandıran.",
+        "descriptionAZ": "Zövq və ya heyranlıq yaradan.",
+        "descriptionUK": "Надихаючий захват або захоплення."
     }, {
         "de": "fantastisch",
         "en": "Fantastic",
         "ru": "Фантастический",
         "descriptionEN": "Extraordinarily good or impressive.",
         "descriptionRU": "Необыкновенно хороший или впечатляющий.",
-        "descriptionDE": "Außergewöhnlich gut oder beeindruckend."
+        "descriptionDE": "Außergewöhnlich gut oder beeindruckend.",
+        "tr": "Fantastik",
+        "az": "Fantastik",
+        "uk": "Фантастичний",
+        "descriptionTR": "Olağanüstü iyi veya etkileyici.",
+        "descriptionAZ": "Fövqəladə yaxşı və ya təsirli.",
+        "descriptionUK": "Надзвичайно гарний або вражаючий."
     }, {
         "de": "einfach",
         "en": "Simple",
         "ru": "Простой",
         "descriptionEN": "Easily understood or done.",
         "descriptionRU": "Легко понимаемый или выполненный.",
-        "descriptionDE": "Leicht zu verstehen oder zu tun."
+        "descriptionDE": "Leicht zu verstehen oder zu tun.",
+        "tr": "Basit",
+        "az": "Sadə",
+        "uk": "Простий",
+        "descriptionTR": "Kolayca anlaşılan veya yapılan.",
+        "descriptionAZ": "Asanlıqla başa düşülən və ya edilən.",
+        "descriptionUK": "Легко зрозумілий або виконаний."
     }
 ]

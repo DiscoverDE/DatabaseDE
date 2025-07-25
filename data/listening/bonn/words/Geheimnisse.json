@@ -3,246 +3,456 @@
         "de": "das Opernhaus",
         "en": "opera house",
         "ru": "оперный театр",
+        "tr": "opera binası",
+        "az": "opera evi",
+        "uk": "оперний театр",
         "descriptionDE": "Ein Veranstaltungsort für Opernaufführungen.",
         "descriptionEN": "A venue for opera performances.",
-        "descriptionRU": "Место для проведения оперных представлений."
+        "descriptionRU": "Место для проведения оперных представлений.",
+        "descriptionUK": "Місце для проведення оперних вистав.",
+        "descriptionTR": "Opera performanslarının yapıldığı bir mekan.",
+        "descriptionAZ": "Opera performanslarının keçirildiyi bir məkan."
     }, {
         "de": "die Aufführung",
         "en": "performance",
         "ru": "представление",
+        "tr": "performans",
+        "az": "performans",
+        "uk": "вистава",
         "descriptionDE": "Eine öffentliche Präsentation eines Stücks, Konzerts oder einer anderen Form der Unterhaltung.",
         "descriptionEN": "A public presentation of a play, concert, or other form of entertainment.",
-        "descriptionRU": "Публичное представление пьесы, концерта или другого вида развлечения."
+        "descriptionRU": "Публичное представление пьесы, концерта или другого вида развлечения.",
+        "descriptionUK": "Публічне представлення п'єси, концерту або іншого виду розваг.",
+        "descriptionTR": "Bir oyun, konser veya başka bir eğlence biçiminin halka açık sunumu.",
+        "descriptionAZ": "Bir pyes, konsert və ya başqa bir əyləncə növünün ictimai təqdimatı."
     }, {
         "de": "der Diebstahl",
         "en": "theft",
         "ru": "кража",
+        "tr": "hırsızlık",
+        "az": "oğurluq",
+        "uk": "крадіжка",
         "descriptionDE": "Die Handlung des Stehlens; das unrechtmäßige Nehmen und Wegtragen fremden Eigentums.",
         "descriptionEN": "The act of stealing; the wrongful taking and carrying away of someone else's property.",
-        "descriptionRU": "Акт кражи; незаконное похищение и унесение чужого имущества."
+        "descriptionRU": "Акт кражи; незаконное похищение и унесение чужого имущества.",
+        "descriptionUK": "Акт крадіжки; незаконне викрадення та винесення чужого майна.",
+        "descriptionTR": "Çalma eylemi; başkasının malını haksız yere alıp götürme.",
+        "descriptionAZ": "Oğurluq hərəkəti; başqasının əmlakını haqsız olaraq götürmək və aparmaq."
     }, {
         "de": "der Detektiv",
         "en": "detective",
         "ru": "детектив",
+        "tr": "dedektif",
+        "az": "detektiv",
+        "uk": "детектив",
         "descriptionDE": "Eine Person, normalerweise ein Privatdetektiv, die Verbrechen untersucht und löst.",
         "descriptionEN": "A person, usually a private investigator, who investigates and solves crimes.",
-        "descriptionRU": "Человек, обычно частный детектив, занимающийся расследованием и разгадыванием преступлений."
+        "descriptionRU": "Человек, обычно частный детектив, занимающийся расследованием и разгадыванием преступлений.",
+        "descriptionUK": "Людина, зазвичай приватний детектив, яка займається розслідуванням та розгадуванням злочинів.",
+        "descriptionTR": "Genellikle özel dedektif olan, suçları araştıran ve çözen bir kişi.",
+        "descriptionAZ": "Adətən xüsusi detektiv olan, cinayətləri araşdıran və həll edən bir şəxs."
     }, {
         "de": "die Herausforderung",
         "en": "challenge",
         "ru": "вызов",
+        "tr": "meydan okuma",
+        "az": "meydan oxuma",
+        "uk": "виклик",
         "descriptionDE": "Eine anspruchsvolle oder stimulierende Situation, die Anstrengung und Geschick erfordert, um sie zu bewältigen.",
         "descriptionEN": "A demanding or stimulating situation that requires effort and skill to overcome.",
-        "descriptionRU": "Требующая усилий и навыков ситуация, стимулирующая к преодолению."
+        "descriptionRU": "Требующая усилий и навыков ситуация, стимулирующая к преодолению.",
+        "descriptionUK": "Вимагає зусиль і навичок ситуація, що стимулює до подолання.",
+        "descriptionTR": "Üstesinden gelmek için çaba ve beceri gerektiren zorlu veya teşvik edici bir durum.",
+        "descriptionAZ": "Üstəsindən gəlmək üçün səy və bacarıq tələb edən tələbkar və ya stimullaşdırıcı bir vəziyyət."
     }, {
         "de": "das Büro",
         "en": "office",
         "ru": "офис",
+        "tr": "ofis",
+        "az": "ofis",
+        "uk": "офіс",
         "descriptionDE": "Ein Raum oder eine Reihe von Räumen, die für Verwaltungs-, Berufs- oder Geschäftstätigkeiten genutzt werden.",
         "descriptionEN": "A room or set of rooms used for administrative, professional, or business activities.",
-        "descriptionRU": "Комната или набор комнат, используемых для административной, профессиональной или деловой деятельности."
+        "descriptionRU": "Комната или набор комнат, используемых для административной, профессиональной или деловой деятельности.",
+        "descriptionUK": "Кімната або набір кімнат, що використовуються для адміністративної, професійної або ділової діяльності.",
+        "descriptionTR": "İdari, profesyonel veya iş faaliyetleri için kullanılan bir oda veya bir dizi oda.",
+        "descriptionAZ": "İnzibati, peşəkar və ya biznes fəaliyyətləri üçün istifadə olunan bir otaq və ya bir sıra otaq."
     }, {
         "de": "die Handtasche",
         "en": "handbag",
         "ru": "сумка",
+        "tr": "el çantası",
+        "az": "əl çantası",
+        "uk": "сумка",
         "descriptionDE": "Eine kleine Tasche, die in der Regel von Frauen getragen wird und dazu dient, persönliche Gegenstände aufzubewahren.",
         "descriptionEN": "A small bag, typically carried by women, used for holding personal items.",
-        "descriptionRU": "Маленькая сумка, обычно носимая женщинами, используемая для хранения личных вещей."
+        "descriptionRU": "Маленькая сумка, обычно носимая женщинами, используемая для хранения личных вещей.",
+        "descriptionUK": "Маленька сумка, яку зазвичай носять жінки, використовується для зберігання особистих речей.",
+        "descriptionTR": "Genellikle kadınlar tarafından taşınan, kişisel eşyaları saklamak için kullanılan küçük bir çanta.",
+        "descriptionAZ": "Adətən qadınlar tərəfindən daşınan, şəxsi əşyaları saxlamaq üçün istifadə olunan kiçik bir çanta."
     }, {
         "de": "der Stromausfall",
         "en": "power outage",
         "ru": "отключение электроэнергии",
+        "tr": "elektrik kesintisi",
+        "az": "elektrik kəsilməsi",
+        "uk": "відключення електроенергії",
         "descriptionDE": "Ein Zeitraum, während dessen die Stromversorgung für einen bestimmten Bereich unterbrochen ist.",
         "descriptionEN": "A period during which the electricity supply to a particular area is interrupted.",
-        "descriptionRU": "Период, в течение которого прерывается подача электроэнергии в конкретном районе."
+        "descriptionRU": "Период, в течение которого прерывается подача электроэнергии в конкретном районе.",
+        "descriptionUK": "Період, протягом якого переривається подача електроенергії в конкретному районі.",
+        "descriptionTR": "Belirli bir bölgeye elektrik tedarikinin kesildiği bir dönem.",
+        "descriptionAZ": "Müəyyən bir əraziyə elektrik təchizatının kəsildiyi bir dövr."
     }, {
         "de": "die Sicherheitskamera",
         "en": "security camera",
         "ru": "камера видеонаблюдения",
+        "tr": "güvenlik kamerası",
+        "az": "təhlükəsizlik kamerası",
+        "uk": "камера відеоспостереження",
         "descriptionDE": "Ein Gerät, das Aktivitäten in einem bestimmten Bereich zu Sicherheitszwecken überwacht und aufzeichnet.",
         "descriptionEN": "A device that monitors and records activities in a specific area for security purposes.",
-        "descriptionRU": "Устройство, отслеживающее и записывающее деятельность в конкретной зоне в целях обеспечения безопасности."
+        "descriptionRU": "Устройство, отслеживающее и записывающее деятельность в конкретной зоне в целях обеспечения безопасности.",
+        "descriptionUK": "Пристрій, який відстежує та записує діяльність у конкретній зоні з метою забезпечення безпеки.",
+        "descriptionTR": "Belirli bir alandaki faaliyetleri güvenlik amacıyla izleyen ve kaydeden bir cihaz.",
+        "descriptionAZ": "Müəyyən bir ərazidəki fəaliyyətləri təhlükəsizlik məqsədi ilə izləyən və qeyd edən bir cihaz."
     }, {
         "de": "der Wachmann",
         "en": "security guard",
         "ru": "охранник",
+        "tr": "güvenlik görevlisi",
+        "az": "təhlükəsizlik mühafizəçisi",
+        "uk": "охоронець",
         "descriptionDE": "Eine Person, die damit beauftragt ist, Eigentum und Personen vor Diebstahl oder Schaden zu schützen.",
         "descriptionEN": "A person employed to protect property and individuals from theft or harm.",
-        "descriptionRU": "Человек, нанятый для защиты собственности и людей от кражи или ущерба."
+        "descriptionRU": "Человек, нанятый для защиты собственности и людей от кражи или ущерба.",
+        "descriptionUK": "Людина, яку найняли для захисту власності та людей від крадіжки або шкоди.",
+        "descriptionTR": "Mülkü ve bireyleri hırsızlık veya zarardan korumak için çalıştırılan bir kişi.",
+        "descriptionAZ": "Mülkü və şəxsləri oğurluq və ya zərərdən qorumaq üçün işə götürülən bir şəxs."
     }, {
         "de": "die Spur",
         "en": "trace",
         "ru": "след",
+        "tr": "iz",
+        "az": "iz",
+        "uk": "слід",
         "descriptionDE": "Eine Markierung oder Serie von Markierungen, die durch das Vorbeigehen von jemandem oder etwas hinterlassen wurden.",
         "descriptionEN": "A mark or series of marks left by the passage of someone or something.",
-        "descriptionRU": "Отметина или серия отметин, оставленных проходом кого-то или чего-то."
+        "descriptionRU": "Отметина или серия отметин, оставленных проходом кого-то или чего-то.",
+        "descriptionUK": "Позначка або серія позначок, залишених проходом когось або чогось.",
+        "descriptionTR": "Birinin veya bir şeyin geçişiyle bırakılan bir işaret veya bir dizi işaret.",
+        "descriptionAZ": "Birinin və ya bir şeyin keçidi ilə qoyulan bir işarə və ya bir sıra işarə."
     }, {
         "de": "die Polizei",
         "en": "police",
         "ru": "полиция",
+        "tr": "polis",
+        "az": "polis",
+        "uk": "поліція",
         "descriptionDE": "Eine zivile Kraft, die für die Aufrechterhaltung von öffentlicher Ordnung und Sicherheit verantwortlich ist.",
         "descriptionEN": "A civil force responsible for maintaining public order and safety.",
-        "descriptionRU": "Гражданская сила, ответственная за поддержание общественного порядка и безопасности."
+        "descriptionRU": "Гражданская сила, ответственная за поддержание общественного порядка и безопасности.",
+        "descriptionUK": "Цивільна сила, відповідальна за підтримання громадського порядку та безпеки.",
+        "descriptionTR": "Kamu düzeni ve güvenliğini sağlamaktan sorumlu bir sivil güç.",
+        "descriptionAZ": "İctimai qayda və təhlükəsizliyi təmin etmək üçün məsul olan bir mülki qüvvə."
     }, {
         "de": "die Putzfrau",
         "en": "cleaning lady",
         "ru": "уборщица",
+        "tr": "temizlikçi kadın",
+        "az": "təmizlikçi qadın",
+        "uk": "прибиральниця",
         "descriptionDE": "Eine Frau, die damit beauftragt ist, ein Gebäude oder eine Wohnung zu reinigen und die Sauberkeit aufrechtzuerhalten.",
         "descriptionEN": "A woman employed to clean and maintain the cleanliness of a building or residence.",
-        "descriptionRU": "Женщина, нанятая для уборки и поддержания чистоты в здании или жилом помещении."
+        "descriptionRU": "Женщина, нанятая для уборки и поддержания чистоты в здании или жилом помещении.",
+        "descriptionUK": "Жінка, яку найняли для прибирання та підтримання чистоти в будівлі або житловому приміщенні.",
+        "descriptionTR": "Bir binayı veya ikametgahı temizlemek ve temizliği korumak için çalıştırılan bir kadın.",
+        "descriptionAZ": "Bir binanı və ya yaşayış yerini təmizləmək və təmizliyi qorumaq üçün işə götürülən bir qadın."
     }, {
         "de": "der Verbrecher",
         "en": "criminal",
         "ru": "преступник",
+        "tr": "suçlu",
+        "az": "cinayətkar",
+        "uk": "злочинець",
         "descriptionDE": "Eine Person, die Verbrechen begeht, insbesondere solche, die Gewalt oder Diebstahl beinhalten.",
         "descriptionEN": "A person who commits crimes, especially those involving violence or theft.",
-        "descriptionRU": "Человек, совершающий преступления, особенно с использованием насилия или кражи."
+        "descriptionRU": "Человек, совершающий преступления, особенно с использованием насилия или кражи.",
+        "descriptionUK": "Людина, яка вчиняє злочини, особливо з використанням насильства або крадіжки.",
+        "descriptionTR": "Özellikle şiddet veya hırsızlık içeren suçlar işleyen bir kişi.",
+        "descriptionAZ": "Xüsusilə zorakılıq və ya oğurluq cəmiyyəti ilə əlaqəli cinayətlər törədən bir şəxs."
     }, {
         "de": "die Überwachungsaufzeichnung",
         "en": "surveillance recording",
         "ru": "запись видеонаблюдения",
+        "tr": "güvenlik kaydı",
+        "az": "nəzarət qeydi",
+        "uk": "запис відеоспостереження",
         "descriptionDE": "Eine Aufzeichnung überwachter Aktivitäten, die von Überwachungskameras erfasst wurde.",
         "descriptionEN": "A recording of monitored activities captured by surveillance cameras.",
-        "descriptionRU": "Запись отслеживаемых действий, сделанных камерами видеонаблюдения."
+        "descriptionRU": "Запись отслеживаемых действий, сделанных камерами видеонаблюдения.",
+        "descriptionUK": "Запис відстежуваних дій, зроблених камерами відеоспостереження.",
+        "descriptionTR": "Güvenlik kameraları tarafından kaydedilen izlenen faaliyetlerin bir kaydı.",
+        "descriptionAZ": "Təhlükəsizlik kameraları tərəfindən qeydə alınan izlənən fəaliyyətlərin bir qeydi."
     }, {
         "de": "die Zusammenarbeit",
         "en": "collaboration",
         "ru": "сотрудничество",
+        "tr": "iş birliği",
+        "az": "əməkdaşlıq",
+        "uk": "співпраця",
         "descriptionDE": "Die Handlung, gemeinsam mit anderen für einen gemeinsamen Zweck zu arbeiten.",
         "descriptionEN": "The action of working together with others for a common purpose.",
-        "descriptionRU": "Действие совместной работы с другими людьми для достижения общей цели."
+        "descriptionRU": "Действие совместной работы с другими людьми для достижения общей цели.",
+        "descriptionUK": "Дія спільної роботи з іншими людьми для досягнення спільної мети.",
+        "descriptionTR": "Ortak bir amaç için başkalarıyla birlikte çalışma eylemi.",
+        "descriptionAZ": "Ortaq bir məqsəd üçün başqaları ilə birlikdə işləmək hərəkəti."
     }, {
         "de": "die Schuld",
         "en": "guilt",
         "ru": "вина",
+        "tr": "suçluluk",
+        "az": "günahkarlıq",
+        "uk": "вина",
         "descriptionDE": "Ein Gefühl der Verantwortung oder Reue für eine Straftat, ein Verbrechen oder Unrecht.",
         "descriptionEN": "A feeling of responsibility or remorse for some offense, crime, or wrong.",
-        "descriptionRU": "Чувство ответственности или раскаяния за какое-то преступление, проступок или неправильное деяние."
+        "descriptionRU": "Чувство ответственности или раскаяния за какое-то преступление, проступок или неправильное деяние.",
+        "descriptionUK": "Почуття відповідальності або каяття за якийсь злочин, проступок або неправильний вчинок.",
+        "descriptionTR": "Bir suç, kabahat veya yanlış bir eylem için sorumluluk veya pişmanlık duygusu.",
+        "descriptionAZ": "Bir cinayət, günah və ya yanlış bir hərəkət üçün məsuliyyət və ya peşmanlıq hissi."
     }, {
         "de": "der Alltag",
         "en": "everyday life",
         "ru": "повседневная жизнь",
+        "tr": "günlük yaşam",
+        "az": "gündəlik həyat",
+        "uk": "повсякденне життя",
         "descriptionDE": "Die Routine oder gewöhnlichen Aspekte des täglichen Daseins.",
         "descriptionEN": "The routine or ordinary aspects of daily existence.",
-        "descriptionRU": "Рутина или обыденные аспекты повседневного существования."
+        "descriptionRU": "Рутина или обыденные аспекты повседневного существования.",
+        "descriptionUK": "Рутина або звичайні аспекти повсякденного існування.",
+        "descriptionTR": "Günlük varoluşun rutin veya sıradan yönleri.",
+        "descriptionAZ": "Gündəlik mövcudluğun rutin və ya adi aspektləri."
     }, {
         "de": "die Dankbarkeit",
         "en": "gratitude",
         "ru": "благодарность",
+        "tr": "minnettarlık",
+        "az": "minnətdarlıq",
+        "uk": "вдячність",
         "descriptionDE": "Die Qualität, dankbar und anerkennend zu sein.",
         "descriptionEN": "The quality of being thankful and appreciative.",
-        "descriptionRU": "Качество благодарности и признательности."
+        "descriptionRU": "Качество благодарности и признательности.",
+        "descriptionUK": "Якість вдячності та визнання.",
+        "descriptionTR": "Minnettar ve takdir edici olma niteliği.",
+        "descriptionAZ": "Minnətdar və qiymətləndirici olma keyfiyyəti."
     }, {
         "de": "ermitteln",
         "en": "investigate",
         "ru": "расследовать",
+        "tr": "araştırmak",
+        "az": "araşdırmaq",
+        "uk": "розслідувати",
         "descriptionDE": "Eine systematische Untersuchung oder Prüfung eines Verbrechens oder einer anderen Angelegenheit durchführen.",
         "descriptionEN": "To carry out a systematic inquiry or examination into a crime or other matter.",
-        "descriptionRU": "Проводить систематическое расследование или исследование преступления или другого вопроса."
+        "descriptionRU": "Проводить систематическое расследование или исследование преступления или другого вопроса.",
+        "descriptionUK": "Проводити систематичне розслідування або дослідження злочину або іншого питання.",
+        "descriptionTR": "Bir suç veya başka bir konu hakkında sistematik bir soruşturma veya inceleme yürütmek.",
+        "descriptionAZ": "Bir cinayət və ya başqa bir məsələ ilə bağlı sistematik bir sorğu və ya araşdırma aparmaq."
     }, {
         "de": "lösen",
         "en": "solve",
         "ru": "решать",
+        "tr": "çözmek",
+        "az": "həll etmək",
+        "uk": "вирішувати",
         "descriptionDE": "Eine Antwort oder Erklärung für ein Problem oder eine Frage finden.",
         "descriptionEN": "To find an answer or explanation for a problem or question.",
-        "descriptionRU": "Находить ответ или объяснение проблемы или вопроса."
+        "descriptionRU": "Находить ответ или объяснение проблемы или вопроса.",
+        "descriptionUK": "Знаходити відповідь або пояснення проблеми або питання.",
+        "descriptionTR": "Bir sorun veya soruya cevap veya açıklama bulmak.",
+        "descriptionAZ": "Bir problem və ya suala cavab və ya izahat tapmaq."
     }, {
         "de": "sprechen",
         "en": "speak",
         "ru": "говорить",
+        "tr": "konuşmak",
+        "az": "danışmaq",
+        "uk": "говорити",
         "descriptionDE": "Kommunizieren mit Worten; Gedanken, Gefühle oder Informationen verbal ausdrücken.",
         "descriptionEN": "To communicate using words; to express thoughts, feelings, or information verbally.",
-        "descriptionRU": "Общаться, используя слова; выражать мысли, чувства или информацию вербально."
+        "descriptionRU": "Общаться, используя слова; выражать мысли, чувства или информацию вербально.",
+        "descriptionUK": "Спілкуватися, використовуючи слова; виражати думки, почуття або інформацію вербально.",
+        "descriptionTR": "Kelimeler kullanarak iletişim kurmak; düşünceleri, duyguları veya bilgileri sözlü olarak ifade etmek.",
+        "descriptionAZ": "Sözlər istifadə edərək ünsiyyət qurmaq; fikirləri, hissləri və ya məlumatları şifahi şəkildə ifadə etmək."
     }, {
         "de": "helfen",
         "en": "help",
         "ru": "помогать",
+        "tr": "yardım etmek",
+        "az": "kömək etmək",
+        "uk": "допомагати",
         "descriptionDE": "Hilfe oder Unterstützung für jemanden in Not leisten.",
         "descriptionEN": "To give assistance or support to someone in need.",
-        "descriptionRU": "Предоставлять помощь или поддержку тому, кто нуждается."
+        "descriptionRU": "Предоставлять помощь или поддержку тому, кто нуждается.",
+        "descriptionUK": "Надавати допомогу або підтримку тому, хто потребує.",
+        "descriptionTR": "İhtiyacı olan birine yardım veya destek sağlamak.",
+        "descriptionAZ": "Ehtiyacı olan birinə kömək və ya dəstək vermək."
     }, {
         "de": "beschreiben",
         "en": "describe",
         "ru": "описывать",
+        "tr": "tanımlamak",
+        "az": "təsvir etmək",
+        "uk": "описувати",
         "descriptionDE": "Ein Konto von Merkmalen oder Qualitäten von jemandem oder etwas mit Worten geben.",
         "descriptionEN": "To give an account in words of the characteristics or qualities of someone or something.",
-        "descriptionRU": "Давать описание характеристик или качеств кого-то или чего-то словами."
+        "descriptionRU": "Давать описание характеристик или качеств кого-то или чего-то словами.",
+        "descriptionUK": "Давати опис характеристик або якостей когось або чогось словами.",
+        "descriptionTR": "Birinin veya bir şeyin özelliklerini veya niteliklerini sözlerle anlatmak.",
+        "descriptionAZ": "Birinin və ya bir şeyin xüsusiyyətlərini və ya keyfiyyətlərini sözlərlə təsvir etmək."
     }, {
         "de": "notieren",
         "en": "note down",
         "ru": "записывать",
+        "tr": "not almak",
+        "az": "qeyd etmək",
+        "uk": "записувати",
         "descriptionDE": "Eine schriftliche Aufzeichnung oder Notiz von etwas machen.",
         "descriptionEN": "To make a written record or notation of something.",
-        "descriptionRU": "Сделать письменную запись или нотацию чего-то."
+        "descriptionRU": "Сделать письменную запись или нотацию чего-то.",
+        "descriptionUK": "Зробити письмовий запис або нотацію чогось.",
+        "descriptionTR": "Bir şeyin yazılı bir kaydını veya notunu tutmak.",
+        "descriptionAZ": "Bir şeyin yazılı bir qeydini və ya qeydini etmək."
     }, {
         "de": "erfahren",
         "en": "experience",
         "ru": "переживать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "переживати",
         "descriptionDE": "Praktischen Kontakt und Beobachtung von Fakten oder Ereignissen haben.",
         "descriptionEN": "To have practical contact with and observation of facts or events.",
-        "descriptionRU": "Иметь практический контакт и наблюдение за фактами или событиями."
+        "descriptionRU": "Иметь практический контакт и наблюдение за фактами или событиями.",
+        "descriptionUK": "Мати практичний контакт і спостереження за фактами або подіями.",
+        "descriptionTR": "Gerçekler veya olaylarla pratik temas ve gözlem yapmak.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki əlaqə və müşahidə etmək."
     }, {
         "de": "verständnisvoll",
         "en": "understanding",
         "ru": "понимающий",
+        "tr": "anlayışlı",
+        "az": "anlayışlı",
+        "uk": "розуміючий",
         "descriptionDE": "Die Fähigkeit besitzen, die Gefühle oder Situationen von jemandem zu begreifen oder nachzuempfinden.",
         "descriptionEN": "Having the ability to comprehend or empathize with someone's feelings or situation.",
-        "descriptionRU": "Обладающий способностью понимать или сопереживать чувствам или ситуации кого-то."
+        "descriptionRU": "Обладающий способностью понимать или сопереживать чувствам или ситуации кого-то.",
+        "descriptionUK": "Володіючи здатністю розуміти або співпереживати почуття або ситуацію когось.",
+        "descriptionTR": "Birinin duygularını veya durumunu anlama veya empati kurma yeteneğine sahip olmak.",
+        "descriptionAZ": "Birinin hisslərini və ya vəziyyətini anlamaq və ya empatiya qurmaq qabiliyyətinə malik olmaq."
     }, {
         "de": "enttäuscht",
         "en": "disappointed",
         "ru": "разочарованный",
+        "tr": "hayal kırıklığına uğramış",
+        "az": "məyus",
+        "uk": "розчарований",
         "descriptionDE": "Ein Gefühl der Enttäuschung oder Desillusionierung, wenn Erwartungen nicht erfüllt werden.",
         "descriptionEN": "Feeling let down or disillusioned when expectations are not met.",
-        "descriptionRU": "Чувство разочарования или разочарования, когда ожидания не оправдались."
+        "descriptionRU": "Чувство разочарования или разочарования, когда ожидания не оправдались.",
+        "descriptionUK": "Почуття розчарування або розчарування, коли очікування не виправдалися.",
+        "descriptionTR": "Beklentiler karşılanmadığında hayal kırıklığına uğramış veya hayal kırıklığına uğramış hissetmek.",
+        "descriptionAZ": "Gözləntilər qarşılanmadıqda məyusluq və ya məyusluq hissi."
     }, {
         "de": "bekannt",
         "en": "known",
         "ru": "известный",
+        "tr": "bilinen",
+        "az": "məlum",
+        "uk": "відомий",
         "descriptionDE": "Erkannt oder einer Person vertraut sein.",
         "descriptionEN": "Recognized or familiar to a person.",
-        "descriptionRU": "Признанный или знакомый человеку."
+        "descriptionRU": "Признанный или знакомый человеку.",
+        "descriptionUK": "Визнаний або знайомий людині.",
+        "descriptionTR": "Tanınmış veya bir kişiye tanıdık.",
+        "descriptionAZ": "Tanınmış və ya bir şəxsə tanış."
     }, {
         "de": "erfolgreich",
         "en": "successful",
         "ru": "успешный",
+        "tr": "başarılı",
+        "az": "uğurlu",
+        "uk": "успішний",
         "descriptionDE": "Die gewünschten Ziele oder Ergebnisse erreichen.",
         "descriptionEN": "Achieving the desired aims or results.",
-        "descriptionRU": "Достижение желаемых целей или результатов."
+        "descriptionRU": "Достижение желаемых целей или результатов.",
+        "descriptionUK": "Досягнення бажаних цілей або результатів.",
+        "descriptionTR": "İstenen hedeflere veya sonuçlara ulaşmak.",
+        "descriptionAZ": "İstənilən məqsədlərə və ya nəticələrə çatmaq."
     }, {
         "de": "exquisit",
         "en": "exquisite",
         "ru": "изысканный",
+        "tr": "zarif",
+        "az": "zərif",
+        "uk": "вишуканий",
         "descriptionDE": "Extrem schön und typischerweise zart.",
         "descriptionEN": "Extremely beautiful and, typically, delicate.",
-        "descriptionRU": "Чрезвычайно красивый и, как правило, изящный."
+        "descriptionRU": "Чрезвычайно красивый и, как правило, изящный.",
+        "descriptionUK": "Надзвичайно красивий і, як правило, витончений.",
+        "descriptionTR": "Son derece güzel ve tipik olarak zarif.",
+        "descriptionAZ": "Son dərəcə gözəl və adətən zərif."
     }, {
         "de": "besorgt",
         "en": "concerned",
         "ru": "обеспокоенный",
+        "tr": "endişeli",
+        "az": "narahat",
+        "uk": "стурбований",
         "descriptionDE": "Besorgt, beunruhigt oder ängstlich wegen etwas.",
         "descriptionEN": "Worried, troubled, or anxious about something.",
-        "descriptionRU": "Обеспокоенный, встревоженный или тревожный из-за чего-то."
+        "descriptionRU": "Обеспокоенный, встревоженный или тревожный из-за чего-то.",
+        "descriptionUK": "Стурбований, схвильований або тривожний через щось.",
+        "descriptionTR": "Bir şey hakkında endişeli, sıkıntılı veya kaygılı olmak.",
+        "descriptionAZ": "Bir şeylə bağlı narahat, narahat və ya narahat olmaq."
     }, {
         "de": "erfreut",
         "en": "pleased",
         "ru": "довольный",
+        "tr": "memnun",
+        "az": "məmnun",
+        "uk": "задоволений",
         "descriptionDE": "Ein Gefühl von Glück und Zufriedenheit mit einer Situation oder einem Ergebnis.",
         "descriptionEN": "Feeling happy and satisfied with a situation or outcome.",
-        "descriptionRU": "Чувство счастья и удовлетворения ситуацией или результатом."
+        "descriptionRU": "Чувство счастья и удовлетворения ситуацией или результатом.",
+        "descriptionUK": "Почуття щастя і задоволення ситуацією або результатом.",
+        "descriptionTR": "Bir durum veya sonuçtan mutlu ve memnun hissetmek.",
+        "descriptionAZ": "Bir vəziyyətdən və ya nəticədən xoşbəxt və məmnun hiss etmək."
     }, {
         "de": "bekannt",
         "en": "familiar",
         "ru": "знакомый",
+        "tr": "tanıdık",
+        "az": "tanış",
+        "uk": "знайомий",
         "descriptionDE": "Wohl bekannt oder leicht erkennbar, weil man ihn zuvor gesehen, getroffen, gehört usw. hat.",
         "descriptionEN": "Well-known or easily recognized because of being seen, met, heard, etc., before.",
-        "descriptionRU": "Хорошо известный или легко узнаваемый из-за предыдущих встреч, встреч, слышанных и т. д."
+        "descriptionRU": "Хорошо известный или легко узнаваемый из-за предыдущих встреч, встреч, слышанных и т. д.",
+        "descriptionUK": "Добре відомий або легко впізнаваний через попередні зустрічі, зустрічі, почуте тощо.",
+        "descriptionTR": "Önceden görüldüğü, tanışıldığı, duyulduğu vb. için iyi bilinen veya kolayca tanınan.",
+        "descriptionAZ": "Əvvəllər görüldüyü, tanış olunduğu, eşidildiyi və s. üçün yaxşı tanınan və ya asanlıqla tanınan."
     }, {
         "de": "herzlich",
         "en": "warm",
         "ru": "теплый",
+        "tr": "sıcak",
+        "az": "isti",
+        "uk": "теплий",
         "descriptionDE": "Die Fähigkeit besitzen oder abgeben, eine mäßige Wärme abzugeben.",
         "descriptionEN": "Having or giving off a moderate degree of heat.",
-        "descriptionRU": "Имеющий или излучающий умеренную степень тепла."
+        "descriptionRU": "Имеющий или излучающий умеренную степень тепла.",
+        "descriptionUK": "Має або випромінює помірну ступінь тепла.",
+        "descriptionTR": "Orta derecede ısıya sahip olmak veya yaymak.",
+        "descriptionAZ": "Orta dərəcəli istiliyə malik olmaq və ya yaymaq."
     }
 ]

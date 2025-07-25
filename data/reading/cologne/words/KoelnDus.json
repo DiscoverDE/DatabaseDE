@@ -3,211 +3,391 @@
         "de": "der Ufer",
         "en": "shore",
         "ru": "берег",
+        "tr": "kıyı",
+        "az": "sahil",
+        "uk": "берег",
         "descriptionDE": "Das Land entlang des Randes eines Gewässers, wie zum Beispiel eines Sees oder Flusses.",
         "descriptionEN": "The land along the edge of a body of water, such as a lake or river.",
-        "descriptionRU": "Земля вдоль края водоема, такого как озеро или река."
+        "descriptionRU": "Земля вдоль края водоема, такого как озеро или река.",
+        "descriptionTR": "Bir göl veya nehir gibi bir su kütlesinin kenarı boyunca olan arazi.",
+        "descriptionAZ": "Göl və ya çay kimi su hövzəsinin kənarı boyunca olan torpaq.",
+        "descriptionUK": "земля вздовж краю водойми, такої як озеро або річка."
     }, {
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionDE": "Eine große und dauerhafte menschliche Siedlung mit einer komplexen sozialen, wirtschaftlichen und politischen Struktur.",
         "descriptionEN": "A large and permanent human settlement with a complex social, economic, and political structure.",
-        "descriptionRU": "Большое и постоянное человеческое поселение с сложной социальной, экономической и политической структурой."
+        "descriptionRU": "Большое и постоянное человеческое поселение с сложной социальной, экономической и политической структурой.",
+        "descriptionTR": "Karmaşık sosyal, ekonomik ve politik yapıya sahip büyük ve kalıcı insan yerleşimi.",
+        "descriptionAZ": "Mürəkkəb sosial, iqtisadi və siyasi struktura malik böyük və daimi insan məskənidir.",
+        "descriptionUK": "велике і постійне людське поселення зі складною соціальною, економічною та політичною структурою."
     }, {
         "de": "das Bier",
         "en": "beer",
         "ru": "пиво",
+        "tr": "bira",
+        "az": "pivə",
+        "uk": "пиво",
         "descriptionDE": "Ein alkoholisches Getränk aus vergorenem Gerstenmalz, aromatisiert mit Hopfen.",
         "descriptionEN": "An alcoholic drink made from fermented malted barley, flavored with hops.",
-        "descriptionRU": "Алкогольный напиток, изготовленный из сбраживаемого ячменного солода, приправленного хмелем."
+        "descriptionRU": "Алкогольный напиток, изготовленный из сбраживаемого ячменного солода, приправленного хмелем.",
+        "descriptionTR": "Fermente edilmiş arpa maltından yapılan, şerbetçiotu ile aromalandırılmış alkollü içecek.",
+        "descriptionAZ": "Mayalanmış arpa maltından hazırlanmış, şerbetçiotu ilə ətirləndirilmiş spirtli içki.",
+        "descriptionUK": "алкогольний напій, виготовлений із ферментованого соложеного ячменю, ароматизований хмелем."
     }, {
         "de": "die Rivalität",
         "en": "rivalry",
         "ru": "соперничество",
+        "tr": "rekabet",
+        "az": "rəqabət",
+        "uk": "суперництво",
         "descriptionDE": "Wettbewerb um das gleiche Ziel oder um Überlegenheit auf dem gleichen Gebiet.",
         "descriptionEN": "Competition for the same objective or for superiority in the same field.",
-        "descriptionRU": "Конкуренция за одну и ту же цель или за превосходство в одной и той же области."
+        "descriptionRU": "Конкуренция за одну и ту же цель или за превосходство в одной и той же области.",
+        "descriptionTR": "Aynı hedef için ya da aynı alanda üstünlük için rekabet.",
+        "descriptionAZ": "Eyni məqsəd və ya eyni sahədə üstünlük üçün rəqabət.",
+        "descriptionUK": "конкуренція за одну і ту ж мету або за перевагу в тій самій області."
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "потяг",
         "descriptionDE": "Eine Reihe von verbundenen Eisenbahnwagen, gezogen oder geschoben von einer oder mehreren Lokomotiven.",
         "descriptionEN": "A series of connected railroad cars pulled or pushed by one or more locomotives.",
-        "descriptionRU": "Серия соединенных вагонов, тянутых или толкаемых одним или несколькими локомотивами."
+        "descriptionRU": "Серия соединенных вагонов, тянутых или толкаемых одним или несколькими локомотивами.",
+        "descriptionTR": "Bir veya birkaç lokomotif tarafından çekilen veya itilen bağlı demiryolu vagonları serisi.",
+        "descriptionAZ": "Bir və ya bir neçə lokomotiv tərəfindən çəkilən və ya itələnən qoşulmuş dəmiryolu vaqonlar seriyası.",
+        "descriptionUK": "серія з’єднаних залізничних вагонів, які тягнуть або штовхають один або кілька локомотивів."
     }, {
         "de": "der Dom",
         "en": "cathedral",
         "ru": "собор",
+        "tr": "katedral",
+        "az": "kafedra",
+        "uk": "собор",
         "descriptionDE": "Eine große und wichtige Kirche, insbesondere eine, die von einem Bischof geleitet wird.",
         "descriptionEN": "A large and important church, especially the one presided over by a bishop.",
-        "descriptionRU": "Большая и важная церковь, особенно та, над которой присутствует епископ."
+        "descriptionRU": "Большая и важная церковь, особенно та, над которой присутствует епископ.",
+        "descriptionTR": "Özellikle bir piskoposun yönettiği büyük ve önemli kilise.",
+        "descriptionAZ": "Xüsusilə bir keşiş tərəfindən idarə olunan böyük və önəmli kilsə.",
+        "descriptionUK": "велика і важлива церква, особливо та, якою керує єпископ."
     }, {
         "de": "das Angebot",
         "en": "offer",
         "ru": "предложение",
+        "tr": "teklif",
+        "az": "təklif",
+        "uk": "пропозиція",
         "descriptionDE": "Ein Vorschlag zum Abschluss eines Vertrags oder anderer rechtlicher Vereinbarungen.",
         "descriptionEN": "A proposal to enter into a contract or other legal agreement.",
-        "descriptionRU": "Предложение заключить контракт или другое юридическое соглашение."
+        "descriptionRU": "Предложение заключить контракт или другое юридическое соглашение.",
+        "descriptionTR": "Bir sözleşme veya başka yasal anlaşma yapmak için öneri.",
+        "descriptionAZ": "Müqavilə və ya digər hüquqi razılaşma bağlamaq təklifi.",
+        "descriptionUK": "пропозиція укласти контракт або іншу юридичну угоду."
     }, {
         "de": "der Konflikt",
         "en": "conflict",
         "ru": "конфликт",
+        "tr": "çatışma",
+        "az": "ziddiyyət",
+        "uk": "конфлікт",
         "descriptionDE": "Eine ernsthafte Meinungsverschiedenheit oder Auseinandersetzung, in der Regel eine langwierige.",
         "descriptionEN": "A serious disagreement or argument, typically a protracted one.",
-        "descriptionRU": "Серьезное разногласие или аргумент, обычно затянутый."
+        "descriptionRU": "Серьезное разногласие или аргумент, обычно затянутый.",
+        "descriptionTR": "Genellikle uzun süren ciddi anlaşmazlık veya tartışma.",
+        "descriptionAZ": "Adətən uzun sürən ciddi fikir ayrılığı və ya mübahisə.",
+        "descriptionUK": "серйозна незгода або суперечка, зазвичай тривала."
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "tr": "sanat",
+        "az": "incəsənət",
+        "uk": "мистецтво",
         "descriptionDE": "Der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft.",
         "descriptionEN": "The expression or application of human creative skill and imagination.",
-        "descriptionRU": "Выражение или применение творческого мастерства и воображения человека."
+        "descriptionRU": "Выражение или применение творческого мастерства и воображения человека.",
+        "descriptionTR": "İnsanın yaratıcı yetenek ve hayal gücünün ifadesi ya da uygulanması.",
+        "descriptionAZ": "İnsanın yaradıcı bacarıq və təxəyyülünün ifadəsi və ya tətbiqi.",
+        "descriptionUK": "вираження або застосування людських творчих навичок і уяви."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimarlık",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionDE": "Die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
-        "descriptionRU": "Искусство или практика проектирования и строительства зданий."
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
+        "descriptionTR": "Bina tasarımı ve inşasının sanatı veya uygulaması.",
+        "descriptionAZ": "Binaların dizaynı və tikintisi sənəti və ya praktikasıdır.",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
         "descriptionDE": "Der Zustand oder die Bedingung des Vorhandenseins verschiedener Elemente.",
         "descriptionEN": "The state or condition of having various differing elements.",
-        "descriptionRU": "Состояние или условие наличия различных элементов."
+        "descriptionRU": "Состояние или условие наличия различных элементов.",
+        "descriptionTR": "Farklı çeşitli öğelerin var olduğu durum veya koşul.",
+        "descriptionAZ": "Fərqli müxtəlif elementlərin mövcudluğu vəziyyəti və ya şərti.",
+        "descriptionUK": "стан або умова наявності різних елементів."
     }, {
         "de": "der Charme",
         "en": "charm",
         "ru": "очарование",
+        "tr": "çekicilik",
+        "az": "cezbə",
+        "uk": "чарівність",
         "descriptionDE": "Die Kraft oder Qualität, Freude zu bereiten oder Bewunderung zu erregen.",
         "descriptionEN": "The power or quality of giving delight or arousing admiration.",
-        "descriptionRU": "Сила или качество приносить удовольствие или вызывать восхищение."
+        "descriptionRU": "Сила или качество приносить удовольствие или вызывать восхищение.",
+        "descriptionTR": "Keyif vermek veya hayranlık uyandırmak gücü veya niteliği.",
+        "descriptionAZ": "Zövq vermək və ya heyranlıq oyatmaq gücü və ya keyfiyyəti.",
+        "descriptionUK": "сила або якість приносити задоволення або викликати захоплення."
     }, {
         "de": "die Eskalation",
         "en": "escalation",
         "ru": "эскалация",
+        "tr": "tırmanma",
+        "az": "güclənmə",
+        "uk": "ескалація",
         "descriptionDE": "Ein schneller Anstieg oder eine Intensivierung.",
         "descriptionEN": "A rapid increase or intensification.",
-        "descriptionRU": "Быстрое увеличение или усиление."
+        "descriptionRU": "Быстрое увеличение или усиление.",
+        "descriptionTR": "Hızlı bir artış veya yoğunlaşma.",
+        "descriptionAZ": "Sürətli artım və ya güclənmə.",
+        "descriptionUK": "швидке зростання або посилення."
     }, {
         "de": "die Gesellschaft",
         "en": "society",
         "ru": "общество",
+        "tr": "toplum",
+        "az": "cəmiyyət",
+        "uk": "суспільство",
         "descriptionDE": "Die Gesamtheit der Menschen, die in einer mehr oder weniger geordneten Gemeinschaft zusammenleben.",
         "descriptionEN": "The aggregate of people living together in a more or less ordered community.",
-        "descriptionRU": "Совокупность людей, живущих в более или менее упорядоченном сообществе."
+        "descriptionRU": "Совокупность людей, живущих в более или менее упорядоченном сообществе.",
+        "descriptionTR": "Daha az veya daha çok düzenli bir toplulukta birlikte yaşayan insanların tümü.",
+        "descriptionAZ": "Daha çox və ya az təşkilatlanmış bir icmada birlikdə yaşayan insanların cəmidir.",
+        "descriptionUK": "сукупність людей, які живуть разом у більш-менш упорядкованій спільноті."
     }, {
         "de": "die Elite",
         "en": "elite",
         "ru": "элита",
+        "tr": "seçkinler",
+        "az": "elita",
+        "uk": "еліта",
         "descriptionDE": "Eine ausgewählte Gruppe, die in Bezug auf Fähigkeiten oder Qualitäten überlegen ist.",
         "descriptionEN": "A select group that is superior in terms of ability or qualities.",
-        "descriptionRU": "Отборная группа, превосходящая по способностям или качествам."
+        "descriptionRU": "Отборная группа, превосходящая по способностям или качествам.",
+        "descriptionTR": "Yetenek veya nitelik açısından üstün olan seçilmiş bir grup.",
+        "descriptionAZ": "Bacarıq və keyfiyyət baxımından üstün seçilmiş qrup.",
+        "descriptionUK": "обрана група, яка є кращою за здібностями або якостями."
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionDE": "Die Bräuche, Künste, sozialen Institutionen und Errungenschaften einer bestimmten Nation, eines Volkes oder einer anderen sozialen Gruppe.",
         "descriptionEN": "The customs, arts, social institutions, and achievements of a particular nation, people, or other social group.",
-        "descriptionRU": "Обычаи, искусства, социальные институты и достижения определенной нации, народа или другой социальной группы."
+        "descriptionRU": "Обычаи, искусства, социальные институты и достижения определенной нации, народа или другой социальной группы.",
+        "descriptionTR": "Belirli bir ulusun, halkın veya başka bir sosyal grubun gelenekleri, sanatları, sosyal kurumları ve başarıları.",
+        "descriptionAZ": "Müəyyən bir millətin, xalqın və ya digər sosial qrupun adətləri, incəsənəti, sosial institutları və nailiyyətləri.",
+        "descriptionUK": "звичаї, мистецтва, соціальні інститути та досягнення певної нації, народу або іншої соціальної групи."
     }, {
         "de": "die Grenze",
         "en": "border",
         "ru": "граница",
+        "tr": "sınır",
+        "az": "sərhəd",
+        "uk": "кордон",
         "descriptionDE": "Eine Linie, die zwei politische oder geografische Gebiete voneinander trennt.",
         "descriptionEN": "A line separating two political or geographical areas.",
-        "descriptionRU": "Линия, разделяющая две политические или географические области."
+        "descriptionRU": "Линия, разделяющая две политические или географические области.",
+        "descriptionTR": "İki siyasi veya coğrafi alanı ayıran çizgi.",
+        "descriptionAZ": "İki siyasi və ya coğrafi bölgəni ayıran xətt.",
+        "descriptionUK": "лінія, що розділяє дві політичні чи географічні області."
     }, {
         "de": "die Mode",
         "en": "fashion",
         "ru": "мода",
+        "tr": "moda",
+        "az": "moda",
+        "uk": "мода",
         "descriptionDE": "Ein beliebter Trend, besonders in Bezug auf Kleidungs- und Schmuckstile.",
         "descriptionEN": "A popular trend, especially in styles of dress and ornament.",
-        "descriptionRU": "Популярный тренд, особенно в стилях одежды и украшений."
+        "descriptionRU": "Популярный тренд, особенно в стилях одежды и украшений.",
+        "descriptionTR": "Özellikle giyim ve süsleme tarzlarında popüler bir trend.",
+        "descriptionAZ": "Xüsusilə geyim və bəzək üslublarında məşhur bir trend.",
+        "descriptionUK": "популярний тренд, особливо у стилях одягу та прикрас."
     }, {
         "de": "die Wirtschaft",
         "en": "economy",
         "ru": "экономика",
+        "tr": "ekonomi",
+        "az": "iqtisadiyyat",
+        "uk": "економіка",
         "descriptionDE": "Der Reichtum und die Ressourcen eines Landes oder einer Region, insbesondere in Bezug auf die Produktion und den Verbrauch von Waren und Dienstleistungen.",
         "descriptionEN": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
-        "descriptionRU": "Богатство и ресурсы страны или региона, особенно с точки зрения производства и потребления товаров и услуг."
+        "descriptionRU": "Богатство и ресурсы страны или региона, особенно с точки зрения производства и потребления товаров и услуг.",
+        "descriptionTR": "Bir ülkenin veya bölgenin zenginliği ve kaynakları, özellikle mal ve hizmetlerin üretimi ve tüketimi açısından.",
+        "descriptionAZ": "Bir ölkənin və ya regionun zənginliyi və resursları, xüsusilə məhsul və xidmətlərin istehsalı və istehlakı baxımından.",
+        "descriptionUK": "багатство і ресурси країни чи регіону, особливо в контексті виробництва та споживання товарів і послуг."
     }, {
         "de": "das Hochhaus",
         "en": "skyscraper",
         "ru": "небоскреб",
+        "tr": "gökdelen",
+        "az": "skayskrepər",
+        "uk": "хмарочос",
         "descriptionDE": "Ein sehr hohes Gebäude mit vielen Etagen.",
         "descriptionEN": "A very tall building with many stories.",
-        "descriptionRU": "Очень высокое здание с множеством этажей."
+        "descriptionRU": "Очень высокое здание с множеством этажей.",
+        "descriptionTR": "Çok katlı çok yüksek bir bina.",
+        "descriptionAZ": "Çox mərtəbəli çox yüksək bina.",
+        "descriptionUK": "дуже високий будинок з багатьма поверхами."
     }, {
         "de": "der Konsum",
         "en": "consumption",
         "ru": "потребление",
+        "tr": "tüketim",
+        "az": "istehlak",
+        "uk": "споживання",
         "descriptionDE": "Die Verwendung einer Ressource.",
         "descriptionEN": "The using up of a resource.",
-        "descriptionRU": "Использование ресурса."
+        "descriptionRU": "Использование ресурса.",
+        "descriptionTR": "Bir kaynağın kullanılması.",
+        "descriptionAZ": "Resursun istifadə edilməsi.",
+        "descriptionUK": "використання ресурсу."
     }, {
         "de": "das Angebot",
         "en": "offering",
         "ru": "предложение",
+        "tr": "arz",
+        "az": "təklif",
+        "uk": "пропозиція",
         "descriptionDE": "Eine angebotene Sache, besonders als Geschenk oder Beitrag.",
         "descriptionEN": "A thing offered, especially as a gift or contribution.",
-        "descriptionRU": "Предмет, предложенный, особенно в качестве подарка или вклада."
+        "descriptionRU": "Предмет, предложенный, особенно в качестве подарка или вклада.",
+        "descriptionTR": "Özellikle hediye veya bağış olarak sunulan şey.",
+        "descriptionAZ": "Xüsusilə hədiyyə və ya töhfə kimi təklif olunan şey.",
+        "descriptionUK": "предмет, запропонований особливо як подарунок або внесок."
     }, {
         "de": "die Gastronomie",
         "en": "gastronomy",
         "ru": "гастрономия",
+        "tr": "gastronomi",
+        "az": "qastronomiya",
+        "uk": "гастрономія",
         "descriptionDE": "Die Praxis der Auswahl, Zubereitung und des Genusses guter Lebensmittel.",
         "descriptionEN": "The practice of choosing, cooking, and eating good food.",
-        "descriptionRU": "Практика выбора, приготовления и употребления в пищу хорошей еды."
+        "descriptionRU": "Практика выбора, приготовления и употребления в пищу хорошей еды.",
+        "descriptionTR": "İyi yiyecek seçimi, pişirme ve yeme uygulaması.",
+        "descriptionAZ": "Yaxşı yeməklərin seçimi, hazırlanması və yeyilməsi praktikası.",
+        "descriptionUK": "практика вибору, приготування та споживання смачної їжі."
     }, {
         "de": "die Skulptur",
         "en": "sculpture",
         "ru": "скульптура",
+        "tr": "heykel",
+        "az": "heykəl",
+        "uk": "скульптура",
         "descriptionDE": "Die Kunst, zweidimensionale oder dreidimensionale repräsentative oder abstrakte Formen herzustellen.",
         "descriptionEN": "The art of making two- or three-dimensional representative or abstract forms.",
-        "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм."
+        "descriptionRU": "Искусство создания двух- или трехмерных представительных или абстрактных форм.",
+        "descriptionTR": "İki veya üç boyutlu temsili veya soyut formlar yapma sanatı.",
+        "descriptionAZ": "İki və ya üçölçülü nümayəndə və ya abstrakt formalar yaratmaq sənəti.",
+        "descriptionUK": "мистецтво створення дво- або тривимірних репрезентативних або абстрактних форм."
     }, {
         "de": "das Erbe",
         "en": "heritage",
         "ru": "наследие",
+        "tr": "miras",
+        "az": "irsi",
+        "uk": "спадщина",
         "descriptionDE": "Eigentum, das geerbt werden kann oder geerbt wurde.",
         "descriptionEN": "Property that is or may be inherited.",
-        "descriptionRU": "Собственность, которая может быть унаследована."
+        "descriptionRU": "Собственность, которая может быть унаследована.",
+        "descriptionTR": "Miras alınabilecek veya alınmış mal.",
+        "descriptionAZ": "Miras qalıb və ya qala bilən mülk.",
+        "descriptionUK": "власність, яка може бути успадкована або успадкована."
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionDE": "Die Hülle aus Gasen, die die Erde oder einen anderen Planeten umgibt.",
         "descriptionEN": "The envelope of gases surrounding the earth or another planet.",
-        "descriptionRU": "Оболочка газов, окружающих землю или другую планету."
+        "descriptionRU": "Оболочка газов, окружающих землю или другую планету.",
+        "descriptionTR": "Dünyayı veya başka bir gezegeni çevreleyen gaz zarfı.",
+        "descriptionAZ": "Yeri və ya başqa bir planetu əhatə edən qaz zərfi.",
+        "descriptionUK": "оболонка газів, що оточує Землю або іншу планету."
     }, {
         "de": "das Erlebnis",
         "en": "experience",
         "ru": "переживание",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
         "descriptionEN": "Practical contact with and observation of facts or events.",
-        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения."
+        "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
+        "descriptionTR": "Gerçekle temas ve olay veya gerçeklerin gözlemi.",
+        "descriptionAZ": "Faktlar və hadisələrlə praktik əlaqə və müşahidə.",
+        "descriptionUK": "практичний контакт та спостереження фактів або подій."
     }, {
         "de": "die Eskapade",
         "en": "escapade",
         "ru": "эскапада",
+        "tr": "macera",
+        "az": "macəra",
+        "uk": "пригоди",
         "descriptionDE": "Eine Handlung oder ein Vorfall mit Aufregung, Wagemut oder Abenteuer.",
         "descriptionEN": "An act or incident involving excitement, daring, or adventure.",
-        "descriptionRU": "Действие или инцидент, связанный с волнением, смелостью или приключением."
+        "descriptionRU": "Действие или инцидент, связанный с волнением, смелостью или приключением.",
+        "descriptionTR": "Heyecan, cesaret veya macera içeren bir eylem veya olay.",
+        "descriptionAZ": "Həyəcan, cəsarət və ya macəra ilə əlaqəli hərəkət və ya hadisə.",
+        "descriptionUK": "дія або інцидент, пов’язаний з хвилюванням, сміливістю або пригодою."
     }, {
         "de": "der Genuss",
         "en": "enjoyment",
         "ru": "удовольствие",
+        "tr": "zevk",
+        "az": "zövq",
+        "uk": "насолода",
         "descriptionDE": "Der Zustand oder Prozess des Freudehabens an etwas.",
         "descriptionEN": "The state or process of taking pleasure in something.",
-        "descriptionRU": "Состояние или процесс получения удовольствия от чего-то."
+        "descriptionRU": "Состояние или процесс получения удовольствия от чего-то.",
+        "descriptionTR": "Bir şeyden keyif alma hali veya süreci.",
+        "descriptionAZ": "Bir şeydən zövq alma vəziyyəti və ya prosesi.",
+        "descriptionUK": "стан або процес отримання задоволення від чогось."
     }, {
         "de": "der Wandel",
         "en": "change",
         "ru": "изменение",
+        "tr": "değişim",
+        "az": "dəyişiklik",
+        "uk": "зміна",
         "descriptionDE": "Die Handlung oder Instanz des Veränderns oder Anderswerdens.",
         "descriptionEN": "The act or instance of making or becoming different.",
-        "descriptionRU": "Действие или пример того, как что-то становится или делается иным."
+        "descriptionRU": "Действие или пример того, как что-то становится или делается иным.",
+        "descriptionTR": "Bir şeyi farklı hale getirme eylemi veya durumu.",
+        "descriptionAZ": "Bir şeyi fərqli etmək və ya fərqlənmək hərəkəti və ya vəziyyəti.",
+        "descriptionUK": "дія або випадок, коли щось стає або робиться іншим."
     }
 ]

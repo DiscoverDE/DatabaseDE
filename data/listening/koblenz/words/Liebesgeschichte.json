@@ -3,127 +3,235 @@
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "a large public green area in a town",
         "descriptionRU": "большая общественная зелёная зона в городе",
-        "descriptionDE": "eine große öffentliche Grünfläche in einer Stadt"
+        "descriptionDE": "eine große öffentliche Grünfläche in einer Stadt",
+        "descriptionTR": "bir kasabada büyük bir halka açık yeşil alan",
+        "descriptionAZ": "bir şəhərdə böyük bir ictimai yaşıl sahə",
+        "descriptionUK": "велика громадська зелена зона у місті"
     }, {
         "de": "der Brief",
         "en": "letter",
         "ru": "письмо",
+        "tr": "mektup",
+        "az": "məktub",
+        "uk": "лист",
         "descriptionEN": "a written or printed communication",
         "descriptionRU": "письменное или печатное сообщение",
-        "descriptionDE": "eine schriftliche oder gedruckte Mitteilung"
+        "descriptionDE": "eine schriftliche oder gedruckte Mitteilung",
+        "descriptionTR": "yazılı veya basılı bir iletişim",
+        "descriptionAZ": "yazılı və ya çap olunmuş bir ünsiyyət",
+        "descriptionUK": "письмове або друковане повідомлення"
     }, {
         "de": "das Schloss",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qəsr",
+        "uk": "замок",
         "descriptionEN": "a large building formerly occupied by a ruler and fortified against attack",
         "descriptionRU": "большое здание, ранее занимаемое правителем и укреплённое от атаки",
-        "descriptionDE": "ein großes Gebäude, das früher von einem Herrscher bewohnt und gegen Angriffe befestigt wurde"
+        "descriptionDE": "ein großes Gebäude, das früher von einem Herrscher bewohnt und gegen Angriffe befestigt wurde",
+        "descriptionTR": "eskiden bir hükümdar tarafından işgal edilen ve saldırıya karşı güçlendirilmiş büyük bir bina",
+        "descriptionAZ": "əvvəllər bir hökmdar tərəfindən işğal edilmiş və hücuma qarşı möhkəmləndirilmiş böyük bir bina",
+        "descriptionUK": "велика будівля, раніше займана правителем і укріплена від атаки"
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "a group of people related by blood or marriage",
         "descriptionRU": "группа людей, связанных кровными узами или браком",
-        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind"
+        "descriptionDE": "eine Gruppe von Menschen, die durch Blutsverwandtschaft oder Ehe verbunden sind",
+        "descriptionTR": "kan bağı veya evlilikle bağlı bir grup insan",
+        "descriptionAZ": "qan qohumluğu və ya nikahla bağlı bir qrup insan",
+        "descriptionUK": "група людей, пов'язаних кровними узами або шлюбом"
     }, {
         "de": "die Hochzeit",
         "en": "wedding",
         "ru": "свадьба",
+        "tr": "düğün",
+        "az": "evlilik",
+        "uk": "весілля",
         "descriptionEN": "a marriage ceremony",
         "descriptionRU": "церемония бракосочетания",
-        "descriptionDE": "eine Trauungszeremonie"
+        "descriptionDE": "eine Trauungszeremonie",
+        "descriptionTR": "bir evlilik töreni",
+        "descriptionAZ": "bir nikah mərasimi",
+        "descriptionUK": "церемонія одруження"
     }, {
         "de": "die Zeremonie",
         "en": "ceremony",
         "ru": "церемония",
+        "tr": "tören",
+        "az": "mərasim",
+        "uk": "церемонія",
         "descriptionEN": "a formal religious or public occasion",
         "descriptionRU": "формальное религиозное или общественное мероприятие",
-        "descriptionDE": "ein formelles religiöses oder öffentliches Ereignis"
+        "descriptionDE": "ein formelles religiöses oder öffentliches Ereignis",
+        "descriptionTR": "resmi bir dini veya halka açık etkinlik",
+        "descriptionAZ": "rəsmi bir dini və ya ictimai tədbir",
+        "descriptionUK": "формальна релігійна або громадська подія"
     }, {
         "de": "der Boden",
         "en": "ground",
         "ru": "земля",
+        "tr": "zemin",
+        "az": "torpaq",
+        "uk": "земля",
         "descriptionEN": "the solid surface of the earth",
         "descriptionRU": "твердая поверхность земли",
-        "descriptionDE": "die feste Oberfläche der Erde"
+        "descriptionDE": "die feste Oberfläche der Erde",
+        "descriptionTR": "dünyanın katı yüzeyi",
+        "descriptionAZ": "yerin bərk səthi",
+        "descriptionUK": "тверда поверхня землі"
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence",
         "descriptionRU": "неопределенное продолжение существования",
-        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins"
+        "descriptionDE": "der unbestimmte fortlaufende Fortschritt des Daseins",
+        "descriptionTR": "varlığın belirsiz devam eden ilerlemesi",
+        "descriptionAZ": "varlığın qeyri-müəyyən davam edən irəliləyişi",
+        "descriptionUK": "невизначене продовження існування"
     }, {
         "de": "die Liebe",
         "en": "love",
         "ru": "любовь",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
         "descriptionEN": "an intense feeling of deep affection",
         "descriptionRU": "интенсивное чувство глубокой привязанности",
-        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung"
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung",
+        "descriptionTR": "derin bir sevginin yoğun hissi",
+        "descriptionAZ": "dərin bir məhəbbətin güclü hissi",
+        "descriptionUK": "інтенсивне почуття глибокої прихильності"
     }, {
         "de": "die Zukunft",
         "en": "future",
         "ru": "будущее",
+        "tr": "gelecek",
+        "az": "gələcək",
+        "uk": "майбутнє",
         "descriptionEN": "the time or a period of time following the moment of speaking or writing",
         "descriptionRU": "время или период времени, следующий за моментом речи или записи",
-        "descriptionDE": "die Zeit oder ein Zeitraum, der dem Moment des Sprechens oder Schreibens folgt"
+        "descriptionDE": "die Zeit oder ein Zeitraum, der dem Moment des Sprechens oder Schreibens folgt",
+        "descriptionTR": "konuşma veya yazma anından sonra gelen zaman veya bir zaman dilimi",
+        "descriptionAZ": "danışıq və ya yazı anından sonra gələn zaman və ya bir zaman dövrü",
+        "descriptionUK": "час або період часу, що настає після моменту мовлення чи запису"
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
         "descriptionEN": "to engage in activity for enjoyment and recreation",
         "descriptionRU": "заниматься деятельностью для удовольствия и отдыха",
-        "descriptionDE": "sich an Aktivitäten zur Freude und Erholung beteiligen"
+        "descriptionDE": "sich an Aktivitäten zur Freude und Erholung beteiligen",
+        "descriptionTR": "zevk ve dinlenme için bir etkinlikle meşgul olmak",
+        "descriptionAZ": "zövq və istirahət üçün bir fəaliyyətlə məşğul olmaq",
+        "descriptionUK": "займатися діяльністю для задоволення та відпочинку"
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "to go to see or spend time with someone",
         "descriptionRU": "пойти, чтобы увидеться или провести время с кем-то",
-        "descriptionDE": "gehen, um jemanden zu sehen oder Zeit mit jemandem zu verbringen"
+        "descriptionDE": "gehen, um jemanden zu sehen oder Zeit mit jemandem zu verbringen",
+        "descriptionTR": "birini görmeye gitmek veya biriyle zaman geçirmek",
+        "descriptionAZ": "birini görməyə getmək və ya biriylə vaxt keçirmək",
+        "descriptionUK": "піти, щоб побачитися чи провести час із кимось"
     }, {
         "de": "verwandeln",
         "en": "to transform",
         "ru": "преобразовывать",
+        "tr": "dönüştürmek",
+        "az": "çevirmək",
+        "uk": "перетворювати",
         "descriptionEN": "to change in form, appearance, or structure",
         "descriptionRU": "изменять форму, внешний вид или структуру",
-        "descriptionDE": "in Form, Erscheinungsbild oder Struktur ändern"
+        "descriptionDE": "in Form, Erscheinungsbild oder Struktur ändern",
+        "descriptionTR": "biçimini, görünümünü veya yapısını değiştirmek",
+        "descriptionAZ": "formasını, görünüşünü və ya quruluşunu dəyişdirmək",
+        "descriptionUK": "змінювати форму, зовнішній вигляд чи структуру"
     }, {
         "de": "erwachsen",
         "en": "adult",
         "ru": "взрослый",
+        "tr": "yetişkin",
+        "az": "böyük",
+        "uk": "дорослий",
         "descriptionEN": "fully grown and developed",
         "descriptionRU": "полностью выросший и развитый",
-        "descriptionDE": "vollständig ausgewachsen und entwickelt"
+        "descriptionDE": "vollständig ausgewachsen und entwickelt",
+        "descriptionTR": "tamamen büyümüş ve gelişmiş",
+        "descriptionAZ": "tamamilə böyümüş və inkişaf etmiş",
+        "descriptionUK": "повністю вирослий і розвинений"
     }, {
         "de": "zerstört",
         "en": "destroyed",
         "ru": "разрушенный",
+        "tr": "yıkılmış",
+        "az": "dağıdılmış",
+        "uk": "зруйнований",
         "descriptionEN": "damaged beyond repair",
         "descriptionRU": "поврежденный за пределами возможности восстановления",
-        "descriptionDE": "über die Reparatur hinaus beschädigt"
+        "descriptionDE": "über die Reparatur hinaus beschädigt",
+        "descriptionTR": "onarılamayacak şekilde hasar görmüş",
+        "descriptionAZ": "təmir oluna bilməyəcək dərəcədə zədələnmiş",
+        "descriptionUK": "пошкоджений за межами можливості відновлення"
     }, {
         "de": "gemeinsam",
         "en": "together",
         "ru": "вместе",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
         "descriptionEN": "in companionship with others",
         "descriptionRU": "в обществе других",
-        "descriptionDE": "in Gesellschaft anderer"
+        "descriptionDE": "in Gesellschaft anderer",
+        "descriptionTR": "başkalarıyla birlikte",
+        "descriptionAZ": "başqaları ilə birlikdə",
+        "descriptionUK": "у суспільстві інших"
     }, {
         "de": "selten",
         "en": "rare",
         "ru": "редкий",
+        "tr": "nadir",
+        "az": "nadir",
+        "uk": "рідкісний",
         "descriptionEN": "occurring not often",
         "descriptionRU": "встречающийся нечасто",
-        "descriptionDE": "nicht oft vorkommend"
+        "descriptionDE": "nicht oft vorkommend",
+        "descriptionTR": "sık olmayan",
+        "descriptionAZ": "tez-tez baş verməyən",
+        "descriptionUK": "зустрічається нечасто"
     }, {
         "de": "ewig",
         "en": "eternal",
         "ru": "вечный",
+        "tr": "ebedi",
+        "az": "əbədi",
+        "uk": "вічний",
         "descriptionEN": "lasting or existing forever",
         "descriptionRU": "длительный или существующий вечно",
-        "descriptionDE": "für immer oder ewig existierend"
+        "descriptionDE": "für immer oder ewig existierend",
+        "descriptionTR": "sonsuza dek süren veya var olan",
+        "descriptionAZ": "həmişəlik və ya əbədi olaraq mövcud olan",
+        "descriptionUK": "тривалий чи існуючий вічно"
     }
 ]

@@ -1,129 +1,237 @@
 [
-     {
+    {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
         "descriptionEN": "a natural flowing watercourse",
         "descriptionRU": "естественный течущий водоток",
-        "descriptionDE": "ein natürlicher fließender Wasserlauf"
+        "descriptionDE": "ein natürlicher fließender Wasserlauf",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
+        "descriptionTR": "doğal akan su yolu",
+        "descriptionAZ": "təbii axan su yolu",
+        "descriptionUK": "природний водотік"
     }, {
         "de": "das Zentrum",
         "en": "center",
         "ru": "центр",
         "descriptionEN": "the middle point or part",
         "descriptionRU": "средняя точка или часть",
-        "descriptionDE": "der Mittelpunkt oder Teil"
+        "descriptionDE": "der Mittelpunkt oder Teil",
+        "tr": "merkez",
+        "az": "mərkəz",
+        "uk": "центр",
+        "descriptionTR": "orta nokta veya kısım",
+        "descriptionAZ": "orta nöqtə və ya hissə",
+        "descriptionUK": "середня точка або частина"
     }, {
         "de": "die Mode",
         "en": "fashion",
         "ru": "мода",
         "descriptionEN": "a popular trend in clothing, behavior, etc.",
         "descriptionRU": "популярный тренд в одежде, поведении и т. д.",
-        "descriptionDE": "ein beliebter Trend in Kleidung, Verhalten usw."
+        "descriptionDE": "ein beliebter Trend in Kleidung, Verhalten usw.",
+        "tr": "moda",
+        "az": "moda",
+        "uk": "мода",
+        "descriptionTR": "giyim, davranış vb. alanlarda popüler bir eğilim",
+        "descriptionAZ": "geyimdə, davranışda və s.-də məşhur bir tendensiya",
+        "descriptionUK": "популярний тренд в одязі, поведінці тощо"
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
         "descriptionEN": "the expression or application of human creative skill and imagination",
         "descriptionRU": "выражение или применение человеческого творческого мастерства и воображения",
-        "descriptionDE": "der Ausdruck oder die Anwendung menschlichen schöpferischen Könnens und Vorstellungskraft"
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlichen schöpferischen Könnens und Vorstellungskraft",
+        "tr": "sanat",
+        "az": "incəsənət",
+        "uk": "мистецтво",
+        "descriptionTR": "insan yaratıcı beceri ve hayal gücünün ifadesi veya uygulanması",
+        "descriptionAZ": "insan yaradıcı bacarıq və təxəyyülünün ifadəsi və ya tətbiqi",
+        "descriptionUK": "вираження або застосування людської творчої майстерності та уяви"
     }, {
         "de": "der Teil",
         "en": "part",
         "ru": "часть",
         "descriptionEN": "a component of a whole",
         "descriptionRU": "компонент целого",
-        "descriptionDE": "eine Komponente eines Ganzen"
+        "descriptionDE": "eine Komponente eines Ganzen",
+        "tr": "parça",
+        "az": "hissə",
+        "uk": "частина",
+        "descriptionTR": "bir bütünün bir bileşeni",
+        "descriptionAZ": "bütünün bir komponenti",
+        "descriptionUK": "компонент цілого"
     }, {
         "de": "der Stadtteil",
         "en": "district",
         "ru": "район",
         "descriptionEN": "an area of a town or city",
         "descriptionRU": "район города",
-        "descriptionDE": "ein Bereich einer Stadt"
+        "descriptionDE": "ein Bereich einer Stadt",
+        "tr": "ilçe",
+        "az": "rayon",
+        "uk": "район",
+        "descriptionTR": "bir kasaba veya şehrin bir alanı",
+        "descriptionAZ": "bir şəhərin və ya qəsəbənin bir hissəsi",
+        "descriptionUK": "район міста або селища"
     }, {
         "de": "der Einwohner",
         "en": "inhabitant",
         "ru": "житель",
         "descriptionEN": "a person who lives in a particular place",
         "descriptionRU": "человек, живущий в определенном месте",
-        "descriptionDE": "eine Person, die an einem bestimmten Ort lebt"
+        "descriptionDE": "eine Person, die an einem bestimmten Ort lebt",
+        "tr": "sakin",
+        "az": "sakin",
+        "uk": "мешканець",
+        "descriptionTR": "belirli bir yerde yaşayan kişi",
+        "descriptionAZ": "müəyyən bir yerdə yaşayan şəxs",
+        "descriptionUK": "людина, яка проживає в певному місці"
     }, {
         "de": "die Gemeinde",
         "en": "community",
         "ru": "община",
         "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
         "descriptionRU": "группа людей, живущих в одном месте или имеющих общую характеристику",
-        "descriptionDE": "eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine bestimmte Eigenschaft gemeinsam haben"
+        "descriptionDE": "eine Gruppe von Menschen, die an einem bestimmten Ort leben oder eine bestimmte Eigenschaft gemeinsam haben",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "спільнота",
+        "descriptionTR": "aynı yerde yaşayan veya ortak bir özelliği olan bir grup insan",
+        "descriptionAZ": "eyni yerdə yaşayan və ya müəyyən bir xarakteristikaya malik olan bir qrup insan",
+        "descriptionUK": "група людей, що проживають в одному місці або мають спільну характеристику"
     }, {
         "de": "der Garten",
         "en": "garden",
         "ru": "сад",
         "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables",
         "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей",
-        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird"
+        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird",
+        "tr": "bahçe",
+        "az": "bağ",
+        "uk": "сад",
+        "descriptionTR": "genellikle bir evin yakınında, çiçek, meyve veya sebze yetiştirmek için kullanılan bir arazi parçası",
+        "descriptionAZ": "tez-tez evin yaxınlığında çiçək, meyvə və ya tərəvəz yetişdirmək üçün istifadə olunan torpaq sahəsi",
+        "descriptionUK": "ділянка землі, часто біля будинку, яка використовується для вирощування квітів, фруктів або овочів"
     }, {
         "de": "der Sieg",
         "en": "victory",
         "ru": "победа",
         "descriptionEN": "the overcoming of an enemy or antagonist",
         "descriptionRU": "преодоление врага или антагониста",
-        "descriptionDE": "das Überwinden eines Feindes oder Antagonisten"
+        "descriptionDE": "das Überwinden eines Feindes oder Antagonisten",
+        "tr": "zafer",
+        "az": "qələbə",
+        "uk": "перемога",
+        "descriptionTR": "bir düşmanı veya antagonisti yenme",
+        "descriptionAZ": "düşməni və ya antaqonisti məğlub etmək",
+        "descriptionUK": "перемога над ворогом або антагоністом"
     }, {
         "de": "das Rad",
         "en": "wheel",
         "ru": "колесо",
         "descriptionEN": "a circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground",
         "descriptionRU": "круглый предмет, который вращается на оси и закреплен под транспортным средством или другим объектом, чтобы облегчить его перемещение по земле",
-        "descriptionDE": "ein kreisförmiges Objekt, das sich auf einer Achse dreht und unter einem Fahrzeug oder einem anderen Objekt befestigt ist, um es leicht über den Boden zu bewegen"
+        "descriptionDE": "ein kreisförmiges Objekt, das sich auf einer Achse dreht und unter einem Fahrzeug oder einem anderen Objekt befestigt ist, um es leicht über den Boden zu bewegen",
+        "tr": "tekerlek",
+        "az": "təkər",
+        "uk": "колесо",
+        "descriptionTR": "bir aks üzerinde dönen ve bir aracın veya başka bir nesnenin altına sabitlenerek zeminde kolayca hareket etmesini sağlayan dairesel bir nesne",
+        "descriptionAZ": "ox üzərində fırlanan və nəqliyyat vasitəsinin və ya digər obyektin altına bərkidilmiş, onun yer üzərində asanlıqla hərəkət etməsini təmin edən dairəvi obyekt",
+        "descriptionUK": "круговий об'єкт, який обертається на осі та закріплений під транспортним засобом або іншим об'єктом, щоб дозволити йому легко переміщатися по землі"
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
         "descriptionEN": "to acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity",
         "descriptionRU": "признать (важный или счастливый день или событие) с помощью общественного собрания или приятной деятельности",
-        "descriptionDE": "einen (bedeutenden oder glücklichen) Tag oder ein Ereignis mit einem geselligen Treffen oder einer angenehmen Aktivität anerkennen"
+        "descriptionDE": "einen (bedeutenden oder glücklichen) Tag oder ein Ereignis mit einem geselligen Treffen oder einer angenehmen Aktivität anerkennen",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
+        "descriptionTR": "sosyal bir toplantı veya keyifli bir etkinlikle (önemli veya mutlu bir günü veya olayı) kutlamak",
+        "descriptionAZ": "ictimai yığıncaq və ya xoş fəaliyyətlə (əhəmiyyətli və ya xoşbəxt bir günü və ya hadisəni) qeyd etmək",
+        "descriptionUK": "відзначати (знаменний або щасливий день чи подію) за допомогою суспільного зібрання або приємної діяльності"
     }, {
         "de": "bekannt",
         "en": "known",
         "ru": "известный",
         "descriptionEN": "recognized or familiar because of previous experience or acquaintance",
         "descriptionRU": "узнаваемый или знакомый благодаря предыдущему опыту или знакомству",
-        "descriptionDE": "aufgrund früherer Erfahrung oder Bekanntschaft erkannt oder vertraut"
+        "descriptionDE": "aufgrund früherer Erfahrung oder Bekanntschaft erkannt oder vertraut",
+        "tr": "bilinen",
+        "az": "məlum",
+        "uk": "відомий",
+        "descriptionTR": "önceki deneyim veya tanıdıklık nedeniyle tanınan veya tanıdık olan",
+        "descriptionAZ": "əvvəlki təcrübə və ya tanışlıq səbəbindən tanınan və ya tanış olan",
+        "descriptionUK": "визнаний або знайомий завдяки попередньому досвіду чи знайомству"
     }, {
         "de": "teuer",
         "en": "expensive",
         "ru": "дорогой",
         "descriptionEN": "costing a lot of money; having a high price",
         "descriptionRU": "стоящий много денег; имеющий высокую цену",
-        "descriptionDE": "viel Geld kostend; einen hohen Preis haben"
+        "descriptionDE": "viel Geld kostend; einen hohen Preis haben",
+        "tr": "pahalı",
+        "az": "bahalı",
+        "uk": "дорогий",
+        "descriptionTR": "çok para maliyeti olan; yüksek fiyatlı",
+        "descriptionAZ": "çox pul tələb edən; yüksək qiymətə malik",
+        "descriptionUK": "коштує багато грошей; має високу ціну"
     }, {
         "de": "kosmopolitisch",
         "en": "cosmopolitan",
         "ru": "космополитичный",
         "descriptionEN": "including or containing people from many different countries",
         "descriptionRU": "включает или содержит людей из многих разных стран",
-        "descriptionDE": "beinhaltet oder enthält Menschen aus vielen verschiedenen Ländern"
+        "descriptionDE": "beinhaltet oder enthält Menschen aus vielen verschiedenen Ländern",
+        "tr": "kozmopolit",
+        "az": "kosmopolit",
+        "uk": "космополітичний",
+        "descriptionTR": "birçok farklı ülkeden insanları içeren veya barındıran",
+        "descriptionAZ": "çox müxtəlif ölkələrdən insanları özündə ehtiva edən və ya daxil edən",
+        "descriptionUK": "включає або містить людей з багатьох різних країн"
     }, {
         "de": "populär",
         "en": "popular",
         "ru": "популярный",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
         "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или определенного человека или группы",
-        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen",
+        "tr": "popüler",
+        "az": "populyar",
+        "uk": "популярний",
+        "descriptionTR": "birçok kişi veya belirli bir kişi veya grup tarafından beğenilen, hayranlık duyulan veya keyif alınan",
+        "descriptionAZ": "bir çox insan tərəfindən və ya müəyyən bir şəxs və ya qrup tərəfindən sevilən, heyran olunan və ya zövq alınan",
+        "descriptionUK": "подобається, викликає захоплення або насолоду у багатьох людей або певної особи чи групи"
     }, {
         "de": "originell",
         "en": "original",
         "ru": "оригинальный",
         "descriptionEN": "present or existing from the beginning; first or earliest",
         "descriptionRU": "присутствует или существует с самого начала; первый или самый ранний",
-        "descriptionDE": "von Anfang an vorhanden oder existierend; erster oder frühester"
+        "descriptionDE": "von Anfang an vorhanden oder existierend; erster oder frühester",
+        "tr": "orijinal",
+        "az": "orijinal",
+        "uk": "оригінальний",
+        "descriptionTR": "başlangıçtan itibaren mevcut veya var olan; ilk veya en erken",
+        "descriptionAZ": "başlanğıcdan mövcud olan və ya mövcud olan; ilk və ya ən erkən",
+        "descriptionUK": "наявний або існуючий з самого початку; перший або найраніший"
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
         "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или определенного человека или группы",
-        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen",
+        "tr": "popüler",
+        "az": "populyar",
+        "uk": "популярний",
+        "descriptionTR": "birçok kişi veya belirli bir kişi veya grup tarafından beğenilen, hayranlık duyulan veya keyif alınan",
+        "descriptionAZ": "bir çox insan tərəfindən və ya müəyyən bir şəxs və ya qrup tərəfindən sevilən, heyran olunan və ya zövq alınan",
+        "descriptionUK": "подобається, викликає захоплення або насолоду у багатьох людей або певної особи чи групи"
     }
 ]

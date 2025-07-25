@@ -1,137 +1,250 @@
 [
-
     {
         "de": "der Fluss",
         "en": "river",
         "ru": "река",
+        "tr": "nehir",
+        "az": "çay",
+        "uk": "річка",
+        "descriptionDE": "Ein natürlicher Wasserlauf, in der Regel fließendes Wasser.",
         "descriptionEN": "A natural watercourse, typically a body of flowing water.",
         "descriptionRU": "Естественный водоток, обычно поток воды.",
-        "descriptionDE": "Ein natürlicher Wasserlauf, in der Regel fließendes Wasser."
+        "descriptionTR": "Doğal bir su yolu, genellikle akan bir su kütlesi.",
+        "descriptionAZ": "Təbii su yolu, adətən axan su kütləsi.",
+        "descriptionUK": "природний водний потік, зазвичай течуча вода."
     }, {
         "de": "die Avifauna",
         "en": "avifauna",
         "ru": "авифауна",
+        "tr": "kuş çeşitliliği",
+        "az": "quş faunası",
+        "uk": "авіфауна",
+        "descriptionDE": "Die Vogelarten einer bestimmten Region.",
         "descriptionEN": "The bird species of a particular region.",
         "descriptionRU": "Птицы, обитающие в определенном регионе.",
-        "descriptionDE": "Die Vogelarten einer bestimmten Region."
+        "descriptionTR": "Belirli bir bölgedeki kuş türleri.",
+        "descriptionAZ": "Müəyyən bir bölgəyə aid quş növləri.",
+        "descriptionUK": "види птахів певного регіону."
     }, {
         "de": "der Eisvogel",
         "en": "kingfisher",
         "ru": "рикша",
+        "tr": "iskete",
+        "az": "qırqovul",
+        "uk": "вогник",
+        "descriptionDE": "Ein kleiner, bunt gefärbter Vogel, bekannt für seine Fischereifähigkeiten.",
         "descriptionEN": "A small, brightly colored bird known for its fishing abilities.",
         "descriptionRU": "Маленькая ярко окрашенная птица, известная своими рыболовными способностями.",
-        "descriptionDE": "Ein kleiner, bunt gefärbter Vogel, bekannt für seine Fischereifähigkeiten."
+        "descriptionTR": "Balık tutma yetenekleri ile tanınan küçük, parlak renkli bir kuş.",
+        "descriptionAZ": "Balıq tutma qabiliyyəti ilə tanınan kiçik, parlaq rəngli quş.",
+        "descriptionUK": "малий яскраво забарвлений птах, відомий своїми навичками риболовлі."
     }, {
         "de": "der Mäusebussard",
         "en": "buzzard",
         "ru": "птичий ястреб",
+        "tr": "şahin",
+        "az": "şahin",
+        "uk": "птах яструб",
+        "descriptionDE": "Ein Raubvogel, der kleine Säugetiere jagt.",
         "descriptionEN": "A bird of prey that hunts small mammals.",
         "descriptionRU": "Птица хищник, охотящаяся на мелких млекопитающих.",
-        "descriptionDE": "Ein Raubvogel, der kleine Säugetiere jagt."
+        "descriptionTR": "Küçük memelileri avlayan bir yırtıcı kuş.",
+        "descriptionAZ": "Kiçik məməliləri ovlayan yırtıcı quş.",
+        "descriptionUK": "птах хижак, який полює на дрібних ссавців."
     }, {
         "de": "der Adler",
         "en": "eagle",
         "ru": "орел",
+        "tr": "kartal",
+        "az": "qarğa",
+        "uk": "орел",
+        "descriptionDE": "Ein großer Raubvogel, bekannt für seinen kraftvollen Flug und scharfen Blick.",
         "descriptionEN": "A large bird of prey known for its powerful flight and keen eyesight.",
         "descriptionRU": "Большая хищная птица, известная своей мощной полетной способностью и острым зрением.",
-        "descriptionDE": "Ein großer Raubvogel, bekannt für seinen kraftvollen Flug und scharfen Blick."
+        "descriptionTR": "Güçlü uçuşu ve keskin görüşüyle tanınan büyük bir yırtıcı kuş.",
+        "descriptionAZ": "Güclü uçuşu və iti görmə qabiliyyəti ilə tanınan böyük yırtıcı quş.",
+        "descriptionUK": "великий птах-хижак, відомий своїм потужним польотом та гострим зором."
     }, {
         "de": "der Schwan",
         "en": "swan",
         "ru": "лебедь",
+        "tr": "kuğu",
+        "az": "ququn",
+        "uk": "лебідь",
+        "descriptionDE": "Ein großer, anmutiger Wasservogel mit einem langen Hals.",
         "descriptionEN": "A large, graceful water bird with a long neck.",
         "descriptionRU": "Большая, грациозная водная птица с длинной шеей.",
-        "descriptionDE": "Ein großer, anmutiger Wasservogel mit einem langen Hals."
+        "descriptionTR": "Uzun boyunlu büyük, zarif bir su kuşu.",
+        "descriptionAZ": "Uzun boyunlu böyük, zərif su quşu.",
+        "descriptionUK": "велика, граціозна водоплавна птиця з довгою шиєю."
     }, {
         "de": "die Libelle",
         "en": "dragonfly",
         "ru": "стрекоза",
+        "tr": "yusufçuk",
+        "az": "su pərisi",
+        "uk": "стрекоза",
+        "descriptionDE": "Ein Insekt mit langem Körper und durchsichtigen Flügeln.",
         "descriptionEN": "An insect with elongated body and transparent wings.",
         "descriptionRU": "Насекомое с удлиненным телом и прозрачными крыльями.",
-        "descriptionDE": "Ein Insekt mit langem Körper und durchsichtigen Flügeln."
+        "descriptionTR": "Uzun gövdeli ve saydam kanatlı bir böcek.",
+        "descriptionAZ": "Uzun bədənli və şəffaf qanadlı həşərat.",
+        "descriptionUK": "комаха з подовженим тілом і прозорими крилами."
     }, {
         "de": "die Forelle",
         "en": "trout",
         "ru": "форель",
+        "tr": "alabalık",
+        "az": "alabalıq",
+        "uk": "форель",
+        "descriptionDE": "Ein Fisch, der in Süßwasserumgebungen vorkommt.",
         "descriptionEN": "A type of fish found in freshwater environments.",
         "descriptionRU": "Вид рыбы, обитающей в пресных водах.",
-        "descriptionDE": "Ein Fisch, der in Süßwasserumgebungen vorkommt."
+        "descriptionTR": "Tatlı su ortamlarında bulunan bir balık türü.",
+        "descriptionAZ": "Şirin su mühitində yaşayan balıq növü.",
+        "descriptionUK": "вид риби, що мешкає у прісних водоймах."
     }, {
         "de": "der Hecht",
         "en": "pike",
         "ru": "щука",
+        "tr": "turna balığı",
+        "az": "turna balığı",
+        "uk": "щука",
+        "descriptionDE": "Ein großer Raubfisch, der in Seen und Flüssen lebt.",
         "descriptionEN": "A large predatory fish found in lakes and rivers.",
         "descriptionRU": "Большая хищная рыба, обитающая в озерах и реках.",
-        "descriptionDE": "Ein großer Raubfisch, der in Seen und Flüssen lebt."
+        "descriptionTR": "Göller ve nehirlerde yaşayan büyük bir yırtıcı balık.",
+        "descriptionAZ": "Göllər və çaylarda yaşayan böyük yırtıcı balıq.",
+        "descriptionUK": "велика хижа риба, що мешкає в озерах і річках."
     }, {
         "de": "die Schmetterlinge",
         "en": "butterflies",
         "ru": "бабочки",
+        "tr": "kelebekler",
+        "az": "kəpənəklər",
+        "uk": "метелики",
+        "descriptionDE": "Bunte Insekten mit großen Flügeln, die oft um Blumen fliegen.",
         "descriptionEN": "Colorful insects with large wings that often fly around flowers.",
         "descriptionRU": "Красочные насекомые с большими крыльями, которые часто летают вокруг цветов.",
-        "descriptionDE": "Bunte Insekten mit großen Flügeln, die oft um Blumen fliegen."
+        "descriptionTR": "Genellikle çiçeklerin etrafında uçarak büyük kanatları olan renkli böcekler.",
+        "descriptionAZ": "Adətən çiçəklərin ətrafında uçan böyük qanadlı rəngarəng həşəratlar.",
+        "descriptionUK": "барвисті комахи з великими крилами, що часто літають біля квітів."
     }, {
         "de": "das Insekt",
         "en": "insect",
         "ru": "насекомое",
+        "tr": "böcek",
+        "az": "həşərat",
+        "uk": "комаха",
+        "descriptionDE": "Ein kleines Arthropod, oft mit sechs Beinen und Flügeln.",
         "descriptionEN": "A small arthropod, often with six legs and wings.",
         "descriptionRU": "Маленький членистоногий, часто с шестью ногами и крыльями.",
-        "descriptionDE": "Ein kleines Arthropod, oft mit sechs Beinen und Flügeln."
+        "descriptionTR": "Genellikle altı bacaklı ve kanatlı küçük bir eklembacaklı.",
+        "descriptionAZ": "Adətən altı ayaqlı və qanadlı kiçik artropod.",
+        "descriptionUK": "маленький членистоногий, часто з шістьма ногами та крилами."
     }, {
         "de": "fliegen",
         "en": "to fly",
         "ru": "летать",
+        "tr": "uçmak",
+        "az": "uçmaq",
+        "uk": "літати",
+        "descriptionDE": "Durch die Luft bewegen mit Flügeln.",
         "descriptionEN": "To move through the air using wings.",
         "descriptionRU": "Передвигаться по воздуху с помощью крыльев.",
-        "descriptionDE": "Durch die Luft bewegen mit Flügeln."
+        "descriptionTR": "Kanatları kullanarak havada hareket etmek.",
+        "descriptionAZ": "Qanadlardan istifadə edərək havada hərəkət etmək.",
+        "descriptionUK": "рухатися повітрям, використовуючи крила."
     }, {
         "de": "jagen",
         "en": "to hunt",
         "ru": "охотиться",
+        "tr": "avlamak",
+        "az": "ovlamaq",
+        "uk": "полювати",
+        "descriptionDE": "Verfolgen und töten zum Nahrungserwerb.",
         "descriptionEN": "To pursue and kill for food.",
         "descriptionRU": "Преследовать и убивать для еды.",
-        "descriptionDE": "Verfolgen und töten zum Nahrungserwerb."
+        "descriptionTR": "Yiyecek için takip etmek ve öldürmek.",
+        "descriptionAZ": "Qida üçün təqib etmək və öldürmək.",
+        "descriptionUK": "переслідувати і вбивати для їжі."
     }, {
         "de": "fliehen",
         "en": "to flee",
         "ru": "убегать",
+        "tr": "kaçmak",
+        "az": "qaçmaq",
+        "uk": "текти",
+        "descriptionDE": "Vor Gefahr weglaufen.",
         "descriptionEN": "To run away from danger.",
         "descriptionRU": "Бежать от опасности.",
-        "descriptionDE": "Vor Gefahr weglaufen."
+        "descriptionTR": "Tehlikeden uzaklaşmak için kaçmak.",
+        "descriptionAZ": "Təhlükədən uzaqlaşmaq üçün qaçmaq.",
+        "descriptionUK": "втікати від небезпеки."
     }, {
         "de": "verstecken",
         "en": "to hide",
         "ru": "прятаться",
+        "tr": "saklanmak",
+        "az": "gizlənmək",
+        "uk": "ховатися",
+        "descriptionDE": "Etwas aus dem Blickfeld verschwinden lassen.",
         "descriptionEN": "To put something out of sight.",
         "descriptionRU": "Спрятать что-то от взгляда.",
-        "descriptionDE": "Etwas aus dem Blickfeld verschwinden lassen."
+        "descriptionTR": "Bir şeyi görüş alanından gizlemek.",
+        "descriptionAZ": "Bir şeyi görünüş sahəsindən gizlətmək.",
+        "descriptionUK": "заховати щось з поля зору."
     }, {
         "de": "ruhig",
         "en": "calm",
         "ru": "спокойный",
+        "tr": "sakin",
+        "az": "sakit",
+        "uk": "спокійний",
+        "descriptionDE": "Frei von Aufregung oder Erregung.",
         "descriptionEN": "Free from agitation or excitement.",
         "descriptionRU": "Без возбуждения или волнения.",
-        "descriptionDE": "Frei von Aufregung oder Erregung."
+        "descriptionTR": "Huzur ve heyecan yok.",
+        "descriptionAZ": "Həyəcan və qarşısının alınması yoxdur.",
+        "descriptionUK": "вільний від збудження або хвилювання."
     }, {
         "de": "lebendig",
         "en": "alive",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
+        "descriptionDE": "Lebendigkeit; nicht tot.",
         "descriptionEN": "Having life; not dead.",
         "descriptionRU": "Имеющий жизнь; не мертвый.",
-        "descriptionDE": "Lebendigkeit; nicht tot."
+        "descriptionTR": "Hayat sahibi; ölü olmayan.",
+        "descriptionAZ": "Həyatı olan; ölü olmayan.",
+        "descriptionUK": "має життя; не мертвий."
     }, {
         "de": "vielfältig",
         "en": "diverse",
         "ru": "разнообразный",
+        "tr": "çeşitli",
+        "az": "müxtəlif",
+        "uk": "різноманітний",
+        "descriptionDE": "Vielfalt aufweisend; viele verschiedene Typen haben.",
         "descriptionEN": "Showing variety; having many different types.",
         "descriptionRU": "Показывающий разнообразие; имеющий много разных типов.",
-        "descriptionDE": "Vielfalt aufweisend; viele verschiedene Typen haben."
+        "descriptionTR": "Çeşitlilik gösteren; birçok farklı tipe sahip.",
+        "descriptionAZ": "Müxtəlifliyi göstərən; çoxsaylı fərqli növlərə malik.",
+        "descriptionUK": "показує різноманітність; має багато різних типів."
     }, {
         "de": "bemerkenswert",
         "en": "remarkable",
         "ru": "замечательный",
+        "tr": "dikkate değer",
+        "az": "diqqətəlayiq",
+        "uk": "видатний",
+        "descriptionDE": "Beachtenswert oder auffällig.",
         "descriptionEN": "Worthy of attention or notice.",
         "descriptionRU": "Заслуживающий внимания или замечания.",
-        "descriptionDE": "Beachtenswert oder auffällig."
+        "descriptionTR": "Dikkat veya fark edilme değerinde.",
+        "descriptionAZ": "Diqqətə və ya nəzərə alınmağa layiqdir.",
+        "descriptionUK": "вартий уваги або помітності."
     }
 ]

@@ -3,155 +3,287 @@
         "de": "die Weihnachtszeit",
         "en": "Christmas time",
         "ru": "рождественское время",
+        "tr": "Noel zamanı",
+        "az": "Milad vaxtı",
+        "uk": "різдвяний час",
         "descriptionDE": "Die Zeit um Weihnachten herum, wenn festliche Aktivitäten stattfinden.",
         "descriptionEN": "The period around Christmas when festive activities take place.",
-        "descriptionRU": "Период вокруг Рождества, когда проводятся праздничные мероприятия."
+        "descriptionRU": "Период вокруг Рождества, когда проводятся праздничные мероприятия.",
+        "descriptionTR": "Şenlik etkinliklerinin gerçekleştiği Noel çevresindeki dönem.",
+        "descriptionAZ": "Şənlik fəaliyyətlərinin baş verdiyi Milad ətrafındakı dövr.",
+        "descriptionUK": "Період навколо Різдва, коли відбуваються святкові заходи."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionDE": "Ein Brauch oder Glaube, der von Generation zu Generation weitergegeben wird.",
         "descriptionEN": "A custom or belief that is passed down from generation to generation.",
-        "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение."
+        "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение.",
+        "descriptionTR": "Nesilden nesile aktarılan bir gelenek veya inanç.",
+        "descriptionAZ": "Nəsildən nəsilə ötürülən adət və ya inanc.",
+        "descriptionUK": "Звичай або віра, що передається з покоління в покоління."
     }, {
         "de": "der Brauch",
         "en": "custom",
         "ru": "обычай",
+        "tr": "adet",
+        "az": "adət",
+        "uk": "звичай",
         "descriptionDE": "Eine traditionelle Art zu handeln oder etwas zu tun.",
         "descriptionEN": "A traditional way of behaving or doing something.",
-        "descriptionRU": "Традиционный способ поведения или совершения чего-то."
+        "descriptionRU": "Традиционный способ поведения или совершения чего-то.",
+        "descriptionTR": "Davranmanın veya bir şey yapmanın geleneksel yolu.",
+        "descriptionAZ": "Davranışın və ya bir şey etməyin ənənəvi yolu.",
+        "descriptionUK": "Традиційний спосіб поведінки або виконання чогось."
     }, {
         "de": "die Feier",
         "en": "celebration",
         "ru": "празднование",
+        "tr": "kutlama",
+        "az": "bayram",
+        "uk": "святкування",
         "descriptionDE": "Die Handlung des Feierns eines Ereignisses oder Festivals.",
         "descriptionEN": "The act of celebrating an event or festival.",
-        "descriptionRU": "Акт празднования события или фестиваля."
+        "descriptionRU": "Акт празднования события или фестиваля.",
+        "descriptionTR": "Bir olayı veya festivali kutlama eylemi.",
+        "descriptionAZ": "Bir hadisəni və ya festivalı qeyd etmə hərəkəti.",
+        "descriptionUK": "Акт святкування події або фестивалю."
     }, {
         "de": "der Markt",
         "en": "market",
         "ru": "рынок",
+        "tr": "pazar",
+        "az": "bazar",
+        "uk": "ринок",
         "descriptionDE": "Ein öffentlicher Ort, an dem Waren gekauft und verkauft werden.",
         "descriptionEN": "A public place where goods are bought and sold.",
-        "descriptionRU": "Общественное место, где продают и покупают товары."
+        "descriptionRU": "Общественное место, где продают и покупают товары.",
+        "descriptionTR": "Malların alınıp satıldığı halka açık yer.",
+        "descriptionAZ": "Malların alınıb satıldığı ictimai yer.",
+        "descriptionUK": "Громадське місце, де купують і продають товари."
     }, {
         "de": "die Kerze",
         "en": "candle",
         "ru": "свеча",
+        "tr": "mum",
+        "az": "şam",
+        "uk": "свічка",
         "descriptionDE": "Ein Zylinder aus Wachs mit einem zentralen Docht, der angezündet wird, um Licht zu erzeugen.",
         "descriptionEN": "A cylinder of wax with a central wick that is lit to produce light.",
-        "descriptionRU": "Цилиндр из воска с центральным фитилем, который зажигается для создания света."
+        "descriptionRU": "Цилиндр из воска с центральным фитилем, который зажигается для создания света.",
+        "descriptionTR": "Işık üretmek için yakılan merkezi fitili olan mum silindiri.",
+        "descriptionAZ": "İşıq yaratmaq üçün yandırılan mərkəzi fitili olan mum silindri.",
+        "descriptionUK": "Циліндр з воску з центральним гнотом, який запалюється для виробництва світла."
     }, {
         "de": "der Adventssonntag",
         "en": "Advent Sunday",
         "ru": "Адвент-воскресенье",
+        "tr": "Advent Pazarı",
+        "az": "Advent Bazar günü",
+        "uk": "Адвент неділя",
         "descriptionDE": "Der Sonntag, der den Beginn des Advents markiert, vier Wochen vor Weihnachten.",
         "descriptionEN": "The Sunday marking the beginning of Advent, four weeks before Christmas.",
-        "descriptionRU": "Воскресенье, отмечающее начало Адвента, за четыре недели до Рождества."
+        "descriptionRU": "Воскресенье, отмечающее начало Адвента, за четыре недели до Рождества.",
+        "descriptionTR": "Noel'den dört hafta önce Advent'in başlangıcını işaret eden Pazar.",
+        "descriptionAZ": "Miladdan dörd həftə əvvəl Adventin başlanğıcını qeyd edən Bazar günü.",
+        "descriptionUK": "Неділя, що знаменує початок Адвенту, за чотири тижні до Різдва."
     }, {
         "de": "die Tanne",
         "en": "fir tree",
         "ru": "ель",
+        "tr": "göknar ağacı",
+        "az": "küknar ağacı",
+        "uk": "ялинка",
         "descriptionDE": "Eine Art immergrüner Baum, der oft als Weihnachtsbaum verwendet wird.",
         "descriptionEN": "A type of evergreen tree often used as a Christmas tree.",
-        "descriptionRU": "Вид вечнозеленого дерева, часто используемого в качестве рождественской ели."
+        "descriptionRU": "Вид вечнозеленого дерева, часто используемого в качестве рождественской ели.",
+        "descriptionTR": "Genellikle Noel ağacı olarak kullanılan bir tür iğne yapraklı ağaç.",
+        "descriptionAZ": "Adətən Milad ağacı kimi istifadə olunan bir növ həmişəyaşıl ağac.",
+        "descriptionUK": "Тип вічнозеленого дерева, часто використовуваного як різдвяна ялинка."
     }, {
         "de": "das Schmuck",
         "en": "ornament",
         "ru": "украшение",
+        "tr": "süs",
+        "az": "bəzək",
+        "uk": "прикраса",
         "descriptionDE": "Eine Dekoration, die verwendet wird, um etwas zu verschönern.",
         "descriptionEN": "A decoration used to beautify something.",
-        "descriptionRU": "Украшение, используемое для украшения чего-то."
+        "descriptionRU": "Украшение, используемое для украшения чего-то.",
+        "descriptionTR": "Bir şeyi güzelleştirmek için kullanılan dekorasyon.",
+        "descriptionAZ": "Bir şeyi gözəlləşdirmək üçün istifadə olunan dekorasiya.",
+        "descriptionUK": "Декорація, що використовується для прикрашання чогось."
     }, {
         "de": "das Geschenk",
         "en": "gift",
         "ru": "подарок",
+        "tr": "hediye",
+        "az": "hədiyyə",
+        "uk": "подарунок",
         "descriptionDE": "Etwas, das freiwillig ohne Bezahlung als Geschenk gegeben wird.",
         "descriptionEN": "Something given voluntarily without payment in return, as a present.",
-        "descriptionRU": "Что-то, даримое добровольно без ожидания оплаты в ответ, как подарок."
+        "descriptionRU": "Что-то, даримое добровольно без ожидания оплаты в ответ, как подарок.",
+        "descriptionTR": "Karşılığında ödeme beklemeden gönüllü olarak hediye olarak verilen bir şey.",
+        "descriptionAZ": "Qarşılığında ödəniş gözləmədən könüllü olaraq hədiyyə kimi verilən bir şey.",
+        "descriptionUK": "Щось, що дається добровільно без оплати у відповідь, як подарунок."
     }, {
         "de": "die Mette",
         "en": "Midnight Mass",
         "ru": "полуночная месса",
+        "tr": "gece yarısı ayini",
+        "az": "gecə yarısı mərasimi",
+        "uk": "опівнічна меса",
         "descriptionDE": "Eine Messe, die in der Nacht vor Weihnachten oder kurz nach Mitternacht gefeiert wird.",
         "descriptionEN": "A Mass celebrated on Christmas Eve at or shortly after midnight.",
-        "descriptionRU": "Месса, отмечаемая в канун Рождества в полночь или непосредственно после полуночи."
+        "descriptionRU": "Месса, отмечаемая в канун Рождества в полночь или непосредственно после полуночи.",
+        "descriptionTR": "Noel arifesinde gece yarısında veya gece yarısından kısa bir süre sonra kutlanan ayin.",
+        "descriptionAZ": "Milad ərəfəsində gecə yarısında və ya gecə yarısından qısa müddət sonra qeyd olunan mərasim.",
+        "descriptionUK": "Меса, що відзначається в переддень Різдва опівночі або незабаром після півночі."
     }, {
         "de": "die Gans",
         "en": "goose",
         "ru": "гусь",
+        "tr": "kaz",
+        "az": "qaz",
+        "uk": "гуска",
         "descriptionDE": "Ein großer Vogel mit einem langen Hals, der für sein Fleisch und seine Federn gezüchtet wird.",
         "descriptionEN": "A large bird with a long neck, raised for its meat and feathers.",
-        "descriptionRU": "Большая птица с длинной шеей, разводимая ради мяса и перьев."
+        "descriptionRU": "Большая птица с длинной шеей, разводимая ради мяса и перьев.",
+        "descriptionTR": "Eti ve tüyleri için yetiştirilen uzun boyunlu büyük kuş.",
+        "descriptionAZ": "Əti və lələkləri üçün yetişdirilən uzun boyunlu böyük quş.",
+        "descriptionUK": "Великий птах з довгою шиєю, що розводиться заради м'яса та пір'я."
     }, {
         "de": "der Nikolaustag",
         "en": "St. Nicholas Day",
         "ru": "День Святого Николая",
+        "tr": "Aziz Nikolay Günü",
+        "az": "Müqəddəs Nikolay Günü",
+        "uk": "День Святого Миколая",
         "descriptionDE": "Ein Tag, der am 6. Dezember zu Ehren des Heiligen Nikolaus gefeiert wird, bekannt für das Schenken von Geschenken.",
         "descriptionEN": "A day celebrated on December 6th in honor of St. Nicholas, known for gift-giving.",
-        "descriptionRU": "День, отмечаемый 6 декабря в честь Святого Николая, известного своим дарением подарков."
+        "descriptionRU": "День, отмечаемый 6 декабря в честь Святого Николая, известного своим дарением подарков.",
+        "descriptionTR": "Hediye verme ile tanınan Aziz Nikolay onuruna 6 Aralık'ta kutlanan gün.",
+        "descriptionAZ": "Hədiyyə vermə ilə tanınan Müqəddəs Nikolay şərəfinə 6 dekabr tarixində qeyd olunan gün.",
+        "descriptionUK": "День, що відзначається 6 грудня на честь Святого Миколая, відомого своїм даруванням подарунків."
     }, {
         "de": "der Krampus",
         "en": "Krampus",
         "ru": "Крампус",
+        "tr": "Krampus",
+        "az": "Krampus",
+        "uk": "Крампус",
         "descriptionDE": "Eine gehörnte Figur, die den Heiligen Nikolaus begleitet und ungezogene Kinder bestraft.",
         "descriptionEN": "A horned figure accompanying St. Nicholas, punishing naughty children.",
-        "descriptionRU": "Рогатая фигура, сопровождающая Святого Николая и наказывающая непослушных детей."
+        "descriptionRU": "Рогатая фигура, сопровождающая Святого Николая и наказывающая непослушных детей.",
+        "descriptionTR": "Aziz Nikolay'a eşlik eden ve yaramaz çocukları cezalandıran boynuzlu figür.",
+        "descriptionAZ": "Müqəddəs Nikolaya müşayiət edən və yaramaz uşaqları cəzalandıran buynuzlu fiqur.",
+        "descriptionUK": "Рогата фігура, що супроводжує Святого Миколая та карає неслухняних дітей."
     }, {
         "de": "der Hirte",
         "en": "shepherd",
         "ru": "пастух",
+        "tr": "çoban",
+        "az": "çoban",
+        "uk": "пастух",
         "descriptionDE": "Eine Person, die Schafe hütet, treibt oder bewacht.",
         "descriptionEN": "A person who tends, herds, or guards sheep.",
-        "descriptionRU": "Человек, заботящийся, пасущий или охраняющий овец."
+        "descriptionRU": "Человек, заботящийся, пасущий или охраняющий овец.",
+        "descriptionTR": "Koyunları güden, sürüye çıkaran veya koruyan kişi.",
+        "descriptionAZ": "Qoyunlara baxan, sürüyə çıxaran və ya qoruyan şəxs.",
+        "descriptionUK": "Особа, яка доглядає, пасе або охороняє овець."
     }, {
         "de": "fröhlich",
         "en": "joyful",
         "ru": "радостный",
+        "tr": "neşeli",
+        "az": "şən",
+        "uk": "радісний",
         "descriptionDE": "Voll von Glück und Freude.",
         "descriptionEN": "Full of happiness and delight.",
-        "descriptionRU": "Полный счастья и восторга."
+        "descriptionRU": "Полный счастья и восторга.",
+        "descriptionTR": "Mutluluk ve sevinç dolu.",
+        "descriptionAZ": "Xoşbəxtlik və sevinclə dolu.",
+        "descriptionUK": "Повний щастя та радості."
     }, {
         "de": "magisch",
         "en": "magical",
         "ru": "волшебный",
+        "tr": "büyülü",
+        "az": "sehrli",
+        "uk": "чарівний",
         "descriptionDE": "Die Kraft haben, zu verzaubern oder zu erfreuen.",
         "descriptionEN": "Having the power to enchant or delight.",
-        "descriptionRU": "Обладающий силой очаровывать или радовать."
+        "descriptionRU": "Обладающий силой очаровывать или радовать.",
+        "descriptionTR": "Büyüleme veya memnun etme gücüne sahip olmak.",
+        "descriptionAZ": "Sehrlə və ya məmnun etmə gücünə sahib olmaq.",
+        "descriptionUK": "Мати силу зачаровувати або радувати."
     }, {
         "de": "ausgeprägt",
         "en": "pronounced",
         "ru": "выраженный",
+        "tr": "belirgin",
+        "az": "aydın",
+        "uk": "виражений",
         "descriptionDE": "Klar erkennbar oder offensichtlich.",
         "descriptionEN": "Clearly noticeable or evident.",
-        "descriptionRU": "Явно заметный или очевидный."
+        "descriptionRU": "Явно заметный или очевидный.",
+        "descriptionTR": "Açıkça fark edilebilir veya belirgin.",
+        "descriptionAZ": "Aydın şəkildə nəzərə çarpan və ya aşkar.",
+        "descriptionUK": "Чітко помітний або очевидний."
     }, {
         "de": "festlich",
         "en": "festive",
         "ru": "праздничный",
+        "tr": "şenlikli",
+        "az": "bayramlıq",
+        "uk": "святковий",
         "descriptionDE": "Mit einem Fest verbunden oder für ein Fest geeignet.",
         "descriptionEN": "Related to or suitable for a celebration.",
-        "descriptionRU": "Связанный или подходящий для праздника."
+        "descriptionRU": "Связанный или подходящий для праздника.",
+        "descriptionTR": "Bir kutlama ile ilgili veya kutlama için uygun.",
+        "descriptionAZ": "Bir bayramla əlaqəli və ya bayram üçün uyğun.",
+        "descriptionUK": "Пов'язаний або підходящий для святкування."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
         "descriptionDE": "Als einzige Art seiner Art sein; anders als alles andere.",
         "descriptionEN": "Being the only one of its kind; unlike anything else.",
-        "descriptionRU": "Будучи единственным в своем роде; не похожим на что-то другое."
+        "descriptionRU": "Будучи единственным в своем роде; не похожим на что-то другое.",
+        "descriptionTR": "Türünün tek örneği olmak; başka hiçbir şeye benzemez.",
+        "descriptionAZ": "Öz növünün yeganə nümunəsi olmaq; başqa heç nəyə bənzəməz.",
+        "descriptionUK": "Бути єдиним у своєму роді; не схожим ні на що інше."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionDE": "Den Bräuchen oder Verhaltensweisen folgend oder zugehörig, die in einer Gruppe von Menschen lange Zeit fortbestanden haben.",
         "descriptionEN": "Following or belonging to the customs or ways of behaving that have continued in a group of people for a long time.",
-        "descriptionRU": "Следуя или принадлежа к обычаям или способам поведения, которые сохранялись в группе людей долгое время."
+        "descriptionRU": "Следуя или принадлежа к обычаям или способам поведения, которые сохранялись в группе людей долгое время.",
+        "descriptionTR": "Bir grup insanda uzun süre devam eden gelenekleri veya davranış biçimlerini takip eden veya bunlara ait.",
+        "descriptionAZ": "Bir qrup insanda uzun müddət davam edən adətləri və ya davranış tərzlərini izləyən və ya bunlara aid.",
+        "descriptionUK": "Слідування або належність до звичаїв або способів поведінки, які тривали в групі людей протягом тривалого часу."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
         "descriptionDE": "Einen tiefen Eindruck hinterlassen; unvergesslich.",
         "descriptionEN": "Leaving a deep impression; memorable.",
-        "descriptionRU": "Оставляющий глубокое впечатление; незабвенный."
+        "descriptionRU": "Оставляющий глубокое впечатление; незабвенный.",
+        "descriptionTR": "Derin bir izlenim bırakmak; akılda kalıcı.",
+        "descriptionAZ": "Dərin təəssürat buraxmaq; yaddaqalan.",
+        "descriptionUK": "Залишати глибоке враження; пам'ятний."
     }
 ]

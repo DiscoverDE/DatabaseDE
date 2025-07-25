@@ -3,155 +3,287 @@
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "A plantation of grapevines used for winemaking.",
         "descriptionRU": "Участок земли, на котором выращивают виноград для вина.",
-        "descriptionDE": "Ein Anbaugebiet für Weinreben zur Weinproduktion."
+        "descriptionDE": "Ein Anbaugebiet für Weinreben zur Weinproduktion.",
+        "descriptionTR": "Şarap yapımında kullanılan üzüm bağı.",
+        "descriptionAZ": "Şərab istehsalı üçün istifadə olunan üzüm bağı.",
+        "descriptionUK": "Плантація виноградної лози, що використовується для виноробства."
     }, {
         "de": "die Gärung",
         "en": "fermentation",
         "ru": "брожение",
+        "tr": "fermantasyon",
+        "az": "fermentasiya",
+        "uk": "бродіння",
         "descriptionEN": "A process where yeast converts sugars into alcohol.",
         "descriptionRU": "Процесс, в котором дрожжи превращают сахар в алкоголь.",
-        "descriptionDE": "Ein Prozess, bei dem Hefe Zucker in Alkohol umwandelt."
+        "descriptionDE": "Ein Prozess, bei dem Hefe Zucker in Alkohol umwandelt.",
+        "descriptionTR": "Maya şekerleri alkole dönüştürdüğü süreç.",
+        "descriptionAZ": "Maya şəkərləri spirtə çevirdiyi proses.",
+        "descriptionUK": "Процес, у якому дріжджі перетворюють цукор у алкоголь."
     }, {
         "de": "der Winzer",
         "en": "winemaker",
         "ru": "винодел",
+        "tr": "şarap üreticisi",
+        "az": "şərab istehsalçısı",
+        "uk": "винороб",
         "descriptionEN": "A person who produces wine.",
         "descriptionRU": "Человек, который занимается производством вина.",
-        "descriptionDE": "Eine Person, die Wein herstellt."
+        "descriptionDE": "Eine Person, die Wein herstellt.",
+        "descriptionTR": "Şarap üreten kişi.",
+        "descriptionAZ": "Şərab istehsal edən şəxs.",
+        "descriptionUK": "Людина, яка займається виробництвом вина."
     }, {
         "de": "die Rebe",
         "en": "vine",
         "ru": "лоза",
+        "tr": "asma",
+        "az": "üzüm fidanı",
+        "uk": "лоза",
         "descriptionEN": "A climbing plant that produces grapes.",
         "descriptionRU": "Вьющееся растение, дающее виноград.",
-        "descriptionDE": "Eine kletternde Pflanze, die Trauben trägt."
+        "descriptionDE": "Eine kletternde Pflanze, die Trauben trägt.",
+        "descriptionTR": "Üzüm üreten tırmanıcı bir bitki.",
+        "descriptionAZ": "Üzüm yetişdirən sarmaşıq bitkisi.",
+        "descriptionUK": "Виюча рослина, що дає виноград."
     }, {
         "de": "das Weingut",
         "en": "winery",
         "ru": "винодельня",
+        "tr": "şaraphane",
+        "az": "şərab zavodu",
+        "uk": "винний завод",
         "descriptionEN": "A place where wine is produced.",
         "descriptionRU": "Место, где производится вино.",
-        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird."
+        "descriptionDE": "Ein Ort, an dem Wein hergestellt wird.",
+        "descriptionTR": "Şarap üretilen yer.",
+        "descriptionAZ": "Şərab istehsal olunan yer.",
+        "descriptionUK": "Місце, де виробляється вино."
     }, {
         "de": "die Traube",
         "en": "grape",
         "ru": "виноград",
+        "tr": "üzüm",
+        "az": "üzüm",
+        "uk": "виноград",
         "descriptionEN": "A small, round fruit used to make wine.",
         "descriptionRU": "Мелкий, круглый фрукт, используемый для производства вина.",
-        "descriptionDE": "Eine kleine, runde Frucht zur Weinherstellung."
+        "descriptionDE": "Eine kleine, runde Frucht zur Weinherstellung.",
+        "descriptionTR": "Şarap yapımında kullanılan küçük, yuvarlak meyve.",
+        "descriptionAZ": "Şərab istehsalında istifadə olunan kiçik, yumru meyvə.",
+        "descriptionUK": "Невеликий, круглий фрукт, що використовується для виробництва вина."
     }, {
         "de": "der Riesling",
         "en": "Riesling",
         "ru": "Рислинг",
+        "tr": "Riesling",
+        "az": "Riesling",
+        "uk": "Рислінг",
         "descriptionEN": "A type of white grape used to make wine.",
         "descriptionRU": "Разновидность белого винограда, используемая для вина.",
-        "descriptionDE": "Eine Art Weißweintraube zur Weinproduktion."
+        "descriptionDE": "Eine Art Weißweintraube zur Weinproduktion.",
+        "descriptionTR": "Şarap yapımında kullanılan bir tür beyaz üzüm.",
+        "descriptionAZ": "Şərab istehsalında istifadə olunan bir növ ağ üzüm.",
+        "descriptionUK": "Різновид білого винограду, що використовується для вина."
     }, {
         "de": "der Adel",
         "en": "nobility",
         "ru": "дворянство",
+        "tr": "soylular",
+        "az": "zadəganlıq",
+        "uk": "дворянство",
         "descriptionEN": "A privileged class of people with high social status.",
         "descriptionRU": "Привилегированный класс людей с высоким статусом.",
-        "descriptionDE": "Eine privilegierte soziale Schicht mit hohem Status."
+        "descriptionDE": "Eine privilegierte soziale Schicht mit hohem Status.",
+        "descriptionTR": "Yüksek sosyal statüye sahip ayrıcalıklı bir sınıf.",
+        "descriptionAZ": "Yüksək sosial statusa malik imtiyazlı bir sinif.",
+        "descriptionUK": "Привілейований клас людей з високим статусом."
     }, {
         "de": "die Zölle",
         "en": "tariffs",
         "ru": "таможенные пошлины",
+        "tr": "gümrük vergileri",
+        "az": "gömrük rüsumları",
+        "uk": "митні збори",
         "descriptionEN": "Taxes on imported or exported goods.",
         "descriptionRU": "Налоги на импорт или экспорт товаров.",
-        "descriptionDE": "Steuern auf importierte oder exportierte Waren."
+        "descriptionDE": "Steuern auf importierte oder exportierte Waren.",
+        "descriptionTR": "İthal veya ihraç edilen mallara uygulanan vergiler.",
+        "descriptionAZ": "İdxal və ya ixrac olunan mallara qoyulan vergilər.",
+        "descriptionUK": "Податки на імпорт або експорт товарів."
     }, {
         "de": "die Zollunion",
         "en": "customs union",
         "ru": "таможенный союз",
+        "tr": "gümrük birliği",
+        "az": "gömrük ittifaqı",
+        "uk": "митний союз",
         "descriptionEN": "An agreement to remove trade barriers between countries.",
         "descriptionRU": "Соглашение об устранении торговых барьеров между странами.",
-        "descriptionDE": "Eine Vereinbarung zur Beseitigung von Handelshemmnissen zwischen Ländern."
+        "descriptionDE": "Eine Vereinbarung zur Beseitigung von Handelshemmnissen zwischen Ländern.",
+        "descriptionTR": "Ülkeler arasındaki ticaret engellerini kaldırmak için bir anlaşma.",
+        "descriptionAZ": "Ölkələr arasında ticarət maneələrini aradan qaldırmaq üçün razılaşma.",
+        "descriptionUK": "Угода про усунення торгових бар'єрів між країнами."
     }, {
         "de": "das Klima",
         "en": "climate",
         "ru": "климат",
+        "tr": "iklim",
+        "az": "iqlim",
+        "uk": "клімат",
         "descriptionEN": "The weather conditions of a region over time.",
         "descriptionRU": "Погодные условия в регионе в течение долгого времени.",
-        "descriptionDE": "Die Wetterbedingungen einer Region über einen längeren Zeitraum."
+        "descriptionDE": "Die Wetterbedingungen einer Region über einen längeren Zeitraum.",
+        "descriptionTR": "Bir bölgenin uzun süreli hava koşulları.",
+        "descriptionAZ": "Bir regionun uzun müddətli hava şəraiti.",
+        "descriptionUK": "Погодні умови в регіоні протягом тривалого часу."
     }, {
         "de": "die Qualität",
         "en": "quality",
         "ru": "качество",
+        "tr": "kalite",
+        "az": "keyfiyyət",
+        "uk": "якість",
         "descriptionEN": "The standard of something measured against other things.",
         "descriptionRU": "Степень соответствия стандартам или требованиям.",
-        "descriptionDE": "Der Maßstab, an dem etwas gemessen wird."
+        "descriptionDE": "Der Maßstab, an dem etwas gemessen wird.",
+        "descriptionTR": "Bir şeyin diğer şeylere karşı ölçülen standardı.",
+        "descriptionAZ": "Bir şeyin digər şeylərlə müqayisədə ölçülən standartı.",
+        "descriptionUK": "Міра відповідності стандартам або вимогам."
     }, {
         "de": "exportieren",
         "en": "to export",
         "ru": "экспортировать",
+        "tr": "ihraç etmek",
+        "az": "ixrac etmək",
+        "uk": "експортувати",
         "descriptionEN": "To send goods to another country for sale.",
         "descriptionRU": "Отправлять товары в другую страну для продажи.",
-        "descriptionDE": "Waren in ein anderes Land verkaufen."
+        "descriptionDE": "Waren in ein anderes Land verkaufen.",
+        "descriptionTR": "Malları satış için başka bir ülkeye göndermek.",
+        "descriptionAZ": "Malları satış üçün başqa bir ölkəyə göndərmək.",
+        "descriptionUK": "Відправляти товари в іншу країну для продажу."
     }, {
         "de": "lagern",
         "en": "to store",
         "ru": "хранить",
+        "tr": "depolamak",
+        "az": "saxlamaq",
+        "uk": "зберігати",
         "descriptionEN": "To keep something in a particular place for future use.",
         "descriptionRU": "Хранить что-то в определённом месте для будущего использования.",
-        "descriptionDE": "Etwas an einem bestimmten Ort aufbewahren."
+        "descriptionDE": "Etwas an einem bestimmten Ort aufbewahren.",
+        "descriptionTR": "Bir şeyi gelecekte kullanmak üzere belirli bir yerde saklamak.",
+        "descriptionAZ": "Bir şeyi gələcəkdə istifadə üçün müəyyən bir yerdə saxlamaq.",
+        "descriptionUK": "Зберігати щось у певному місці для майбутнього використання."
     }, {
         "de": "anbauen",
         "en": "to cultivate",
         "ru": "возделывать",
+        "tr": "yetiştirmek",
+        "az": "əkmək",
+        "uk": "вирощувати",
         "descriptionEN": "To grow plants, especially for agriculture.",
         "descriptionRU": "Выращивать растения, особенно для сельского хозяйства.",
-        "descriptionDE": "Pflanzen anbauen, besonders für die Landwirtschaft."
+        "descriptionDE": "Pflanzen anbauen, besonders für die Landwirtschaft.",
+        "descriptionTR": "Bitki yetiştirmek, özellikle tarım için.",
+        "descriptionAZ": "Bitki əkmək, xüsusilə kənd təsərrüfatı üçün.",
+        "descriptionUK": "Вирощувати рослини, особливо для сільського господарства."
     }, {
         "de": "fermentieren",
         "en": "to ferment",
         "ru": "бродить",
+        "tr": "fermente etmek",
+        "az": "fermentləşdirmək",
+        "uk": "бродіти",
         "descriptionEN": "To undergo chemical breakdown by yeast or bacteria.",
         "descriptionRU": "Претерпевать химический распад с помощью дрожжей или бактерий.",
-        "descriptionDE": "Durch Hefe oder Bakterien chemisch umgewandelt werden."
+        "descriptionDE": "Durch Hefe oder Bakterien chemisch umgewandelt werden.",
+        "descriptionTR": "Maya veya bakteriler tarafından kimyasal olarak parçalanmak.",
+        "descriptionAZ": "Maya və ya bakteriyalar tərəfindən kimyəvi olaraq parçalanmaq.",
+        "descriptionUK": "Зазнавати хімічного розпаду за допомогою дріжджів чи бактерій."
     }, {
         "de": "besteuern",
         "en": "to tax",
         "ru": "облагать налогом",
+        "tr": "vergilendirmek",
+        "az": "vergiləndirmək",
+        "uk": "оподатковувати",
         "descriptionEN": "To impose a financial charge on goods or income.",
         "descriptionRU": "Налагать финансовый сбор на товары или доход.",
-        "descriptionDE": "Eine finanzielle Abgabe auf Waren oder Einkommen erheben."
+        "descriptionDE": "Eine finanzielle Abgabe auf Waren oder Einkommen erheben.",
+        "descriptionTR": "Mallara veya gelire mali bir yükümlülük getirmek.",
+        "descriptionAZ": "Mallara və ya gəlirə maliyyə yükümlülüyü qoymaq.",
+        "descriptionUK": "Накладати фінансовий збір на товари чи дохід."
     }, {
         "de": "süß",
         "en": "sweet",
         "ru": "сладкий",
+        "tr": "tatlı",
+        "az": "şirin",
+        "uk": "солодкий",
         "descriptionEN": "Having a sugary taste.",
         "descriptionRU": "Имеющий сладкий вкус.",
-        "descriptionDE": "Mit einem zuckerhaltigen Geschmack."
+        "descriptionDE": "Mit einem zuckerhaltigen Geschmack.",
+        "descriptionTR": "Şekerli bir tada sahip olmak.",
+        "descriptionAZ": "Şəkərli dada malik olmaq.",
+        "descriptionUK": "Має солодкий смак."
     }, {
         "de": "trocken",
         "en": "dry",
         "ru": "сухой",
+        "tr": "kuru",
+        "az": "quru",
+        "uk": "сухий",
         "descriptionEN": "Lacking moisture or sweetness in wine.",
         "descriptionRU": "Без влаги или без сладости в вине.",
-        "descriptionDE": "Ohne Feuchtigkeit oder Süße im Wein."
+        "descriptionDE": "Ohne Feuchtigkeit oder Süße im Wein.",
+        "descriptionTR": "Nem veya şarapta tatlılık eksikliği.",
+        "descriptionAZ": "Nəmlik və ya şərabda şirinsizlik.",
+        "descriptionUK": "Без вологості чи солодкості у вині."
     }, {
         "de": "teuer",
         "en": "expensive",
         "ru": "дорогой",
+        "tr": "pahalı",
+        "az": "bahalı",
+        "uk": "дорогий",
         "descriptionEN": "Costing a lot of money.",
         "descriptionRU": "Стоящий много денег.",
-        "descriptionDE": "Kostet viel Geld."
+        "descriptionDE": "Kostet viel Geld.",
+        "descriptionTR": "Çok paraya mal olmak.",
+        "descriptionAZ": "Çox pula başa gəlmək.",
+        "descriptionUK": "Коштує багато грошей."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
         "descriptionEN": "Having a lot of wealth or resources.",
         "descriptionRU": "Обладающий большим количеством богатства или ресурсов.",
-        "descriptionDE": "Mit viel Wohlstand oder Ressourcen ausgestattet."
+        "descriptionDE": "Mit viel Wohlstand oder Ressourcen ausgestattet.",
+        "descriptionTR": "Çok fazla servet veya kaynağa sahip olmak.",
+        "descriptionAZ": "Çoxlu sərvət və ya resurslara malik olmaq.",
+        "descriptionUK": "Володіє великою кількістю багатства чи ресурсів."
     }, {
         "de": "gemeinsam",
         "en": "common",
         "ru": "общий",
+        "tr": "ortak",
+        "az": "ümumi",
+        "uk": "спільний",
         "descriptionEN": "Shared by multiple people or groups.",
         "descriptionRU": "Используемый несколькими людьми или группами.",
-        "descriptionDE": "Von mehreren Personen oder Gruppen geteilt."
+        "descriptionDE": "Von mehreren Personen oder Gruppen geteilt.",
+        "descriptionTR": "Birden fazla kişi veya grup tarafından paylaşılan.",
+        "descriptionAZ": "Bir neçə şəxs və ya qrup tərəfindən paylaşılan.",
+        "descriptionUK": "Використовується кількома людьми чи групами."
     }
 ]

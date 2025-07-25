@@ -3,106 +3,196 @@
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
         "descriptionEN": "the time between sunrise and sunset.",
         "descriptionRU": "период между восходом и закатом солнца.",
-        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
+        "descriptionTR": "Gün doğumu ile gün batımı arasındaki zaman.",
+        "descriptionAZ": "Günəşin doğuşu ilə batışı arasındaki vaxt.",
+        "descriptionUK": "Час між сходом і заходом сонця."
     }, {
         "de": "der Zoo",
         "en": "zoo",
         "ru": "зоопарк",
+        "tr": "hayvanat bahçesi",
+        "az": "heyvanat bağı",
+        "uk": "зоопарк",
         "descriptionEN": "a facility where animals are kept and exhibited to the public.",
         "descriptionRU": "учреждение, где содержатся и выставляются животные для публичного просмотра.",
-        "descriptionDE": "eine Einrichtung, in der Tiere gehalten und der Öffentlichkeit präsentiert werden."
+        "descriptionDE": "eine Einrichtung, in der Tiere gehalten und der Öffentlichkeit präsentiert werden.",
+        "descriptionTR": "Hayvanların tutulduğu ve halka sergilendiği tesis.",
+        "descriptionAZ": "Heyvanların saxlanıldığı və ictimaiyyətə nümayiş etdirildiyi müəssisə.",
+        "descriptionUK": "Заклад, де утримуються та демонструються тварини для громадськості."
     }, {
         "de": "die Giraffe",
         "en": "giraffe",
         "ru": "жираф",
+        "tr": "zürafa",
+        "az": "zürafə",
+        "uk": "жираф",
         "descriptionEN": "tall, long-necked mammals native to Africa, the tallest living terrestrial animals.",
         "descriptionRU": "высокие, длинношеие млекопитающие, обитающие в Африке, самые высокие сухопутные животные.",
-        "descriptionDE": "hohe, langhalsige Säugetiere, die in Afrika beheimatet sind, die größten lebenden landlebenden Tiere."
+        "descriptionDE": "hohe, langhalsige Säugetiere, die in Afrika beheimatet sind, die größten lebenden landlebenden Tiere.",
+        "descriptionTR": "Afrika'ya özgü uzun boyunlu, uzun boylu memeliler, yaşayan en uzun karasal hayvanlar.",
+        "descriptionAZ": "Afrikaya məxsus hündür, uzun boyunlu məməlilər, yaşayan ən hündür quru heyvanları.",
+        "descriptionUK": "Високі, довгошиї ссавці, що мешкають в Африці, найвищі живі наземні тварини."
     }, {
         "de": "der Hals",
         "en": "neck",
         "ru": "шея",
+        "tr": "boyun",
+        "az": "boyun",
+        "uk": "шия",
         "descriptionEN": "the part of the body connecting the head to the shoulders or trunk.",
         "descriptionRU": "часть тела, соединяющая голову с плечами или туловищем.",
-        "descriptionDE": "der Teil des Körpers, der den Kopf mit den Schultern oder dem Rumpf verbindet."
+        "descriptionDE": "der Teil des Körpers, der den Kopf mit den Schultern oder dem Rumpf verbindet.",
+        "descriptionTR": "Başı omuzlara veya gövdeye bağlayan vücut kısmı.",
+        "descriptionAZ": "Başı çiyinlərə və ya gövdəyə bağlayan bədən hissəsi.",
+        "descriptionUK": "Частина тіла, що з'єднує голову з плечима або тулубом."
     }, {
         "de": "schwarz",
         "en": "black",
         "ru": "черный",
+        "tr": "siyah",
+        "az": "qara",
+        "uk": "чорний",
         "descriptionEN": "the darkest color.",
         "descriptionRU": "самый темный цвет.",
-        "descriptionDE": "die dunkelste Farbe."
+        "descriptionDE": "die dunkelste Farbe.",
+        "descriptionTR": "En koyu renk.",
+        "descriptionAZ": "Ən tünd rəng.",
+        "descriptionUK": "Найтемніший колір."
     }, {
         "de": "weiß",
         "en": "white",
         "ru": "белый",
+        "tr": "beyaz",
+        "az": "ağ",
+        "uk": "білий",
         "descriptionEN": "the color of milk or fresh snow.",
         "descriptionRU": "цвет молока или свежего снега.",
-        "descriptionDE": "die Farbe von Milch oder frischem Schnee."
+        "descriptionDE": "die Farbe von Milch oder frischem Schnee.",
+        "descriptionTR": "Süt veya taze kar rengi.",
+        "descriptionAZ": "Süd və ya təzə qar rəngi.",
+        "descriptionUK": "Колір молока або свіжого снігу."
     }, {
         "de": "gestreift",
         "en": "striped",
         "ru": "полосатый",
+        "tr": "çizgili",
+        "az": "zolaqlı",
+        "uk": "смугастий",
         "descriptionEN": "having a pattern of stripes or bands.",
         "descriptionRU": "имеющий узор полос или полос.",
-        "descriptionDE": "mit einem Muster von Streifen oder Bändern."
+        "descriptionDE": "mit einem Muster von Streifen oder Bändern.",
+        "descriptionTR": "Çizgi veya şerit desenine sahip.",
+        "descriptionAZ": "Zolaq və ya şerit naxışına malik.",
+        "descriptionUK": "Має візерунок смуг або стрічок."
     }, {
         "de": "große",
         "en": "large",
         "ru": "большой",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
         "descriptionEN": "of considerable or relatively great size, extent, or capacity.",
         "descriptionRU": "значительного или относительно большого размера, объема или емкости.",
-        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität."
+        "descriptionDE": "von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität.",
+        "descriptionTR": "Önemli veya nispeten büyük boyut, kapsam veya kapasitede.",
+        "descriptionAZ": "Əhəmiyyətli və ya nisbətən böyük ölçü, genişlik və ya tutumda.",
+        "descriptionUK": "Значного або відносно великого розміру, обсягу або ємності."
     }, {
         "de": "das Ohr",
         "en": "ear",
         "ru": "ухо",
+        "tr": "kulak",
+        "az": "qulaq",
+        "uk": "вухо",
         "descriptionEN": "the organ of hearing.",
         "descriptionRU": "орган слуха и равновесия.",
-        "descriptionDE": "das Organ des Hörens."
+        "descriptionDE": "das Organ des Hörens.",
+        "descriptionTR": "İşitme organı.",
+        "descriptionAZ": "Eşitmə orqanı.",
+        "descriptionUK": "Орган слуху."
     }, {
         "de": "kühlen",
         "en": "cool",
         "ru": "охлаждать",
+        "tr": "soğutmak",
+        "az": "soyutmaq",
+        "uk": "охолоджувати",
         "descriptionEN": "reduce the temperature of something.",
         "descriptionRU": "снижать температуру чего-либо.",
-        "descriptionDE": "die Temperatur von etwas senken."
+        "descriptionDE": "die Temperatur von etwas senken.",
+        "descriptionTR": "Bir şeyin sıcaklığını düşürmek.",
+        "descriptionAZ": "Bir şeyin temperaturunu azaltmaq.",
+        "descriptionUK": "Знизити температуру чогось."
     }, {
         "de": "der Ventilator",
         "en": "fan",
         "ru": "вентилятор",
+        "tr": "vantilatör",
+        "az": "ventilyator",
+        "uk": "вентилятор",
         "descriptionEN": "a machine with blades that turn around to create a current of air.",
         "descriptionRU": "механизм с вращающимися лопастями, создающий поток воздуха.",
-        "descriptionDE": "eine Maschine mit Klingen, die sich drehen, um einen Luftstrom zu erzeugen."
+        "descriptionDE": "eine Maschine mit Klingen, die sich drehen, um einen Luftstrom zu erzeugen.",
+        "descriptionTR": "Hava akımı oluşturmak için dönen kanatlara sahip makine.",
+        "descriptionAZ": "Hava axını yaratmaq üçün fırlanan qanadları olan maşın.",
+        "descriptionUK": "Машина з лопатями, що обертаються для створення потоку повітря."
     }, {
         "de": "freude",
         "en": "joy",
         "ru": "радость",
+        "tr": "sevinç",
+        "az": "sevinc",
+        "uk": "радість",
         "descriptionEN": "a feeling of great pleasure and happiness.",
         "descriptionRU": "чувство большого удовольствия и счастья.",
-        "descriptionDE": "ein Gefühl von großem Vergnügen und Glück."
+        "descriptionDE": "ein Gefühl von großem Vergnügen und Glück.",
+        "descriptionTR": "Büyük zevk ve mutluluk duygusu.",
+        "descriptionAZ": "Böyük həzz və xoşbəxtlik hissi.",
+        "descriptionUK": "Почуття великого задоволення та щастя."
     }, {
         "de": "wunderbare",
         "en": "wonderful",
         "ru": "замечательный",
+        "tr": "harika",
+        "az": "gözəl",
+        "uk": "чудовий",
         "descriptionEN": "inspiring delight, pleasure, or admiration; extremely good.",
         "descriptionRU": "вдохновляющий восторг, удовольствие или восхищение; чрезвычайно хороший.",
-        "descriptionDE": "erweckt Freude, Vergnügen oder Bewunderung; außerordentlich gut."
+        "descriptionDE": "erweckt Freude, Vergnügen oder Bewunderung; außerordentlich gut.",
+        "descriptionTR": "Zevk, keyif veya hayranlık uyandıran; son derece iyi.",
+        "descriptionAZ": "Həzz, zövq və ya heyran qalma hissi oyadan; son dərəcə yaxşı.",
+        "descriptionUK": "Надихає захоплення, задоволення або захоплення; надзвичайно добрий."
     }, {
         "de": "die Erkenntnis",
         "en": "discovery",
         "ru": "открытие",
+        "tr": "keşif",
+        "az": "kəşf",
+        "uk": "відкриття",
         "descriptionEN": "the action or process of making a new or important realization.",
         "descriptionRU": "действие или процесс совершения нового или важного открытия.",
-        "descriptionDE": "die Handlung oder der Prozess, eine neue oder wichtige Erkenntnis zu gewinnen."
+        "descriptionDE": "die Handlung oder der Prozess, eine neue oder wichtige Erkenntnis zu gewinnen.",
+        "descriptionTR": "Yeni veya önemli bir fark etme eylemi veya süreci.",
+        "descriptionAZ": "Yeni və ya mühüm bir anlayış əldə etmə hərəkəti və ya prosesi.",
+        "descriptionUK": "Дія або процес здійснення нового або важливого усвідомлення."
     }, {
         "de": "gemeinsamen",
         "en": "shared",
         "ru": "общий",
+        "tr": "paylaşılan",
+        "az": "paylaşılan",
+        "uk": "спільний",
         "descriptionEN": "held or experienced in common with others.",
         "descriptionRU": "проходит или переживается вместе с другими.",
-        "descriptionDE": "gemeinsam mit anderen gehalten oder erlebt."
+        "descriptionDE": "gemeinsam mit anderen gehalten oder erlebt.",
+        "descriptionTR": "Başkalarıyla ortak olarak tutulan veya yaşanan.",
+        "descriptionAZ": "Başqaları ilə birgə saxlanılan və ya yaşanılan.",
+        "descriptionUK": "Утримується або переживається спільно з іншими."
     }
 ]

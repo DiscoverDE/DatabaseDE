@@ -1,102 +1,185 @@
 [
-
     {
         "de": "der Stadtteil",
         "en": "Neighborhood",
         "ru": "Район",
+        "tr": "Mahalle",
+        "az": "Məhəllə",
+        "uk": "Район",
         "descriptionEN": "District or area of a city",
         "descriptionRU": "Район или область города",
-        "descriptionDE": "Stadtbezirk oder Stadtteil"
+        "descriptionDE": "Stadtbezirk oder Stadtteil",
+        "descriptionTR": "Bir şehrin semti veya bölgesi",
+        "descriptionAZ": "Şəhərin rayonu və ya sahəsi",
+        "descriptionUK": "Район або частина міста"
     }, {
         "de": "die Wohnung",
         "en": "Apartment",
         "ru": "Квартира",
+        "tr": "Daire",
+        "az": "Mənzil",
+        "uk": "Квартира",
         "descriptionEN": "Residential unit in a building",
         "descriptionRU": "Жилое помещение в здании",
-        "descriptionDE": "Wohnungseinheit in einem Gebäude"
+        "descriptionDE": "Wohnungseinheit in einem Gebäude",
+        "descriptionTR": "Bir binada konut birimi",
+        "descriptionAZ": "Binada yaşayış vahidi",
+        "descriptionUK": "Житловий блок у будинку"
     }, {
         "de": "die Natur",
         "en": "Nature",
         "ru": "Природа",
+        "tr": "Doğa",
+        "az": "Təbiət",
+        "uk": "Природа",
         "descriptionEN": "Physical world including plants, animals, and landscapes",
         "descriptionRU": "Физический мир, включающий растения, животных и ландшафты",
-        "descriptionDE": "Physische Welt einschließlich Pflanzen, Tiere und Landschaften"
+        "descriptionDE": "Physische Welt einschließlich Pflanzen, Tiere und Landschaften",
+        "descriptionTR": "Bitkileri, hayvanları ve manzaraları içeren fiziksel dünya",
+        "descriptionAZ": "Bitkiləri, heyvanları və mənzərələri əhatə edən fiziki dünya",
+        "descriptionUK": "Фізичний світ, включаючи рослини, тварин та ландшафти"
     }, {
         "de": "der Preis",
         "en": "Price",
         "ru": "Цена",
+        "tr": "Fiyat",
+        "az": "Qiymət",
+        "uk": "Ціна",
         "descriptionEN": "Amount of money required or given in payment for something",
         "descriptionRU": "Сумма денег, необходимая или предоставляемая в качестве оплаты за что-либо",
-        "descriptionDE": "Geldbetrag, der für etwas erforderlich oder gegeben wird"
+        "descriptionDE": "Geldbetrag, der für etwas erforderlich oder gegeben wird",
+        "descriptionTR": "Bir şey için ödeme olarak gerekli veya verilen para miktarı",
+        "descriptionAZ": "Bir şey üçün ödəniş kimi tələb olunan və ya verilən pul məbləği",
+        "descriptionUK": "Сума грошей, необхідна або надана в якості оплати за щось"
     }, {
         "de": "der Spaziergang",
         "en": "Walk",
         "ru": "Прогулка",
+        "tr": "Yürüyüş",
+        "az": "Gəzinti",
+        "uk": "Прогулянка",
         "descriptionEN": "Journey on foot for pleasure or exercise",
         "descriptionRU": "Путешествие пешком для удовольствия или занятия спортом",
-        "descriptionDE": "Fußreise zum Vergnügen oder zur Bewegung"
+        "descriptionDE": "Fußreise zum Vergnügen oder zur Bewegung",
+        "descriptionTR": "Zevk veya egzersiz için yapılan yürüyüş",
+        "descriptionAZ": "Zövq və ya idman üçün piyada səyahət",
+        "descriptionUK": "Подорож пішки для задоволення чи фізичних вправ"
     }, {
         "de": "die Idylle",
         "en": "Idyll",
         "ru": "Идиллия",
+        "tr": "İdil",
+        "az": "İdill",
+        "uk": "Ідилія",
         "descriptionEN": "Peaceful and picturesque scene",
         "descriptionRU": "Спокойная и живописная сцена",
-        "descriptionDE": "Friedliche und malerische Szene"
+        "descriptionDE": "Friedliche und malerische Szene",
+        "descriptionTR": "Huzurlu ve resim gibi manzara",
+        "descriptionAZ": "Sakit və rəsm kimi mənzərə",
+        "descriptionUK": "Спокійна та мальовнича сцена"
     }, {
         "de": "der Luxus",
         "en": "Luxury",
         "ru": "Роскошь",
+        "tr": "Lüks",
+        "az": "İsraf",
+        "uk": "Розкіш",
         "descriptionEN": "Great comfort or elegance",
         "descriptionRU": "Большой комфорт или элегантность",
-        "descriptionDE": "Großer Komfort oder Eleganz"
+        "descriptionDE": "Großer Komfort oder Eleganz",
+        "descriptionTR": "Büyük konfor veya zarafet",
+        "descriptionAZ": "Böyük rahatlıq və ya zəriflik",
+        "descriptionUK": "Великий комфорт або елегантність"
     }, {
         "de": "die Bezahlung",
         "en": "Payment",
         "ru": "Оплата",
+        "tr": "Ödeme",
+        "az": "Ödəniş",
+        "uk": "Оплата",
         "descriptionEN": "Act or process of paying for something",
         "descriptionRU": "Действие или процесс оплаты чего-либо",
-        "descriptionDE": "Handlung oder Prozess des Bezahlens für etwas"
+        "descriptionDE": "Handlung oder Prozess des Bezahlens für etwas",
+        "descriptionTR": "Bir şey için ödeme yapma eylemi veya süreci",
+        "descriptionAZ": "Bir şey üçün ödəniş etmək hərəkəti və ya prosesi",
+        "descriptionUK": "Дія чи процес оплати чогось"
     }, {
         "de": "wohnen",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "Reside in a particular place",
         "descriptionRU": "Проживать в определенном месте",
-        "descriptionDE": "In einem bestimmten Ort wohnen"
+        "descriptionDE": "In einem bestimmten Ort wohnen",
+        "descriptionTR": "Belirli bir yerde ikamet etmek",
+        "descriptionAZ": "Müəyyən bir yerdə yaşamaq",
+        "descriptionUK": "Проживати у певному місці"
     }, {
         "de": "bewahren",
         "en": "to preserve",
         "ru": "сохранять",
+        "tr": "korumak",
+        "az": "qorumaq",
+        "uk": "зберігати",
         "descriptionEN": "Maintain in its original or existing state",
         "descriptionRU": "Сохранять в его первоначальном или существующем состоянии",
-        "descriptionDE": "In seinem ursprünglichen oder bestehenden Zustand erhalten"
+        "descriptionDE": "In seinem ursprünglichen oder bestehenden Zustand erhalten",
+        "descriptionTR": "Orijinal veya mevcut durumunu korumak",
+        "descriptionAZ": "Orijinal və ya mövcud vəziyyətini qorumaq",
+        "descriptionUK": "Зберігати у первісному чи існуючому стані"
     }, {
         "de": "erhalten",
         "en": "to receive",
         "ru": "получать",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
         "descriptionEN": "Get or be given something",
         "descriptionRU": "Получить или быть даным чего-либо",
-        "descriptionDE": "Etwas bekommen oder gegeben bekommen"
+        "descriptionDE": "Etwas bekommen oder gegeben bekommen",
+        "descriptionTR": "Bir şey almak veya verilmek",
+        "descriptionAZ": "Bir şey almaq və ya verilmək",
+        "descriptionUK": "Отримати або бути даним чогось"
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посетить",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідати",
         "descriptionEN": "Go to see someone or a place",
         "descriptionRU": "Идти, чтобы увидеть кого-то или место",
-        "descriptionDE": "Gehen, um jemanden oder einen Ort zu sehen"
+        "descriptionDE": "Gehen, um jemanden oder einen Ort zu sehen",
+        "descriptionTR": "Birini veya bir yeri görmeye gitmek",
+        "descriptionAZ": "Birini və ya bir yeri görmək üçün getmək",
+        "descriptionUK": "Піти, щоб побачити когось чи місце"
     }, {
         "de": "vermitteln",
         "en": "to convey",
         "ru": "передавать",
+        "tr": "iletmek",
+        "az": "ötürmək",
+        "uk": "передавати",
         "descriptionEN": "Communicate or pass on information or knowledge",
         "descriptionRU": "Общаться или передавать информацию или знания",
-        "descriptionDE": "Kommunizieren oder Informationen oder Wissen weitergeben"
+        "descriptionDE": "Kommunizieren oder Informationen oder Wissen weitergeben",
+        "descriptionTR": "Bilgi veya bilgiyi iletmek veya aktarmak",
+        "descriptionAZ": "Məlumat və ya bilikləri çatdırmaq və ya ötürmək",
+        "descriptionUK": "Спілкуватися або передавати інформацію чи знання"
     }, {
         "de": "erhöhen",
         "en": "to increase",
         "ru": "увеличивать",
+        "tr": "artırmak",
+        "az": "artırmaq",
+        "uk": "збільшувати",
         "descriptionEN": "Make or become greater in amount, size, or degree",
         "descriptionRU": "Сделать или стать больше в объеме, размере или степени",
-        "descriptionDE": "Mehr in Menge, Größe oder Grad machen oder werden"
+        "descriptionDE": "Mehr in Menge, Größe oder Grad machen oder werden",
+        "descriptionTR": "Miktar, boyut veya derece olarak artmak veya artırmak",
+        "descriptionAZ": "Miqdar, ölçü və ya dərəcə baxımından artmaq və ya artırmaq",
+        "descriptionUK": "Зробити або стати більшим у обсязі, розмірі чи ступені"
     }
 ]

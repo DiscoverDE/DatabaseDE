@@ -3,134 +3,248 @@
         "de": "die Attraktion",
         "en": "attraction",
         "ru": "достопримечательность",
+        "tr": "çekicilik",
+        "az": "cazibə",
+        "uk": "атракціон",
         "descriptionEN": "A feature or quality that draws visitors to a place.",
         "descriptionRU": "Особенность или качество, привлекающее посетителей в место.",
-        "descriptionDE": "Eine Eigenschaft oder Qualität, die Besucher anzieht."
+        "descriptionDE": "Eine Eigenschaft oder Qualität, die Besucher anzieht.",
+        "descriptionTR": "Bir yeri ziyaretçiler için çekici kılan özellik veya nitelik.",
+        "descriptionAZ": "Bir yerə ziyarətçiləri cəlb edən xüsusiyyət və ya keyfiyyət.",
+        "descriptionUK": "Особливість чи якість, що приваблює відвідувачів до місця."
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "An alcoholic drink made from fermented grape juice.",
         "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного виноградного сока.",
-        "descriptionDE": "Ein alkoholisches Getränk aus fermentiertem Traubensaft."
+        "descriptionDE": "Ein alkoholisches Getränk aus fermentiertem Traubensaft.",
+        "descriptionTR": "Fermente üzüm suyundan yapılan alkollü bir içecek.",
+        "descriptionAZ": "Qarışmış üzüm şirəsindən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого виноградного соку."
     }, {
         "de": "die Region",
         "en": "region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "region",
+        "uk": "регіон",
         "descriptionEN": "A geographic area defined by specific characteristics.",
         "descriptionRU": "Географическая область, определяемая специфическими характеристиками.",
-        "descriptionDE": "Eine geografische Region mit spezifischen Merkmalen."
+        "descriptionDE": "Eine geografische Region mit spezifischen Merkmalen.",
+        "descriptionTR": "Belirli özelliklerle tanımlanan coğrafi bir alan.",
+        "descriptionAZ": "Xüsusi xüsusiyyətlərlə müəyyən edilən coğrafi ərazi.",
+        "descriptionUK": "Географічна область, визначена специфічними характеристиками."
     }, {
         "de": "die Gastfreundschaft",
         "en": "hospitality",
         "ru": "гостеприимство",
+        "tr": "misafirperverlik",
+        "az": "qonaqpərvərlik",
+        "uk": "гостинність",
         "descriptionEN": "Friendly and generous reception of guests or visitors.",
         "descriptionRU": "Дружелюбный и щедрый прием гостей или посетителей.",
-        "descriptionDE": "Freundlicher und großzügiger Empfang von Gästen oder Besuchern."
+        "descriptionDE": "Freundlicher und großzügiger Empfang von Gästen oder Besuchern.",
+        "descriptionTR": "Misafir veya ziyaretçilere dostça ve cömertçe gösterilen yakınlık.",
+        "descriptionAZ": "Qonaqlara və ya ziyarətçilərə dostluq və səxavətlə qarşılama.",
+        "descriptionUK": "Дружній і щедрий прийом гостей або відвідувачів."
     }, {
         "de": "die Sehenswürdigkeit",
         "en": "sight",
         "ru": "достопримечательность",
+        "tr": "görülecek yer",
+        "az": "görüləsi yer",
+        "uk": "пам'ятка",
         "descriptionEN": "A notable place or landmark worth visiting.",
         "descriptionRU": "Значимое место или достопримечательность, которую стоит посетить.",
-        "descriptionDE": "Ein bemerkenswerter Ort oder eine Sehenswürdigkeit, die einen Besuch wert ist."
+        "descriptionDE": "Ein bemerkenswerter Ort oder eine Sehenswürdigkeit, die einen Besuch wert ist.",
+        "descriptionTR": "Ziyaret etmeye değer dikkat çekici bir yer veya simge.",
+        "descriptionAZ": "Ziyarət etməyə dəyər diqqətçəkən bir yer və ya simvol.",
+        "descriptionUK": "Значне місце чи пам'ятка, яку варто відвідати."
     }, {
         "de": "die Burgruine",
         "en": "castle ruin",
         "ru": "руины замка",
+        "tr": "kale harabesi",
+        "az": "qala xarabalığı",
+        "uk": "руїни замку",
         "descriptionEN": "The remains of a castle that has fallen into decay.",
         "descriptionRU": "Остатки замка, пришедшего в упадок.",
-        "descriptionDE": "Die Überreste einer Burg, die verfallen ist."
+        "descriptionDE": "Die Überreste einer Burg, die verfallen ist.",
+        "descriptionTR": "Harabeye dönmüş bir kalenin kalıntıları.",
+        "descriptionAZ": "Xarabalığa dönmüş qalanın qalıqları.",
+        "descriptionUK": "Залишки замку, що занепав."
     }, {
         "de": "der Damm",
         "en": "dam",
         "ru": "дамба",
+        "tr": "baraj",
+        "az": "bənd",
+        "uk": "дамба",
         "descriptionEN": "A structure built to control or hold back water.",
         "descriptionRU": "Сооружение, построенное для управления или удержания воды.",
-        "descriptionDE": "Eine Struktur, die Wasser zurückhält oder kontrolliert."
+        "descriptionDE": "Eine Struktur, die Wasser zurückhält oder kontrolliert.",
+        "descriptionTR": "Suyu kontrol etmek veya tutmak için inşa edilen bir yapı.",
+        "descriptionAZ": "Suyu nəzarət etmək və ya saxlamaq üçün tikilmiş bir quruluş.",
+        "descriptionUK": "Споруда, побудована для керування чи утримання води."
     }, {
         "de": "die Legende",
         "en": "legend",
         "ru": "легенда",
+        "tr": "efsane",
+        "az": "əfsanə",
+        "uk": "легенда",
         "descriptionEN": "A traditional story often regarded as historical but unauthenticated.",
         "descriptionRU": "Традиционная история, часто считающаяся исторической, но недостоверной.",
-        "descriptionDE": "Eine traditionelle Geschichte, die oft als historisch gilt, aber nicht authentifiziert ist."
+        "descriptionDE": "Eine traditionelle Geschichte, die oft als historisch gilt, aber nicht authentifiziert ist.",
+        "descriptionTR": "Genellikle tarihi olarak kabul edilen ancak doğrulanmamış geleneksel bir hikaye.",
+        "descriptionAZ": "Adətən tarixi hesab edilən, lakin təsdiq edilməmiş ənənəvi hekayə.",
+        "descriptionUK": "Традиційна історія, яку часто вважають історичною, але неавтентичною."
     }, {
         "de": "die Katze",
         "en": "cat",
         "ru": "кошка",
+        "tr": "kedi",
+        "az": "pişik",
+        "uk": "кіт",
         "descriptionEN": "A small domesticated carnivorous mammal.",
         "descriptionRU": "Маленькое домашнее хищное млекопитающее.",
-        "descriptionDE": "Ein kleines domestiziertes fleischfressendes Säugetier."
+        "descriptionDE": "Ein kleines domestiziertes fleischfressendes Säugetier.",
+        "descriptionTR": "Evcilleştirilmiş küçük bir etçil memeli.",
+        "descriptionAZ": "Evcilləşdirilmiş kiçik bir yırtıcı məməli.",
+        "descriptionUK": "Маленький одомашнений хижий ссавець."
     }, {
         "de": "der Brunnen",
         "en": "fountain",
         "ru": "фонтан",
+        "tr": "çeşme",
+        "az": "fəvvarə",
+        "uk": "фонтан",
         "descriptionEN": "A structure that sends water into the air for decoration or drinking.",
         "descriptionRU": "Сооружение, выбрасывающее воду в воздух для украшения или питья.",
-        "descriptionDE": "Eine Struktur, die Wasser zur Dekoration oder zum Trinken in die Luft sprüht."
+        "descriptionDE": "Eine Struktur, die Wasser zur Dekoration oder zum Trinken in die Luft sprüht.",
+        "descriptionTR": "Dekorasyon veya içme amaçlı suyu havaya püskürten bir yapı.",
+        "descriptionAZ": "Bəzək və ya içmək üçün suyu havaya püskürdən bir quruluş.",
+        "descriptionUK": "Споруда, що викидає воду в повітря для прикраси чи пиття."
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "To go to see and spend time in a place.",
         "descriptionRU": "Идти, чтобы увидеть и провести время в каком-то месте.",
-        "descriptionDE": "Einen Ort aufsuchen und dort Zeit verbringen."
+        "descriptionDE": "Einen Ort aufsuchen und dort Zeit verbringen.",
+        "descriptionTR": "Bir yeri görmeye gitmek ve orada zaman geçirmek.",
+        "descriptionAZ": "Bir yeri görməyə getmək və orada vaxt keçirmək.",
+        "descriptionUK": "Йти, щоб побачити і провести час у якомусь місці."
     }, {
         "de": "erleben",
         "en": "to experience",
         "ru": "испытывать",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "переживати",
         "descriptionEN": "To encounter or live through an event.",
         "descriptionRU": "Пережить или испытать событие.",
-        "descriptionDE": "Ein Ereignis erleben oder durchleben."
+        "descriptionDE": "Ein Ereignis erleben oder durchleben.",
+        "descriptionTR": "Bir olayla karşılaşmak veya yaşamak.",
+        "descriptionAZ": "Bir hadisə ilə qarşılaşmaq və ya yaşamaq.",
+        "descriptionUK": "Пережити чи випробувати подію."
     }, {
         "de": "tauchen",
         "en": "to dive",
         "ru": "нырять",
+        "tr": "dalmak",
+        "az": "dalmak",
+        "uk": "пірнати",
         "descriptionEN": "To plunge into water or immerse oneself in something.",
         "descriptionRU": "Погружаться в воду или во что-то.",
-        "descriptionDE": "In Wasser eintauchen oder sich in etwas vertiefen."
+        "descriptionDE": "In Wasser eintauchen oder sich in etwas vertiefen.",
+        "descriptionTR": "Suya dalmak veya bir şeye gömülmek.",
+        "descriptionAZ": "Suya dalmak və ya bir şeyə batmaq.",
+        "descriptionUK": "Занурюватися у воду чи щось."
     }, {
         "de": "erzählen",
         "en": "to tell",
         "ru": "рассказывать",
+        "tr": "anlatmak",
+        "az": "danışmaq",
+        "uk": "розповідати",
         "descriptionEN": "To communicate information or a story.",
         "descriptionRU": "Передавать информацию или рассказывать историю.",
-        "descriptionDE": "Informationen oder eine Geschichte mitteilen."
+        "descriptionDE": "Informationen oder eine Geschichte mitteilen.",
+        "descriptionTR": "Bilgi veya bir hikaye iletmek.",
+        "descriptionAZ": "Məlumat və ya hekayə çatdırmaq.",
+        "descriptionUK": "Передавати інформацію чи розповідати історію."
     }, {
         "de": "liegen",
         "en": "to lie",
         "ru": "лежать",
+        "tr": "yatmak",
+        "az": "uzanmaq",
+        "uk": "лежати",
         "descriptionEN": "To be in a horizontal position or situated somewhere.",
         "descriptionRU": "Находиться в горизонтальном положении или быть расположенным где-то.",
-        "descriptionDE": "In horizontaler Position sein oder irgendwo liegen."
+        "descriptionDE": "In horizontaler Position sein oder irgendwo liegen.",
+        "descriptionTR": "Yatay pozisyonda olmak veya bir yerde bulunmak.",
+        "descriptionAZ": "Üfüqi vəziyyətdə olmaq və ya bir yerdə yerləşmək.",
+        "descriptionUK": "Перебувати у горизонтальному положенні чи бути розташованим десь."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Related to or based on history.",
         "descriptionRU": "Связанный с историей или основанный на ней.",
-        "descriptionDE": "Bezogen auf oder basierend auf Geschichte."
+        "descriptionDE": "Bezogen auf oder basierend auf Geschichte.",
+        "descriptionTR": "Tarihle ilgili veya tarihe dayalı.",
+        "descriptionAZ": "Tarixə aid və ya tarixə əsaslanan.",
+        "descriptionUK": "Пов'язаний з історією або заснований на ній."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "zəngin",
+        "uk": "багатий",
         "descriptionEN": "Having abundant resources or wealth.",
         "descriptionRU": "Обладающий обилием ресурсов или богатством.",
-        "descriptionDE": "Mit reichlich Ressourcen oder Wohlstand ausgestattet."
+        "descriptionDE": "Mit reichlich Ressourcen oder Wohlstand ausgestattet.",
+        "descriptionTR": "Bol kaynaklara veya zenginliğe sahip olmak.",
+        "descriptionAZ": "Bol resurslara və ya sərvətə malik olmaq.",
+        "descriptionUK": "Володіння великою кількістю ресурсів чи багатством."
     }, {
         "de": "exquisit",
         "en": "exquisite",
         "ru": "изысканный",
+        "tr": "zarif",
+        "az": "nəfis",
+        "uk": "вишуканий",
         "descriptionEN": "Extremely beautiful or elegant.",
         "descriptionRU": "Чрезвычайно красивый или элегантный.",
-        "descriptionDE": "Außergewöhnlich schön oder elegant."
+        "descriptionDE": "Außergewöhnlich schön oder elegant.",
+        "descriptionTR": "Son derece güzel veya zarif.",
+        "descriptionAZ": "Son dərəcə gözəl və ya zərif.",
+        "descriptionUK": "Надзвичайно красивий чи елегантний."
     }, {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "məşhur",
+        "uk": "популярний",
         "descriptionEN": "Liked or admired by many people.",
         "descriptionRU": "Любимый или популярный среди многих людей.",
-        "descriptionDE": "Von vielen Menschen gemocht oder bewundert."
+        "descriptionDE": "Von vielen Menschen gemocht oder bewundert.",
+        "descriptionTR": "Birçok insan tarafından sevilen veya beğenilen.",
+        "descriptionAZ": "Bir çox insan tərəfindən bəyənilən və ya heyran qalınan.",
+        "descriptionUK": "Улюблений чи популярний серед багатьох людей."
     }
 ]

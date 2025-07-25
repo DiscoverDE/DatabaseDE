@@ -3,148 +3,274 @@
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionDE": "eine Gruppe, bestehend aus zwei Eltern und ihren Kindern, die zusammen als Einheit leben.",
         "descriptionEN": "a group consisting of two parents and their children living together as a unit.",
-        "descriptionRU": "группа, состоящая из двух родителей и их детей, живущих вместе как единое целое."
+        "descriptionRU": "группа, состоящая из двух родителей и их детей, живущих вместе как единое целое.",
+        "descriptionUK": "група, що складається з двох батьків та їхніх дітей, які живуть разом як єдине ціле.",
+        "descriptionTR": "iki ebeveyn ve çocuklarından oluşan, bir birim olarak birlikte yaşayan bir grup.",
+        "descriptionAZ": "iki valideyn və onların uşaqlarından ibarət, bir vahid kimi birlikdə yaşayan bir qrup."
     }, {
         "de": "das Reisebüro",
         "en": "travel agency",
         "ru": "турагентство",
+        "tr": "seyahat acentesi",
+        "az": "səyahət agentliyi",
+        "uk": "туристичне агентство",
         "descriptionDE": "ein Unternehmen, das Reiseprodukte und -dienstleistungen an Kunden verkauft.",
         "descriptionEN": "a business that sells travel-related products and services to customers.",
-        "descriptionRU": "организация, продающая туристические продукты и услуги клиентам."
+        "descriptionRU": "организация, продающая туристические продукты и услуги клиентам.",
+        "descriptionUK": "організація, яка продає туристичні продукти та послуги клієнтам.",
+        "descriptionTR": "müşterilere seyahatle ilgili ürün ve hizmetler satan bir işletme.",
+        "descriptionAZ": "müştərilərə səyahətlə bağlı məhsul və xidmətlər satan bir iş yeri."
     }, {
         "de": "der Flug",
         "en": "flight",
         "ru": "рейс",
+        "tr": "uçuş",
+        "az": "uçuş",
+        "uk": "рейс",
         "descriptionDE": "eine Reise durch die Luft, besonders in einem Flugzeug.",
         "descriptionEN": "a journey made through the air, especially in an airplane.",
-        "descriptionRU": "путешествие в воздухе, особенно на самолете."
+        "descriptionRU": "путешествие в воздухе, особенно на самолете.",
+        "descriptionUK": "подорож у повітрі, особливо на літаку.",
+        "descriptionTR": "havada yapılan bir yolculuk, özellikle bir uçakta.",
+        "descriptionAZ": "havada edilən bir səyahət, xüsusilə bir təyyarədə."
     }, {
         "de": "die Insel",
         "en": "island",
         "ru": "остров",
+        "tr": "ada",
+        "az": "ada",
+        "uk": "острів",
         "descriptionDE": "ein Stück Land, das von Wasser umgeben ist.",
         "descriptionEN": "a piece of land surrounded by water.",
-        "descriptionRU": "земельный участок, окруженный водой."
+        "descriptionRU": "земельный участок, окруженный водой.",
+        "descriptionUK": "ділянка землі, оточена водою.",
+        "descriptionTR": "suyla çevrili bir kara parçası.",
+        "descriptionAZ": "su ilə əhatə olunmuş bir quru parçası."
     }, {
         "de": "das Hotel",
         "en": "hotel",
         "ru": "отель",
+        "tr": "otel",
+        "az": "otel",
+        "uk": "готель",
         "descriptionDE": "eine Einrichtung, die Unterkunft, Mahlzeiten und andere Dienstleistungen für Reisende und Touristen bietet.",
         "descriptionEN": "an establishment providing lodging, meals, and other services for travelers and tourists.",
-        "descriptionRU": "учреждение, предоставляющее проживание, питание и другие услуги для путешественников и туристов."
+        "descriptionRU": "учреждение, предоставляющее проживание, питание и другие услуги для путешественников и туристов.",
+        "descriptionUK": "установа, яка надає проживання, харчування та інші послуги для мандрівників і туристів.",
+        "descriptionTR": "seyahat edenler ve turistler için konaklama, yemek ve diğer hizmetler sunan bir kuruluş.",
+        "descriptionAZ": "səyahət edənlər və turistlər üçün qalacaq, yemək və digər xidmətlər təqdim edən bir müəssisə."
     }, {
         "de": "der Strand",
         "en": "beach",
         "ru": "пляж",
+        "tr": "plaj",
+        "az": "çimərlik",
+        "uk": "пляж",
         "descriptionDE": "ein sandiger oder kiesiger Uferbereich, besonders am Meer.",
         "descriptionEN": "a sandy or pebbly shore, especially by the sea.",
-        "descriptionRU": "песчаный или галечный берег, особенно у моря."
+        "descriptionRU": "песчаный или галечный берег, особенно у моря.",
+        "descriptionUK": "піщаний або гальковий берег, особливо біля моря.",
+        "descriptionTR": "kumlu veya çakıllı bir kıyı, özellikle deniz kenarında.",
+        "descriptionAZ": "qumlu və ya çınqıllı bir sahil, xüsusilə dəniz kənarında."
     }, {
         "de": "das Meer",
         "en": "sea",
         "ru": "море",
+        "tr": "deniz",
+        "az": "dəniz",
+        "uk": "море",
         "descriptionDE": "die Ausdehnung von Salzwasser, die die meisten Oberflächen der Erde bedeckt.",
         "descriptionEN": "the expanse of salt water that covers most of the earth's surface.",
-        "descriptionRU": "простор соленой воды, покрывающий большую часть поверхности Земли."
+        "descriptionRU": "простор соленой воды, покрывающий большую часть поверхности Земли.",
+        "descriptionUK": "простір солоної води, що покриває більшу частину поверхні Землі.",
+        "descriptionTR": "dünya yüzeyinin çoğunu kaplayan tuzlu su genişliği.",
+        "descriptionAZ": "yer səthinin çoxunu əhatə edən duzlu su genişliyi."
     }, {
         "de": "das Taxi",
         "en": "taxi",
         "ru": "такси",
+        "tr": "taksi",
+        "az": "taksi",
+        "uk": "таксі",
         "descriptionDE": "ein Auto mit einem Fahrer, das eine Person anheuert, um sie zu einem Ziel ihrer Wahl zu bringen.",
         "descriptionEN": "a car with a driver that a person hires to take them to a destination of their choice.",
-        "descriptionRU": "автомобиль с водителем, который арендуется человеком для доставки его в пункт назначения."
+        "descriptionRU": "автомобиль с водителем, который арендуется человеком для доставки его в пункт назначения.",
+        "descriptionUK": "автомобіль з водієм, який орендується людиною для доставки її до пункту призначення.",
+        "descriptionTR": "bir kişinin seçtiği bir hedefe ulaşmak için kiraladığı bir sürücülü araba.",
+        "descriptionAZ": "bir şəxsin seçdiyi bir məqsədə çatmaq üçün icarəyə götürdüyü bir sürücülü avtomobil."
     }, {
         "de": "der Flughafen",
         "en": "airport",
         "ru": "аэропорт",
+        "tr": "havaalanı",
+        "az": "hava limanı",
+        "uk": "аеропорт",
         "descriptionDE": "ein Ort, an dem Flugzeuge regelmäßig starten und landen, mit Einrichtungen für Passagiere.",
         "descriptionEN": "a place where aircraft regularly take off and land, with facilities for passengers.",
-        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с оборудованием для пассажиров."
+        "descriptionRU": "место, где регулярно взлетают и садятся воздушные суда, с оборудованием для пассажиров.",
+        "descriptionUK": "місце, де регулярно злітають і сідають повітряні судна, з обладнанням для пасажирів.",
+        "descriptionTR": "uçakların düzenli olarak kalkıp indiği, yolcular için tesislerin bulunduğu bir yer.",
+        "descriptionAZ": "təyyarələrin müntəzəm olaraq qalxıb endiyi, sərnişinlər üçün təsisatların olduğu bir yer."
     }, {
         "de": "das Gepäck",
         "en": "luggage",
         "ru": "багаж",
+        "tr": "bagaj",
+        "az": "baqaj",
+        "uk": "багаж",
         "descriptionDE": "Taschen und andere Behälter mit ihrem Inhalt; Habseligkeiten eines Reisenden.",
         "descriptionEN": "bags and other containers with their contents; belongings of a traveler.",
-        "descriptionRU": "сумки и другие контейнеры с их содержимым; вещи путешественника."
+        "descriptionRU": "сумки и другие контейнеры с их содержимым; вещи путешественника.",
+        "descriptionUK": "сумки та інші контейнери з їхнім вмістом; речі мандрівника.",
+        "descriptionTR": "içerikleriyle birlikte çantalar ve diğer kaplar; bir gezginin eşyaları.",
+        "descriptionAZ": "məzmunları ilə birlikdə çantalar və digər qablar; bir səyyahın əşyaları."
     }, {
         "de": "die Handgepäck",
         "en": "carry-on luggage",
         "ru": "ручная кладь",
+        "tr": "el bagajı",
+        "az": "əl yükü",
+        "uk": "ручна поклажа",
         "descriptionDE": "kleines Gepäck, das ein Passagier mit ins Flugzeug nehmen kann.",
         "descriptionEN": "small baggage that a passenger can carry onto the plane.",
-        "descriptionRU": "небольшой багаж, который пассажир может взять с собой в самолет."
+        "descriptionRU": "небольшой багаж, который пассажир может взять с собой в самолет.",
+        "descriptionUK": "невеликий багаж, який пасажир може взяти з собою в літак.",
+        "descriptionTR": "bir yolcunun uçağa taşıyabileceği küçük bagaj.",
+        "descriptionAZ": "bir sərnişinin təyyarəyə daşıya biləcəyi kiçik baqaj."
     }, {
         "de": "der Flugschalter",
         "en": "check-in counter",
         "ru": "стойка регистрации",
+        "tr": "check-in gişesi",
+        "az": "check-in qutusu",
+        "uk": "стойка реєстрації",
         "descriptionDE": "eine Theke oder ein Schalter am Flughafen, an dem Passagiere sich für ihre Flüge anmelden.",
         "descriptionEN": "a counter or desk at an airport where passengers check in for their flights.",
-        "descriptionRU": "стойка или стол на аэропорту, где пассажиры регистрируются на свои рейсы."
+        "descriptionRU": "стойка или стол на аэропорту, где пассажиры регистрируются на свои рейсы.",
+        "descriptionUK": "стойка або стіл у аеропорту, де пасажири реєструються на свої рейси.",
+        "descriptionTR": "yolcuların uçuşları için check-in yaptığı bir havaalanı gişesi veya masası.",
+        "descriptionAZ": "sərnişinlərin uçuşları üçün check-in etdiyi bir hava limanı qutusu və ya masası."
     }, {
         "de": "der Flugsteig",
         "en": "boarding gate",
         "ru": "ворота посадки",
+        "tr": "biniş kapısı",
+        "az": "minmə qapısı",
+        "uk": "вихід на посадку",
         "descriptionDE": "eine Stelle am Flughafen, von der aus Passagiere in ein Flugzeug einsteigen.",
         "descriptionEN": "a point at an airport from which passengers embark on an aircraft.",
-        "descriptionRU": "точка на аэропорту, с которой пассажиры садятся в воздушное судно."
+        "descriptionRU": "точка на аэропорту, с которой пассажиры садятся в воздушное судно.",
+        "descriptionUK": "точка в аеропорту, з якої пасажири сідають у повітряне судно.",
+        "descriptionTR": "yolcuların bir uçağa bindiği bir havaalanı noktası.",
+        "descriptionAZ": "sərnişinlərin bir təyyarəyə mindiyi bir hava limanı nöqtəsi."
     }, {
         "de": "die Sicherheitskontrolle",
         "en": "security check",
         "ru": "контроль безопасности",
+        "tr": "güvenlik kontrolü",
+        "az": "təhlükəsizlik yoxlaması",
+        "uk": "контроль безпеки",
         "descriptionDE": "der Prozess der Überprüfung von Passagieren und deren Gepäck auf verbotene Gegenstände.",
         "descriptionEN": "the process of checking passengers and their belongings for prohibited items.",
-        "descriptionRU": "процесс проверки пассажиров и их вещей на предмет запрещенных предметов."
+        "descriptionRU": "процесс проверки пассажиров и их вещей на предмет запрещенных предметов.",
+        "descriptionUK": "процес перевірки пасажирів та їхніх речей на предмет заборонених предметів.",
+        "descriptionTR": "yolcuların ve eşyalarının yasaklı maddeler açısından kontrol edilmesi süreci.",
+        "descriptionAZ": "sərnişinlərin və əşyalarının qadağan olunmuş maddələr baxımından yoxlanılması prosesi."
     }, {
         "de": "das Gate",
         "en": "gate",
         "ru": "ворота",
+        "tr": "kapı",
+        "az": "qapı",
+        "uk": "вихід",
         "descriptionDE": "ein Bereich am Flughafen, von dem aus Passagiere ein- oder aussteigen.",
         "descriptionEN": "an area in an airport from which passengers board or disembark.",
-        "descriptionRU": "область на аэропорту, с которой пассажиры посадки или высадки."
+        "descriptionRU": "область на аэропорту, с которой пассажиры посадки или высадки.",
+        "descriptionUK": "область у аеропорту, з якої пасажири посадки або висадки.",
+        "descriptionTR": "yolcuların bir uçağa bindiği veya indiği bir havaalanı alanı.",
+        "descriptionAZ": "sərnişinlərin bir təyyarəyə mindiyi və ya endiyi bir hava limanı sahəsi."
     }, {
         "de": "der Wartebereich",
         "en": "waiting area",
         "ru": "зона ожидания",
+        "tr": "bekleme alanı",
+        "az": "gözləmə sahəsi",
+        "uk": "зона очікування",
         "descriptionDE": "ein bestimmter Bereich, in dem Passagiere vor dem Einsteigen in ihre Flüge warten können.",
         "descriptionEN": "a designated area where passengers can wait before boarding their flights.",
-        "descriptionRU": "специально отведенная область, где пассажиры могут ждать перед посадкой на свой рейс."
+        "descriptionRU": "специально отведенная область, где пассажиры могут ждать перед посадкой на свой рейс.",
+        "descriptionUK": "спеціально відведена область, де пасажири можуть чекати перед посадкою на свій рейс.",
+        "descriptionTR": "yolcuların uçuşlarına binmeden önce bekleyebileceği belirli bir alan.",
+        "descriptionAZ": "sərnişinlərin uçuşlarına minməzdən əvvəl gözləyə biləcəyi müəyyən bir sahə."
     }, {
         "de": "die Flugnummer",
         "en": "flight number",
         "ru": "номер рейса",
+        "tr": "uçuş numarası",
+        "az": "uçuş nömrəsi",
+        "uk": "номер рейсу",
         "descriptionDE": "ein eindeutiger Code, der einem bestimmten Flug zugewiesen ist.",
         "descriptionEN": "a unique code assigned to a specific flight.",
-        "descriptionRU": "уникальный код, присвоенный конкретному рейсу."
+        "descriptionRU": "уникальный код, присвоенный конкретному рейсу.",
+        "descriptionUK": "унікальний код, присвоєний конкретному рейсу.",
+        "descriptionTR": "belirli bir uçuşa atanmış benzersiz bir kod.",
+        "descriptionAZ": "müəyyən bir uçuşa təyin edilmiş unikal bir kod."
     }, {
         "de": "der Passagier",
         "en": "passenger",
         "ru": "пассажир",
+        "tr": "yolcu",
+        "az": "sərnişin",
+        "uk": "пасажир",
         "descriptionDE": "eine Person, die in einem Fahrzeug reist, besonders wenn sie nicht der Fahrer ist.",
         "descriptionEN": "a person who is traveling in a vehicle, especially one that is not the driver.",
-        "descriptionRU": "человек, путешествующий в транспортном средстве, особенно не являющийся водителем."
+        "descriptionRU": "человек, путешествующий в транспортном средстве, особенно не являющийся водителем.",
+        "descriptionUK": "людина, яка подорожує в транспортному засобі, особливо не є водієм.",
+        "descriptionTR": "bir araçta seyahat eden, özellikle sürücü olmayan bir kişi.",
+        "descriptionAZ": "bir vasitədə səyahət edən, xüsusilə sürücü olmayan bir şəxs."
     }, {
         "de": "der Start",
         "en": "takeoff",
         "ru": "взлет",
+        "tr": "kalkış",
+        "az": "qalxış",
+        "uk": "зліт",
         "descriptionDE": "der Moment, in dem ein Flugzeug den Boden verlässt, um in die Luft zu steigen.",
         "descriptionEN": "the moment when an aircraft leaves the ground to ascend into the air.",
-        "descriptionRU": "момент, когда воздушное судно покидает землю, чтобы подниматься в воздух."
+        "descriptionRU": "момент, когда воздушное судно покидает землю, чтобы подниматься в воздух.",
+        "descriptionUK": "момент, коли повітряне судно залишає землю, щоб підніматися в повітря.",
+        "descriptionTR": "bir uçağın yerden havalanarak havaya yükseldiği an.",
+        "descriptionAZ": "bir təyyarənin yerdən havaya qalxaraq yüksəldiyi an."
     }, {
         "de": "das Gepäckband",
         "en": "baggage carousel",
         "ru": "конвейер для багажа",
+        "tr": "bagaj döner kasası",
+        "az": "baqaj dönər kasası",
+        "uk": "конвеєр для багажу",
         "descriptionDE": "ein bewegliches Förderband am Flughafen zur Lieferung des aufgegebenen Gepäcks der Passagiere.",
         "descriptionEN": "a moving conveyor belt at an airport for delivering passengers' checked luggage.",
-        "descriptionRU": "движущийся конвейер на аэропорту для доставки зарегистрированных багажей пассажиров."
+        "descriptionRU": "движущийся конвейер на аэропорту для доставки зарегистрированных багажей пассажиров.",
+        "descriptionUK": "рухомий конвеєр у аеропорту для доставки зареєстрованих багажів пасажирів.",
+        "descriptionTR": "yolcuların check-in bagajlarını teslim etmek için bir havaalanında hareketli bir konveyör bandı.",
+        "descriptionAZ": "sərnişinlərin check-in baqajlarını çatdırmaq üçün bir hava limanında hərəkətli bir konveyer zolağı."
     }, {
         "de": "der Urlaub",
         "en": "vacation",
         "ru": "отпуск",
+        "tr": "tatil",
+        "az": "məzuniyyət",
+        "uk": "відпустка",
         "descriptionDE": "eine Zeitspanne, die der Freizeit und dem Reisen gewidmet ist, normalerweise fernab von Arbeit oder Schule.",
         "descriptionEN": "a period of time dedicated to leisure and travel, typically away from work or school.",
-        "descriptionRU": "период времени, посвященный досугу и путешествиям, обычно вдали от работы или учебы."
+        "descriptionRU": "период времени, посвященный досугу и путешествиям, обычно вдали от работы или учебы.",
+        "descriptionUK": "період часу, присвячений дозвіллю та подорожам, зазвичай вдалині від роботи чи навчання.",
+        "descriptionTR": "iş veya okuldan uzakta, genellikle boş zaman ve seyahate ayrılmış bir zaman dilimi.",
+        "descriptionAZ": "iş və ya məktəbdən uzaqda, adətən boş vaxt və səyahətə ayrılmış bir zaman dövrü."
     }
 ]

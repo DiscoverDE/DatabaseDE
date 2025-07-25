@@ -3,127 +3,235 @@
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionEN": "a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed.",
         "descriptionRU": "здание или место, где хранятся и выставляются произведения искусства, научные экспонаты или другие объекты постоянной ценности.",
-        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von bleibendem Wert aufbewahrt und ausgestellt werden."
+        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von bleibendem Wert aufbewahrt und ausgestellt werden.",
+        "descriptionTR": "Sanat eserlerinin, bilimsel örneklerin veya kalıcı değeri olan diğer nesnelerin saklandığı ve sergilendiği bir bina veya yer.",
+        "descriptionAZ": "Sənət əsərlərinin, elmi nümunələrin və ya digər daimi dəyərə malik əşyaların saxlandığı və sərgiləndiyi bina və ya yer.",
+        "descriptionUK": "будівля або місце, де зберігаються та виставляються твори мистецтва, наукові зразки або інші об'єкти постійної цінності."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "Die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionDE": "Die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
+        "descriptionTR": "Geçmiş olayların, özellikle insan ilişkilerinde incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan münasibətlərində öyrənilməsi.",
+        "descriptionUK": "вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Sammlung",
         "en": "collection",
         "ru": "коллекция",
+        "tr": "koleksiyon",
+        "az": "kolleksiya",
+        "uk": "колекція",
         "descriptionEN": "a group of objects or works to be seen, studied, or kept together.",
         "descriptionRU": "группа объектов или работ, которые можно увидеть, изучить или хранить вместе.",
-        "descriptionDE": "Eine Gruppe von Objekten oder Werken, die zusammen gesehen, studiert oder aufbewahrt werden sollen."
+        "descriptionDE": "Eine Gruppe von Objekten oder Werken, die zusammen gesehen, studiert oder aufbewahrt werden sollen.",
+        "descriptionTR": "Görülecek, incelenecek veya birlikte saklanacak nesneler veya eserler grubu.",
+        "descriptionAZ": "Birlikdə görüləcək, öyrəniləcək və ya saxlanılacaq obyektlər və ya əsərlər qrupu.",
+        "descriptionUK": "група об'єктів або творів, які слід розглядати, вивчати або зберігати разом."
     }, {
         "de": "die Entwicklung",
         "en": "development",
         "ru": "развитие",
+        "tr": "gelişim",
+        "az": "inkişaf",
+        "uk": "розвиток",
         "descriptionEN": "the process of developing or being developed.",
         "descriptionRU": "процесс развития или развития.",
-        "descriptionDE": "Der Prozess der Entwicklung oder des Entwickelns."
+        "descriptionDE": "Der Prozess der Entwicklung oder des Entwickelns.",
+        "descriptionTR": "Gelişme veya geliştirilme süreci.",
+        "descriptionAZ": "İnkişaf etmə və ya inkişaf etdirilmə prosesi.",
+        "descriptionUK": "процес розвитку або становлення."
     }, {
         "de": "die Panzer",
         "en": "tanks",
         "ru": "танки",
+        "tr": "tanklar",
+        "az": "tanklar",
+        "uk": "танки",
         "descriptionEN": "a heavily armoured fighting vehicle carrying guns and moving on a continuous articulated metal track.",
         "descriptionRU": "тяжело бронированное боевое транспортное средство с пушками и передвигающееся по непрерывному суставному металлическому рельсу.",
-        "descriptionDE": "Ein schwer gepanzertes Kampffahrzeug mit Waffen, das sich auf einer kontinuierlichen Gelenkmetallspur bewegt."
+        "descriptionDE": "Ein schwer gepanzertes Kampffahrzeug mit Waffen, das sich auf einer kontinuierlichen Gelenkmetallspur bewegt.",
+        "descriptionTR": "Silah taşıyan ve sürekli mafsallı metal palet üzerinde hareket eden ağır zırhlı bir savaş aracı.",
+        "descriptionAZ": "Silah daşıyan və fasiləsiz birləşdirilmiş metal tırtıl üzərində hərəkət edən ağır zirehli döyüş maşını.",
+        "descriptionUK": "важко броньована бойова машина, що несе зброю та рухається на безперервній шарнірній металевій гусениці."
     }, {
         "de": "die Lokomotive",
         "en": "locomotive",
         "ru": "локомотив",
+        "tr": "lokomotif",
+        "az": "lokomotiv",
+        "uk": "локомотив",
         "descriptionEN": "a powered rail vehicle used for pulling trains.",
         "descriptionRU": "тяговое железнодорожное транспортное средство, используемое для тяги поездов.",
-        "descriptionDE": "Ein motorisiertes Schienenfahrzeug, das zum Ziehen von Zügen verwendet wird."
+        "descriptionDE": "Ein motorisiertes Schienenfahrzeug, das zum Ziehen von Zügen verwendet wird.",
+        "descriptionTR": "Trenleri çekmek için kullanılan motorlu bir demiryolu aracı.",
+        "descriptionAZ": "Qatar çəkmək üçün istifadə olunan mühərrikli dəmir yolu nəqliyyat vasitəsi.",
+        "descriptionUK": "моторний залізничний транспортний засіб, що використовується для тягання поїздів."
     }, {
         "de": "die Erfahrung",
         "en": "experience",
         "ru": "опыт",
+        "tr": "deneyim",
+        "az": "təcrübə",
+        "uk": "досвід",
         "descriptionEN": "practical contact with and observation of facts or events.",
         "descriptionRU": "совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
+        "descriptionTR": "Olaylar veya olgularla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və ya hadisələrlə praktiki təmas və müşahidə.",
+        "descriptionUK": "практичний контакт та спостереження за фактами чи подіями."
     }, {
         "de": "die Vorliebe",
         "en": "preference",
         "ru": "предпочтение",
+        "tr": "tercih",
+        "az": "üstünlük",
+        "uk": "перевага",
         "descriptionEN": "a greater liking for one alternative over another or others.",
         "descriptionRU": "большее предпочтение одной альтернативы перед другой или другими.",
-        "descriptionDE": "Eine größere Vorliebe für eine Alternative gegenüber einer anderen oder anderen."
+        "descriptionDE": "Eine größere Vorliebe für eine Alternative gegenüber einer anderen oder anderen.",
+        "descriptionTR": "Bir alternatife diğerlerine göre daha fazla hoşlanma.",
+        "descriptionAZ": "Bir alternativaya digərlərinə nisbətən daha çox üstünlük vermək.",
+        "descriptionUK": "більша схильність до однієї альтернативи над іншою або іншими."
     }, {
         "de": "die Perspektive",
         "en": "perspective",
         "ru": "перспектива",
+        "tr": "perspektif",
+        "az": "perspektiv",
+        "uk": "перспектива",
         "descriptionEN": "a particular attitude towards or way of regarding something; a point of view.",
         "descriptionRU": "особое отношение к чему-либо или способ восприятия; точка зрения.",
-        "descriptionDE": "Eine bestimmte Einstellung zu oder Art und Weise, etwas zu betrachten; ein Standpunkt."
+        "descriptionDE": "Eine bestimmte Einstellung zu oder Art und Weise, etwas zu betrachten; ein Standpunkt.",
+        "descriptionTR": "Belirli bir şeye karşı belirli bir tutum veya bakış açısı; bir bakış açısı.",
+        "descriptionAZ": "Müəyyən bir şeyə münasibət və ya ona baxış tərzi; bir baxış bucağı.",
+        "descriptionUK": "особливе ставлення або спосіб сприйняття чогось; точка зору."
     }, {
         "de": "beeindruckend",
         "en": "impressive",
         "ru": "впечатляющий",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
         "descriptionEN": "evoking admiration through size, quality, or skill.",
         "descriptionRU": "вызывающий восхищение размером, качеством или мастерством.",
-        "descriptionDE": "Beeindruckend durch Größe, Qualität oder Geschick."
+        "descriptionDE": "Beeindruckend durch Größe, Qualität oder Geschick.",
+        "descriptionTR": "Boyut, kalite veya beceri aracılığıyla hayranlık uyandıran.",
+        "descriptionAZ": "Ölçüsü, keyfiyyəti və ya bacarığı ilə heyranlıq doğuran.",
+        "descriptionUK": "викликає захоплення розміром, якістю або майстерністю."
     }, {
         "de": "interaktiv",
         "en": "interactive",
         "ru": "интерактивный",
+        "tr": "interaktif",
+        "az": "interaktiv",
+        "uk": "інтерактивний",
         "descriptionEN": "involving the actions or input of a user.",
         "descriptionRU": "с участием действий или ввода пользователя.",
-        "descriptionDE": "Involvierend die Handlungen oder Eingaben eines Benutzers."
+        "descriptionDE": "Involvierend die Handlungen oder Eingaben eines Benutzers.",
+        "descriptionTR": "Bir kullanıcının eylemlerini veya girdisini içeren.",
+        "descriptionAZ": "İstifadəçinin hərəkətlərini və ya daxil etməyini əhatə edən.",
+        "descriptionUK": "що передбачає дії або введення користувача."
     }, {
         "de": "charmante",
         "en": "charming",
         "ru": "очаровательный",
+        "tr": "çekici",
+        "az": "cazibədar",
+        "uk": "чарівний",
         "descriptionEN": "very pleasant or attractive.",
         "descriptionRU": "очень приятный или привлекательный.",
-        "descriptionDE": "Sehr angenehm oder attraktiv."
+        "descriptionDE": "Sehr angenehm oder attraktiv.",
+        "descriptionTR": "Çok hoş veya çekici.",
+        "descriptionAZ": "Çox xoş və ya cəlbedici.",
+        "descriptionUK": "дуже приємний або привабливий."
     }, {
         "de": "modernen",
         "en": "modern",
         "ru": "современный",
+        "tr": "modern",
+        "az": "müasir",
+        "uk": "сучасний",
         "descriptionEN": "relating to the present or recent times as opposed to the remote past.",
         "descriptionRU": "относящийся к настоящему или недавнему времени, в отличие от отдаленного прошлого.",
-        "descriptionDE": "Bezieht sich auf die Gegenwart oder die jüngste Vergangenheit im Gegensatz zur fernen Vergangenheit."
+        "descriptionDE": "Bezieht sich auf die Gegenwart oder die jüngste Vergangenheit im Gegensatz zur fernen Vergangenheit.",
+        "descriptionTR": "Uzak geçmişin aksine şimdiki veya yakın zamana ait.",
+        "descriptionAZ": "Uzaq keçmişdən fərqli olaraq, indiki və ya yaxın zamanlara aid olan.",
+        "descriptionUK": "що стосується теперішнього або недавнього часу на відміну від далекого минулого."
     }, {
         "de": "einzigartige",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "benzersiz",
+        "az": "bənzərsiz",
+        "uk": "унікальний",
         "descriptionEN": "being the only one of its kind; unlike anything else.",
         "descriptionRU": "будучи единственным в своем роде; ни на что не похоже.",
-        "descriptionDE": "Einzigartig, weil es das einzige seiner Art ist; anders als alles andere."
+        "descriptionDE": "Einzigartig, weil es das einzige seiner Art ist; anders als alles andere.",
+        "descriptionTR": "Türünün tek örneği olmak; başka hiçbir şeye benzemeyen.",
+        "descriptionAZ": "Növünün yeganəsi olmaq; başqa heç bir şeyə bənzəməyən.",
+        "descriptionUK": "будучи єдиним у своєму роді; несхожий ні на що інше."
     }, {
         "de": "faszinierenden",
         "en": "fascinating",
         "ru": "захватывающий",
+        "tr": "büyüleyici",
+        "az": "cazibədar",
+        "uk": "захоплюючий",
         "descriptionEN": "extremely interesting.",
         "descriptionRU": "чрезвычайно интересный.",
-        "descriptionDE": "Äußerst interessant."
+        "descriptionDE": "Äußerst interessant.",
+        "descriptionTR": "Son derece ilginç.",
+        "descriptionAZ": "Son dərəcə maraqlı.",
+        "descriptionUK": "надзвичайно цікавий."
     }, {
         "de": "unterschiedliches",
         "en": "different",
         "ru": "разный",
+        "tr": "farklı",
+        "az": "fərqli",
+        "uk": "різний",
         "descriptionEN": "not the same as another or each other; unlike in nature, form, or quality.",
         "descriptionRU": "не такой же, как другой или другой; в отличие по природе, форме или качеству.",
-        "descriptionDE": "Nicht dasselbe wie ein anderes oder einander; anders in Natur, Form oder Qualität."
+        "descriptionDE": "Nicht dasselbe wie ein anderes oder einander; anders in Natur, Form oder Qualität.",
+        "descriptionTR": "Birbirine veya başkalarına benzemeyen; doğası, formu veya kalitesi farklı olan.",
+        "descriptionAZ": "Bir-birindən və ya digərlərindən fərqli; təbiəti, forması və ya keyfiyyəti fərqli olan.",
+        "descriptionUK": "не такий самий, як інший або один одного; відмінний за природою, формою або якістю."
     }, {
         "de": "lustige",
         "en": "funny",
         "ru": "смешной",
+        "tr": "komik",
+        "az": "gülməli",
+        "uk": "смішний",
         "descriptionEN": "causing laughter or amusement; humorous.",
         "descriptionRU": "вызывающий смех или развлечение; юмористический.",
-        "descriptionDE": "Verursacht Lachen oder Amüsement; humorvoll."
+        "descriptionDE": "Verursacht Lachen oder Amüsement; humorvoll.",
+        "descriptionTR": "Kahkaha veya eğlenceye neden olan; esprili.",
+        "descriptionAZ": "Gülüşə və ya əyləncəyə səbəb olan; yumoristik.",
+        "descriptionUK": "викликає сміх або розвагу; гумористичний."
     }, {
         "de": "herausfordernde",
         "en": "challenging",
         "ru": "трудный",
+        "tr": "zorlu",
+        "az": "çətin",
+        "uk": "складний",
         "descriptionEN": "testing one's abilities; demanding.",
         "descriptionRU": "тестирует способности; требовательный.",
-        "descriptionDE": "Testet die Fähigkeiten; anspruchsvoll."
+        "descriptionDE": "Testet die Fähigkeiten; anspruchsvoll.",
+        "descriptionTR": "Kişinin yeteneklerini test eden; talepkar.",
+        "descriptionAZ": "İnsan qabiliyyətlərini sınaqdan keçirən; tələbkar.",
+        "descriptionUK": "що перевіряє чиїсь здібності; вимогливий."
     }
 ]

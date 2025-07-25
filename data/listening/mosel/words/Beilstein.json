@@ -1,116 +1,211 @@
 [
-
     {
         "de": "das Moseltal",
         "en": "Mosel Valley",
         "ru": "долина Мозеля",
+        "tr": "Mosel Vadisi",
+        "az": "Mosel Vadisi",
+        "uk": "долина Мозеля",
         "descriptionEN": "A river valley region known for wine production in Germany.",
         "descriptionRU": "Регион в долине реки, известный виноделием в Германии.",
-        "descriptionDE": "Eine Flussregion, die in Deutschland für den Weinanbau bekannt ist."
+        "descriptionDE": "Eine Flussregion, die in Deutschland für den Weinanbau bekannt ist.",
+        "descriptionTR": "Almanya'da şarap üretimiyle bilinen bir nehir vadisi bölgesi.",
+        "descriptionAZ": "Almaniyada şərab istehsalı ilə məşhur olan çay vadisi regionu.",
+        "descriptionUK": "Регіон у долині річки, відомий виноробством у Німеччині."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qəsr",
+        "uk": "замок",
         "descriptionEN": "A large building or group of buildings fortified against attack.",
         "descriptionRU": "Большое здание или группа зданий, укреплённых для защиты.",
-        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind."
+        "descriptionDE": "Ein großes Gebäude oder eine Gruppe von Gebäuden, die gegen Angriffe befestigt sind.",
+        "descriptionTR": "Saldırılara karşı güçlendirilmiş büyük bir bina veya bina grubu.",
+        "descriptionAZ": "Hücumlara qarşı möhkəmləndirilmiş böyük bir bina və ya binalar qrupu.",
+        "descriptionUK": "Велика будівля чи група будівель, укріплених для захисту."
     }, {
         "de": "das Kloster",
         "en": "monastery",
         "ru": "монастырь",
+        "tr": "manastır",
+        "az": "monastır",
+        "uk": "монастир",
         "descriptionEN": "A religious building where monks live, pray, and work.",
         "descriptionRU": "Религиозное здание, где живут, молятся и работают монахи.",
-        "descriptionDE": "Ein religiöses Gebäude, in dem Mönche leben, beten und arbeiten."
+        "descriptionDE": "Ein religiöses Gebäude, in dem Mönche leben, beten und arbeiten.",
+        "descriptionTR": "Keşişlerin yaşadığı, dua ettiği ve çalıştığı dini bir yapı.",
+        "descriptionAZ": "Rahiblərin yaşadığı, dua etdiyi və işlədiyi dini bina.",
+        "descriptionUK": "Релігійна будівля, де живуть, моляться та працюють ченці."
     }, {
         "de": "die Kirche",
         "en": "church",
         "ru": "церковь",
+        "tr": "kilise",
+        "az": "kilsə",
+        "uk": "церква",
         "descriptionEN": "A building for public Christian worship.",
         "descriptionRU": "Здание для общественного христианского богослужения.",
-        "descriptionDE": "Ein Gebäude für die öffentliche christliche Anbetung."
+        "descriptionDE": "Ein Gebäude für die öffentliche christliche Anbetung.",
+        "descriptionTR": "Halka açık Hristiyan ibadeti için bir bina.",
+        "descriptionAZ": "İctimai xristian ibadəti üçün bina.",
+        "descriptionUK": "Будівля для громадського християнського богослужіння."
     }, {
         "de": "der Pilger",
         "en": "pilgrim",
         "ru": "паломник",
+        "tr": "hacı",
+        "az": "zəvvər",
+        "uk": "паломник",
         "descriptionEN": "A person who journeys to a sacred place for religious reasons.",
         "descriptionRU": "Человек, который совершает путешествие к святому месту по религиозным причинам.",
-        "descriptionDE": "Eine Person, die aus religiösen Gründen an einen heiligen Ort reist."
+        "descriptionDE": "Eine Person, die aus religiösen Gründen an einen heiligen Ort reist.",
+        "descriptionTR": "Dini nedenlerle kutsal bir yere seyahat eden kişi.",
+        "descriptionAZ": "Dini səbəblərlə müqəddəs bir yerə səyahət edən şəxs.",
+        "descriptionUK": "Людина, яка подорожує до святого місця з релігійних причин."
     }, {
         "de": "der Marktplatz",
         "en": "market square",
         "ru": "рыночная площадь",
+        "tr": "pazar meydanı",
+        "az": "bazar meydanı",
+        "uk": "ринкова площа",
         "descriptionEN": "An open space in a town where a market is held.",
         "descriptionRU": "Открытое пространство в городе, где проводится рынок.",
-        "descriptionDE": "Ein offener Platz in einer Stadt, auf dem ein Markt abgehalten wird."
+        "descriptionDE": "Ein offener Platz in einer Stadt, auf dem ein Markt abgehalten wird.",
+        "descriptionTR": "Bir kasabada pazarın kurulduğu açık alan.",
+        "descriptionAZ": "Bir şəhərdə bazarın keçirildiyi açıq sahə.",
+        "descriptionUK": "Відкритий простір у місті, де проводиться ринок."
     }, {
         "de": "das Fachwerkhaus",
         "en": "half-timbered house",
         "ru": "фахверковый дом",
+        "tr": "ahşap çerçeveli ev",
+        "az": "taxta çərçivəli ev",
+        "uk": "фахверковий будинок",
         "descriptionEN": "A building with wooden framework filled with other materials.",
         "descriptionRU": "Здание с деревянным каркасом, заполненным другими материалами.",
-        "descriptionDE": "Ein Gebäude mit Holzrahmen, das mit anderen Materialien gefüllt ist."
+        "descriptionDE": "Ein Gebäude mit Holzrahmen, das mit anderen Materialien gefüllt ist.",
+        "descriptionTR": "Diğer malzemelerle doldurulmuş ahşap çerçeveli bir bina.",
+        "descriptionAZ": "Digər materiallarla doldurulmuş taxta çərçivəli bina.",
+        "descriptionUK": "Будівля з дерев'яним каркасом, заповненим іншими матеріалами."
     }, {
         "de": "das Kopfsteinpflaster",
         "en": "cobblestone",
         "ru": "булыжник",
+        "tr": "arnavut kaldırımı",
+        "az": "qədim küçə daşı",
+        "uk": "бруківка",
         "descriptionEN": "A stone used in paving streets.",
         "descriptionRU": "Камень, используемый для мощения улиц.",
-        "descriptionDE": "Ein Stein, der zum Pflastern von Straßen verwendet wird."
+        "descriptionDE": "Ein Stein, der zum Pflastern von Straßen verwendet wird.",
+        "descriptionTR": "Sokakları döşemek için kullanılan bir taş.",
+        "descriptionAZ": "Küçələri döşəmək üçün istifadə olunan daş.",
+        "descriptionUK": "Камінь, що використовується для мощення вулиць."
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "A plantation of grapevines, typically for winemaking.",
         "descriptionRU": "Плантация виноградных лоз, обычно для производства вина.",
-        "descriptionDE": "Eine Plantage von Weinreben, typischerweise für die Weinherstellung."
+        "descriptionDE": "Eine Plantage von Weinreben, typischerweise für die Weinherstellung.",
+        "descriptionTR": "Genellikle şarap yapımı için bir üzüm bağı.",
+        "descriptionAZ": "Adətən şərab istehsalı üçün üzüm bağı.",
+        "descriptionUK": "Плантація виноградної лози, зазвичай для виробництва вина."
     }, {
         "de": "das Weingut",
         "en": "winery",
         "ru": "винодельня",
+        "tr": "şaraphane",
+        "az": "şərab zavodu",
+        "uk": "винний завод",
         "descriptionEN": "A place where wine is produced and often sold.",
         "descriptionRU": "Место, где производится и продаётся вино.",
-        "descriptionDE": "Ein Ort, an dem Wein produziert und oft verkauft wird."
+        "descriptionDE": "Ein Ort, an dem Wein produziert und oft verkauft wird.",
+        "descriptionTR": "Şarabın üretildiği ve genellikle satıldığı yer.",
+        "descriptionAZ": "Şərabın istehsal edildiyi və çox vaxt satıldığı yer.",
+        "descriptionUK": "Місце, де виробляється та часто продається вино."
     }, {
         "de": "besichtigen",
         "en": "visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "To go to see a place.",
         "descriptionRU": "Сходить посмотреть место.",
-        "descriptionDE": "Einen Ort besuchen."
+        "descriptionDE": "Einen Ort besuchen.",
+        "descriptionTR": "Bir yeri görmeye gitmek.",
+        "descriptionAZ": "Bir yeri görməyə getmək.",
+        "descriptionUK": "Піти подивитися місце."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionEN": "To regard with respect or warm approval.",
         "descriptionRU": "Смотреть с уважением или одобрением.",
-        "descriptionDE": "Mit Respekt oder Zustimmung betrachten."
+        "descriptionDE": "Mit Respekt oder Zustimmung betrachten.",
+        "descriptionTR": "Saygı veya sıcak onayla bakmak.",
+        "descriptionAZ": "Hörmət və ya isti təsdiqlə baxmaq.",
+        "descriptionUK": "Дивитися з повагою чи схваленням."
     }, {
         "de": "umgeben",
         "en": "surround",
         "ru": "окружать",
+        "tr": "kuşatmak",
+        "az": "əhatə etmək",
+        "uk": "оточувати",
         "descriptionEN": "To enclose on all sides.",
         "descriptionRU": "Окружать со всех сторон.",
-        "descriptionDE": "Von allen Seiten umgeben."
+        "descriptionDE": "Von allen Seiten umgeben.",
+        "descriptionTR": "Her taraftan çevrelemek.",
+        "descriptionAZ": "Hər tərəfdən əhatə etmək.",
+        "descriptionUK": "Оточувати з усіх сторін."
     }, {
         "de": "historisch",
         "en": "historic",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Belonging to the past.",
         "descriptionRU": "Принадлежащий прошлому.",
-        "descriptionDE": "Zur Vergangenheit gehörend."
+        "descriptionDE": "Zur Vergangenheit gehörend.",
+        "descriptionTR": "Geçmişe ait.",
+        "descriptionAZ": "Keçmişə aid.",
+        "descriptionUK": "Належить до минулого."
     }, {
         "de": "mittelalterlich",
         "en": "medieval",
         "ru": "средневековый",
+        "tr": "ortaçağ",
+        "az": "orta əsr",
+        "uk": "середньовічний",
         "descriptionEN": "Relating to the Middle Ages.",
         "descriptionRU": "Относящийся к Средневековью.",
-        "descriptionDE": "Bezieht sich auf das Mittelalter."
+        "descriptionDE": "Bezieht sich auf das Mittelalter.",
+        "descriptionTR": "Orta Çağ'a ait.",
+        "descriptionAZ": "Orta əsrlərə aid.",
+        "descriptionUK": "Стосується Середньовіччя."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "eşsiz",
+        "az": "bənzərsiz",
+        "uk": "унікальний",
         "descriptionEN": "Being the only one of its kind.",
         "descriptionRU": "Быть единственным в своем роде.",
-        "descriptionDE": "Das einzige seiner Art sein."
+        "descriptionDE": "Das einzige seiner Art sein.",
+        "descriptionTR": "Kendi türünün tek örneği olmak.",
+        "descriptionAZ": "Öz növünün tək nümunəsi olmaq.",
+        "descriptionUK": "Бути єдиним у своєму роді."
     }
 ]

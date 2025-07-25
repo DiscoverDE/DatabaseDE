@@ -1,15 +1,20 @@
 [
-
     {
         "name": {
             "en": "Cochem Adventure",
             "de": "Cochem Abenteuer",
-            "ru": "Приключение в Кохеме"
+            "ru": "Приключение в Кохеме",
+            "tr": "Cochem Macerası",
+            "az": "Cochem Macərası",
+            "uk": "Пригода в Кохемі"
         },
         "description": {
             "en": "Exploring the Mosel town",
             "de": "Erkundung der Moselstadt",
-            "ru": "Исследование города на Мозеле"
+            "ru": "Исследование города на Мозеле",
+            "tr": "Mosel kasabasını keşfetmek",
+            "az": "Mosel şəhərini kəşf etmək",
+            "uk": "Дослідження міста на Мозелі"
         },
         "level": "A2",
         "image": "Erkundung.jpg",
@@ -20,12 +25,18 @@
         "name": {
             "en": "My Days in Mosel",
             "de": "Meine Tage an der Mosel",
-            "ru": "Мои дни в Мозеле"
+            "ru": "Мои дни в Мозеле",
+            "tr": "Mosel'deki Günlerim",
+            "az": "Moseldəki Günlərim",
+            "uk": "Мої дні на Мозелі"
         },
         "description": {
             "en": "Diary of Mark, an Amateur Cyclist",
             "de": "Tagebuch von Mark, einem Amateur-Radfahrer",
-            "ru": "Дневник Марка, велосипедиста-любителя"
+            "ru": "Дневник Марка, велосипедиста-любителя",
+            "tr": "Mark'ın, amatör bisikletçinin günlüğü",
+            "az": "Markın, həvəskar velosipedçinin gündəliyi",
+            "uk": "Щоденник Марка, аматорського велосипедиста"
         },
         "level": "A2",
         "image": "Diary.jpg",
@@ -36,12 +47,18 @@
         "name": {
             "en": "Geierlay",
             "de": "Geierlay",
-            "ru": "Гейерай"
+            "ru": "Гейерай",
+            "tr": "Geierlay",
+            "az": "Geierlay",
+            "uk": "Гейерай"
         },
         "description": {
             "en": "Suspension bridge",
             "de": "Hängebrücke",
-            "ru": "Подвесной мост"
+            "ru": "Подвесной мост",
+            "tr": "Asma köprü",
+            "az": "Asma körpü",
+            "uk": "Підвісний міст"
         },
         "level": "A2",
         "image": "Geierlay.jpg",
@@ -52,12 +69,18 @@
         "name": {
             "en": "Burg Eltz",
             "de": "Burg Eltz",
-            "ru": "Бург Эльц"
+            "ru": "Бург Эльц",
+            "tr": "Burg Eltz",
+            "az": "Burg Eltz",
+            "uk": "Бург Ельц"
         },
         "description": {
             "en": "Hilltop castle",
             "de": "Hügel-Schloss",
-            "ru": "Замок на холме"
+            "ru": "Замок на холме",
+            "tr": "Tepedeki kale",
+            "az": "Yüksək dağ qalası",
+            "uk": "Замок на вершині"
         },
         "level": "A2",
         "image": "Eltz.jpg",
@@ -68,12 +91,18 @@
         "name": {
             "en": "Fairytale Beilstein",
             "de": "Märchenhaftes Beilstein",
-            "ru": "Сказочный Бейльштайн"
+            "ru": "Сказочный Бейльштайн",
+            "tr": "Masalsı Beilstein",
+            "az": "Nağıl Beilstein",
+            "uk": "Казковий Бейльштайн"
         },
         "description": {
             "en": "Charming village",
             "de": "Charmantes Dorf",
-            "ru": "Очаровательная деревня"
+            "ru": "Очаровательная деревня",
+            "tr": "Çekici köy",
+            "az": "Cazibədar kənd",
+            "uk": "Чарівне село"
         },
         "level": "A2",
         "image": "Beilstein.jpg",
@@ -84,12 +113,18 @@
         "name": {
             "en": "Zell's Black Cat",
             "de": "Zeller Schwarze Katz",
-            "ru": "Черная кошка из Целля"
+            "ru": "Черная кошка из Целля",
+            "tr": "Zell'in Siyah Kedisi",
+            "az": "Zellin Qara Pişiyi",
+            "uk": "Чорна кішка з Целля"
         },
         "description": {
             "en": "Wine tale",
             "de": "Weingeschichte",
-            "ru": "Винная сказка"
+            "ru": "Винная сказка",
+            "tr": "Şarap hikayesi",
+            "az": "Şərab hekayəsi",
+            "uk": "Винна казка"
         },
         "level": "B1",
         "image": "Weingeschichte.jpg",
@@ -100,12 +135,18 @@
         "name": {
             "en": "Bike Adventure",
             "de": "Radabenteuer",
-            "ru": "Приключение на велосипеде"
+            "ru": "Приключение на велосипеде",
+            "tr": "Bisiklet Macerası",
+            "az": "Velosiped Macərası",
+            "uk": "Велопригода"
         },
         "description": {
             "en": "Scenic villages",
             "de": "Malerische Dörfer",
-            "ru": "Живописные деревни"
+            "ru": "Живописные деревни",
+            "tr": "Manzaralı köyler",
+            "az": "Gözəl kəndlər",
+            "uk": "Живописні села"
         },
         "level": "B1",
         "image": "Radabenteuer.jpg",
@@ -116,12 +157,18 @@
         "name": {
             "en": "Cochem vs Trier",
             "de": "Cochem gegen Trier",
-            "ru": "Кохем против Трира"
+            "ru": "Кохем против Трира",
+            "tr": "Cochem vs Trier",
+            "az": "Cochem və Trier",
+            "uk": "Кохем проти Тріра"
         },
         "description": {
             "en": "Charming towns or ancient history",
             "de": "Charmante Städte oder alte Geschichte",
-            "ru": "Очаровательный город или древняя история"
+            "ru": "Очаровательный город или древняя история",
+            "tr": "Çekici kasabalar mı yoksa eski tarih mi?",
+            "az": "Cazibədar şəhərlər və ya qədim tarix",
+            "uk": "Чарівні міста чи давня історія?"
         },
         "level": "B1",
         "image": "Charmante.jpg",
@@ -132,12 +179,18 @@
         "name": {
             "en": "Cochem Castle",
             "de": "Burg Cochem",
-            "ru": "Замок Кохем"
+            "ru": "Замок Кохем",
+            "tr": "Cochem Kalesi",
+            "az": "Cochem Qalası",
+            "uk": "Замок Кохем"
         },
         "description": {
             "en": "Historic Fortress",
             "de": "Historische Festung",
-            "ru": "Историческая крепость"
+            "ru": "Историческая крепость",
+            "tr": "Tarihi kale",
+            "az": "Tarixi qala",
+            "uk": "Історична фортеця"
         },
         "level": "B1",
         "image": "Cochem.jpg",
@@ -148,12 +201,18 @@
         "name": {
             "en": "Cycling Adventure",
             "de": "Fahrradabenteuer",
-            "ru": "Велоприключение"
+            "ru": "Велоприключение",
+            "tr": "Bisiklet Macerası",
+            "az": "Velosiped Macərası",
+            "uk": "Велопригода"
         },
         "description": {
             "en": "Explore charming towns",
             "de": "Charmante Städte erkunden",
-            "ru": "Исследуйте очаровательные города"
+            "ru": "Исследуйте очаровательные города",
+            "tr": "Çekici kasabaları keşfedin",
+            "az": "Cazibədar şəhərləri kəşf edin",
+            "uk": "Досліджуйте чарівні міста"
         },
         "level": "B1",
         "image": "Cycling.jpg",
@@ -164,12 +223,18 @@
         "name": {
             "en": "Mosel River Crossings",
             "de": "Moselübergänge",
-            "ru": "Переходы через Мозель"
+            "ru": "Переходы через Мозель",
+            "tr": "Mosel Nehri Geçişleri",
+            "az": "Mosel çayı keçidləri",
+            "uk": "Перехрестя Мозеля"
         },
         "description": {
             "en": "Historical Mosel Bridges",
             "de": "Historische Moselbrücken",
-            "ru": "Исторические мосты Мозеля"
+            "ru": "Исторические мосты Мозеля",
+            "tr": "Tarihi Mosel Köprüleri",
+            "az": "Tarixi Mosel körpüləri",
+            "uk": "Історичні мости Мозеля"
         },
         "level": "B2",
         "image": "Bridge.jpg",
@@ -180,12 +245,18 @@
         "name": {
             "en": "Burg Thurant",
             "de": "Burg Thurant",
-            "ru": "Замок Турант"
+            "ru": "Замок Турант",
+            "tr": "Burg Thurant",
+            "az": "Burg Thurant",
+            "uk": "Бург Турант"
         },
         "description": {
             "en": "Historic site",
             "de": "Historischer Ort",
-            "ru": "Историческое место"
+            "ru": "Историческое место",
+            "tr": "Tarihi alan",
+            "az": "Tarixi yer",
+            "uk": "Історичне місце"
         },
         "level": "B2",
         "image": "Thurant.jpg",
@@ -196,12 +267,18 @@
         "name": {
             "en": "Biodiversity",
             "de": "Biodiversität",
-            "ru": "Биоразнообразие"
+            "ru": "Биоразнообразие",
+            "tr": "Biyoçeşitlilik",
+            "az": "Biodiversity",
+            "uk": "Біорізноманіття"
         },
         "description": {
             "en": "Diverse animals in Mosel.",
             "de": "Verschiedene Tiere an der Mosel.",
-            "ru": "Разнообразные животные в Мозеле."
+            "ru": "Разнообразные животные в Мозеле.",
+            "tr": "Mosel'deki çeşitli hayvanlar.",
+            "az": "Moseldə müxtəlif heyvanlar.",
+            "uk": "Різноманітні тварини в Мозелі."
         },
         "level": "B2",
         "image": "BiodiversityII.jpg",
@@ -212,12 +289,18 @@
         "name": {
             "en": "Moselle in War",
             "de": "Mosel im Krieg",
-            "ru": "Мозель на войне"
+            "ru": "Мозель на войне",
+            "tr": "Mosel Savaşta",
+            "az": "Mosel Müharibədə",
+            "uk": "Мозель на війні"
         },
         "description": {
             "en": "A river's wartime resilience",
             "de": "Kriegszeitliche Resilienz eines Flusses",
-            "ru": "Военная стойкость реки"
+            "ru": "Военная стойкость реки",
+            "tr": "Bir nehrin savaş zamanı direnci",
+            "az": "Bir çayın müharibə dövrü dözümlülüyü",
+            "uk": "Військова стійкість річки"
         },
         "level": "B2",
         "image": "WWII.jpg",
@@ -228,12 +311,18 @@
         "name": {
             "en": "River Journey",
             "de": "Flussreise",
-            "ru": "Путешествие по реке"
+            "ru": "Путешествие по реке",
+            "tr": "Nehir Yolculuğu",
+            "az": "Çay səyahəti",
+            "uk": "Подорож по річці"
         },
         "description": {
             "en": "Journey along the Moselle",
             "de": "Reise entlang der Mosel",
-            "ru": "Путешествие вдоль Мозеля"
+            "ru": "Путешествие вдоль Мозеля",
+            "tr": "Mosel boyunca seyahat",
+            "az": "Mosel çayı boyunca səyahət",
+            "uk": "Подорож вздовж Мозеля"
         },
         "level": "B2",
         "image": "Flussreise.jpg",

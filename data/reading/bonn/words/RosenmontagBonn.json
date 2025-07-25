@@ -3,239 +3,443 @@
         "de": "der Rosenmontag",
         "en": "Rose Monday",
         "ru": "Розовый понедельник",
+        "tr": "Gül Pazartesi",
+        "az": "Qızılgül Bazar ertəsi",
+        "uk": "Троянда понеділок",
         "descriptionEN": "The highlight of Carnival in Germany, falling on the Monday before Ash Wednesday, marking the beginning of Lent.",
         "descriptionRU": "Важное событие карнавала в Германии, приходящееся на понедельник перед Пепельной средой, начало поста.",
-        "descriptionDE": "Der Höhepunkt des Karnevals in Deutschland, fällt auf den Montag vor Aschermittwoch und markiert den Beginn der Fastenzeit."
+        "descriptionDE": "Der Höhepunkt des Karnevals in Deutschland, fällt auf den Montag vor Aschermittwoch und markiert den Beginn der Fastenzeit.",
+        "descriptionTR": "Almanya'da Karnavalın zirvesi, Kül Çarşambası'ndan önceki Pazartesi gününe denk gelir ve Perhiz döneminin başlangıcını işaret eder.",
+        "descriptionAZ": "Almaniyadakı Karnavalın ən parlaq hadisəsi, Kül Çərşənbəsindən əvvəlki Bazar ertəsi gününə təsadüf edir və Oruc dövrünün başlanğıcını qeyd edir.",
+        "descriptionUK": "Кульмінація Карнавалу в Німеччині, що припадає на понеділок перед Попільною середою, знаменуючи початок Великого посту."
     }, {
         "de": "die Fastenzeit",
         "en": "Lent",
         "ru": "Великий пост",
+        "tr": "perhiz dönemi",
+        "az": "oruc dövrü",
+        "uk": "Великий піст",
         "descriptionEN": "The period of 40 days leading up to Easter, traditionally observed by fasting, repentance, and penance.",
         "descriptionRU": "Период из 40 дней, предшествующий Пасхе, традиционно отмечаемый постом, покаянием и самоистязанием.",
-        "descriptionDE": "Die Zeit von 40 Tagen vor Ostern, traditionell beobachtet durch Fasten, Reue und Buße."
+        "descriptionDE": "Die Zeit von 40 Tagen vor Ostern, traditionell beobachtet durch Fasten, Reue und Buße.",
+        "descriptionTR": "Paskalya'ya kadar olan 40 günlük dönem, geleneksel olarak oruç, tövbe ve kefaret ile gözlemlenir.",
+        "descriptionAZ": "Pasxaya qədər olan 40 günlük dövr, ənənəvi olaraq oruc, tövbə və kəffarət ilə müşahidə olunur.",
+        "descriptionUK": "Період 40 днів до Великодня, традиційно дотримуваний постом, покаянням та епітимією."
     }, {
         "de": "der Umzug",
         "en": "Parade",
         "ru": "Парад",
+        "tr": "geçit töreni",
+        "az": "parad",
+        "uk": "парад",
         "descriptionEN": "A procession of people, often with decorative floats, moving along a predetermined route for public celebration.",
         "descriptionRU": "Процессия людей, часто с декоративными платформами, двигающаяся по заранее определенному маршруту для общественного празднования.",
-        "descriptionDE": "Eine Prozession von Menschen, oft mit dekorativen Wagen, die entlang einer festgelegten Route für öffentliche Feierlichkeiten ziehen."
+        "descriptionDE": "Eine Prozession von Menschen, oft mit dekorativen Wagen, die entlang einer festgelegten Route für öffentliche Feierlichkeiten ziehen.",
+        "descriptionTR": "Genellikle dekoratif arabalarla birlikte, halk kutlaması için önceden belirlenmiş bir rota boyunca hareket eden insan alayı.",
+        "descriptionAZ": "Adətən dekorativ platformalarla birlikdə, ictimai bayram üçün əvvəlcədən müəyyən edilmiş marşrut boyunca hərəkət edən insanların yürüşü.",
+        "descriptionUK": "Процесія людей, часто з декоративними платформами, що рухається заздалегідь визначеним маршрутом для громадського святкування."
     }, {
         "de": "der Narr",
         "en": "Jester",
         "ru": "Шут",
+        "tr": "soytarı",
+        "az": "məsxərəçi",
+        "uk": "блазень",
         "descriptionEN": "A professional joker or fool, historically employed to entertain a ruler or noble.",
         "descriptionRU": "Профессиональный шут или дурак, исторически на службе развлечения правителя или знатного человека.",
-        "descriptionDE": "Ein professioneller Spaßmacher, historisch angestellt, um einen Herrscher oder Adligen zu unterhalten."
+        "descriptionDE": "Ein professioneller Spaßmacher, historisch angestellt, um einen Herrscher oder Adligen zu unterhalten.",
+        "descriptionTR": "Tarihsel olarak bir hükümdarı veya asili eğlendirmek için istihdam edilen profesyonel şakacı veya aptal.",
+        "descriptionAZ": "Tarixi olaraq hökmdarı və ya zadəgani əyləndirmək üçün işə götürülən peşəkar zarafatçı və ya axmaq.",
+        "descriptionUK": "Професійний жартівник або дурень, історично найнятий для розваги правителя або дворянина."
     }, {
         "de": "der Imbissstand",
         "en": "Snack stand",
         "ru": "Палатка с закусками",
+        "tr": "atıştırmalık standı",
+        "az": "qəlyanaltı köşkü",
+        "uk": "кіоск з закусками",
         "descriptionEN": "A small food stall or kiosk, typically selling snacks or quick meals.",
         "descriptionRU": "Небольшая закусочная или киоск, обычно продающий закуски или быстрые блюда.",
-        "descriptionDE": "Ein kleiner Imbissstand oder Kiosk, der in der Regel Snacks oder schnelle Mahlzeiten verkauft."
+        "descriptionDE": "Ein kleiner Imbissstand oder Kiosk, der in der Regel Snacks oder schnelle Mahlzeiten verkauft.",
+        "descriptionTR": "Genellikle atıştırmalık veya hızlı yemek satan küçük yemek tezgahı veya köşk.",
+        "descriptionAZ": "Adətən qəlyanaltı və ya tez yemək satan kiçik yemək köşkü və ya köşk.",
+        "descriptionUK": "Невеликий продуктовий кіоск або стійка, що зазвичай продає закуски або швидкі страви."
     }, {
         "de": "die Brezel",
         "en": "Pretzel",
         "ru": "Крендель",
+        "tr": "simit",
+        "az": "simit",
+        "uk": "крендель",
         "descriptionEN": "A type of baked bread product made from dough most commonly shaped into a twisted knot.",
         "descriptionRU": "Вид выпечки из теста, обычно формируемого в завиток.",
-        "descriptionDE": "Eine Art gebackenes Brotprodukt aus Teig, das am häufigsten zu einem verdrehten Knoten geformt wird."
+        "descriptionDE": "Eine Art gebackenes Brotprodukt aus Teig, das am häufigsten zu einem verdrehten Knoten geformt wird.",
+        "descriptionTR": "Hamurdan yapılan, en yaygın olarak bükülmüş düğüm şeklinde şekillendirilen bir tür pişmiş ekmek ürünü.",
+        "descriptionAZ": "Xəmirdən hazırlanan, ən çox bükülmüş düyün şəklində formalaşdırılan bir növ bişmiş çörək məhsulu.",
+        "descriptionUK": "Тип випеченого хлібного продукту з тіста, найчастіше сформованого у вигляді скрученого вузла."
     }, {
         "de": "die Currywurst",
         "en": "Currywurst",
         "ru": "Карривурст",
+        "tr": "köri sosisli",
+        "az": "köri sosisi",
+        "uk": "карі-ковбаса",
         "descriptionEN": "A German fast food dish consisting of pork sausage seasoned with curry ketchup.",
         "descriptionRU": "Немецкое фастфуд-блюдо из свиного сосиска с приправленным кетчупом с карри.",
-        "descriptionDE": "Ein deutsches Fast-Food-Gericht, bestehend aus Schweinswurst, gewürzt mit Curryketchup."
+        "descriptionDE": "Ein deutsches Fast-Food-Gericht, bestehend aus Schweinswurst, gewürzt mit Curryketchup.",
+        "descriptionTR": "Köri ketçapla baharatlanmış domuz sosisinden oluşan Alman fast food yemeği.",
+        "descriptionAZ": "Köri ketçapla ədviyyatlanmış donuz sosisindən ibarət Alman fast food yeməyi.",
+        "descriptionUK": "Німецька страва швидкого харчування, що складається зі свинячої ковбаси, приправленої карі-кетчупом."
     }, {
         "de": "die Luftschlange",
         "en": "Confetti streamer",
         "ru": "Конфетти-змейка",
+        "tr": "konfeti şeridi",
+        "az": "konfeti lenti",
+        "uk": "конфеті-стрічка",
         "descriptionEN": "A long, narrow strip of paper or foil used for festive decoration, typically thrown in celebration.",
         "descriptionRU": "Длинная узкая полоса бумаги или фольги, используемая для праздничного украшения, обычно бросаемая в знак празднования.",
-        "descriptionDE": "Ein langer, schmaler Streifen aus Papier oder Folie, der für festliche Dekoration verwendet wird und normalerweise zum Feiern geworfen wird."
+        "descriptionDE": "Ein langer, schmaler Streifen aus Papier oder Folie, der für festliche Dekoration verwendet wird und normalerweise zum Feiern geworfen wird.",
+        "descriptionTR": "Şenlik dekorasyonu için kullanılan, genellikle kutlama sırasında atılan uzun, dar kağıt veya folyo şeridi.",
+        "descriptionAZ": "Şənlik dekorasiyası üçün istifadə olunan, adətən bayram zamanı atılan uzun, dar kağız və ya folqa lenti.",
+        "descriptionUK": "Довга, вузька смужка паперу або фольги, що використовується для святкового декору, зазвичай кидається під час святкування."
     }, {
         "de": "die Waffel",
         "en": "Waffle",
         "ru": "Вафля",
+        "tr": "waffle",
+        "az": "vafli",
+        "uk": "вафля",
         "descriptionEN": "A batter-based mixture cooked between two patterned plates, creating a grid-like pattern.",
         "descriptionRU": "Тесто на основе теста, приготовленное между двумя узорными пластинами, создающее сетчатый узор.",
-        "descriptionDE": "Eine Teigmischung, die zwischen zwei gemusterten Platten gekocht wird und ein gitterartiges Muster erzeugt."
+        "descriptionDE": "Eine Teigmischung, die zwischen zwei gemusterten Platten gekocht wird und ein gitterartiges Muster erzeugt.",
+        "descriptionTR": "İki desenli plaka arasında pişirilen, ızgara benzeri desen oluşturan hamur bazlı karışım.",
+        "descriptionAZ": "İki naxışlı lövhə arasında bişirilən, şəbəkə kimi naxış yaradan xəmir əsaslı qarışıq.",
+        "descriptionUK": "Суміш на основі тіста, приготована між двома візерунчастими пластинами, створюючи сітчастий візерунок."
     }, {
         "de": "die Kamelle",
         "en": "Candy",
         "ru": "Конфеты",
+        "tr": "şeker",
+        "az": "şəkər",
+        "uk": "цукерки",
         "descriptionEN": "Small sweets or candies, often thrown into the crowd during parades or celebrations.",
         "descriptionRU": "Маленькие сладости или конфеты, часто бросаемые в толпу во время парадов или праздников.",
-        "descriptionDE": "Kleine Süßigkeiten oder Bonbons, oft in die Menge geworfen während Paraden oder Feierlichkeiten."
+        "descriptionDE": "Kleine Süßigkeiten oder Bonbons, oft in die Menge geworfen während Paraden oder Feierlichkeiten.",
+        "descriptionTR": "Genellikle geçit törenleri veya kutlamalar sırasında kalabalığa atılan küçük tatlılar veya şekerler.",
+        "descriptionAZ": "Adətən paradlar və ya bayramlar zamanı izdihamın arasına atılan kiçik şirniyyatlar və ya şəkərlər.",
+        "descriptionUK": "Маленькі солодощі або цукерки, часто кидаються в натовп під час парадів або святкувань."
     }, {
         "de": "das Lächeln",
         "en": "Smile",
         "ru": "Улыбка",
+        "tr": "gülümseme",
+        "az": "təbəssüm",
+        "uk": "посмішка",
         "descriptionEN": "A facial expression that indicates happiness, pleasure, or amusement.",
         "descriptionRU": "Мимическое выражение, указывающее на счастье, удовольствие или развлечение.",
-        "descriptionDE": "Ein Gesichtsausdruck, der Glück, Vergnügen oder Amüsement zeigt."
+        "descriptionDE": "Ein Gesichtsausdruck, der Glück, Vergnügen oder Amüsement zeigt.",
+        "descriptionTR": "Mutluluk, zevk veya eğlenceyi gösteren yüz ifadesi.",
+        "descriptionAZ": "Xoşbəxtlik, həzz və ya əyləncəni göstərən üz ifadəsi.",
+        "descriptionUK": "Вираз обличчя, що вказує на щастя, задоволення або розвагу."
     }, {
         "de": "der Hype",
         "en": "Hype",
         "ru": "Хайп",
+        "tr": "heyecan",
+        "az": "həyəcan",
+        "uk": "ажіотаж",
         "descriptionEN": "A widespread excitement or enthusiasm for a person, event, or trend.",
         "descriptionRU": "Общее возбуждение или энтузиазм по поводу человека, события или тренда.",
-        "descriptionDE": "Eine weit verbreitete Aufregung oder Begeisterung für eine Person, ein Ereignis oder einen Trend."
+        "descriptionDE": "Eine weit verbreitete Aufregung oder Begeisterung für eine Person, ein Ereignis oder einen Trend.",
+        "descriptionTR": "Bir kişi, olay veya trend için yaygın heyecan veya coşku.",
+        "descriptionAZ": "Bir şəxs, hadisə və ya trend üçün geniş yayılmış həyəcan və ya coşqu.",
+        "descriptionUK": "Широко поширене хвилювання або ентузіазм щодо особи, події або тренду."
     }, {
         "de": "die Freude",
         "en": "Joy",
         "ru": "Радость",
+        "tr": "sevinç",
+        "az": "sevinc",
+        "uk": "радість",
         "descriptionEN": "A feeling of great pleasure and happiness.",
         "descriptionRU": "Чувство большого удовольствия и счастья.",
-        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück."
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
+        "descriptionTR": "Büyük zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük həzz və xoşbəxtlik hissi.",
+        "descriptionUK": "Почуття великого задоволення та щастя."
     }, {
         "de": "die Gemeinschaft",
         "en": "Community",
         "ru": "Сообщество",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "спільнота",
         "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
         "descriptionRU": "Группа людей, живущих в одном месте или имеющих общую характеристику.",
-        "descriptionDE": "Eine Gruppe von Menschen, die an einem Ort leben oder eine gemeinsame Eigenschaft haben."
+        "descriptionDE": "Eine Gruppe von Menschen, die an einem Ort leben oder eine gemeinsame Eigenschaft haben.",
+        "descriptionTR": "Aynı yerde yaşayan veya ortak bir özelliği olan bir grup insan.",
+        "descriptionAZ": "Eyni yerdə yaşayan və ya ortaq xüsusiyyəti olan bir qrup insan.",
+        "descriptionUK": "Група людей, що живуть в одному місці або мають спільну характеристику."
     }, {
         "de": "die Tradition",
         "en": "Tradition",
         "ru": "Традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
         "descriptionRU": "Передача обычаев или убеждений от поколения к поколению.",
-        "descriptionDE": "Die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation."
+        "descriptionDE": "Die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation.",
+        "descriptionTR": "Geleneklerin veya inançların nesilden nesile aktarılması.",
+        "descriptionAZ": "Adət-ənənələrin və ya inancların nəsildən nəsilə ötürülməsi.",
+        "descriptionUK": "Передача звичаїв або вірувань від покоління до покоління."
     }, {
         "de": "der Karnevalsgeist",
         "en": "Carnival spirit",
         "ru": "Дух карнавала",
+        "tr": "karnaval ruhu",
+        "az": "karnaval ruhu",
+        "uk": "дух карнавалу",
         "descriptionEN": "The lively and festive atmosphere associated with carnival celebrations.",
         "descriptionRU": "Живая и праздничная атмосфера, связанная с карнавальными празднованиями.",
-        "descriptionDE": "Die lebhafte und festliche Atmosphäre, die mit Karnevalsfeiern verbunden ist."
+        "descriptionDE": "Die lebhafte und festliche Atmosphäre, die mit Karnevalsfeiern verbunden ist.",
+        "descriptionTR": "Karnaval kutlamalarıyla ilişkili canlı ve şenlikli atmosfer.",
+        "descriptionAZ": "Karnaval bayramları ilə əlaqəli canlı və şənlikli atmosfer.",
+        "descriptionUK": "Жвава та святкова атмосфера, пов'язана з карнавальними святкуваннями."
     }, {
         "de": "die Jahreszeit",
         "en": "Season",
         "ru": "Сезон",
+        "tr": "mevsim",
+        "az": "mövsüm",
+        "uk": "сезон",
         "descriptionEN": "A division of the year marked by changes in weather, ecology, and amount of daylight.",
         "descriptionRU": "Период года, отмеченный изменениями в погоде, экологии и продолжительности светового дня.",
-        "descriptionDE": "Eine Unterteilung des Jahres, gekennzeichnet durch Veränderungen in Wetter, Ökologie und Tageslicht."
+        "descriptionDE": "Eine Unterteilung des Jahres, gekennzeichnet durch Veränderungen in Wetter, Ökologie und Tageslicht.",
+        "descriptionTR": "Hava durumu, ekoloji ve gün ışığı miktarındaki değişikliklerle işaretlenen yılın bir bölümü.",
+        "descriptionAZ": "Hava şəraiti, ekologiya və gün işığının miqdarındakı dəyişikliklərlə qeyd olunan ilin bir hissəsi.",
+        "descriptionUK": "Поділ року, що відзначається змінами в погоді, екології та кількості денного світла."
     }, {
         "de": "die Aufregung",
         "en": "Excitement",
         "ru": "Возбуждение",
+        "tr": "heyecan",
+        "az": "həyəcan",
+        "uk": "збудження",
         "descriptionEN": "A state of being emotionally aroused, stirred up, or agitated.",
         "descriptionRU": "Состояние эмоционального волнения, взволнованности или возбуждения.",
-        "descriptionDE": "Ein Zustand der emotionalen Erregung, Aufregung oder Unruhe."
+        "descriptionDE": "Ein Zustand der emotionalen Erregung, Aufregung oder Unruhe.",
+        "descriptionTR": "Duygusal olarak uyarılmış, heyecanlanmış veya ajite olmuş bir durum.",
+        "descriptionAZ": "Emosional olaraq oyandırılmış, həyəcanlanmış və ya təşvişli vəziyyət.",
+        "descriptionUK": "Стан емоційного збудження, схвильованості або ажитації."
     }, {
         "de": "das Verständnis",
         "en": "Understanding",
         "ru": "Понимание",
+        "tr": "anlayış",
+        "az": "anlayış",
+        "uk": "розуміння",
         "descriptionEN": "The ability to comprehend, grasp, or make sense of something.",
         "descriptionRU": "Способность постигать, понимать или воспринимать что-то.",
-        "descriptionDE": "Die Fähigkeit, etwas zu begreifen, zu verstehen oder Sinn zu machen."
+        "descriptionDE": "Die Fähigkeit, etwas zu begreifen, zu verstehen oder Sinn zu machen.",
+        "descriptionTR": "Bir şeyi kavrama, anlama veya anlamlandırma yeteneği.",
+        "descriptionAZ": "Bir şeyi dərk etmək, anlamaq və ya mənasını çıxarmaq qabiliyyəti.",
+        "descriptionUK": "Здатність осягнути, зрозуміти або надати сенс чомусь."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionEN": "The ideas, customs, and social behavior of a particular people or society.",
         "descriptionRU": "Идеи, обычаи и социальное поведение определенного народа или общества.",
-        "descriptionDE": "Die Ideen, Bräuche und soziales Verhalten einer bestimmten Bevölkerung oder Gesellschaft."
+        "descriptionDE": "Die Ideen, Bräuche und soziales Verhalten einer bestimmten Bevölkerung oder Gesellschaft.",
+        "descriptionTR": "Belirli bir halkın veya toplumun fikirleri, gelenekleri ve sosyal davranışları.",
+        "descriptionAZ": "Müəyyən bir xalqın və ya cəmiyyətin fikirləri, adətləri və sosial davranışları.",
+        "descriptionUK": "Ідеї, звичаї та соціальна поведінка певного народу або суспільства."
     }, {
         "de": "der Duft",
         "en": "Scent",
         "ru": "Аромат",
+        "tr": "koku",
+        "az": "ətir",
+        "uk": "аромат",
         "descriptionEN": "A distinctive, often pleasant, smell or fragrance.",
         "descriptionRU": "Характерный, часто приятный, запах или аромат.",
-        "descriptionDE": "Ein charakteristischer, oft angenehmer Geruch oder Duft."
+        "descriptionDE": "Ein charakteristischer, oft angenehmer Geruch oder Duft.",
+        "descriptionTR": "Ayırt edici, genellikle hoş bir koku veya parfüm.",
+        "descriptionAZ": "Fərqli, adətən xoş bir qoxu və ya ətir.",
+        "descriptionUK": "Характерний, часто приємний запах або аромат."
     }, {
         "de": "aufwachen",
         "en": "to wake up",
         "ru": "пробуждаться",
+        "tr": "uyanmak",
+        "az": "oyanmaq",
+        "uk": "прокидатися",
         "descriptionEN": "To rouse from sleep, become awake.",
         "descriptionRU": "Пробудиться от сна, прийти в сознание.",
-        "descriptionDE": "Aus dem Schlaf aufwachen, erwachen."
+        "descriptionDE": "Aus dem Schlaf aufwachen, erwachen.",
+        "descriptionTR": "Uykudan kalkmak, uyanık hale gelmek.",
+        "descriptionAZ": "Yuxudan oyanmaq, oyaq vəziyyətə gəlmək.",
+        "descriptionUK": "Прокинутися від сну, стати неспляче."
     }, {
         "de": "hinausschauen",
         "en": "to look out",
         "ru": "выглядывать",
+        "tr": "dışarı bakmak",
+        "az": "çölə baxmaq",
+        "uk": "виглядати назовні",
         "descriptionEN": "To gaze or peer outside, typically through a window or opening.",
         "descriptionRU": "Смотреть или выглядывать наружу, обычно через окно или отверстие.",
-        "descriptionDE": "Nach draußen schauen, normalerweise durch ein Fenster oder eine Öffnung."
+        "descriptionDE": "Nach draußen schauen, normalerweise durch ein Fenster oder eine Öffnung.",
+        "descriptionTR": "Genellikle bir pencere veya açıklıktan dışarıya bakmak veya gözetlemek.",
+        "descriptionAZ": "Adətən pəncərə və ya açılışdan çölə baxmaq və ya nəzər salmaq.",
+        "descriptionUK": "Дивитися або зазирати назовні, зазвичай через вікно або отвір."
     }, {
         "de": "anziehen",
         "en": "to put on (clothes)",
         "ru": "надевать (одежду)",
+        "tr": "giymek",
+        "az": "geyinmək",
+        "uk": "одягати",
         "descriptionEN": "To dress oneself by putting on clothes.",
         "descriptionRU": "Одеться, надевая одежду.",
-        "descriptionDE": "Sich anziehen, indem man Kleidung anlegt."
+        "descriptionDE": "Sich anziehen, indem man Kleidung anlegt.",
+        "descriptionTR": "Kıyafet giyerek kendini giydirmek.",
+        "descriptionAZ": "Paltar geyərək özünü geyindirmək.",
+        "descriptionUK": "Одягатися, надягаючи одяг."
     }, {
         "de": "machen",
         "en": "to do",
         "ru": "делать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionEN": "To perform an action or activity.",
         "descriptionRU": "Выполнять действие или деятельность.",
-        "descriptionDE": "Eine Handlung oder Tätigkeit ausführen."
+        "descriptionDE": "Eine Handlung oder Tätigkeit ausführen.",
+        "descriptionTR": "Bir eylem veya aktivite gerçekleştirmek.",
+        "descriptionAZ": "Bir hərəkət və ya fəaliyyət yerinə yetirmək.",
+        "descriptionUK": "Виконувати дію або діяльність."
     }, {
         "de": "gehen",
         "en": "to go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
         "descriptionEN": "To move or travel from one place to another.",
         "descriptionRU": "Двигаться или путешествовать из одного места в другое.",
-        "descriptionDE": "Sich von einem Ort zum anderen bewegen oder reisen."
+        "descriptionDE": "Sich von einem Ort zum anderen bewegen oder reisen.",
+        "descriptionTR": "Bir yerden başka bir yere hareket etmek veya seyahat etmek.",
+        "descriptionAZ": "Bir yerdən başqa yerə hərəkət etmək və ya səyahət etmək.",
+        "descriptionUK": "Рухатися або подорожувати з одного місця в інше."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "bayram etmək",
+        "uk": "святкувати",
         "descriptionEN": "To observe or engage in festivities to mark a special occasion.",
         "descriptionRU": "Отмечать или участвовать в празднествах по случаю особого события.",
-        "descriptionDE": "Festlichkeiten beobachten oder sich daran beteiligen, um einen besonderen Anlass zu feiern."
+        "descriptionDE": "Festlichkeiten beobachten oder sich daran beteiligen, um einen besonderen Anlass zu feiern.",
+        "descriptionTR": "Özel bir durumu işaretlemek için şenlikleri gözlemlemek veya katılmak.",
+        "descriptionAZ": "Xüsusi bir hadisəni qeyd etmək üçün şənlikləri müşahidə etmək və ya iştirak etmək.",
+        "descriptionUK": "Спостерігати або брати участь у святкуваннях з нагоди особливої події."
     }, {
         "de": "schnell",
         "en": "quick",
         "ru": "быстро",
+        "tr": "hızlı",
+        "az": "tez",
+        "uk": "швидко",
         "descriptionEN": "Moving or happening with great speed; rapid.",
         "descriptionRU": "Двигающийся или происходящий с большой скоростью; быстрый.",
-        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell."
+        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell.",
+        "descriptionTR": "Büyük hızla hareket eden veya gerçekleşen; hızlı.",
+        "descriptionAZ": "Böyük sürətlə hərəkət edən və ya baş verən; tez.",
+        "descriptionUK": "Що рухається або відбувається з великою швидкістю; швидкий."
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "взволнованный",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "схвильований",
         "descriptionEN": "Having strong, enthusiastic emotions or anticipation.",
         "descriptionRU": "Имеющий сильные, восторженные эмоции или предвкушение.",
-        "descriptionDE": "Starke, enthusiastische Emotionen oder Vorfreude haben."
+        "descriptionDE": "Starke, enthusiastische Emotionen oder Vorfreude haben.",
+        "descriptionTR": "Güçlü, coşkulu duygulara veya beklentiye sahip olmak.",
+        "descriptionAZ": "Güclü, həvəsli duyğulara və ya gözləntiyə sahib olmaq.",
+        "descriptionUK": "Мати сильні, ентузіастичні емоції або очікування."
     }, {
         "de": "schnell",
         "en": "quick",
         "ru": "быстро",
+        "tr": "hızlı",
+        "az": "tez",
+        "uk": "швидко",
         "descriptionEN": "Moving or happening with great speed; rapid.",
         "descriptionRU": "Двигающийся или происходящий с большой скоростью; быстрый.",
-        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell."
+        "descriptionDE": "Sich mit großer Geschwindigkeit bewegend oder ereignend; schnell.",
+        "descriptionTR": "Büyük hızla hareket eden veya gerçekleşen; hızlı.",
+        "descriptionAZ": "Böyük sürətlə hərəkət edən və ya baş verən; tez.",
+        "descriptionUK": "Що рухається або відбувається з великою швидкістю; швидкий."
     }, {
         "de": "elektrisierend",
         "en": "electrifying",
         "ru": "захватывающий",
+        "tr": "elektrikleyici",
+        "az": "həyəcanlandırıcı",
+        "uk": "електризуючий",
         "descriptionEN": "Causing excitement or thrill; stimulating.",
         "descriptionRU": "Вызывающий волнение или восторг; стимулирующий.",
-        "descriptionDE": "Aufregend oder aufregend; anregend."
+        "descriptionDE": "Aufregend oder aufregend; anregend.",
+        "descriptionTR": "Heyecan veya coşku yaratan; uyarıcı.",
+        "descriptionAZ": "Həyəcan və ya coşqu yaradan; stimullaşdırıcı.",
+        "descriptionUK": "Що викликає хвилювання або трепет; стимулюючий."
     }, {
         "de": "erstaunlich",
         "en": "amazing",
         "ru": "удивительный",
+        "tr": "şaşırtıcı",
+        "az": "heyrətamiz",
+        "uk": "дивовижний",
         "descriptionEN": "Causing wonder, surprise, or astonishment.",
         "descriptionRU": "Вызывающий удивление, удивление или изумление.",
-        "descriptionDE": "Erstaunen, Überraschung oder Erstaunen hervorrufend."
+        "descriptionDE": "Erstaunen, Überraschung oder Erstaunen hervorrufend.",
+        "descriptionTR": "Merak, sürpriz veya hayret uyandıran.",
+        "descriptionAZ": "Təəccüb, sürpriz və ya heyrət yaradan.",
+        "descriptionUK": "Що викликає подив, здивування або подив."
     }, {
         "de": "herzerwärmend",
         "en": "heartwarming",
         "ru": "сердечный",
+        "tr": "yürek ısıtan",
+        "az": "ürək isidan",
+        "uk": "зігріваючий серце",
         "descriptionEN": "Eliciting warmth and positive emotions, especially love and compassion.",
         "descriptionRU": "Вызывающий теплоту и положительные эмоции, особенно любовь и сострадание.",
-        "descriptionDE": "Wärme und positive Emotionen hervorrufend, insbesondere Liebe und Mitgefühl."
+        "descriptionDE": "Wärme und positive Emotionen hervorrufend, insbesondere Liebe und Mitgefühl.",
+        "descriptionTR": "Sıcaklık ve olumlu duygular, özellikle sevgi ve şefkat uyandıran.",
+        "descriptionAZ": "İstilik və müsbət duyğular, xüsusilə sevgi və mərhəmət oyadan.",
+        "descriptionUK": "Що викликає тепло та позитивні емоції, особливо любов і співчуття."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабвенный",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
         "descriptionEN": "Leaving a deep and lasting impression; not easily forgotten.",
         "descriptionRU": "Оставляющий глубокое и долговременное впечатление; не легко забываемый.",
-        "descriptionDE": "Ein tiefes und bleibendes Eindruck hinterlassend; nicht leicht zu vergessen."
+        "descriptionDE": "Ein tiefes und bleibendes Eindruck hinterlassend; nicht leicht zu vergessen.",
+        "descriptionTR": "Derin ve kalıcı bir izlenim bırakan; kolayca unutulmayan.",
+        "descriptionAZ": "Dərin və davamlı təəssürat buraxan; asanlıqla unudulmayan.",
+        "descriptionUK": "Що залишає глибоке та тривале враження; нелегко забувається."
     }
 ]

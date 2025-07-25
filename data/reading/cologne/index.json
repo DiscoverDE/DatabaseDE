@@ -3,12 +3,18 @@
         "name": {
             "de": "Stolpersteine",
             "en": "Stumbling blocks",
-            "ru": "Камни преткновения"
+            "ru": "Камни преткновения",
+            "tr": "Tökezleme taşları",
+            "az": "Büdrəmə daşları",
+            "uk": "Камені спотикання"
         },
         "description": {
             "de": "Enthüllung von Erinnerungen auf Straßen",
             "en": "Unveiling Memories on Streets",
-            "ru": "Воспоминания на улицах"
+            "ru": "Воспоминания на улицах",
+            "tr": "Sokaklarda Anıları Ortaya Çıkarmak",
+            "az": "Küçələrdə Xatirələri Açmaq",
+            "uk": "Розкриття спогадів на вулицях"
         },
         "level": "A2",
         "image": "Stolpersteine.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "de": "Fremde im Dom",
             "en": "Strangers in the cathedral",
-            "ru": "Незнакомцы в соборе"
+            "ru": "Незнакомцы в соборе",
+            "tr": "Katedraldeki Yabancılar",
+            "az": "Kafedraldakı Qəriblər",
+            "uk": "Незнайомці у соборі"
         },
         "description": {
             "de": "Zufällige Freundschaft",
             "en": "Accidental Friendship",
-            "ru": "Случайная дружба"
+            "ru": "Случайная дружба",
+            "tr": "Tesadüfi Dostluk",
+            "az": "Təsadüfi Dostluq",
+            "uk": "Випадкова дружба"
         },
         "level": "A2",
         "image": "Fremde_im_Dom.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "de": "Verlorene Brieftasche",
             "en": "Lost Wallet",
-            "ru": "Потерянный кошелек"
+            "ru": "Потерянный кошелек",
+            "tr": "Kayıp Cüzdan",
+            "az": "İtirilmiş Pulqabı",
+            "uk": "Загублений гаманець"
         },
         "description": {
             "de": "Unerwartete Anleihen",
             "en": "Unexpected Bonds",
-            "ru": "Неожиданные узы"
+            "ru": "Неожиданные узы",
+            "tr": "Beklenmedik Bağlar",
+            "az": "Gözlənilməz Əlaqələr",
+            "uk": "Несподівані зв'язки"
         },
         "level": "A2",
         "image": "Lost_Wallet.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "de": "Köln im Dialog",
             "en": "Cologne in Dialogue",
-            "ru": "Кёльн в диалоге"
+            "ru": "Кёльн в диалоге",
+            "tr": "Diyalogda Köln",
+            "az": "Dialoqda Köln",
+            "uk": "Кельн у діалозі"
         },
         "description": {
             "en": "People and Their Favorite Places",
             "de": "Menschen und ihre Lieblingsplätze",
-            "ru": "Люди и их любимые места"
+            "ru": "Люди и их любимые места",
+            "tr": "İnsanlar ve En Sevdiği Yerler",
+            "az": "İnsanlar və Onların Sevimli Yerləri",
+            "uk": "Люди та їх улюблені місця"
         },
         "level": "A2",
         "image": "Dialog.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "de": "Wilde Entdeckungen",
             "en": "Wild Explorations",
-            "ru": "Дикие исследования"
+            "ru": "Дикие исследования",
+            "tr": "Vahşi Keşifler",
+            "az": "Vəhşi Kəşflər",
+            "uk": "Дикі дослідження"
         },
         "description": {
             "en": "Adventure in Animal Kingdom",
             "de": "Abenteuer im Tierreich",
-            "ru": "Приключение в мире животных"
+            "ru": "Приключение в мире животных",
+            "tr": "Hayvan Krallığında Macera",
+            "az": "Heyvanlar Aləmində Macəra",
+            "uk": "Пригода у світі тварин"
         },
         "level": "A2",
         "image": "Zoopark.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "de": "Köln erkunden I",
             "en": "Exploring Cologne I",
-            "ru": "Знакомство с Кельном I"
+            "ru": "Знакомство с Кельном I",
+            "tr": "Köln'ü Keşfetmek I",
+            "az": "Kölnü Kəşf Etmək I",
+            "uk": "Знайомство з Кельном I"
         },
         "description": {
             "de": "Stadtführer",
             "en": "City Guide",
-            "ru": "Путеводитель"
+            "ru": "Путеводитель",
+            "tr": "Şehir Rehberi",
+            "az": "Şəhər Bələdçisi",
+            "uk": "Міський путівник"
         },
         "level": "B1",
         "image": "Cologne_Erkunden_I.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "de": "Köln erkunden II",
             "en": "Exploring Cologne II",
-            "ru": "Знакомство с Кельном II"
+            "ru": "Знакомство с Кельном II",
+            "tr": "Köln'ü Keşfetmek II",
+            "az": "Kölnü Kəşf Etmək II",
+            "uk": "Знайомство з Кельном II"
         },
         "description": {
             "de": "Stadtführer",
             "en": "City Guide",
-            "ru": "Путеводитель"
+            "ru": "Путеводитель",
+            "tr": "Şehir Rehberi",
+            "az": "Şəhər Bələdçisi",
+            "uk": "Міський путівник"
         },
         "level": "B1",
         "image": "Cologne_Erkunden_II.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "de": "Köln erkunden III",
             "en": "Exploring Cologne III",
-            "ru": "Знакомство с Кельном III"
+            "ru": "Знакомство с Кельном III",
+            "tr": "Köln'ü Keşfetmek III",
+            "az": "Kölnü Kəşf Etmək III",
+            "uk": "Знайомство з Кельном III"
         },
         "description": {
             "de": "Stadtführer",
             "en": "City Guide",
-            "ru": "Путеводитель"
+            "ru": "Путеводитель",
+            "tr": "Şehir Rehberi",
+            "az": "Şəhər Bələdçisi",
+            "uk": "Міський путівник"
         },
         "level": "B1",
         "image": "Cologne_Erkunden_III.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "en": "Panda Surprise",
             "de": "Panda-Überraschung",
-            "ru": "Пандовый сюрприз"
+            "ru": "Пандовый сюрприз",
+            "tr": "Panda Sürprizi",
+            "az": "Panda Sürprizi",
+            "uk": "Панда-сюрприз"
         },
-        "description":  {
+        "description": {
             "en": "Unexpected zoo encounter",
             "de": "Unerwartete Zoo-Begegnung",
-            "ru": "Неожиданная встреча в зоопарке"
+            "ru": "Неожиданная встреча в зоопарке",
+            "tr": "Beklenmedik Hayvanat Bahçesi Karşılaşması",
+            "az": "Gözlənilməz Zoopark Görüşü",
+            "uk": "Несподівана зустріч у зоопарку"
         },
         "level": "B1",
         "image": "Magic.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "de": "Kölner Dom",
             "en": "Cologne cathedral",
-            "ru": "Кельнский собор"
+            "ru": "Кельнский собор",
+            "tr": "Köln Katedrali",
+            "az": "Köln Kafedralı",
+            "uk": "Кельнський собор"
         },
         "description": {
             "en": "Gothic architectural marvel",
             "de": "Gotisches Architekturwunder",
-            "ru": "Готическое архитектурное чудо"
+            "ru": "Готическое архитектурное чудо",
+            "tr": "Gotik Mimari Harikası",
+            "az": "Qotik Memarlıq Möcüzəsi",
+            "uk": "Готичне архітектурне диво"
         },
         "level": "B1",
         "image": "Dom.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "de": "Köln gegen Düsseldorf",
             "en": "Cologne vs. Düsseldorf",
-            "ru": "Кёльн против Дюссельдорфа"
+            "ru": "Кёльн против Дюссельдорфа",
+            "tr": "Köln vs. Düsseldorf",
+            "az": "Köln vs. Düsseldorf",
+            "uk": "Кельн проти Дюссельдорфа"
         },
         "description": {
             "de": "Zwei deutsche Städte im Vergleich",
             "en": "A Tale of Two German Cities",
-            "ru": "История двух немецких городов"
+            "ru": "История двух немецких городов",
+            "tr": "İki Alman Şehrinin Hikayesi",
+            "az": "İki Alman Şəhərinin Hekayəsi",
+            "uk": "Історія двох німецьких міст"
         },
         "level": "B2",
         "image": "KoelnDus.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "de": "Kölsch",
             "en": "Kölsch",
-            "ru": "Kölsch"
+            "ru": "Kölsch",
+            "tr": "Kölsch",
+            "az": "Kölsch",
+            "uk": "Kölsch"
         },
         "description": {
             "de": "Kölner Bierboom",
             "en": "Cologne beer boom",
-            "ru": "Кельнский пивной бум"
+            "ru": "Кельнский пивной бум",
+            "tr": "Köln Bira Patlaması",
+            "az": "Köln Pivə Bumu",
+            "uk": "Кельнський пивний бум"
         },
         "level": "B2",
         "image": "Bierboom.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "de": "FC Köln",
             "en": "FC Köln",
-            "ru": "ФК Кёльн"
+            "ru": "ФК Кёльн",
+            "tr": "FC Köln",
+            "az": "FC Köln",
+            "uk": "ФК Кельн"
         },
         "description": {
             "de": "Von den Anfängen bis zur Gegenwart",
             "en": "From Its Beginnings to the Present",
-            "ru": "От первых шагов до наших дней"
+            "ru": "От первых шагов до наших дней",
+            "tr": "Başlangıcından Günümüze",
+            "az": "Başlanğıcından Günümüzə",
+            "uk": "Від перших кроків до наших днів"
         },
         "level": "B2",
         "image": "FC_Koeln.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "de": "Weihnachtsbräuche",
             "en": "Christmas Traditions",
-            "ru": "Рождественские традиции"
+            "ru": "Рождественские традиции",
+            "tr": "Noel Gelenekleri",
+            "az": "Milad Adətləri",
+            "uk": "Різдвяні традиції"
         },
         "description": {
             "en": "Customs and Celebrations",
             "de": "Traditionen und Festlichkeiten",
-            "ru": "Обычаи and празднования"
+            "ru": "Обычаи и празднования",
+            "tr": "Gelenekler ve Kutlamalar",
+            "az": "Adətlər və Bayramlar",
+            "uk": "Звичаї та святкування"
         },
         "level": "B2",
         "image": "Christmas.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "en": "Spirit Guardians",
             "de": "Geisterwächter",
-            "ru": "Стражи духов"
+            "ru": "Стражи духов",
+            "tr": "Ruh Muhafızları",
+            "az": "Ruh Mühafizəçiləri",
+            "uk": "Вартові духів"
         },
         "description": {
             "de": "Nächtliche Begegnungen",
             "en": "Night Encounters",
-            "ru": "Ночные встречи"
+            "ru": "Ночные встречи",
+            "tr": "Gece Karşılaşmaları",
+            "az": "Gecə Görüşləri",
+            "uk": "Нічні зустрічі"
         },
         "level": "B2",
         "image": "Athletes.jpg",

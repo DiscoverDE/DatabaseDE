@@ -3,169 +3,336 @@
         "de": "der Tourist",
         "en": "tourist",
         "ru": "турист",
+        "tr": "turist",
+        "az": "turist",
+        "uk": "турист",
         "descriptionEN": "a person who is traveling or visiting a place for pleasure",
         "descriptionRU": "человек, который путешествует или посещает место для удовольствия",
-        "descriptionDE": "eine Person, die reist oder einen Ort zum Vergnügen besucht"
-    }, {
+        "descriptionDE": "eine Person, die reist oder einen Ort zum Vergnügen besucht",
+        "descriptionTR": "zevk için seyahat eden veya bir yeri ziyaret eden kişi",
+        "descriptionAZ": "əyləncə üçün səyahət edən və ya bir yeri ziyarət edən insan",
+        "descriptionUK": "людина, яка подорожує або відвідує місце для задоволення"
+    },
+    {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "the pervading tone or mood of a place, situation, or work of art",
         "descriptionRU": "преобладающий тон или настроение места, ситуации или произведения искусства",
-        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks"
-    }, {
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines Kunstwerks",
+        "descriptionTR": "bir yerin, durumun veya sanat eserinin hakim tonu veya ruh hali",
+        "descriptionAZ": "bir yerin, vəziyyətin və ya sənət əsərinin hakim tonu və ya əhval-ruhiyyəsi",
+        "descriptionUK": "переважаючий тон або настрій місця, ситуації чи твору мистецтва"
+    },
+    {
         "de": "der Besucher",
         "en": "visitor",
         "ru": "посетитель",
+        "tr": "ziyaretçi",
+        "az": "ziyarətçi",
+        "uk": "відвідувач",
         "descriptionEN": "a person who visits a place, especially on a temporary basis",
         "descriptionRU": "человек, который посещает место, особенно временно",
-        "descriptionDE": "eine Person, die einen Ort besucht, insbesondere vorübergehend"
-    }, {
+        "descriptionDE": "eine Person, die einen Ort besucht, insbesondere vorübergehend",
+        "descriptionTR": "bir yeri, özellikle geçici olarak ziyaret eden kişi",
+        "descriptionAZ": "bir yeri, xüsusən müvəqqəti olaraq ziyarət edən insan",
+        "descriptionUK": "людина, яка відвідує місце, особливо тимчасово"
+    },
+    {
         "de": "der Komponist",
         "en": "composer",
         "ru": "композитор",
+        "tr": "besteci",
+        "az": "bəstəkar",
+        "uk": "композитор",
         "descriptionEN": "a person who writes music, especially as a professional occupation",
         "descriptionRU": "человек, который пишет музыку, особенно как профессиональное занятие",
-        "descriptionDE": "eine Person, die Musik komponiert, insbesondere als berufliche Tätigkeit"
-    }, {
+        "descriptionDE": "eine Person, die Musik komponiert, insbesondere als berufliche Tätigkeit",
+        "descriptionTR": "özellikle profesyonel bir meslek olarak müzik yazan kişi",
+        "descriptionAZ": "xüsusən peşəkar bir məşğuliyyət olaraq musiqi yazan insan",
+        "descriptionUK": "людина, яка пише музику, особливо як професійне заняття"
+    },
+    {
         "de": "die Sammlung",
         "en": "collection",
         "ru": "коллекция",
+        "tr": "koleksiyon",
+        "az": "kolleksiya",
+        "uk": "колекція",
         "descriptionEN": "a group of objects or works to be seen, studied, or kept together",
         "descriptionRU": "группа объектов или произведений, которые должны быть просмотрены, изучены или сохранены вместе",
-        "descriptionDE": "eine Gruppe von Objekten oder Werken, die gemeinsam betrachtet, studiert oder aufbewahrt werden sollen"
-    }, {
+        "descriptionDE": "eine Gruppe von Objekten oder Werken, die gemeinsam betrachtet, studiert oder aufbewahrt werden sollen",
+        "descriptionTR": "görülecek, incelenecek veya bir arada tutulacak nesne veya eser grubu",
+        "descriptionAZ": "görüləcək, öyrəniləcək və ya bir yerdə saxlanılacaq əşya və ya əsərlər qrupu",
+        "descriptionUK": "група об'єктів або творів, які потрібно побачити, вивчити або зберігати разом"
+    },
+    {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "landşaft",
+        "uk": "ландшафт",
         "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal",
         "descriptionRU": "все видимые особенности района сельской местности или земли, часто рассматриваемые с точки зрения их эстетического воздействия",
-        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets von Landschaft oder Land, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet"
-    }, {
+        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets von Landschaft oder Land, oft im Hinblick auf ihre ästhetische Anziehungskraft betrachtet",
+        "descriptionTR": "kırsal veya arazinin tüm görünür özellikleri, genellikle estetik çekicilikleri açısından ele alınır",
+        "descriptionAZ": "kənd və ya torpaq sahəsinin bütün görünən xüsusiyyətləri, çox vaxt estetik cəlbediciliyi baxımından nəzərdən keçirilir",
+        "descriptionUK": "усі видимі особливості сільської місцевості або землі, часто розглядаються з точки зору їх естетичної привабливості"
+    },
+    {
         "de": "das Schloss",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
         "descriptionEN": "a large building typically fortified against attack with thick walls, battlements, towers, and in many cases a moat",
         "descriptionRU": "большое здание, обычно укрепленное против атаки толстыми стенами, бойницами, башнями и во многих случаях рва",
-        "descriptionDE": "ein großes Gebäude, das typischerweise gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Graben befestigt ist"
-    }, {
+        "descriptionDE": "ein großes Gebäude, das typischerweise gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Graben befestigt ist",
+        "descriptionTR": "tipik olarak kalın duvarlar, siperler, kuleler ve birçok durumda bir hendek ile saldırıya karşı güçlendirilmiş büyük bir bina",
+        "descriptionAZ": "tipik olaraq qalın divarlar, döyüş meydanları, qüllələr və bir çox halda xəndək ilə hücuma qarşı möhkəmləndirilmiş böyük bir bina",
+        "descriptionUK": "велика будівля, зазвичай укріплена проти нападу товстими стінами, зубцями, вежами та в багатьох випадках ровом"
+    },
+    {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
         "descriptionEN": "an educational institution designed for instruction, examination, or both, of students in many branches of advanced learning, conferring degrees in various faculties, and often embodying colleges and similar institutions",
         "descriptionRU": "образовательное учреждение, предназначенное для обучения, экзаменов или обоих, студентов во многих областях продвинутого обучения, присуждающее степени в различных факультетах и часто включающее колледжи и аналогичные учреждения",
-        "descriptionDE": "eine Bildungseinrichtung, die für die Unterrichtung, Prüfung oder beides von Studierenden in vielen Bereichen des fortgeschrittenen Lernens konzipiert ist, Abschlüsse in verschiedenen Fakultäten verleiht und oft Kollegien und ähnliche Einrichtungen verkörpert"
-    }, {
+        "descriptionDE": "eine Bildungseinrichtung, die für die Unterrichtung, Prüfung oder beides von Studierenden in vielen Bereichen des fortgeschrittenen Lernens konzipiert ist, Abschlüsse in verschiedenen Fakultäten verleiht und oft Kollegien und ähnliche Einrichtungen verkörpert",
+        "descriptionTR": "birçok ileri öğrenim dalında öğrencilere öğretim, sınav veya her ikisi için tasarlanmış, çeşitli fakültelerde derece veren ve genellikle kolejleri ve benzeri kurumları bünyesinde barındıran bir eğitim kurumu",
+        "descriptionAZ": "bir çox inkişaf etmiş öyrənmə sahələrində tələbələrə tədris, imtahan və ya hər ikisi üçün nəzərdə tutulmuş, müxtəlif fakültələrdə dərəcələr verən və çox vaxt kollecləri və oxşar qurumları özündə birləşdirən bir təhsil müəssisəsi",
+        "descriptionUK": "навчальний заклад, призначений для навчання, іспитів або обох, студентів у багатьох галузях поглибленого навчання, що присвоює ступені на різних факультетах і часто включає коледжі та подібні установи"
+    },
+    {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
+        "tr": "görünüm",
+        "az": "görünüş",
+        "uk": "вид",
         "descriptionEN": "the ability to see or the range of vision",
         "descriptionRU": "способность видеть или диапазон зрения",
-        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld"
-    }, {
+        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld",
+        "descriptionTR": "görme yeteneği veya görme aralığı",
+        "descriptionAZ": "görmə qabiliyyəti və ya görmə diapazonu",
+        "descriptionUK": "здатність бачити або діапазон зору"
+    },
+    {
         "de": "der Charme",
         "en": "charm",
         "ru": "очарование",
+        "tr": "çekicilik",
+        "az": "cazibə",
+        "uk": "чарівність",
         "descriptionEN": "the power or quality of giving delight or arousing admiration",
         "descriptionRU": "сила или качество, придающее восхищение или вызывающее восхищение",
-        "descriptionDE": "die Kraft oder Qualität, die Freude bereitet oder Bewunderung hervorruft"
-    }, {
+        "descriptionDE": "die Kraft oder Qualität, die Freude bereitet oder Bewunderung hervorruft",
+        "descriptionTR": "zevk veren veya hayranlık uyandıran güç veya kalite",
+        "descriptionAZ": "zövq verən və ya heyranlıq oyadan güc və ya keyfiyyət",
+        "descriptionUK": "сила або якість, що викликає захоплення або викликає захоплення"
+    },
+    {
         "de": "belebt",
         "en": "lively",
         "ru": "оживлённый",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
         "descriptionEN": "full of life and energy",
         "descriptionRU": "полный жизни и энергии",
-        "descriptionDE": "voll Leben und Energie"
-    }, {
+        "descriptionDE": "voll Leben und Energie",
+        "descriptionTR": "hayat ve enerji dolu",
+        "descriptionAZ": "həyat və enerji dolu",
+        "descriptionUK": "повний життя та енергії"
+    },
+    {
         "de": "prächtig",
         "en": "magnificent",
         "ru": "великолепный",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
         "descriptionEN": "impressively beautiful, elaborate, or extravagant",
         "descriptionRU": "впечатляюще красивый, замысловатый или экстравагантный",
-        "descriptionDE": "beeindruckend schön, aufwendig oder extravagant"
-    }, {
+        "descriptionDE": "beeindruckend schön, aufwendig oder extravagant",
+        "descriptionTR": "etkileyici derecede güzel, ayrıntılı veya abartılı",
+        "descriptionAZ": "təsirli dərəcədə gözəl, ətraflı və ya ekstravagant",
+        "descriptionUK": "вражаюче красивий, вишуканий або екстравагантний"
+    },
+    {
         "de": "mittelalterlich",
         "en": "medieval",
         "ru": "средневековый",
+        "tr": "orta çağ",
+        "az": "orta əsr",
+        "uk": "середньовічний",
         "descriptionEN": "relating to the Middle Ages",
         "descriptionRU": "относящийся к Средневековью",
-        "descriptionDE": "bezogen auf das Mittelalter"
-    }, {
+        "descriptionDE": "bezogen auf das Mittelalter",
+        "descriptionTR": "orta çağ ile ilgili",
+        "descriptionAZ": "orta əsrlərlə əlaqəli",
+        "descriptionUK": "що стосується Середньовіччя"
+    },
+    {
         "de": "bekannt",
         "en": "known",
         "ru": "известный",
+        "tr": "bilinen",
+        "az": "tanınmış",
+        "uk": "відомий",
         "descriptionEN": "recognized or familiar",
         "descriptionRU": "признанный или знакомый",
-        "descriptionDE": "anerkannt oder vertraut"
-    }, {
+        "descriptionDE": "anerkannt oder vertraut",
+        "descriptionTR": "tanınmış veya tanıdık",
+        "descriptionAZ": "tanınmış və ya tanış",
+        "descriptionUK": "визнаний або знайомий"
+    },
+    {
         "de": "beliebt",
         "en": "popular",
         "ru": "популярный",
+        "tr": "popüler",
+        "az": "populyar",
+        "uk": "популярний",
         "descriptionEN": "liked, admired, or enjoyed by many people or by a particular person or group",
         "descriptionRU": "нравится, восхищается или пользуется популярностью у многих людей или у определенного лица или группы",
-        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen"
-    }, {
+        "descriptionDE": "von vielen Menschen oder von einer bestimmten Person oder Gruppe gemocht, bewundert oder genossen",
+        "descriptionTR": "birçok kişi veya belirli bir kişi veya grup tarafından beğenilen, hayran kalınan veya zevk alınan",
+        "descriptionAZ": "bir çox insan və ya müəyyən bir insan və ya qrup tərəfindən bəyənilən, heyran olunan və ya zövq alınan",
+        "descriptionUK": "подобається, захоплюється або подобається багатьом людям або певній особі чи групі"
+    },
+    {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "benzersiz",
+        "az": "unikal",
+        "uk": "унікальний",
         "descriptionEN": "being the only one of its kind",
         "descriptionRU": "будучи единственным в своем роде",
-        "descriptionDE": "als einzigartig"
-    }, {
+        "descriptionDE": "als einzigartig",
+        "descriptionTR": "türünün tek örneği olmak",
+        "descriptionAZ": "növünün yeganə nümunəsi olmaq",
+        "descriptionUK": "єдиний у своєму роді"
+    },
+    {
         "de": "atemberaubend",
         "en": "breathtaking",
         "ru": "захватывающий дух",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий дух",
         "descriptionEN": "causing one to feel strong emotion",
         "descriptionRU": "вызывающий сильные эмоции",
-        "descriptionDE": "verursacht starke Emotionen"
-    }, {
+        "descriptionDE": "verursacht starke Emotionen",
+        "descriptionTR": "güçlü duygu hissettiren",
+        "descriptionAZ": "güclü duyğu hissi yaradan",
+        "descriptionUK": "викликає сильні емоції"
+    },
+    {
         "de": "charmant",
         "en": "charming",
         "ru": "очаровательный",
+        "tr": "çekici",
+        "az": "cazibədar",
+        "uk": "чарівний",
         "descriptionEN": "pleasant or attractive",
         "descriptionRU": "приятный или привлекательный",
-        "descriptionDE": "angenehm oder attraktiv"
-    }, {
+        "descriptionDE": "angenehm oder attraktiv",
+        "descriptionTR": "hoş veya çekici",
+        "descriptionAZ": "xoş və ya cəlbedici",
+        "descriptionUK": "приємний або привабливий"
+    },
+    {
         "de": "gemütlich",
         "en": "cozy",
         "ru": "уютный",
+        "tr": "rahat",
+        "az": "rahat",
+        "uk": "затишний",
         "descriptionEN": "giving a feeling of comfort, warmth, and relaxation",
         "descriptionRU": "дающий ощущение комфорта, тепла и расслабления",
-        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung"
-    }, {
+        "descriptionDE": "vermittelt ein Gefühl von Komfort, Wärme und Entspannung",
+        "descriptionTR": "konfor, sıcaklık ve rahatlama hissi veren",
+        "descriptionAZ": "rahatlıq, istilik və rahatlama hissi verən",
+        "descriptionUK": "дає відчуття комфорту, тепла та розслаблення"
+    },
+    {
         "de": "prächtig",
         "en": "splendid",
         "ru": "великолепный",
+        "tr": "görkemli",
+        "az": "gözəl",
+        "uk": "чудовий",
         "descriptionEN": "magnificent and impressive",
         "descriptionRU": "великолепный и впечатляющий",
-        "descriptionDE": "prächtig und beeindruckend"
-    }, {
+        "descriptionDE": "prächtig und beeindruckend",
+        "descriptionTR": "muhteşem ve etkileyici",
+        "descriptionAZ": "möhtəşəm və təsirli",
+        "descriptionUK": "чудовий і вражаючий"
+    },
+    {
         "de": "beliebt",
         "en": "favored",
         "ru": "предпочитаемый",
+        "tr": "tercih edilen",
+        "az": "üstünlük verilən",
+        "uk": "улюблений",
         "descriptionEN": "preferred or recommended",
         "descriptionRU": "предпочтительный или рекомендуемый",
-        "descriptionDE": "bevorzugt oder empfohlen"
-    }, {
+        "descriptionDE": "bevorzugt oder empfohlen",
+        "descriptionTR": "tercih edilen veya tavsiye edilen",
+        "descriptionAZ": "üstünlük verilən və ya tövsiyə edilən",
+        "descriptionUK": "кращий або рекомендований"
+    },
+    {
         "de": "urig",
         "en": "quaint",
         "ru": "живописный",
+        "tr": "ilginç",
+        "az": "qəribə",
+        "uk": "оригінальний",
         "descriptionEN": "attractively unusual or old-fashioned",
         "descriptionRU": "привлекательно необычный или старомодный",
-        "descriptionDE": "ansprechend ungewöhnlich oder altmodisch"
-    }, {
+        "descriptionDE": "ansprechend ungewöhnlich oder altmodisch",
+        "descriptionTR": "çekici bir şekilde sıra dışı veya eski moda",
+        "descriptionAZ": "cəlbedici şəkildə qeyri-adi və ya köhnə moda",
+        "descriptionUK": "привабливо незвичайний або старомодний"
+    },
+    {
         "de": "atemberaubend",
         "en": "stunning",
         "ru": "потрясающий",
+        "tr": "çarpıcı",
+        "az": "heyrətamiz",
+        "uk": "приголомшливий",
         "descriptionEN": "extremely impressive or attractive",
         "descriptionRU": "чрезвычайно впечатляющий или привлекательный",
-        "descriptionDE": "äußerst beeindruckend oder attraktiv"
-    }, {
+        "descriptionDE": "äußerst beeindruckend oder attraktiv",
+        "descriptionTR": "son derece etkileyici veya çekici",
+        "descriptionAZ": "son dərəcə təsirli və ya cəlbedici",
+        "descriptionUK": "надзвичайно вражаючий або привабливий"
+    },
+    {
         "de": "beliebt",
         "en": "well-liked",
         "ru": "популярный",
+        "tr": "beğenilen",
+        "az": "bəyənilən",
+        "uk": "улюблений",
         "descriptionEN": "enjoying or eliciting approval or favor",
         "descriptionRU": "наслаждение или вызывание одобрения или благосклонности",
-        "descriptionDE": "genießen oder hervorrufen von Zustimmung oder Gefallen"
+        "descriptionDE": "genießen oder hervorrufen von Zustimmung oder Gefallen",
+        "descriptionTR": "onay veya lütuf almak veya uyandırmak",
+        "descriptionAZ": "təsdiq və ya lütf almaq və ya oyandırmaq",
+        "descriptionUK": "насолоджуватися або викликати схвалення чи прихильність"
     }
 ]

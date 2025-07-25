@@ -3,120 +3,222 @@
         "de": "die Weihnachtszeit",
         "en": "Christmas time",
         "ru": "рождественское время",
+        "tr": "Noel zamanı",
+        "az": "Milad vaxtı",
+        "uk": "Різдвяний час",
         "descriptionDE": "Die Zeit um Weihnachten herum, gekennzeichnet durch festliche Dekorationen und Feierlichkeiten.",
         "descriptionEN": "The period of time around Christmas, characterized by festive decorations and celebrations.",
-        "descriptionRU": "Период времени вокруг Рождества, отмеченный праздничными украшениями и торжествами."
+        "descriptionRU": "Период времени вокруг Рождества, отмеченный праздничными украшениями и торжествами.",
+        "descriptionUK": "Період часу навколо Різдва, позначений святковими прикрасами та святкуваннями.",
+        "descriptionTR": "Noel etrafındaki zaman dilimi, tatil süslemeleri ve kutlamalarla karakterize edilir.",
+        "descriptionAZ": "Milad ətrafındakı zaman, bayram bəzəkləri və təntənələrlə xarakterizə olunur."
     }, {
         "de": "der Umzug",
         "en": "Move",
         "ru": "переезд",
+        "tr": "Taşınma",
+        "az": "Köçmə",
+        "uk": "Переїзд",
         "descriptionDE": "Der Prozess des Wechsels des Wohnsitzes von einem Ort zum anderen.",
         "descriptionEN": "The process of changing one's residence from one place to another.",
-        "descriptionRU": "Процесс изменения места жительства с одного места на другое."
+        "descriptionRU": "Процесс изменения места жительства с одного места на другое.",
+        "descriptionUK": "Процес зміни місця проживання з одного місця на інше.",
+        "descriptionTR": "Bir yerden başka bir yere ikametgah değiştirme süreci.",
+        "descriptionAZ": "Bir yerdən başqa bir yerə yaşayış yeri dəyişdirmə prosesi."
     }, {
         "de": "der Markt",
         "en": "Market",
         "ru": "рынок",
+        "tr": "Pazar",
+        "az": "Bazar",
+        "uk": "Ринок",
         "descriptionDE": "Ein öffentlicher Ort, an dem Waren gekauft und verkauft werden.",
         "descriptionEN": "A public space where goods are bought and sold.",
-        "descriptionRU": "Общественное место, где покупают и продают товары."
+        "descriptionRU": "Общественное место, где покупают и продают товары.",
+        "descriptionUK": "Громадське місце, де купують і продають товари.",
+        "descriptionTR": "Malların alınıp satıldığı bir halka açık alan.",
+        "descriptionAZ": "Malların alınıb satıldığı bir ictimai məkan."
     }, {
         "de": "der Duft",
         "en": "Scent",
         "ru": "запах",
+        "tr": "Koku",
+        "az": "Qoxu",
+        "uk": "Запах",
         "descriptionDE": "Ein charakteristischer Geruch, besonders ein angenehmer.",
         "descriptionEN": "A distinctive smell, especially a pleasant one.",
-        "descriptionRU": "Отличительный запах, особенно приятный."
+        "descriptionRU": "Отличительный запах, особенно приятный.",
+        "descriptionUK": "Відмінний запах, особливо приємний.",
+        "descriptionTR": "Özellikle hoş olan belirgin bir koku.",
+        "descriptionAZ": "Xüsusilə xoş olan fərqli bir qoxu."
     }, {
         "de": "das Konzert",
         "en": "Concert",
         "ru": "концерт",
+        "tr": "Konser",
+        "az": "Konsert",
+        "uk": "Концерт",
         "descriptionDE": "Eine musikalische Darbietung, bei der Musiker vor einem Publikum spielen.",
         "descriptionEN": "A musical performance where musicians play in front of an audience.",
-        "descriptionRU": "Музыкальное выступление, где музыканты играют перед публикой."
+        "descriptionRU": "Музыкальное выступление, где музыканты играют перед публикой.",
+        "descriptionUK": "Музичний виступ, де музиканти грають перед публікою.",
+        "descriptionTR": "Müzisyenlerin bir izleyici kitlesi önünde çaldığı bir müzik performansı.",
+        "descriptionAZ": "Musiqiçilərin tamaşaçı qarşısında ifa etdiyi bir musiqi performansı."
     }, {
         "de": "die Veranstaltung",
         "en": "Event",
         "ru": "мероприятие",
+        "tr": "Etkinlik",
+        "az": "Tədbir",
+        "uk": "Захід",
         "descriptionDE": "Eine geplante öffentliche oder gesellschaftliche Veranstaltung.",
         "descriptionEN": "A planned public or social occasion.",
-        "descriptionRU": "Запланированное общественное или социальное событие."
+        "descriptionRU": "Запланированное общественное или социальное событие.",
+        "descriptionUK": "Запланована громадська або соціальна подія.",
+        "descriptionTR": "Planlanmış bir halka açık veya sosyal etkinlik.",
+        "descriptionAZ": "Planlaşdırılmış bir ictimai və ya sosial tədbir."
     }, {
         "de": "die Gastfreundschaft",
         "en": "Hospitality",
         "ru": "гостеприимство",
+        "tr": "Misafirperverlik",
+        "az": "Qonaqpərəstlik",
+        "uk": "Гостинність",
         "descriptionDE": "Der freundliche und großzügige Empfang und die Unterhaltung von Gästen.",
         "descriptionEN": "The friendly and generous reception and entertainment of guests.",
-        "descriptionRU": "Дружелюбный и щедрый прием и развлечение гостей."
+        "descriptionRU": "Дружелюбный и щедрый прием и развлечение гостей.",
+        "descriptionUK": "Дружній і щедрий прийом та розваги гостей.",
+        "descriptionTR": "Misafirlerin dostane ve cömert bir şekilde karşılanması ve eğlendirilmesi.",
+        "descriptionAZ": "Qonaqların dostluq və səxavətlə qarşılanması və əyləndirilməsi."
     }, {
         "de": "die Freundlichkeit",
         "en": "Friendliness",
         "ru": "дружелюбие",
+        "tr": "Dostluk",
+        "az": "Dostluq",
+        "uk": "Дружелюбність",
         "descriptionDE": "Die Qualität, freundlich, angenehm und nett zu sein.",
         "descriptionEN": "The quality of being friendly, pleasant, and kind.",
-        "descriptionRU": "Качество быть дружелюбным, приятным и добрым."
+        "descriptionRU": "Качество быть дружелюбным, приятным и добрым.",
+        "descriptionUK": "Якість бути дружнім, приємним і добрим.",
+        "descriptionTR": "Dostça, hoş ve nazik olma niteliği.",
+        "descriptionAZ": "Dostluq, xoş və nəzakətli olma keyfiyyəti."
     }, {
         "de": "die Tradition",
         "en": "Tradition",
         "ru": "традиция",
+        "tr": "Gelenek",
+        "az": "Ənənə",
+        "uk": "Традиція",
         "descriptionDE": "Ein Brauch oder Glaube, der von Generation zu Generation weitergegeben wird.",
         "descriptionEN": "A custom or belief that is passed down from generation to generation.",
-        "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение."
+        "descriptionRU": "Обычай или убеждение, передаваемое из поколения в поколение.",
+        "descriptionUK": "Звичай або переконання, що передається з покоління в покоління.",
+        "descriptionTR": "Nesilden nesile aktarılan bir gelenek veya inanç.",
+        "descriptionAZ": "Nəsildən nəslə ötürülən bir adət və ya inanc."
     }, {
         "de": "die Bedeutung",
         "en": "Meaning",
         "ru": "значение",
+        "tr": "Anlam",
+        "az": "Məna",
+        "uk": "Значення",
         "descriptionDE": "Die Bedeutung oder Wichtigkeit von etwas.",
         "descriptionEN": "The significance or importance of something.",
-        "descriptionRU": "Значимость или важность чего-то."
+        "descriptionRU": "Значимость или важность чего-то.",
+        "descriptionUK": "Значущість або важливість чогось.",
+        "descriptionTR": "Bir şeyin önemi veya anlamı.",
+        "descriptionAZ": "Bir şeyin əhəmiyyəti və ya mənası."
     }, {
         "de": "freuen",
         "en": "to rejoice",
         "ru": "радоваться",
+        "tr": "sevinmek",
+        "az": "sevinc",
+        "uk": "радіти",
         "descriptionDE": "Freude und Begeisterung empfinden oder ausdrücken.",
         "descriptionEN": "To feel or express joy and delight.",
-        "descriptionRU": "Чувствовать или выражать радость и восторг."
+        "descriptionRU": "Чувствовать или выражать радость и восторг.",
+        "descriptionUK": "Відчувати або виражати радість і захват.",
+        "descriptionTR": "Sevinç ve heyecan hissetmek veya ifade etmek.",
+        "descriptionAZ": "Sevinc və həyəcan hiss etmək və ya ifadə etmək."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren.",
         "descriptionEN": "To travel through (an unfamiliar area) in order to learn about it.",
-        "descriptionRU": "Проходить через (незнакомую территорию) с целью узнать о ней."
+        "descriptionRU": "Проходить через (незнакомую территорию) с целью узнать о ней.",
+        "descriptionUK": "Подорожувати (незнайомою територією) з метою дізнатися про неї.",
+        "descriptionTR": "Bir şey hakkında bilgi edinmek için (bilinmeyen bir bölgeyi) dolaşmak.",
+        "descriptionAZ": "Bir şey haqqında məlumat əldə etmək üçün (tanımadığınız bir ərazini) gəzmək."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "zövq almaq",
+        "uk": "насолоджуватися",
         "descriptionDE": "Freude oder Zufriedenheit an einer Aktivität oder Erfahrung haben.",
         "descriptionEN": "To take pleasure or satisfaction in an activity or experience.",
-        "descriptionRU": "Получать удовольствие или удовлетворение от активности или опыта."
+        "descriptionRU": "Получать удовольствие или удовлетворение от активности или опыта.",
+        "descriptionUK": "Отримувати задоволення або задоволення від активності або досвіду.",
+        "descriptionTR": "Bir aktiviteden veya deneyimden zevk veya tatmin almak.",
+        "descriptionAZ": "Bir fəaliyyətdən və ya təcrübədən zövq və ya məmnunluq almaq."
     }, {
         "de": "beeindrucken",
         "en": "to impress",
         "ru": "производить впечатление",
+        "tr": "etkilemek",
+        "az": "təsir etmək",
+        "uk": "вражати",
         "descriptionDE": "Bewunderung und Respekt hervorrufen; einen bleibenden positiven Eindruck hinterlassen.",
         "descriptionEN": "To evoke admiration and respect; to leave a lasting positive impression.",
-        "descriptionRU": "Вызывать восхищение и уважение; оставлять долговременное положительное впечатление."
+        "descriptionRU": "Вызывать восхищение и уважение; оставлять долговременное положительное впечатление.",
+        "descriptionUK": "Викликати захоплення і повагу; залишати довготривале позитивне враження.",
+        "descriptionTR": "Hayranlık ve saygı uyandırmak; kalıcı bir olumlu izlenim bırakmak.",
+        "descriptionAZ": "Heyranlıq və hörmət oyatmaq; davamlı müsbət təəssürat yaratmaq."
     }, {
         "de": "verlieben",
         "en": "to fall in love",
         "ru": "влюбиться",
+        "tr": "aşık olmak",
+        "az": "aşiq olmaq",
+        "uk": "закохатися",
         "descriptionDE": "Eine starke romantische oder zärtliche Bindung zu jemandem oder etwas entwickeln.",
         "descriptionEN": "To develop a strong romantic or affectionate attachment towards someone or something.",
-        "descriptionRU": "Развивать сильное романтическое или нежное привязанность к кому-то или чему-то."
+        "descriptionRU": "Развивать сильное романтическое или нежное привязанность к кому-то или чему-то.",
+        "descriptionUK": "Розвивати сильну романтичну або ніжну прихильність до когось або чогось.",
+        "descriptionTR": "Birine veya bir şeye karşı güçlü bir romantik veya şefkatli bağlılık geliştirmek.",
+        "descriptionAZ": "Birinə və ya bir şeyə qarşı güclü bir romantik və ya şəfqətli bağlılıq inkişaf etdirmək."
     }, {
         "de": "erinnern",
         "en": "to remember",
         "ru": "вспоминать",
+        "tr": "hatırlamak",
+        "az": "xatırlamaq",
+        "uk": "згадувати",
         "descriptionDE": "Vergangene Ereignisse, Erfahrungen oder Informationen wieder aufrufen.",
         "descriptionEN": "To recall past events, experiences, or information.",
-        "descriptionRU": "Вспоминать прошлые события, переживания или информацию."
+        "descriptionRU": "Вспоминать прошлые события, переживания или информацию.",
+        "descriptionUK": "Згадувати минулі події, переживання або інформацію.",
+        "descriptionTR": "Geçmiş olayları, deneyimleri veya bilgileri hatırlamak.",
+        "descriptionAZ": "Keçmiş hadisələri, təcrübələri və ya məlumatları xatırlamaq."
     }, {
         "de": "vorfreude",
         "en": "anticipation",
         "ru": "предвкушение",
+        "tr": "beklenti",
+        "az": "gözlənti",
+        "uk": "передчуття",
         "descriptionDE": "Die freudige, intensive Erwartung eines zukünftigen Ereignisses.",
         "descriptionEN": "The joyful, intense anticipation of a future event.",
-        "descriptionRU": "Радостное, интенсивное предвкушение предстоящего события."
+        "descriptionRU": "Радостное, интенсивное предвкушение предстоящего события.",
+        "descriptionUK": "Радісне, інтенсивне передчуття майбутньої події.",
+        "descriptionTR": "Gelecek bir olayın neşeli, yoğun beklentisi.",
+        "descriptionAZ": "Gələcək bir hadisənin şən, intensiv gözləntisi."
     }
 ]

@@ -1,11 +1,13 @@
-[
-    {
+[{
         "name": "deshalb – trotzdem",
         "description": {
-          "en": "Conjunctive Adverbs",
-          "de": "Konjunktionaladverbien",
-          "ru": "Сочинительные наречия"
-        },      
+            "en": "Conjunctive Adverbs",
+            "de": "Konjunktionaladverbien",
+            "ru": "Сочинительные наречия",
+            "tr": "Bağlaç Zarfları",
+            "uk": "Сполучникові прислівники",
+            "az": "Bağlayıcı Zarflar"
+        },
         "file": "konjunktionaladverbien.json",
         "level": "B2",
         "icon": "sync",

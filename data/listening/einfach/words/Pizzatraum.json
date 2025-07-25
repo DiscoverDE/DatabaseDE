@@ -5,153 +5,285 @@
         "ru": "Страсть",
         "descriptionEN": "a strong feeling of enthusiasm or excitement for something or about doing something.",
         "descriptionRU": "Сильное чувство энтузиазма или волнения по поводу чего-то или выполнения чего-то.",
-        "descriptionDE": "Ein starkes Gefühl von Begeisterung oder Aufregung für etwas oder über das Tun von etwas."
+        "descriptionDE": "Ein starkes Gefühl von Begeisterung oder Aufregung für etwas oder über das Tun von etwas.",
+        "tr": "tutku",
+        "az": "ehtiras",
+        "uk": "пристрасть",
+        "descriptionTR": "Bir şeye veya bir şeyi yapmaya karşı güçlü bir coşku veya heyecan hissi.",
+        "descriptionAZ": "Bir şeyə və ya nəyisə etməyə qarşı güclü həvəs və ya həyəcan hissi.",
+        "descriptionUK": "сильне почуття ентузіазму або хвилювання щодо чогось або щодо виконання чогось."
     }, {
         "de": "das Schwimmen",
         "en": "swimming",
         "ru": "Плавание",
         "descriptionEN": "the sport or activity of moving through water by using the arms and legs.",
         "descriptionRU": "Спорт или активность передвижения по воде с использованием рук и ног.",
-        "descriptionDE": "Der Sport oder die Aktivität, sich durch Wasser zu bewegen, indem man Arme und Beine benutzt."
+        "descriptionDE": "Der Sport oder die Aktivität, sich durch Wasser zu bewegen, indem man Arme und Beine benutzt.",
+        "tr": "yüzme",
+        "az": "üzgüçülük",
+        "uk": "плавання",
+        "descriptionTR": "Kolları ve bacakları kullanarak suda hareket etme sporu veya aktivitesi.",
+        "descriptionAZ": "Qol və ayaqları istifadə edərək suda hərəkət etmə idmanı və ya fəaliyyəti.",
+        "descriptionUK": "спорт або діяльність пересування по воді за допомогою рук і ніг."
     }, {
         "de": "das Singen",
         "en": "singing",
         "ru": "Пение",
         "descriptionEN": "the act of making musical sounds with the voice.",
         "descriptionRU": "Действие создания музыкальных звуков с помощью голоса.",
-        "descriptionDE": "Das Handeln, musikalische Klänge mit der Stimme zu erzeugen."
+        "descriptionDE": "Das Handeln, musikalische Klänge mit der Stimme zu erzeugen.",
+        "tr": "şarkı söyleme",
+        "az": "oxumaq",
+        "uk": "спів",
+        "descriptionTR": "Sesle müzikal sesler çıkarma eylemi.",
+        "descriptionAZ": "Səslə musiqi səsləri çıxarmaq hərəkəti.",
+        "descriptionUK": "дія створення музичних звуків голосом."
     }, {
         "de": "die Pizza",
         "en": "pizza",
         "ru": "Пицца",
         "descriptionEN": "a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, olives, vegetables, meat, etc.), which is then baked at a high temperature.",
         "descriptionRU": "Блюдо итальянского происхождения, состоящее из обычно круглой, плоской основы из дрожжевого теста на основе пшеницы, покрытого помидорами, сыром и часто различными другими ингредиентами (такими как анчоусы, оливки, овощи, мясо и др.), которые затем запекаются при высокой температуре.",
-        "descriptionDE": "Ein Gericht italienischen Ursprungs, das aus einer normalerweise runden, flachen Basis aus Hefe-Getreideteig besteht, die mit Tomaten, Käse und oft verschiedenen anderen Zutaten (wie Sardellen, Oliven, Gemüse, Fleisch usw.) belegt und dann bei hoher Temperatur gebacken wird."
+        "descriptionDE": "Ein Gericht italienischen Ursprungs, das aus einer normalerweise runden, flachen Basis aus Hefe-Getreideteig besteht, die mit Tomaten, Käse und oft verschiedenen anderen Zutaten (wie Sardellen, Oliven, Gemüse, Fleisch usw.) belegt und dann bei hoher Temperatur gebacken wird.",
+        "tr": "pizza",
+        "az": "pizza",
+        "uk": "піца",
+        "descriptionTR": "Genellikle yuvarlak, yassı, mayalı buğday bazlı hamurdan oluşan, üzerine domates, peynir ve genellikle çeşitli diğer malzemeler (hamsi, zeytin, sebze, et vb.) eklenerek yüksek sıcaklıkta pişirilen İtalyan kökenli bir yemek.",
+        "descriptionAZ": "Adətən yuvarlaq, yastı, mayalı buğda əsaslı xəmirdən ibarət, üzərinə pomidor, pendir və tez-tez digər müxtəlif tərkib hissələri (məsələn, hamsi, zeytun, tərəvəz, ət və s.) əlavə olunmuş, sonra yüksək temperaturda bişirilmiş İtaliya mənşəli yemək.",
+        "descriptionUK": "страва італійського походження, що складається зі звичайно круглої, пласкої основи з дріжджового тіста на пшеничній основі, покритої помідорами, сиром і часто різними іншими інгредієнтами (такими як анчоуси, оливки, овочі, м'ясо тощо), яка потім випікається при високій температурі."
     }, {
         "de": "das College",
         "en": "college",
         "ru": "Колледж",
         "descriptionEN": "an educational institution or establishment, especially one providing higher education or specialized training.",
         "descriptionRU": "Образовательное учреждение или заведение, особенно предоставляющее высшее образование или специализированное обучение.",
-        "descriptionDE": "Eine Bildungseinrichtung oder -anstalt, insbesondere eine, die höhere Bildung oder spezialisierte Ausbildung anbietet."
+        "descriptionDE": "Eine Bildungseinrichtung oder -anstalt, insbesondere eine, die höhere Bildung oder spezialisierte Ausbildung anbietet.",
+        "tr": "kolej",
+        "az": "kollec",
+        "uk": "коледж",
+        "descriptionTR": "Özellikle yüksek öğrenim veya uzmanlık eğitimi veren bir eğitim kurumu veya kuruluşu.",
+        "descriptionAZ": "Təhsil müəssisəsi və ya qurumu, xüsusən ali təhsil və ya ixtisaslaşmış təlim verən bir müəssisə.",
+        "descriptionUK": "освітня установа або заклад, особливо той, що надає вищу освіту або спеціалізовану підготовку."
     }, {
         "de": "der Abschluss",
         "en": "graduation",
         "ru": "Выпуск",
         "descriptionEN": "the action of receiving or conferring an academic degree or diploma.",
         "descriptionRU": "Действие получения или присвоения академической степени или диплома.",
-        "descriptionDE": "Die Handlung, einen akademischen Grad oder ein Diplom zu erhalten oder zu verleihen."
+        "descriptionDE": "Die Handlung, einen akademischen Grad oder ein Diplom zu erhalten oder zu verleihen.",
+        "tr": "mezuniyet",
+        "az": "məzuniyyət",
+        "uk": "випуск",
+        "descriptionTR": "Akademik bir derece veya diploma alma veya verme eylemi.",
+        "descriptionAZ": "Akademik dərəcə və ya diplomun alınması və ya verilməsi hərəkəti.",
+        "descriptionUK": "дія отримання або присвоєння академічного ступеня або диплома."
     }, {
         "de": "die Entscheidung",
         "en": "decision",
         "ru": "Решение",
         "descriptionEN": "a conclusion or resolution reached after consideration.",
         "descriptionRU": "Заключение или разрешение, принятое после рассмотрения.",
-        "descriptionDE": "Ein Ergebnis oder eine Lösung, die nach Überlegung erreicht wird."
+        "descriptionDE": "Ein Ergebnis oder eine Lösung, die nach Überlegung erreicht wird.",
+        "tr": "karar",
+        "az": "qərar",
+        "uk": "рішення",
+        "descriptionTR": "Değerlendirme sonrası ulaşılan bir sonuç veya çözüm.",
+        "descriptionAZ": "Baxıldıqdan sonra gəlinən nəticə və ya qərar.",
+        "descriptionUK": "висновок або рішення, досягнуте після розгляду."
     }, {
         "de": "der Weg",
         "en": "path",
         "ru": "Путь",
         "descriptionEN": "a course of action or conduct.",
         "descriptionRU": "Курс действий или поведения.",
-        "descriptionDE": "Ein Handlungs- oder Verhaltensweg."
+        "descriptionDE": "Ein Handlungs- oder Verhaltensweg.",
+        "tr": "yol",
+        "az": "yol",
+        "uk": "шлях",
+        "descriptionTR": "Bir eylem veya davranış biçimi.",
+        "descriptionAZ": "Hərəkət və ya davranış kursu.",
+        "descriptionUK": "курс дій або поведінки."
     }, {
         "de": "die Eltern",
         "en": "parents",
         "ru": "Родители",
         "descriptionEN": "a person's father and mother.",
         "descriptionRU": "Отец и мать человека.",
-        "descriptionDE": "Der Vater und die Mutter einer Person."
+        "descriptionDE": "Der Vater und die Mutter einer Person.",
+        "tr": "ebeveynler",
+        "az": "valideynlər",
+        "uk": "батьки",
+        "descriptionTR": "Bir kişinin babası ve annesi.",
+        "descriptionAZ": "Bir insanın atası və anası.",
+        "descriptionUK": "батько і мати людини."
     }, {
         "de": "das Geld",
         "en": "money",
         "ru": "Деньги",
         "descriptionEN": "a current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
         "descriptionRU": "Текущий обменный медиум в форме монет и банкнот; монеты и банкноты вместе.",
-        "descriptionDE": "Ein aktuelles Tauschmittel in Form von Münzen und Banknoten; Münzen und Banknoten zusammen."
+        "descriptionDE": "Ein aktuelles Tauschmittel in Form von Münzen und Banknoten; Münzen und Banknoten zusammen.",
+        "tr": "para",
+        "az": "pul",
+        "uk": "гроші",
+        "descriptionTR": "Madeni para ve banknotlar şeklinde güncel bir değişim aracı; topluca madeni para ve banknotlar.",
+        "descriptionAZ": "Sikkələr və banknotlar şəklində cari mübadilə vasitəsi; kollektiv olaraq sikkələr və banknotlar.",
+        "descriptionUK": "поточний засіб обміну у вигляді монет та банкнот; монети та банкноти разом."
     }, {
         "de": "der Beruf",
         "en": "profession",
         "ru": "Профессия",
         "descriptionEN": "a paid occupation, especially one that involves prolonged training and formal education.",
         "descriptionRU": "Оплачиваемая работа, особенно та, которая требует длительного обучения и формального образования.",
-        "descriptionDE": "Ein bezahlter Beruf, insbesondere einer, der langwieriges Training und formale Bildung erfordert."
+        "descriptionDE": "Ein bezahlter Beruf, insbesondere einer, der langwieriges Training und formale Bildung erfordert.",
+        "tr": "meslek",
+        "az": "peşə",
+        "uk": "професія",
+        "descriptionTR": "Ücretli bir meslek, özellikle uzun süreli eğitim ve örgün eğitim gerektiren bir meslek.",
+        "descriptionAZ": "Ödənişli bir peşə, xüsusilə uzunmüddətli təlim və rəsmi təhsil tələb edən bir peşə.",
+        "descriptionUK": "оплачувана професія, особливо та, що передбачає тривале навчання та формальну освіту."
     }, {
         "de": "die Freude",
         "en": "joy",
         "ru": "Радость",
         "descriptionEN": "a feeling of great pleasure and happiness.",
         "descriptionRU": "Чувство большого удовольствия и счастья.",
-        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück."
+        "descriptionDE": "Ein Gefühl von großem Vergnügen und Glück.",
+        "tr": "neşe",
+        "az": "sevinc",
+        "uk": "радість",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük bir zövq və xoşbəxtlik hissi.",
+        "descriptionUK": "відчуття великого задоволення та щастя."
     }, {
         "de": "backen",
         "en": "to bake",
         "ru": "Печь",
         "descriptionEN": "to cook food by dry heat without direct exposure to a flame, typically in an oven.",
         "descriptionRU": "Готовить пищу при сухом тепле без прямого воздействия пламени, обычно в духовке.",
-        "descriptionDE": "Essen durch trockene Hitze ohne direkte Flamme zu kochen, typischerweise im Ofen."
+        "descriptionDE": "Essen durch trockene Hitze ohne direkte Flamme zu kochen, typischerweise im Ofen.",
+        "tr": "fırında pişirmek",
+        "az": "bişirmək",
+        "uk": "випікати",
+        "descriptionTR": "Yiyecekleri genellikle fırında, aleve doğrudan maruz kalmadan kuru ısı ile pişirmek.",
+        "descriptionAZ": "Yeməyi, adətən sobada, alova birbaşa məruz qalmadan quru istiliklə bişirmək.",
+        "descriptionUK": "готувати їжу сухим теплом без прямого впливу полум'я, зазвичай у духовці."
     }, {
         "de": "entwickeln",
         "en": "to develop",
         "ru": "Развивать",
         "descriptionEN": "to grow or cause to grow and become more mature, advanced, or elaborate.",
         "descriptionRU": "Расти или вызывать рост и становиться более зрелым, продвинутым или сложным.",
-        "descriptionDE": "Wachsen oder verursachen, dass etwas wächst und reifer, fortschrittlicher oder ausgefeilter wird."
+        "descriptionDE": "Wachsen oder verursachen, dass etwas wächst und reifer, fortschrittlicher oder ausgefeilter wird.",
+        "tr": "geliştirmek",
+        "az": "inkişaf etdirmək",
+        "uk": "розвивати",
+        "descriptionTR": "Büyümek veya büyümesini sağlamak ve daha olgun, gelişmiş veya ayrıntılı hale gelmek.",
+        "descriptionAZ": "Böyümək və ya böyüməsinə səbəb olmaq və daha yetkin, inkişaf etmiş və ya mürəkkəb olmaq.",
+        "descriptionUK": "зростати або спричиняти зростання та ставати більш зрілим, просунутим або складним."
     }, {
         "de": "denken",
         "en": "to think",
         "ru": "Думать",
         "descriptionEN": "to use one's mind actively to form connected ideas.",
         "descriptionRU": "Использовать ум активно для формирования связанных идей.",
-        "descriptionDE": "Den eigenen Verstand aktiv nutzen, um verbundene Ideen zu bilden."
+        "descriptionDE": "Den eigenen Verstand aktiv nutzen, um verbundene Ideen zu bilden.",
+        "tr": "düşünmek",
+        "az": "düşünmək",
+        "uk": "думати",
+        "descriptionTR": "Birbirine bağlı fikirler oluşturmak için zihnini aktif olarak kullanmak.",
+        "descriptionAZ": "Birləşdirilmiş fikirlər yaratmaq üçün ağlını aktiv şəkildə istifadə etmək.",
+        "descriptionUK": "активно використовувати свій розум для формування зв'язаних ідей."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "Делать",
         "descriptionEN": "to form something by putting parts together or combining substances.",
         "descriptionRU": "Формировать что-то, соединяя части или комбинируя вещества.",
-        "descriptionDE": "Etwas bilden, indem man Teile zusammenfügt oder Substanzen kombiniert."
+        "descriptionDE": "Etwas bilden, indem man Teile zusammenfügt oder Substanzen kombiniert.",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
+        "descriptionTR": "Parçaları bir araya getirerek veya maddeleri birleştirerek bir şey oluşturmak.",
+        "descriptionAZ": "Hissələri birləşdirərək və ya maddələri birləşdirərək bir şey yaratmaq.",
+        "descriptionUK": "формувати щось шляхом поєднання частин або об'єднання речовин."
     }, {
         "de": "teilen",
         "en": "to share",
         "ru": "Делить",
         "descriptionEN": "to give a portion of something to others.",
         "descriptionRU": "Давать часть чего-то другим.",
-        "descriptionDE": "Ein Teil von etwas an andere geben."
+        "descriptionDE": "Ein Teil von etwas an andere geben.",
+        "tr": "paylaşmak",
+        "az": "paylaşmaq",
+        "uk": "ділитися",
+        "descriptionTR": "Bir şeyin bir kısmını başkalarına vermek.",
+        "descriptionAZ": "Bir şeyin bir hissəsini başqalarına vermək.",
+        "descriptionUK": "давати частину чогось іншим."
     }, {
         "de": "begegnen",
         "en": "to encounter",
         "ru": "Встретить",
         "descriptionEN": "to meet someone unexpectedly or by chance.",
         "descriptionRU": "Встретить кого-то неожиданно или случайно.",
-        "descriptionDE": "Jemanden unerwartet oder zufällig treffen."
+        "descriptionDE": "Jemanden unerwartet oder zufällig treffen.",
+        "tr": "karşılaşmak",
+        "az": "rastlaşmaq",
+        "uk": "зустріти",
+        "descriptionTR": "Biriyle beklenmedik bir şekilde veya tesadüfen karşılaşmak.",
+        "descriptionAZ": "Kimsə ilə gözlənilmədən və ya təsadüfən rastlaşmaq.",
+        "descriptionUK": "зустріти когось несподівано або випадково."
     }, {
         "de": "stabil",
         "en": "stable",
         "ru": "Стабильный",
         "descriptionEN": "not likely to change or fail; firmly established.",
         "descriptionRU": "Маловероятно изменится или потерпит неудачу; твердо установленный.",
-        "descriptionDE": "Nicht wahrscheinlich, dass es sich ändert oder scheitert; fest etabliert."
+        "descriptionDE": "Nicht wahrscheinlich, dass es sich ändert oder scheitert; fest etabliert.",
+        "tr": "istikrarlı",
+        "az": "stabil",
+        "uk": "стабільний",
+        "descriptionTR": "Değişmesi veya başarısız olması olası olmayan; sağlam bir şekilde kurulmuş.",
+        "descriptionAZ": "Dəyişməsi və ya uğursuz olması ehtimalı olmayan; möhkəm qurulmuş.",
+        "descriptionUK": "не схильний до змін або руйнування; міцно встановлений."
     }, {
         "de": "fest",
         "en": "firm",
         "ru": "Твердый",
         "descriptionEN": "having a solid, almost unyielding surface or structure.",
         "descriptionRU": "Имеющий твердую, почти не поддающуюся деформации поверхность или структуру.",
-        "descriptionDE": "Eine feste, fast unnachgiebige Oberfläche oder Struktur habend."
+        "descriptionDE": "Eine feste, fast unnachgiebige Oberfläche oder Struktur habend.",
+        "tr": "sert",
+        "az": "bərk",
+        "uk": "твердий",
+        "descriptionTR": "Sağlam, neredeyse esnemeyen bir yüzeye veya yapıya sahip.",
+        "descriptionAZ": "Bərk, demək olar ki, əyilməyən səthə və ya quruluşa malik olan.",
+        "descriptionUK": "має тверду, майже неподатливу поверхню або структуру."
     }, {
         "de": "glücklich",
         "en": "happy",
         "ru": "Счастливый",
         "descriptionEN": "feeling or showing pleasure or contentment.",
         "descriptionRU": "Чувствующий или демонстрирующий удовольствие или удовлетворение.",
-        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit."
+        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit.",
+        "tr": "mutlu",
+        "az": "xoşbəxt",
+        "uk": "щасливий",
+        "descriptionTR": "Haz veya memnuniyet hissetmek veya göstermek.",
+        "descriptionAZ": "Zövq və ya məmnuniyyət hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчуття або прояв задоволення чи вдоволення."
     }, {
         "de": "besorgt",
         "en": "worried",
         "ru": "Встревоженный",
         "descriptionEN": "feeling or showing concern or anxiety.",
         "descriptionRU": "Чувствующий или демонстрирующий беспокойство или тревогу.",
-        "descriptionDE": "Gefühl oder Zeigen von Besorgnis oder Angst."
+        "descriptionDE": "Gefühl oder Zeigen von Besorgnis oder Angst.",
+        "tr": "endişeli",
+        "az": "narahat",
+        "uk": "стурбований",
+        "descriptionTR": "Endişe veya kaygı hissetmek veya göstermek.",
+        "descriptionAZ": "Narahatlıq və ya narahatlıq hiss etmək və ya göstərmək.",
+        "descriptionUK": "відчуття або прояв занепокоєння чи тривоги."
     }
 ]

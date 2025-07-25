@@ -3,85 +3,157 @@
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
         "descriptionEN": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
-        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса."
+        "descriptionRU": "здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
+        "descriptionTR": "tarihsel, bilimsel, sanatsal veya kültürel ilgi çeken nesnelerin saklandığı ve sergilendiği bir bina.",
+        "descriptionAZ": "tarixi, elmi, bədii və ya mədəni maraq doğuran obyektlərin saxlanıldığı və nümayiş etdirildiyi bina.",
+        "descriptionUK": "будівля, в якій зберігаються та виставляються об’єкти історичного, наукового, художнього чи культурного інтересу."
     }, {
         "de": "das Geburtshaus",
         "en": "birthplace",
         "ru": "родильный дом",
+        "tr": "doğum yeri",
+        "az": "doğum yeri",
+        "uk": "місце народження",
         "descriptionDE": "Der Ort, an dem jemand geboren wurde oder wo etwas entstanden ist.",
         "descriptionEN": "the place where someone was born or where something originated.",
-        "descriptionRU": "место, где кто-то родился или где что-то возникло."
+        "descriptionRU": "место, где кто-то родился или где что-то возникло.",
+        "descriptionTR": "birinin doğduğu veya bir şeyin ortaya çıktığı yer.",
+        "descriptionAZ": "kiminsə doğulduğu və ya bir şeyin yaranıb ortaya çıxdığı yer.",
+        "descriptionUK": "місце, де хтось народився або де щось виникло."
     }, {
         "de": "die Ausstellung",
         "en": "exhibition",
         "ru": "выставка",
+        "tr": "sergi",
+        "az": "sərgi",
+        "uk": "виставка",
         "descriptionDE": "Eine öffentliche Präsentation von Kunstwerken oder interessanten Gegenständen, die in einer Kunstgalerie oder einem Museum stattfindet.",
         "descriptionEN": "a public display of works of art or items of interest, held in an art gallery or museum.",
-        "descriptionRU": "публичное представление произведений искусства или предметов интереса, проводимое в художественной галерее или музее."
+        "descriptionRU": "публичное представление произведений искусства или предметов интереса, проводимое в художественной галерее или музее.",
+        "descriptionTR": "bir sanat galerisinde veya müzede düzenlenen sanat eserlerinin veya ilgi çekici nesnelerin halka açık sergisi.",
+        "descriptionAZ": "sənət qalereyasında və ya muzeydə keçirilən sənət əsərlərinin və ya maraqlı əşyaların ictimai nümayişi.",
+        "descriptionUK": "публічний показ творів мистецтва або предметів інтересу, що проводиться у художній галереї чи музеї."
     }, {
         "de": "der Rundgang",
         "en": "tour",
         "ru": "экскурсия",
+        "tr": "tur",
+        "az": "tur",
+        "uk": "екскурсія",
         "descriptionDE": "Eine Reise zum Vergnügen, bei der mehrere verschiedene Orte besucht werden.",
         "descriptionEN": "a journey for pleasure in which several different places are visited.",
-        "descriptionRU": "путешествие для удовольствия, в ходе которого посещаются различные места."
+        "descriptionRU": "путешествие для удовольствия, в ходе которого посещаются различные места.",
+        "descriptionTR": "birkaç farklı yerin ziyaret edildiği bir zevk yolculuğu.",
+        "descriptionAZ": "bir neçə müxtəlif yerin ziyarət edildiyi zövq səyahəti.",
+        "descriptionUK": "подорож для задоволення, під час якої відвідуються різні місця."
     }, {
         "de": "die Alarmanlage",
         "en": "alarm system",
         "ru": "сигнализация",
+        "tr": "alarm sistemi",
+        "az": "siqnalizasiya sistemi",
+        "uk": "сигналізація",
         "descriptionDE": "Ein System, das entwickelt wurde, um das Eindringen oder den unbefugten Zutritt zu einem Gebäude oder Bereich zu erkennen.",
         "descriptionEN": "a system designed to detect intrusion or unauthorized entry into a building or area.",
-        "descriptionRU": "система, предназначенная для обнаружения вторжения или несанкционированного входа в здание или район."
+        "descriptionRU": "система, предназначенная для обнаружения вторжения или несанкционированного входа в здание или район.",
+        "descriptionTR": "bir binaya veya alana izinsiz girişi tespit etmek için tasarlanmış bir sistem.",
+        "descriptionAZ": "binaya və ya əraziyə qanunsuz girişi aşkar etmək üçün hazırlanmış sistem.",
+        "descriptionUK": "система, призначена для виявлення вторгнення або несанкціонованого входу до будівлі чи території."
     }, {
         "de": "bedienen",
         "en": "operate",
         "ru": "управлять",
+        "tr": "işletmek",
+        "az": "idarə etmək",
+        "uk": "керувати",
         "descriptionDE": "Eine Maschine oder ein System steuern oder verwalten.",
         "descriptionEN": "to control or manage a machine or system.",
-        "descriptionRU": "управлять или управлять машиной или системой."
+        "descriptionRU": "управлять или управлять машиной или системой.",
+        "descriptionTR": "bir makineyi veya sistemi kontrol etmek veya yönetmek.",
+        "descriptionAZ": "maşın və ya sistemi idarə etmək və ya idarə etmək.",
+        "descriptionUK": "керувати або управляти машиною чи системою."
     }, {
         "de": "das Herzstück",
         "en": "centerpiece",
         "ru": "центральная часть",
+        "tr": "merkez parçası",
+        "az": "mərkəzi hissə",
+        "uk": "центральна частина",
         "descriptionDE": "Der zentrale oder wichtigste Teil.",
         "descriptionEN": "the central or most important part.",
-        "descriptionRU": "центральная или самая важная часть."
+        "descriptionRU": "центральная или самая важная часть.",
+        "descriptionTR": "merkezi veya en önemli parça.",
+        "descriptionAZ": "mərkəzi və ya ən vacib hissə.",
+        "descriptionUK": "центральна або найважливіша частина."
     }, {
         "de": "coronabedingt",
         "en": "due to COVID",
         "ru": "в связи с COVID",
+        "tr": "COVID nedeniyle",
+        "az": "COVID səbəbindən",
+        "uk": "через COVID",
         "descriptionDE": "Verursacht oder beeinflusst durch die COVID-19-Pandemie.",
         "descriptionEN": "caused or influenced by the COVID-19 pandemic.",
-        "descriptionRU": "вызванный или оказанный влияние пандемией COVID-19."
+        "descriptionRU": "вызванный или оказанный влияние пандемией COVID-19.",
+        "descriptionTR": "COVID-19 pandemisi nedeniyle oluşan veya etkilenen.",
+        "descriptionAZ": "COVID-19 pandemiyası səbəbindən yaranan və ya təsirlənən.",
+        "descriptionUK": "викликаний або вплинутий пандемією COVID-19."
     }, {
         "de": "interaktiv",
         "en": "interactive",
         "ru": "интерактивный",
+        "tr": "etkileşimli",
+        "az": "interaktiv",
+        "uk": "інтерактивний",
         "descriptionDE": "Involviert Kommunikation oder Zusammenarbeit zwischen mehreren Teilnehmern.",
         "descriptionEN": "involving communication or cooperation between multiple participants.",
-        "descriptionRU": "включающий коммуникацию или сотрудничество между несколькими участниками."
+        "descriptionRU": "включающий коммуникацию или сотрудничество между несколькими участниками.",
+        "descriptionTR": "birden fazla katılımcı arasında iletişim veya işbirliği içeren.",
+        "descriptionAZ": "bir neçə iştirakçı arasında ünsiyyət və ya əməkdaşlıq nəzərdə tutur.",
+        "descriptionUK": "передбачає спілкування або співпрацю між кількома учасниками."
     }, {
         "de": "der Direktor",
         "en": "director",
         "ru": "директор",
+        "tr": "direktör",
+        "az": "direktor",
+        "uk": "директор",
         "descriptionDE": "Eine Person, die für eine Organisation, Abteilung oder ein Projekt verantwortlich ist.",
         "descriptionEN": "a person who is in charge of an organization, department, or project.",
-        "descriptionRU": "человек, который отвечает за организацию, отдел или проект."
+        "descriptionRU": "человек, который отвечает за организацию, отдел или проект.",
+        "descriptionTR": "bir organizasyon, departman veya projeden sorumlu kişi.",
+        "descriptionAZ": "təşkilatın, şöbənin və ya layihənin rəhbəri olan şəxs.",
+        "descriptionUK": "людина, яка відповідає за організацію, відділ або проект."
     }, {
         "de": "auswählen",
         "en": "select",
         "ru": "выбирать",
+        "tr": "seçmek",
+        "az": "seçmək",
+        "uk": "вибирати",
         "descriptionDE": "Etwas aus einer Gruppe von Dingen auswählen.",
         "descriptionEN": "to choose something from a group of things.",
-        "descriptionRU": "выбирать что-то из группы вещей."
+        "descriptionRU": "выбирать что-то из группы вещей.",
+        "descriptionTR": "bir grup şey arasından bir şey seçmek.",
+        "descriptionAZ": "bir qrup şey arasından bir şey seçmək.",
+        "descriptionUK": "обирати щось із групи речей."
     }, {
         "de": "präsentieren",
         "en": "present",
         "ru": "представлять",
+        "tr": "sunmak",
+        "az": "təqdim etmək",
+        "uk": "представляти",
         "descriptionDE": "Etwas anderen zeigen oder vorstellen.",
         "descriptionEN": "to show or introduce something to others.",
-        "descriptionRU": "показывать или представлять что-то другим."
+        "descriptionRU": "показывать или представлять что-то другим.",
+        "descriptionTR": "bir şeyi başkalarına göstermek veya tanıtmak.",
+        "descriptionAZ": "bir şeyi başqalarına göstərmək və ya təqdim etmək.",
+        "descriptionUK": "показувати або представляти щось іншим."
     }
 ]

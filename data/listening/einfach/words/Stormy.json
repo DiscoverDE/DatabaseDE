@@ -3,169 +3,313 @@
         "de": "der Himmel",
         "en": "Sky",
         "ru": "Небо",
+        "tr": "Gökyüzü",
+        "az": "Səma",
+        "uk": "Небо",
         "descriptionEN": "The region of the atmosphere and outer space seen from the earth.",
         "descriptionRU": "Область атмосферы и космоса, видимая с Земли.",
-        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus sichtbar ist."
+        "descriptionDE": "Der Bereich der Atmosphäre und des Weltraums, der von der Erde aus sichtbar ist.",
+        "descriptionTR": "Dünya'dan görülen atmosfer ve uzay bölgesi.",
+        "descriptionAZ": "Yerdən görünən atmosfer və kosmos sahəsi.",
+        "descriptionUK": "Область атмосфери та космосу, видима із Землі."
     }, {
         "de": "die Wolke",
         "en": "Cloud",
         "ru": "Облако",
+        "tr": "Bulut",
+        "az": "Bulud",
+        "uk": "Хмара",
         "descriptionEN": "A visible mass of condensed water vapor floating in the atmosphere.",
         "descriptionRU": "Видимая масса конденсированного водяного пара, плавающая в атмосфере.",
-        "descriptionDE": "Eine sichtbare Masse von kondensiertem Wasserdampf, die in der Atmosphäre schwebt."
+        "descriptionDE": "Eine sichtbare Masse von kondensiertem Wasserdampf, die in der Atmosphäre schwebt.",
+        "descriptionTR": "Atmosferde yüzen, yoğunlaşmış su buharından oluşan görünür bir kütle.",
+        "descriptionAZ": "Atmosferdə üzən, yoğunlaşmış su buxarından ibarət görünən bir kütlə.",
+        "descriptionUK": "Видима маса конденсованої водяної пари, що плаває в атмосфері."
     }, {
         "de": "der Regen",
         "en": "Rain",
         "ru": "Дождь",
+        "tr": "Yağmur",
+        "az": "Yağış",
+        "uk": "Дощ",
         "descriptionEN": "Water that falls from the clouds in droplets.",
         "descriptionRU": "Вода, падающая из облаков в виде капель.",
-        "descriptionDE": "Wasser, das in Tropfen aus den Wolken fällt."
+        "descriptionDE": "Wasser, das in Tropfen aus den Wolken fällt.",
+        "descriptionTR": "Bulutlardan damlalar halinde düşen su.",
+        "descriptionAZ": "Buludlardan damcılar şəklində düşən su.",
+        "descriptionUK": "Вода, що падає з хмар у вигляді крапель."
     }, {
         "de": "der Donner",
         "en": "Thunder",
         "ru": "Гром",
+        "tr": "Gök gürültüsü",
+        "az": "Göy gurultusu",
+        "uk": "Грім",
         "descriptionEN": "A loud rumbling or crashing noise heard after a lightning flash.",
         "descriptionRU": "Громкий грохот или треск, слышимый после вспышки молнии.",
-        "descriptionDE": "Ein lautes Grollen oder Krachen, das nach einem Blitz zu hören ist."
+        "descriptionDE": "Ein lautes Grollen oder Krachen, das nach einem Blitz zu hören ist.",
+        "descriptionTR": "Bir şimşek çakmasından sonra duyulan yüksek sesli bir gürültü veya çatırtı.",
+        "descriptionAZ": "Bir ildırım çaxmasından sonra eşidilən yüksək səsli gurultu və ya çatırtı.",
+        "descriptionUK": "Гучний гуркіт чи тріск, що чується після спалаху блискавки."
     }, {
         "de": "die Straße",
         "en": "Street",
         "ru": "Улица",
+        "tr": "Sokak",
+        "az": "Küçə",
+        "uk": "Вулиця",
         "descriptionEN": "A public road in a city or town, typically with houses and buildings on one or both sides.",
         "descriptionRU": "Общественная дорога в городе или поселке, обычно с домами и зданиями по обеим сторонам.",
-        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+        "descriptionDE": "Eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten.",
+        "descriptionTR": "Bir şehir veya kasabada, genellikle bir veya iki tarafında evler ve binalar bulunan bir kamu yolu.",
+        "descriptionAZ": "Bir şəhər və ya qəsəbədə, adətən bir və ya hər iki tərəfində evlər və binalar olan bir ictimai yol.",
+        "descriptionUK": "Громадська дорога в місті чи селищі, зазвичай з будинками та будівлями з одного чи обох боків."
     }, {
         "de": "der Fußgänger",
         "en": "Pedestrian",
         "ru": "Пешеход",
+        "tr": "Yaya",
+        "az": "Pişada",
+        "uk": "Пішохід",
         "descriptionEN": "A person walking rather than traveling in a vehicle.",
         "descriptionRU": "Человек, идущий пешком, а не путешествующий на транспортном средстве.",
-        "descriptionDE": "Eine Person, die zu Fuß geht und nicht mit einem Fahrzeug reist."
+        "descriptionDE": "Eine Person, die zu Fuß geht und nicht mit einem Fahrzeug reist.",
+        "descriptionTR": "Bir araçla seyahat etmek yerine yürüyen bir kişi.",
+        "descriptionAZ": "Nəqliyyat vasitəsi ilə səyahət etmək əvəzinə piyada gedən bir şəxs.",
+        "descriptionUK": "Людина, яка йде пішки, а не подорожує на транспортному засобі."
     }, {
         "de": "die Pfütze",
         "en": "Puddle",
         "ru": "Лужа",
+        "tr": "Su birikintisi",
+        "az": "Çalğı",
+        "uk": "Калюжа",
         "descriptionEN": "A small pool of liquid, especially of rainwater on the ground.",
         "descriptionRU": "Небольшой бассейн с жидкостью, особенно с дождевой водой на земле.",
-        "descriptionDE": "Eine kleine Ansammlung von Flüssigkeit, insbesondere Regenwasser auf dem Boden."
+        "descriptionDE": "Eine kleine Ansammlung von Flüssigkeit, insbesondere Regenwasser auf dem Boden.",
+        "descriptionTR": "Özellikle yerdeki yağmur suyundan oluşan küçük bir sıvı birikintisi.",
+        "descriptionAZ": "Xüsusilə yerdəki yağış suyundan ibarət kiçik bir maye toplusu.",
+        "descriptionUK": "Невеликий басейн з рідиною, особливо з дощовою водою на землі."
     }, {
         "de": "die Freunde",
         "en": "Friends",
         "ru": "Друзья",
+        "tr": "Arkadaşlar",
+        "az": "Dostlar",
+        "uk": "Друзі",
         "descriptionEN": "People whom one knows, likes, and trusts.",
         "descriptionRU": "Люди, которых человек знает, любит и доверяет.",
-        "descriptionDE": "Menschen, die man kennt, mag und denen man vertraut."
+        "descriptionDE": "Menschen, die man kennt, mag und denen man vertraut.",
+        "descriptionTR": "Birinin tanıdığı, sevdiği ve güvendiği insanlar.",
+        "descriptionAZ": "Birinin tanıdığı, sevdiyi və güvəndiyi insanlar.",
+        "descriptionUK": "Люди, яких людина знає, любить і довіряє."
     }, {
         "de": "die Arbeit",
         "en": "Work",
         "ru": "Работа",
+        "tr": "İş",
+        "az": "İş",
+        "uk": "Робота",
         "descriptionEN": "Activity involving mental or physical effort done to achieve a purpose or result.",
         "descriptionRU": "Деятельность, включающая умственные или физические усилия, направленная на достижение цели или результата.",
-        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen."
+        "descriptionDE": "Tätigkeit, die geistige oder körperliche Anstrengung erfordert, um ein Ziel oder Ergebnis zu erreichen.",
+        "descriptionTR": "Bir amaç veya sonuç elde etmek için zihinsel veya fiziksel çaba gerektiren bir etkinlik.",
+        "descriptionAZ": "Bir məqsəd və ya nəticə əldə etmək üçün zehni və ya fiziki səy tələb edən bir fəaliyyət.",
+        "descriptionUK": "Діяльність, що включає розумові чи фізичні зусилля, спрямовані на досягнення мети чи результату."
     }, {
         "de": "die Schule",
         "en": "School",
         "ru": "Школа",
+        "tr": "Okul",
+        "az": "Məktəb",
+        "uk": "Школа",
         "descriptionEN": "An institution for educating children.",
         "descriptionRU": "Учреждение для обучения детей.",
-        "descriptionDE": "Eine Einrichtung zur Erziehung von Kindern."
+        "descriptionDE": "Eine Einrichtung zur Erziehung von Kindern.",
+        "descriptionTR": "Çocukları eğitmek için bir kurum.",
+        "descriptionAZ": "Uşaqları təlim üçün bir müəssisə.",
+        "descriptionUK": "Заклад для навчання дітей."
     }, {
         "de": "das Einkaufszentrum",
         "en": "Mall",
         "ru": "Торговый центр",
+        "tr": "Alışveriş merkezi",
+        "az": "Ticarət mərkəzi",
+        "uk": "Торговий центр",
         "descriptionEN": "A large building or series of connected buildings containing a variety of retail stores and typically also restaurants.",
         "descriptionRU": "Большое здание или серия соединенных зданий, содержащих различные розничные магазины и обычно также рестораны.",
-        "descriptionDE": "Ein großes Gebäude oder eine Reihe von miteinander verbundenen Gebäuden mit verschiedenen Einzelhandelsgeschäften und typischerweise auch Restaurants."
+        "descriptionDE": "Ein großes Gebäude oder eine Reihe von miteinander verbundenen Gebäuden mit verschiedenen Einzelhandelsgeschäften und typischerweise auch Restaurants.",
+        "descriptionTR": "Çeşitli perakende mağazaları ve genellikle de restoranlar içeren büyük bir bina veya birbirine bağlı binalar serisi.",
+        "descriptionAZ": "Müxtəlif pərakəndə mağazaları və adətən də restoranlar olan böyük bir bina və ya bir-birinə bağlı binalar seriyası.",
+        "descriptionUK": "Велика будівля або серія з'єднаних будівель, що містять різні роздрібні магазини та зазвичай також ресторани."
     }, {
         "de": "das Museum",
         "en": "Museum",
         "ru": "Музей",
+        "tr": "Müze",
+        "az": "Muzey",
+        "uk": "Музей",
         "descriptionEN": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
         "descriptionRU": "Здание, в котором хранятся и выставляются объекты исторического, научного, художественного или культурного интереса.",
-        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden."
+        "descriptionDE": "Ein Gebäude, in dem Objekte von historischem, wissenschaftlichem, künstlerischem oder kulturellem Interesse aufbewahrt und ausgestellt werden.",
+        "descriptionTR": "Tarihi, bilimsel, sanatsal veya kültürel ilgi çeken nesnelerin saklandığı ve sergilendiği bir bina.",
+        "descriptionAZ": "Tarixi, elmi, bədii və ya mədəni maraq doğuran əşyaların saxlandığı və nümayiş olunduğu bir bina.",
+        "descriptionUK": "Будівля, в якій зберігаються та виставляються об'єкти історичного, наукового, художнього чи культурного інтересу."
     }, {
         "de": "kochen",
         "en": "To cook",
         "ru": "Готовить",
+        "tr": "Pişirmek",
+        "az": "Bişirmək",
+        "uk": "Готувати",
         "descriptionEN": "To prepare food by combining, mixing, and heating ingredients.",
         "descriptionRU": "Готовить пищу путем комбинирования, смешивания и нагревания ингредиентов.",
-        "descriptionDE": "Lebensmittel zubereiten, indem Zutaten kombiniert, gemischt und erhitzt werden."
+        "descriptionDE": "Lebensmittel zubereiten, indem Zutaten kombiniert, gemischt und erhitzt werden.",
+        "descriptionTR": "Malzemeleri birleştirerek, karıştırarak ve ısıtarak yemek hazırlamak.",
+        "descriptionAZ": "İnqrediyentləri birləşdirərək, qarışdıraraq və qızdıraraq yemək hazırlamaq.",
+        "descriptionUK": "Готувати їжу шляхом комбінування, змішування та нагрівання інгредієнтів."
     }, {
         "de": "springen",
         "en": "To jump",
         "ru": "Прыгать",
+        "tr": "Zıplamak",
+        "az": "Tullanmaq",
+        "uk": "Стрибати",
         "descriptionEN": "To push oneself off a surface and into the air by using the muscles in one's legs and feet.",
         "descriptionRU": "Отталкиваться от поверхности и взлетать в воздух, используя мышцы ног и стоп.",
-        "descriptionDE": "Sich mit den Muskeln in den Beinen und Füßen von einer Oberfläche abdrücken und in die Luft springen."
+        "descriptionDE": "Sich mit den Muskeln in den Beinen und Füßen von einer Oberfläche abdrücken und in die Luft springen.",
+        "descriptionTR": "Bacaklardaki ve ayaklardaki kasları kullanarak bir yüzeyden itip havaya sıçramak.",
+        "descriptionAZ": "Ayaqlardakı və ayaqlardakı əzələlərdən istifadə edərək bir səthdən itələyib havaya atılmaq.",
+        "descriptionUK": "Відштовхуватися від поверхні та злітати в повітря, використовуючи м'язи ніг та стоп."
     }, {
         "de": "sehen",
         "en": "To see",
         "ru": "Видеть",
+        "tr": "Görmek",
+        "az": "Görmək",
+        "uk": "Бачити",
         "descriptionEN": "To perceive with the eyes.",
         "descriptionRU": "Воспринимать глазами.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "Сприймати очима."
     }, {
         "de": "tragen",
         "en": "To wear",
         "ru": "Носить",
+        "tr": "Giyinmek",
+        "az": "Geyinmək",
+        "uk": "Носити",
         "descriptionEN": "To have on one's body as clothing, decoration, or protection.",
         "descriptionRU": "Иметь на своем теле как одежду, украшение или защиту.",
-        "descriptionDE": "Am Körper als Kleidung, Dekoration oder Schutz tragen."
+        "descriptionDE": "Am Körper als Kleidung, Dekoration oder Schutz tragen.",
+        "descriptionTR": "Vücutta giysi, süs veya koruma olarak bulundurmak.",
+        "descriptionAZ": "Bədəndə geyim, bəzək və ya qorunma kimi daşımaq.",
+        "descriptionUK": "Мати на своєму тілі як одяг, прикрасу чи захист."
     }, {
         "de": "bleiben",
         "en": "To stay",
         "ru": "Оставаться",
+        "tr": "Kalmak",
+        "az": "Qalmaq",
+        "uk": "Залишатися",
         "descriptionEN": "To remain in the same place.",
         "descriptionRU": "Оставаться на том же месте.",
-        "descriptionDE": "An derselben Stelle bleiben."
+        "descriptionDE": "An derselben Stelle bleiben.",
+        "descriptionTR": "Aynı yerde kalmak.",
+        "descriptionAZ": "Eyni yerdə qalmaq.",
+        "descriptionUK": "Залишатися на тому ж місці."
     }, {
         "de": "aufhören",
         "en": "To stop",
         "ru": "Остановиться",
+        "tr": "Durmak",
+        "az": "Dayanmaq",
+        "uk": "Зупинятися",
         "descriptionEN": "To cease an action or motion.",
         "descriptionRU": "Прекратить действие или движение.",
-        "descriptionDE": "Eine Handlung oder Bewegung beenden."
+        "descriptionDE": "Eine Handlung oder Bewegung beenden.",
+        "descriptionTR": "Bir eylemi veya hareketi durdurmak.",
+        "descriptionAZ": "Bir hərəkəti və ya hereketi dayandırmaq.",
+        "descriptionUK": "Припинити дію чи рух."
     }, {
         "de": "dunkel",
         "en": "Dark",
         "ru": "Темный",
+        "tr": "Karanlık",
+        "az": "Qaranlıq",
+        "uk": "Темний",
         "descriptionEN": "With little or no light.",
         "descriptionRU": "С небольшим количеством света или его отсутствием.",
-        "descriptionDE": "Mit wenig oder keinem Licht."
+        "descriptionDE": "Mit wenig oder keinem Licht.",
+        "descriptionTR": "Az ışık veya hiç ışık olmadan.",
+        "descriptionAZ": "Az işıq və ya heç işıq olmadan.",
+        "descriptionUK": "З невеликою кількістю світла або його відсутністю."
     }, {
         "de": "stürmisch",
         "en": "Stormy",
         "ru": "Бурный",
+        "tr": "Fırtınalı",
+        "az": "Fırtınalı",
+        "uk": "Бурхливий",
         "descriptionEN": "Characterized by strong winds and usually rain, thunder, lightning, or snow.",
         "descriptionRU": "Характеризуется сильными ветрами и обычно дождем, громом, молнией или снегом.",
-        "descriptionDE": "Gekennzeichnet durch starke Winde und normalerweise Regen, Donner, Blitz oder Schnee."
+        "descriptionDE": "Gekennzeichnet durch starke Winde und normalerweise Regen, Donner, Blitz oder Schnee.",
+        "descriptionTR": "Güçlü rüzgarlar ve genellikle yağmur, gök gürültüsü, şimşek veya kar ile karakterize edilen.",
+        "descriptionAZ": "Güclü küləklər və adətən yağış, ildırım, şimşək və ya qar ilə xarakterizə olunan.",
+        "descriptionUK": "Характеризується сильними вітрами та зазвичай дощем, громом, блискавкою чи снігом."
     }, {
         "de": "grau",
         "en": "Gray",
         "ru": "Серый",
+        "tr": "Gri",
+        "az": "Boz",
+        "uk": "Сірий",
         "descriptionEN": "Of a color intermediate between black and white.",
         "descriptionRU": "Цвет, промежуточный между черным и белым.",
-        "descriptionDE": "Eine Farbe, die zwischen Schwarz und Weiß liegt."
+        "descriptionDE": "Eine Farbe, die zwischen Schwarz und Weiß liegt.",
+        "descriptionTR": "Siyah ile beyaz arasında bir renk.",
+        "descriptionAZ": "Qara ilə ağ arasında bir rəng.",
+        "descriptionUK": "Колір, проміжний між чорним та білим."
     }, {
         "de": "drinnen",
         "en": "Indoors",
         "ru": "Внутри",
+        "tr": "İçeride",
+        "az": "Daxildə",
+        "uk": "Усередині",
         "descriptionEN": "Inside a building.",
         "descriptionRU": "Внутри здания.",
-        "descriptionDE": "Innerhalb eines Gebäudes."
+        "descriptionDE": "Innerhalb eines Gebäudes.",
+        "descriptionTR": "Bir binanın içinde.",
+        "descriptionAZ": "Bir binanın daxilində.",
+        "descriptionUK": "Всередині будівлі."
     }, {
         "de": "draußen",
         "en": "Outdoors",
         "ru": "Снаружи",
+        "tr": "Dışarıda",
+        "az": "Çöldə",
+        "uk": "Зовні",
         "descriptionEN": "Outside a building.",
         "descriptionRU": "Снаружи здания.",
-        "descriptionDE": "Außerhalb eines Gebäudes."
+        "descriptionDE": "Außerhalb eines Gebäudes.",
+        "descriptionTR": "Bir binanın dışında.",
+        "descriptionAZ": "Bir binanın xaricində.",
+        "descriptionUK": "Зовні будівлі."
     }, {
         "de": "stark",
         "en": "Strong",
         "ru": "Сильный",
+        "tr": "Güçlü",
+        "az": "Güclü",
+        "uk": "Сильний",
         "descriptionEN": "Having great physical power and ability.",
         "descriptionRU": "Обладающий большой физической силой и способностью.",
-        "descriptionDE": "Große körperliche Kraft und Fähigkeit besitzen."
+        "descriptionDE": "Große körperliche Kraft und Fähigkeit besitzen.",
+        "descriptionTR": "Büyük fiziksel güç ve yeteneğe sahip olmak.",
+        "descriptionAZ": "Böyük fiziki güc və qabiliyyətə malik olmaq.",
+        "descriptionUK": "Володіти великою фізичною силою та здатністю."
     }
 ]

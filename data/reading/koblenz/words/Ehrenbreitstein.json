@@ -3,205 +3,378 @@
         "de": "die Festung",
         "en": "fortress",
         "ru": "крепость",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "фортеця",
+        "descriptionDE": "ein befestigtes Gebäude oder strategische Position, das zur Verteidigung gegen Angriffe verwendet wird.",
         "descriptionEN": "a fortified building or strategic position used to defend against attack.",
         "descriptionRU": "укрепленное здание или стратегическое положение, используемое для защиты от нападения.",
-        "descriptionDE": "ein befestigtes Gebäude oder strategische Position, das zur Verteidigung gegen Angriffe verwendet wird."
+        "descriptionTR": "Saldırıya karşı savunmak için kullanılan güçlendirilmiş bina veya stratejik konum.",
+        "descriptionAZ": "Hücuma qarşı müdafiə üçün istifadə olunan möhkəmləndirilmiş bina və ya strateji mövqe.",
+        "descriptionUK": "укріплена будівля або стратегічна позиція, що використовується для оборони від нападу."
     }, {
         "de": "der Krieg",
         "en": "war",
         "ru": "война",
+        "tr": "savaş",
+        "az": "müharibə",
+        "uk": "війна",
+        "descriptionDE": "ein Zustand bewaffneter Konflikte zwischen verschiedenen Nationen oder Staaten oder verschiedenen Gruppen innerhalb einer Nation oder eines Staates.",
         "descriptionEN": "a state of armed conflict between different nations or states or different groups within a nation or state.",
         "descriptionRU": "состояние вооруженного конфликта между разными нациями или государствами или разными группами внутри нации или государства.",
-        "descriptionDE": "ein Zustand bewaffneter Konflikte zwischen verschiedenen Nationen oder Staaten oder verschiedenen Gruppen innerhalb einer Nation oder eines Staates."
+        "descriptionTR": "Farklı uluslar, devletler veya aynı devlet içindeki farklı gruplar arasında silahlı çatışma durumu.",
+        "descriptionAZ": "Fərqli millətlər, dövlətlər və ya bir dövlət daxilindəki fərqli qruplar arasında silahlı münaqişə vəziyyəti.",
+        "descriptionUK": "стан озброєного конфлікту між різними націями чи державами або різними групами в межах нації чи держави."
     }, {
         "de": "die Invasion",
         "en": "invasion",
         "ru": "вторжение",
+        "tr": "istila",
+        "az": "işğal",
+        "uk": "вторгнення",
+        "descriptionDE": "ein Fall von Invasion eines Landes oder einer Region mit einer bewaffneten Streitmacht.",
         "descriptionEN": "an instance of invading a country or region with an armed force.",
         "descriptionRU": "случай вторжения в страну или регион с вооруженной силой.",
-        "descriptionDE": "ein Fall von Invasion eines Landes oder einer Region mit einer bewaffneten Streitmacht."
+        "descriptionTR": "Silahlı kuvvetle bir ülkeye veya bölgeye yapılan işgal örneği.",
+        "descriptionAZ": "Silahlı qüvvə ilə ölkəyə və ya bölgəyə işğal hadisəsi.",
+        "descriptionUK": "випадок вторгнення до країни або регіону збройними силами."
     }, {
         "de": "der Widerstand",
         "en": "resistance",
         "ru": "сопротивление",
+        "tr": "direniş",
+        "az": "müqavimət",
+        "uk": "опір",
+        "descriptionDE": "die Weigerung, etwas zu akzeptieren oder zu befolgen; der Versuch, etwas durch Handeln oder Argumentieren zu verhindern.",
         "descriptionEN": "the refusal to accept or comply with something; the attempt to prevent something by action or argument.",
         "descriptionRU": "отказ принять или согласиться с чем-либо; попытка предотвратить что-то действием или аргументацией.",
-        "descriptionDE": "die Weigerung, etwas zu akzeptieren oder zu befolgen; der Versuch, etwas durch Handeln oder Argumentieren zu verhindern."
+        "descriptionTR": "Bir şeyi kabul etmeme veya uymama; bir şeyi hareket ya da argümanla engellemeye çalışma.",
+        "descriptionAZ": "Bir şeyi qəbul etməmək və ya tabe olmamaq; hərəkət və ya arqumentlə bir şeyi qarşısını almağa cəhd.",
+        "descriptionUK": "відмова приймати або виконувати щось; спроба запобігти чомусь дією або аргументом."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
+        "descriptionDE": "die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
         "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
-        "descriptionDE": "die Erforschung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten."
+        "descriptionTR": "Geçmiş olayların özellikle insan işleri bağlamında incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin, xüsusilə insan işləri kontekstində araşdırılması.",
+        "descriptionUK": "дослідження минулих подій, особливо у сфері людських справ."
     }, {
         "de": "die Belagerung",
         "en": "siege",
         "ru": "осада",
+        "tr": "kuşatma",
+        "az": "məhkumet",
+        "uk": "облога",
+        "descriptionDE": "eine militärische Operation, bei der feindliche Streitkräfte eine Stadt oder ein Gebäude umgeben, indem sie lebenswichtige Versorgungsgüter abschneiden, mit dem Ziel, diejenigen im Inneren zur Kapitulation zu zwingen.",
         "descriptionEN": "a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling those inside to surrender.",
         "descriptionRU": "военная операция, при которой вражеские силы окружают город или здание, перекрывая жизненно важные поставки, с целью заставить находящихся внутри сдаться.",
-        "descriptionDE": "eine militärische Operation, bei der feindliche Streitkräfte eine Stadt oder ein Gebäude umgeben, indem sie lebenswichtige Versorgungsgüter abschneiden, mit dem Ziel, diejenigen im Inneren zur Kapitulation zu zwingen."
+        "descriptionTR": "Düşman kuvvetlerin bir kasaba veya binayı çevirdiği, hayati malzemeleri keserek içindekileri teslim olmaya zorladığı askeri operasyon.",
+        "descriptionAZ": "Düşmən qüvvələrinin şəhəri və ya binanı mühasirəyə aldığı, vacib təchizatı kəsdiyi və içindəkiləri təslim olmaya məcbur etdiyi hərbi əməliyyat.",
+        "descriptionUK": "військова операція, при якій ворожі сили оточують місто або будівлю, перекриваючи життєво важливі поставки, щоб змусити тих, хто всередині, здатися."
     }, {
         "de": "errichten",
         "en": "to erect",
         "ru": "воздвигать",
+        "tr": "kurmak",
+        "az": "qurmaq",
+        "uk": "звеліти",
+        "descriptionDE": "konstruieren oder bauen (ein Gebäude, eine Brücke usw.).",
         "descriptionEN": "to construct or build (a building, bridge, etc.).",
         "descriptionRU": "строить или возводить (здание, мост и т. д.).",
-        "descriptionDE": "konstruieren oder bauen (ein Gebäude, eine Brücke usw.)."
+        "descriptionTR": "Bir bina, köprü vb. inşa etmek veya kurmak.",
+        "descriptionAZ": "Bina, körpü və s. tikmək və ya qurmaq.",
+        "descriptionUK": "будувати або зводити (будівлю, міст тощо)."
     }, {
         "de": "befestigen",
         "en": "to fortify",
         "ru": "укреплять",
+        "tr": "güçlendirmek",
+        "az": "möhkəmlətmək",
+        "uk": "укріпляти",
+        "descriptionDE": "einen Ort mit Befestigungsanlagen verstärken, um ihn vor Angriffen zu schützen.",
         "descriptionEN": "to strengthen (a place) with defensive works so as to protect it against attack.",
         "descriptionRU": "укреплять (место) оборонительными сооружениями, чтобы защитить его от нападения.",
-        "descriptionDE": "einen Ort mit Befestigungsanlagen verstärken, um ihn vor Angriffen zu schützen."
+        "descriptionTR": "Bir yeri saldırıya karşı korumak için savunma yapıları ile güçlendirmek.",
+        "descriptionAZ": "Bir yeri hücuma qarşı qorumaq üçün müdafiə qurğuları ilə möhkəmlətmək.",
+        "descriptionUK": "посилити (місце) оборонними спорудами, щоб захистити від нападу."
     }, {
         "de": "tapfer",
         "en": "brave",
         "ru": "смелый",
+        "tr": "cesur",
+        "az": "cəsur",
+        "uk": "хоробрий",
+        "descriptionDE": "Mut zeigend.",
         "descriptionEN": "showing courage.",
         "descriptionRU": "проявляющий смелость.",
-        "descriptionDE": "Mut zeigend."
+        "descriptionTR": "Cesaret gösteren.",
+        "descriptionAZ": "Cəsarət göstərən.",
+        "descriptionUK": "який проявляє мужність."
     }, {
         "de": "massiv",
         "en": "massive",
         "ru": "массивный",
+        "tr": "kocaman",
+        "az": "kütləvi",
+        "uk": "масивний",
+        "descriptionDE": "groß und schwer oder massiv.",
         "descriptionEN": "large and heavy or solid.",
         "descriptionRU": "большой и тяжелый или крепкий.",
-        "descriptionDE": "groß und schwer oder massiv."
+        "descriptionTR": "Büyük ve ağır veya sağlam.",
+        "descriptionAZ": "Böyük və ağır və ya möhkəm.",
+        "descriptionUK": "великий і тяжкий або міцний."
     }, {
         "de": "strategisch",
         "en": "strategic",
         "ru": "стратегический",
+        "tr": "stratejik",
+        "az": "strateji",
+        "uk": "стратегічний",
+        "descriptionDE": "bezogen auf die Bestimmung langfristiger oder Gesamtziele und Interessen und die Mittel zu ihrer Erreichung.",
         "descriptionEN": "relating to the identification of long-term or overall aims and interests and the means of achieving them.",
         "descriptionRU": "относящийся к определению долгосрочных или общих целей и интересов и средств их достижения.",
-        "descriptionDE": "bezogen auf die Bestimmung langfristiger oder Gesamtziele und Interessen und die Mittel zu ihrer Erreichung."
+        "descriptionTR": "Uzun vadeli veya genel amaçların ve çıkarların belirlenmesi ve bunlara ulaşma yöntemleri ile ilgili.",
+        "descriptionAZ": "Uzunmüddətli və ya ümumi məqsədlərin və maraqların müəyyənləşdirilməsi və onlara çatma vasitələri ilə əlaqədar.",
+        "descriptionUK": "пов’язано з визначенням довгострокових або загальних цілей і засобів їх досягнення."
     }, {
         "de": "lebendig",
         "en": "alive",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
+        "descriptionDE": "Leben habend; lebendig; nicht tot.",
         "descriptionEN": "having life; living; not dead.",
         "descriptionRU": "имеющий жизнь; живой; не мертвый.",
-        "descriptionDE": "Leben habend; lebendig; nicht tot."
+        "descriptionTR": "Hayat sahibi; yaşayan; ölü olmayan.",
+        "descriptionAZ": "Həyat sahibi; yaşayan; ölü olmayan.",
+        "descriptionUK": "той, що має життя; живий; не мертвий."
     }, {
         "de": "faszinierend",
         "en": "fascinating",
         "ru": "захватывающий",
+        "tr": "büyüleyici",
+        "az": "heyranedici",
+        "uk": "захоплюючий",
+        "descriptionDE": "äußerst interessant oder charmant.",
         "descriptionEN": "extremely interesting or charming.",
         "descriptionRU": "крайне интересный или очаровательный.",
-        "descriptionDE": "äußerst interessant oder charmant."
+        "descriptionTR": "Son derece ilginç veya çekici.",
+        "descriptionAZ": "Son dərəcə maraqlı və ya cazibədar.",
+        "descriptionUK": "надзвичайно цікавий або чарівний."
     }, {
         "de": "die Armee",
         "en": "army",
         "ru": "армия",
+        "tr": "ordu",
+        "az": "ordu",
+        "uk": "армія",
+        "descriptionDE": "eine große organisierte Einheit von bewaffnetem Personal, das für den Krieg, insbesondere auf dem Land, ausgebildet ist.",
         "descriptionEN": "a large organized body of armed personnel trained for war, especially on land.",
         "descriptionRU": "большое организованное тело вооруженного персонала, обученное для войны, особенно на суше.",
-        "descriptionDE": "eine große organisierte Einheit von bewaffnetem Personal, das für den Krieg, insbesondere auf dem Land, ausgebildet ist."
+        "descriptionTR": "Özellikle karada savaşmak üzere eğitilmiş büyük, organize silahlı personel birimi.",
+        "descriptionAZ": "Xüsusilə quruda müharibə üçün təlim keçmiş böyük, təşkilatlanmış silahlı şəxslər qrupu.",
+        "descriptionUK": "великий організований підрозділ озброєного персоналу, навчений для війни, особливо на суші."
     }, {
         "de": "der Hügel",
         "en": "hill",
         "ru": "холм",
+        "tr": "tepe",
+        "az": "təpə",
+        "uk": "пагорб",
+        "descriptionDE": "ein natürlicherweise erhöhtes Gebiet, nicht so hoch oder felsig wie ein Berg.",
         "descriptionEN": "a naturally raised area of land, not as high or craggy as a mountain.",
         "descriptionRU": "естественно поднятая местность, не такая высокая или скалистая, как гора.",
-        "descriptionDE": "ein natürlicherweise erhöhtes Gebiet, nicht so hoch oder felsig wie ein Berg."
+        "descriptionTR": "Doğal olarak yükselmiş arazi parçası, dağ kadar yüksek veya kayalık olmayan.",
+        "descriptionAZ": "Təbii şəkildə yüksəlmiş torpaq sahəsi, dağ qədər yüksək və ya qayalı deyil.",
+        "descriptionUK": "природно піднесена частина землі, не така висока і кам’яниста, як гора."
     }, {
         "de": "die Mauer",
         "en": "wall",
         "ru": "стена",
+        "tr": "duvar",
+        "az": "divar",
+        "uk": "стіна",
+        "descriptionDE": "eine durchgehende vertikale Ziegel- oder Steinstruktur, die einen Bereich des Landes umschließt oder teilt.",
         "descriptionEN": "a continuous vertical brick or stone structure that encloses or divides an area of land.",
         "descriptionRU": "непрерывная вертикальная кирпичная или каменная структура, ограничивающая или разделяющая участок земли.",
-        "descriptionDE": "eine durchgehende vertikale Ziegel- oder Steinstruktur, die einen Bereich des Landes umschließt oder teilt."
+        "descriptionTR": "Bir arazi parçasını çevreleyen veya bölen sürekli dikey tuğla veya taş yapısı.",
+        "descriptionAZ": "Torpaq sahəsini əhatə edən və ya bölən fasiləsiz dik şaquli kirpiç və ya daş quruluş.",
+        "descriptionUK": "безперервна вертикальна цегляна або кам’яна структура, що оточує або ділить ділянку землі."
     }, {
         "de": "die Kasernen",
         "en": "barracks",
         "ru": "бараки",
+        "tr": "kışla",
+        "az": "batalyon",
+        "uk": "казарми",
+        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden.",
         "descriptionEN": "a building or group of buildings used to house soldiers.",
         "descriptionRU": "здание или группа зданий, используемых для размещения солдат.",
-        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden."
+        "descriptionTR": "Askerlerin konaklaması için kullanılan bir veya birden fazla bina.",
+        "descriptionAZ": "Əsgərlərin yerləşdirilməsi üçün istifadə olunan bina və ya binalar qrupu.",
+        "descriptionUK": "будівля або група будівель, що використовуються для проживання солдат."
     }, {
         "de": "die Brauerei",
         "en": "brewery",
         "ru": "пивоварня",
+        "tr": "bira fabrikası",
+        "az": "pivə zavodu",
+        "uk": "пивоварня",
+        "descriptionDE": "ein Ort, an dem Bier kommerziell hergestellt wird.",
         "descriptionEN": "a place where beer is made commercially.",
         "descriptionRU": "место, где коммерчески производится пиво.",
-        "descriptionDE": "ein Ort, an dem Bier kommerziell hergestellt wird."
+        "descriptionTR": "Biranın ticari olarak üretildiği yer.",
+        "descriptionAZ": "Pivənin kommersiya məqsədilə hazırlandığı yer.",
+        "descriptionUK": "місце, де пиво виготовляється комерційно."
     }, {
         "de": "die Entscheidung",
         "en": "decision",
         "ru": "решение",
+        "tr": "karar",
+        "az": "qərar",
+        "uk": "рішення",
+        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegung erreicht wurde.",
         "descriptionEN": "a conclusion or resolution reached after consideration.",
         "descriptionRU": "вывод или решение, принятое после обдумывания.",
-        "descriptionDE": "eine Schlussfolgerung oder Lösung, die nach Überlegung erreicht wurde."
+        "descriptionTR": "Düşünme sonrası varılan sonuca veya karara.",
+        "descriptionAZ": "Düşüncə nəticəsində əldə olunan qətnamə və ya qərar.",
+        "descriptionUK": "висновок або розв’язання, досягнуте після розгляду."
     }, {
         "de": "die Kaserne",
         "en": "barrack",
         "ru": "барак",
+        "tr": "kışla",
+        "az": "batalyon binası",
+        "uk": "казарма",
+        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden.",
         "descriptionEN": "a building or group of buildings used to house soldiers.",
         "descriptionRU": "здание или группа зданий, используемых для размещения солдат.",
-        "descriptionDE": "ein Gebäude oder eine Gruppe von Gebäuden, die zur Unterbringung von Soldaten genutzt werden."
+        "descriptionTR": "Askerlerin konaklaması için kullanılan bir bina veya bina grubu.",
+        "descriptionAZ": "Əsgərlərin yerləşdirilməsi üçün istifadə olunan bina və ya bina qrupu.",
+        "descriptionUK": "будівля або група будівель, що використовуються для проживання солдат."
     }, {
         "de": "die Bewaffnung",
         "en": "armament",
         "ru": "вооружение",
+        "tr": "silahlanma",
+        "az": "silahlanma",
+        "uk": "озброєння",
+        "descriptionDE": "die Waffen und Ausrüstung einer militärischen Einheit oder Organisation.",
         "descriptionEN": "the weapons and equipment of a military unit or organization.",
         "descriptionRU": "оружие и снаряжение военного подразделения или организации.",
-        "descriptionDE": "die Waffen und Ausrüstung einer militärischen Einheit oder Organisation."
+        "descriptionTR": "Askeri birim veya organizasyonun silah ve teçhizatı.",
+        "descriptionAZ": "Hərbi bölmə və ya təşkilatın silahları və avadanlıqları.",
+        "descriptionUK": "озброєння та обладнання військової одиниці або організації."
     }, {
         "de": "die Kapitulation",
         "en": "surrender",
         "ru": "капитуляция",
+        "tr": "teslim olma",
+        "az": "təşkil etmək",
+        "uk": "капітуляція",
+        "descriptionDE": "die Handlung der Kapitulation, das Aufhören, einem Gegner oder einer Forderung zu widerstehen.",
         "descriptionEN": "the action of surrendering, ceasing to resist an opponent or demand.",
         "descriptionRU": "действие капитуляции, прекращение сопротивления противнику или требованию.",
-        "descriptionDE": "die Handlung der Kapitulation, das Aufhören, einem Gegner oder einer Forderung zu widerstehen."
+        "descriptionTR": "Teslim olma eylemi, bir düşmana veya talebe karşı direnmeyi bırakmak.",
+        "descriptionAZ": "Təşkil etmək hərəkəti, rəqibə və ya tələbə müqavimət göstərməkdən imtina etmək.",
+        "descriptionUK": "дія капітуляції, припинення опору супротивнику чи вимозі."
     }, {
         "de": "der Kongress",
         "en": "congress",
         "ru": "конгресс",
+        "tr": "kongre",
+        "az": "konqres",
+        "uk": "конгрес",
+        "descriptionDE": "ein formelles Treffen oder eine Serie von Treffen zur Diskussion zwischen Delegierten, insbesondere solchen einer politischen Partei oder Gewerkschaft oder aus einem bestimmten Tätigkeitsbereich.",
         "descriptionEN": "a formal meeting or series of meetings for discussion between delegates, especially those from a political party or trade union or from within a particular sphere of activity.",
         "descriptionRU": "официальная встреча или серия встреч для обсуждения между делегатами, особенно теми, кто от политической партии или профсоюза или из определенной сферы деятельности.",
-        "descriptionDE": "ein formelles Treffen oder eine Serie von Treffen zur Diskussion zwischen Delegierten, insbesondere solchen einer politischen Partei oder Gewerkschaft oder aus einem bestimmten Tätigkeitsbereich."
+        "descriptionTR": "Delegelerin, özellikle siyasi parti, sendika veya belirli bir faaliyet alanından temsilcilerin resmi toplantısı veya toplantılar serisi.",
+        "descriptionAZ": "Nümayəndələrin, xüsusilə siyasi partiya, peşə birliyi və ya müəyyən bir fəaliyyət sahəsindən olanların rəsmi görüşü və ya görüşlər seriyası.",
+        "descriptionUK": "офіційна зустріч або серія зустрічей для обговорення між делегатами, особливо від політичної партії, профспілки або певної сфери діяльності."
     }, {
         "de": "die Führung",
         "en": "leadership",
         "ru": "лидерство",
+        "tr": "liderlik",
+        "az": "liderlik",
+        "uk": "лідерство",
+        "descriptionDE": "die Handlung, eine Gruppe von Menschen oder eine Organisation zu führen.",
         "descriptionEN": "the action of leading a group of people or an organization.",
         "descriptionRU": "действие по руководству группой людей или организацией.",
-        "descriptionDE": "die Handlung, eine Gruppe von Menschen oder eine Organisation zu führen."
+        "descriptionTR": "Bir insan grubu veya organizasyonu yönetme eylemi.",
+        "descriptionAZ": "İnsan qrupu və ya təşkilatı idarə etmək hərəkəti.",
+        "descriptionUK": "дія керування групою людей або організацією."
     }, {
         "de": "bewaffnen",
         "en": "to arm",
         "ru": "вооружать",
+        "tr": "silahlandırmak",
+        "az": "silahlandırmaq",
+        "uk": "озброювати",
+        "descriptionDE": "mit Waffen versehen oder ausrüsten.",
         "descriptionEN": "to provide or supply with weapons.",
         "descriptionRU": "обеспечивать или поставлять оружие.",
-        "descriptionDE": "mit Waffen versehen oder ausrüsten."
+        "descriptionTR": "Silahlarla donatmak veya sağlamak.",
+        "descriptionAZ": "Silahlarla təmin etmək və ya təchiz etmək.",
+        "descriptionUK": "забезпечувати або постачати зброєю."
     }, {
         "de": "kapitulieren",
         "en": "to capitulate",
         "ru": "капитулировать",
+        "tr": "teslim olmak",
+        "az": "təslim olmaq",
+        "uk": "капітулювати",
+        "descriptionDE": "dem Gegner oder einer unerwünschten Forderung Widerstand leisten; kapitulieren.",
         "descriptionEN": "to cease to resist an opponent or an unwelcome demand; surrender.",
-        "descriptionRU": "прекратить сопротивление противнику или нежелательному требованию; сдаваться.",
-        "descriptionDE": "dem Gegner oder einer unerwünschten Forderung Widerstand leisten; kapitulieren."
+        "descriptionRU": "прекратить сопротивление противнику или нежеланному требованию; сдаваться.",
+        "descriptionTR": "Bir rakibe veya istenmeyen bir talebe karşı direnmeyi bırakmak; teslim olmak.",
+        "descriptionAZ": "Rəqibə və ya istənməyən tələbə müqavimət göstərməyi dayandırmaq; təslim olmaq.",
+        "descriptionUK": "припинити опір супротивнику або небажаній вимозі; здатися."
     }, {
         "de": "entscheiden",
         "en": "to decide",
         "ru": "решать",
+        "tr": "karar vermek",
+        "az": "qərar vermək",
+        "uk": "вирішувати",
+        "descriptionDE": "infolge von Überlegungen oder Beobachtungen zu einer Auflösung im Geist gelangen oder bringen.",
         "descriptionEN": "to come or bring to a resolution in the mind as a result of consideration or observation.",
         "descriptionRU": "прийти к решению в уме в результате обдумывания или наблюдения.",
-        "descriptionDE": "infolge von Überlegungen oder Beobachtungen zu einer Auflösung im Geist gelangen oder bringen."
+        "descriptionTR": "Düşünme veya gözlem sonucu zihinde bir karara varmak veya getirmek.",
+        "descriptionAZ": "Düşüncə və ya müşahidə nəticəsində zehnində qərara gəlmək və ya gətirmək.",
+        "descriptionUK": "прийти або привести до розв’язання в розумі в результаті роздумів або спостережень."
     }, {
         "de": "erhalten",
         "en": "to receive",
         "ru": "получить",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
+        "descriptionDE": "etwas erhalten, präsentiert oder bezahlt bekommen.",
         "descriptionEN": "to be given, presented with, or paid (something).",
         "descriptionRU": "получать, представлять собой или оплачивать (что-то).",
-        "descriptionDE": "etwas erhalten, präsentiert oder bezahlt bekommen."
+        "descriptionTR": "Bir şeyi verilmek, sunulmak veya ödenmek.",
+        "descriptionAZ": "Bir şeyi almaq, təqdim olunmaq və ya ödənmək.",
+        "descriptionUK": "бути наданим, презентованим або оплаченим (щось)."
     }, {
         "de": "belagern",
         "en": "to besiege",
         "ru": "осаждать",
+        "tr": "kuşatmak",
+        "az": "məhkum etmək",
+        "uk": "облогу",
+        "descriptionDE": "ein (Ort) mit bewaffneten Kräften umgeben, um ihn zu erobern oder zur Kapitulation zu zwingen.",
         "descriptionEN": "to surround (a place) with armed forces in order to capture it or force its surrender.",
         "descriptionRU": "окружить (место) вооруженными силами, чтобы захватить его или заставить сдаться.",
-        "descriptionDE": "ein (Ort) mit bewaffneten Kräften umgeben, um ihn zu erobern oder zur Kapitulation zu zwingen."
+        "descriptionTR": "Bir yeri ele geçirmek veya teslim olmaya zorlamak için silahlı kuvvetlerle çevirmek.",
+        "descriptionAZ": "Bir yeri ələ keçirmək və ya təslim etməyə məcbur etmək üçün silahlı qüvvələrlə əhatə etmək.",
+        "descriptionUK": "оточувати (місце) збройними силами, щоб захопити його або змусити здатися."
     }
-
 ]

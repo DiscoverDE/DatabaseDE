@@ -3,120 +3,222 @@
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
         "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
         "descriptionRU": "человек, с которым у вас есть взаимные чувства дружбы, обычно не включающие сексуальные или семейные отношения.",
-        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet, in der Regel exklusiv von sexuellen oder familiären Beziehungen."
+        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet, in der Regel exklusiv von sexuellen oder familiären Beziehungen.",
+        "descriptionTR": "Karşılıklı sevgi bağı olan, genellikle cinsel veya ailevi ilişki içermeyen bir kişi.",
+        "descriptionAZ": "Adətən cinsi və ya ailə əlaqələrindən kənar qarşılıqlı sevgi bağı olan şəxs.",
+        "descriptionUK": "Людина, з якою існує взаємна симпатія, зазвичай без сексуальних або сімейних відносин."
     }, {
         "de": "die Karriere",
         "en": "career",
         "ru": "карьера",
+        "tr": "kariyer",
+        "az": "karyera",
+        "uk": "кар'єра",
         "descriptionEN": "an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
         "descriptionRU": "занятие, осуществляемое в течение значительного периода жизни человека и с возможностями для прогресса.",
-        "descriptionDE": "eine Tätigkeit, die über einen längeren Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritte bietet."
+        "descriptionDE": "eine Tätigkeit, die über einen längeren Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritte bietet.",
+        "descriptionTR": "Bir kişinin hayatında önemli bir süre boyunca sürdürülen ve ilerleme fırsatları sunan meslek.",
+        "descriptionAZ": "Bir şəxsin həyatında uzun müddət davam edən və irəliləyiş imkanı verən peşə.",
+        "descriptionUK": "Робота, яку людина виконує значну частину життя, з можливостями для кар'єрного росту."
     }, {
         "de": "die Berufstätige",
         "en": "working person",
         "ru": "работающий человек",
+        "tr": "çalışan kişi",
+        "az": "işləyən şəxs",
+        "uk": "працююча людина",
         "descriptionEN": "a person engaged in paid employment.",
         "descriptionRU": "человек, занятый оплачиваемым трудом.",
-        "descriptionDE": "eine Person, die einer bezahlten Beschäftigung nachgeht."
+        "descriptionDE": "eine Person, die einer bezahlten Beschäftigung nachgeht.",
+        "descriptionTR": "Ücretli bir işte çalışan kişi.",
+        "descriptionAZ": "Maaşlı işdə çalışan şəxs.",
+        "descriptionUK": "Людина, що займається оплачуваною роботою."
     }, {
         "de": "die Herausforderung",
         "en": "challenge",
         "ru": "вызов",
+        "tr": "meydan okuma",
+        "az": "çağırış",
+        "uk": "виклик",
         "descriptionEN": "a call to take part in a contest or competition, especially a duel.",
         "descriptionRU": "призыв принять участие в конкурсе или соревновании, особенно в двобое.",
-        "descriptionDE": "eine Aufforderung, an einem Wettkampf oder Wettbewerb teilzunehmen, insbesondere einem Duell."
+        "descriptionDE": "eine Aufforderung, an einem Wettkampf oder Wettbewerb teilzunehmen, insbesondere einem Duell.",
+        "descriptionTR": "Bir yarışma ya da mücadeleye katılma çağrısı, özellikle düello.",
+        "descriptionAZ": "Bir yarışmaya və ya mübarizəyə qoşulmaq çağırışı, xüsusilə duelə.",
+        "descriptionUK": "Заклик взяти участь у змаганні або конкурсі, особливо у двобої."
     }, {
         "de": "die Unterstützung",
         "en": "support",
         "ru": "поддержка",
+        "tr": "destek",
+        "az": "dəstək",
+        "uk": "підтримка",
         "descriptionEN": "the provision of assistance or encouragement to facilitate the success or completion of something.",
         "descriptionRU": "предоставление помощи или поддержки для облегчения успешного завершения чего-либо.",
-        "descriptionDE": "die Bereitstellung von Hilfe oder Ermutigung, um den Erfolg oder die Vollendung von etwas zu erleichtern."
+        "descriptionDE": "die Bereitstellung von Hilfe oder Ermutigung, um den Erfolg oder die Vollendung von etwas zu erleichtern.",
+        "descriptionTR": "Bir şeyin başarılı bir şekilde tamamlanmasına yardımcı olmak için sağlanan yardım veya teşvik.",
+        "descriptionAZ": "Bir işin uğurla başa çatmasına kömək etmək üçün verilən yardım və ya təşviq.",
+        "descriptionUK": "Надання допомоги або заохочення для сприяння успішному завершенню чогось."
     }, {
         "de": "die Vorbereitung",
         "en": "preparation",
         "ru": "подготовка",
+        "tr": "hazırlık",
+        "az": "hazırlıq",
+        "uk": "підготовка",
         "descriptionEN": "the action or process of making ready or being made ready for use or consideration.",
         "descriptionRU": "действие или процесс подготовки к использованию или рассмотрению.",
-        "descriptionDE": "die Handlung oder der Prozess des Bereitmachens oder des Bereitseins zur Verwendung oder Berücksichtigung."
+        "descriptionDE": "die Handlung oder der Prozess des Bereitmachens oder des Bereitseins zur Verwendung oder Berücksichtigung.",
+        "descriptionTR": "Hazır hale getirme veya hazır olma süreci.",
+        "descriptionAZ": "Hazırlaşdırma və ya hazır olma prosesi.",
+        "descriptionUK": "Дія або процес підготовки до використання або розгляду."
     }, {
         "de": "der Anzug",
         "en": "suit",
         "ru": "костюм",
+        "tr": "takım elbise",
+        "az": "kostyum",
+        "uk": "костюм",
         "descriptionEN": "a set of outer clothes made of the same fabric and designed to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
         "descriptionRU": "комплект верхней одежды, изготовленный из одного и того же материала и предназначенный для ношения вместе, обычно состоящий из пиджака и брюк или пиджака и юбки.",
-        "descriptionDE": "ein Satz äußerer Kleidung aus demselben Stoff, der dazu bestimmt ist, zusammen getragen zu werden, in der Regel bestehend aus einem Jackett und einer Hose oder einem Jackett und einem Rock."
+        "descriptionDE": "ein Satz äußerer Kleidung aus demselben Stoff, der dazu bestimmt ist, zusammen getragen zu werden, in der Regel bestehend aus einem Jackett und einer Hose oder einem Jackett und einem Rock.",
+        "descriptionTR": "Aynı kumaştan yapılmış, genellikle ceket ve pantolon veya etekten oluşan kıyafet takımı.",
+        "descriptionAZ": "Eyni materialdan hazırlanmış, adətən pencək və şalvardan ibarət olan geyim dəsti.",
+        "descriptionUK": "Комплект одягу з однієї тканини, зазвичай піджак і штани або спідниця."
     }, {
         "de": "das Unternehmen",
         "en": "company",
         "ru": "компания",
+        "tr": "şirket",
+        "az": "şirkət",
+        "uk": "компанія",
         "descriptionEN": "a commercial business.",
         "descriptionRU": "коммерческое предприятие.",
-        "descriptionDE": "ein kommerzielles Unternehmen."
+        "descriptionDE": "ein kommerzielles Unternehmen.",
+        "descriptionTR": "Ticari bir işletme.",
+        "descriptionAZ": "Ticarət müəssisəsi.",
+        "descriptionUK": "Комерційне підприємство."
     }, {
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "tr": "daire",
+        "az": "mənzil",
+        "uk": "квартира",
         "descriptionEN": "a suite of rooms forming one residence, typically in a building containing a number of these.",
         "descriptionRU": "набор комнат, составляющих одно жилище, обычно в здании, содержащем ряд таких.",
-        "descriptionDE": "eine Suite von Räumen, die eine Residenz bilden, in der Regel in einem Gebäude mit einer Anzahl davon."
+        "descriptionDE": "eine Suite von Räumen, die eine Residenz bilden, in der Regel in einem Gebäude mit einer Anzahl davon.",
+        "descriptionTR": "Genellikle birçok daire içeren bir binada, bir konutu oluşturan oda takımı.",
+        "descriptionAZ": "Əsasən çoxmənzilli binada yerləşən bir yaşayış sahəsi.",
+        "descriptionUK": "Житлові кімнати, що утворюють одне помешкання, зазвичай у багатоквартирному будинку."
     }, {
         "de": "die Gesellschaft",
         "en": "society",
         "ru": "общество",
+        "tr": "toplum",
+        "az": "cəmiyyət",
+        "uk": "суспільство",
         "descriptionEN": "the aggregate of people living together in a more or less ordered community.",
         "descriptionRU": "совокупность людей, живущих в более или менее упорядоченном сообществе.",
-        "descriptionDE": "die Gesamtheit der Menschen, die zusammen in einer mehr oder weniger geordneten Gemeinschaft leben."
+        "descriptionDE": "die Gesamtheit der Menschen, die zusammen in einer mehr oder weniger geordneten Gemeinschaft leben.",
+        "descriptionTR": "Belirli bir düzende birlikte yaşayan insanların toplamı.",
+        "descriptionAZ": "Nizamlı və ya nisbətən nizamlı şəkildə yaşayan insanların cəmi.",
+        "descriptionUK": "Сукупність людей, що живуть разом у впорядкованій спільноті."
     }, {
         "de": "der Bahnhof",
         "en": "train station",
         "ru": "железнодорожный вокзал",
+        "tr": "tren istasyonu",
+        "az": "dəmir yolu stansiyası",
+        "uk": "залізнична станція",
         "descriptionEN": "a place where trains stop to pick up and drop off passengers.",
         "descriptionRU": "место, где поезда останавливаются, чтобы забирать и высаживать пассажиров.",
-        "descriptionDE": "ein Ort, an dem Züge halten, um Passagiere ein- und aussteigen zu lassen."
+        "descriptionDE": "ein Ort, an dem Züge halten, um Passagiere ein- und aussteigen zu lassen.",
+        "descriptionTR": "Trenlerin yolcu alıp indirmek için durduğu yer.",
+        "descriptionAZ": "Qatarların sərnişinləri götürmək və düşürmək üçün dayandığı yer.",
+        "descriptionUK": "Місце, де зупиняються поїзди, щоб висадити або забрати пасажирів."
     }, {
         "de": "treffen",
         "en": "to meet",
         "ru": "встречаться",
+        "tr": "buluşmak",
+        "az": "görüşmək",
+        "uk": "зустрічатися",
         "descriptionEN": "to come together with someone intentionally.",
         "descriptionRU": "сознательно встретиться с кем-то.",
-        "descriptionDE": "sich absichtlich mit jemandem zusammentreffen."
+        "descriptionDE": "sich absichtlich mit jemandem zusammentreffen.",
+        "descriptionTR": "Biriyle bilinçli olarak bir araya gelmek.",
+        "descriptionAZ": "Kiminləsə qəsdən görüşmək.",
+        "descriptionUK": "Свідомо зустрітися з кимось."
     }, {
         "de": "besprechen",
         "en": "to discuss",
         "ru": "обсуждать",
+        "tr": "tartışmak",
+        "az": "müzakirə etmək",
+        "uk": "обговорювати",
         "descriptionEN": "to talk about something with someone and share ideas or opinions.",
         "descriptionRU": "поговорить о чем-то с кем-то и поделиться идеями или мнениями.",
-        "descriptionDE": "über etwas mit jemandem sprechen und Ideen oder Meinungen austauschen."
+        "descriptionDE": "über etwas mit jemandem sprechen und Ideen oder Meinungen austauschen.",
+        "descriptionTR": "Bir konuyu biriyle konuşmak ve fikir alışverişinde bulunmak.",
+        "descriptionAZ": "Hər hansı bir mövzunu kiminləsə danışmaq və fikir mübadiləsi aparmaq.",
+        "descriptionUK": "Обговорити щось з кимось та поділитися ідеями або думками."
     }, {
         "de": "freuen",
         "en": "to rejoice",
         "ru": "радоваться",
+        "tr": "sevinmek",
+        "az": "sevinmək",
+        "uk": "радіти",
         "descriptionEN": "to feel or show joy or happiness.",
         "descriptionRU": "чувствовать или выражать радость или счастье.",
-        "descriptionDE": "Freude oder Glück empfinden oder zeigen."
+        "descriptionDE": "Freude oder Glück empfinden oder zeigen.",
+        "descriptionTR": "Sevinç veya mutluluk hissetmek ya da göstermek.",
+        "descriptionAZ": "Sevinc və ya xoşbəxtlik hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчувати або виражати радість чи щастя."
     }, {
         "de": "beginnen",
         "en": "to begin",
         "ru": "начинать",
+        "tr": "başlamak",
+        "az": "başlamaq",
+        "uk": "починати",
         "descriptionEN": "to start or commence something.",
         "descriptionRU": "начать или начать что-то.",
-        "descriptionDE": "etwas anfangen oder beginnen."
+        "descriptionDE": "etwas anfangen oder beginnen.",
+        "descriptionTR": "Bir şeye başlamak.",
+        "descriptionAZ": "Bir şeyə başlamaq.",
+        "descriptionUK": "Почати щось робити."
     }, {
         "de": "bekommen",
         "en": "to receive",
         "ru": "получать",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
         "descriptionEN": "to be given, presented with, or paid (something).",
         "descriptionRU": "получать, представлять собой или платить (что-то).",
-        "descriptionDE": "etwas gegeben, präsentiert oder bezahlt bekommen."
+        "descriptionDE": "etwas gegeben, präsentiert oder bezahlt bekommen.",
+        "descriptionTR": "Bir şeyi almak, sunulmak ya da ödemesini almak.",
+        "descriptionAZ": "Bir şeyi almaq, təqdim olunmaq və ya pulunu almaq.",
+        "descriptionUK": "Отримати щось, бути нагородженим або оплаченим."
     }, {
         "de": "nutzen",
         "en": "to use",
         "ru": "использовать",
+        "tr": "kullanmak",
+        "az": "istifadə etmək",
+        "uk": "використовувати",
         "descriptionEN": "to take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
         "descriptionRU": "взять, удержать или использовать (что-то) как средство достижения цели или достижения результата.",
-        "descriptionDE": "etwas als Mittel zur Erfüllung eines Zwecks oder zur Erzielung eines Ergebnisses einsetzen, halten oder einsetzen."
+        "descriptionDE": "etwas als Mittel zur Erfüllung eines Zwecks oder zur Erzielung eines Ergebnisses einsetzen, halten oder einsetzen.",
+        "descriptionTR": "Bir amacı gerçekleştirmek için bir şeyi almak, tutmak ya da kullanmak.",
+        "descriptionAZ": "Bir məqsədə çatmaq üçün bir şeyi götürmək, saxlamaq və ya istifadə etmək.",
+        "descriptionUK": "Використовувати щось для досягнення мети або результату."
     }
 ]

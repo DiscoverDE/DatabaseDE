@@ -3,141 +3,261 @@
         "de": "der Faulpelz",
         "en": "lazybones",
         "ru": "лентяй",
+        "tr": "tembel",
+        "az": "tənbəl",
+        "uk": "ледар",
         "descriptionEN": "a lazy person who avoids work or responsibility",
         "descriptionRU": "ленивый человек, избегающий работы или ответственности",
-        "descriptionDE": "eine faule Person, die Arbeit oder Verantwortung vermeidet"
+        "descriptionDE": "eine faule Person, die Arbeit oder Verantwortung vermeidet",
+        "descriptionTR": "işten veya sorumluluktan kaçan tembel bir kişi",
+        "descriptionAZ": "işdən və ya məsuliyyətdən qaçan tənbəl bir şəxs",
+        "descriptionUK": "лінива людина, яка уникає роботи чи відповідальності"
     }, {
         "de": "die Stellenausschreibung",
         "en": "job advertisement",
         "ru": "вакансия",
+        "tr": "iş ilanı",
+        "az": "vakansiya elanı",
+        "uk": "вакансія",
         "descriptionEN": "an announcement of a job vacancy",
         "descriptionRU": "объявление о вакансии",
-        "descriptionDE": "eine Ankündigung einer offenen Stelle"
+        "descriptionDE": "eine Ankündigung einer offenen Stelle",
+        "descriptionTR": "bir iş pozisyonunun açık olduğunu duyurma",
+        "descriptionAZ": "iş vakansiyasının elanı",
+        "descriptionUK": "оголошення про вакансію"
     }, {
         "de": "das Lebenslauf",
         "en": "curriculum vitae (CV)",
         "ru": "резюме",
+        "tr": "özgeçmiş",
+        "az": "tərcümeyi-hal",
+        "uk": "резюме",
         "descriptionEN": "a brief account of a person's education, qualifications, and previous experience",
         "descriptionRU": "краткое изложение образования, квалификации и предыдущего опыта человека",
-        "descriptionDE": "eine kurze Darstellung von Ausbildung, Qualifikationen und früheren Erfahrungen einer Person"
+        "descriptionDE": "eine kurze Darstellung von Ausbildung, Qualifikationen und früheren Erfahrungen einer Person",
+        "descriptionTR": "bir kişinin eğitimi, nitelikleri ve önceki deneyimlerinin kısa bir açıklaması",
+        "descriptionAZ": "bir şəxsin təhsili, ixtisasları və əvvəlki təcrübəsi haqqında qısa məlumat",
+        "descriptionUK": "короткий виклад освіти, кваліфікації та попереднього досвіду людини"
     }, {
         "de": "die Stelle",
         "en": "position",
         "ru": "позиция",
+        "tr": "pozisyon",
+        "az": "vəzifə",
+        "uk": "позиція",
         "descriptionEN": "a job or position",
         "descriptionRU": "работа или должность",
-        "descriptionDE": "eine Arbeitsstelle oder Position"
+        "descriptionDE": "eine Arbeitsstelle oder Position",
+        "descriptionTR": "bir iş veya pozisyon",
+        "descriptionAZ": "iş və ya vəzifə",
+        "descriptionUK": "робота чи посада"
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "a plantation of grapevines, typically producing grapes used in winemaking",
         "descriptionRU": "плантация виноградных лоз, обычно производящая виноград, используемый в виноделии",
-        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden"
+        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden",
+        "descriptionTR": "genellikle şarap yapımında kullanılan üzümler üreten bir asma plantasyonu",
+        "descriptionAZ": "ümumiyyətlə şərab istehsalında istifadə olunan üzüm istehsal edən üzüm bağı",
+        "descriptionUK": "плантація виноградної лози, яка зазвичай виробляє виноград, що використовується у виноробстві"
     }, {
         "de": "die Vorstellungsgespräch",
         "en": "job interview",
         "ru": "собеседование",
+        "tr": "iş görüşmesi",
+        "az": "iş müsahibəsi",
+        "uk": "співбесіда",
         "descriptionEN": "a formal discussion between an employer and a potential employee to determine whether the candidate should be hired",
         "descriptionRU": "официальное обсуждение между работодателем и потенциальным сотрудником для определения, следует ли принять кандидата на работу",
-        "descriptionDE": "eine formelle Diskussion zwischen einem Arbeitgeber und einem potenziellen Mitarbeiter, um festzustellen, ob der Kandidat eingestellt werden sollte"
+        "descriptionDE": "eine formelle Diskussion zwischen einem Arbeitgeber und einem potenziellen Mitarbeiter, um festzustellen, ob der Kandidat eingestellt werden sollte",
+        "descriptionTR": "adayın işe alınıp alınmayacağını belirlemek için bir işveren ve potansiyel bir çalışan arasında resmi bir tartışma",
+        "descriptionAZ": "namizədin işə götürülüb-götürülməməsini müəyyən etmək üçün işəgötürən və potensial işçi arasında rəsmi müzakirə",
+        "descriptionUK": "офіційне обговорення між роботодавцем і потенційним співробітником для визначення, чи слід прийняти кандидата на роботу"
     }, {
         "de": "die Sommerhitze",
         "en": "summer heat",
         "ru": "летняя жара",
+        "tr": "yaz sıcağı",
+        "az": "yay istisi",
+        "uk": "літня спека",
         "descriptionEN": "high temperatures experienced during the summer season",
         "descriptionRU": "высокие температуры, характерные для летнего сезона",
-        "descriptionDE": "hohe Temperaturen, die im Sommer erlebt werden"
+        "descriptionDE": "hohe Temperaturen, die im Sommer erlebt werden",
+        "descriptionTR": "yaz mevsiminde yaşanan yüksek sıcaklıklar",
+        "descriptionAZ": "yay fəslində yaşanan yüksək temperaturlar",
+        "descriptionUK": "високі температури, характерні для літнього сезону"
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "the pervading tone or mood of a place, situation, or creative work",
         "descriptionRU": "преобладающий тон или настроение места, ситуации или творческого произведения",
-        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines kreativen Werks"
+        "descriptionDE": "die vorherrschende Stimmung oder Atmosphäre eines Ortes, einer Situation oder eines kreativen Werks",
+        "descriptionTR": "bir yerin, durumun veya yaratıcı çalışmanın hakim tonu veya ruh hali",
+        "descriptionAZ": "bir yerin, vəziyyətin və ya yaradıcı işin üstünlük təşkil edən tonu və ya əhvalı",
+        "descriptionUK": "панівний тон або настрій місця, ситуації чи творчої роботи"
     }, {
         "de": "der Chef",
         "en": "boss",
         "ru": "босс",
+        "tr": "patron",
+        "az": "rəhbər",
+        "uk": "бос",
         "descriptionEN": "a person in charge of a worker or organization",
         "descriptionRU": "человек, ответственный за работника или организацию",
-        "descriptionDE": "eine Person, die für einen Arbeiter oder eine Organisation verantwortlich ist"
+        "descriptionDE": "eine Person, die für einen Arbeiter oder eine Organisation verantwortlich ist",
+        "descriptionTR": "bir işçi veya organizasyondan sorumlu kişi",
+        "descriptionAZ": "bir işçi və ya təşkilat üzrə məsul şəxs",
+        "descriptionUK": "людина, відповідальна за працівника чи організацію"
     }, {
         "de": "der Wettbewerb",
         "en": "competition",
         "ru": "соревнование",
+        "tr": "rekabet",
+        "az": "rəqabət",
+        "uk": "змагання",
         "descriptionEN": "a contest between individuals or groups",
         "descriptionRU": "соревнование между отдельными лицами или группами",
-        "descriptionDE": "ein Wettkampf zwischen Einzelpersonen oder Gruppen"
+        "descriptionDE": "ein Wettkampf zwischen Einzelpersonen oder Gruppen",
+        "descriptionTR": "bireyler veya gruplar arasında bir yarışma",
+        "descriptionAZ": "fərdlər və ya qruplar arasında yarış",
+        "descriptionUK": "змагання між окремими особами чи групами"
     }, {
         "de": "die Festanstellung",
         "en": "permanent employment",
         "ru": "постоянная работа",
+        "tr": "kalıcı iş",
+        "az": "daimi iş",
+        "uk": "постійна робота",
         "descriptionEN": "a job with no pre-determined end date, where the employee is typically eligible for benefits",
         "descriptionRU": "работа без предварительно установленной даты окончания, при которой сотрудник обычно имеет право на льготы",
-        "descriptionDE": "eine Stelle ohne vorher festgelegtes Enddatum, bei der der Mitarbeiter in der Regel Anspruch auf Leistungen hat"
+        "descriptionDE": "eine Stelle ohne vorher festgelegtes Enddatum, bei der der Mitarbeiter in der Regel Anspruch auf Leistungen hat",
+        "descriptionTR": "önceden belirlenmiş bir bitiş tarihi olmayan ve çalışanın genellikle faydalardan yararlanmaya hak kazandığı bir iş",
+        "descriptionAZ": "əvvəlcədən müəyyən edilmiş bitmə tarixi olmayan və işçinin ümumiyyətlə müavinət almaq hüququna malik olduğu iş",
+        "descriptionUK": "робота без попередньо визначеної дати закінчення, де працівник зазвичай має право на пільги"
     }, {
         "de": "lernen",
         "en": "to learn",
         "ru": "учиться",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "вчитися",
         "descriptionEN": "to acquire knowledge or skill through study, experience, or being taught",
         "descriptionRU": "приобретать знания или навыки через изучение, опыт или обучение",
-        "descriptionDE": "Wissen oder Fähigkeiten durch Studium, Erfahrung oder Unterricht erwerben"
+        "descriptionDE": "Wissen oder Fähigkeiten durch Studium, Erfahrung oder Unterricht erwerben",
+        "descriptionTR": "çalışma, deneyim veya öğretim yoluyla bilgi veya beceri edinmek",
+        "descriptionAZ": "təhsil, təcrübə və ya təlim vasitəsilə bilik və ya bacarıq qazanmaq",
+        "descriptionUK": "придбавати знання чи навички через вивчення, досвід чи навчання"
     }, {
         "de": "bewerben",
         "en": "to apply",
         "ru": "применять",
+        "tr": "başvurmak",
+        "az": "müraciət etmək",
+        "uk": "подавати заявку",
         "descriptionEN": "to make a formal application or request",
         "descriptionRU": "сделать официальное заявление или запрос",
-        "descriptionDE": "eine formale Bewerbung oder Anfrage stellen"
+        "descriptionDE": "eine formale Bewerbung oder Anfrage stellen",
+        "descriptionTR": "resmi bir başvuru veya istek yapmak",
+        "descriptionAZ": "rəsmi müraciət və ya sorğu etmək",
+        "descriptionUK": "зробити офіційну заяву чи запит"
     }, {
         "de": "kramen",
         "en": "to rummage",
         "ru": "рыться",
+        "tr": "karıştırmak",
+        "az": "qarışdırmaq",
+        "uk": "ритися",
         "descriptionEN": "to search unsystematically and untidily through a mass or receptacle",
         "descriptionRU": "поиск несистематично и неряшливо в массе или емкости",
-        "descriptionDE": "unsystematisch und unordentlich in einer Masse oder Behälter suchen"
+        "descriptionDE": "unsystematisch und unordentlich in einer Masse oder Behälter suchen",
+        "descriptionTR": "bir kütle veya kap içinde sistemsiz ve dağınık bir şekilde arama yapmak",
+        "descriptionAZ": "bir kütlə və ya qabda sistemsiz və dağınıq şəkildə axtarış etmək",
+        "descriptionUK": "пошук несистематично і неохайно в масі чи ємності"
     }, {
         "de": "schreiben",
         "en": "to write",
         "ru": "писать",
+        "tr": "yazmak",
+        "az": "yazmaq",
+        "uk": "писати",
         "descriptionEN": "to mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement",
         "descriptionRU": "помечать (буквы, слова или другие символы) на поверхности, обычно бумаге, ручкой, карандашом или подобным инструментом",
-        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf eine Oberfläche, normalerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren"
+        "descriptionDE": "(Buchstaben, Wörter oder andere Symbole) auf eine Oberfläche, normalerweise Papier, mit einem Stift, Bleistift oder ähnlichem Werkzeug markieren",
+        "descriptionTR": "bir yüzeye (genellikle kağıda) kalem, kurşun kalem veya benzeri bir araçla (harfler, kelimeler veya diğer semboller) işaretlemek",
+        "descriptionAZ": "bir səthə (adətən kağız) qələm, karandaş və ya oxşar alət ilə (hərflər, sözlər və ya digər simvollar) qoymaq",
+        "descriptionUK": "позначати (літери, слова чи інші символи) на поверхні, зазвичай папері, ручкою, олівцем чи подібним інструментом"
     }, {
         "de": "zögern",
         "en": "to hesitate",
         "ru": "колебаться",
+        "tr": "tereddüt etmek",
+        "az": "tərəddüd etmək",
+        "uk": "вагатися",
         "descriptionEN": "to pause before saying or doing something, especially through uncertainty",
         "descriptionRU": "задержаться перед тем, чтобы сказать или сделать что-то, особенно из-за неуверенности",
-        "descriptionDE": "bevor man etwas sagt oder tut, besonders durch Unsicherheit, pausieren"
+        "descriptionDE": "bevor man etwas sagt oder tut, besonders durch Unsicherheit, pausieren",
+        "descriptionTR": "özellikle belirsizlik nedeniyle bir şey söylemeden veya yapmadan önce duraklamak",
+        "descriptionAZ": "xüsusilə qeyri-müəyyənlik səbəbindən bir şey deməzdən və ya etməzdən əvvəl dayanmaq",
+        "descriptionUK": "зупинитися перед тим, щоб сказати чи зробити щось, особливо через невпевненість"
     }, {
         "de": "fühlen",
         "en": "to feel",
         "ru": "чувствовать",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
         "descriptionEN": "to be aware of (a person or object) through touching or being touched",
         "descriptionRU": "быть в курсе (человека или объекта) через касание или касание",
-        "descriptionDE": "durch Berührung oder Berühren auf (eine Person oder ein Objekt) aufmerksam gemacht werden"
+        "descriptionDE": "durch Berührung oder Berühren auf (eine Person oder ein Objekt) aufmerksam gemacht werden",
+        "descriptionTR": "dokunarak veya dokunularak (bir kişi veya nesne) farkında olmak",
+        "descriptionAZ": "toxunaraq və ya toxunaraq (bir şəxs və ya obyekt) barədə məlumatlı olmaq",
+        "descriptionUK": "бути в курсі (людини чи об'єкта) через дотик або дотик"
     }, {
         "de": "verkosten",
         "en": "to taste",
         "ru": "пробовать",
+        "tr": "tatmak",
+        "az": "dadmaq",
+        "uk": "пробувати",
         "descriptionEN": "to sample or test the flavor of something, especially food or drink, by taking it into the mouth",
         "descriptionRU": "попробовать или проверить вкус чего-либо, особенно еды или напитка, принимая его в рот",
-        "descriptionDE": "den Geschmack von etwas, insbesondere von Lebensmitteln oder Getränken, probieren oder testen, indem man es in den Mund nimmt"
+        "descriptionDE": "den Geschmack von etwas, insbesondere von Lebensmitteln oder Getränken, probieren oder testen, indem man es in den Mund nimmt",
+        "descriptionTR": "özellikle yiyecek veya içecek gibi bir şeyin tadını ağza alarak örneklemek veya test etmek",
+        "descriptionAZ": "xüsusilə yemək və ya içki kimi bir şeyin dadını ağıza alaraq nümunə götürmək və ya sınaqdan keçirmək",
+        "descriptionUK": "спробувати або перевірити смак чогось, особливо їжі чи напою, беручи його до рота"
     }, {
         "de": "identifizieren",
         "en": "to identify",
         "ru": "идентифицировать",
+        "tr": "tanımlamak",
+        "az": "müəyyən etmək",
+        "uk": "ідентифікувати",
         "descriptionEN": "to establish or indicate who or what (someone or something) is",
         "descriptionRU": "определить или указать, кто или что (кто-то или что-то)",
-        "descriptionDE": "feststellen oder anzeigen, wer oder was (jemand oder etwas) ist"
+        "descriptionDE": "feststellen oder anzeigen, wer oder was (jemand oder etwas) ist",
+        "descriptionTR": "birinin veya bir şeyin kim veya ne olduğunu belirlemek veya göstermek",
+        "descriptionAZ": "kiminsə və ya nəyinsə kim və ya nə olduğunu müəyyən etmək və ya göstərmək",
+        "descriptionUK": "встановити або вказати, хто або що (хтось чи щось) є"
     }, {
         "de": "blamieren",
         "en": "to embarrass",
         "ru": "смущать",
+        "tr": "utandırmak",
+        "az": "utandırmaq",
+        "uk": "бентежити",
         "descriptionEN": "to cause someone to feel awkward, self-conscious, or ashamed",
         "descriptionRU": "заставить кого-то чувствовать себя неуклюжим, самосознательным или стыдиться",
-        "descriptionDE": "jemanden dazu bringen, sich unbeholfen, selbstbewusst oder beschämt zu fühlen"
+        "descriptionDE": "jemanden dazu bringen, sich unbeholfen, selbstbewusst oder beschämt zu fühlen",
+        "descriptionTR": "birini garip, kendini bilinçli veya utanmış hissettirmek",
+        "descriptionAZ": "birini yönsüz, özünüdərk və ya utandırmaq hissi yaratmaq",
+        "descriptionUK": "змусити когось почуватися незграбним, самосвідомим чи сором'язливим"
     }
 ]

@@ -3,148 +3,274 @@
         "de": "das Projekt",
         "en": "Project",
         "ru": "Проект",
+        "tr": "Proje",
+        "az": "Layihə",
+        "uk": "Проект",
         "descriptionEN": "An individual or collaborative enterprise planned and designed to achieve a particular aim.",
         "descriptionRU": "Индивидуальное или коллективное предприятие, запланированное и разработанное для достижения определенной цели.",
-        "descriptionDE": "Ein einzelnes oder gemeinschaftliches Unternehmen, das geplant und entworfen wurde, um ein bestimmtes Ziel zu erreichen."
+        "descriptionDE": "Ein einzelnes oder gemeinschaftliches Unternehmen, das geplant und entworfen wurde, um ein bestimmtes Ziel zu erreichen.",
+        "descriptionTR": "Belirli bir amaca ulaşmak için planlanmış ve tasarlanmış bireysel veya işbirlikçi bir girişim.",
+        "descriptionAZ": "Müəyyən bir məqsədə çatmaq üçün planlanmış və hazırlanmış fərdi və ya kollektiv müəssisə.",
+        "descriptionUK": "Індивідуальне або колективне підприємство, заплановане та розроблене для досягнення певної мети."
     }, {
         "de": "der Schulgarten",
         "en": "School garden",
         "ru": "Школьный сад",
+        "tr": "Okul bahçesi",
+        "az": "Məktəb bağı",
+        "uk": "Шкільний сад",
         "descriptionEN": "A garden that is part of a school environment where students can grow plants and learn about nature.",
         "descriptionRU": "Сад, являющийся частью школьной среды, где ученики могут выращивать растения и изучать природу.",
-        "descriptionDE": "Ein Garten, der Teil der Schulumgebung ist, in dem Schüler Pflanzen anbauen und etwas über die Natur lernen können."
+        "descriptionDE": "Ein Garten, der Teil der Schulumgebung ist, in dem Schüler Pflanzen anbauen und etwas über die Natur lernen können.",
+        "descriptionTR": "Öğrencilerin bitki yetiştirebileceği ve doğa hakkında bilgi edinebileceği, okul ortamının bir parçası olan bir bahçe.",
+        "descriptionAZ": "Şagirdlərin bitki yetişdirə biləcəyi və təbiət haqqında məlumat əldə edə biləcəyi məktəb mühitinin bir hissəsi olan bağ.",
+        "descriptionUK": "Сад, що є частиною шкільного середовища, де учні можуть вирощувати рослини та вивчати природу."
     }, {
         "de": "die Parzelle",
         "en": "Plot",
         "ru": "Участок",
+        "tr": "Parsel",
+        "az": "Sahə",
+        "uk": "Ділянка",
         "descriptionEN": "A small area of ground where something is grown.",
         "descriptionRU": "Небольшой участок земли, на котором что-то выращивается.",
-        "descriptionDE": "Ein kleines Stück Land, auf dem etwas angebaut wird."
+        "descriptionDE": "Ein kleines Stück Land, auf dem etwas angebaut wird.",
+        "descriptionTR": "Bir şeyin yetiştirildiği küçük bir arazi parçası.",
+        "descriptionAZ": "Nəsə yetişdirilən kiçik bir torpaq sahəsi.",
+        "descriptionUK": "Невелика ділянка землі, на якій щось вирощується."
     }, {
         "de": "das Gemüse",
         "en": "Vegetable",
         "ru": "Овощ",
+        "tr": "Sebze",
+        "az": "Tərəvəz",
+        "uk": "Овоч",
         "descriptionEN": "A plant or part of a plant used as food.",
         "descriptionRU": "Растение или часть растения, используемая в пищу.",
-        "descriptionDE": "Eine Pflanze oder ein Teil einer Pflanze, die als Nahrung verwendet wird."
+        "descriptionDE": "Eine Pflanze oder ein Teil einer Pflanze, die als Nahrung verwendet wird.",
+        "descriptionTR": "Yiyecek olarak kullanılan bir bitki veya bitki parçası.",
+        "descriptionAZ": "Qida kimi istifadə olunan bir bitki və ya bitki hissəsi.",
+        "descriptionUK": "Рослина або частина рослини, яка використовується в їжу."
     }, {
         "de": "das Kraut",
         "en": "Herb",
         "ru": "Трава",
+        "tr": "Ot",
+        "az": "Göyərti",
+        "uk": "Трава",
         "descriptionEN": "A plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.",
         "descriptionRU": "Растение с листьями, семенами или цветами, используемое для приправы, пищи, лекарств или духов.",
-        "descriptionDE": "Eine Pflanze mit Blättern, Samen oder Blüten, die als Gewürz, Nahrung, Medizin oder Parfüm verwendet wird."
+        "descriptionDE": "Eine Pflanze mit Blättern, Samen oder Blüten, die als Gewürz, Nahrung, Medizin oder Parfüm verwendet wird.",
+        "descriptionTR": "Lezzetlendirici, gıda, ilaç veya parfüm olarak kullanılan yaprakları, tohumları veya çiçekleri olan bir bitki.",
+        "descriptionAZ": "Dad, qida, dərman və ya ətir kimi istifadə olunan yarpaqları, toxumları və ya çiçəkləri olan bir bitki.",
+        "descriptionUK": "Рослина з листям, насінням або квітами, яка використовується для приправи, їжі, ліків чи парфумів."
     }, {
         "de": "die Tomate",
         "en": "Tomato",
         "ru": "Помидор",
+        "tr": "Domates",
+        "az": "Pomidor",
+        "uk": "Помідор",
         "descriptionEN": "A glossy red or yellowish fruit that is eaten as a vegetable or in salads.",
         "descriptionRU": "Блестящий красный или желтоватый плод, который едят как овощ или в салатах.",
-        "descriptionDE": "Eine glänzende rote oder gelbliche Frucht, die als Gemüse oder in Salaten gegessen wird."
+        "descriptionDE": "Eine glänzende rote oder gelbliche Frucht, die als Gemüse oder in Salaten gegessen wird.",
+        "descriptionTR": "Sebze olarak veya salatalarda yenen parlak kırmızı veya sarımsı bir meyve.",
+        "descriptionAZ": "Tərəvz kimi və ya salatlarda yeyilən parlaq qırmızı və ya sarımtıl bir meyvə.",
+        "descriptionUK": "Блискучий червоний або жовтуватий плід, який їдять як овоч або в салатах."
     }, {
         "de": "der Großvater",
         "en": "Grandfather",
         "ru": "Дедушка",
+        "tr": "Büyükbaba",
+        "az": "Baba",
+        "uk": "Дідусь",
         "descriptionEN": "The father of one’s father or mother.",
         "descriptionRU": "Отец одного из родителей.",
-        "descriptionDE": "Der Vater von jemandes Vater oder Mutter."
+        "descriptionDE": "Der Vater von jemandes Vater oder Mutter.",
+        "descriptionTR": "Birinin anne veya babasının babası.",
+        "descriptionAZ": "Birinin ana və ya atasının atası.",
+        "descriptionUK": "Батько одного з батьків."
     }, {
         "de": "die Pflanze",
         "en": "Plant",
         "ru": "Растение",
+        "tr": "Bitki",
+        "az": "Bitki",
+        "uk": "Рослина",
         "descriptionEN": "A living organism that typically grows in a permanent site, absorbing water and nutrients.",
         "descriptionRU": "Живой организм, который обычно растет на постоянном месте, впитывая воду и питательные вещества.",
-        "descriptionDE": "Ein lebender Organismus, der typischerweise an einem festen Standort wächst und Wasser und Nährstoffe aufnimmt."
+        "descriptionDE": "Ein lebender Organismus, der typischerweise an einem festen Standort wächst und Wasser und Nährstoffe aufnimmt.",
+        "descriptionTR": "Genellikle kalıcı bir yerde büyüyen, su ve besin maddelerini emen canlı bir organizma.",
+        "descriptionAZ": "Adətən daimi bir yerdə böyüyən, su və qida maddələrini udan canlı bir orqanizm.",
+        "descriptionUK": "Живий організм, який зазвичай росте на постійному місці, поглинаючи воду та поживні речовини."
     }, {
         "de": "das Sonnenlicht",
         "en": "Sunlight",
         "ru": "Солнечный свет",
+        "tr": "Güneş ışığı",
+        "az": "Günəş işığı",
+        "uk": "Сонячне світло",
         "descriptionEN": "The light from the sun.",
         "descriptionRU": "Свет от солнца.",
-        "descriptionDE": "Das Licht der Sonne."
+        "descriptionDE": "Das Licht der Sonne.",
+        "descriptionTR": "Güneşten gelen ışık.",
+        "descriptionAZ": "Günəşdən gələn işıq.",
+        "descriptionUK": "Світло від сонця."
     }, {
         "de": "das Lächeln",
         "en": "Smile",
         "ru": "Улыбка",
+        "tr": "Gülümseme",
+        "az": "Gülüş",
+        "uk": "Посмішка",
         "descriptionEN": "A pleased, kind, or amused facial expression, typically with the corners of the mouth turned up.",
         "descriptionRU": "Довольное, доброе или развлекательное выражение лица, обычно с поднятыми уголками рта.",
-        "descriptionDE": "Ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, bei dem die Mundwinkel nach oben gezogen sind."
+        "descriptionDE": "Ein zufriedener, freundlicher oder amüsierter Gesichtsausdruck, bei dem die Mundwinkel nach oben gezogen sind.",
+        "descriptionTR": "Genellikle ağzın köşeleri yukarı doğru kıvrılmış, memnun, kibar veya eğlenceli bir yüz ifadesi.",
+        "descriptionAZ": "Adətən ağzın küncləri yuxarı qaldırılmış, məmnun, mehriban və ya əyləncəli bir üz ifadəsi.",
+        "descriptionUK": "Задоволений, добрий чи розважливий вираз обличчя, зазвичай із піднятими куточками рота."
     }, {
         "de": "der Strauß",
         "en": "Bunch",
         "ru": "Пучок",
+        "tr": "Demet",
+        "az": "Dəstə",
+        "uk": "Пучок",
         "descriptionEN": "A number of things, typically of the same kind, growing or fastened together.",
         "descriptionRU": "Ряд вещей, обычно одного вида, растущих или закрепленных вместе.",
-        "descriptionDE": "Eine Anzahl von Dingen, die typischerweise derselben Art sind und zusammen wachsen oder befestigt sind."
+        "descriptionDE": "Eine Anzahl von Dingen, die typischerweise derselben Art sind und zusammen wachsen oder befestigt sind.",
+        "descriptionTR": "Genellikle aynı türden olan, birlikte büyüyen veya bağlanmış bir dizi şey.",
+        "descriptionAZ": "Adətən eyni növdən olan, birlikdə böyüyən və ya birləşdirilmiş bir sıra şey.",
+        "descriptionUK": "Низка речей, зазвичай одного виду, що росте чи закріплена разом."
     }, {
         "de": "das Ende",
         "en": "End",
         "ru": "Конец",
+        "tr": "Son",
+        "az": "Son",
+        "uk": "Кінець",
         "descriptionEN": "The final part of something.",
         "descriptionRU": "Завершающая часть чего-либо.",
-        "descriptionDE": "Der letzte Teil von etwas."
+        "descriptionDE": "Der letzte Teil von etwas.",
+        "descriptionTR": "Bir şeyin son kısmı.",
+        "descriptionAZ": "Bir şeyin son hissəsi.",
+        "descriptionUK": "Завершальна частина чогось."
     }, {
         "de": "pflanzen",
         "en": "to plant",
         "ru": "сажать",
+        "tr": "dikmek",
+        "az": "əkmək",
+        "uk": "садити",
         "descriptionEN": "To place a seed, bulb, or plant in the ground to grow.",
         "descriptionRU": "Поместить семя, луковицу или растение в землю для роста.",
-        "descriptionDE": "Ein Samen, eine Zwiebel oder eine Pflanze in den Boden legen, damit sie wächst."
+        "descriptionDE": "Ein Samen, eine Zwiebel oder eine Pflanze in den Boden legen, damit sie wächst.",
+        "descriptionTR": "Bir tohum, soğan veya bitkiyi büyümesi için toprağa yerleştirmek.",
+        "descriptionAZ": "Bir toxum, soğan və ya bitkini böyüməsi üçün torpağa yerləşdirmək.",
+        "descriptionUK": "Помістити насіння, цибулину чи рослину в землю для росту."
     }, {
         "de": "wachsen",
         "en": "to grow",
         "ru": "расти",
+        "tr": "büyümek",
+        "az": "böyümək",
+        "uk": "рости",
         "descriptionEN": "To undergo natural development by increasing in size and changing physically.",
         "descriptionRU": "Проходить естественное развитие, увеличиваясь в размерах и физически изменяясь.",
-        "descriptionDE": "Sich auf natürliche Weise entwickeln, indem man an Größe zunimmt und sich körperlich verändert."
+        "descriptionDE": "Sich auf natürliche Weise entwickeln, indem man an Größe zunimmt und sich körperlich verändert.",
+        "descriptionTR": "Boyut olarak artarak ve fiziksel olarak değişerek doğal gelişim geçirmek.",
+        "descriptionAZ": "Ölçüsünə görə artaraq və fiziki olaraq dəyişərək təbii inkişaf etmək.",
+        "descriptionUK": "Проходити природний розвиток, збільшуючись у розмірах та фізично змінюючись."
     }, {
         "de": "kümmern",
         "en": "to care",
         "ru": "заботиться",
+        "tr": "ilgilenmek",
+        "az": "qayğı göstərmək",
+        "uk": "піклуватися",
         "descriptionEN": "To look after and provide for the needs of.",
         "descriptionRU": "Заботиться и обеспечивать потребности кого-либо.",
-        "descriptionDE": "Für jemanden sorgen und dessen Bedürfnisse erfüllen."
+        "descriptionDE": "Für jemanden sorgen und dessen Bedürfnisse erfüllen.",
+        "descriptionTR": "Birinin ihtiyaçlarına bakmak ve karşılamak.",
+        "descriptionAZ": "Kiminsə ehtiyaclarına qayğı göstərmək və təmin etmək.",
+        "descriptionUK": "Дбати та забезпечувати потреби когось."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "обнаруживать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find something or someone unexpectedly or during a search.",
         "descriptionRU": "Обнаружить что-то или кого-то неожиданно или во время поиска.",
-        "descriptionDE": "Etwas oder jemanden unerwartet oder während einer Suche finden."
+        "descriptionDE": "Etwas oder jemanden unerwartet oder während einer Suche finden.",
+        "descriptionTR": "Beklenmedik bir şekilde veya bir arama sırasında bir şey veya birini bulmak.",
+        "descriptionAZ": "Gözlənilmədən və ya axtarış zamanı bir şey və ya birini tapmaq.",
+        "descriptionUK": "Виявити щось чи когось несподівано чи під час пошуку."
     }, {
         "de": "verwandeln",
         "en": "to transform",
         "ru": "превращать",
+        "tr": "dönüştürmek",
+        "az": "çevirmək",
+        "uk": "перетворювати",
         "descriptionEN": "To make a marked change in the form, nature, or appearance of.",
         "descriptionRU": "Сделать заметное изменение в форме, природе или внешнем виде.",
-        "descriptionDE": "Eine deutliche Veränderung in Form, Art oder Aussehen bewirken."
+        "descriptionDE": "Eine deutliche Veränderung in Form, Art oder Aussehen bewirken.",
+        "descriptionTR": "Bir şeyin biçiminde, doğasında veya görünümünde belirgin bir değişiklik yapmak.",
+        "descriptionAZ": "Bir şeyin formasında, təbiətində və ya görünüşündə əhəmiyyətli bir dəyişiklik etmək.",
+        "descriptionUK": "Зробити помітну зміну у формі, природі чи зовнішньому вигляді."
     }, {
         "de": "bekommen",
         "en": "to receive",
         "ru": "получать",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
         "descriptionEN": "To be given, presented with, or paid something.",
         "descriptionRU": "Получить, быть представленным или оплачено чем-либо.",
-        "descriptionDE": "Etwas gegeben, überreicht oder bezahlt bekommen."
+        "descriptionDE": "Etwas gegeben, überreicht oder bezahlt bekommen.",
+        "descriptionTR": "Bir şey verilmek, sunulmak veya ödenmek.",
+        "descriptionAZ": "Nəsə verilmək, təqdim olunmaq və ya ödənilmək.",
+        "descriptionUK": "Отримати, бути представленим чи оплаченим чимось."
     }, {
         "de": "besonders",
         "en": "special",
         "ru": "особый",
+        "tr": "özel",
+        "az": "xüsusi",
+        "uk": "особливий",
         "descriptionEN": "Better, greater, or otherwise different from what is usual.",
         "descriptionRU": "Лучше, больше или иначе отличается от обычного.",
-        "descriptionDE": "Besser, größer oder anders als das Übliche."
+        "descriptionDE": "Besser, größer oder anders als das Übliche.",
+        "descriptionTR": "Normal olandan daha iyi, daha büyük veya farklı.",
+        "descriptionAZ": "Adi olandan daha yaxşı, daha böyük və ya fərqli.",
+        "descriptionUK": "Краще, більше чи інакше відрізняється від звичайного."
     }, {
         "de": "voller",
         "en": "full of",
         "ru": "полный",
+        "tr": "dolu",
+        "az": "dolu",
+        "uk": "повний",
         "descriptionEN": "Containing or holding as much or as many as possible.",
         "descriptionRU": "Содержит или вмещает как можно больше.",
-        "descriptionDE": "So viel wie möglich enthaltend oder haltend."
+        "descriptionDE": "So viel wie möglich enthaltend oder haltend.",
+        "descriptionTR": "Mümkün olduğunca çok veya fazla içermek veya tutmak.",
+        "descriptionAZ": "Mümkün qədər çox və ya çox şey ehtiva etmək və ya saxlamaq.",
+        "descriptionUK": "Містить чи вміщує якомога більше."
     }, {
         "de": "lieb",
         "en": "dear",
         "ru": "дорогой",
+        "tr": "sevgili",
+        "az": "əziz",
+        "uk": "дорогий",
         "descriptionEN": "Regarded with deep affection.",
         "descriptionRU": "Рассматривается с глубокой привязанностью.",
-        "descriptionDE": "Mit tiefer Zuneigung betrachtet."
+        "descriptionDE": "Mit tiefer Zuneigung betrachtet.",
+        "descriptionTR": "Derin bir sevgi ile bakılan.",
+        "descriptionAZ": "Dərin məhəbbətlə baxılan.",
+        "descriptionUK": "Розглядається з глибокою прихильністю."
     }
 ]

@@ -3,169 +3,313 @@
         "de": "der Weinhändler",
         "en": "wine merchant",
         "ru": "винодел",
+        "tr": "şarap tüccarı",
+        "az": "şərab taciri",
+        "uk": "продавець вина",
         "descriptionEN": "a person who sells wine.",
         "descriptionRU": "человек, который продает вино.",
-        "descriptionDE": "Eine Person, die Wein verkauft."
+        "descriptionDE": "Eine Person, die Wein verkauft.",
+        "descriptionTR": "Şarap satan bir kişi.",
+        "descriptionAZ": "Şərab satan şəxs.",
+        "descriptionUK": "особа, яка продає вино."
     }, {
         "de": "das Fass",
         "en": "barrel",
         "ru": "бочка",
+        "tr": "fıçı",
+        "az": "çəllək",
+        "uk": "бочка",
         "descriptionEN": "a cylindrical container for storing liquids.",
         "descriptionRU": "цилиндрический контейнер для хранения жидкостей.",
-        "descriptionDE": "Ein zylindrischer Behälter zur Aufbewahrung von Flüssigkeiten."
+        "descriptionDE": "Ein zylindrischer Behälter zur Aufbewahrung von Flüssigkeiten.",
+        "descriptionTR": "Sıvıları depolamak için silindirik bir kap.",
+        "descriptionAZ": "Mayeləri saxlamaq üçün silindrik qab.",
+        "descriptionUK": "циліндрична ємність для зберігання рідин."
     }, {
         "de": "die Katze",
         "en": "cat",
         "ru": "кошка",
+        "tr": "kedi",
+        "az": "pişik",
+        "uk": "кішка",
         "descriptionEN": "a small domesticated feline.",
         "descriptionRU": "маленькое домашнее животное семейства кошачьих.",
-        "descriptionDE": "Ein kleines domestiziertes Haustier aus der Familie der Katzen."
+        "descriptionDE": "Ein kleines domestiziertes Haustier aus der Familie der Katzen.",
+        "descriptionTR": "Küçük evcilleştirilmiş bir kedi.",
+        "descriptionAZ": "Kiçik ev heyvanı pişiklər ailəsindən.",
+        "descriptionUK": "маленька одомашнена котяча тварина."
     }, {
         "de": "der Keller",
         "en": "cellar",
         "ru": "подвал",
+        "tr": "kiler",
+        "az": "zirzəmi",
+        "uk": "підвал",
         "descriptionEN": "a room below ground level for storing wine.",
         "descriptionRU": "комната ниже уровня земли для хранения вина.",
-        "descriptionDE": "Ein Raum unterhalb des Erdniveaus zur Lagerung von Wein."
+        "descriptionDE": "Ein Raum unterhalb des Erdniveaus zur Lagerung von Wein.",
+        "descriptionTR": "Şarap depolamak için zemin seviyesinin altında bir oda.",
+        "descriptionAZ": "Şərab saxlamaq üçün yer səviyyəsindən aşağıda bir otaq.",
+        "descriptionUK": "кімната нижче рівня землі для зберігання вина."
     }, {
         "de": "der Erfolg",
         "en": "success",
         "ru": "успех",
+        "tr": "başarı",
+        "az": "uğur",
+        "uk": "успіх",
         "descriptionEN": "the achievement of desired outcomes.",
         "descriptionRU": "достижение желаемых результатов.",
-        "descriptionDE": "Das Erreichen von gewünschten Ergebnissen."
+        "descriptionDE": "Das Erreichen von gewünschten Ergebnissen.",
+        "descriptionTR": "İstenilen sonuçların elde edilmesi.",
+        "descriptionAZ": "Arzu olunan nəticələrin əldə edilməsi.",
+        "descriptionUK": "досягнення бажаних результатів."
     }, {
         "de": "der Brunnen",
         "en": "fountain",
         "ru": "фонтан",
+        "tr": "çeşme",
+        "az": "fəvvarə",
+        "uk": "фонтан",
         "descriptionEN": "a structure that pours out water.",
         "descriptionRU": "сооружение, из которого льется вода.",
-        "descriptionDE": "Eine Struktur, die Wasser ausgießt."
+        "descriptionDE": "Eine Struktur, die Wasser ausgießt.",
+        "descriptionTR": "Su döken bir yapı.",
+        "descriptionAZ": "Su tökən bir quruluş.",
+        "descriptionUK": "споруда, яка виливає воду."
     }, {
         "de": "der Schein",
         "en": "note",
         "ru": "банкнота",
+        "tr": "banknot",
+        "az": "banknot",
+        "uk": "банкнота",
         "descriptionEN": "a piece of paper money.",
         "descriptionRU": "кусок бумажных денег.",
-        "descriptionDE": "Ein Stück Papiergeld."
+        "descriptionDE": "Ein Stück Papiergeld.",
+        "descriptionTR": "Bir parça kağıt para.",
+        "descriptionAZ": "Kağız pul parçası.",
+        "descriptionUK": "шматок паперових грошей."
     }, {
         "de": "der Verkehrskreisel",
         "en": "roundabout",
         "ru": "круговое движение",
+        "tr": "dönel kavşak",
+        "az": "dairəvi hərəkət",
+        "uk": "кругове перехрестя",
         "descriptionEN": "a circular intersection or junction.",
         "descriptionRU": "круговое пересечение или развязка.",
-        "descriptionDE": "Eine kreisförmige Kreuzung oder Verbindung."
+        "descriptionDE": "Eine kreisförmige Kreuzung oder Verbindung.",
+        "descriptionTR": "Dairesel bir kavşak veya bağlantı noktası.",
+        "descriptionAZ": "Dairəvi kəsişmə və ya birləşmə.",
+        "descriptionUK": "кругове перехрестя або розв'язка."
     }, {
         "de": "das Denkmal",
         "en": "monument",
         "ru": "памятник",
+        "tr": "anıt",
+        "az": "abidə",
+        "uk": "пам'ятник",
         "descriptionEN": "a structure built to honor someone.",
         "descriptionRU": "сооружение, построенное в честь кого-то.",
-        "descriptionDE": "Eine Struktur, die gebaut wurde, um jemanden zu ehren."
+        "descriptionDE": "Eine Struktur, die gebaut wurde, um jemanden zu ehren.",
+        "descriptionTR": "Birini onurlandırmak için inşa edilmiş bir yapı.",
+        "descriptionAZ": "Kimisə şərəfləndirmək üçün tikilmiş bir quruluş.",
+        "descriptionUK": "споруда, побудована на честь когось."
     }, {
         "de": "der Karikaturist",
         "en": "caricaturist",
         "ru": "карикатурист",
+        "tr": "karikatürist",
+        "az": "karikaturaçı",
+        "uk": "карикатурист",
         "descriptionEN": "an artist who creates caricatures.",
         "descriptionRU": "художник, создающий карикатуры.",
-        "descriptionDE": "Ein Künstler, der Karikaturen erstellt."
+        "descriptionDE": "Ein Künstler, der Karikaturen erstellt.",
+        "descriptionTR": "Karikatürler yaratan bir sanatçı.",
+        "descriptionAZ": "Karikaturalar yaradan bir sənətçi.",
+        "descriptionUK": "художник, який створює карикатури."
     }, {
         "de": "der Künstler",
         "en": "artist",
         "ru": "художник",
+        "tr": "sanatçı",
+        "az": "sənətçi",
+        "uk": "художник",
         "descriptionEN": "a person who creates art.",
         "descriptionRU": "человек, создающий искусство.",
-        "descriptionDE": "Eine Person, die Kunst schafft."
+        "descriptionDE": "Eine Person, die Kunst schafft.",
+        "descriptionTR": "Sanat yaratan bir kişi.",
+        "descriptionAZ": "İncəsənət yaradan bir şəxs.",
+        "descriptionUK": "людина, яка створює мистецтво."
     }, {
         "de": "sehen",
         "en": "to see",
         "ru": "видеть",
+        "tr": "görmek",
+        "az": "görmək",
+        "uk": "бачити",
         "descriptionEN": "to perceive with the eyes.",
         "descriptionRU": "воспринимать с помощью глаз.",
-        "descriptionDE": "Mit den Augen wahrnehmen."
+        "descriptionDE": "Mit den Augen wahrnehmen.",
+        "descriptionTR": "Gözlerle algılamak.",
+        "descriptionAZ": "Gözlərlə qavramaq.",
+        "descriptionUK": "сприймати очима."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "to acknowledge a significant event with festivities.",
         "descriptionRU": "отмечать важное событие торжествами.",
-        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen.",
+        "descriptionTR": "Önemli bir olayı şenliklerle kutlamak.",
+        "descriptionAZ": "Əhəmiyyətli bir hadisəni şənliklərlə qeyd etmək.",
+        "descriptionUK": "відзначати значну подію урочистостями."
     }, {
         "de": "finden",
         "en": "to find",
         "ru": "находить",
+        "tr": "bulmak",
+        "az": "tapmaq",
+        "uk": "знаходити",
         "descriptionEN": "to discover something.",
         "descriptionRU": "обнаружить что-то.",
-        "descriptionDE": "Etwas entdecken."
+        "descriptionDE": "Etwas entdecken.",
+        "descriptionTR": "Bir şeyi keşfetmek.",
+        "descriptionAZ": "Bir şeyi kəşf etmək.",
+        "descriptionUK": "виявити щось."
     }, {
         "de": "hoffen",
         "en": "to hope",
         "ru": "надеяться",
+        "tr": "ummak",
+        "az": "ümid etmək",
+        "uk": "сподіватися",
         "descriptionEN": "to wish for a desired outcome.",
         "descriptionRU": "желать желаемого результата.",
-        "descriptionDE": "Auf ein gewünschtes Ergebnis hoffen."
+        "descriptionDE": "Auf ein gewünschtes Ergebnis hoffen.",
+        "descriptionTR": "İstenilen bir sonucu dilemek.",
+        "descriptionAZ": "Arzu olunan nəticəni arzu etmək.",
+        "descriptionUK": "бажати бажаного результату."
     }, {
         "de": "schaffen",
         "en": "to create",
         "ru": "создавать",
+        "tr": "yaratmak",
+        "az": "yaratmaq",
+        "uk": "створювати",
         "descriptionEN": "to bring something into existence.",
         "descriptionRU": "создать что-то.",
-        "descriptionDE": "Etwas ins Leben rufen."
+        "descriptionDE": "Etwas ins Leben rufen.",
+        "descriptionTR": "Bir şeyi var etmek.",
+        "descriptionAZ": "Bir şeyi mövcud etmək.",
+        "descriptionUK": "створити щось."
     }, {
         "de": "erzählen",
         "en": "to tell",
         "ru": "рассказывать",
+        "tr": "anlatmak",
+        "az": "danışmaq",
+        "uk": "розповідати",
         "descriptionEN": "to narrate or recount.",
         "descriptionRU": "повествовать или пересказывать.",
-        "descriptionDE": "Erzählen oder berichten."
+        "descriptionDE": "Erzählen oder berichten.",
+        "descriptionTR": "Anlatmak veya yeniden anlatmak.",
+        "descriptionAZ": "Nəql etmək və ya danışmaq.",
+        "descriptionUK": "розповідати або переказувати."
     }, {
         "de": "tapfer",
         "en": "brave",
         "ru": "смелый",
+        "tr": "cesur",
+        "az": "cəsur",
+        "uk": "хоробрий",
         "descriptionEN": "showing courage.",
         "descriptionRU": "проявляющий мужество.",
-        "descriptionDE": "Mut zeigend."
+        "descriptionDE": "Mut zeigend.",
+        "descriptionTR": "Cesaret gösteren.",
+        "descriptionAZ": "Cəsarət göstərən.",
+        "descriptionUK": "виявляючий мужність."
     }, {
         "de": "liebenswert",
         "en": "lovable",
         "ru": "милый",
+        "tr": "sevimli",
+        "az": "sevilən",
+        "uk": "милий",
         "descriptionEN": "endearing and charming.",
         "descriptionRU": "привлекательный и очаровательный.",
-        "descriptionDE": "Herzlich und charmant."
+        "descriptionDE": "Herzlich und charmant.",
+        "descriptionTR": "Sevimli ve çekici.",
+        "descriptionAZ": "Sevimli və cazibədar.",
+        "descriptionUK": "чарівний і привабливий."
     }, {
         "de": "legendär",
         "en": "legendary",
         "ru": "легендарный",
+        "tr": "efsanevi",
+        "az": "əfsanəvi",
+        "uk": "легендарний",
         "descriptionEN": "famous in legend.",
         "descriptionRU": "знаменитый в легенде.",
-        "descriptionDE": "Berühmt in der Legende."
+        "descriptionDE": "Berühmt in der Legende.",
+        "descriptionTR": "Efsanede ünlü.",
+        "descriptionAZ": "Əfsanələrdə məşhur.",
+        "descriptionUK": "відомий у легенді."
     }, {
         "de": "absolut",
         "en": "absolute",
         "ru": "абсолютный",
+        "tr": "mutlak",
+        "az": "mütləq",
+        "uk": "абсолютний",
         "descriptionEN": "complete and total.",
         "descriptionRU": "полный и тотальный.",
-        "descriptionDE": "Vollständig und total."
+        "descriptionDE": "Vollständig und total.",
+        "descriptionTR": "Tam ve bütün.",
+        "descriptionAZ": "Tam və bütöv.",
+        "descriptionUK": "повний і тотальний."
     }, {
         "de": "grandios",
         "en": "grand",
         "ru": "великолепный",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "величний",
         "descriptionEN": "impressive and splendid.",
         "descriptionRU": "впечатляющий и великолепный.",
-        "descriptionDE": "Beeindruckend und prächtig."
+        "descriptionDE": "Beeindruckend und prächtig.",
+        "descriptionTR": "Etkileyici ve görkemli.",
+        "descriptionAZ": "Təsirli və möhtəşəm.",
+        "descriptionUK": "вражаючий і чудовий."
     }, {
         "de": "wunderschön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "çok güzel",
+        "az": "çox gözəl",
+        "uk": "чудовий",
         "descriptionEN": "very pleasing to the senses.",
         "descriptionRU": "очень приятный для чувств.",
-        "descriptionDE": "Sehr angenehm für die Sinne."
+        "descriptionDE": "Sehr angenehm für die Sinne.",
+        "descriptionTR": "Duyulara çok hoş gelen.",
+        "descriptionAZ": "Duyğulara çox xoş gələn.",
+        "descriptionUK": "дуже приємний для почуттів."
     }, {
         "de": "neuer",
         "en": "new",
         "ru": "новый",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
         "descriptionEN": "recently made or discovered.",
         "descriptionRU": "недавно сделанный или открытый.",
-        "descriptionDE": "Kürzlich hergestellt oder entdeckt."
+        "descriptionDE": "Kürzlich hergestellt oder entdeckt.",
+        "descriptionTR": "Yakın zamanda yapılmış veya keşfedilmiş.",
+        "descriptionAZ": "Yeni hazırlanmış və ya kəşf edilmiş.",
+        "descriptionUK": "нещодавно зроблений або відкритий."
     }
 ]

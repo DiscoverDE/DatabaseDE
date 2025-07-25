@@ -5,125 +5,233 @@
         "ru": "лето",
         "descriptionEN": "the warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February.",
         "descriptionRU": "самое теплое время года, на северном полушарии с июня по август, а на южном полушарии с декабря по февраль.",
-        "descriptionDE": "die wärmste Jahreszeit, auf der Nordhalbkugel von Juni bis August und auf der Südhalbkugel von Dezember bis Februar."
+        "descriptionDE": "die wärmste Jahreszeit, auf der Nordhalbkugel von Juni bis August und auf der Südhalbkugel von Dezember bis Februar.",
+        "tr": "yaz",
+        "az": "yay",
+        "uk": "літо",
+        "descriptionTR": "yılın en sıcak mevsimi, kuzey yarımkürede hazirandan ağustosa, güney yarımkürede aralıktan şubata kadar.",
+        "descriptionAZ": "ilin ən isti mövsümü, şimal yarımkürəsində iyundan avqusta qədər, cənub yarımkürəsində isə dekabrdan fevrala qədər.",
+        "descriptionUK": "найтепліша пора року, у північній півкулі з червня по серпень, а в південній півкулі з грудня по лютий."
     }, {
         "de": "die Klasse",
         "en": "class",
         "ru": "класс",
         "descriptionEN": "a group of students taught together.",
         "descriptionRU": "группа учеников, обучаемых вместе.",
-        "descriptionDE": "eine Gruppe von Schülern, die zusammen unterrichtet werden."
+        "descriptionDE": "eine Gruppe von Schülern, die zusammen unterrichtet werden.",
+        "tr": "sınıf",
+        "az": "sinif",
+        "uk": "клас",
+        "descriptionTR": "birlikte eğitim gören bir grup öğrenci.",
+        "descriptionAZ": "birlikdə öyrədilən bir qrup tələbə.",
+        "descriptionUK": "група учнів, яких навчають разом."
     }, {
         "de": "das Wochenende",
         "en": "weekend",
         "ru": "выходные",
         "descriptionEN": "the period from Friday evening through Sunday evening, especially regarded as a time for leisure.",
         "descriptionRU": "период с пятницы вечером до воскресенья вечером, особенно воспринимаемый как время для отдыха.",
-        "descriptionDE": "die Zeit von Freitagabend bis Sonntagabend, besonders als Zeit für Freizeitgestaltung betrachtet."
+        "descriptionDE": "die Zeit von Freitagabend bis Sonntagabend, besonders als Zeit für Freizeitgestaltung betrachtet.",
+        "tr": "hafta sonu",
+        "az": "həftə sonu",
+        "uk": "вихідні",
+        "descriptionTR": "cuma akşamından pazar akşamına kadar olan dönem, özellikle boş zaman için bir zaman olarak kabul edilir.",
+        "descriptionAZ": "cümə axşamından bazar axşamına qədər olan dövr, xüsusən istirahət üçün bir vaxt olaraq qəbul edilir.",
+        "descriptionUK": "період з вечора п'ятниці до вечора неділі, особливо розглядається як час для дозвілля."
     }, {
         "de": "die Sehenswürdigkeit",
         "en": "sightseeing attraction",
         "ru": "достопримечательность",
         "descriptionEN": "a place of interest to tourists, typically one of historical or cultural significance.",
         "descriptionRU": "место интереса для туристов, обычно имеющее историческое или культурное значение.",
-        "descriptionDE": "ein Ort von Interesse für Touristen, typischerweise von historischer oder kultureller Bedeutung."
+        "descriptionDE": "ein Ort von Interesse für Touristen, typischerweise von historischer oder kultureller Bedeutung.",
+        "tr": "gezi alanı",
+        "az": "görməli yer",
+        "uk": "визначна пам'ятка",
+        "descriptionTR": "turistler için ilgi çekici bir yer, genellikle tarihi veya kültürel öneme sahip.",
+        "descriptionAZ": "turistlər üçün maraqlı bir yer, adətən tarixi və ya mədəni əhəmiyyətə malikdir.",
+        "descriptionUK": "місце, що становить інтерес для туристів, як правило, історичного або культурного значення."
     }, {
         "de": "die Prüfung",
         "en": "exam",
         "ru": "экзамен",
         "descriptionEN": "a formal test of a person's knowledge or proficiency in a subject or skill.",
         "descriptionRU": "официальное тестирование знаний или умений человека в предмете или навыке.",
-        "descriptionDE": "ein formaler Test des Wissens oder der Fähigkeiten einer Person in einem Fach oder einer Fertigkeit."
+        "descriptionDE": "ein formaler Test des Wissens oder der Fähigkeiten einer Person in einem Fach oder einer Fertigkeit.",
+        "tr": "sınav",
+        "az": "imtahan",
+        "uk": "іспит",
+        "descriptionTR": "bir kişinin bir konu veya becerideki bilgisini veya yeterliliğini resmi bir testi.",
+        "descriptionAZ": "bir şəxsin bir mövzu və ya bacarıqdakı bilik və ya bacarığının rəsmi testi.",
+        "descriptionUK": "офіційне тестування знань або вмінь особи з предмета чи навички."
     }, {
         "de": "studieren",
         "en": "to study",
         "ru": "учиться",
         "descriptionEN": "devote time and attention to gaining knowledge of (an academic subject), especially by means of books.",
         "descriptionRU": "уделять время и внимание приобретению знаний (по академическому предмету), особенно с помощью книг.",
-        "descriptionDE": "Zeit und Aufmerksamkeit auf das Erlangen von Wissen über ein akademisches Fach richten, insbesondere durch Bücher."
+        "descriptionDE": "Zeit und Aufmerksamkeit auf das Erlangen von Wissen über ein akademisches Fach richten, insbesondere durch Bücher.",
+        "tr": "çalışmak",
+        "az": "öyrənmək",
+        "uk": "вивчати",
+        "descriptionTR": "(akademik bir konuda) bilgi edinmeye zaman ve dikkat ayırmak, özellikle kitaplar aracılığıyla.",
+        "descriptionAZ": "(akademik bir fənn) bilik əldə etməyə, xüsusən də kitablar vasitəsilə vaxt və diqqət ayırmaq.",
+        "descriptionUK": "присвячувати час і увагу отриманню знань (академічного предмета), особливо за допомогою книг."
     }, {
         "de": "reisen",
         "en": "to travel",
         "ru": "путешествовать",
         "descriptionEN": "make a journey, typically of some length or abroad.",
         "descriptionRU": "совершать путешествие, обычно на некоторое расстояние или за границу.",
-        "descriptionDE": "eine Reise machen, normalerweise eine gewisse Länge oder ins Ausland."
+        "descriptionDE": "eine Reise machen, normalerweise eine gewisse Länge oder ins Ausland.",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
+        "descriptionTR": "genellikle belirli bir uzunlukta veya yurt dışına bir yolculuk yapmak.",
+        "descriptionAZ": "adətən müəyyən bir məsafəyə və ya xaricə səyahət etmək.",
+        "descriptionUK": "здійснювати подорож, як правило, на деяку відстань або за кордон."
     }, {
         "de": "besichtigen",
         "en": "to visit (a place)",
         "ru": "посещать",
         "descriptionEN": "go to see (a place), especially as a tourist.",
         "descriptionRU": "идти посмотреть (место), особенно как турист.",
-        "descriptionDE": "gehen, um (einen Ort) zu sehen, insbesondere als Tourist."
+        "descriptionDE": "gehen, um (einen Ort) zu sehen, insbesondere als Tourist.",
+        "tr": "ziyaret etmek (bir yeri)",
+        "az": "ziyarət etmək (bir yer)",
+        "uk": "відвідувати (місце)",
+        "descriptionTR": "(bir yeri) görmeye gitmek, özellikle turist olarak.",
+        "descriptionAZ": "(bir yerə) getmək, xüsusilə turist kimi.",
+        "descriptionUK": "йти дивитися (місце), особливо як турист."
     }, {
         "de": "lieben",
         "en": "to love",
         "ru": "любить",
         "descriptionEN": "feel a deep romantic or sexual attachment to (someone).",
         "descriptionRU": "чувствовать глубокую романтическую или сексуальную привязанность к (кому-либо).",
-        "descriptionDE": "eine tiefe romantische oder sexuelle Bindung zu (jemandem) empfinden."
+        "descriptionDE": "eine tiefe romantische oder sexuelle Bindung zu (jemandem) empfinden.",
+        "tr": "sevmek",
+        "az": "sevmək",
+        "uk": "любити",
+        "descriptionTR": "(birine) derin bir romantik veya cinsel bağlılık hissetmek.",
+        "descriptionAZ": "(kiməsə) dərin bir romantik və ya cinsi bağlılıq hiss etmək.",
+        "descriptionUK": "відчувати глибоку романтичну або сексуальну прихильність до (когось)."
     }, {
         "de": "gemeinsam",
         "en": "together",
         "ru": "вместе",
         "descriptionEN": "in company; with someone else.",
         "descriptionRU": "в компании; с кем-то другим.",
-        "descriptionDE": "in Gesellschaft; mit jemand anderem."
+        "descriptionDE": "in Gesellschaft; mit jemand anderem.",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
+        "descriptionTR": "bir şirkette; başka biriyle.",
+        "descriptionAZ": "şirkətdə; başqa biri ilə.",
+        "descriptionUK": "у компанії; з кимось іншим."
     }, {
         "de": "warm",
         "en": "warm",
         "ru": "теплый",
         "descriptionEN": "of or at a fairly or comfortably high temperature.",
         "descriptionRU": "приблизительно или комфортно высокая температура.",
-        "descriptionDE": "bei einer ziemlich oder angenehm hohen Temperatur."
+        "descriptionDE": "bei einer ziemlich oder angenehm hohen Temperatur.",
+        "tr": "ılık",
+        "az": "isti",
+        "uk": "теплий",
+        "descriptionTR": "oldukça veya rahatça yüksek bir sıcaklıkta veya bu sıcaklıkta olan.",
+        "descriptionAZ": "olduqca və ya rahat yüksək temperaturda olan.",
+        "descriptionUK": "помірно або комфортно високої температури."
     }, {
         "de": "groß",
         "en": "big",
         "ru": "большой",
         "descriptionEN": "of considerable size or extent.",
         "descriptionRU": "значительного размера или объема.",
-        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung."
+        "descriptionDE": "von beträchtlicher Größe oder Ausdehnung.",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
+        "descriptionTR": "önemli büyüklükte veya kapsamda olan.",
+        "descriptionAZ": "əhəmiyyətli ölçüdə və ya miqyasda olan.",
+        "descriptionUK": "значного розміру або обсягу."
     }, {
         "de": "früh",
         "en": "early",
         "ru": "рано",
         "descriptionEN": "near the beginning of the day; in the morning.",
         "descriptionRU": "близко к началу дня; утром.",
-        "descriptionDE": "nahe am Anfang des Tages; am Morgen."
+        "descriptionDE": "nahe am Anfang des Tages; am Morgen.",
+        "tr": "erken",
+        "az": "erkən",
+        "uk": "рано",
+        "descriptionTR": "günün başlangıcına yakın; sabah.",
+        "descriptionAZ": "günün əvvəlinə yaxın; səhər.",
+        "descriptionUK": "близько до початку дня; вранці."
     }, {
         "de": "verschieden",
         "en": "different",
         "ru": "различный",
         "descriptionEN": "not the same as another or each other; unlike in nature, form, or quality.",
         "descriptionRU": "не такой же, как другой или другой; не похожий по природе, форме или качеству.",
-        "descriptionDE": "nicht das gleiche wie ein anderes oder einander; anders in Natur, Form oder Qualität."
+        "descriptionDE": "nicht das gleiche wie ein anderes oder einander; anders in Natur, Form oder Qualität.",
+        "tr": "farklı",
+        "az": "fərqli",
+        "uk": "різний",
+        "descriptionTR": "bir diğeriyle veya birbirinden aynı olmayan; doğası, biçimi veya kalitesi farklı.",
+        "descriptionAZ": "digəri və ya bir-biri ilə eyni olmayan; təbiət, forma və ya keyfiyyət baxımından fərqli.",
+        "descriptionUK": "не такий, як інший або один одного; відмінний за природою, формою або якістю."
     }, {
         "de": "beste",
         "en": "best",
         "ru": "лучший",
         "descriptionEN": "of the most excellent, effective, or desirable type or quality.",
         "descriptionRU": "самый отличный, эффективный или желательный тип или качество.",
-        "descriptionDE": "vom ausgezeichnetesten, effektivsten oder wünschenswertesten Typ oder Qualität."
+        "descriptionDE": "vom ausgezeichnetesten, effektivsten oder wünschenswertesten Typ oder Qualität.",
+        "tr": "en iyi",
+        "az": "ən yaxşı",
+        "uk": "найкращий",
+        "descriptionTR": "en mükemmel, etkili veya arzu edilen tür veya kalitede.",
+        "descriptionAZ": "ən əla, effektiv və ya arzuolunan növ və ya keyfiyyətdə olan.",
+        "descriptionUK": "найкращий, найефективніший або найбажаніший тип чи якість."
     }, {
         "de": "medizinisch",
         "en": "medical",
         "ru": "медицинский",
         "descriptionEN": "relating to the science or practice of medicine.",
         "descriptionRU": "относящийся к науке или практике медицины.",
-        "descriptionDE": "bezogen auf die Wissenschaft oder Praxis der Medizin."
+        "descriptionDE": "bezogen auf die Wissenschaft oder Praxis der Medizin.",
+        "tr": "tıbbi",
+        "az": "tibbi",
+        "uk": "медичний",
+        "descriptionTR": "tıp bilimi veya uygulamasıyla ilgili.",
+        "descriptionAZ": "tibb elmi və ya praktikası ilə əlaqəli.",
+        "descriptionUK": "що стосується науки або практики медицини."
     }, {
         "de": "wahrscheinlich",
         "en": "probably",
         "ru": "вероятно",
         "descriptionEN": "almost certainly; as far as one knows or can tell.",
         "descriptionRU": "почти наверняка; насколько известно или можно сказать.",
-        "descriptionDE": "fast sicher; soweit man weiß oder sagen kann."
+        "descriptionDE": "fast sicher; soweit man weiß oder sagen kann.",
+        "tr": "muhtemelen",
+        "az": "ehtimal ki",
+        "uk": "ймовірно",
+        "descriptionTR": "neredeyse kesinlikle; bilindiği veya söylenebildiği kadarıyla.",
+        "descriptionAZ": "demək olar ki, əminliklə; bilindiyi və ya deyilə biləcəyi qədər.",
+        "descriptionUK": "майже напевно; наскільки відомо або можна сказати."
     }, {
         "de": "beide",
         "en": "both",
         "ru": "оба",
         "descriptionEN": "used to refer to two people or things, regarded and identified together.",
         "descriptionRU": "используется для обозначения двух людей или вещей, рассматриваемых и определенных вместе.",
-        "descriptionDE": "verwendet, um auf zwei Personen oder Dinge zu verweisen, die gemeinsam betrachtet und identifiziert werden."
+        "descriptionDE": "verwendet, um auf zwei Personen oder Dinge zu verweisen, die gemeinsam betrachtet und identifiziert werden.",
+        "tr": "her ikisi",
+        "az": "hər ikisi",
+        "uk": "обидва",
+        "descriptionTR": "birlikte ele alınan ve tanımlanan iki kişi veya şeye atıfta bulunmak için kullanılır.",
+        "descriptionAZ": "birlikdə qəbul edilən və müəyyən edilən iki şəxsə və ya şeyə istinad etmək üçün istifadə olunur.",
+        "descriptionUK": "використовується для позначення двох людей або речей, які розглядаються та ідентифікуються разом."
     }
 ]

@@ -1,151 +1,276 @@
 [
-
     {
         "de": "der Wein",
         "en": "Wine",
         "ru": "Вино",
+        "tr": "Şarap",
+        "az": "Şərab",
+        "uk": "Вино",
         "descriptionEN": "An alcoholic beverage made from fermented grapes.",
         "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного винограда.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird.",
+        "descriptionTR": "Fermente üzümlerden yapılan alkollü bir içecek.",
+        "descriptionAZ": "Qarışmış üzümlərdən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого винограду."
     }, {
         "de": "die Traube",
         "en": "Grape",
         "ru": "Виноград",
+        "tr": "Üzüm",
+        "az": "Üzüm",
+        "uk": "Виноград",
         "descriptionEN": "The fruit used in winemaking; typically grows in clusters.",
         "descriptionRU": "Плод, используемый в виноделии; обычно растет в гроздьях.",
-        "descriptionDE": "Die Frucht, die im Weinbau verwendet wird; wächst typischerweise in Trauben."
+        "descriptionDE": "Die Frucht, die im Weinbau verwendet wird; wächst typischerweise in Trauben.",
+        "descriptionTR": "Şarap yapımında kullanılan meyve; genellikle salkımlar halinde büyür.",
+        "descriptionAZ": "Şərab istehsalında istifadə olunan meyvə; adətən salxımlarda bitir.",
+        "descriptionUK": "Плід, що використовується у виноробстві; зазвичай росте у гронах."
     }, {
         "de": "der Einheimische",
         "en": "Local",
         "ru": "Местный житель",
+        "tr": "Yerli",
+        "az": "Yerli",
+        "uk": "Місцевий житель",
         "descriptionEN": "A resident or native of a particular area.",
         "descriptionRU": "Житель или уроженец определенной местности.",
-        "descriptionDE": "Ein Bewohner oder Eingeborener eines bestimmten Gebiets."
+        "descriptionDE": "Ein Bewohner oder Eingeborener eines bestimmten Gebiets.",
+        "descriptionTR": "Belirli bir bölgenin sakini veya yerlisi.",
+        "descriptionAZ": "Müəyyən bir ərazinin sakini və ya doğma sakinləri.",
+        "descriptionUK": "Мешканець або уродженець певної місцевості."
     }, {
         "de": "das Weingut",
         "en": "Winery",
         "ru": "Винодельня",
+        "tr": "Şaraphane",
+        "az": "Şərab zavodu",
+        "uk": "Винний завод",
         "descriptionEN": "A facility or establishment where wine is produced.",
         "descriptionRU": "Объект или учреждение, где производится вино.",
-        "descriptionDE": "Eine Anlage oder Einrichtung, in der Wein hergestellt wird."
+        "descriptionDE": "Eine Anlage oder Einrichtung, in der Wein hergestellt wird.",
+        "descriptionTR": "Şarap üretilen bir tesis veya kuruluş.",
+        "descriptionAZ": "Şərab istehsal olunan bir obyekt və ya müəssisə.",
+        "descriptionUK": "Об'єкт чи установа, де виробляється вино."
     }, {
         "de": "die Weinkönigin",
         "en": "Wine Queen",
         "ru": "Королева вина",
+        "tr": "Şarap Kraliçesi",
+        "az": "Şərab Kraliçası",
+        "uk": "Королева вина",
         "descriptionEN": "A ceremonial title given to a woman chosen to represent a wine region.",
         "descriptionRU": "Торжественное звание, присваиваемое женщине, представляющей винодельческий регион.",
-        "descriptionDE": "Ein zeremonieller Titel, der einer Frau verliehen wird, die eine Weinregion repräsentiert."
+        "descriptionDE": "Ein zeremonieller Titel, der einer Frau verliehen wird, die eine Weinregion repräsentiert.",
+        "descriptionTR": "Bir şarap bölgesini temsil etmek üzere seçilen bir kadına verilen törensel unvan.",
+        "descriptionAZ": "Şərab regionunu təmsil etmək üçün seçilmiş bir qadına verilən mərasim titulu.",
+        "descriptionUK": "Урочисте звання, що надається жінці, яка представляє виноградарський регіон."
     }, {
         "de": "die Tradition",
         "en": "Tradition",
         "ru": "Традиция",
+        "tr": "Gelenek",
+        "az": "Ənənə",
+        "uk": "Традиція",
         "descriptionEN": "A long-established custom or belief passed down through generations.",
         "descriptionRU": "Давний обычай или верование, передающееся через поколения.",
-        "descriptionDE": "Ein lang etablierter Brauch oder Glaube, der über Generationen weitergegeben wird."
+        "descriptionDE": "Ein lang etablierter Brauch oder Glaube, der über Generationen weitergegeben wird.",
+        "descriptionTR": "Nesiller boyunca aktarılan köklü bir gelenek veya inanç.",
+        "descriptionAZ": "Nəsillər boyu ötürülən köklü bir adət və ya inanc.",
+        "descriptionUK": "Давній звичай або вірування, що передається через покоління."
     }, {
         "de": "das Feuerwerk",
         "en": "Firework",
         "ru": "Фейерверк",
+        "tr": "Havai fişek",
+        "az": "Hava fişəngi",
+        "uk": "Феєрверк",
         "descriptionEN": "A device that explodes to produce lights and sounds, often used in celebrations.",
         "descriptionRU": "Устройство, взрывающееся для создания световых и звуковых эффектов, часто используется на праздниках.",
-        "descriptionDE": "Ein Gerät, das explodiert, um Licht- und Klangeffekte zu erzeugen, oft bei Festen verwendet."
+        "descriptionDE": "Ein Gerät, das explodiert, um Licht- und Klangeffekte zu erzeugen, oft bei Festen verwendet.",
+        "descriptionTR": "Kutlamalarda sıkça kullanılan, ışık ve ses efekti yaratmak için patlayan bir cihaz.",
+        "descriptionAZ": "Bayramlarda tez-tez istifadə olunan, işıq və səs effekti yaratmaq üçün partlayan bir cihaz.",
+        "descriptionUK": "Пристрій, що вибухає для створення світлових та звукових ефектів, часто використовується на святкуваннях."
     }, {
         "de": "die Musik",
         "en": "Music",
         "ru": "Музыка",
+        "tr": "Müzik",
+        "az": "Musiqi",
+        "uk": "Музика",
         "descriptionEN": "The art of arranging sounds in time to produce a composition.",
         "descriptionRU": "Искусство упорядочения звуков во времени для создания композиции.",
-        "descriptionDE": "Die Kunst, Klänge in einer bestimmten Abfolge anzuordnen, um eine Komposition zu erzeugen."
+        "descriptionDE": "Die Kunst, Klänge in einer bestimmten Abfolge anzuordnen, um eine Komposition zu erzeugen.",
+        "descriptionTR": "Bir kompozisyon oluşturmak için sesleri zamanda düzenleme sanatı.",
+        "descriptionAZ": "Bir kompozisiya yaratmaq üçün səsləri zamanda düzəltmək sənəti.",
+        "descriptionUK": "Мистецтво впорядкування звуків у часі для створення композиції."
     }, {
         "de": "der Sommer",
         "en": "Summer",
         "ru": "Лето",
+        "tr": "Yaz",
+        "az": "Yay",
+        "uk": "Літо",
         "descriptionEN": "The warmest season of the year, typically associated with outdoor activities.",
         "descriptionRU": "Самый тёплый сезон года, обычно ассоциируется с активным отдыхом на природе.",
-        "descriptionDE": "Die wärmste Jahreszeit, typischerweise mit Outdoor-Aktivitäten verbunden."
+        "descriptionDE": "Die wärmste Jahreszeit, typischerweise mit Outdoor-Aktivitäten verbunden.",
+        "descriptionTR": "Yılın en sıcak mevsimi, genellikle açık hava etkinlikleriyle ilişkilendirilir.",
+        "descriptionAZ": "İlin ən isti fəsli, adətən açıq hava fəaliyyətləri ilə əlaqələndirilir.",
+        "descriptionUK": "Найтепліша пора року, зазвичай асоціюється з активним відпочинком на природі."
     }, {
         "de": "das Kloster",
         "en": "Monastery",
         "ru": "Монастырь",
+        "tr": "Manastır",
+        "az": "Monastır",
+        "uk": "Монастир",
         "descriptionEN": "A building or complex where monks or nuns live and worship.",
         "descriptionRU": "Здание или комплекс, где живут и поклоняются монахи или монахини.",
-        "descriptionDE": "Ein Gebäude oder Komplex, in dem Mönche oder Nonnen leben und beten."
+        "descriptionDE": "Ein Gebäude oder Komplex, in dem Mönche oder Nonnen leben und beten.",
+        "descriptionTR": "Keşişlerin veya rahibelerin yaşadığı ve ibadet ettiği bir bina veya kompleks.",
+        "descriptionAZ": "Rahiblərin və ya rahibələrin yaşadığı və ibadət etdiyi bir bina və ya kompleks.",
+        "descriptionUK": "Будівля чи комплекс, де живуть і поклоняються ченці чи черниці."
     }, {
         "de": "feiern",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "To acknowledge a significant event with festivities.",
         "descriptionRU": "Отмечать важное событие с торжествами.",
-        "descriptionDE": "Ein wichtiges Ereignis mit Festlichkeiten anerkennen."
+        "descriptionDE": "Ein wichtiges Ereignis mit Festlichkeiten anerkennen.",
+        "descriptionTR": "Önemli bir olayı şenliklerle kutlamak.",
+        "descriptionAZ": "Mühüm bir hadisəni şənliklərlə qeyd etmək.",
+        "descriptionUK": "Відзначати важливу подію з урочистостями."
     }, {
         "de": "verschmelzen",
         "en": "to merge",
         "ru": "сливаться",
+        "tr": "birleşmek",
+        "az": "birləşmək",
+        "uk": "зливатися",
         "descriptionEN": "To combine or blend seamlessly.",
         "descriptionRU": "Соединяться или смешиваться бесшовно.",
-        "descriptionDE": "Sich nahtlos verbinden oder vermischen."
+        "descriptionDE": "Sich nahtlos verbinden oder vermischen.",
+        "descriptionTR": "Sorunsuz bir şekilde birleşmek veya karışmak.",
+        "descriptionAZ": "Problemsiz şəkildə birləşmək və ya qarışmaq.",
+        "descriptionUK": "Поєднуватися або змішуватися безшовно."
     }, {
         "de": "beteiligen",
         "en": "to participate",
         "ru": "участвовать",
+        "tr": "katılmak",
+        "az": "iştirak etmək",
+        "uk": "брати участь",
         "descriptionEN": "To take part in an activity or event.",
         "descriptionRU": "Принимать участие в деятельности или событии.",
-        "descriptionDE": "An einer Aktivität oder einem Ereignis teilnehmen."
+        "descriptionDE": "An einer Aktivität oder einem Ereignis teilnehmen.",
+        "descriptionTR": "Bir etkinliğe veya olaya katılmak.",
+        "descriptionAZ": "Bir fəaliyyətə və ya hadisəyə qoşulmaq.",
+        "descriptionUK": "Брати участь у діяльності чи події."
     }, {
         "de": "veranstalten",
         "en": "to organize",
         "ru": "организовать",
+        "tr": "düzenlemek",
+        "az": "təşkil etmək",
+        "uk": "організовувати",
         "descriptionEN": "To make arrangements or preparations for an event.",
         "descriptionRU": "Сделать подготовку или организовать мероприятие.",
-        "descriptionDE": "Vorbereitungen für eine Veranstaltung treffen."
+        "descriptionDE": "Vorbereitungen für eine Veranstaltung treffen.",
+        "descriptionTR": "Bir etkinlik için hazırlık yapmak veya düzenlemek.",
+        "descriptionAZ": "Bir tədbir üçün hazırlıq görmək və ya təşkil etmək.",
+        "descriptionUK": "Робити підготовку чи організовувати захід."
     }, {
         "de": "erleben",
         "en": "to experience",
         "ru": "пережить",
+        "tr": "deneyimlemek",
+        "az": "təcrübə etmək",
+        "uk": "пережити",
         "descriptionEN": "To encounter or undergo an event or situation.",
         "descriptionRU": "Встретить или испытать событие или ситуацию.",
-        "descriptionDE": "Ein Ereignis oder eine Situation erleben oder durchlaufen."
+        "descriptionDE": "Ein Ereignis oder eine Situation erleben oder durchlaufen.",
+        "descriptionTR": "Bir olay veya durumla karşılaşmak veya yaşamak.",
+        "descriptionAZ": "Bir hadisə və ya vəziyyətlə qarşılaşmaq və ya yaşamaq.",
+        "descriptionUK": "Зіткнутися або пережити подію чи ситуацію."
     }, {
         "de": "historisch",
         "en": "historic",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Relating to history or past events.",
         "descriptionRU": "Относящийся к истории или прошлым событиям.",
-        "descriptionDE": "In Bezug auf Geschichte oder vergangene Ereignisse."
+        "descriptionDE": "In Bezug auf Geschichte oder vergangene Ereignisse.",
+        "descriptionTR": "Tarih veya geçmiş olaylarla ilgili.",
+        "descriptionAZ": "Tarix və ya keçmiş hadisələrlə əlaqəli.",
+        "descriptionUK": "Стосується історії чи минулих подій."
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "Well-known by many people.",
         "descriptionRU": "Хорошо известный многим людям.",
-        "descriptionDE": "Von vielen Menschen gut bekannt."
+        "descriptionDE": "Von vielen Menschen gut bekannt.",
+        "descriptionTR": "Birçok insan tarafından iyi bilinen.",
+        "descriptionAZ": "Bir çox insan tərəfindən yaxşı tanınan.",
+        "descriptionUK": "Добре відомий багатьом людям."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionEN": "To a higher degree than usual.",
         "descriptionRU": "В большей степени, чем обычно.",
-        "descriptionDE": "In höherem Maße als üblich."
+        "descriptionDE": "In höherem Maße als üblich.",
+        "descriptionTR": "Olağandan daha yüksek bir derecede.",
+        "descriptionAZ": "Adi haldan daha yüksək dərəcədə.",
+        "descriptionUK": "У більшій мірі, ніж зазвичай."
     }, {
         "de": "regional",
         "en": "regional",
         "ru": "региональный",
+        "tr": "bölgesel",
+        "az": "regional",
+        "uk": "регіональний",
         "descriptionEN": "Relating to a particular area or region.",
         "descriptionRU": "Относящийся к определенной области или региону.",
-        "descriptionDE": "Bezogen auf eine bestimmte Region oder ein Gebiet."
+        "descriptionDE": "Bezogen auf eine bestimmte Region oder ein Gebiet.",
+        "descriptionTR": "Belirli bir alan veya bölgeyle ilgili.",
+        "descriptionAZ": "Müəyyən bir ərazi və ya regionla əlaqəli.",
+        "descriptionUK": "Стосується певної області чи регіону."
     }, {
         "de": "jährlich",
         "en": "annually",
         "ru": "ежегодно",
+        "tr": "yıllık",
+        "az": "illik",
+        "uk": "щорічно",
         "descriptionEN": "Happening once a year.",
         "descriptionRU": "Происходит раз в год.",
-        "descriptionDE": "Einmal im Jahr stattfindend."
+        "descriptionDE": "Einmal im Jahr stattfindend.",
+        "descriptionTR": "Yılda bir kez gerçekleşen.",
+        "descriptionAZ": "İldə bir dəfə baş verən.",
+        "descriptionUK": "Відбувається раз на рік."
     }, {
         "de": "malerisch",
         "en": "scenic",
         "ru": "живописный",
+        "tr": "manzara",
+        "az": "mənzərəli",
+        "uk": "мальовничий",
         "descriptionEN": "Visually attractive, typically in a picturesque way.",
         "descriptionRU": "Визуально привлекательный, обычно живописный.",
-        "descriptionDE": "Visuell attraktiv, typischerweise auf malerische Weise."
+        "descriptionDE": "Visuell attraktiv, typischerweise auf malerische Weise.",
+        "descriptionTR": "Görsel olarak çekici, tipik olarak pitoresk bir şekilde.",
+        "descriptionAZ": "Vizual cəlb edici, adətən rəngarəng şəkildə.",
+        "descriptionUK": "Візуально привабливий, зазвичай мальовничий."
     }
 ]

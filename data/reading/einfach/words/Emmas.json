@@ -3,148 +3,274 @@
         "de": "das Zimmer",
         "en": "room",
         "ru": "комната",
+        "tr": "oda",
+        "az": "otaq",
+        "uk": "кімната",
         "descriptionEN": "a space that is or can be occupied",
-        "descriptionRU": "пространство, которое занимается или может быть занято",
-        "descriptionDE": "ein Raum, der besetzt oder genutzt werden kann"
+        "descriptionRU": "пространство, которое занимает или может быть занято",
+        "descriptionDE": "ein Raum, der besetzt oder genutzt werden kann",
+        "descriptionTR": "İşgal edilen veya edilebilen bir alan",
+        "descriptionAZ": "Zəbt edilmiş və ya edilə bilən bir məkan",
+        "descriptionUK": "простір, який є або може бути зайнятий"
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
         "descriptionEN": "a set of written or printed pages, fastened together",
         "descriptionRU": "набор письменных или напечатанных страниц, скрепленных вместе",
-        "descriptionDE": "eine Sammlung von geschriebenen oder gedruckten Seiten, die zusammengeheftet sind"
+        "descriptionDE": "eine Sammlung von geschriebenen oder gedruckten Seiten, die zusammengeheftet sind",
+        "descriptionTR": "Bir araya getirilmiş yazılı veya basılı sayfalar bütünü",
+        "descriptionAZ": "Bir yerə bərkidilmiş yazılı və ya çap olunmuş səhifələr toplusu",
+        "descriptionUK": "набір написаних або надрукованих сторінок, скріплених разом"
     }, {
         "de": "die Uhr",
         "en": "clock",
         "ru": "часы",
+        "tr": "saat",
+        "az": "saat",
+        "uk": "годинник",
         "descriptionEN": "a device for measuring and indicating time",
         "descriptionRU": "устройство для измерения и отображения времени",
-        "descriptionDE": "ein Gerät zur Messung und Anzeige der Zeit"
+        "descriptionDE": "ein Gerät zur Messung und Anzeige der Zeit",
+        "descriptionTR": "Zamanı ölçmek ve göstermek için bir cihaz",
+        "descriptionAZ": "Vaxtı ölçmək və göstərmək üçün bir cihaz",
+        "descriptionUK": "пристрій для вимірювання та відображення часу"
     }, {
         "de": "der Brief",
         "en": "letter",
         "ru": "письмо",
+        "tr": "mektup",
+        "az": "məktub",
+        "uk": "лист",
         "descriptionEN": "a written or printed communication",
         "descriptionRU": "письменное или печатное сообщение",
-        "descriptionDE": "eine schriftliche oder gedruckte Kommunikation"
+        "descriptionDE": "eine schriftliche oder gedruckte Kommunikation",
+        "descriptionTR": "Yazılı veya basılı bir iletişim",
+        "descriptionAZ": "Yazılı və ya çap olunmuş ünsiyyət",
+        "descriptionUK": "письмове або друковане повідомлення"
     }, {
         "de": "der Briefträger",
         "en": "postman",
         "ru": "почтальон",
+        "tr": "postacı",
+        "az": "poçtalyon",
+        "uk": "листоноша",
         "descriptionEN": "a person who delivers letters and parcels",
         "descriptionRU": "человек, доставляющий письма и посылки",
-        "descriptionDE": "eine Person, die Briefe und Pakete zustellt"
+        "descriptionDE": "eine Person, die Briefe und Pakete zustellt",
+        "descriptionTR": "Mektup ve paketleri teslim eden kişi",
+        "descriptionAZ": "Məktub və bağlamalar çatdıran şəxs",
+        "descriptionUK": "людина, яка доставляє листи та посилки"
     }, {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
         "descriptionEN": "an institution of higher education",
         "descriptionRU": "учебное заведение высшего образования",
-        "descriptionDE": "eine Institution für höhere Bildung"
+        "descriptionDE": "eine Institution für höhere Bildung",
+        "descriptionTR": "Bir yükseköğretim kurumu",
+        "descriptionAZ": "Ali təhsil müəssisəsi",
+        "descriptionUK": "заклад вищої освіти"
     }, {
         "de": "das Studium",
         "en": "study",
         "ru": "учеба",
+        "tr": "çalışma",
+        "az": "təhsil",
+        "uk": "навчання",
         "descriptionEN": "the process of learning and acquiring knowledge",
         "descriptionRU": "процесс обучения и усвоения знаний",
-        "descriptionDE": "der Prozess des Lernens und des Erwerbs von Wissen"
+        "descriptionDE": "der Prozess des Lernens und des Erwerbs von Wissen",
+        "descriptionTR": "Bilgi öğrenme ve edinme süreci",
+        "descriptionAZ": "Bilik öyrənmə və əldə etmə prosesi",
+        "descriptionUK": "процес навчання та здобуття знань"
     }, {
         "de": "die Wohnung",
         "en": "apartment",
         "ru": "квартира",
+        "tr": "apartman",
+        "az": "mənzil",
+        "uk": "квартира",
         "descriptionEN": "a set of rooms forming an individual residence",
         "descriptionRU": "набор комнат, образующих индивидуальное жилье",
-        "descriptionDE": "eine Reihe von Räumen, die eine individuelle Wohnung bilden"
+        "descriptionDE": "eine Reihe von Räumen, die eine individuelle Wohnung bilden",
+        "descriptionTR": "Bireysel bir konut oluşturan bir dizi oda",
+        "descriptionAZ": "Fərdi yaşayış yeri təşkil edən bir sıra otaqlar",
+        "descriptionUK": "набір кімнат, що утворюють окреме житло"
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence",
         "descriptionRU": "неопределенное продолжительное развитие существования",
-        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins"
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt des Daseins",
+        "descriptionTR": "Varoluşun belirsiz devam eden ilerleyişi",
+        "descriptionAZ": "Varlığın qeyri-müəyyən davamlı inkişafı",
+        "descriptionUK": "невизначений безперервний прогрес існування"
     }, {
         "de": "die Freundin",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "подруга",
         "descriptionEN": "a person with whom one has a bond of mutual affection",
         "descriptionRU": "человек, с которым есть взаимное чувство привязанности",
-        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet"
+        "descriptionDE": "eine Person, mit der man eine gegenseitige Zuneigung verbindet",
+        "descriptionTR": "Karşılıklı sevgi bağı olan bir kişi",
+        "descriptionAZ": "Bir-biri ilə qarşılıqlı məhəbbət əlaqəsi olan şəxs",
+        "descriptionUK": "людина, з якою є зв'язок взаємної прихильності"
     }, {
         "de": "das Bett",
         "en": "bed",
         "ru": "кровать",
+        "tr": "yatak",
+        "az": "yataq",
+        "uk": "ліжко",
         "descriptionEN": "a piece of furniture for sleeping",
         "descriptionRU": "предмет мебели для сна",
-        "descriptionDE": "ein Möbelstück zum Schlafen"
+        "descriptionDE": "ein Möbelstück zum Schlafen",
+        "descriptionTR": "Uyku için bir mobilya parçası",
+        "descriptionAZ": "Yuxu üçün bir mebel parçası",
+        "descriptionUK": "предмет меблів для сну"
     }, {
         "de": "erwarten",
         "en": "expect",
         "ru": "ожидать",
+        "tr": "beklemek",
+        "az": "gözləmək",
+        "uk": "очікувати",
         "descriptionEN": "to look forward to the probable occurrence",
         "descriptionRU": "ожидать вероятного наступления",
-        "descriptionDE": "sich auf das wahrscheinliche Eintreten freuen"
+        "descriptionDE": "sich auf das wahrscheinliche Eintreten freuen",
+        "descriptionTR": "Muhtemel oluşumunu dört gözle beklemek",
+        "descriptionAZ": "Ehtimal olunan hadisəni səbirsizliklə gözləmək",
+        "descriptionUK": "чекати ймовірної події"
     }, {
         "de": "öffnen",
         "en": "open",
         "ru": "открывать",
+        "tr": "açmak",
+        "az": "açmaq",
+        "uk": "відкривати",
         "descriptionEN": "to remove the cover or seal from something",
         "descriptionRU": "снимать обложку или запечатывание с чего-либо",
-        "descriptionDE": "die Abdeckung oder Versiegelung von etwas entfernen"
+        "descriptionDE": "die Abdeckung oder Versiegelung von etwas entfernen",
+        "descriptionTR": "Bir şeyin kapağını veya mührünü çıkarmak",
+        "descriptionAZ": "Bir şeyin qapağını və ya möhürünü çıxarmaq",
+        "descriptionUK": "знімати кришку або пломбу з чогось"
     }, {
         "de": "anrufen",
         "en": "call",
         "ru": "звонить",
+        "tr": "aramak",
+        "az": "zəng etmək",
+        "uk": "дзвонити",
         "descriptionEN": "to communicate with someone by telephone",
         "descriptionRU": "связаться с кем-то по телефону",
-        "descriptionDE": "mit jemandem telefonisch in Verbindung treten"
+        "descriptionDE": "mit jemandem telefonisch in Verbindung treten",
+        "descriptionTR": "Birisiyle telefonla iletişim kurmak",
+        "descriptionAZ": "Kimsə ilə telefonla əlaqə saxlamaq",
+        "descriptionUK": "спілкуватися з кимось по телефону"
     }, {
         "de": "gehen",
         "en": "go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
         "descriptionEN": "to move from one place to another",
         "descriptionRU": "перемещаться с одного места на другое",
-        "descriptionDE": "sich von einem Ort zum anderen bewegen"
+        "descriptionDE": "sich von einem Ort zum anderen bewegen",
+        "descriptionTR": "Bir yerden başka bir yere hareket etmek",
+        "descriptionAZ": "Bir yerdən başqa yerə hərəkət etmək",
+        "descriptionUK": "переміщатися з одного місця в інше"
     }, {
         "de": "kaufen",
         "en": "buy",
         "ru": "купить",
+        "tr": "satın almak",
+        "az": "almaq",
+        "uk": "купувати",
         "descriptionEN": "to acquire something by paying for it",
         "descriptionRU": "приобрести что-то, заплатив за это",
-        "descriptionDE": "etwas durch Bezahlung erwerben"
+        "descriptionDE": "etwas durch Bezahlung erwerben",
+        "descriptionTR": "Bir şeyi ödeyerek elde etmek",
+        "descriptionAZ": "Nəyisə pul ödəyərək əldə etmək",
+        "descriptionUK": "придбати щось, заплативши за це"
     }, {
         "de": "vor",
         "en": "before",
         "ru": "до",
+        "tr": "önce",
+        "az": "əvvəl",
+        "uk": "до",
         "descriptionEN": "earlier in time than",
         "descriptionRU": "ранее во времени, чем",
-        "descriptionDE": "früher in der Zeit als"
+        "descriptionDE": "früher in der Zeit als",
+        "descriptionTR": "Zamandan daha erken",
+        "descriptionAZ": "Vaxtından əvvəl",
+        "descriptionUK": "раніше за часом"
     }, {
         "de": "viel",
         "en": "much",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionEN": "a large amount",
         "descriptionRU": "большое количество",
-        "descriptionDE": "eine große Menge"
+        "descriptionDE": "eine große Menge",
+        "descriptionTR": "Büyük miktar",
+        "descriptionAZ": "Böyük miqdar",
+        "descriptionUK": "велика кількість"
     }, {
         "de": "neu",
         "en": "new",
         "ru": "новый",
+        "tr": "yeni",
+        "az": "yeni",
+        "uk": "новий",
         "descriptionEN": "not existing before",
         "descriptionRU": "не существующий ранее",
-        "descriptionDE": "nicht vorher existierend"
+        "descriptionDE": "nicht vorher existierend",
+        "descriptionTR": "Daha önce var olmayan",
+        "descriptionAZ": "Daha əvvəl mövcud olmayan",
+        "descriptionUK": "не існуючий раніше"
     }, {
         "de": "genug",
         "en": "enough",
         "ru": "достаточно",
+        "tr": "yeterli",
+        "az": "kifayət qədər",
+        "uk": "достатньо",
         "descriptionEN": "sufficient for the purpose",
         "descriptionRU": "достаточно для целей",
-        "descriptionDE": "ausreichend für den Zweck"
+        "descriptionDE": "ausreichend für den Zweck",
+        "descriptionTR": "Amaca yeterli",
+        "descriptionAZ": "Məqsəd üçün kifayət qədər",
+        "descriptionUK": "достатньо для мети"
     }, {
         "de": "viel",
         "en": "much",
         "ru": "много",
+        "tr": "çok",
+        "az": "çox",
+        "uk": "багато",
         "descriptionEN": "a large amount",
         "descriptionRU": "большое количество",
-        "descriptionDE": "eine große Menge"
+        "descriptionDE": "eine große Menge",
+        "descriptionTR": "Büyük miktar",
+        "descriptionAZ": "Böyük miqdar",
+        "descriptionUK": "велика кількість"
     }
 ]

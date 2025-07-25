@@ -3,177 +3,326 @@
         "de": "die Stadt",
         "en": "city",
         "ru": "город",
+        "tr": "şehir",
+        "az": "şəhər",
+        "uk": "місто",
         "descriptionEN": "a large and permanent human settlement",
         "descriptionRU": "большое и постоянное человеческое поселение",
-        "descriptionDE": "eine große und dauerhafte menschliche Siedlung"
+        "descriptionDE": "eine große und dauerhafte menschliche Siedlung",
+        "descriptionTR": "Büyük ve kalıcı bir insan yerleşimi",
+        "descriptionAZ": "Böyük və daimi insan məskəni",
+        "descriptionUK": "велике і постійне людське поселення"
     }, {
         "de": "der Karneval",
         "en": "carnival",
         "ru": "карнавал",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
         "descriptionEN": "a festive season which occurs immediately before Lent",
         "descriptionRU": "праздничный сезон, который происходит непосредственно перед Великим постом",
-        "descriptionDE": "eine festliche Jahreszeit, die unmittelbar vor der Fastenzeit liegt"
+        "descriptionDE": "eine festliche Jahreszeit, die unmittelbar vor der Fastenzeit liegt",
+        "descriptionTR": "Lent'ten hemen önce gerçekleşen bir festival sezonu",
+        "descriptionAZ": "Böyük pəhrizdən dərhal əvvəl baş verən şənlik mövsümü",
+        "descriptionUK": "святковий сезон, який відбувається безпосередньо перед Великим постом"
     }, {
         "de": "die Straßen",
         "en": "streets",
         "ru": "улицы",
+        "tr": "sokaklar",
+        "az": "küçələr",
+        "uk": "вулиці",
         "descriptionEN": "public thoroughfares, usually paved, in a city or town",
         "descriptionRU": "общественные проходы, обычно вымощенные, в городе или поселке",
-        "descriptionDE": "öffentliche Durchgangsstraßen, in der Regel gepflastert, in einer Stadt oder einem Dorf"
+        "descriptionDE": "öffentliche Durchgangsstraßen, in der Regel gepflastert, in einer Stadt oder einem Dorf",
+        "descriptionTR": "Bir şehirde veya kasabada genellikle asfaltlanmış halka açık geçitler",
+        "descriptionAZ": "Bir şəhərdə və ya qəsəbədə adətən asfaltlanmış ictimai yollar",
+        "descriptionUK": "громадські проїзди, зазвичай бруковані, у місті чи селищі"
     }, {
         "de": "der Duft",
         "en": "scent",
         "ru": "запах",
+        "tr": "koku",
+        "az": "qoxu",
+        "uk": "запах",
         "descriptionEN": "a distinctive smell, especially one that is pleasant",
         "descriptionRU": "отличительный запах, особенно приятный",
-        "descriptionDE": "ein charakteristischer Geruch, insbesondere ein angenehmer"
+        "descriptionDE": "ein charakteristischer Geruch, insbesondere ein angenehmer",
+        "descriptionTR": "Ayırt edici bir koku, özellikle hoş olanı",
+        "descriptionAZ": "Fərqli bir qoxu, xüsusilə xoş olanı",
+        "descriptionUK": "характерний запах, особливо приємний"
     }, {
         "de": "die Leckereien",
         "en": "delicacies",
         "ru": "деликатесы",
+        "tr": "lezzetler",
+        "az": "ləzzətlər",
+        "uk": "делікатеси",
         "descriptionEN": "delicious and enjoyable food",
         "descriptionRU": "вкусная и приятная еда",
-        "descriptionDE": "köstliches und genussvolles Essen"
+        "descriptionDE": "köstliches und genussvolles Essen",
+        "descriptionTR": "Lezzetli ve keyifli yemek",
+        "descriptionAZ": "Ləzzətli və zövqlü yemək",
+        "descriptionUK": "смачна та приємна їжа"
     }, {
         "de": "die Stimmung",
         "en": "mood",
         "ru": "настроение",
+        "tr": "ruh hali",
+        "az": "əhval-ruhiyyə",
+        "uk": "настрій",
         "descriptionEN": "the prevailing atmosphere or feeling of a place",
         "descriptionRU": "преобладающая атмосфера или чувство места",
-        "descriptionDE": "die vorherrschende Atmosphäre oder das Gefühl eines Ortes"
+        "descriptionDE": "die vorherrschende Atmosphäre oder das Gefühl eines Ortes",
+        "descriptionTR": "Bir yerin hakim atmosferi veya hissi",
+        "descriptionAZ": "Bir yerin üstünlük təşkil edən ab-havası və ya hissi",
+        "descriptionUK": "переважаюча атмосфера або відчуття місця"
     }, {
         "de": "die Bäckerei",
         "en": "bakery",
         "ru": "пекарня",
+        "tr": "fırın",
+        "az": "çörəkçi dükanı",
+        "uk": "пекарня",
         "descriptionEN": "a place where bread and cakes are made and sold",
         "descriptionRU": "место, где делают и продают хлеб и пирожные",
-        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt und verkauft werden"
+        "descriptionDE": "ein Ort, an dem Brot und Kuchen hergestellt und verkauft werden",
+        "descriptionTR": "Ekmek ve keklerin yapıldığı ve satıldığı yer",
+        "descriptionAZ": "Çörək və şirniyyatların hazırlandığı və satıldığı yer",
+        "descriptionUK": "місце, де випікають і продають хліб та тістечка"
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "a group of one or more parents and their children living together as a unit",
         "descriptionRU": "группа одного или более родителей и их детей, живущих вместе как единое целое",
-        "descriptionDE": "eine Gruppe von einem oder mehreren Eltern und ihren Kindern, die zusammen als Einheit leben"
+        "descriptionDE": "eine Gruppe von einem oder mehreren Eltern und ihren Kindern, die zusammen als Einheit leben",
+        "descriptionTR": "Bir veya daha fazla ebeveyn ve çocuklarının bir birim olarak birlikte yaşadığı bir grup",
+        "descriptionAZ": "Bir və ya daha çox valideynin və onların uşaqlarının birlikdə bir vahid olaraq yaşadığı bir qrup",
+        "descriptionUK": "група одного або більше батьків та їхніх дітей, які живуть разом як єдине ціле"
     }, {
         "de": "der Sturm",
         "en": "storm",
         "ru": "шторм",
+        "tr": "fırtına",
+        "az": "fırtına",
+        "uk": "шторм",
         "descriptionEN": "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow",
         "descriptionRU": "сильное нарушение атмосферы с сильными ветрами и обычно дождем, грозой, молнией или снегом",
-        "descriptionDE": "eine gewaltsame Störung der Atmosphäre mit starken Winden und in der Regel Regen, Donner, Blitz oder Schnee"
+        "descriptionDE": "eine gewaltsame Störung der Atmosphäre mit starken Winden und in der Regel Regen, Donner, Blitz oder Schnee",
+        "descriptionTR": "Güçlü rüzgarlar ve genellikle yağmur, gök gürültüsü, şimşek veya karla birlikte atmosferin şiddetli bir şekilde bozulması",
+        "descriptionAZ": "Güclü küləklər və adətən yağış, ildırım, şimşək və ya qar ilə müşayiət olunan atmosferin şiddətli pozulması",
+        "descriptionUK": "сильне порушення атмосфери з сильними вітрами і зазвичай дощем, громом, блискавкою або снігом"
     }, {
         "de": "die Gemeinde",
         "en": "community",
         "ru": "сообщество",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "спільнота",
         "descriptionEN": "a group of people living in the same place or having a particular characteristic in common",
         "descriptionRU": "группа людей, живущих в одном месте или имеющих общий характерный признак",
-        "descriptionDE": "eine Gruppe von Menschen, die an einem Ort leben oder eine bestimmte Eigenschaft gemeinsam haben"
+        "descriptionDE": "eine Gruppe von Menschen, die an einem Ort leben oder eine bestimmte Eigenschaft gemeinsam haben",
+        "descriptionTR": "Aynı yerde yaşayan veya ortak bir özelliği olan bir grup insan",
+        "descriptionAZ": "Eyni yerdə yaşayan və ya müəyyən bir xüsusiyyəti ortaq olan bir qrup insan",
+        "descriptionUK": "група людей, які проживають в одному місці або мають спільну певну характеристику"
     }, {
         "de": "das Geheimrezept",
         "en": "secret recipe",
         "ru": "секретный рецепт",
+        "tr": "gizli tarif",
+        "az": "gizli resept",
+        "uk": "секретний рецепт",
         "descriptionEN": "a recipe kept confidential to prevent others from duplicating it",
         "descriptionRU": "рецепт, держащийся в секрете, чтобы другие не могли его продублировать",
-        "descriptionDE": "ein Rezept, das vertraulich aufbewahrt wird, um zu verhindern, dass andere es duplizieren"
+        "descriptionDE": "ein Rezept, das vertraulich aufbewahrt wird, um zu verhindern, dass andere es duplizieren",
+        "descriptionTR": "Başkalarının kopyalamasını önlemek için gizli tutulan bir tarif",
+        "descriptionAZ": "Başqalarının kopyalamasının qarşısını almaq üçün məxfi saxlanılan resept",
+        "descriptionUK": "рецепт, що зберігається в таємниці, щоб запобігти його дублюванню іншими"
     }, {
         "de": "backen",
         "en": "to bake",
         "ru": "печь",
+        "tr": "fırında pişirmek",
+        "az": "bişirmək",
+        "uk": "випікати",
         "descriptionEN": "to cook (food) by dry heat without direct exposure to a flame",
         "descriptionRU": "готовить (пищу) сухим теплом без прямого воздействия пламени",
-        "descriptionDE": "Speisen durch trockene Hitze ohne direkte Einwirkung einer Flamme garen"
+        "descriptionDE": "Speisen durch trockene Hitze ohne direkte Einwirkung einer Flamme garen",
+        "descriptionTR": "(Yiyeceği) doğrudan ateşe maruz bırakmadan kuru ısıda pişirmek",
+        "descriptionAZ": "(Yeməyi) bir alova birbaşa məruz qalmadan quru istiliklə bişirmək",
+        "descriptionUK": "готувати (їжу) сухим теплом без прямого впливу полум'я"
     }, {
         "de": "helfen",
         "en": "to help",
         "ru": "помогать",
+        "tr": "yardım etmek",
+        "az": "kömək etmək",
+        "uk": "допомагати",
         "descriptionEN": "to make it easier or possible for (someone) to do something by offering them one's services or resources",
         "descriptionRU": "облегчать или делать возможным для кого-то что-то, предоставляя свои услуги или ресурсы",
-        "descriptionDE": "es jemandem erleichtern oder ermöglichen, etwas zu tun, indem man ihm seine Dienste oder Ressourcen anbietet"
+        "descriptionDE": "es jemandem erleichtern oder ermöglichen, etwas zu tun, indem man ihm seine Dienste oder Ressourcen anbietet",
+        "descriptionTR": "(Birinin) bir şeyler yapmasını kendi hizmetlerini veya kaynaklarını sunarak daha kolay veya mümkün kılmak",
+        "descriptionAZ": "(Kiminsə) öz xidmətlərini və ya resurslarını təklif etməklə bir şey etməsini asanlaşdırmaq və ya mümkün etmək",
+        "descriptionUK": "полегшувати або уможливлювати (комусь) щось робити, пропонуючи свої послуги або ресурси"
     }, {
         "de": "vorübergehend",
         "en": "temporary",
         "ru": "временный",
+        "tr": "geçici",
+        "az": "müvəqqəti",
+        "uk": "тимчасовий",
         "descriptionEN": "lasting for only a limited period of time; not permanent",
         "descriptionRU": "продолжительность только ограниченный период времени; не постоянный",
-        "descriptionDE": "nur für einen begrenzten Zeitraum haltend; nicht permanent"
+        "descriptionDE": "nur für einen begrenzten Zeitraum haltend; nicht permanent",
+        "descriptionTR": "Yalnızca sınırlı bir süre devam eden; kalıcı olmayan",
+        "descriptionAZ": "Yalnız məhdud müddət davam edən; daimi olmayan",
+        "descriptionUK": "триває лише обмежений період часу; не постійний"
     }, {
         "de": "ausgelassen",
         "en": "lively",
         "ru": "веселый",
+        "tr": "canlı",
+        "az": "şən",
+        "uk": "жвавий",
         "descriptionEN": "full of high spirits, enthusiasm, and excitement",
         "descriptionRU": "полный бодрости духа, энтузиазма и волнения",
-        "descriptionDE": "voller Lebensfreude, Begeisterung und Aufregung"
+        "descriptionDE": "voller Lebensfreude, Begeisterung und Aufregung",
+        "descriptionTR": "Yüksek ruh hali, coşku ve heyecan dolu",
+        "descriptionAZ": "Yüksək ruh, həvəs və həyəcan dolu",
+        "descriptionUK": "сповнений бадьорості, ентузіазму та хвилювання"
     }, {
         "de": "überglücklich",
         "en": "ecstatic",
         "ru": "экстатический",
+        "tr": "çok neşeli",
+        "az": "ekstatik",
+        "uk": "екстатичний",
         "descriptionEN": "feeling or expressing overwhelming happiness or joyful excitement",
         "descriptionRU": "чувствовать или выражать подавляющее счастье или радостное волнение",
-        "descriptionDE": "überwältigendes Glück oder freudige Aufregung empfinden oder ausdrücken"
+        "descriptionDE": "überwältigendes Glück oder freudige Aufregung empfinden oder ausdrücken",
+        "descriptionTR": "Ezici bir mutluluk veya neşeli bir heyecan hissetmek veya ifade etmek",
+        "descriptionAZ": "Böyük xoşbəxtlik və ya sevincli həyəcan hiss etmək və ya ifadə etmək",
+        "descriptionUK": "відчуття або вираження надзвичайного щастя або радісного збудження"
     }, {
         "de": "katastrophal",
         "en": "catastrophic",
         "ru": "катастрофический",
+        "tr": "felaket",
+        "az": "fəlakətli",
+        "uk": "катастрофічний",
         "descriptionEN": "involving or causing sudden great damage or suffering",
         "descriptionRU": "вовлекая или вызывая внезапное великое повреждение или страдание",
-        "descriptionDE": "involvierend oder verursachend plötzlich großen Schaden oder Leid"
+        "descriptionDE": "involvierend oder verursachend plötzlich großen Schaden oder Leid",
+        "descriptionTR": "Ani büyük hasar veya acıya neden olan veya bunları içeren",
+        "descriptionAZ": "Ani böyük zərər və ya əzaba səbəb olan və ya bunlarla əlaqəli",
+        "descriptionUK": "пов'язаний із раптовим великим збитком або стражданням, або спричиняє його"
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
         "descriptionEN": "impossible to forget; very memorable",
         "descriptionRU": "невозможно забыть; очень запоминающийся",
-        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam"
+        "descriptionDE": "unmöglich zu vergessen; sehr einprägsam",
+        "descriptionTR": "Unutulması imkansız; çok akılda kalıcı",
+        "descriptionAZ": "Unudulmaz; çox yaddaqalan",
+        "descriptionUK": "неможливо забути; дуже пам'ятний"
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionEN": "to a higher degree than is usual or average",
         "descriptionRU": "на более высоком уровне, чем обычно или в среднем",
-        "descriptionDE": "in einem höheren Maße als üblich oder durchschnittlich"
+        "descriptionDE": "in einem höheren Maße als üblich oder durchschnittlich",
+        "descriptionTR": "Normal veya ortalamadan daha yüksek derecede",
+        "descriptionAZ": "Adətən və ya orta hesabla olduğundan daha yüksək dərəcədə",
+        "descriptionUK": "більшою мірою, ніж зазвичай або в середньому"
     }, {
         "de": "unermüdlich",
         "en": "unwaveringly",
         "ru": "неутомимо",
+        "tr": "sarsılmaz bir şekilde",
+        "az": "sarsılmaz",
+        "uk": "непохитно",
         "descriptionEN": "persistently or tirelessly",
         "descriptionRU": "настойчиво или неустанным образом",
-        "descriptionDE": "anhaltend"
+        "descriptionDE": "anhaltend",
+        "descriptionTR": "İnatla veya yorulmadan",
+        "descriptionAZ": "Davamlı və ya yorulmadan",
+        "descriptionUK": "наполегливо або невтомно"
     }, {
         "de": "beschädigt",
         "en": "damaged",
         "ru": "поврежденный",
+        "tr": "hasarlı",
+        "az": "zədələnmiş",
+        "uk": "пошкоджений",
         "descriptionEN": "harmed or injured",
         "descriptionRU": "поврежден или ранен",
-        "descriptionDE": "geschädigt oder verletzt"
+        "descriptionDE": "geschädigt oder verletzt",
+        "descriptionTR": "Zarar görmüş veya yaralanmış",
+        "descriptionAZ": "Zərər görmüş və ya zədələnmiş",
+        "descriptionUK": "пошкоджений або поранений"
     }, {
         "de": "umgeworfen",
         "en": "overturned",
         "ru": "опрокинутый",
+        "tr": "devrilmiş",
+        "az": "aşırılmış",
+        "uk": "перекинутий",
         "descriptionEN": "turned over onto its side or upside down",
         "descriptionRU": "перевернутый на бок или вверх ногами",
-        "descriptionDE": "auf die Seite oder auf den Kopf gestellt"
+        "descriptionDE": "auf die Seite oder auf den Kopf gestellt",
+        "descriptionTR": "Yanına veya baş aşağı devrilmiş",
+        "descriptionAZ": "Yan tərəfinə və ya tərsinə çevrilmiş",
+        "descriptionUK": "перевернутий на бік або догори дном"
     }, {
         "de": "ausgebaut",
         "en": "expanded",
         "ru": "расширенный",
+        "tr": "genişletilmiş",
+        "az": "genişləndirilmiş",
+        "uk": "розширений",
         "descriptionEN": "made larger or more extensive",
         "descriptionRU": "сделано больше или более обширно",
-        "descriptionDE": "vergrößert oder erweitert"
+        "descriptionDE": "vergrößert oder erweitert",
+        "descriptionTR": "Daha büyük veya daha kapsamlı hale getirilmiş",
+        "descriptionAZ": "Daha böyük və ya daha genişləşdirilmiş",
+        "descriptionUK": "зроблений більшим або ширшим"
     }, {
         "de": "zerstört",
         "en": "destroyed",
         "ru": "разрушенный",
+        "tr": "yıkılmış",
+        "az": "məhv edilmiş",
+        "uk": "зруйнований",
         "descriptionEN": "ruined or completely spoiled",
         "descriptionRU": "разрушен или полностью испорчен",
-        "descriptionDE": "ruiniert oder vollständig verdorben"
+        "descriptionDE": "ruiniert oder vollständig verdorben",
+        "descriptionTR": "Harap olmuş veya tamamen bozulmuş",
+        "descriptionAZ": "Dağılmış və ya tamamilə korlanmış",
+        "descriptionUK": "зруйнований або повністю зіпсований"
     }, {
         "de": "zerbrechlich",
         "en": "fragile",
         "ru": "хрупкий",
+        "tr": "kırılgan",
+        "az": "kövrək",
+        "uk": "крихкий",
         "descriptionEN": "easily broken or damaged",
         "descriptionRU": "легко ломается или повреждается",
-        "descriptionDE": "leicht zu brechen oder zu beschädigen"
+        "descriptionDE": "leicht zu brechen oder zu beschädigen",
+        "descriptionTR": "Kolayca kırılan veya zarar gören",
+        "descriptionAZ": "Asanlıqla qırılan və ya zədələnən",
+        "descriptionUK": "легко ламається або пошкоджується"
     }
-
 ]

@@ -1,130 +1,237 @@
 [
-
     {
         "de": "das Feuerwerk",
         "en": "fireworks",
         "ru": "фейерверк",
+        "tr": "havai fişek",
+        "az": "fişəng",
+        "uk": "феєрверк",
         "descriptionEN": "A display of explosive devices set off to create colorful lights and sounds in the sky.",
         "descriptionRU": "Показ взрывных устройств, запускаемых для создания цветных огней и звуков в небе.",
-        "descriptionDE": "Eine Ausstellung von Explosionsgeräten, die abgefeuert werden, um bunte Lichter und Geräusche am Himmel zu erzeugen."
+        "descriptionDE": "Eine Ausstellung von Explosionsgeräten, die abgefeuert werden, um bunte Lichter und Geräusche am Himmel zu erzeugen.",
+        "descriptionTR": "Gökyüzünde renkli ışıklar ve sesler oluşturmak için patlatılan patlayıcı cihazların gösterisi.",
+        "descriptionAZ": "Göydə rəngli işıqlar və səslər yaratmaq üçün partladılan partlayıcı qurğuların nümayişi.",
+        "descriptionUK": "Демонстрація вибухових пристроїв, які запускаються для створення кольорових вогнів та звуків у небі."
     }, {
         "de": "das Fahrgeschäft",
         "en": "ride",
         "ru": "аттракцион",
+        "tr": "lunapark eğlencesi",
+        "az": "park attraksionu",
+        "uk": "атракціон",
         "descriptionEN": "A machine at an amusement park that people ride for enjoyment.",
         "descriptionRU": "Машина в парке развлечений, на которой люди катаются для удовольствия.",
-        "descriptionDE": "Eine Maschine in einem Vergnügungspark, die Menschen zum Vergnügen fahren."
+        "descriptionDE": "Eine Maschine in einem Vergnügungspark, die Menschen zum Vergnügen fahren.",
+        "descriptionTR": "İnsanların eğlence için bindiği lunapark makinesi.",
+        "descriptionAZ": "İnsanların əyləncə üçün minəcəyi əyləncə parkı maşını.",
+        "descriptionUK": "Машина в парку розваг, на якій люди катаються для задоволення."
     }, {
         "de": "die Bühne",
         "en": "stage",
         "ru": "сцена",
+        "tr": "sahne",
+        "az": "səhnə",
+        "uk": "сцена",
         "descriptionEN": "A platform where artists perform for an audience.",
         "descriptionRU": "Платформа, на которой артисты выступают перед аудиторией.",
-        "descriptionDE": "Eine Plattform, auf der Künstler vor einem Publikum auftreten."
+        "descriptionDE": "Eine Plattform, auf der Künstler vor einem Publikum auftreten.",
+        "descriptionTR": "Sanatçıların seyirci önünde performans sergilediği platform.",
+        "descriptionAZ": "Sənətçilərin tamaşaçı qarşısında çıxış etdiyi platforma.",
+        "descriptionUK": "Платформа, де артисти виступають перед аудиторією."
     }, {
         "de": "das Konzert",
         "en": "concert",
         "ru": "концерт",
+        "tr": "konser",
+        "az": "konsert",
+        "uk": "концерт",
         "descriptionEN": "A live performance of music before an audience.",
         "descriptionRU": "Живое исполнение музыки перед аудиторией.",
-        "descriptionDE": "Ein Live-Auftritt von Musik vor einem Publikum."
+        "descriptionDE": "Ein Live-Auftritt von Musik vor einem Publikum.",
+        "descriptionTR": "Bir seyirci önünde canlı müzik performansı.",
+        "descriptionAZ": "Tamaşaçı qarşısında canlı musiqi ifası.",
+        "descriptionUK": "Живе виконання музики перед аудиторією."
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "The mood or feeling in a particular place.",
         "descriptionRU": "Настроение или чувство в конкретном месте.",
-        "descriptionDE": "Die Stimmung oder das Gefühl an einem bestimmten Ort."
+        "descriptionDE": "Die Stimmung oder das Gefühl an einem bestimmten Ort.",
+        "descriptionTR": "Belirli bir yerdeki ruh hali veya his.",
+        "descriptionAZ": "Müəyyən bir yerdə əhval-ruhiyyə və ya hiss.",
+        "descriptionUK": "Настрій чи почуття в певному місці."
     }, {
         "de": "das Essen",
         "en": "food",
         "ru": "еда",
+        "tr": "yiyecek",
+        "az": "qida",
+        "uk": "їжа",
         "descriptionEN": "Substances consumed to provide nutritional support for the body.",
         "descriptionRU": "Вещества, потребляемые для обеспечения организма питательными веществами.",
-        "descriptionDE": "Substanzen, die konsumiert werden, um dem Körper Nährstoffe zu liefern."
+        "descriptionDE": "Substanzen, die konsumiert werden, um dem Körper Nährstoffe zu liefern.",
+        "descriptionTR": "Vücuda besin desteği sağlamak için tüketilen maddeler.",
+        "descriptionAZ": "Bədənə qida dəstəyi təmin etmək üçün istehlak edilən maddələr.",
+        "descriptionUK": "Речовини, що споживаються для забезпечення організму поживними речовинами."
     }, {
         "de": "die Leckerei",
         "en": "delicacy",
         "ru": "деликатес",
+        "tr": "lezzet",
+        "az": "delikates",
+        "uk": "делікатес",
         "descriptionEN": "A delicious and luxurious food item.",
         "descriptionRU": "Вкусный и роскошный продукт питания.",
-        "descriptionDE": "Eine köstliche und luxuriöse Speise."
+        "descriptionDE": "Eine köstliche und luxuriöse Speise.",
+        "descriptionTR": "Lezzetli ve lüks bir yiyecek.",
+        "descriptionAZ": "Dadlı və lüks bir qida məhsulu.",
+        "descriptionUK": "Смачний та розкішний продукт харчування."
     }, {
         "de": "der Wein",
         "en": "wine",
         "ru": "вино",
+        "tr": "şarap",
+        "az": "şərab",
+        "uk": "вино",
         "descriptionEN": "An alcoholic drink made from fermented grapes.",
         "descriptionRU": "Алкогольный напиток, изготовленный из ферментированного винограда.",
-        "descriptionDE": "Ein alkoholisches Getränk aus fermentierten Trauben."
+        "descriptionDE": "Ein alkoholisches Getränk aus fermentierten Trauben.",
+        "descriptionTR": "Fermante üzümlerden yapılan alkollü içecek.",
+        "descriptionAZ": "Fermentasiya olunmuş üzümdən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого винограду."
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "tr": "müzik",
+        "az": "musiqi",
+        "uk": "музика",
         "descriptionEN": "Art form and cultural activity whose medium is sound.",
         "descriptionRU": "Форма искусства и культурная деятельность, средством которой является звук.",
-        "descriptionDE": "Kunstform und kulturelle Aktivität, deren Medium der Klang ist."
+        "descriptionDE": "Kunstform und kulturelle Aktivität, deren Medium der Klang ist.",
+        "descriptionTR": "Sesin araç olduğu sanat formu ve kültürel aktivite.",
+        "descriptionAZ": "Səs vasitə olduğu incəsənət forması və mədəni fəaliyyət.",
+        "descriptionUK": "Форма мистецтва та культурна діяльність, засобом якої є звук."
     }, {
         "de": "die Familie",
         "en": "family",
         "ru": "семья",
+        "tr": "aile",
+        "az": "ailə",
+        "uk": "сім'я",
         "descriptionEN": "A group of people related by blood or marriage.",
         "descriptionRU": "Группа людей, связанных кровным родством или браком.",
-        "descriptionDE": "Eine Gruppe von Menschen, die durch Blut oder Ehe verbunden sind."
+        "descriptionDE": "Eine Gruppe von Menschen, die durch Blut oder Ehe verbunden sind.",
+        "descriptionTR": "Kan veya evlilik bağı ile bağlı bir grup insan.",
+        "descriptionAZ": "Qan və ya nikah əlaqəsi ilə bağlı bir qrup insan.",
+        "descriptionUK": "Група людей, пов'язаних кровною спорідненістю чи шлюбом."
     }, {
         "de": "synchronisieren",
         "en": "to synchronize",
         "ru": "синхронизировать",
+        "tr": "senkronize etmek",
+        "az": "sinxronizasiya etmək",
+        "uk": "синхронізувати",
         "descriptionEN": "To occur at the same time or rate.",
         "descriptionRU": "Происходить в одно и то же время или с одинаковой скоростью.",
-        "descriptionDE": "Gleichzeitig oder mit der gleichen Geschwindigkeit ablaufen."
+        "descriptionDE": "Gleichzeitig oder mit der gleichen Geschwindigkeit ablaufen.",
+        "descriptionTR": "Aynı zamanda veya aynı hızda gerçekleşmek.",
+        "descriptionAZ": "Eyni zamanda və ya eyni sürətlə baş vermək.",
+        "descriptionUK": "Відбуватися в один і той самий час або з однаковою швидкістю."
     }, {
         "de": "erhellen",
         "en": "to illuminate",
         "ru": "освещать",
+        "tr": "aydınlatmak",
+        "az": "işıqlandırmaq",
+        "uk": "освітлювати",
         "descriptionEN": "To light up.",
         "descriptionRU": "Осветить.",
-        "descriptionDE": "Beleuchten."
+        "descriptionDE": "Beleuchten.",
+        "descriptionTR": "Aydınlatmak.",
+        "descriptionAZ": "İşıqlandırmaq.",
+        "descriptionUK": "Освітлювати."
     }, {
         "de": "lebendig",
         "en": "lively",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
         "descriptionEN": "Full of life and energy.",
         "descriptionRU": "Полный жизни и энергии.",
-        "descriptionDE": "Voller Leben und Energie."
+        "descriptionDE": "Voller Leben und Energie.",
+        "descriptionTR": "Hayat ve enerji dolu.",
+        "descriptionAZ": "Həyat və enerji ilə dolu.",
+        "descriptionUK": "Повний життя та енергії."
     }, {
         "de": "spektakulär",
         "en": "spectacular",
         "ru": "зрелищный",
+        "tr": "görkemli",
+        "az": "gözəl",
+        "uk": "вражаючий",
         "descriptionEN": "Visually striking.",
         "descriptionRU": "Визуально впечатляющий.",
-        "descriptionDE": "Visuell beeindruckend."
+        "descriptionDE": "Visuell beeindruckend.",
+        "descriptionTR": "Görsel olarak çarpıcı.",
+        "descriptionAZ": "Vizual olaraq təsir edici.",
+        "descriptionUK": "Візуально вражаючий."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unutulmaz",
+        "uk": "незабутній",
         "descriptionEN": "Very memorable.",
         "descriptionRU": "Очень запоминающийся.",
-        "descriptionDE": "Sehr einprägsam."
+        "descriptionDE": "Sehr einprägsam.",
+        "descriptionTR": "Çok unutulmaz.",
+        "descriptionAZ": "Çox unudulmaz.",
+        "descriptionUK": "Дуже запам'ятовується."
     }, {
         "de": "lokal",
         "en": "local",
         "ru": "местный",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий",
         "descriptionEN": "Belonging or relating to a particular area.",
         "descriptionRU": "Принадлежит или относится к определенной области.",
-        "descriptionDE": "Zugehörig oder bezogen auf ein bestimmtes Gebiet."
+        "descriptionDE": "Zugehörig oder bezogen auf ein bestimmtes Gebiet.",
+        "descriptionTR": "Belirli bir bölgeye ait olan veya ilişkin.",
+        "descriptionAZ": "Müəyyən bir əraziyə aid olan və ya aid olan.",
+        "descriptionUK": "Належить або відноситься до певної області."
     }, {
         "de": "international",
         "en": "international",
         "ru": "международный",
+        "tr": "uluslararası",
+        "az": "beynəlxalq",
+        "uk": "міжнародний",
         "descriptionEN": "Existing or occurring between nations.",
         "descriptionRU": "Существующий или происходящий между нациями.",
-        "descriptionDE": "Zwischen den Nationen existierend oder vorkommend."
+        "descriptionDE": "Zwischen den Nationen existierend oder vorkommend.",
+        "descriptionTR": "Uluslar arasında var olan veya meydana gelen.",
+        "descriptionAZ": "Millətlər arasında mövcud olan və ya baş verən.",
+        "descriptionUK": "Існуючий або відбувається між націями."
     }, {
         "de": "fröhlich",
         "en": "cheerful",
         "ru": "весёлый",
+        "tr": "neşeli",
+        "az": "şən",
+        "uk": "веселий",
         "descriptionEN": "Noticeably happy and optimistic.",
         "descriptionRU": "Заметно счастливый и оптимистичный.",
-        "descriptionDE": "Erkennbar glücklich und optimistisch."
+        "descriptionDE": "Erkennbar glücklich und optimistisch.",
+        "descriptionTR": "Fark edilir derecede mutlu ve iyimser.",
+        "descriptionAZ": "Aydın şəkildə xoşbəxt və optimist.",
+        "descriptionUK": "Помітно щасливий та оптимістичний."
     }
 ]

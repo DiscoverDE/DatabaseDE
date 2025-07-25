@@ -3,12 +3,18 @@
         "name": {
             "en": "Night at the Museum",
             "de": "Nacht im Museum",
-            "ru": "Ночь в музее"
+            "ru": "Ночь в музее",
+            "tr": "Müzede Gece",
+            "uk": "Ніч у музеї",
+            "az": "Muzeydə Gecə"
         },
         "description": {
             "en": "Annual cultural event",
             "de": "Jährliches Kulturevent",
-            "ru": "Ежегодное культурное событие"
+            "ru": "Ежегодное культурное событие",
+            "tr": "Yıllık kültürel etkinlik",
+            "uk": "Щорічна культурна подія",
+            "az": "İllik mədəni tədbir"
         },
         "level": "A2",
         "image": "NachtMuseum.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Movie Night",
             "de": "Filmnacht",
-            "ru": "Ночь фильмов"
+            "ru": "Ночь фильмов",
+            "tr": "Film Gecesi",
+            "uk": "Ніч кіно",
+            "az": "Film Gecəsi"
         },
         "description": {
             "en": "Cinema Choices",
             "de": "Kinowahl",
-            "ru": "Выбор кинотеатра"
+            "ru": "Выбор кинотеатра",
+            "tr": "Sinema Seçimleri",
+            "uk": "Вибір кінотеатру",
+            "az": "Kino Seçimləri"
         },
         "level": "A2",
         "image": "Kinowahl.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "en": "Amelia's Journey",
             "de": "Amelias Reise",
-            "ru": "Путешествие Амелии"
+            "ru": "Путешествие Амелии",
+            "tr": "Amelia'nın Yolculuğu",
+            "uk": "Подорож Амелії",
+            "az": "Ameliyanın Səyahəti"
         },
         "description": {
             "en": "Internship",
             "de": "Praktikum",
-            "ru": "Стажировка"
+            "ru": "Стажировка",
+            "tr": "Staj",
+            "uk": "Стажування",
+            "az": "Təcrübə"
         },
         "level": "A2",
         "image": "Amelia.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "en": "Guess the city",
             "de": "Errate die Stadt",
-            "ru": "Угадайте город"
+            "ru": "Угадайте город",
+            "tr": "Şehri Tahmin Et",
+            "uk": "Вгадайте місто",
+            "az": "Şəhəri Təxmin Edin"
         },
         "description": {
             "en": "Cosmopolitan city",
             "de": "Kosmopolitische Stadt",
-            "ru": "Космополитический город"
+            "ru": "Космополитический город",
+            "tr": "Kozmopolit Şehir",
+            "uk": "Космополітичне місто",
+            "az": "Kosmopolit Şəhər"
         },
         "level": "A2",
         "image": "Cosmopolitan.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "en": "Aquazoo Adventure",
             "de": "Aquazoo Abenteuer",
-            "ru": "Приключения в Аквазоопарке"
+            "ru": "Приключения в Аквазоопарке",
+            "tr": "Aquazoo Macerası",
+            "uk": "Пригоди в Аквазоопарку",
+            "az": "Aquazoo Macərası"
         },
         "description": {
             "en": "School trip",
             "de": "Schulausflug",
-            "ru": "Школьная экскурсия"
+            "ru": "Школьная экскурсия",
+            "tr": "Okul Gezisi",
+            "uk": "Шкільна екскурсія",
+            "az": "Məktəb Ekskursiyası"
         },
         "level": "A2",
         "image": "Aquazoo.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "en": "Dreams in Dusseldorf",
             "de": "Träume in Düsseldorf",
-            "ru": "Мечты в Дюссельдорфе"
+            "ru": "Мечты в Дюссельдорфе",
+            "tr": "Düsseldorf'ta Hayaller",
+            "uk": "Мрії в Дюссельдорфі",
+            "az": "Düsseldorf-da Arzular"
         },
         "description": {
             "en": "Actor's journey",
             "de": "Schauspielerreise",
-            "ru": "Путь актера"
+            "ru": "Путь актера",
+            "tr": "Aktörün Yolculuğu",
+            "uk": "Шлях актора",
+            "az": "Aktyorun Səyahəti"
         },
         "level": "B1",
         "image": "Schauspielerreise.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "en": "Weather",
             "de": "Wetter",
-            "ru": "Погода"
+            "ru": "Погода",
+            "tr": "Hava Durumu",
+            "uk": "Погода",
+            "az": "Hava"
         },
         "description": {
             "en": "Climate guide",
             "de": "Klimaführer",
-            "ru": "Гид по климату"
+            "ru": "Гид по климату",
+            "tr": "İklim Rehberi",
+            "uk": "Гід по клімату",
+            "az": "İqlim Bələdçisi"
         },
         "level": "B1",
         "image": "Klimafuhrer.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "en": "Love's Symphony",
             "de": "Die Symphonie der Liebe",
-            "ru": "Симфония любви"
+            "ru": "Симфония любви",
+            "tr": "Aşk Senfonisi",
+            "uk": "Симфонія кохання",
+            "az": "Sevgi Simfoniyası"
         },
         "description": {
             "en": "Opposites attract",
             "de": "Gegensätze ziehen",
-            "ru": "Противоположности притягиваются"
+            "ru": "Противоположности притягиваются",
+            "tr": "Zıtlar Çeker",
+            "uk": "Протилежності притягуються",
+            "az": "Ziddiyyətlər Cəzb Edir"
         },
         "level": "B1",
         "image": "Symphony.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "en": "Neighborhoods I",
             "de": "Viertel I",
-            "ru": "Кварталы I"
+            "ru": "Кварталы I",
+            "tr": "Mahalleler I",
+            "uk": "Квартали I",
+            "az": "Məhəllələr I"
         },
         "description": {
             "en": "Old Town & Oberkassel",
             "de": "Altstadt & Oberkassel",
-            "ru": "Старый город и Оберкассель"
+            "ru": "Старый город и Оберкассель",
+            "tr": "Eski Şehir ve Oberkassel",
+            "uk": "Старе місто та Оберкассель",
+            "az": "Köhnə Şəhər və Oberkassel"
         },
         "level": "B1",
         "image": "Altstadt.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "de": "Joggen an der Rheinuferpromenade",
             "en": "Jogging by the promenade",
-            "ru": "Пробежка у променада"
+            "ru": "Пробежка у променада",
+            "tr": "Sahilde Koşu",
+            "uk": "Пробіжка на набережній",
+            "az": "Sahildə Qaçış"
         },
         "description": {
             "de": "Erster Eindruck",
             "en": "First Impressions",
-            "ru": "Первые впечатления"
+            "ru": "Первые впечатления",
+            "tr": "İlk İzlenimler",
+            "uk": "Перші враження",
+            "az": "İlk Təəssüratlar"
         },
         "level": "B1",
         "image": "Rheinuferpromenade.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "en": "Skyward Adventure",
             "de": "Himmelsabenteuer",
-            "ru": "Небесное приключение"
+            "ru": "Небесное приключение",
+            "tr": "Gökyüzü Macerası",
+            "uk": "Небесна пригода",
+            "az": "Göy Macərası"
         },
         "description": {
             "en": "Photographer's journey",
             "de": "Fotoreise",
-            "ru": "Путешествие фотографа"
+            "ru": "Путешествие фотографа",
+            "tr": "Fotoğrafçının Yolculuğu",
+            "uk": "Подорож фотографа",
+            "az": "Fotoqrafın Səyahəti"
         },
         "level": "B2",
         "image": "Himmelsabenteuer.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "en": "Benrath Castle",
             "de": "Schloss Benrath",
-            "ru": "Замок Бенрат"
+            "ru": "Замок Бенрат",
+            "tr": "Benrath Şatosu",
+            "uk": "Замок Бенрат",
+            "az": "Benrath Qəsri"
         },
         "description": {
             "en": "Baroque palace tour",
             "de": "Barockschlossführung",
-            "ru": "Экскурсия по барочному дворцу"
+            "ru": "Экскурсия по барочному дворцу",
+            "tr": "Barok Saray Turu",
+            "uk": "Екскурсія по барочному палацу",
+            "az": "Barok Saray Turu"
         },
         "level": "B2",
         "image": "Benrath.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "en": "Japan Day",
             "de": "Japan-Tag",
-            "ru": "Японский день"
+            "ru": "Японский день",
+            "tr": "Japonya Günü",
+            "uk": "Японський день",
+            "az": "Yaponiya Günü"
         },
         "description": {
             "en": "Celebration of culture",
             "de": "Feier der Kultur",
-            "ru": "Празднование культуры"
+            "ru": "Празднование культуры",
+            "tr": "Kültür Kutlaması",
+            "uk": "Святкування культури",
+            "az": "Mədəniyyət Bayramı"
         },
         "level": "B2",
         "image": "JapanDay.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "en": "Neighborhoods III",
             "de": "Viertel III",
-            "ru": "Кварталы III"
+            "ru": "Кварталы III",
+            "tr": "Mahalleler III",
+            "uk": "Квартали III",
+            "az": "Məhəllələr III"
         },
         "description": {
             "en": "Bilk & Oberbilk & Unterbilk",
             "de": "Bilk & Oberbilk & Unterbilk",
-            "ru": "Бильк, Обербильк и Унтербильк"
+            "ru": "Бильк, Обербильк и Унтербильк",
+            "tr": "Bilk, Oberbilk ve Unterbilk",
+            "uk": "Білк, Обербілк та Унтербілк",
+            "az": "Bilk, Oberbilk və Unterbilk"
         },
         "level": "B2",
         "image": "Bilk.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "en": "Allure",
             "de": "Der Reiz",
-            "ru": "Привлекательность"
+            "ru": "Привлекательность",
+            "tr": "Cazibe",
+            "uk": "Привабливість",
+            "az": "Cazibə"
         },
         "description": {
             "en": "Unveiling a new home",
             "de": "Enthüllung eines neuen Zuhauses",
-            "ru": "Раскрытие нового дома"
+            "ru": "Раскрытие нового дома",
+            "tr": "Yeni Bir Evin Açılışı",
+            "uk": "Відкриття нового дому",
+            "az": "Yeni Evin Açılışı"
         },
         "level": "B2",
         "image": "Allure.jpg",

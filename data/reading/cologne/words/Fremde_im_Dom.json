@@ -3,106 +3,196 @@
         "de": "Inmitten",
         "en": "Amidst",
         "ru": "Среди",
+        "tr": "arasında",
+        "az": "arasında",
+        "uk": "серед",
         "descriptionEN": "Surrounded by or in the middle of",
         "descriptionRU": "Окруженный или посреди",
-        "descriptionDE": "von etwas umgeben oder in der Mitte von etwas"
+        "descriptionDE": "von etwas umgeben oder in der Mitte von etwas",
+        "descriptionTR": "Bir şeyle çevrili veya ortasında",
+        "descriptionAZ": "Bir şeylə əhatə olunmuş və ya ortasında",
+        "descriptionUK": "Оточений або посередині чогось"
     }, {
         "de": "imposante",
         "en": "imposing",
         "ru": "внушительный",
+        "tr": "heybetli",
+        "az": "möhtəşəm",
+        "uk": "вражаючий",
         "descriptionEN": "Impressive in size or appearance",
         "descriptionRU": "Внушающий впечатление размером или внешним видом",
-        "descriptionDE": "beeindruckend in Größe oder Erscheinung"
+        "descriptionDE": "beeindruckend in Größe oder Erscheinung",
+        "descriptionTR": "Boyut veya görünüm bakımından etkileyici",
+        "descriptionAZ": "Ölçü və ya görünüş baxımından təsirli",
+        "descriptionUK": "Вражаючий за розміром або зовнішнім виглядом"
     }, {
         "de": "der Kölner",
         "en": "Cologne",
         "ru": "Кёльнский",
+        "tr": "Köln'lü",
+        "az": "Köln",
+        "uk": "кельнський",
         "descriptionEN": "Related to or from Cologne",
         "descriptionRU": "Связанный с Кёльном или из Кёльна",
-        "descriptionDE": "bezogen auf oder aus Köln stammend"
+        "descriptionDE": "bezogen auf oder aus Köln stammend",
+        "descriptionTR": "Köln ile ilgili veya Köln'den",
+        "descriptionAZ": "Köln ilə əlaqəli və ya Köln'dən",
+        "descriptionUK": "Пов'язаний з Кельном або з Кельна"
     }, {
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "tr": "katedral",
+        "az": "katedral",
+        "uk": "собор",
         "descriptionEN": "Referring to the cathedral",
         "descriptionRU": "Относящийся к собору",
-        "descriptionDE": "bezieht sich auf den Dom"
+        "descriptionDE": "bezieht sich auf den Dom",
+        "descriptionTR": "Katedrale atıfta bulunmak",
+        "descriptionAZ": "Katedralə istinad edən",
+        "descriptionUK": "Посилання на собор"
     }, {
         "de": "treffen",
         "en": "meet",
         "ru": "встречаться",
+        "tr": "buluşmak",
+        "az": "görüşmək",
+        "uk": "зустрічатися",
         "descriptionEN": "Encounter or come across",
         "descriptionRU": "Встретиться с кем-то",
-        "descriptionDE": "auf jemanden stoßen oder begegnen"
+        "descriptionDE": "auf jemanden stoßen oder begegnen",
+        "descriptionTR": "Karşılaşmak veya rastlamak",
+        "descriptionAZ": "Qarşılaşmaq və ya rast gəlmək",
+        "descriptionUK": "Зустрітися або натрапити"
     }, {
         "de": "der Zufall",
         "en": "coincidence",
         "ru": "случайность",
+        "tr": "tesadüf",
+        "az": "təsadüf",
+        "uk": "випадковість",
         "descriptionEN": "A happening by chance",
         "descriptionRU": "Событие, произошедшее случайно",
-        "descriptionDE": "ein Ereignis, das zufällig geschieht"
+        "descriptionDE": "ein Ereignis, das zufällig geschieht",
+        "descriptionTR": "Şans eseri olan bir olay",
+        "descriptionAZ": "Təsadüfən baş verən hadisə",
+        "descriptionUK": "Подія, що сталася випадково"
     }, {
         "de": "aufeinander",
         "en": "each other",
         "ru": "друг на друга",
+        "tr": "birbirine",
+        "az": "bir-birinə",
+        "uk": "один на одного",
         "descriptionEN": "Towards one another",
         "descriptionRU": "Друг к другу",
-        "descriptionDE": "zueinander hin"
+        "descriptionDE": "zueinander hin",
+        "descriptionTR": "Birbirine doğru",
+        "descriptionAZ": "Bir-birinə doğru",
+        "descriptionUK": "Один до одного"
     }, {
         "de": "der Transferstudent",
         "en": "transfer student",
         "ru": "студент-трансферник",
+        "tr": "transfer öğrenci",
+        "az": "transfer tələbəsi",
+        "uk": "студент-трансферник",
         "descriptionEN": "A student who transfers from one university to another",
         "descriptionRU": "Студент, переводящийся из одного университета в другой",
-        "descriptionDE": "ein Student, der von einer Universität zur anderen wechselt"
+        "descriptionDE": "ein Student, der von einer Universität zur anderen wechselt",
+        "descriptionTR": "Bir üniversiteden diğerine geçiş yapan öğrenci",
+        "descriptionAZ": "Bir universitetdən digərinə keçən tələbə",
+        "descriptionUK": "Студент, який переводиться з одного університету в інший"
     }, {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
         "descriptionEN": "An institution of higher learning",
         "descriptionRU": "Учебное заведение высшего образования",
-        "descriptionDE": "eine Einrichtung höherer Bildung"
+        "descriptionDE": "eine Einrichtung höherer Bildung",
+        "descriptionTR": "Yüksek öğrenim kurumu",
+        "descriptionAZ": "Ali təhsil müəssisəsi",
+        "descriptionUK": "Заклад вищої освіти"
     }, {
         "de": "die Fremde",
         "en": "stranger",
         "ru": "незнакомец",
+        "tr": "yabancı",
+        "az": "yad adam",
+        "uk": "незнайомець",
         "descriptionEN": "Someone not known or familiar",
         "descriptionRU": "Кто-то неизвестный или незнакомый",
-        "descriptionDE": "jemand, den man nicht kennt oder der einem nicht vertraut ist"
+        "descriptionDE": "jemand, den man nicht kennt oder der einem nicht vertraut ist",
+        "descriptionTR": "Tanınmayan veya aşina olmayan biri",
+        "descriptionAZ": "Tanınmayan və ya tanış olmayan kimsə",
+        "descriptionUK": "Хтось невідомий або незнайомий"
     }, {
         "de": "der Zwischenstopp",
         "en": "layover",
         "ru": "пересадка",
+        "tr": "ara durak",
+        "az": "ara dayanacaq",
+        "uk": "пересадка",
         "descriptionEN": "A temporary stop during a journey",
         "descriptionRU": "Временная остановка во время путешествия",
-        "descriptionDE": "eine vorübergehende Pause während einer Reise"
+        "descriptionDE": "eine vorübergehende Pause während einer Reise",
+        "descriptionTR": "Yolculuk sırasında geçici durak",
+        "descriptionAZ": "Səyahət zamanı müvəqqəti dayanacaq",
+        "descriptionUK": "Тимчасова зупинка під час подорожі"
     }, {
         "de": "die Bank",
         "en": "bench",
         "ru": "скамейка",
+        "tr": "bank",
+        "az": "skamya",
+        "uk": "лавка",
         "descriptionEN": "A long seat for multiple people",
         "descriptionRU": "Длинное сиденье для нескольких человек",
-        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen"
+        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen",
+        "descriptionTR": "Birden fazla kişi için uzun oturma yeri",
+        "descriptionAZ": "Bir neçə nəfər üçün uzun oturma yeri",
+        "descriptionUK": "Довге сидіння для кількох людей"
     }, {
         "de": "die Anekdoten",
         "en": "anecdotes",
         "ru": "анекдоты",
+        "tr": "anekdotlar",
+        "az": "anekdotlar",
+        "uk": "анекдоти",
         "descriptionEN": "Short and amusing or interesting stories",
         "descriptionRU": "Короткие и забавные или интересные рассказы",
-        "descriptionDE": "kurze und amüsante oder interessante Geschichten"
+        "descriptionDE": "kurze und amüsante oder interessante Geschichten",
+        "descriptionTR": "Kısa ve eğlenceli veya ilginç hikayeler",
+        "descriptionAZ": "Qısa və əyləncəli və ya maraqlı hekayələr",
+        "descriptionUK": "Короткі та забавні або цікаві історії"
     }, {
         "de": "das Fenster",
         "en": "window",
         "ru": "окно",
+        "tr": "pencere",
+        "az": "pəncərə",
+        "uk": "вікно",
         "descriptionEN": "An opening in a wall for light and air",
         "descriptionRU": "Отверстие в стене для света и воздуха",
-        "descriptionDE": "eine Öffnung in einer Wand für Licht und Luft"
+        "descriptionDE": "eine Öffnung in einer Wand für Licht und Luft",
+        "descriptionTR": "Işık ve hava için duvarda açıklık",
+        "descriptionAZ": "İşıq və hava üçün divarda açıqlıq",
+        "descriptionUK": "Отвір у стіні для світла та повітря"
     }, {
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "поїзд",
         "descriptionEN": "A connected series of railway carriages",
         "descriptionRU": "Связанная серия железнодорожных вагонов",
-        "descriptionDE": "eine verbundene Serie von Eisenbahnwagen"
+        "descriptionDE": "eine verbundene Serie von Eisenbahnwagen",
+        "descriptionTR": "Bağlı demiryolu vagonları serisi",
+        "descriptionAZ": "Bağlı dəmiryol vaqonları seriyası",
+        "descriptionUK": "Пов'язана серія залізничних вагонів"
     }
 ]

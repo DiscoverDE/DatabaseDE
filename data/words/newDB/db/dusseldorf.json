@@ -4,7 +4,10 @@
         "title": {
             "en": "The Vampire",
             "de": "Der Vampir",
-            "ru": "Вампир"
+            "ru": "Вампир",
+            "tr": "Vampir",
+            "uk": "Вампір",
+            "az": "Vampir"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Vampire.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Vampire.json"
@@ -13,7 +16,10 @@
         "title": {
             "en": "Friendly Assistance",
             "de": "Freundliche Hilfe",
-            "ru": "Дружественная помощь"
+            "ru": "Дружественная помощь",
+            "tr": "Dostça Yardım",
+            "uk": "Дружня допомога",
+            "az": "Dost Yardımı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Keys.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Keys.json"
@@ -22,7 +28,10 @@
         "title": {
             "en": "Vacation dilemma",
             "de": "Urlaubsdilemma",
-            "ru": "Дилемма отпуска"
+            "ru": "Дилемма отпуска",
+            "tr": "Tatil İkilemi",
+            "uk": "Відпускна дилема",
+            "az": "Tətil Dileması"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Urlaubsdilemma.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Urlaubsdilemma.json"
@@ -31,7 +40,10 @@
         "title": {
             "en": "Fashion Fun Day",
             "de": "Mode-Spaßtag",
-            "ru": "День моды и веселья"
+            "ru": "День моды и веселья",
+            "tr": "Moda ve Eğlence Günü",
+            "uk": "День моди та розваг",
+            "az": "Moda Əyləncə Günü"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/ChicExpedition.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/ChicExpedition.json"
@@ -40,7 +52,10 @@
         "title": {
             "en": "Exploring Dusseldorf",
             "de": "Düsseldorf erkunden",
-            "ru": "Знакомство с Дюссельдорфом"
+            "ru": "Знакомство с Дюссельдорфом",
+            "tr": "Düsseldorf'u Keşfetmek",
+            "uk": "Вивчаючи Дюссельдорф",
+            "az": "Düsseldorfu Kəşf Etmək"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Dusseldorf_Erkunden.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Dusseldorf_Erkunden.json"
@@ -49,7 +64,10 @@
         "title": {
             "en": "Tonhalle Legends",
             "de": "Tonhalle Legenden",
-            "ru": "Легенды Тонхалле"
+            "ru": "Легенды Тонхалле",
+            "tr": "Tonhalle Efsaneleri",
+            "uk": "Легенди Тонхалле",
+            "az": "Tonhalle Əfsanələri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Tonhalle.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Tonhalle.json"
@@ -58,7 +76,10 @@
         "title": {
             "en": "Hidden gems",
             "de": "Versteckte Juwelen",
-            "ru": "Скрытые жемчужины"
+            "ru": "Скрытые жемчужины",
+            "tr": "Gizli Cevherler",
+            "uk": "Приховані перлини",
+            "az": "Gizli İncilər"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Burgerinterviews.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Burgerinterviews.json"
@@ -67,7 +88,10 @@
         "title": {
             "en": "Altstadt Charm",
             "de": "Altstadt Charme",
-            "ru": "Шарм Старого Города"
+            "ru": "Шарм Старого Города",
+            "tr": "Eski Şehir Cazibesi",
+            "uk": "Чарівність Старого міста",
+            "az": "Köhnə Şəhərin Cazibəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Altstadt.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Altstadt.json"
@@ -76,7 +100,10 @@
         "title": {
             "en": "Kö Elegance",
             "de": "Kö Eleganz",
-            "ru": "Элегантность Кё"
+            "ru": "Элегантность Кё",
+            "tr": "Kö Zarafeti",
+            "uk": "Елегантність Kö",
+            "az": "Kö Zərifliyi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Elegance.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Elegance.json"
@@ -85,7 +112,10 @@
         "title": {
             "en": "Neighborhoods IV",
             "de": "Stadtteile IV",
-            "ru": "Районы IV"
+            "ru": "Районы IV",
+            "tr": "Mahalleler IV",
+            "uk": "Райони IV",
+            "az": "Məhəllələr IV"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Kaiserswerth.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Kaiserswerth.json"
@@ -94,7 +124,10 @@
         "title": {
             "en": "Rhein Tower",
             "de": "Rheinturm",
-            "ru": "Башня Рейна"
+            "ru": "Башня Рейна",
+            "tr": "Ren Kulesi",
+            "uk": "Вежа Рейну",
+            "az": "Reyn Qülləsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Rheinturm.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Rheinturm.json"
@@ -103,7 +136,10 @@
         "title": {
             "en": "Japan Day Experience",
             "de": "Japanischer Tag Erlebnis",
-            "ru": "Опыт Японского Дня"
+            "ru": "Опыт Японского Дня",
+            "tr": "Japon Günü Deneyimi",
+            "uk": "Враження від Дня Японії",
+            "az": "Yapon Günü Təcrübəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/JapanDay.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/JapanDay.json"
@@ -112,7 +148,10 @@
         "title": {
             "en": "Castle Treasure Adventure",
             "de": "Schloss Schatzabenteuer",
-            "ru": "Приключение в замке"
+            "ru": "Приключение в замке",
+            "tr": "Kale Hazine Macerası",
+            "uk": "Пригода зі скарбом у замку",
+            "az": "Qala Xəzinə Macərası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Treasure.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Treasure.json"
@@ -121,7 +160,10 @@
         "title": {
             "en": "City Charms",
             "de": "Stadtzauber",
-            "ru": "Прелесть городов"
+            "ru": "Прелесть городов",
+            "tr": "Şehir Büyüsü",
+            "uk": "Чари міста",
+            "az": "Şəhər Sehrləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Stadtzauber.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Stadtzauber.json"
@@ -130,7 +172,10 @@
         "title": {
             "en": "Heine University",
             "de": "Heine Universität",
-            "ru": "Университет Гейне"
+            "ru": "Университет Гейне",
+            "tr": "Heine Üniversitesi",
+            "uk": "Університет Гейне",
+            "az": "Heine Universiteti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/img/Heine.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/reading/dusseldorf/words/Heine.json"

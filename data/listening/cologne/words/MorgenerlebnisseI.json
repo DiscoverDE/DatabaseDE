@@ -5,139 +5,259 @@
         "ru": "Путешествие",
         "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen.",
         "descriptionEN": "An act of traveling from one place to another.",
-        "descriptionRU": "Действие перемещения из одного места в другое."
+        "descriptionRU": "Действие перемещения из одного места в другое.",
+        "tr": "seyahat",
+        "az": "səyahət",
+        "uk": "подорож",
+        "descriptionTR": "bir yerden başka bir yere seyahat etme eylemi.",
+        "descriptionAZ": "bir yerdən başqa yerə səyahət etmə hərəkəti.",
+        "descriptionUK": "дія переміщення з одного місця в інше."
     }, {
         "de": "das Wahrzeichen",
         "en": "Landmark",
         "ru": "Ориентир",
         "descriptionDE": "ein erkennbares Objekt oder Merkmal, das zur Navigation oder als Symbol verwendet wird.",
         "descriptionEN": "A recognizable object or feature used for navigation or as a symbol.",
-        "descriptionRU": "Узнаваемый объект или элемент, используемый для навигации или как символ."
+        "descriptionRU": "Узнаваемый объект или элемент, используемый для навигации или как символ.",
+        "tr": "dönüm noktası",
+        "az": "məşhur yer",
+        "uk": "орієнтир",
+        "descriptionTR": "navigasyon veya sembol olarak kullanılan tanınabilir bir nesne veya özellik.",
+        "descriptionAZ": "naviqasiya üçün və ya simvol kimi istifadə olunan tanınan obyekt və ya xüsusiyyət.",
+        "descriptionUK": "впізнаваний об'єкт або особливість, що використовується для навігації або як символ."
     }, {
         "de": "die Architektur",
         "en": "Architecture",
         "ru": "Архитектура",
         "descriptionDE": "die Kunst oder Praxis des Entwerfens und Bauens von Gebäuden.",
         "descriptionEN": "The art or practice of designing and constructing buildings.",
-        "descriptionRU": "Искусство или практика проектирования и строительства зданий."
+        "descriptionRU": "Искусство или практика проектирования и строительства зданий.",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
+        "descriptionTR": "bina tasarlama ve inşa etme sanatı veya pratiği.",
+        "descriptionAZ": "binaların layihələndirilməsi və tikilməsi sənəti və ya praktikası.",
+        "descriptionUK": "мистецтво або практика проектування та будівництва будівель."
     }, {
         "de": "die Skyline",
         "en": "Skyline",
         "ru": "Силуэт города",
         "descriptionDE": "eine Umrisse von Land und Gebäuden, die sich gegen den Himmel abzeichnen.",
         "descriptionEN": "An outline of land and buildings defined against the sky.",
-        "descriptionRU": "Контур земли и зданий, выделяющихся на фоне неба."
+        "descriptionRU": "Контур земли и зданий, выделяющихся на фоне неба.",
+        "tr": "siluet",
+        "az": "səma xətti",
+        "uk": "силует",
+        "descriptionTR": "gökyüzüne karşı belirginleşen arazi ve binaların dış hatları.",
+        "descriptionAZ": "səmaya qarşı görünən torpaq və binaların konturu.",
+        "descriptionUK": "обриси землі та будівель, що окреслюються на тлі неба."
     }, {
         "de": "die Fülle",
         "en": "Abundance",
         "ru": "Изобилие",
         "descriptionDE": "eine sehr große Menge von etwas.",
         "descriptionEN": "A very large quantity of something.",
-        "descriptionRU": "Очень большое количество чего-то."
+        "descriptionRU": "Очень большое количество чего-то.",
+        "tr": "bolluk",
+        "az": "bolluq",
+        "uk": "достаток",
+        "descriptionTR": "çok büyük miktarda bir şey.",
+        "descriptionAZ": "çox böyük miqdarda bir şey.",
+        "descriptionUK": "дуже велика кількість чогось."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
         "descriptionDE": "die Fähigkeit zu sehen oder der Sichtbereich.",
         "descriptionEN": "The ability to see or the range of sight.",
-        "descriptionRU": "Способность видеть или область видимости."
+        "descriptionRU": "Способность видеть или область видимости.",
+        "tr": "görünüm",
+        "az": "mənzərə",
+        "uk": "вид",
+        "descriptionTR": "görme yeteneği veya görüş alanı.",
+        "descriptionAZ": "görmə qabiliyyəti və ya görmə diapazonu.",
+        "descriptionUK": "здатність бачити або діапазон зору."
     }, {
         "de": "erklimmen",
         "en": "Climb",
         "ru": "Взбираться",
         "descriptionDE": "nach oben gehen mit allmählichem oder kontinuierlichem Fortschritt.",
         "descriptionEN": "To go upward with gradual or continuous progress.",
-        "descriptionRU": "Двигаться вверх с постепенным или непрерывным прогрессом."
+        "descriptionRU": "Двигаться вверх с постепенным или непрерывным прогрессом.",
+        "tr": "tırmanmak",
+        "az": "dırmaşmaq",
+        "uk": "підійматися",
+        "descriptionTR": "aşamalı veya sürekli ilerlemeyle yukarı doğru gitmek.",
+        "descriptionAZ": "tədrici və ya davamlı irəliləyişlə yuxarıya doğru getmək.",
+        "descriptionUK": "підніматися вгору з поступовим або безперервним прогресом."
     }, {
         "de": "besuchen",
         "en": "Visit",
         "ru": "Посетить",
         "descriptionDE": "zu jemandem gehen und sozial bei ihm verweilen oder sein Zuhause aufsuchen.",
         "descriptionEN": "To go to and stay with someone socially or at their home.",
-        "descriptionRU": "Пойти и быть с кем-то социально или у них дома."
+        "descriptionRU": "Пойти и быть с кем-то социально или у них дома.",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
+        "descriptionTR": "birini sosyal olarak veya evinde ziyaret etmek veya kalmak.",
+        "descriptionAZ": "kiminsə evini ziyarət etmək və ya sosial tədbirdə iştirak etmək.",
+        "descriptionUK": "йти до когось і залишатися з ним соціально або у його домі."
     }, {
         "de": "prächtig",
         "en": "Magnificent",
         "ru": "Великолепный",
         "descriptionDE": "außergewöhnlich schön, aufwendig oder beeindruckend.",
         "descriptionEN": "Exceptionally beautiful, elaborate, or impressive.",
-        "descriptionRU": "Исключительно красивый, хитрый или впечатляющий."
+        "descriptionRU": "Исключительно красивый, хитрый или впечатляющий.",
+        "tr": "muhteşem",
+        "az": "möhtəşəm",
+        "uk": "чудовий",
+        "descriptionTR": "olağanüstü güzel, özenli veya etkileyici.",
+        "descriptionAZ": "fövqəladə dərəcədə gözəl, mürəkkəb və ya təsirli.",
+        "descriptionUK": "винятково красивий, складний або вражаючий."
     }, {
         "de": "zeitgenössisch",
         "en": "Contemporary",
         "ru": "Современный",
         "descriptionDE": "gehörend oder vorkommend in der Gegenwart.",
         "descriptionEN": "Belonging to or occurring in the present.",
-        "descriptionRU": "Принадлежащий или происходящий в настоящем."
+        "descriptionRU": "Принадлежащий или происходящий в настоящем.",
+        "tr": "çağdaş",
+        "az": "müasir",
+        "uk": "сучасний",
+        "descriptionTR": "şimdiki zamana ait veya şimdiki zamanda meydana gelen.",
+        "descriptionAZ": "indiki zamana aid olan və ya indiki zamanda baş verən.",
+        "descriptionUK": "належний до теперішнього часу або такий, що відбувається в теперішньому."
     }, {
         "de": "der Gast",
         "en": "Guest",
         "ru": "Гость",
         "descriptionDE": "eine Person, die eingeladen ist, jemandes Zuhause zu besuchen oder an einer sozialen Veranstaltung teilzunehmen.",
         "descriptionEN": "A person who is invited to visit someone's home or attend a social event.",
-        "descriptionRU": "Человек, который приглашен посетить дом кого-то или принять участие в общественном мероприятии."
+        "descriptionRU": "Человек, который приглашен посетить дом кого-то или принять участие в общественном мероприятии.",
+        "tr": "misafir",
+        "az": "qonaq",
+        "uk": "гість",
+        "descriptionTR": "birinin evini ziyaret etmeye veya sosyal bir etkinliğe katılmaya davet edilen kişi.",
+        "descriptionAZ": "kiminsə evinə qonaq gəlməyə və ya sosial tədbirdə iştirak etməyə dəvət olunmuş şəxs.",
+        "descriptionUK": "особа, яка запрошена відвідати чийсь дім або відвідати суспільний захід."
     }, {
         "de": "die Entdeckung",
         "en": "Discovery",
         "ru": "Открытие",
         "descriptionDE": "die Handlung oder der Prozess des unerwarteten Findens von etwas oder jemandem.",
         "descriptionEN": "The action or process of finding something or someone unexpectedly.",
-        "descriptionRU": "Действие или процесс нахождения чего-то или кого-то неожиданно."
+        "descriptionRU": "Действие или процесс нахождения чего-то или кого-то неожиданно.",
+        "tr": "keşif",
+        "az": "kəşf",
+        "uk": "відкриття",
+        "descriptionTR": "bir şeyi veya birini beklenmedik bir şekilde bulma eylemi veya süreci.",
+        "descriptionAZ": "bir şeyi və ya kimisə gözlənilmədən tapmaq hərəkəti və ya prosesi.",
+        "descriptionUK": "дія або процес несподіваного знаходження чогось або когось."
     }, {
         "de": "die Idee",
         "en": "Idea",
         "ru": "Идея",
         "descriptionDE": "eine Gedanke oder Anregung für einen möglichen Handlungsverlauf.",
         "descriptionEN": "A thought or suggestion as to a possible course of action.",
-        "descriptionRU": "Мысль или предложение относительно возможного пути действия."
+        "descriptionRU": "Мысль или предложение относительно возможного пути действия.",
+        "tr": "fikir",
+        "az": "ideya",
+        "uk": "ідея",
+        "descriptionTR": "olası bir eylem seyri hakkında bir düşünce veya öneri.",
+        "descriptionAZ": "mümkün bir fəaliyyət kursu barədə düşüncə və ya təklif.",
+        "descriptionUK": "думка або пропозиція щодо можливого курсу дій."
     }, {
         "de": "der Einheimische",
         "en": "Local",
         "ru": "Местный житель",
         "descriptionDE": "eine Person aus einem bestimmten Ort oder Gebiet.",
         "descriptionEN": "A person from a particular place or area.",
-        "descriptionRU": "Человек из определенного места или района."
+        "descriptionRU": "Человек из определенного места или района.",
+        "tr": "yerel",
+        "az": "yerli",
+        "uk": "місцевий житель",
+        "descriptionTR": "belirli bir yerden veya bölgeden bir kişi.",
+        "descriptionAZ": "müəyyən bir yerdən və ya ərazidən olan şəxs.",
+        "descriptionUK": "особа з певного місця або району."
     }, {
         "de": "der Tourist",
         "en": "Tourist",
         "ru": "Турист",
         "descriptionDE": "eine Person, die zu Vergnügen reist oder einen Ort besucht.",
         "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
-        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия."
+        "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
+        "tr": "turist",
+        "az": "turist",
+        "uk": "турист",
+        "descriptionTR": "eğlence için seyahat eden veya bir yeri ziyaret eden kişi.",
+        "descriptionAZ": "əyləncə üçün səyahət edən və ya bir yeri ziyarət edən şəxs.",
+        "descriptionUK": "людина, яка подорожує або відвідує місце для задоволення."
     }, {
         "de": "das Herz",
         "en": "Heart",
         "ru": "Сердце",
         "descriptionDE": "der zentrale oder wichtigste Teil.",
         "descriptionEN": "The central or most important part.",
-        "descriptionRU": "Центральная или наиболее важная часть."
+        "descriptionRU": "Центральная или наиболее важная часть.",
+        "tr": "kalp",
+        "az": "ürək",
+        "uk": "серце",
+        "descriptionTR": "merkezi veya en önemli kısım.",
+        "descriptionAZ": "mərkəzi və ya ən vacib hissə.",
+        "descriptionUK": "центральна або найважливіша частина."
     }, {
         "de": "die Stufe",
         "en": "Step",
         "ru": "Шаг",
         "descriptionDE": "eine flache Oberfläche, auf der man geht, besonders eine von mehreren übereinander platzierten.",
         "descriptionEN": "A flat surface that you walk on, especially one of a series placed one above the other.",
-        "descriptionRU": "Плоская поверхность, по которой вы ходите, особенно одна из серии, расположенной одна над другой."
+        "descriptionRU": "Плоская поверхность, по которой вы ходите, особенно одна из серии, расположенной одна над другой.",
+        "tr": "adım",
+        "az": "addım",
+        "uk": "крок",
+        "descriptionTR": "üzerinde yürüdüğünüz düz bir yüzey, özellikle üst üste yerleştirilmiş bir dizi yüzeyden biri.",
+        "descriptionAZ": "üzərində gəzdiyiniz düz bir səth, xüsusən də bir-birinin üstünə yerləşdirilmiş bir sıra səthdən biri.",
+        "descriptionUK": "плоска поверхня, по якій ви ходите, особливо одна з ряду, розташованих одна над одною."
     }, {
         "de": "imposant",
         "en": "Impressive",
         "ru": "Впечатляющий",
         "descriptionDE": "Bewunderung hervorrufend durch Größe, Qualität oder Geschicklichkeit.",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
-        "descriptionRU": "Вызывающий восхищение своим размером, качеством или мастерством."
+        "descriptionRU": "Вызывающий восхищение своим размером, качеством или мастерством.",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
+        "descriptionTR": "boyut, kalite veya beceri yoluyla hayranlık uyandıran.",
+        "descriptionAZ": "ölçüsü, keyfiyyəti və ya bacarığı ilə heyranlıq doğuran.",
+        "descriptionUK": "викликає захоплення своїм розміром, якістю або майстерністю."
     }, {
         "de": "atemberaubend",
         "en": "Breathtaking",
         "ru": "Захватывающий дух",
         "descriptionDE": "starke Emotionen hervorrufend, besonders Bewunderung oder Ehrfurcht.",
         "descriptionEN": "Causing one to feel strong emotion, especially of admiration or awe.",
-        "descriptionRU": "Вызывающий сильные эмоции, особенно восхищение или благоговение."
+        "descriptionRU": "Вызывающий сильные эмоции, особенно восхищение или благоговение.",
+        "tr": "nefes kesici",
+        "az": "nəfəs kəsən",
+        "uk": "захоплюючий",
+        "descriptionTR": "özellikle hayranlık veya huşu gibi güçlü duygular hissettiren.",
+        "descriptionAZ": "insanda güclü emosiya, xüsusən heyranlıq və ya heyrət hissi doğuran.",
+        "descriptionUK": "викликає сильні емоції, особливо захоплення або благоговіння."
     }, {
         "de": "zahlreich",
         "en": "Numerous",
         "ru": "Многочисленный",
         "descriptionDE": "große Anzahl; viele.",
         "descriptionEN": "Great in number; many.",
-        "descriptionRU": "Большое количество; много."
+        "descriptionRU": "Большое количество; много.",
+        "tr": "sayısız",
+        "az": "çoxsaylı",
+        "uk": "численний",
+        "descriptionTR": "çok sayıda; birçok.",
+        "descriptionAZ": "sayca çox; çox.",
+        "descriptionUK": "велика кількість; багато."
     }
 ]

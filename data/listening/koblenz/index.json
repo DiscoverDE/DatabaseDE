@@ -3,12 +3,18 @@
         "name": {
             "en": "Loreley",
             "de": "Loreley",
-            "ru": "Лорель"
+            "ru": "Лорель",
+            "tr": "Loreley",
+            "uk": "Лорелей",
+            "az": "Loreley"
         },
         "description": {
             "en": "Enchanting siren's song",
             "de": "Verzaubernder Gesang der Nixe",
-            "ru": "Завораживающая песня сирены"
+            "ru": "Завораживающая песня сирены",
+            "tr": "Büyüleyici denizkızı şarkısı",
+            "uk": "Зачаруюча пісня сирени",
+            "az": "Sehrli dəniz qızı mahnısı"
         },
         "level": "A2",
         "image": "Loreley.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Dragon",
             "de": "Drachen",
-            "ru": "Дракон"
+            "ru": "Дракон",
+            "tr": "Ejderha",
+            "uk": "Дракон",
+            "az": "Əjdaha"
         },
         "description": {
             "en": "Hero defeats the beast",
             "de": "Held besiegt das Ungeheuer",
-            "ru": "Герой побеждает чудовище"
+            "ru": "Герой побеждает чудовище",
+            "tr": "Kahraman canavarı yener",
+            "uk": "Герой перемагає чудовисько",
+            "az": "Qəhrəman canavarı məğlub edir"
         },
         "level": "B1",
         "image": "Dragon.png",
@@ -35,12 +47,18 @@
         "name": {
             "en": "Ghost",
             "de": "Geist",
-            "ru": "Призрак"
+            "ru": "Призрак",
+            "tr": "Hayalet",
+            "uk": "Привид",
+            "az": "Zombi"
         },
         "description": {
             "en": "Mysterious ghostly encounter",
             "de": "Geheimnisvolle Geisterbegegnung",
-            "ru": "Таинственная встреча с призраком"
+            "ru": "Таинственная встреча с призраком",
+            "tr": "Gizemli hayalet karşılaşması",
+            "uk": "Таємнича зустріч із привидом",
+            "az": "Sirli ruhla qarşılaşma"
         },
         "level": "A2",
         "image": "Ghost.jpg",
@@ -48,16 +66,21 @@
         "words": "Ghost.json",
         "multi": "Ghost.json"
     }, {
-
         "name": {
             "en": "Knightly Adventure",
             "de": "Ritterliches Abenteuer",
-            "ru": "Рыцарское приключение"
+            "ru": "Рыцарское приключение",
+            "tr": "Şövalye Macerası",
+            "uk": "Лицарська пригода",
+            "az": "Cəngavər Macərası"
         },
         "description": {
             "en": "Castle Experience",
             "de": "Burg-Erlebnis",
-            "ru": "Замковый опыт"
+            "ru": "Замковый опыт",
+            "tr": "Kale Deneyimi",
+            "uk": "Замковий досвід",
+            "az": "Qala Təcrübəsi"
         },
         "level": "A2",
         "image": "Ritterliches.jpg",
@@ -68,12 +91,18 @@
         "name": {
             "en": "Summer fun",
             "de": "Sommervergnügen",
-            "ru": "Летние радости"
+            "ru": "Летние радости",
+            "tr": "Yaz Eğlencesi",
+            "uk": "Літні радощі",
+            "az": "Yay əyləncəsi"
         },
         "description": {
             "en": "Rivers and Castles",
             "de": "Flüsse und Burgen",
-            "ru": "Реки и замки"
+            "ru": "Реки и замки",
+            "tr": "Nehirler ve Kaleler",
+            "uk": "Річки та замки",
+            "az": "Çaylar və Qalalar"
         },
         "level": "A2",
         "image": "Summer.jpg",
@@ -81,16 +110,21 @@
         "words": "Summer.json",
         "yesNo": "Summer.json"
     }, {
-
         "name": {
             "en": "Secret Fountain",
             "de": "Geheimer Brunnen",
-            "ru": "Секретный Фонтан"
+            "ru": "Секретный Фонтан",
+            "tr": "Gizli Çeşme",
+            "uk": "Таємний фонтан",
+            "az": "Gizli Fəvvarə"
         },
         "description": {
             "en": "Magical discovery",
             "de": "Magische Entdeckung",
-            "ru": "Волшебное открытие"
+            "ru": "Волшебное открытие",
+            "tr": "Büyülü keşif",
+            "uk": "Чарівне відкриття",
+            "az": "Sehrli kəşf"
         },
         "level": "A2",
         "image": "Fountain.jpg",
@@ -101,12 +135,18 @@
         "name": {
             "en": "Koblenz Adventure",
             "de": "Koblenzer Abenteuer",
-            "ru": "Приключения в Кобленце"
+            "ru": "Приключения в Кобленце",
+            "tr": "Koblenz Macerası",
+            "uk": "Пригоди в Кобленці",
+            "az": "Koblents Macərası"
         },
         "description": {
             "en": "Friends explore historic city",
             "de": "Freunde erkunden historische Stadt",
-            "ru": "Друзья исследуют исторический город"
+            "ru": "Друзья исследуют исторический город",
+            "tr": "Arkadaşlar tarihi şehri keşfediyor",
+            "uk": "Друзі досліджують історичне місто",
+            "az": "Dostlar tarixi şəhəri kəşf edir"
         },
         "level": "B1",
         "image": "Abenteuer.jpg",
@@ -117,12 +157,18 @@
         "name": {
             "en": "Badminton game",
             "de": "Badmintonspiel",
-            "ru": "Игра в бадминтон"
+            "ru": "Игра в бадминтон",
+            "tr": "Badminton Oyunu",
+            "uk": "Гра в бадмінтон",
+            "az": "Badminton Oyunu"
         },
         "description": {
             "en": "Friends from Koblenz",
             "de": "Freunde aus Koblenz",
-            "ru": "Друзья из Кобленца"
+            "ru": "Друзья из Кобленца",
+            "tr": "Koblenz'den Arkadaşlar",
+            "uk": "Друзі з Кобленца",
+            "az": "Koblentsdən Dostlar"
         },
         "level": "B1",
         "image": "Badmintonspiel.jpg",
@@ -133,12 +179,18 @@
         "name": {
             "en": "Family Day",
             "de": "Familientag",
-            "ru": "Семейный день"
+            "ru": "Семейный день",
+            "tr": "Aile Günü",
+            "uk": "Сімейний день",
+            "az": "Ailə Günü"
         },
         "description": {
             "en": "Cable car",
             "de": "Seilbahn",
-            "ru": "Кабельная дорога"
+            "ru": "Кабельная дорога",
+            "tr": "Teleferik",
+            "uk": "Канатна дорога",
+            "az": "Kabel yolu"
         },
         "level": "B1",
         "image": "Familientag.jpg",
@@ -149,12 +201,18 @@
         "name": {
             "en": "Family Fun",
             "de": "Familien Spaß",
-            "ru": "Семейное развлечение"
+            "ru": "Семейное развлечение",
+            "tr": "Aile Eğlencesi",
+            "uk": "Сімейні розваги",
+            "az": "Ailə Əyləncəsi"
         },
         "description": {
             "en": "Fun for all",
             "de": "Spaß für alle",
-            "ru": "Веселье для всех"
+            "ru": "Веселье для всех",
+            "tr": "Herkes için eğlence",
+            "uk": "Веселощі для всіх",
+            "az": "Hamı üçün əyləncə"
         },
         "level": "B1",
         "image": "Altersgruppen.jpg",
@@ -165,12 +223,18 @@
         "name": {
             "en": "Dreams Unleashed",
             "de": "Träume verwirklicht",
-            "ru": "Мечты осуществлены"
+            "ru": "Мечты осуществлены",
+            "tr": "Hayaller Gerçek Oldu",
+            "uk": "Мрії здійснилися",
+            "az": "Arzular Həyata Keçdi"
         },
         "description": {
             "en": "Actress's festival adventure",
             "de": "Schauspielerin beim Festivalabenteuer",
-            "ru": "Приключение актрисы на фестивале"
+            "ru": "Приключение актрисы на фестивале",
+            "tr": "Aktrisin festival macerası",
+            "uk": "Пригода актриси на фестивалі",
+            "az": "Aktrisanın festival macərası"
         },
         "level": "B2",
         "image": "Unleashed.jpg",
@@ -181,12 +245,18 @@
         "name": {
             "en": "Riesling Adventure",
             "de": "Riesling-Abenteuer",
-            "ru": "Приключение с Рислингом"
+            "ru": "Приключение с Рислингом",
+            "tr": "Riesling Macerası",
+            "uk": "Пригода з Рислінгом",
+            "az": "Riesling Macərası"
         },
         "description": {
             "en": "Exploring Koblenz with Riesling",
             "de": "Koblenz erkunden mit Riesling",
-            "ru": "Исследование Кобленца с Рислингом"
+            "ru": "Исследование Кобленца с Рислингом",
+            "tr": "Riesling ile Koblenz'i keşfetmek",
+            "uk": "Дослідження Кобленца з Рислінгом",
+            "az": "Riesling ilə Koblentsi kəşf etmək"
         },
         "level": "B2",
         "image": "RieslingAdventure.jpg",
@@ -197,12 +267,18 @@
         "name": {
             "en": "Love in Koblenz",
             "de": "Liebe in Koblenz",
-            "ru": "Любовь в Кобленце"
+            "ru": "Любовь в Кобленце",
+            "tr": "Koblenz'de Aşk",
+            "uk": "Кохання в Кобленці",
+            "az": "Koblentsdə Sevgi"
         },
         "description": {
             "en": "Romantic Exploration",
             "de": "Romantische Erkundung",
-            "ru": "Романтическое путешествие"
+            "ru": "Романтическое путешествие",
+            "tr": "Romantik Keşif",
+            "uk": "Романтичне дослідження",
+            "az": "Romantik Kəşf"
         },
         "level": "B2",
         "image": "RomantischeErkundung.jpg",
@@ -213,12 +289,18 @@
         "name": {
             "en": "Wine Adventure",
             "de": "Weinabenteuer",
-            "ru": "Винное приключение"
+            "ru": "Винное приключение",
+            "tr": "Şarap Macerası",
+            "uk": "Винна пригода",
+            "az": "Şərab Macərası"
         },
         "description": {
             "en": "Lazy man discovers passion",
             "de": "Faule Mann entdeckt Leidenschaft",
-            "ru": "Ленивый человек обнаруживает страсть"
+            "ru": "Ленивый человек обнаруживает страсть",
+            "tr": "Tembel adam tutkuyu keşfeder",
+            "uk": "Лінива людина знаходить пристрасть",
+            "az": "Tənbəl adam ehtirası kəşf edir"
         },
         "level": "B2",
         "image": "Weinabenteuer.jpg",
@@ -229,12 +311,18 @@
         "name": {
             "en": "Castle Love Story",
             "de": "Schloss Liebesgeschichte",
-            "ru": "История любви в замке"
+            "ru": "История любви в замке",
+            "tr": "Kale Aşk Hikayesi",
+            "uk": "Історія кохання в замку",
+            "az": "Qala Sevgi Hekayəsi"
         },
         "description": {
             "en": "Friendship turned everlasting love",
             "de": "Freundschaft wurde ewige Liebe",
-            "ru": "Из дружбы в вечную любовь"
+            "ru": "Из дружбы в вечную любовь",
+            "tr": "Dostluk sonsuz aşka dönüştü",
+            "uk": "Дружба перетворилася на вічну любов",
+            "az": "Dostluq əbədi sevgiyə çevrildi"
         },
         "level": "B2",
         "image": "Liebesgeschichte.jpg",

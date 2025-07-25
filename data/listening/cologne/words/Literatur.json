@@ -3,127 +3,235 @@
         "de": "der Schriftsteller",
         "en": "writer",
         "ru": "писатель",
+        "tr": "yazar",
+        "az": "yazıçı",
+        "uk": "письменник",
         "descriptionEN": "a person who writes books, stories, or articles as a job or regular occupation",
         "descriptionRU": "человек, который пишет книги, рассказы или статьи как работу или постоянное занятие",
-        "descriptionDE": "Eine Person, die Bücher, Geschichten oder Artikel als Beruf oder regelmäßige Beschäftigung schreibt"
+        "descriptionDE": "Eine Person, die Bücher, Geschichten oder Artikel als Beruf oder regelmäßige Beschäftigung schreibt",
+        "descriptionTR": "kitap, hikaye veya makale yazan kişi, bir iş veya düzenli meslek olarak",
+        "descriptionAZ": "kitablar, hekayələr və ya məqalələr yazan şəxs, iş və ya daimi məşğuliyyət kimi",
+        "descriptionUK": "людина, яка пише книги, оповідання чи статті як роботу чи постійне заняття"
     }, {
         "de": "das Werk",
         "en": "work",
         "ru": "работа",
+        "tr": "eser",
+        "az": "əsər",
+        "uk": "робота",
         "descriptionEN": "a piece or collection of creative or artistic output",
         "descriptionRU": "произведение или коллекция творческого или художественного творчества",
-        "descriptionDE": "ein Stück oder eine Sammlung kreativer oder künstlerischer Produktion"
+        "descriptionDE": "ein Stück oder eine Sammlung kreativer oder künstlerischer Produktion",
+        "descriptionTR": "yaratıcı veya sanatsal üretimin bir parçası veya koleksiyonu",
+        "descriptionAZ": "yaradıcı və ya bədii nəticənin bir hissəsi və ya toplusu",
+        "descriptionUK": "твір або колекція творчого чи художнього виробництва"
     }, {
         "de": "die Gruppe",
         "en": "group",
         "ru": "группа",
+        "tr": "grup",
+        "az": "qrup",
+        "uk": "група",
         "descriptionEN": "a number of people or things that are located, gathered, or classed together",
         "descriptionRU": "несколько людей или вещей, которые находятся, собраны или классифицированы вместе",
-        "descriptionDE": "eine Anzahl von Personen oder Dingen, die zusammengefasst, gesammelt oder klassifiziert sind"
+        "descriptionDE": "eine Anzahl von Personen oder Dingen, die zusammengefasst, gesammelt oder klassifiziert sind",
+        "descriptionTR": "bir arada bulunan, toplanan veya bir arada sınıflandırılan bir dizi insan veya şey",
+        "descriptionAZ": "bir yerdə yerləşən, toplanan və ya birlikdə təsnif edilən bir sıra insan və ya şey",
+        "descriptionUK": "кілька людей або речей, які знаходяться, зібрані або класифіковані разом"
     }, {
         "de": "die Kunst",
         "en": "art",
         "ru": "искусство",
+        "tr": "sanat",
+        "az": "sənət",
+        "uk": "мистецтво",
         "descriptionEN": "the expression or application of human creative skill and imagination",
         "descriptionRU": "выражение или применение творческого мастерства и воображения человека",
-        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft"
+        "descriptionDE": "der Ausdruck oder die Anwendung menschlicher kreativer Fähigkeiten und Vorstellungskraft",
+        "descriptionTR": "insanın yaratıcı becerilerinin ve hayal gücünün ifadesi veya uygulaması",
+        "descriptionAZ": "insanın yaradıcı bacarığının və təxəyyülünün ifadəsi və ya tətbiqi",
+        "descriptionUK": "вираження або застосування творчої майстерності та уяви людини"
     }, {
         "de": "die Kreativität",
         "en": "creativity",
         "ru": "творчество",
+        "tr": "yaratıcılık",
+        "az": "yaradıcılıq",
+        "uk": "творчість",
         "descriptionEN": "the use of imagination or original ideas to create something",
         "descriptionRU": "использование воображения или оригинальных идей для создания чего-либо",
-        "descriptionDE": "die Verwendung von Vorstellungskraft oder originellen Ideen, um etwas zu schaffen"
+        "descriptionDE": "die Verwendung von Vorstellungskraft oder originellen Ideen, um etwas zu schaffen",
+        "descriptionTR": "bir şey yaratmak için hayal gücü veya özgün fikirlerin kullanılması",
+        "descriptionAZ": "bir şey yaratmaq üçün təxəyyül və ya orijinal fikirlərdən istifadə",
+        "descriptionUK": "використання уяви або оригінальних ідей для створення чогось"
     }, {
         "de": "berühmt",
         "en": "famous",
         "ru": "известный",
+        "tr": "ünlü",
+        "az": "məşhur",
+        "uk": "відомий",
         "descriptionEN": "known about by many people",
         "descriptionRU": "известный многим людям",
-        "descriptionDE": "bekannt bei vielen Menschen"
+        "descriptionDE": "bekannt bei vielen Menschen",
+        "descriptionTR": "birçok kişi tarafından bilinen",
+        "descriptionAZ": "bir çox insan tərəfindən bilinən",
+        "descriptionUK": "відомий багатьом людям"
     }, {
         "de": "lebendig",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "живий",
         "descriptionEN": "full of energy and life",
         "descriptionRU": "полный энергии и жизни",
-        "descriptionDE": "voller Energie und Leben"
+        "descriptionDE": "voller Energie und Leben",
+        "descriptionTR": "enerji ve hayat dolu",
+        "descriptionAZ": "enerji və həyat dolu",
+        "descriptionUK": "сповнений енергії та життя"
     }, {
         "de": "blühend",
         "en": "flourishing",
         "ru": "процветающий",
+        "tr": "gelişen",
+        "az": "çiçəklənən",
+        "uk": "квітучий",
         "descriptionEN": "developing rapidly and successfully; thriving",
         "descriptionRU": "быстро и успешно развивающийся; процветающий",
-        "descriptionDE": "sich schnell und erfolgreich entwickelnd; blühend"
+        "descriptionDE": "sich schnell und erfolgreich entwickelnd; blühend",
+        "descriptionTR": "hızla ve başarıyla gelişen; gelişen",
+        "descriptionAZ": "sürətli və uğurla inkişaf edən; çiçəklənən",
+        "descriptionUK": "швидко і успішно розвивається; процвітаючий"
     }, {
         "de": "bekannt",
         "en": "well-known",
         "ru": "известный",
+        "tr": "tanınmış",
+        "az": "tanınmış",
+        "uk": "добре відомий",
         "descriptionEN": "recognized by many people",
         "descriptionRU": "признанный многими людьми",
-        "descriptionDE": "von vielen Menschen erkannt"
+        "descriptionDE": "von vielen Menschen erkannt",
+        "descriptionTR": "birçok kişi tarafından tanınan",
+        "descriptionAZ": "bir çox insan tərəfindən tanınan",
+        "descriptionUK": "визнаний багатьма людьми"
     }, {
         "de": "berührend",
         "en": "touching",
         "ru": "трогательный",
+        "tr": "dokunaklı",
+        "az": "həssas",
+        "uk": "зворушливий",
         "descriptionEN": "evoking strong emotion, especially sadness or sympathy",
         "descriptionRU": "вызывающий сильные эмоции, особенно печаль или сочувствие",
-        "descriptionDE": "starke Emotionen hervorrufend, insbesondere Traurigkeit oder Mitgefühl"
+        "descriptionDE": "starke Emotionen hervorrufend, insbesondere Traurigkeit oder Mitgefühl",
+        "descriptionTR": "özellikle üzüntü veya sempati uyandıran güçlü duygular uyandıran",
+        "descriptionAZ": "xüsusilə kədər və ya rəğbət oyadan güclü emosiyalar oyadan",
+        "descriptionUK": "викликає сильні емоції, особливо сум або співчуття"
     }, {
         "de": "inspirierend",
         "en": "inspiring",
         "ru": "вдохновляющий",
+        "tr": "ilham verici",
+        "az": "ilham verici",
+        "uk": "надихаючий",
         "descriptionEN": "filling someone with the urge or ability to do or feel something",
         "descriptionRU": "наполняющий кого-то желанием или способностью делать или чувствовать что-то",
-        "descriptionDE": "jemanden mit dem Drang oder der Fähigkeit erfüllend, etwas zu tun oder zu fühlen"
+        "descriptionDE": "jemanden mit dem Drang oder der Fähigkeit erfüllend, etwas zu tun oder zu fühlen",
+        "descriptionTR": "birine bir şey yapma veya hissetme dürtüsü veya yeteneği aşılamak",
+        "descriptionAZ": "bir şey etmək və ya hiss etmək istəyi və ya qabiliyyəti ilə doldurmaq",
+        "descriptionUK": "наповнює когось бажанням або здатністю щось робити чи відчувати"
     }, {
         "de": "bekommen",
         "en": "to receive",
         "ru": "получить",
+        "tr": "almak",
+        "az": "almaq",
+        "uk": "отримувати",
         "descriptionEN": "to be given, presented with, or paid",
         "descriptionRU": "получить, представиться или оплатить",
-        "descriptionDE": "gegeben, präsentiert oder bezahlt werden"
+        "descriptionDE": "gegeben, präsentiert oder bezahlt werden",
+        "descriptionTR": "verilmek, sunulmak veya ödenmek",
+        "descriptionAZ": "verilmək, təqdim edilmək və ya ödənilmək",
+        "descriptionUK": "отримати, представитися або оплатити"
     }, {
         "de": "erhalten",
         "en": "to obtain",
         "ru": "получить",
+        "tr": "elde etmek",
+        "az": "əldə etmək",
+        "uk": "отримувати",
         "descriptionEN": "to get, acquire, or secure",
         "descriptionRU": "получить, приобрести или обеспечить",
-        "descriptionDE": "zu bekommen, zu erwerben oder zu sichern"
+        "descriptionDE": "zu bekommen, zu erwerben oder zu sichern",
+        "descriptionTR": "edinmek, kazanmak veya güvence altına almak",
+        "descriptionAZ": "almaq, əldə etmək və ya təmin etmək",
+        "descriptionUK": "отримати, придбати або забезпечити"
     }, {
         "de": "bringen",
         "en": "to bring",
         "ru": "приносить",
+        "tr": "getirmek",
+        "az": "gətirmək",
+        "uk": "приносити",
         "descriptionEN": "to carry or convey to a place; to cause someone or something to be in a particular state or condition",
         "descriptionRU": "перенести или передать в определенное место; вызвать у кого-то или чего-то определенное состояние или условие",
-        "descriptionDE": "zu einem Ort tragen oder überführen; jemanden oder etwas in einen bestimmten Zustand oder eine bestimmte Verfassung bringen"
+        "descriptionDE": "zu einem Ort tragen oder überführen; jemanden oder etwas in einen bestimmten Zustand oder eine bestimmte Verfassung bringen",
+        "descriptionTR": "bir yere taşımak veya iletmek; birini veya bir şeyi belirli bir duruma veya koşula sokmak",
+        "descriptionAZ": "bir yerə daşımaq və ya çatdırmaq; birini və ya bir şeyi müəyyən bir vəziyyətə və ya vəziyyətə salmaq",
+        "descriptionUK": "перенести або передати в певне місце; спричинити, щоб хтось або щось перебував у певному стані чи стані"
     }, {
         "de": "finden",
         "en": "to find",
         "ru": "найти",
+        "tr": "bulmak",
+        "az": "tapmaq",
+        "uk": "знайти",
         "descriptionEN": "to discover or perceive by chance or unexpectedly",
         "descriptionRU": "обнаружить или воспринять случайно или неожиданно",
-        "descriptionDE": "durch Zufall oder unerwartet entdecken oder wahrnehmen"
+        "descriptionDE": "durch Zufall oder unerwartet entdecken oder wahrnehmen",
+        "descriptionTR": "tesadüfen veya beklenmedik bir şekilde keşfetmek veya algılamak",
+        "descriptionAZ": "təsadüfən və ya gözlənilmədən kəşf etmək və ya qavramaq",
+        "descriptionUK": "виявити або сприйняти випадково або несподівано"
     }, {
         "de": "sitzen",
         "en": "to sit",
         "ru": "сидеть",
+        "tr": "oturmak",
+        "az": "oturmaq",
+        "uk": "сидіти",
         "descriptionEN": "to rest with the weight supported by one's buttocks rather than one's feet; to be located or situated in a particular place or position",
         "descriptionRU": "отдыхать, опираясь на ягодицы, а не на ноги; находиться или находиться в определенном месте или положении",
-        "descriptionDE": "sich ausruhen, wobei das Gewicht nicht auf den Füßen, sondern auf den Gesäßmuskeln ruht; sich an einem bestimmten Ort oder in einer bestimmten Position befinden oder befinden"
+        "descriptionDE": "sich ausruhen, wobei das Gewicht nicht auf den Füßen, sondern auf den Gesäßmuskeln ruht; sich an einem bestimmten Ort oder in einer bestimmten Position befinden oder befinden",
+        "descriptionTR": "ağırlığı ayaklar yerine kalçalar üzerinde dinlenmek; belirli bir yerde veya konumda bulunmak",
+        "descriptionAZ": "ağırlığı ayaqlar yerinə ombalar üzərində istirahət etdirmək; müəyyən bir yerdə və ya mövqedə yerləşmək",
+        "descriptionUK": "відпочивати, спираючись на сідниці, а не на ноги; знаходитися або розташовуватися в певному місці чи положенні"
     }, {
         "de": "zeigen",
         "en": "to show",
         "ru": "показать",
+        "tr": "göstermek",
+        "az": "göstərmək",
+        "uk": "показувати",
         "descriptionEN": "to make something visible or noticeable",
         "descriptionRU": "сделать что-то видимым или заметным",
-        "descriptionDE": "etwas sichtbar oder bemerkbar machen"
+        "descriptionDE": "etwas sichtbar oder bemerkbar machen",
+        "descriptionTR": "bir şeyi görünür veya fark edilir hale getirmek",
+        "descriptionAZ": "bir şeyi görünən və ya diqqət çəkən etmək",
+        "descriptionUK": "зробити щось видимим або помітним"
     }, {
         "de": "bleiben",
         "en": "to stay",
         "ru": "остаться",
+        "tr": "kalmak",
+        "az": "qalmaq",
+        "uk": "залишатися",
         "descriptionEN": "to remain in the same place or position; to continue to be in a particular state or condition",
         "descriptionRU": "остаться в том же месте или положении; продолжать находиться в определенном состоянии или условии",
-        "descriptionDE": "an demselben Ort oder in derselben Position bleiben; weiterhin in einem bestimmten Zustand oder einer bestimmten Verfassung sein"
+        "descriptionDE": "an demselben Ort oder in derselben Position bleiben; weiterhin in einem bestimmten Zustand oder einer bestimmten Verfassung sein",
+        "descriptionTR": "aynı yerde veya pozisyonda kalmak; belirli bir durumda veya koşulda olmaya devam etmek",
+        "descriptionAZ": "eyni yerdə və ya mövqedə qalmaq; müəyyən bir vəziyyətdə və ya şəraitdə olmağa davam etmək",
+        "descriptionUK": "залишатися на тому ж місці чи становищі; продовжувати перебувати у певному стані чи стані"
     }
 ]

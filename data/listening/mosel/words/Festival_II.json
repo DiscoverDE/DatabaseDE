@@ -3,134 +3,248 @@
         "de": "das Fest",
         "en": "Festival",
         "ru": "Фестиваль",
+        "tr": "Festival",
+        "az": "Festival",
+        "uk": "Фестиваль",
         "descriptionEN": "An organized series of events and celebrations.",
         "descriptionRU": "Организованная серия мероприятий и празднований.",
-        "descriptionDE": "Eine organisierte Reihe von Veranstaltungen und Feiern."
+        "descriptionDE": "Eine organisierte Reihe von Veranstaltungen und Feiern.",
+        "descriptionTR": "Düzenlenmiş bir dizi etkinlik ve kutlama.",
+        "descriptionAZ": "Təşkil edilmiş bir sıra tədbir və bayramlar.",
+        "descriptionUK": "Організована серія заходів та святкувань."
     }, {
         "de": "der Charakter",
         "en": "Character",
         "ru": "Характер",
+        "tr": "Karakter",
+        "az": "Xarakter",
+        "uk": "Характер",
         "descriptionEN": "The unique qualities or traits of something or someone.",
         "descriptionRU": "Уникальные качества или черты чего-то или кого-то.",
-        "descriptionDE": "Die einzigartigen Eigenschaften oder Merkmale von etwas oder jemandem."
+        "descriptionDE": "Die einzigartigen Eigenschaften oder Merkmale von etwas oder jemandem.",
+        "descriptionTR": "Bir şeyin veya birinin benzersiz nitelikleri veya özellikleri.",
+        "descriptionAZ": "Bir şeyin və ya birinin unikal keyfiyyətləri və ya xüsusiyyətləri.",
+        "descriptionUK": "Унікальні якості чи риси чогось чи когось."
     }, {
         "de": "der Federweiße",
         "en": "Federweißer",
         "ru": "Федервейсер",
+        "tr": "Federweißer",
+        "az": "Federweißer",
+        "uk": "Федервайсер",
         "descriptionEN": "A young, sweet, partially fermented wine.",
         "descriptionRU": "Молодое, сладкое, частично ферментированное вино.",
-        "descriptionDE": "Ein junger, süßer, teilweise fermentierter Wein."
+        "descriptionDE": "Ein junger, süßer, teilweise fermentierter Wein.",
+        "descriptionTR": "Genç, tatlı, kısmen fermente edilmiş bir şarap.",
+        "descriptionAZ": "Gənc, şirin, qismən fermentləşdirilmiş şərab.",
+        "descriptionUK": "Молоде, солодке, частково ферментоване вино."
     }, {
         "de": "der Zwiebelkuchen",
         "en": "Onion Tart",
         "ru": "Луковый пирог",
+        "tr": "Soğanlı Tart",
+        "az": "Soğanlı Tart",
+        "uk": "Цибулевий пиріг",
         "descriptionEN": "A savory tart made with onions, often served with wine.",
         "descriptionRU": "Соленый пирог с луком, часто подается с вином.",
-        "descriptionDE": "Ein herzhafter Kuchen mit Zwiebeln, der oft mit Wein serviert wird."
+        "descriptionDE": "Ein herzhafter Kuchen mit Zwiebeln, der oft mit Wein serviert wird.",
+        "descriptionTR": "Soğanlı yapılan tuzlu bir tart, genellikle şarapla servis edilir.",
+        "descriptionAZ": "Soğanla hazırlanmış duzlu bir tart, çox vaxt şərabla servis edilir.",
+        "descriptionUK": "Солоний пиріг з цибулею, часто подається з вином."
     }, {
         "de": "die Erntezeit",
         "en": "Harvest Season",
         "ru": "Сезон урожая",
+        "tr": "Hasat Mevsimi",
+        "az": "Məhsul Mövsümü",
+        "uk": "Сезон збору врожаю",
         "descriptionEN": "The time of year when crops are gathered.",
         "descriptionRU": "Время года, когда собирается урожай.",
-        "descriptionDE": "Die Jahreszeit, in der die Ernte eingebracht wird."
+        "descriptionDE": "Die Jahreszeit, in der die Ernte eingebracht wird.",
+        "descriptionTR": "Mahsullerin toplandığı yılın zamanı.",
+        "descriptionAZ": "Məhsulun yığıldığı ilin vaxtı.",
+        "descriptionUK": "Час року, коли збирається врожай."
     }, {
         "de": "der Glühwein",
         "en": "Mulled Wine",
         "ru": "Глинтвейн",
+        "tr": "Şarap Şerbeti",
+        "az": "Qızdırılmış Şərab",
+        "uk": "Глінтвейн",
         "descriptionEN": "A spiced, heated wine often served during winter festivities.",
         "descriptionRU": "Пряное, подогретое вино, часто подается на зимних праздниках.",
-        "descriptionDE": "Ein gewürzter, erhitzter Wein, der oft bei winterlichen Festen serviert wird."
+        "descriptionDE": "Ein gewürzter, erhitzter Wein, der oft bei winterlichen Festen serviert wird.",
+        "descriptionTR": "Kış festivallerinde sıkça servis edilen baharatlı, ısıtılmış şarap.",
+        "descriptionAZ": "Qış bayramlarında tez-tez servis edilən ədviyyatlı, qızdırılmış şərab.",
+        "descriptionUK": "Пряне, підігріте вино, часто подається на зимових святах."
     }, {
         "de": "die Besonderheit",
         "en": "Specialty",
         "ru": "Особенность",
+        "tr": "Özellik",
+        "az": "Xüsusiyyət",
+        "uk": "Особливість",
         "descriptionEN": "A unique or distinctive feature or quality.",
         "descriptionRU": "Уникальная или характерная черта или качество.",
-        "descriptionDE": "Eine einzigartige oder unverwechselbare Eigenschaft oder Qualität."
+        "descriptionDE": "Eine einzigartige oder unverwechselbare Eigenschaft oder Qualität.",
+        "descriptionTR": "Benzersiz veya ayırt edici bir özellik veya nitelik.",
+        "descriptionAZ": "Unikal və ya fərqləndirici bir xüsusiyyət və ya keyfiyyət.",
+        "descriptionUK": "Унікальна чи характерна риса чи якість."
     }, {
         "de": "der Weihnachtsmarkt",
         "en": "Christmas Market",
         "ru": "Рождественская ярмарка",
+        "tr": "Noel Pazarı",
+        "az": "Milad Bazası",
+        "uk": "Різдвяний ярмарок",
         "descriptionEN": "A festive outdoor market held during the Christmas season.",
         "descriptionRU": "Праздничный уличный рынок, проходящий в рождественский сезон.",
-        "descriptionDE": "Ein festlicher Außenmarkt, der während der Weihnachtszeit stattfindet."
+        "descriptionDE": "Ein festlicher Außenmarkt, der während der Weihnachtszeit stattfindet.",
+        "descriptionTR": "Noel sezonunda düzenlenen festivallı bir açık hava pazarı.",
+        "descriptionAZ": "Milad mövsümündə keçirilən festivallı bir açıq hava bazarı.",
+        "descriptionUK": "Святковий вуличний ринок, що проходить у різдвяний сезон."
     }, {
         "de": "die Region",
         "en": "Region",
         "ru": "Регион",
+        "tr": "Bölge",
+        "az": "Region",
+        "uk": "Регіон",
         "descriptionEN": "A specific geographical area.",
         "descriptionRU": "Определенная географическая область.",
-        "descriptionDE": "Ein bestimmtes geografisches Gebiet."
+        "descriptionDE": "Ein bestimmtes geografisches Gebiet.",
+        "descriptionTR": "Belirli bir coğrafi alan.",
+        "descriptionAZ": "Müəyyən bir coğrafi ərazi.",
+        "descriptionUK": "Певна географічна область."
     }, {
         "de": "zelebrieren",
         "en": "to celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "To acknowledge a significant event with festivities.",
         "descriptionRU": "Отмечать важное событие с торжествами.",
-        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen."
+        "descriptionDE": "Ein bedeutendes Ereignis mit Festlichkeiten anerkennen.",
+        "descriptionTR": "Önemli bir olayı şenliklerle kutlamak.",
+        "descriptionAZ": "Mühüm bir hadisəni şənliklərlə qeyd etmək.",
+        "descriptionUK": "Відзначати важливу подію з урочистостями."
     }, {
         "de": "probieren",
         "en": "to try",
         "ru": "пробовать",
+        "tr": "denemek",
+        "az": "sınamaq",
+        "uk": "пробувати",
         "descriptionEN": "To sample or taste something new.",
         "descriptionRU": "Пробовать что-то новое.",
-        "descriptionDE": "Etwas Neues probieren oder kosten."
+        "descriptionDE": "Etwas Neues probieren oder kosten.",
+        "descriptionTR": "Yeni bir şeyi tatmak veya denemek.",
+        "descriptionAZ": "Yeni bir şeyi dadmaq və ya sınamaq.",
+        "descriptionUK": "Пробувати щось нове."
     }, {
         "de": "verkosten",
         "en": "to taste",
         "ru": "дегустировать",
+        "tr": "tatmak",
+        "az": "dadmaq",
+        "uk": "дегустувати",
         "descriptionEN": "To sample the flavor of food or drink.",
         "descriptionRU": "Попробовать вкус еды или напитка.",
-        "descriptionDE": "Den Geschmack von Essen oder Trinken probieren."
+        "descriptionDE": "Den Geschmack von Essen oder Trinken probieren.",
+        "descriptionTR": "Yemek veya içeceğin tadına bakmak.",
+        "descriptionAZ": "Yemək və ya içkinin dadını yoxlamaq.",
+        "descriptionUK": "Скуштувати смак їжі чи напою."
     }, {
         "de": "ziehen",
         "en": "to attract",
         "ru": "привлекать",
+        "tr": "çekmek",
+        "az": "cəlb etmək",
+        "uk": "приваблювати",
         "descriptionEN": "To draw the attention or interest of someone.",
         "descriptionRU": "Привлекать внимание или интерес кого-то.",
-        "descriptionDE": "Die Aufmerksamkeit oder das Interesse von jemandem auf sich ziehen."
+        "descriptionDE": "Die Aufmerksamkeit oder das Interesse von jemandem auf sich ziehen.",
+        "descriptionTR": "Birinin dikkatini veya ilgisini çekmek.",
+        "descriptionAZ": "Birinin diqqətini və ya marağını cəlb etmək.",
+        "descriptionUK": "Привертати увагу чи інтерес когось."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionEN": "In keeping with established customs or practices.",
         "descriptionRU": "Соответствует устоявшимся обычаям или практикам.",
-        "descriptionDE": "Im Einklang mit etablierten Bräuchen oder Praktiken."
+        "descriptionDE": "Im Einklang mit etablierten Bräuchen oder Praktiken.",
+        "descriptionTR": "Yerleşik geleneklere veya uygulamalara uygun.",
+        "descriptionAZ": "Mövcud adətlərə və ya təcrübələrə uyğun.",
+        "descriptionUK": "Відповідає усталеним звичаям чи практикам."
     }, {
         "de": "rustikal",
         "en": "rustic",
         "ru": "деревенский",
+        "tr": "rustik",
+        "az": "kənd təsərrüfatı",
+        "uk": "сільський",
         "descriptionEN": "Relating to the countryside; simple or quaint.",
         "descriptionRU": "Относящийся к сельской местности; простой или уютный.",
-        "descriptionDE": "Bezieht sich auf das Landleben; einfach oder gemütlich."
+        "descriptionDE": "Bezieht sich auf das Landleben; einfach oder gemütlich.",
+        "descriptionTR": "Kırsal yaşamla ilgili; basit veya şirin.",
+        "descriptionAZ": "Kənd həyatı ilə əlaqəli; sadə və ya şirin.",
+        "descriptionUK": "Стосується сільської місцевості; простий чи затишний."
     }, {
         "de": "besonders",
         "en": "especially",
         "ru": "особенно",
+        "tr": "özellikle",
+        "az": "xüsusilə",
+        "uk": "особливо",
         "descriptionEN": "To a greater degree than usual.",
         "descriptionRU": "В большей степени, чем обычно.",
-        "descriptionDE": "In höherem Maße als üblich."
+        "descriptionDE": "In höherem Maße als üblich.",
+        "descriptionTR": "Olağandan daha fazla.",
+        "descriptionAZ": "Adi haldan daha çox.",
+        "descriptionUK": "У більшій мірі, ніж зазвичай."
     }, {
         "de": "idyllisch",
         "en": "idyllic",
         "ru": "идиллический",
+        "tr": "idil",
+        "az": "idillik",
+        "uk": "іділічний",
         "descriptionEN": "Extremely pleasant, peaceful, and picturesque.",
         "descriptionRU": "Чрезвычайно приятный, спокойный и живописный.",
-        "descriptionDE": "Außergewöhnlich angenehm, friedlich und malerisch."
+        "descriptionDE": "Außergewöhnlich angenehm, friedlich und malerisch.",
+        "descriptionTR": "Son derece hoş, huzurlu ve resim gibi.",
+        "descriptionAZ": "Son dərəcə xoş, sakit və rəngarəng.",
+        "descriptionUK": "Надзвичайно приємний, спокійний та мальовничий."
     }, {
         "de": "regional",
         "en": "regional",
         "ru": "региональный",
+        "tr": "bölgesel",
+        "az": "regional",
+        "uk": "регіональний",
         "descriptionEN": "Relating to a particular geographic area.",
         "descriptionRU": "Относящийся к определенной географической области.",
-        "descriptionDE": "Bezieht sich auf ein bestimmtes geografisches Gebiet."
+        "descriptionDE": "Bezieht sich auf ein bestimmtes geografisches Gebiet.",
+        "descriptionTR": "Belirli bir coğrafi bölgeyle ilgili.",
+        "descriptionAZ": "Müəyyən bir coğrafi ərazi ilə əlaqəli.",
+        "descriptionUK": "Стосується певної географічної області."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unutulmaz",
+        "uk": "незабутній",
         "descriptionEN": "Impossible to forget; memorable.",
         "descriptionRU": "Невозможно забыть; запоминающийся.",
-        "descriptionDE": "Unvergesslich; einprägsam."
+        "descriptionDE": "Unvergesslich; einprägsam.",
+        "descriptionTR": "Unutulması imkansız; akılda kalıcı.",
+        "descriptionAZ": "Unudulmaz; yadda qalan.",
+        "descriptionUK": "Неможливо забути; пам'ятний."
     }
 ]

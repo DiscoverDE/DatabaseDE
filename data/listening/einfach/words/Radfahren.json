@@ -3,85 +3,157 @@
         "de": "der Tag",
         "en": "Day",
         "ru": "День",
+        "tr": "Gün",
+        "az": "Gün",
+        "uk": "День",
         "descriptionEN": "A period of 24 hours.",
         "descriptionRU": "Период в 24 часа.",
-        "descriptionDE": "Ein Zeitraum von 24 Stunden."
+        "descriptionDE": "Ein Zeitraum von 24 Stunden.",
+        "descriptionTR": "24 saatlik bir süre.",
+        "descriptionAZ": "24 saatlıq bir müddət.",
+        "descriptionUK": "Період у 24 години."
     }, {
         "de": "der Gehaltsscheck",
         "en": "Paycheck",
         "ru": "Чек на зарплату",
+        "tr": "Maaş çeki",
+        "az": "Maş çeki",
+        "uk": "Зарплатний чек",
         "descriptionEN": "A check given for payment of wages.",
         "descriptionRU": "Чек, выданный для оплаты заработной платы.",
-        "descriptionDE": "Ein Scheck, der zur Zahlung des Gehalts ausgegeben wird."
+        "descriptionDE": "Ein Scheck, der zur Zahlung des Gehalts ausgegeben wird.",
+        "descriptionTR": "Ücret ödemesi için verilen bir çek.",
+        "descriptionAZ": "Əmək haqqının ödənilməsi üçün verilən bir çek.",
+        "descriptionUK": "Чек, виданий для оплати заробітної плати."
     }, {
         "de": "das Fahrrad",
         "en": "Bicycle",
         "ru": "Велосипед",
+        "tr": "Bisiklet",
+        "az": "Velosiped",
+        "uk": "Велосипед",
         "descriptionEN": "A vehicle with two wheels that a person rides by pushing on foot pedals.",
         "descriptionRU": "Транспортное средство с двумя колесами, на котором человек ездит, толкаясь ногами.",
-        "descriptionDE": "Ein Fahrzeug mit zwei Rädern, das eine Person durch Treten von Pedalen bewegt."
+        "descriptionDE": "Ein Fahrzeug mit zwei Rädern, das eine Person durch Treten von Pedalen bewegt.",
+        "descriptionTR": "Bir kişinin ayak pedallarını iterek sürdüğü iki tekerlekli bir araç.",
+        "descriptionAZ": "Bir şəxsin ayaq pedallarını itələyərək sürdüyü iki təkərli bir nəqliyyat vasitəsi.",
+        "descriptionUK": "Транспортний засіб із двома колесами, на якому людина їздить, штовхаючись ногами."
     }, {
         "de": "die Verhältnisse",
         "en": "Circumstances",
         "ru": "Обстоятельства",
+        "tr": "Koşullar",
+        "az": "Vəziyyət",
+        "uk": "Обставини",
         "descriptionEN": "The conditions or facts affecting a situation.",
         "descriptionRU": "Условия или факты, влияющие на ситуацию.",
-        "descriptionDE": "Die Bedingungen oder Tatsachen, die eine Situation beeinflussen."
+        "descriptionDE": "Die Bedingungen oder Tatsachen, die eine Situation beeinflussen.",
+        "descriptionTR": "Bir durumu etkileyen koşullar veya gerçekler.",
+        "descriptionAZ": "Bir vəziyyəti təsir edən şərtlər və ya faktlar.",
+        "descriptionUK": "Умови чи факти, що впливають на ситуацію."
     }, {
         "de": "der Traum",
         "en": "Dream",
         "ru": "Мечта",
+        "tr": "Rüya",
+        "az": "Arzu",
+        "uk": "Мрія",
         "descriptionEN": "A series of thoughts, images, or emotions occurring during sleep, or an aspiration.",
         "descriptionRU": "Серия мыслей, образов или эмоций, происходящих во время сна, или стремление.",
-        "descriptionDE": "Eine Serie von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten, oder eine Aspiration."
+        "descriptionDE": "Eine Serie von Gedanken, Bildern oder Emotionen, die während des Schlafes auftreten, oder eine Aspiration.",
+        "descriptionTR": "Uyku sırasında ortaya çıkan bir dizi düşünce, görüntü veya duygu ya da bir arzu.",
+        "descriptionAZ": "Yuxu zamanı baş verən bir sıra fikir, şəkil və ya emosiya, ya da bir arzu.",
+        "descriptionUK": "Серія думок, образів чи емоцій, що виникають під час сну, чи прагнення."
     }, {
         "de": "der Job",
         "en": "Job",
         "ru": "Работа",
+        "tr": "İş",
+        "az": "İş",
+        "uk": "Робота",
         "descriptionEN": "A paid position of regular employment.",
         "descriptionRU": "Оплачиваемая должность регулярного трудоустройства.",
-        "descriptionDE": "Eine bezahlte Position der regulären Beschäftigung."
+        "descriptionDE": "Eine bezahlte Position der regulären Beschäftigung.",
+        "descriptionTR": "Düzenli istihdam için ücretli bir pozisyon.",
+        "descriptionAZ": "Müntəzəm məşğulluq üçün ödənişli bir vəzifə.",
+        "descriptionUK": "Оплачувана посада регулярного працевлаштування."
     }, {
         "de": "die Kinder",
         "en": "Children",
         "ru": "Дети",
+        "tr": "Çocuklar",
+        "az": "Uşaqlar",
+        "uk": "Діти",
         "descriptionEN": "Young human beings below the age of puberty.",
         "descriptionRU": "Молодые человеческие существа до половой зрелости.",
-        "descriptionDE": "Junge Menschen unter dem Alter der Pubertät."
+        "descriptionDE": "Junge Menschen unter dem Alter der Pubertät.",
+        "descriptionTR": "Ergenlik çağının altındaki genç insanlar.",
+        "descriptionAZ": "Yetkinlik yaşından aşağı olan gənc insanlar.",
+        "descriptionUK": "Молоді людські істоти до статевої зрілості."
     }, {
         "de": "die Welt",
         "en": "World",
         "ru": "Мир",
+        "tr": "Dünya",
+        "az": "Dünya",
+        "uk": "Світ",
         "descriptionEN": "The earth, together with all of its countries and peoples.",
         "descriptionRU": "Земля вместе со всеми ее странами и народами.",
-        "descriptionDE": "Die Erde zusammen mit allen ihren Ländern und Völkern."
+        "descriptionDE": "Die Erde zusammen mit allen ihren Ländern und Völkern.",
+        "descriptionTR": "Dünya, tüm ülkeleri ve halklarıyla birlikte.",
+        "descriptionAZ": "Yer, bütün ölkələri və xalqları ilə birlikdə.",
+        "descriptionUK": "Земля разом з усіма її країнами та народами."
     }, {
         "de": "lernen",
         "en": "To learn",
         "ru": "Учить",
+        "tr": "Öğrenmek",
+        "az": "Öyrənmək",
+        "uk": "Вчити",
         "descriptionEN": "To gain knowledge or skill through experience or education.",
         "descriptionRU": "Приобретать знания или навыки через опыт или образование.",
-        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung oder Bildung erwerben."
+        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung oder Bildung erwerben.",
+        "descriptionTR": "Deneyim veya eğitim yoluyla bilgi veya beceri kazanmak.",
+        "descriptionAZ": "Təcrübə və ya təhsil vasitəsilə bilik və ya bacarıq qazanmaq.",
+        "descriptionUK": "Отримувати знання чи навички через досвід або освіту."
     }, {
         "de": "freuen",
         "en": "To be happy",
         "ru": "Радоваться",
+        "tr": "Mutlu olmak",
+        "az": "Xoşbəxt olmaq",
+        "uk": "Радіти",
         "descriptionEN": "To feel or show pleasure or contentment.",
         "descriptionRU": "Чувствовать или показывать удовольствие или удовлетворение.",
-        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit."
+        "descriptionDE": "Gefühl oder Zeigen von Freude oder Zufriedenheit.",
+        "descriptionTR": "Haz veya memnuniyet hissetmek veya göstermek.",
+        "descriptionAZ": "Zövq və ya məmnuniyyət hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчувати чи показувати задоволення чи вдоволення."
     }, {
         "de": "schwierig",
         "en": "Difficult",
         "ru": "Трудный",
+        "tr": "Zor",
+        "az": "Çətin",
+        "uk": "Важкий",
         "descriptionEN": "Not easy; requiring effort or skill.",
         "descriptionRU": "Не легкий; требующий усилий или навыков.",
-        "descriptionDE": "Nicht einfach; erfordert Anstrengung oder Fähigkeiten."
+        "descriptionDE": "Nicht einfach; erfordert Anstrengung oder Fähigkeiten.",
+        "descriptionTR": "Kolay değil; çaba veya beceri gerektiren.",
+        "descriptionAZ": "Asan deyil; səy və ya bacarıq tələb edən.",
+        "descriptionUK": "Не легкий; вимагає зусиль чи навичок."
     }, {
         "de": "entschlossen",
         "en": "Determined",
         "ru": "Решительный",
+        "tr": "Kararlı",
+        "az": "Qəti",
+        "uk": "Рішучий",
         "descriptionEN": "Having made a firm decision and being resolved not to change it.",
         "descriptionRU": "Принявший твердое решение и решивший не менять его.",
-        "descriptionDE": "Eine feste Entscheidung getroffen haben und entschlossen sein, diese nicht zu ändern."
+        "descriptionDE": "Eine feste Entscheidung getroffen haben und entschlossen sein, diese nicht zu ändern.",
+        "descriptionTR": "Kesin bir karar vermiş ve bunu değiştirmemeye kararlı olmak.",
+        "descriptionAZ": "Möhkəm qərar vermiş və bunu dəyişdirməməyə qərar vermiş.",
+        "descriptionUK": "Прийнявши тверде рішення і вирішивши не змінювати його."
     }
 ]

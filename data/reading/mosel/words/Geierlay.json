@@ -3,106 +3,196 @@
         "de": "die Hängebrücke",
         "en": "Suspension bridge",
         "ru": "Подвесной мост",
+        "tr": "Asma köprü",
+        "az": "Asma körpü",
+        "uk": "підвісний міст",
+        "descriptionDE": "Ein Brücke, die von Seilen getragen wird, die zwischen Türmen aufgehängt sind.",
         "descriptionEN": "A bridge that is supported by cables suspended between towers.",
         "descriptionRU": "Мост, поддерживаемый канатами, подвешенными между башнями.",
-        "descriptionDE": "Ein Brücke, die von Seilen getragen wird, die zwischen Türmen aufgehängt sind."
+        "descriptionTR": "Kuleler arasında asılı olan kablolarla desteklenen köprü.",
+        "descriptionAZ": "Qüllələr arasında asılmış kabelərlə dəstəklənən körpü.",
+        "descriptionUK": "міст, який підтримується тросами, підвішеними між вежами."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
+        "tr": "Manzara",
+        "az": "Baxış",
+        "uk": "Вид",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene.",
         "descriptionEN": "The ability to see something, or the scene that is visible.",
         "descriptionRU": "Способность видеть что-то или сцена, которая видна.",
-        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene."
+        "descriptionTR": "Bir şeyi görme yeteneği veya görünen sahne.",
+        "descriptionAZ": "Bir şeyi görmək qabiliyyəti və ya görünən mənzərə.",
+        "descriptionUK": "здатність бачити щось або видима сцена."
     }, {
         "de": "der Parkplatz",
         "en": "Parking lot",
         "ru": "Парковка",
+        "tr": "Otopark",
+        "az": "Avto dayanacaq",
+        "uk": "Парковка",
+        "descriptionDE": "Ein Bereich, in dem Fahrzeuge geparkt werden können.",
         "descriptionEN": "An area where vehicles can be parked.",
         "descriptionRU": "Место, где можно припарковать транспортные средства.",
-        "descriptionDE": "Ein Bereich, in dem Fahrzeuge geparkt werden können."
+        "descriptionTR": "Araçların park edilebileceği alan.",
+        "descriptionAZ": "Nəqliyyat vasitələrinin dayanacağı sahə.",
+        "descriptionUK": "місце, де можна припаркувати транспортні засоби."
     }, {
         "de": "der Wanderer",
         "en": "Hiker",
         "ru": "Пешеход",
+        "tr": "Gezgin",
+        "az": "Gəzintiçi",
+        "uk": "Пішохід",
+        "descriptionDE": "Eine Person, die lange Strecken zum Vergnügen oder zur Bewegung geht.",
         "descriptionEN": "A person who walks long distances for pleasure or exercise.",
         "descriptionRU": "Человек, который ходит на большие расстояния для удовольствия или упражнений.",
-        "descriptionDE": "Eine Person, die lange Strecken zum Vergnügen oder zur Bewegung geht."
+        "descriptionTR": "Uzun mesafeler yürüyerek eğlence veya egzersiz yapan kişi.",
+        "descriptionAZ": "Zövq və ya idman üçün uzun məsafə qət edən şəxs.",
+        "descriptionUK": "особа, яка ходить на великі відстані для задоволення або вправ."
     }, {
         "de": "die Perspektive",
         "en": "Perspective",
         "ru": "Перспектива",
+        "tr": "Bakış açısı",
+        "az": "Perspektiv",
+        "uk": "Перспектива",
+        "descriptionDE": "Eine bestimmte Haltung oder Art, etwas zu betrachten.",
         "descriptionEN": "A particular attitude toward or way of regarding something.",
         "descriptionRU": "Особое отношение к чему-то или способ его восприятия.",
-        "descriptionDE": "Eine bestimmte Haltung oder Art, etwas zu betrachten."
+        "descriptionTR": "Bir şeye karşı belirli bir tutum veya bakış biçimi.",
+        "descriptionAZ": "Bir şeyə qarşı müəyyən münasibət və ya baxış tərzi.",
+        "descriptionUK": "певне ставлення до чогось або спосіб його сприйняття."
     }, {
         "de": "die Stabilität",
         "en": "Stability",
         "ru": "Стабильность",
+        "tr": "Stabilite",
+        "az": "Sabətlik",
+        "uk": "Стабільність",
+        "descriptionDE": "Der Zustand, stabil oder unverändert zu sein.",
         "descriptionEN": "The state of being stable or unchanging.",
         "descriptionRU": "Состояние стабильности или неизменности.",
-        "descriptionDE": "Der Zustand, stabil oder unverändert zu sein."
+        "descriptionTR": "Kararlı veya değişmeyen olma durumu.",
+        "descriptionAZ": "Sabit və ya dəyişməyən vəziyyət.",
+        "descriptionUK": "стан стабільності або незмінності."
     }, {
         "de": "der Naturfreund",
         "en": "Nature lover",
         "ru": "Любитель природы",
+        "tr": "Doğa sever",
+        "az": "Təbiət həvəskarı",
+        "uk": "Поціновувач природи",
+        "descriptionDE": "Eine Person, die die Natur liebt und es genießt, Zeit in ihr zu verbringen.",
         "descriptionEN": "A person who loves nature and enjoys spending time in it.",
         "descriptionRU": "Человек, который любит природу и наслаждается временем, проведенным на природе.",
-        "descriptionDE": "Eine Person, die die Natur liebt und es genießt, Zeit in ihr zu verbringen."
+        "descriptionTR": "Doğayı seven ve içinde vakit geçirmekten keyif alan kişi.",
+        "descriptionAZ": "Təbiəti sevən və onun yanında vaxt keçirməyi xoşlayan şəxs.",
+        "descriptionUK": "особа, яка любить природу та насолоджується перебуванням у ній."
     }, {
         "de": "die Erfahrung",
         "en": "Experience",
         "ru": "Опыт",
+        "tr": "Deneyim",
+        "az": "Təcrübə",
+        "uk": "Досвід",
+        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen.",
         "descriptionEN": "Practical contact with and observation of facts or events.",
         "descriptionRU": "Совокупность практически усвоенных знаний, навыков, умения.",
-        "descriptionDE": "Praktischer Kontakt mit und Beobachtung von Fakten oder Ereignissen."
+        "descriptionTR": "Gerçek olaylar veya durumlarla pratik temas ve gözlem.",
+        "descriptionAZ": "Faktlar və hadisələrlə praktik əlaqə və müşahidə.",
+        "descriptionUK": "практичний контакт та спостереження за фактами чи подіями."
     }, {
         "de": "die Bedeutung",
         "en": "Meaning",
         "ru": "Значение",
+        "tr": "Anlam",
+        "az": "Mənası",
+        "uk": "Значення",
+        "descriptionDE": "Was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist.",
         "descriptionEN": "What is meant by a word, text, concept, or action.",
         "descriptionRU": "То, что подразумевается под словом, текстом, концепцией или действием.",
-        "descriptionDE": "Was mit einem Wort, Text, Konzept oder einer Handlung gemeint ist."
+        "descriptionTR": "Bir kelime, metin, kavram veya eylemle kastedilen şey.",
+        "descriptionAZ": "Bir söz, mətn, konsept və ya hərəkətlə nəzərdə tutulan şey.",
+        "descriptionUK": "те, що мається на увазі під словом, текстом, концептом або дією."
     }, {
         "de": "die Geschwindigkeit",
         "en": "Speed",
         "ru": "Скорость",
+        "tr": "Hız",
+        "az": "Sürət",
+        "uk": "Швидкість",
+        "descriptionDE": "Die Rate, mit der sich etwas bewegt oder arbeitet.",
         "descriptionEN": "The rate at which something moves or operates.",
         "descriptionRU": "Скорость, с которой что-то движется или работает.",
-        "descriptionDE": "Die Rate, mit der sich etwas bewegt oder arbeitet."
+        "descriptionTR": "Bir şeyin hareket ettiği veya çalıştığı hız.",
+        "descriptionAZ": "Bir şeyin hərəkət etdiyi və ya işlədiyi sürət.",
+        "descriptionUK": "швидкість, з якою щось рухається або працює."
     }, {
         "de": "der Tourismus",
         "en": "Tourism",
         "ru": "Туризм",
+        "tr": "Turizm",
+        "az": "Turizm",
+        "uk": "Туризм",
+        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten.",
         "descriptionEN": "The commercial organization and operation of vacations and visits to places of interest.",
         "descriptionRU": "Коммерческая организация и проведение отпусков и посещений интересных мест.",
-        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten."
+        "descriptionTR": "Tatil ve ilgi çekici yerlere ziyaretlerin ticari organizasyonu ve işletilmesi.",
+        "descriptionAZ": "Tətillərin və maraqlı yerlərə ziyarətlərin kommersiya təşkilatı və fəaliyyəti.",
+        "descriptionUK": "комерційна організація та проведення відпусток і відвідування цікавих місць."
     }, {
         "de": "die Herausforderung",
         "en": "Challenge",
         "ru": "Вызов",
+        "tr": "Zorluk",
+        "az": "Çağırış",
+        "uk": "Виклик",
+        "descriptionDE": "Eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet.",
         "descriptionEN": "A task or situation that tests someone's abilities.",
         "descriptionRU": "Задача или ситуация, проверяющая способности человека.",
-        "descriptionDE": "Eine Aufgabe oder Situation, die die Fähigkeiten einer Person testet."
+        "descriptionTR": "Bir kişinin yeteneklerini test eden görev veya durum.",
+        "descriptionAZ": "Bir şəxsin qabiliyyətlərini sınayan tapşırıq və ya vəziyyət.",
+        "descriptionUK": "завдання або ситуація, що перевіряє чиюсь спроможність."
     }, {
         "de": "die Aussicht",
         "en": "View",
         "ru": "Вид",
+        "tr": "Görüş",
+        "az": "Baxış",
+        "uk": "Вид",
+        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene.",
         "descriptionEN": "The ability to see something, or the scene that is visible.",
         "descriptionRU": "Способность видеть что-то или сцена, которая видна.",
-        "descriptionDE": "Die Fähigkeit, etwas zu sehen, oder die sichtbare Szene."
+        "descriptionTR": "Bir şeyi görme yeteneği veya görülen manzara.",
+        "descriptionAZ": "Bir şeyi görmək qabiliyyəti və ya görünən mənzərə.",
+        "descriptionUK": "здатність бачити щось або видима сцена."
     }, {
         "de": "die Wanderung",
         "en": "Hike",
         "ru": "Поход",
+        "tr": "Yürüyüş",
+        "az": "Gəzinti",
+        "uk": "Похід",
+        "descriptionDE": "Ein langer Spaziergang, besonders in der Landschaft.",
         "descriptionEN": "A long walk, especially in the countryside.",
         "descriptionRU": "Долгая прогулка, особенно в сельской местности.",
-        "descriptionDE": "Ein langer Spaziergang, besonders in der Landschaft."
+        "descriptionTR": "Özellikle kırsal alanlarda uzun yürüyüş.",
+        "descriptionAZ": "Xüsusilə kənd yerlərində uzun gəziş.",
+        "descriptionUK": "довга прогулянка, особливо по сільській місцевості."
     }, {
         "de": "die Verbindung",
         "en": "Connection",
         "ru": "Связь",
+        "tr": "Bağlantı",
+        "az": "Əlaqə",
+        "uk": "Зв’язок",
+        "descriptionDE": "Eine Beziehung oder Verbindung zwischen zwei oder mehr Dingen.",
         "descriptionEN": "A relationship or link between two or more things.",
         "descriptionRU": "Отношение или связь между двумя или более вещами.",
-        "descriptionDE": "Eine Beziehung oder Verbindung zwischen zwei oder mehr Dingen."
+        "descriptionTR": "İki veya daha fazla şey arasında ilişki veya bağ.",
+        "descriptionAZ": "İki və ya daha çox şey arasında əlaqə və ya münasibət.",
+        "descriptionUK": "стосунок або зв’язок між двома або більше речами."
     }
 ]

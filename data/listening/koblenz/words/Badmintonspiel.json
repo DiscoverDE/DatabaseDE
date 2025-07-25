@@ -3,162 +3,300 @@
         "de": "die Schulzeit",
         "en": "school time",
         "ru": "школьное время",
+        "tr": "okul zamanı",
+        "az": "məktəb vaxtı",
+        "uk": "шкільний час",
         "descriptionEN": "The period of time during which one attends school.",
         "descriptionRU": "Период времени, в течение которого человек учится в школе.",
-        "descriptionDE": "Der Zeitraum, in dem man die Schule besucht."
+        "descriptionDE": "Der Zeitraum, in dem man die Schule besucht.",
+        "descriptionTR": "Bir kişinin okula gittiği zaman dilimi.",
+        "descriptionAZ": "Bir insanın məktəbə getdiyi zaman aralığı.",
+        "descriptionUK": "Період часу, протягом якого людина відвідує школу."
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "A large public green area in a town, used for recreation.",
         "descriptionRU": "Большая общественная зеленая зона в городе, используемая для отдыха.",
-        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+        "descriptionDE": "Ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird.",
+        "descriptionTR": "Bir kasabada rekreasyon için kullanılan büyük bir halka açık yeşil alan.",
+        "descriptionAZ": "Bir şəhərdə istirahət üçün istifadə olunan böyük bir ictimai yaşıl sahə.",
+        "descriptionUK": "Велика громадська зелена зона в місті, що використовується для відпочинку."
     }, {
         "de": "die Ausbildung",
         "en": "education",
         "ru": "образование",
+        "tr": "eğitim",
+        "az": "təhsil",
+        "uk": "освіта",
         "descriptionEN": "The process of receiving or giving systematic instruction, especially at a school or university.",
         "descriptionRU": "Процесс получения или предоставления систематического обучения, особенно в школе или университете.",
-        "descriptionDE": "Der Prozess des Erhaltens oder Gebens von systematischem Unterricht, insbesondere an einer Schule oder Universität."
+        "descriptionDE": "Der Prozess des Erhaltens oder Gebens von systematischem Unterricht, insbesondere an einer Schule oder Universität.",
+        "descriptionTR": "Özellikle bir okulda veya üniversitede sistematik talimat alma veya verme süreci.",
+        "descriptionAZ": "Xüsusilə bir məktəbdə və ya universitetdə sistematik təlim alma və ya vermə prosesi.",
+        "descriptionUK": "Процес отримання чи надання систематичного навчання, особливо в школі чи університеті."
     }, {
         "de": "der Sommer",
         "en": "summer",
         "ru": "лето",
+        "tr": "yaz",
+        "az": "yay",
+        "uk": "літо",
         "descriptionEN": "The warmest season of the year.",
         "descriptionRU": "Самый теплый сезон года.",
-        "descriptionDE": "Die wärmste Jahreszeit des Jahres."
+        "descriptionDE": "Die wärmste Jahreszeit des Jahres.",
+        "descriptionTR": "Yılın en sıcak mevsimi.",
+        "descriptionAZ": "İlin ən isti fəsli.",
+        "descriptionUK": "Найтепліша пора року."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "peyzaj",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "All the visible features of an area of land.",
         "descriptionRU": "Все видимые особенности участка земли.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landgebiets.",
+        "descriptionTR": "Bir arazi parçasının tüm görünür özellikleri.",
+        "descriptionAZ": "Bir torpaq sahəsinin bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "Усі видимі особливості ділянки землі."
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "The pervading tone or mood of a place, situation, or work of art.",
         "descriptionRU": "Преобладающий тон или настроение места, ситуации или произведения искусства.",
-        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks."
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines Kunstwerks.",
+        "descriptionTR": "Bir yerin, durumun veya sanat eserinin hakim tonu veya havası.",
+        "descriptionAZ": "Bir yerin, vəziyyətin və ya sənət əsərinin üstünlük təşkil edən tonu və ya atmosferi.",
+        "descriptionUK": "Панівний тон чи настрій місця, ситуації чи твору мистецтва."
     }, {
         "de": "der Einheimische",
         "en": "local",
         "ru": "местный житель",
+        "tr": "yerli",
+        "az": "yerli",
+        "uk": "місцевий житель",
         "descriptionEN": "A person who lives in a particular area, city, or town.",
         "descriptionRU": "Человек, который живет в определенной области, городе или поселке.",
-        "descriptionDE": "Eine Person, die in einem bestimmten Gebiet, einer Stadt oder einem Dorf lebt."
+        "descriptionDE": "Eine Person, die in einem bestimmten Gebiet, einer Stadt oder einem Dorf lebt.",
+        "descriptionTR": "Belirli bir bölgede, şehirde veya kasabada yaşayan bir kişi.",
+        "descriptionAZ": "Müəyyən bir ərazidə, şəhərdə və ya qəsəbədə yaşayan bir şəxs.",
+        "descriptionUK": "Людина, яка живе у певній області, місті чи селищі."
     }, {
         "de": "der Tourist",
         "en": "tourist",
         "ru": "турист",
+        "tr": "turist",
+        "az": "turist",
+        "uk": "турист",
         "descriptionEN": "A person who is traveling or visiting a place for pleasure.",
         "descriptionRU": "Человек, который путешествует или посещает место для удовольствия.",
-        "descriptionDE": "Eine Person, die reist oder einen Ort zum Vergnügen besucht."
+        "descriptionDE": "Eine Person, die reist oder einen Ort zum Vergnügen besucht.",
+        "descriptionTR": "Keyif için seyahat eden veya bir yeri ziyaret eden bir kişi.",
+        "descriptionAZ": "Zövq üçün səyahət edən və ya bir yeri ziyarət edən bir şəxs.",
+        "descriptionUK": "Людина, яка подорожує чи відвідує місце для задоволення."
     }, {
         "de": "das Feld",
         "en": "field",
         "ru": "поле",
+        "tr": "alan",
+        "az": "sahə",
+        "uk": "поле",
         "descriptionEN": "An area of open land, especially one planted with crops or pasture.",
         "descriptionRU": "Участок открытой земли, особенно засаженный культурами или пастбищем.",
-        "descriptionDE": "Ein offenes Landgebiet, insbesondere eines, das mit Nutzpflanzen oder Weideland bepflanzt ist."
+        "descriptionDE": "Ein offenes Landgebiet, insbesondere eines, das mit Nutzpflanzen oder Weideland bepflanzt ist.",
+        "descriptionTR": "Özellikle mahsul veya mera ekilmiş açık bir arazi parçası.",
+        "descriptionAZ": "Xüsusilə əkin və ya otlaq əkilmiş açıq bir torpaq sahəsi.",
+        "descriptionUK": "Ділянка відкритої землі, особливо засаджена культурами чи пасовищем."
     }, {
         "de": "die Umgebung",
         "en": "environment",
         "ru": "окружающая среда",
+        "tr": "çevre",
+        "az": "ətraf mühit",
+        "uk": "навколишнє середовище",
         "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
         "descriptionRU": "Окружающая среда или условия, в которых живет или функционирует человек, животное или растение.",
-        "descriptionDE": "Die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt oder arbeitet."
+        "descriptionDE": "Die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt oder arbeitet.",
+        "descriptionTR": "Bir kişinin, hayvanın veya bitkinin yaşadığı veya faaliyet gösterdiği çevre veya koşullar.",
+        "descriptionAZ": "Bir insanın, heyvanın və ya bitkinin yaşadığı və ya fəaliyyət göstərdiyi ətraf mühit və ya şərait.",
+        "descriptionUK": "Оточення чи умови, у яких людина, тварина чи рослина живе чи функціонує."
     }, {
         "de": "der Spaß",
         "en": "fun",
         "ru": "веселье",
+        "tr": "eğlence",
+        "az": "əyləncə",
+        "uk": "веселощі",
         "descriptionEN": "Enjoyment, amusement, or lighthearted pleasure.",
         "descriptionRU": "Удовольствие, развлечение или легкомысленное удовольствие.",
-        "descriptionDE": "Vergnügen, Spaß oder leichte Freude."
+        "descriptionDE": "Vergnügen, Spaß oder leichte Freude.",
+        "descriptionTR": "Keyif, eğlence veya kaygısız bir zevk.",
+        "descriptionAZ": "Zövq, əyləncə və ya qayğısız bir həzz.",
+        "descriptionUK": "Задоволення, розвага чи легковажне задоволення."
     }, {
         "de": "der Wettkampf",
         "en": "competition",
         "ru": "соревнование",
+        "tr": "yarışma",
+        "az": "yarış",
+        "uk": "змагання",
         "descriptionEN": "An event or contest in which people compete.",
         "descriptionRU": "Мероприятие или соревнование, в котором люди соревнуются.",
-        "descriptionDE": "Eine Veranstaltung oder ein Wettbewerb, bei dem Menschen antreten."
+        "descriptionDE": "Eine Veranstaltung oder ein Wettbewerb, bei dem Menschen antreten.",
+        "descriptionTR": "İnsanların yarıştığı bir etkinlik veya yarışma.",
+        "descriptionAZ": "İnsanların yarışdığı bir tədbir və ya yarış.",
+        "descriptionUK": "Захід чи змагання, у якому люди змагаються."
     }, {
         "de": "spielen",
         "en": "to play",
         "ru": "играть",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
         "descriptionEN": "Engage in activity for enjoyment and recreation.",
         "descriptionRU": "Участвовать в деятельности для удовольствия и отдыха.",
-        "descriptionDE": "Sich zur Freude und Erholung beschäftigen."
+        "descriptionDE": "Sich zur Freude und Erholung beschäftigen.",
+        "descriptionTR": "Keyif ve dinlenme için bir etkinlikle meşgul olmak.",
+        "descriptionAZ": "Zövq və istirahət üçün bir fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "Брати участь у діяльності для задоволення та відпочинку."
     }, {
         "de": "ziehen",
         "en": "to move",
         "ru": "переезжать",
+        "tr": "taşınmak",
+        "az": "köçmək",
+        "uk": "переїжджати",
         "descriptionEN": "Change one's place of residence or position.",
         "descriptionRU": "Изменить место жительства или позицию.",
-        "descriptionDE": "Seinen Wohnort oder seine Position ändern."
+        "descriptionDE": "Seinen Wohnort oder seine Position ändern.",
+        "descriptionTR": "İkametgahını veya konumunu değiştirmek.",
+        "descriptionAZ": "Yaşayış yerini və ya mövqeyini dəyişdirmək.",
+        "descriptionUK": "Змінити місце проживання чи позицію."
     }, {
         "de": "besuchen",
         "en": "to visit",
         "ru": "посещать",
+        "tr": "ziyaret etmek",
+        "az": "ziyarət etmək",
+        "uk": "відвідувати",
         "descriptionEN": "Go to see and spend time with.",
         "descriptionRU": "Навещать и проводить время с.",
-        "descriptionDE": "Besuchen und Zeit verbringen mit."
+        "descriptionDE": "Besuchen und Zeit verbringen mit.",
+        "descriptionTR": "Görüp vakit geçirmek için gitmek.",
+        "descriptionAZ": "Görüb vaxt keçirmək üçün getmək.",
+        "descriptionUK": "Навідувати та проводити час із."
     }, {
         "de": "telefonieren",
         "en": "to call",
         "ru": "звонить",
+        "tr": "telefon etmek",
+        "az": "zəng etmək",
+        "uk": "телефонувати",
         "descriptionEN": "Communicate with someone by phone.",
         "descriptionRU": "Общаться с кем-то по телефону.",
-        "descriptionDE": "Mit jemandem per Telefon kommunizieren."
+        "descriptionDE": "Mit jemandem per Telefon kommunizieren.",
+        "descriptionTR": "Biriyle telefonla iletişim kurmak.",
+        "descriptionAZ": "Kiminsə ilə telefonla ünsiyyət qurmaq.",
+        "descriptionUK": "Спілкуватися з кимось по телефону."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "Travel through (an unfamiliar area) to learn about it.",
         "descriptionRU": "Путешествовать по (неизвестной местности), чтобы узнать о ней.",
-        "descriptionDE": "Durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen."
+        "descriptionDE": "Durch (ein unbekanntes Gebiet) reisen, um es kennenzulernen.",
+        "descriptionTR": "(Bilinmeyen bir bölgeyi) öğrenmek için seyahat etmek.",
+        "descriptionAZ": "(Tanımadığınız bir ərazini) öyrənmək üçün səyahət etmək.",
+        "descriptionUK": "Подорожувати (незнайомою місцевістю), щоб дізнатися про неї."
     }, {
         "de": "zeigen",
         "en": "to show",
         "ru": "показывать",
+        "tr": "göstermek",
+        "az": "göstərmək",
+        "uk": "показувати",
         "descriptionEN": "Allow (something) to be seen.",
         "descriptionRU": "Позволить чему-либо быть увиденным.",
-        "descriptionDE": "Erlauben, dass etwas gesehen wird."
+        "descriptionDE": "Erlauben, dass etwas gesehen wird.",
+        "descriptionTR": "(Bir şeyin) görülmesine izin vermek.",
+        "descriptionAZ": "(Bir şeyin) görülməsinə icazə vermək.",
+        "descriptionUK": "Дозволити (щось) бути побаченим."
     }, {
         "de": "spannend",
         "en": "exciting",
         "ru": "увлекательный",
+        "tr": "heyecan verici",
+        "az": "həyəcanverici",
+        "uk": "захоплюючий",
         "descriptionEN": "Causing great enthusiasm and eagerness.",
         "descriptionRU": "Вызывающий большой энтузиазм и стремление.",
-        "descriptionDE": "Große Begeisterung und Eifer hervorrufend."
+        "descriptionDE": "Große Begeisterung und Eifer hervorrufend.",
+        "descriptionTR": "Büyük bir heves ve istek uyandıran.",
+        "descriptionAZ": "Böyük bir həvəs və istək oyadan.",
+        "descriptionUK": "Викликає великий ентузіазм і прагнення."
     }, {
         "de": "beeindruckend",
         "en": "impressive",
         "ru": "впечатляющий",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
         "descriptionRU": "Вызывающий восхищение благодаря размеру, качеству или умению.",
-        "descriptionDE": "Bewunderung hervorrufend durch Größe, Qualität oder Können."
+        "descriptionDE": "Bewunderung hervorrufend durch Größe, Qualität oder Können.",
+        "descriptionTR": "Boyut, kalite veya beceriyle hayranlık uyandıran.",
+        "descriptionAZ": "Ölçü, keyfiyyət və ya bacarıqla heyranlıq oyadan.",
+        "descriptionUK": "Викликає захоплення завдяки розміру, якості чи вмінню."
     }, {
         "de": "friedlich",
         "en": "peaceful",
         "ru": "мирный",
+        "tr": "barışçıl",
+        "az": "sülhsevər",
+        "uk": "мирний",
         "descriptionEN": "Free from disturbance; tranquil.",
         "descriptionRU": "Свободный от беспокойства; спокойный.",
-        "descriptionDE": "Frei von Störung; ruhig."
+        "descriptionDE": "Frei von Störung; ruhig.",
+        "descriptionTR": "Rahatsızlıktan uzak; huzurlu.",
+        "descriptionAZ": "Narahatçılıqdan azad; sakit.",
+        "descriptionUK": "Вільний від турбот; спокійний."
     }, {
         "de": "ruhig",
         "en": "quiet",
         "ru": "тихий",
+        "tr": "sessiz",
+        "az": "sakit",
+        "uk": "тихий",
         "descriptionEN": "Making little or no noise.",
         "descriptionRU": "Издающий мало или совсем не издающий шум.",
-        "descriptionDE": "Wenig oder keinen Lärm machen."
+        "descriptionDE": "Wenig oder keinen Lärm machen.",
+        "descriptionTR": "Az veya hiç ses çıkarmayan.",
+        "descriptionAZ": "Az və ya heç səs çıxarmayan.",
+        "descriptionUK": "Видає мало чи зовсім не видає шум."
     }, {
         "de": "zusammen",
         "en": "together",
         "ru": "вместе",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
         "descriptionEN": "With or in proximity to another person or people.",
         "descriptionRU": "С или вблизи другого человека или людей.",
-        "descriptionDE": "Mit oder in der Nähe einer anderen Person oder Personen."
+        "descriptionDE": "Mit oder in der Nähe einer anderen Person oder Personen.",
+        "descriptionTR": "Başka bir kişi veya kişilerle birlikte veya yakınında.",
+        "descriptionAZ": "Başqa bir şəxs və ya insanlarla birlikdə və ya yaxınlığında.",
+        "descriptionUK": "З чи поблизу іншої людини чи людей."
     }
 ]

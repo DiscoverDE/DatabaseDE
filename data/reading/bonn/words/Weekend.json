@@ -3,211 +3,391 @@
         "de": "die Akademie",
         "en": "Academy",
         "ru": "Академия",
+        "tr": "Akademi",
+        "az": "Akademiya",
+        "uk": "Академія",
         "descriptionDE": "Eine Institution höherer Bildung, die sich in der Regel auf ein bestimmtes Studiengebiet spezialisiert.",
         "descriptionEN": "An institution of higher learning, typically specializing in a certain field of study.",
-        "descriptionRU": "Учебное заведение, обычно специализирующееся в определенной области знаний."
+        "descriptionRU": "Учебное заведение, обычно специализирующееся в определенной области знаний.",
+        "descriptionTR": "Genellikle belirli bir çalışma alanında uzmanlaşmış yüksek öğrenim kurumu.",
+        "descriptionAZ": "Adətən müəyyən bir təhsil sahəsində ixtisaslaşmış ali təhsil müəssisəsi.",
+        "descriptionUK": "Навчальний заклад, який зазвичай спеціалізується в певній галузі знань."
     }, {
         "de": "das Heimweh",
         "en": "Homesickness",
         "ru": "Тоска по дому",
+        "tr": "Vatan hasreti",
+        "az": "Vətən həsrəti",
+        "uk": "Туга за домом",
         "descriptionDE": "Ein Gefühl des Verlangens nach dem eigenen Zuhause oder einer vertrauten Umgebung.",
         "descriptionEN": "A feeling of longing for one's home or a familiar environment.",
-        "descriptionRU": "Чувство тоски по дому или знакомой обстановке."
+        "descriptionRU": "Чувство тоски по дому или знакомой обстановке.",
+        "descriptionTR": "Kendi evine veya tanıdık bir ortama duyulan özlem hissi.",
+        "descriptionAZ": "Öz evinə və ya tanış mühitə həsrət hissi.",
+        "descriptionUK": "Почуття туги за домом чи знайомим оточенням."
     }, {
         "de": "die Eltern",
         "en": "Parents",
         "ru": "Родители",
+        "tr": "Ebeveynler",
+        "az": "Valideynlər",
+        "uk": "Батьки",
         "descriptionDE": "Die Mutter und der Vater einer Person.",
         "descriptionEN": "One's mother and father.",
-        "descriptionRU": "Мать и отец человека."
+        "descriptionRU": "Мать и отец человека.",
+        "descriptionTR": "Bir kişinin annesi ve babası.",
+        "descriptionAZ": "Bir şəxsin anası və atası.",
+        "descriptionUK": "Мати та батько людини."
     }, {
         "de": "der Stau",
         "en": "Traffic jam",
         "ru": "Пробка",
+        "tr": "Trafik sıkışıklığı",
+        "az": "Nəqliyyat kəmisi",
+        "uk": "Пробка",
         "descriptionDE": "Eine Situation, in der Fahrzeuge aufgrund von Stauungen langsam oder gestoppt sind.",
         "descriptionEN": "A situation where vehicles are slow or stopped due to congestion.",
-        "descriptionRU": "Ситуация, при которой транспорт двигается медленно или стоит из-за затора."
+        "descriptionRU": "Ситуация, при которой транспорт двигается медленно или стоит из-за затора.",
+        "descriptionTR": "Araçların sıkışıklık nedeniyle yavaşladığı veya durduğu durum.",
+        "descriptionAZ": "Nəqliyyatın sıxışıqlıq səbəbiylə yavaşlaması və ya dayandığı vəziyyət.",
+        "descriptionUK": "Ситуація, коли транспорт рухається повільно або стоїть через затор."
     }, {
         "de": "das Wochenende",
         "en": "Weekend",
         "ru": "Уикенд",
+        "tr": "Hafta sonu",
+        "az": "Həftə sonu",
+        "uk": "Вихідні",
         "descriptionDE": "Der Zeitraum von Freitagabend bis Sonntag, oft eine Zeit der Freizeit.",
         "descriptionEN": "The period from Friday evening through Sunday, often a time of leisure.",
-        "descriptionRU": "Период с пятницы вечером по воскресенье, часто время досуга."
+        "descriptionRU": "Период с пятницы вечером по воскресенье, часто время досуга.",
+        "descriptionTR": "Cuma akşamından Pazar gününe kadar olan süre, genellikle boş zaman.",
+        "descriptionAZ": "Cümə axşamından Bazar gününə qədər olan müddət, çox vaxt boş vaxt.",
+        "descriptionUK": "Період з п'ятниці вечора до неділі, часто час дозвілля."
     }, {
         "de": "die Herbstfarben",
         "en": "Autumn colors",
         "ru": "Осенние краски",
+        "tr": "Sonbahar renkleri",
+        "az": "Payız rəngləri",
+        "uk": "Осінні кольори",
         "descriptionDE": "Die verschiedenen Farbtöne, die mit der Herbstsaison verbunden sind.",
         "descriptionEN": "The various shades of color associated with the autumn season.",
-        "descriptionRU": "Различные оттенки цвета, характерные для осеннего сезона."
+        "descriptionRU": "Различные оттенки цвета, характерные для осеннего сезона.",
+        "descriptionTR": "Sonbahar mevsimiyle ilişkilendirilen çeşitli renk tonları.",
+        "descriptionAZ": "Payız fəsli ilə əlaqəli müxtəlif rəng çalarları.",
+        "descriptionUK": "Різні відтінки кольору, характерні для осіннього сезону."
     }, {
         "de": "die Zugehörigkeit",
         "en": "Belonging",
         "ru": "Принадлежность",
+        "tr": "Aidiyet",
+        "az": "Mənsubiyyət",
+        "uk": "Приналежність",
         "descriptionDE": "Der Zustand, ein Mitglied oder Teil einer Gruppe oder Gemeinschaft zu sein.",
         "descriptionEN": "The state of being a member or part of a group or community.",
-        "descriptionRU": "Состояние являться членом или частью группы или общности."
+        "descriptionRU": "Состояние являться членом или частью группы или общности.",
+        "descriptionTR": "Bir grup veya topluluğun üyesi veya parçası olma durumu.",
+        "descriptionAZ": "Qrupun və ya icmanın üzvü və ya hissəsi olma vəziyyəti.",
+        "descriptionUK": "Стан бути членом або частиною групи чи спільноти."
     }, {
         "de": "die Einsamkeit",
         "en": "Loneliness",
         "ru": "Одиночество",
+        "tr": "Yalnızlık",
+        "az": "Tənhalıq",
+        "uk": "Самотність",
         "descriptionDE": "Der Zustand, sich allein oder isoliert zu fühlen.",
         "descriptionEN": "The state of feeling alone or isolated.",
-        "descriptionRU": "Состояние чувства одиночества или изоляции."
+        "descriptionRU": "Состояние чувства одиночества или изоляции.",
+        "descriptionTR": "Yalnız veya izole hissetme durumu.",
+        "descriptionAZ": "Tək və ya təcrid olunmuş hiss etmə vəziyyəti.",
+        "descriptionUK": "Стан почуття самотності чи ізоляції."
     }, {
         "de": "das Charm",
         "en": "Charm",
         "ru": "Шарм",
+        "tr": "Çekicilik",
+        "az": "Cazibə",
+        "uk": "Шарм",
         "descriptionDE": "Eine zwingende Anziehungskraft oder angenehme Qualität.",
         "descriptionEN": "A compelling attractiveness or pleasant quality.",
-        "descriptionRU": "Привлекательность или приятное качество."
+        "descriptionRU": "Привлекательность или приятное качество.",
+        "descriptionTR": "Çekici bir cazibe veya hoş bir nitelik.",
+        "descriptionAZ": "Cəlbedici bir cazibə və ya xoş keyfiyyət.",
+        "descriptionUK": "Привабливість або приємна якість."
     }, {
         "de": "die Seele",
         "en": "Soul",
         "ru": "Душа",
+        "tr": "Ruh",
+        "az": "Ruh",
+        "uk": "Душа",
         "descriptionDE": "Der spirituelle oder immaterielle Teil eines Menschen.",
         "descriptionEN": "The spiritual or immaterial part of a human being.",
-        "descriptionRU": "Духовная или нематериальная часть человека."
+        "descriptionRU": "Духовная или нематериальная часть человека.",
+        "descriptionTR": "Bir insanın manevi veya maddi olmayan kısmı.",
+        "descriptionAZ": "İnsanın mənəvi və ya maddi olmayan hissəsi.",
+        "descriptionUK": "Духовна чи нематеріальна частина людини."
     }, {
         "de": "das Umfeld",
         "en": "Environment",
         "ru": "Окружение",
+        "tr": "Çevre",
+        "az": "Mühit",
+        "uk": "Оточення",
         "descriptionDE": "Die Umgebung oder Bedingungen, in denen eine Person, ein Tier oder eine Pflanze lebt.",
         "descriptionEN": "The surroundings or conditions in which a person, animal, or plant lives.",
-        "descriptionRU": "Окружающая среда или условия, в которых живет человек, животное или растение."
+        "descriptionRU": "Окружающая среда или условия, в которых живет человек, животное или растение.",
+        "descriptionTR": "Bir kişinin, hayvanın veya bitkinin yaşadığı çevre veya koşullar.",
+        "descriptionAZ": "Bir şəxsin, heyvanın və ya bitkinin yaşadığı mühit və ya şərait.",
+        "descriptionUK": "Оточення чи умови, в яких живе людина, тварина чи рослина."
     }, {
         "de": "die Veränderung",
         "en": "Change",
         "ru": "Изменение",
+        "tr": "Değişim",
+        "az": "Dəyişiklik",
+        "uk": "Зміна",
         "descriptionDE": "Der Prozess oder das Ergebnis, etwas zu verändern.",
         "descriptionEN": "The process or result of making something different.",
-        "descriptionRU": "Процесс или результат изменения чего-то."
+        "descriptionRU": "Процесс или результат изменения чего-то.",
+        "descriptionTR": "Bir şeyi değiştirme süreci veya sonucu.",
+        "descriptionAZ": "Bir şeyi dəyişdirmə prosesi və ya nəticəsi.",
+        "descriptionUK": "Процес або результат зміни чогось."
     }, {
         "de": "entschlossen",
         "en": "determined",
         "ru": "Решительный",
+        "tr": "Kararlı",
+        "az": "Səbirli",
+        "uk": "Рішучий",
         "descriptionDE": "Mit einer festen Entscheidung und dem Engagement, ein bestimmtes Ziel zu erreichen.",
         "descriptionEN": "Having a firm decision and commitment to achieve a specific goal.",
-        "descriptionRU": "Имеющий твердое решение и обязательство достичь определенной цели."
+        "descriptionRU": "Имеющий твердое решение и обязательство достичь определенной цели.",
+        "descriptionTR": "Belirli bir hedefe ulaşmak için sağlam bir karar ve taahhüt sahibi olmak.",
+        "descriptionAZ": "Müəyyən bir məqsədə çatmaq üçün möhkəm qərar və sadiqlik.",
+        "descriptionUK": "Маючи тверде рішення та зобов'язання досягти певної мети."
     }, {
         "de": "das Herz",
         "en": "Heart",
         "ru": "Сердце",
+        "tr": "Kalp",
+        "az": "Ürək",
+        "uk": "Серце",
         "descriptionDE": "Das Organ in Ihrer Brust, das das Blut durch Ihren Körper pumpt.",
         "descriptionEN": "The organ in your chest that sends the blood around your body.",
-        "descriptionRU": "Орган в груди, который направляет кровь по всему телу."
+        "descriptionRU": "Орган в груди, который направляет кровь по всему телу.",
+        "descriptionTR": "Kanı vücudunuzda dolaştıran göğsünüzdeki organ.",
+        "descriptionAZ": "Qanı bədəninizdə dolaşdıran sinənizdəki orqan.",
+        "descriptionUK": "Орган у грудях, який направляє кров по всьому тілу."
     }, {
         "de": "der Vorschlag",
         "en": "Proposal",
         "ru": "Предложение",
+        "tr": "Öneri",
+        "az": "Təklif",
+        "uk": "Пропозиція",
         "descriptionDE": "Ein Vorschlag oder Plan, der von anderen zur Überlegung oder Diskussion vorgelegt wird.",
         "descriptionEN": "A suggestion or plan put forward for consideration or discussion by others.",
-        "descriptionRU": "Предложение или план, выдвигаемый для рассмотрения или обсуждения другими."
+        "descriptionRU": "Предложение или план, выдвигаемый для рассмотрения или обсуждения другими.",
+        "descriptionTR": "Başkalarının değerlendirmesi veya tartışması için sunulan bir öneri veya plan.",
+        "descriptionAZ": "Başqalarının müzakirəsi və ya nəzərdən keçirilməsi üçün irəli sürülən təklif və ya plan.",
+        "descriptionUK": "Пропозиція чи план, що висувається для розгляду чи обговорення іншими."
     }, {
         "de": "die Einladung",
         "en": "Invitation",
         "ru": "Приглашение",
+        "tr": "Davet",
+        "az": "Dəvət",
+        "uk": "Запрошення",
         "descriptionDE": "Eine schriftliche oder mündliche Aufforderung, jemanden einzuladen, irgendwohin zu gehen oder etwas zu tun.",
         "descriptionEN": "A written or verbal request inviting someone to go somewhere or do something.",
-        "descriptionRU": "Письменное или устное приглашение пригласить кого-то куда-то или сделать что-то."
+        "descriptionRU": "Письменное или устное приглашение пригласить кого-то куда-то или сделать что-то.",
+        "descriptionTR": "Birini bir yere gitmeye veya bir şey yapmaya davet eden yazılı veya sözlü istek.",
+        "descriptionAZ": "Birini bir yerə getməyə və ya bir şey etməyə dəvət edən yazılı və ya şifahi istək.",
+        "descriptionUK": "Письмове чи усне запрошення запросити когось кудись або щось зробити."
     }, {
         "de": "die Aussicht",
         "en": "Prospect",
         "ru": "Перспектива",
+        "tr": "Beklenti",
+        "az": "Görünüş",
+        "uk": "Перспектива",
         "descriptionDE": "Die Möglichkeit oder Wahrscheinlichkeit, dass sich in der Zukunft ein Ereignis ereignet.",
         "descriptionEN": "The possibility or likelihood of some future event occurring.",
-        "descriptionRU": "Возможность или вероятность наступления какого-то будущего события."
+        "descriptionRU": "Возможность или вероятность наступления какого-то будущего события.",
+        "descriptionTR": "Gelecekte bir olayın gerçekleşme olasılığı veya ihtimali.",
+        "descriptionAZ": "Gələcəkdə bir hadisənin baş vermə ehtimalı və ya ehtimalı.",
+        "descriptionUK": "Можливість чи ймовірність настання якоїсь майбутньої події."
     }, {
         "de": "Idyllisches",
         "en": "Idyllic",
         "ru": "Идиллический",
+        "tr": "İdil gibi",
+        "az": "İdillik",
+        "uk": "Ідилічний",
         "descriptionDE": "Äußerst glücklich, friedlich oder malerisch.",
         "descriptionEN": "Extremely happy, peaceful, or picturesque.",
-        "descriptionRU": "Чрезвычайно счастливый, мирный или живописный."
+        "descriptionRU": "Чрезвычайно счастливый, мирный или живописный.",
+        "descriptionTR": "Son derece mutlu, huzurlu veya resim gibi.",
+        "descriptionAZ": "Son dərəcə xoşbəxt, sakit və ya rəsm kimi.",
+        "descriptionUK": "Надзвичайно щасливий, мирний чи мальовничий."
     }, {
         "de": "teilen",
         "en": "to share",
         "ru": "делить",
+        "tr": "paylaşmak",
+        "az": "bölüşmək",
+        "uk": "ділити",
         "descriptionDE": "Etwas zwischen zwei oder mehreren Personen aufteilen oder verteilen.",
         "descriptionEN": "To divide or distribute something among two or more people.",
-        "descriptionRU": "Разделить или распределить что-то между двумя или более людьми."
+        "descriptionRU": "Разделить или распределить что-то между двумя или более людьми.",
+        "descriptionTR": "Bir şeyi iki veya daha fazla kişi arasında bölmek veya dağıtmak.",
+        "descriptionAZ": "Bir şeyi iki və ya daha çox şəxs arasında bölmək və ya paylamaq.",
+        "descriptionUK": "Поділити чи розподілити щось між двома чи більше людьми."
     }, {
         "de": "faszinieren",
         "en": "to fascinate",
         "ru": "очаровывать",
+        "tr": "büyülemek",
+        "az": "heyran etmək",
+        "uk": "зачаровувати",
         "descriptionDE": "Die Aufmerksamkeit von jemandem intensiv auf sich ziehen und halten.",
         "descriptionEN": "To attract and hold the interest of someone intensely.",
-        "descriptionRU": "Привлекать и удерживать интерес кого-то интенсивно."
+        "descriptionRU": "Привлекать и удерживать интерес кого-то интенсивно.",
+        "descriptionTR": "Birinin ilgisini yoğun bir şekilde çekmek ve sürdürmek.",
+        "descriptionAZ": "Birinin diqqətini sıx şəkildə cəlb etmək və saxlamaq.",
+        "descriptionUK": "Привертати та утримувати чийсь інтерес інтенсивно."
     }, {
         "de": "kämpfen",
         "en": "to struggle",
         "ru": "бороться",
+        "tr": "mücadele etmek",
+        "az": "mübarizə aparmaq",
+        "uk": "боротися",
         "descriptionDE": "Kräftige Anstrengungen unternehmen, um eine Schwierigkeit oder Herausforderung zu überwinden.",
         "descriptionEN": "To make forceful efforts to overcome a difficulty or challenge.",
-        "descriptionRU": "Приложить усилия для преодоления трудности или вызова."
+        "descriptionRU": "Приложить усилия для преодоления трудности или вызова.",
+        "descriptionTR": "Bir zorluğun veya meydan okumanın üstesinden gelmek için güçlü çabalar sarf etmek.",
+        "descriptionAZ": "Bir çətinliyin və ya çağırışın qarşısını almaq üçün güclü səylər göstərmək.",
+        "descriptionUK": "Докласти зусилля для подолання труднощів чи виклику."
     }, {
         "de": "bemerken",
         "en": "to notice",
         "ru": "замечать",
+        "tr": "fark etmek",
+        "az": "fərqinə varmaq",
+        "uk": "помічати",
         "descriptionDE": "Etwas durch Wahrnehmung beobachten oder bemerken.",
         "descriptionEN": "To observe or become aware of something through perception.",
-        "descriptionRU": "Замечать или осознавать что-то через восприятие."
+        "descriptionRU": "Замечать или осознавать что-то через восприятие.",
+        "descriptionTR": "Algı yoluyla bir şeyi gözlemlemek veya farkına varmak.",
+        "descriptionAZ": "Qavrayış vasitəsilə bir şeyi müşahidə etmək və ya fərqinə varmaq.",
+        "descriptionUK": "Помічати чи усвідомлювати щось через сприйняття."
     }, {
         "de": "machen",
         "en": "to make",
         "ru": "создавать",
+        "tr": "yapmak",
+        "az": "etmək",
+        "uk": "робити",
         "descriptionDE": "Etwas schaffen oder produzieren.",
         "descriptionEN": "To create or produce something.",
-        "descriptionRU": "Создать или произвести что-то."
+        "descriptionRU": "Создать или произвести что-то.",
+        "descriptionTR": "Bir şey yaratmak veya üretmek.",
+        "descriptionAZ": "Bir şey yaratmaq və ya istehsal etmək.",
+        "descriptionUK": "Створити чи зробити щось."
     }, {
         "de": "fahren",
         "en": "to travel",
         "ru": "путешествовать",
+        "tr": "seyahat etmek",
+        "az": "səyahət etmək",
+        "uk": "подорожувати",
         "descriptionDE": "Eine Reise oder Fahrt unternehmen, normalerweise an einen anderen Ort.",
         "descriptionEN": "To go on a journey or trip, typically to another place.",
-        "descriptionRU": "Совершить путешествие, обычно в другое место."
+        "descriptionRU": "Совершить путешествие, обычно в другое место.",
+        "descriptionTR": "Genellikle başka bir yere yolculuk yapmak.",
+        "descriptionAZ": "Adətən başqa bir yerə səyahət etmək.",
+        "descriptionUK": "Здійснити подорож, зазвичай в інше місце."
     }, {
         "de": "erreichen",
         "en": "to reach",
         "ru": "достигать",
+        "tr": "ulaşmak",
+        "az": "çatmaq",
+        "uk": "досягати",
         "descriptionDE": "An einem Ziel oder einem bestimmten Punkt ankommen.",
         "descriptionEN": "To arrive at a destination or a certain point.",
-        "descriptionRU": "Достигнуть места назначения или определенной точки."
+        "descriptionRU": "Достигнуть места назначения или определенной точки.",
+        "descriptionTR": "Bir hedefe veya belirli bir noktaya ulaşmak.",
+        "descriptionAZ": "Bir təyinat yerinə və ya müəyyən bir nöqtəyə çatmaq.",
+        "descriptionUK": "Досягнути місця призначення чи певної точки."
     }, {
         "de": "scheinen",
         "en": "to seem",
         "ru": "казаться",
+        "tr": "görünmek",
+        "az": "görünmək",
+        "uk": "здаватися",
         "descriptionDE": "Den Eindruck erwecken oder auf eine bestimmte Weise erscheinen.",
         "descriptionEN": "To give the impression or appear in a certain way.",
-        "descriptionRU": "Производить впечатление или появляться определенным образом."
+        "descriptionRU": "Производить впечатление или появляться определенным образом.",
+        "descriptionTR": "Bir izlenim vermek veya belirli bir şekilde görünmek.",
+        "descriptionAZ": "Təəssürat yaratmaq və ya müəyyən bir şəkildə görünmək.",
+        "descriptionUK": "Створювати враження чи з'являтися певним чином."
     }, {
         "de": "nehmen",
         "en": "to accept",
         "ru": "принимать",
+        "tr": "kabul etmek",
+        "az": "qəbul etmək",
+        "uk": "приймати",
         "descriptionDE": "Zustimmen, etwas angebotenes zu erhalten oder zu übernehmen.",
         "descriptionEN": "To agree to receive or undertake something offered.",
-        "descriptionRU": "Согласиться получить или взять на себя предложенное."
+        "descriptionRU": "Согласиться получить или взять на себя предложенное.",
+        "descriptionTR": "Sunulan bir şeyi almayı veya üstlenmeyi kabul etmek.",
+        "descriptionAZ": "Təklif olunan bir şeyi almağı və ya öhdəsinə götürməyi qəbul etmək.",
+        "descriptionUK": "Погодитися отримати чи взяти на себе запропоноване."
     }, {
         "de": "empfangen",
         "en": "to receive",
         "ru": "получать",
+        "tr": "almak",
+        "az": "qəbul etmək",
+        "uk": "отримувати",
         "descriptionDE": "Etwas erhalten oder präsentiert bekommen.",
         "descriptionEN": "To be given or presented with something.",
-        "descriptionRU": "Быть дано или предоставлено что-то."
+        "descriptionRU": "Быть дано или предоставлено что-то.",
+        "descriptionTR": "Bir şey verilmek veya sunulmak.",
+        "descriptionAZ": "Bir şey verilmək və ya təqdim olunmaq.",
+        "descriptionUK": "Отримати чи бути наданим щось."
     }, {
         "de": "bleiben",
         "en": "to remain",
         "ru": "оставаться",
+        "tr": "kalmak",
+        "az": "qalmaq",
+        "uk": "залишатися",
         "descriptionDE": "An demselben Ort oder in demselben Zustand bleiben.",
         "descriptionEN": "To stay in the same place or condition.",
-        "descriptionRU": "Остаться в том же месте или состоянии."
+        "descriptionRU": "Остаться в том же месте или состоянии.",
+        "descriptionTR": "Aynı yerde veya durumda kalmak.",
+        "descriptionAZ": "Eyni yerdə və ya vəziyyətdə qalmaq.",
+        "descriptionUK": "Залишитися в тому ж місці чи стані."
     }, {
         "de": "verwandeln",
         "en": "to transform",
         "ru": "преобразовывать",
+        "tr": "dönüştürmek",
+        "az": "çevirmək",
+        "uk": "перетворювати",
         "descriptionDE": "Verändern oder in eine andere Form oder einen anderen Zustand umwandeln.",
         "descriptionEN": "To change or convert into a different form or state.",
-        "descriptionRU": "Измениться или превратиться в другую форму или состояние."
+        "descriptionRU": "Измениться или превратиться в другую форму или состояние.",
+        "descriptionTR": "Farklı bir forma veya duruma değiştirmek veya dönüştürmek.",
+        "descriptionAZ": "Fərqli bir forma və ya vəziyyətə dəyişdirmək və ya çevirmək.",
+        "descriptionUK": "Змінити чи перетворити на іншу форму чи стан."
     }
 ]

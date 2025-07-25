@@ -4,7 +4,10 @@
         "title": {
             "en": "Family Celebration",
             "de": "Familienfeier",
-            "ru": "Семейное торжество"
+            "ru": "Семейное торжество",
+            "tr": "Aile Kutlaması",
+            "uk": "Сімейне святкування",
+            "az": "Ailə Bayramı"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Familienfeier.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Familienfeier.json"
@@ -13,7 +16,10 @@
         "title": {
             "en": "Nature's Haven",
             "de": "Naturparadies",
-            "ru": "Убежище природы"
+            "ru": "Убежище природы",
+            "tr": "Doğanın Cenneti",
+            "uk": "Природний рай",
+            "az": "Təbiət Cənnəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Naturparadies.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Naturparadies.json"
@@ -22,7 +28,10 @@
         "title": {
             "en": "Pizza Dream",
             "de": "Pizzatraum",
-            "ru": "Мечта о пицце"
+            "ru": "Мечта о пицце",
+            "tr": "Pizza Rüyası",
+            "uk": "Мрія про піцу",
+            "az": "Pizza Arzusu"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Pizzatraum.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Pizzatraum.json"
@@ -31,7 +40,10 @@
         "title": {
             "en": "Missis Wilson's Bike",
             "de": "Frau Wilsons Fahrrad",
-            "ru": "Велосипед Фрау Уилсон"
+            "ru": "Велосипед Фрау Уилсон",
+            "tr": "Bayan Wilson’un Bisikleti",
+            "uk": "Велосипед пані Вілсон",
+            "az": "Missis Wilsonun Velosipedi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Radfahren.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Radfahren.json"
@@ -40,7 +52,10 @@
         "title": {
             "en": "Garden Success",
             "de": "Garten Erfolg",
-            "ru": "Успех сада"
+            "ru": "Успех сада",
+            "tr": "Bahçe Başarısı",
+            "uk": "Успіх саду",
+            "az": "Bağ Uğuru"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Tomaten.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Tomaten.json"
@@ -49,7 +64,10 @@
         "title": {
             "en": "New Friend",
             "de": "Neue Freundin",
-            "ru": "Новая подруга"
+            "ru": "Новая подруга",
+            "tr": "Yeni Arkadaş",
+            "uk": "Нова подруга",
+            "az": "Yeni Dost"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Freundin.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Freundin.json"
@@ -58,7 +76,10 @@
         "title": {
             "en": "Lily's Kindness",
             "de": "Lilys Güte",
-            "ru": "Доброта Лили"
+            "ru": "Доброта Лили",
+            "tr": "Lily’nin İyiliği",
+            "uk": "Доброта Лілі",
+            "az": "Lily-nin Mərhəməti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Verlorener.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Verlorener.json"
@@ -67,7 +88,10 @@
         "title": {
             "en": "Dream Job",
             "de": "Traumjob",
-            "ru": "Работа мечты"
+            "ru": "Работа мечты",
+            "tr": "Hayalindeki İş",
+            "uk": "Робота мрії",
+            "az": "Arzu Edilən İş"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Joel.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Joel.json"
@@ -76,7 +100,10 @@
         "title": {
             "en": "Stormy Week",
             "de": "Stürmische Woche",
-            "ru": "Штормовая неделя"
+            "ru": "Штормовая неделя",
+            "tr": "Fırtınalı Hafta",
+            "uk": "Буремний тиждень",
+            "az": "Fırtınalı Həftə"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Stormy.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Stormy.json"
@@ -85,7 +112,10 @@
         "title": {
             "en": "Sophie's Move",
             "de": "Sophies Umzug",
-            "ru": "Переезд Софи"
+            "ru": "Переезд Софи",
+            "tr": "Sophie’nin Taşınması",
+            "uk": "Переїзд Софі",
+            "az": "Sophie-nin Köçü"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Sophie.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Sophie.json"
@@ -94,7 +124,10 @@
         "title": {
             "en": "A Chef's Day",
             "de": "Ein Tag eines Kochs",
-            "ru": "День шеф-повара"
+            "ru": "День шеф-повара",
+            "tr": "Bir Aşçının Günü",
+            "uk": "День кухаря",
+            "az": "Aşbazın Günü"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/KulinarikNew.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Kulinarik.json"
@@ -103,7 +136,10 @@
         "title": {
             "en": "Lena's Journey",
             "de": "Lenas Reise",
-            "ru": "Путешествие Лены"
+            "ru": "Путешествие Лены",
+            "tr": "Lena’nın Yolculuğu",
+            "uk": "Подорож Лени",
+            "az": "Lena-nın Səyahəti"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Lena.png",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Lena.json"
@@ -112,7 +148,10 @@
         "title": {
             "en": "Thomas's Favorites",
             "de": "Thomas' Favoriten",
-            "ru": "Любимое Томаса"
+            "ru": "Любимое Томаса",
+            "tr": "Thomas’ın Favorileri",
+            "uk": "Улюблене Томаса",
+            "az": "Tomasın Sevimliləri"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Thomas.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Thomas.json"
@@ -121,7 +160,10 @@
         "title": {
             "en": "Lily's Adventure",
             "de": "Lilys Abenteuer",
-            "ru": "Приключения Лили"
+            "ru": "Приключения Лили",
+            "tr": "Lily’nin Macerası",
+            "uk": "Пригода Лілі",
+            "az": "Lily-nin Macərası"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Lily.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Lily.json"
@@ -130,7 +172,10 @@
         "title": {
             "en": "Coffee Tradition",
             "de": "Kaffeetradition",
-            "ru": "Традиция кофе"
+            "ru": "Традиция кофе",
+            "tr": "Kahve Geleneği",
+            "uk": "Кавова традиція",
+            "az": "Qəhvə Ənənəsi"
         },
         "image": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/img/Kaffeetradition.jpg",
         "filename": "https://discoverde.github.io/DatabaseDE/data/listening/einfach/words/Kaffeetradition.json"

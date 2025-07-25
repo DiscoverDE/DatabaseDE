@@ -3,190 +3,326 @@
         "de": "der Tag",
         "en": "day",
         "ru": "день",
+        "tr": "gün",
+        "az": "gün",
+        "uk": "день",
+        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang.",
         "descriptionEN": "the time between sunrise and sunset.",
         "descriptionRU": "промежуток времени между восходом и закатом солнца.",
-        "descriptionDE": "die Zeit zwischen Sonnenaufgang und Sonnenuntergang."
+        "descriptionTR": "Gündoğumu ile günbatımı arasındaki zaman.",
+        "descriptionAZ": "Günəşin doğuşu ilə batışı arasındakı vaxt.",
+        "descriptionUK": "період часу між сходом і заходом сонця."
     }, {
         "de": "die Aktivität",
         "en": "activity",
         "ru": "деятельность",
+        "tr": "etkinlik",
+        "az": "fəaliyyət",
+        "uk": "діяльність",
+        "descriptionDE": "der Zustand, in dem Dinge geschehen oder getan werden.",
         "descriptionEN": "the condition in which things are happening or being done.",
         "descriptionRU": "состояние, при котором что-то происходит или выполняется.",
-        "descriptionDE": "der Zustand, in dem Dinge geschehen oder getan werden."
+        "descriptionTR": "Bir şeylerin olduğu veya yapıldığı durum.",
+        "descriptionAZ": "Hadisələrin baş verdiyi və ya bir şeylərin edildiyi vəziyyət.",
+        "descriptionUK": "стан, коли відбуваються або виконуються якісь дії."
     }, {
         "de": "das Wetter",
         "en": "weather",
         "ru": "погода",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "погода",
+        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt hinsichtlich Hitze, Trockenheit, Sonnenschein, Wind, Regen usw.",
         "descriptionEN": "the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
         "descriptionRU": "состояние атмосферы в месте и времени, касающееся тепла, сухости, солнечного света, ветра, дождя и т. д.",
-        "descriptionDE": "der Zustand der Atmosphäre an einem Ort und zu einem Zeitpunkt hinsichtlich Hitze, Trockenheit, Sonnenschein, Wind, Regen usw."
+        "descriptionTR": "Bir yerde ve zamanda, sıcaklık, kuruluk, güneş ışığı, rüzgar, yağmur vb. açısından atmosferin durumu.",
+        "descriptionAZ": "Bir yerdə və zamanda istilik, quruqluq, günəş işığı, külək, yağış və sairə baxımından atmosferin vəziyyəti.",
+        "descriptionUK": "стан атмосфери в певному місці та часі щодо тепла, сухості, сонячного світла, вітру, дощу тощо."
     }, {
         "de": "die Bewegung",
         "en": "movement",
         "ru": "движение",
+        "tr": "hareket",
+        "az": "hərəkət",
+        "uk": "рух",
+        "descriptionDE": "eine Handlung des Wechselns des physischen Standorts oder der Position oder des Habens dieser Änderung.",
         "descriptionEN": "an act of changing physical location or position or of having this changed.",
         "descriptionRU": "действие изменения физического местоположения или положения или имеющее это изменение.",
-        "descriptionDE": "eine Handlung des Wechselns des physischen Standorts oder der Position oder des Habens dieser Änderung."
+        "descriptionTR": "Fiziksel konumun veya pozisyonun değişmesi ya da değişmiş olması eylemi.",
+        "descriptionAZ": "Fiziki mövqeyin və ya vəziyyətin dəyişməsi və ya dəyişdirilməsi hərəkəti.",
+        "descriptionUK": "дія зміни фізичного розташування або позиції чи наявність такої зміни."
     }, {
         "de": "der Hund",
         "en": "dog",
         "ru": "собака",
+        "tr": "köpek",
+        "az": "it",
+        "uk": "собака",
+        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn und eine bellende, heulende oder winselnde Stimme hat.",
         "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.",
         "descriptionRU": "одомашненное хищное млекопитающее, обычно с длинным рылом, острым обонянием и лающим, воющим или скулящим голосом.",
-        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn und eine bellende, heulende oder winselnde Stimme hat."
+        "descriptionTR": "Genellikle uzun bir burun, keskin koku alma duyusu olan ve havlayan, uluyan ya da mızıkçılık yapan sese sahip evcil etçil memeli.",
+        "descriptionAZ": "Adətən uzun burnu, iti iybilmə duyusu və hürən, uluyan və ya mızıldayan səsi olan evcil ətyeyən məməli.",
+        "descriptionUK": "домашній хижий ссавець, який зазвичай має довгий ніс, гострий нюх і голос, що гавкає, виє або скавулить."
     }, {
         "de": "der Ausflug",
         "en": "outing",
         "ru": "поездка",
+        "tr": "gezinti",
+        "az": "gəzinti",
+        "uk": "поїздка",
+        "descriptionDE": "eine kurze Reise zum Vergnügen oder zur Bildung, oft mit einer Gruppe von Menschen und dauert nicht länger als einen Tag.",
         "descriptionEN": "a short trip made for pleasure or education, often with a group of people and lasting no more than a day.",
         "descriptionRU": "короткое путешествие, совершаемое для удовольствия или образования, часто с группой людей и длительностью не более одного дня.",
-        "descriptionDE": "eine kurze Reise zum Vergnügen oder zur Bildung, oft mit einer Gruppe von Menschen und dauert nicht länger als einen Tag."
+        "descriptionTR": "Genellikle bir grup insanla yapılan, zevk veya eğitim amaçlı kısa bir gezinti, bir günden uzun sürmeyecek.",
+        "descriptionAZ": "Adətən bir qrup insanla həyata keçirilən, zövq və ya təhsil üçün qısa səfər, bir gündən çox davam etməyən.",
+        "descriptionUK": "коротка поїздка для задоволення чи навчання, часто з групою людей і тривалістю не більше одного дня."
     }, {
         "de": "die Kamera",
         "en": "camera",
         "ru": "камера",
+        "tr": "kamera",
+        "az": "kamera",
+        "uk": "камера",
+        "descriptionDE": "ein Gerät zur Aufnahme visueller Bilder in Form von Fotografien, Film oder Videosignalen.",
         "descriptionEN": "a device for recording visual images in the form of photographs, film, or video signals.",
         "descriptionRU": "устройство для записи визуальных изображений в форме фотографий, пленки или видеосигналов.",
-        "descriptionDE": "ein Gerät zur Aufnahme visueller Bilder in Form von Fotografien, Film oder Videosignalen."
+        "descriptionTR": "Fotoğraf, film veya video sinyalleri şeklinde görsel görüntü kaydetmeye yarayan cihaz.",
+        "descriptionAZ": "Fotoşəkil, film və ya video siqnalları şəklində vizual görüntüləri qeyd edən cihaz.",
+        "descriptionUK": "пристрій для запису візуальних зображень у вигляді фотографій, фільмів або відеосигналів."
     }, {
         "de": "der Weg",
         "en": "path",
         "ru": "путь",
+        "tr": "yol",
+        "az": "yol",
+        "uk": "шлях",
+        "descriptionDE": "eine Art oder Strecke, die zum Gehen angelegt oder durch kontinuierliches Betreten entstanden ist.",
         "descriptionEN": "a way or track laid down for walking or made by continual treading.",
         "descriptionRU": "путь или тропа, проложенная для ходьбы или созданная постоянным наступлением.",
-        "descriptionDE": "eine Art oder Strecke, die zum Gehen angelegt oder durch kontinuierliches Betreten entstanden ist."
+        "descriptionTR": "Yürümek için yapılmış veya sürekli basılmakla oluşmuş yol ya da patika.",
+        "descriptionAZ": "Gəzinti üçün salınmış və ya davamlı addımlamaqla yaranmış yol və ya cığır.",
+        "descriptionUK": "шлях або стежка, прокладена для ходьби або утворена постійним триманням."
     }, {
         "de": "der Blick",
         "en": "view",
         "ru": "вид",
+        "tr": "görüş",
+        "az": "baxış",
+        "uk": "вид",
+        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld.",
         "descriptionEN": "the ability to see or the range of sight.",
         "descriptionRU": "способность видеть или область зрения.",
-        "descriptionDE": "die Fähigkeit zu sehen oder das Sichtfeld."
+        "descriptionTR": "Görme yeteneği veya görüş alanı.",
+        "descriptionAZ": "Görmə qabiliyyəti və ya görmə sahəsi.",
+        "descriptionUK": "здатність бачити або поле зору."
     }, {
         "de": "die Pflanze",
         "en": "plant",
         "ru": "растение",
+        "tr": "bitki",
+        "az": "bitki",
+        "uk": "рослина",
+        "descriptionDE": "ein lebendes Organismus, wie ihn Bäume, Sträucher, Kräuter, Gräser, Farne und Moose darstellen, der typischerweise an einem dauerhaften Standort wächst, Wasser und anorganische Substanzen durch seine Wurzeln aufnimmt und Nährstoffe in seinen Blättern durch Photosynthese unter Verwendung des grünen Pigments Chlorophyll synthetisiert.",
         "descriptionEN": "a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.",
         "descriptionRU": "живой организм, подобный деревьям, кустарникам, травам, злакам, папоротникам и мхам, обычно растущий на постоянном месте, впитывающий воду и неорганические вещества через корни и синтезирующий питательные вещества в своих листьях путем фотосинтеза с использованием зеленого пигмента хлорофилла.",
-        "descriptionDE": "ein lebendes Organismus, wie ihn Bäume, Sträucher, Kräuter, Gräser, Farne und Moose darstellen, der typischerweise an einem dauerhaften Standort wächst, Wasser und anorganische Substanzen durch seine Wurzeln aufnimmt und Nährstoffe in seinen Blättern durch Photosynthese unter Verwendung des grünen Pigments Chlorophyll synthetisiert."
+        "descriptionTR": "Ağaçlar, çalılar, otlar, çimenler, eğrelti otları ve yosunlar gibi tipik olarak kalıcı bir alanda büyüyen, kökleriyle su ve inorganik maddeleri emip yapraklarında yeşil pigment klorofil kullanarak fotosentezle besin sentezleyen bir canlı organizma.",
+        "descriptionAZ": "Ağaclar, kol-koslar, otlar, otlaqlar, sərv bitkiləri və yosunlarla nümayiş olunan, adətən daimi yerdə böyüyən, kökləri vasitəsilə su və qeyri-üzvi maddələri əmilən və yarpaqlarında yaşıl piqment xlorofil vasitəsilə fotosintez yolu ilə qida sintez edən canlı orqanizm.",
+        "descriptionUK": "живий організм, такий як дерева, кущі, трави, папороті та мохи, що зазвичай росте на постійному місці, поглинає воду та неорганічні речовини через коріння й синтезує поживні речовини в листках за допомогою фотосинтезу з використанням зеленого пігменту хлорофілу."
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
+        "descriptionDE": "ein großer öffentlicher Garten oder ein Gelände, das für Erholungszwecke genutzt wird.",
         "descriptionEN": "a large public garden or area of land used for recreation.",
         "descriptionRU": "большой общественный сад или земельная площадь, используемая для отдыха.",
-        "descriptionDE": "ein großer öffentlicher Garten oder ein Gelände, das für Erholungszwecke genutzt wird."
+        "descriptionTR": "Rekreasyon amaçlı kullanılan büyük bir kamu bahçesi veya arazi alanı.",
+        "descriptionAZ": "İstirahət üçün istifadə olunan böyük ictimai bağ və ya torpaq sahəsi.",
+        "descriptionUK": "великий громадський сад або ділянка землі, що використовується для відпочинку."
     }, {
         "de": "der Genuss",
         "en": "pleasure",
         "ru": "удовольствие",
+        "tr": "zevk",
+        "az": "zövq",
+        "uk": "задоволення",
+        "descriptionDE": "ein Gefühl der glücklichen Zufriedenheit und Freude.",
         "descriptionEN": "a feeling of happy satisfaction and enjoyment.",
         "descriptionRU": "чувство счастливого удовлетворения и наслаждения.",
-        "descriptionDE": "ein Gefühl der glücklichen Zufriedenheit und Freude."
+        "descriptionTR": "Mutlu memnuniyet ve keyif duygusu.",
+        "descriptionAZ": "Xoşbəxtlik, məmnunluq və həzz hissi.",
+        "descriptionUK": "почуття щасливого задоволення та насолоди."
     }, {
         "de": "die Aussicht",
         "en": "view",
         "ru": "вид",
+        "tr": "manzara",
+        "az": "baxış",
+        "uk": "вид",
+        "descriptionDE": "eine Aussicht oder Aussicht, in der Regel von attraktiver Landschaft.",
         "descriptionEN": "a sight or prospect, typically of attractive scenery.",
         "descriptionRU": "вид или перспектива, обычно привлекательного пейзажа.",
-        "descriptionDE": "eine Aussicht oder Aussicht, in der Regel von attraktiver Landschaft."
+        "descriptionTR": "Genellikle çekici manzara olan bir görüş veya görünüm.",
+        "descriptionAZ": "Adətən cəlbedici mənzərə olan bir baxış və ya perspektiv.",
+        "descriptionUK": "вид або перспектива, зазвичай привабливого пейзажу."
     }, {
         "de": "die Brise",
         "en": "breeze",
         "ru": "ветерок",
+        "tr": "esinti",
+        "az": "külək",
+        "uk": "вітерець",
+        "descriptionDE": "eine sanfte Brise.",
         "descriptionEN": "a gentle wind.",
         "descriptionRU": "легкий ветер.",
-        "descriptionDE": "eine sanfte Brise."
+        "descriptionTR": "Hafif bir rüzgar.",
+        "descriptionAZ": "Yumşaq bir külək.",
+        "descriptionUK": "легкий вітерець."
     }, {
         "de": "die Tiere",
         "en": "animals",
         "ru": "животные",
+        "tr": "hayvanlar",
+        "az": "heyvanlar",
+        "uk": "тварини",
+        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt, in der Regel spezialisierte Sinnesorgane und ein Nervensystem hat und schnell auf Reize reagieren kann.",
         "descriptionEN": "a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
         "descriptionRU": "живой организм, который питается органическим веществом, обычно имеющий специализированные органы чувств и нервную систему и способный быстро реагировать на раздражители.",
-        "descriptionDE": "ein lebender Organismus, der sich von organischen Stoffen ernährt, in der Regel spezialisierte Sinnesorgane und ein Nervensystem hat und schnell auf Reize reagieren kann."
+        "descriptionTR": "Organik maddelerle beslenen, genellikle özelleşmiş duyu organları ve sinir sistemi olan ve uyarıcılara hızlı yanıt veren canlı organizma.",
+        "descriptionAZ": "Orqanik maddələrlə qidalanan, adətən ixtisaslaşmış duyğu orqanları və sinir sisteminə malik olan və tez reaksiya verə bilən canlı orqanizm.",
+        "descriptionUK": "живий організм, який живиться органічною речовиною, зазвичай має спеціалізовані органи чуття й нервову систему та здатний швидко реагувати на подразники."
     }, {
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "landşaft",
+        "uk": "пейзаж",
+        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets auf dem Land oder Land, oft im Hinblick auf ihren ästhetischen Reiz betrachtet.",
         "descriptionEN": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
         "descriptionRU": "все видимые особенности района сельской местности или земли, часто рассматриваемые с точки зрения их эстетического привлекательности.",
-        "descriptionDE": "alle sichtbaren Merkmale eines Gebiets auf dem Land oder Land, oft im Hinblick auf ihren ästhetischen Reiz betrachtet."
+        "descriptionTR": "Genellikle estetik çekicilik açısından değerlendirilen, kırsal veya arazi alanının tüm görülebilir özellikleri.",
+        "descriptionAZ": "Adətən estetik cəlbedicilik baxımından nəzərdən keçirilən kənd və ya torpaq sahəsinin bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "усі видимі риси сільської місцевості чи землі, які часто розглядаються з точки зору їхньої естетичної привабливості."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren Nehri",
+        "az": "Reyn çayı",
+        "uk": "Рейн",
+        "descriptionDE": "ein bedeutender europäischer Fluss, der mehr Verkehr befördert als jeder andere Fluss der Welt.",
         "descriptionEN": "a major European river carrying more traffic than any other river in the world.",
         "descriptionRU": "основная европейская река, перевозящая больше трафика, чем любая другая река в мире.",
-        "descriptionDE": "ein bedeutender europäischer Fluss, der mehr Verkehr befördert als jeder andere Fluss der Welt."
+        "descriptionTR": "Dünyadaki diğer nehirlerden daha fazla trafik taşıyan önemli bir Avrupa nehri.",
+        "descriptionAZ": "Dünyadakı digər çaylardan daha çox trafik daşıyan əsas Avropa çayı.",
+        "descriptionUK": "важлива європейська річка, що перевозить більше руху, ніж будь-яка інша річка у світі."
     }, {
         "de": "die Mosel",
         "en": "Mosel",
         "ru": "Мозель",
+        "tr": "Moselle Nehri",
+        "az": "Mozel çayı",
+        "uk": "Мозель",
+        "descriptionDE": "ein Fluss, der von den Vogesen in Nordostfrankreich durch Westdeutschland und Luxemburg in den Rhein fließt.",
         "descriptionEN": "a river flowing from the Vosges mountains in northeastern France through western Germany and Luxembourg into the Rhine.",
         "descriptionRU": "река, текущая из гор Вогезы на сево-востоке Франции через западную Германию и Люксембург в Рейн.",
-        "descriptionDE": "ein Fluss, der von den Vogesen in Nordostfrankreich durch Westdeutschland und Luxemburg in den Rhein fließt."
+        "descriptionTR": "Kuzeydoğu Fransa’daki Vosges dağlarından başlayıp Batı Almanya ve Lüksemburg’dan geçerek Ren Nehri’ne akan bir nehir.",
+        "descriptionAZ": "Şimal-şərqi Fransadakı Vozes dağlarından başlayaraq Qərbi Almaniya və Lüksemburq vasitəsilə Reyn çayına axan çay.",
+        "descriptionUK": "річка, що тече з гір Возьє на північному сході Франції через західну Німеччину та Люксембург у Рейн."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
+        "descriptionDE": "ein großes Gebäude typischerweise aus der mittelalterlichen Zeit, gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Wassergraben befestigt.",
         "descriptionEN": "a large building typically of the medieval period, fortified against attack with thick walls, battlements, towers, and in many cases a moat.",
         "descriptionRU": "большое здание, обычно средневекового периода, укрепленное против нападения с толстыми стенами, бойницами, башнями и во многих случаях рва.",
-        "descriptionDE": "ein großes Gebäude typischerweise aus der mittelalterlichen Zeit, gegen Angriffe mit dicken Mauern, Zinnen, Türmen und in vielen Fällen einem Wassergraben befestigt."
+        "descriptionTR": "Kalın duvarlar, siperler, kuleler ve çoğu zaman hendeğiyle saldırılara karşı güçlendirilmiş genellikle ortaçağ dönemine ait büyük yapı.",
+        "descriptionAZ": "Qalın divarlar, dirək, qüllələr və çox vaxt xəndək ilə hücumlardan qorunan, adətən orta əsr dövrünə aid böyük bina.",
+        "descriptionUK": "велика будівля, зазвичай середньовічного періоду, укріплена товстими стінами, бійницями, вежами і у багатьох випадках ровом для захисту від нападів."
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
+        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden.",
         "descriptionEN": "a plantation of grapevines, typically producing grapes used in winemaking.",
         "descriptionRU": "плантация виноградных лоз, обычно производящая виноград, используемый в виноделии.",
-        "descriptionDE": "eine Plantage von Weinreben, die typischerweise Trauben produziert, die zur Weinherstellung verwendet werden."
+        "descriptionTR": "Genellikle şarap yapımında kullanılan üzümleri yetiştiren üzüm asması plantasyonu.",
+        "descriptionAZ": "Adətən şərab istehsalında istifadə olunan üzüm yetişdirən üzümarter plantaşiyası.",
+        "descriptionUK": "плантація виноградних лоз, зазвичай що виробляє виноград для виноробства."
     }, {
         "de": "die Reise",
         "en": "journey",
         "ru": "путешествие",
+        "tr": "seyahat",
+        "az": "səyahət",
+        "uk": "подорож",
+        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen.",
         "descriptionEN": "an act of traveling from one place to another.",
         "descriptionRU": "действие путешествия из одного места в другое.",
-        "descriptionDE": "eine Handlung des Reisens von einem Ort zum anderen."
-    }, {
-        "de": "die Aussicht",
-        "en": "view",
-        "ru": "вид",
-        "descriptionEN": "a sight or prospect, typically of attractive scenery.",
-        "descriptionRU": "вид или перспектива, обычно привлекательного пейзажа.",
-        "descriptionDE": "eine Aussicht oder Aussicht, in der Regel von attraktiver Landschaft."
+        "descriptionTR": "Bir yerden başka bir yere seyahat etme eylemi.",
+        "descriptionAZ": "Bir yerdən başqa yerə səyahət etmək hərəkəti.",
+        "descriptionUK": "дія подорожі з одного місця в інше."
     }, {
         "de": "der Felsen",
         "en": "rock",
         "ru": "скала",
+        "tr": "kaya",
+        "az": "qaya",
+        "uk": "скеля",
+        "descriptionDE": "eine große raue Masse aus hartem mineralischem Material.",
         "descriptionEN": "a large rugged mass of hard mineral material.",
         "descriptionRU": "большая грубая масса твердого минерального материала.",
-        "descriptionDE": "eine große raue Masse aus hartem mineralischem Material."
+        "descriptionTR": "Sert mineral maddeden oluşan büyük ve pürüzlü kütle.",
+        "descriptionAZ": "Sərt mineral maddədən ibarət böyük və qabıqlı kütlə.",
+        "descriptionUK": "велика груба маса твердого мінерального матеріалу."
     }, {
         "de": "die Herausforderung",
         "en": "challenge",
         "ru": "вызов",
+        "tr": "meydan okuma",
+        "az": "çağırış",
+        "uk": "виклик",
+        "descriptionDE": "ein Aufruf, an einem Wettbewerb oder Wettbewerb teilzunehmen, insbesondere einem Duell.",
         "descriptionEN": "a call to take part in a contest or competition, especially a duel.",
         "descriptionRU": "призыв принять участие в соревновании или соревновании, особенно дуэли.",
-        "descriptionDE": "ein Aufruf, an einem Wettbewerb oder Wettbewerb teilzunehmen, insbesondere einem Duell."
+        "descriptionTR": "Özellikle düello olmak üzere bir yarışmaya veya müsabakaya katılmak için çağrı.",
+        "descriptionAZ": "Xüsusilə duel olmaqla bir yarışmaya və ya müsabiqəyə qatılmaq üçün çağırış.",
+        "descriptionUK": "заклик взяти участь у змаганні чи конкурсі, особливо дуелі."
     }, {
         "de": "die Ruhe",
         "en": "peace",
         "ru": "мир",
+        "tr": "huzur",
+        "az": "sakitlik",
+        "uk": "спокій",
+        "descriptionDE": "Freiheit von Störungen; Ruhe.",
         "descriptionEN": "freedom from disturbance; tranquility.",
         "descriptionRU": "свобода от беспокойства; спокойствие.",
-        "descriptionDE": "Freiheit von Störungen; Ruhe."
-    }, {
-        "de": "der Park",
-        "en": "park",
-        "ru": "парк",
-        "descriptionEN": "a large public garden or area of land used for recreation.",
-        "descriptionRU": "большой общественный сад или земельная площадь, используемая для отдыха.",
-        "descriptionDE": "ein großer öffentlicher Garten oder ein Gelände, das für Erholungszwecke genutzt wird."
+        "descriptionTR": "Rahatsızlıktan özgürlük; dinginlik.",
+        "descriptionAZ": "Narahatlıqdan azadlıq; sakitlik.",
+        "descriptionUK": "свобода від турбот; спокій."
     }, {
         "de": "die Strecke",
         "en": "distance",
         "ru": "расстояние",
+        "tr": "mesafe",
+        "az": "məsafə",
+        "uk": "відстань",
+        "descriptionDE": "eine Menge Raum zwischen zwei Dingen oder Menschen.",
         "descriptionEN": "an amount of space between two things or people.",
         "descriptionRU": "расстояние между двумя вещами или людьми.",
-        "descriptionDE": "eine Menge Raum zwischen zwei Dingen oder Menschen."
+        "descriptionTR": "İki şey veya insan arasındaki mesafe miktarı.",
+        "descriptionAZ": "İki əşya və ya insan arasındakı məsafə miqdarı.",
+        "descriptionUK": "кількість простору між двома речами чи людьми."
     }
 ]

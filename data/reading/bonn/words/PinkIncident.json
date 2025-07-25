@@ -3,197 +3,365 @@
         "de": "der Moment",
         "en": "moment",
         "ru": "момент",
+        "tr": "an",
+        "az": "an",
+        "uk": "момент",
         "descriptionEN": "a very brief period of time.",
         "descriptionRU": "очень короткий период времени.",
-        "descriptionDE": "eine sehr kurze Zeitspanne."
+        "descriptionDE": "eine sehr kurze Zeitspanne.",
+        "descriptionTR": "Çok kısa bir zaman dilimi.",
+        "descriptionAZ": "Çox qısa zaman müddəti.",
+        "descriptionUK": "Дуже короткий період часу."
     }, {
         "de": "die Liebe",
         "en": "love",
         "ru": "любовь",
+        "tr": "aşk",
+        "az": "sevgi",
+        "uk": "любов",
         "descriptionEN": "an intense feeling of deep affection.",
         "descriptionRU": "интенсивное чувство глубокой привязанности.",
-        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung."
+        "descriptionDE": "ein intensives Gefühl tiefer Zuneigung.",
+        "descriptionTR": "Derin sevginin yoğun bir hissi.",
+        "descriptionAZ": "Dərin məhəbbətin güclü hissi.",
+        "descriptionUK": "Інтенсивне почуття глибокої прихильності."
     }, {
         "de": "die Natur",
         "en": "nature",
         "ru": "природа",
+        "tr": "doğa",
+        "az": "təbiət",
+        "uk": "природа",
         "descriptionEN": "the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
         "descriptionRU": "явления физического мира в целом, включая растения, животных, ландшафт и другие особенности и продукты земли, в отличие от людей или человеческих творений.",
-        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen."
+        "descriptionDE": "die Phänomene der physischen Welt insgesamt, einschließlich Pflanzen, Tiere, Landschaft und andere Merkmale und Produkte der Erde, im Gegensatz zu Menschen oder menschlichen Schöpfungen.",
+        "descriptionTR": "İnsanlar veya insan yaratımlarının aksine, bitkiler, hayvanlar, manzara ve yeryüzünün diğer özellikleri ve ürünleri dahil olmak üzere fiziksel dünyanın fenomenleri toplu olarak.",
+        "descriptionAZ": "İnsanlar və ya insan yaradılışlarından fərqli olaraq, bitkilər, heyvanlar, mənzərə və yerin digər xüsusiyyətləri və məhsulları da daxil olmaqla fiziki dünyanın fenomenlərinin toplusu.",
+        "descriptionUK": "Явища фізичного світу в сукупності, включаючи рослини, тварин, ландшафт та інші особливості та продукти землі, на відміну від людей або людських творінь."
     }, {
         "de": "der Beruf",
         "en": "occupation",
         "ru": "профессия",
+        "tr": "meslek",
+        "az": "peşə",
+        "uk": "професія",
         "descriptionEN": "a person's regular work or trade, especially regarded as a means of earning a living.",
         "descriptionRU": "регулярная работа или торговля человека, особенно рассматриваемая как средство заработка на жизнь.",
-        "descriptionDE": "die regelmäßige Arbeit oder der Handel einer Person, insbesondere im Hinblick auf die Möglichkeit, den Lebensunterhalt zu verdienen."
+        "descriptionDE": "die regelmäßige Arbeit oder der Handel einer Person, insbesondere im Hinblick auf die Möglichkeit, den Lebensunterhalt zu verdienen.",
+        "descriptionTR": "Bir kişinin düzenli işi veya ticareti, özellikle geçimini sağlama aracı olarak görülen.",
+        "descriptionAZ": "Bir şəxsin müntəzəm işi və ya ticarəti, xüsusilə dolanışıq vasitəsi kimi baxılan.",
+        "descriptionUK": "Регулярна робота або торгівля людини, особливо розглядувана як засіб заробітку на життя."
     }, {
         "de": "die Leidenschaft",
         "en": "passion",
         "ru": "страсть",
+        "tr": "tutku",
+        "az": "ehtiras",
+        "uk": "пристрасть",
         "descriptionEN": "strong and barely controllable emotion.",
         "descriptionRU": "сильное и едва контролируемое эмоциональное состояние.",
-        "descriptionDE": "starke und kaum kontrollierbare Emotion."
+        "descriptionDE": "starke und kaum kontrollierbare Emotion.",
+        "descriptionTR": "Güçlü ve zar zor kontrol edilebilir duygu.",
+        "descriptionAZ": "Güclü və çətinliklə idarə olunan emosiya.",
+        "descriptionUK": "Сильна і ледь контрольована емоція."
     }, {
         "de": "die Karriere",
         "en": "career",
         "ru": "карьера",
+        "tr": "kariyer",
+        "az": "karyera",
+        "uk": "кар'єра",
         "descriptionEN": "an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
         "descriptionRU": "деятельность, осуществляемая на протяжении значительного периода жизни человека и с возможностями для продвижения.",
-        "descriptionDE": "eine Tätigkeit, die über einen bedeutenden Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritt bietet."
+        "descriptionDE": "eine Tätigkeit, die über einen bedeutenden Zeitraum im Leben einer Person ausgeübt wird und Möglichkeiten für Fortschritt bietet.",
+        "descriptionTR": "Bir kişinin hayatının önemli bir bölümünde üstlendiği ve ilerleme fırsatları sunan meslek.",
+        "descriptionAZ": "Bir şəxsin həyatının əhəmiyyətli bir dövrü ərzində həyata keçirdiyi və inkişaf imkanları təklif edən peşə.",
+        "descriptionUK": "Заняття, яким займаються протягом значного періоду життя людини і з можливостями для прогресу."
     }, {
         "de": "das Ventil",
         "en": "outlet",
         "ru": "выход",
+        "tr": "çıkış",
+        "az": "çıxış",
+        "uk": "вихід",
         "descriptionEN": "a means of expressing one's emotions, energy, or talents.",
         "descriptionRU": "средство выражения своих эмоций, энергии или талантов.",
-        "descriptionDE": "ein Mittel, um seine Emotionen, Energie oder Talente auszudrücken."
+        "descriptionDE": "ein Mittel, um seine Emotionen, Energie oder Talente auszudrücken.",
+        "descriptionTR": "Kişinin duygularını, enerjisini veya yeteneklerini ifade etme aracı.",
+        "descriptionAZ": "Şəxsin emosiyalarını, enerjisini və ya istedadlarını ifadə etmə vasitəsi.",
+        "descriptionUK": "Засіб вираження своїх емоцій, енергії або талантів."
     }, {
         "de": "der Glaube",
         "en": "belief",
         "ru": "вера",
+        "tr": "inanç",
+        "az": "inanc",
+        "uk": "віра",
         "descriptionEN": "an acceptance that something exists or is true, especially one without proof.",
         "descriptionRU": "признание того, что что-то существует или является истиной, особенно без доказательств.",
-        "descriptionDE": "eine Akzeptanz, dass etwas existiert oder wahr ist, insbesondere ohne Beweise."
+        "descriptionDE": "eine Akzeptanz, dass etwas existiert oder wahr ist, insbesondere ohne Beweise.",
+        "descriptionTR": "Bir şeyin var olduğunu veya doğru olduğunu kabul etme, özellikle kanıtsız olanı.",
+        "descriptionAZ": "Bir şeyin mövcud olduğunu və ya doğru olduğunu qəbul etmə, xüsusilə sübutsuz olanı.",
+        "descriptionUK": "Визнання того, що щось існує або є правдою, особливо без доказів."
     }, {
         "de": "die Menschheit",
         "en": "humanity",
         "ru": "человечество",
+        "tr": "insanlık",
+        "az": "bəşəriyyət",
+        "uk": "людство",
         "descriptionEN": "the human race; human beings collectively.",
         "descriptionRU": "человеческая раса; люди в целом.",
-        "descriptionDE": "die menschliche Rasse; Menschen insgesamt."
+        "descriptionDE": "die menschliche Rasse; Menschen insgesamt.",
+        "descriptionTR": "İnsan ırkı; insanlar toplu olarak.",
+        "descriptionAZ": "İnsan irqi; insanlar kollektiv olaraq.",
+        "descriptionUK": "Людська раса; люди в цілому."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
+        "tr": "hayranlık duymak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionEN": "regard (an object, quality, or person) with respect or warm approval.",
         "descriptionRU": "считать (объект, качество или человека) с уважением или теплым одобрением.",
-        "descriptionDE": "etwas mit Respekt oder warmer Zustimmung betrachten (ein Objekt, eine Qualität oder eine Person)."
+        "descriptionDE": "etwas mit Respekt oder warmer Zustimmung betrachten (ein Objekt, eine Qualität oder eine Person).",
+        "descriptionTR": "(Bir nesne, kalite veya kişiyi) saygı veya sıcak onay ile görmek.",
+        "descriptionAZ": "(Bir obyekt, keyfiyyət və ya şəxsi) hörmət və ya isti təsdiq ilə baxmaq.",
+        "descriptionUK": "Ставитися (до об'єкта, якості або особи) з повагою або теплим схваленням."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "take delight or pleasure in (an activity or occasion).",
         "descriptionRU": "радоваться или наслаждаться (деятельностью или случаем).",
-        "descriptionDE": "sich an einer Aktivität oder Gelegenheit erfreuen oder Vergnügen daran haben."
+        "descriptionDE": "sich an einer Aktivität oder Gelegenheit erfreuen oder Vergnügen daran haben.",
+        "descriptionTR": "(Bir aktivite veya durumdan) zevk veya keyif almak.",
+        "descriptionAZ": "(Bir fəaliyyət və ya hadisədən) həzz və ya zövq almaq.",
+        "descriptionUK": "Отримувати задоволення або насолоду від (діяльності або нагоди)."
     }, {
         "de": "spazieren",
         "en": "stroll",
         "ru": "гулять",
+        "tr": "yürüyüş yapmak",
+        "az": "gəzmək",
+        "uk": "прогулюватися",
         "descriptionEN": "walk in a leisurely way.",
         "descriptionRU": "гулять в спокойном темпе.",
-        "descriptionDE": "in gemächlicher Weise gehen."
+        "descriptionDE": "in gemächlicher Weise gehen.",
+        "descriptionTR": "Rahat bir şekilde yürümek.",
+        "descriptionAZ": "Rahat şəkildə gəzmək.",
+        "descriptionUK": "Ходити неквапливо."
     }, {
         "de": "verzweifelt",
         "en": "desperate",
         "ru": "отчаянный",
+        "tr": "umutsuz",
+        "az": "ümidsiz",
+        "uk": "відчайдушний",
         "descriptionEN": "feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.",
         "descriptionRU": "чувство, показ или участие в безнадежном ощущении, что ситуация настолько плоха, что с ней невозможно справиться.",
-        "descriptionDE": "das Gefühl, zu zeigen oder zu beinhalten, dass eine hoffnungslose Situation so schlecht ist, dass sie unmöglich zu bewältigen ist."
+        "descriptionDE": "das Gefühl, zu zeigen oder zu beinhalten, dass eine hoffnungslose Situation so schlecht ist, dass sie unmöglich zu bewältigen ist.",
+        "descriptionTR": "Bir durumun o kadar kötü olduğu ve başa çıkılmasının imkansız olduğu konusunda umutsuz bir his hissetmek, göstermek veya içermek.",
+        "descriptionAZ": "Bir vəziyyətin o qədər pis olduğu və onunla başa çıxmağın mümkünsüz olduğu barədə ümidsiz hiss etmək, göstərmək və ya daxil etmək.",
+        "descriptionUK": "Відчувати, показувати або включати безнадійне відчуття того, що ситуація настільки погана, що з нею неможливо впоратися."
     }, {
         "de": "überwältigt",
         "en": "overwhelmed",
         "ru": "перегруженный",
+        "tr": "bunalmış",
+        "az": "həddindən artıq",
+        "uk": "переповнений",
         "descriptionEN": "bury or drown beneath a huge mass.",
         "descriptionRU": "захоронить или утопить под огромной массой.",
-        "descriptionDE": "unter einer riesigen Masse begraben oder ertränken."
+        "descriptionDE": "unter einer riesigen Masse begraben oder ertränken.",
+        "descriptionTR": "Büyük bir kitle altında gömmek veya boğmak.",
+        "descriptionAZ": "Böyük bir kütlə altında basdırmaq və ya boğmaq.",
+        "descriptionUK": "Поховати або потопити під величезною масою."
     }, {
         "de": "friedlich",
         "en": "peaceful",
         "ru": "мирный",
+        "tr": "huzurlu",
+        "az": "dinc",
+        "uk": "мирний",
         "descriptionEN": "free from disturbance; tranquil.",
         "descriptionRU": "свободный от нарушений; спокойный.",
-        "descriptionDE": "frei von Störungen; ruhig."
+        "descriptionDE": "frei von Störungen; ruhig.",
+        "descriptionTR": "Rahatsızlıktan uzak; sakin.",
+        "descriptionAZ": "Narahatlıqdan azad; sakit.",
+        "descriptionUK": "Вільний від порушень; спокійний."
     }, {
         "de": "unvergesslich",
         "en": "unforgettable",
         "ru": "незабываемый",
+        "tr": "unutulmaz",
+        "az": "unudulmaz",
+        "uk": "незабутній",
         "descriptionEN": "impossible to forget.",
         "descriptionRU": "невозможно забыть.",
-        "descriptionDE": "unmöglich zu vergessen."
+        "descriptionDE": "unmöglich zu vergessen.",
+        "descriptionTR": "Unutmak imkansız.",
+        "descriptionAZ": "Unutmaq mümkünsüz.",
+        "descriptionUK": "Неможливо забути."
     }, {
         "de": "das Picknick",
         "en": "picnic",
         "ru": "пикник",
+        "tr": "piknik",
+        "az": "piknik",
+        "uk": "пікнік",
         "descriptionEN": "an outing or occasion that involves taking a packed meal to be eaten outdoors.",
         "descriptionRU": "поездка или случай, включающий взятие упакованного приема пищи для употребления на свежем воздухе.",
-        "descriptionDE": "ein Ausflug oder eine Gelegenheit, bei der man ein gepacktes Essen mit nach draußen nimmt, um es im Freien zu essen."
+        "descriptionDE": "ein Ausflug oder eine Gelegenheit, bei der man ein gepacktes Essen mit nach draußen nimmt, um es im Freien zu essen.",
+        "descriptionTR": "Dışarıda yenilmek üzere paketlenmiş yemek götürmeyi içeren bir gezi veya durum.",
+        "descriptionAZ": "Açıq havada yemək üçün qablaşdırılmış yemək götürməyi əhatə edən gəzinti və ya hal.",
+        "descriptionUK": "Поїздка або нагода, що включає взяття упакованої їжі для споживання на свіжому повітрі."
     }, {
         "de": "die Panik",
         "en": "panic",
         "ru": "паника",
+        "tr": "panik",
+        "az": "panika",
+        "uk": "паніка",
         "descriptionEN": "sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
         "descriptionRU": "внезапный неконтролируемый страх или беспокойство, часто вызывающие беспорядочное бездумное поведение.",
-        "descriptionDE": "plötzliche unkontrollierbare Angst oder Angst, die oft zu wildem und unüberlegtem Verhalten führt."
+        "descriptionDE": "plötzliche unkontrollierbare Angst oder Angst, die oft zu wildem und unüberlegtem Verhalten führt.",
+        "descriptionTR": "Ani kontrol edilemeyen korku veya kaygı, genellikle çılgınca düşüncesiz davranışlara neden olur.",
+        "descriptionAZ": "Ani idarə olunmayan qorxu və ya narahatlıq, tez-tez vəhşi düşüncəsiz davranışa səbəb olur.",
+        "descriptionUK": "Раптовий неконтрольований страх або тривога, що часто викликає дико нерозумну поведінку."
     }, {
         "de": "vergeblich",
         "en": "in vain",
         "ru": "тщетно",
+        "tr": "boşuna",
+        "az": "boş yerə",
+        "uk": "марно",
         "descriptionEN": "without success or a desired result.",
         "descriptionRU": "без успеха или желаемого результата.",
-        "descriptionDE": "ohne Erfolg oder ein gewünschtes Ergebnis."
+        "descriptionDE": "ohne Erfolg oder ein gewünschtes Ergebnis.",
+        "descriptionTR": "Başarı veya istenen sonuç olmadan.",
+        "descriptionAZ": "Müvəffəqiyyət və ya istənilən nəticə olmadan.",
+        "descriptionUK": "Без успіху або бажаного результату."
     }, {
         "de": "die Hoffnung",
         "en": "hope",
         "ru": "надежда",
+        "tr": "umut",
+        "az": "ümid",
+        "uk": "надія",
         "descriptionEN": "a feeling of expectation and desire for a certain thing to happen.",
         "descriptionRU": "чувство ожидания и желание, чтобы что-то определенное произошло.",
-        "descriptionDE": "ein Gefühl von Erwartung und Wunsch, dass etwas Bestimmtes passiert."
+        "descriptionDE": "ein Gefühl von Erwartung und Wunsch, dass etwas Bestimmtes passiert.",
+        "descriptionTR": "Belirli bir şeyin olması için beklenti ve arzu hissi.",
+        "descriptionAZ": "Müəyyən bir şeyin baş verməsi üçün gözlənti və arzu hissi.",
+        "descriptionUK": "Почуття очікування та бажання, щоб щось певне сталося."
     }, {
         "de": "das Meer",
         "en": "sea",
         "ru": "море",
+        "tr": "deniz",
+        "az": "dəniz",
+        "uk": "море",
         "descriptionEN": "the expanse of salt water that covers most of the earth's surface and surrounds its landmasses.",
         "descriptionRU": "пространство соленой воды, покрывающее большую часть поверхности Земли и окружающее ее суши.",
-        "descriptionDE": "die Ausdehnung von Salzwasser, die den größten Teil der Erdoberfläche bedeckt und ihre Landmassen umgibt."
+        "descriptionDE": "die Ausdehnung von Salzwasser, die den größten Teil der Erdoberfläche bedeckt und ihre Landmassen umgibt.",
+        "descriptionTR": "Dünya yüzeyinin çoğunu kaplayan ve kara kütlelerini çevreleyen tuzlu su genişliği.",
+        "descriptionAZ": "Yer səthinin çox hissəsini örtən və quru kütlələrini əhatə edən duzlu su genişliyi.",
+        "descriptionUK": "Простір солоної води, що покриває більшу частину земної поверхні та оточує її суходоли."
     }, {
         "de": "die Erinnerung",
         "en": "memory",
         "ru": "память",
+        "tr": "hafıza",
+        "az": "yaddaş",
+        "uk": "пам'ять",
         "descriptionEN": "the faculty by which the mind stores and remembers information.",
         "descriptionRU": "способность ума хранить и помнить информацию.",
-        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern."
+        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich zu erinnern.",
+        "descriptionTR": "Zihnin bilgiyi depoladığı ve hatırladığı yetenek.",
+        "descriptionAZ": "Ağılın məlumatı saxladığı və xatırladığı qabiliyyət.",
+        "descriptionUK": "Здатність розуму зберігати та пам'ятати інформацію."
     }, {
         "de": "die Dankbarkeit",
         "en": "gratitude",
         "ru": "благодарность",
+        "tr": "minnettarlık",
+        "az": "minnətdarlıq",
+        "uk": "вдячність",
         "descriptionEN": "the quality of being thankful; readiness to show appreciation for and to return kindness.",
         "descriptionRU": "качество быть благодарным; готовность выразить признательность и отдавать доброту.",
-        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Dankbarkeit zu zeigen und Freundlichkeit zu erwidern."
+        "descriptionDE": "die Qualität, dankbar zu sein; Bereitschaft, Dankbarkeit zu zeigen und Freundlichkeit zu erwidern.",
+        "descriptionTR": "Minnettar olma kalitesi; takdir gösterme ve iyiliği geri verme hazırlığı.",
+        "descriptionAZ": "Minnətdar olma keyfiyyəti; təqdir göstərmək və yaxşılığı geri qaytarmaq hazırlığı.",
+        "descriptionUK": "Якість бути вдячним; готовність виявляти вдячність і віддавати доброту."
     }, {
         "de": "die Träne",
         "en": "tear",
         "ru": "слеза",
+        "tr": "gözyaşı",
+        "az": "göz yaşı",
+        "uk": "сльоза",
         "descriptionEN": "a drop of clear salty liquid secreted by glands in a person's eye when they cry or when the eye is irritated.",
         "descriptionRU": "капля чистой соленой жидкости, выделяемой железами в глазу человека, когда он плачет или когда глаз раздражен.",
-        "descriptionDE": "ein Tropfen klarer salziger Flüssigkeit, der von Drüsen im Auge einer Person abgesondert wird, wenn sie weint oder das Auge gereizt ist."
+        "descriptionDE": "ein Tropfen klarer salziger Flüssigkeit, der von Drüsen im Auge einer Person abgesondert wird, wenn sie weint oder das Auge gereizt ist.",
+        "descriptionTR": "Bir kişi ağladığında veya göz tahriş olduğunda gözdeki bezler tarafından salgılanan berrak tuzlu sıvı damlası.",
+        "descriptionAZ": "Bir şəxs ağladıqda və ya göz qıcıqlandıqda gözdəki vəzilər tərəfindən ifraz olunan şəffaf duzlu maye damcısı.",
+        "descriptionUK": "Крапля прозорої солоної рідини, що виділяється залозами в оці людини, коли вона плаче або коли око подразнене."
     }, {
         "de": "die Albtraum",
         "en": "nightmare",
         "ru": "кошмар",
+        "tr": "kabus",
+        "az": "kabuslu yuxu",
+        "uk": "кошмар",
         "descriptionEN": "a frightening or unpleasant dream.",
         "descriptionRU": "страшный или неприятный сон.",
-        "descriptionDE": "ein beängstigender oder unangenehmer Traum."
+        "descriptionDE": "ein beängstigender oder unangenehmer Traum.",
+        "descriptionTR": "Korkutucu veya hoş olmayan rüya.",
+        "descriptionAZ": "Qorxulu və ya xoşagəlməz yuxu.",
+        "descriptionUK": "Страшний або неприємний сон."
     }, {
         "de": "geraten",
         "en": "get into",
         "ru": "попасть в",
+        "tr": "girmek",
+        "az": "düşmək",
+        "uk": "потрапити в",
         "descriptionEN": "become involved in a difficult situation.",
         "descriptionRU": "попасть в трудную ситуацию.",
-        "descriptionDE": "in eine schwierige Situation geraten."
+        "descriptionDE": "in eine schwierige Situation geraten.",
+        "descriptionTR": "Zor bir duruma dahil olmak.",
+        "descriptionAZ": "Çətin vəziyyətə düşmək.",
+        "descriptionUK": "Потрапити в складну ситуацію."
     }, {
         "de": "bewahren",
         "en": "preserve",
         "ru": "сохранять",
+        "tr": "korumak",
+        "az": "qorumaq",
+        "uk": "зберігати",
         "descriptionEN": "maintain (something) in its original or existing state.",
         "descriptionRU": "сохранять (что-то) в его первоначальном или существующем состоянии.",
-        "descriptionDE": "etwas in seinem ursprünglichen oder vorhandenen Zustand erhalten."
+        "descriptionDE": "etwas in seinem ursprünglichen oder vorhandenen Zustand erhalten.",
+        "descriptionTR": "(Bir şeyi) orijinal veya mevcut durumunda korumak.",
+        "descriptionAZ": "(Bir şeyi) orijinal və ya mövcud vəziyyətində saxlamaq.",
+        "descriptionUK": "Підтримувати (щось) у його первісному або існуючому стані."
     }, {
         "de": "bemühen",
         "en": "strive",
         "ru": "стремиться",
+        "tr": "çabalamak",
+        "az": "çalışmaq",
+        "uk": "прагнути",
         "descriptionEN": "make great efforts to achieve or obtain something.",
         "descriptionRU": "приложить большие усилия для достижения или получения чего-либо.",
-        "descriptionDE": "große Anstrengungen unternehmen, um etwas zu erreichen oder zu erhalten."
+        "descriptionDE": "große Anstrengungen unternehmen, um etwas zu erreichen oder zu erhalten.",
+        "descriptionTR": "Bir şeyi başarmak veya elde etmek için büyük çaba göstermek.",
+        "descriptionAZ": "Bir şeyi əldə etmək və ya nail olmaq üçün böyük səy göstərmək.",
+        "descriptionUK": "Докладати великих зусиль для досягнення або отримання чогось."
     }
 ]

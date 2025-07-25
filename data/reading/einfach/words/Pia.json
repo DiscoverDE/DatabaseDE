@@ -3,176 +3,326 @@
         "de": "die Freizeit",
         "en": "leisure time",
         "ru": "свободное время",
+        "tr": "boş zaman",
+        "az": "asudə vaxt",
+        "uk": "вільний час",
         "descriptionEN": "time when one is not working or occupied; free time.",
         "descriptionRU": "время, когда человек не работает или не занят; свободное время.",
-        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist."
+        "descriptionDE": "Zeit, in der man nicht arbeitet oder beschäftigt ist.",
+        "descriptionTR": "Çalışılmayan veya meşgul olunmayan zaman; boş zaman.",
+        "descriptionAZ": "İşləməyən və ya məşğul olmayan vaxt; boş vaxt.",
+        "descriptionUK": "час, коли людина не працює або не зайнята; вільний час."
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
         "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
         "descriptionRU": "письменное или печатное произведение, состоящее из склеенных или сшитых вместе листов с одной стороны и связанных обложками.",
-        "descriptionDE": "ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die an einer Seite zusammengeklebt oder zusammengenäht und in Umschläge gebunden sind."
+        "descriptionDE": "ein schriftliches oder gedrucktes Werk, bestehend aus Seiten, die an einer Seite zusammengeklebt oder zusammengenäht und in Umschläge gebunden sind.",
+        "descriptionTR": "Bir tarafı boyunca birbirine yapıştırılmış veya dikilmiş ve kapaklarla ciltlenmiş sayfalardan oluşan yazılı veya basılı bir eser.",
+        "descriptionAZ": "Bir tərəfi boyunca yapışdırılmış və ya tikilmiş səhifələrdən ibarət olan və cildlərə cildlənmiş yazılı və ya çap olunmuş əsər.",
+        "descriptionUK": "письмовий або друкований твір, що складається зі сторінок, склеєних або зшитих разом по одному боку та оправлених у обкладинки."
     }, {
         "de": "die Geschichte",
         "en": "story",
         "ru": "история",
+        "tr": "hikaye",
+        "az": "hekayə",
+        "uk": "історія",
         "descriptionEN": "an account of imaginary or real people and events told for entertainment.",
         "descriptionRU": "рассказ о вымышленных или реальных людях и событиях, рассказанный для развлечения.",
-        "descriptionDE": "eine Erzählung von imaginären oder realen Personen und Ereignissen, die zur Unterhaltung erzählt wird."
+        "descriptionDE": "eine Erzählung von imaginären oder realen Personen und Ereignissen, die zur Unterhaltung erzählt wird.",
+        "descriptionTR": "Eğlence amacıyla anlatılan hayali veya gerçek kişilerin ve olayların bir anlatımı.",
+        "descriptionAZ": "Əyləncə üçün danışılan xəyali və ya real insanların və hadisələrin təsviri.",
+        "descriptionUK": "розповідь про уявних або реальних людей та події, розказана для розваги."
     }, {
         "de": "die Märchen",
         "en": "fairy tales",
         "ru": "сказки",
+        "tr": "masallar",
+        "az": "nağıllar",
+        "uk": "казки",
         "descriptionEN": "a children's story about magical and imaginary beings and lands.",
         "descriptionRU": "детская история о волшебных и вымышленных существах и землях.",
-        "descriptionDE": "eine Kindergeschichte über magische und imaginäre Wesen und Länder."
+        "descriptionDE": "eine Kindergeschichte über magische und imaginäre Wesen und Länder.",
+        "descriptionTR": "Sihirli ve hayali varlıklar ile ülkeler hakkında bir çocuk hikayesi.",
+        "descriptionAZ": "Sehrli və xəyali varlıqlar və torpaqlar haqqında uşaq hekayəsi.",
+        "descriptionUK": "дитяча історія про магічних та уявних істот і землі."
     }, {
         "de": "der Abend",
         "en": "evening",
         "ru": "вечер",
+        "tr": "akşam",
+        "az": "axşam",
+        "uk": "вечір",
         "descriptionEN": "the period of time at the end of the day, usually from about 6 p.m. to bedtime.",
         "descriptionRU": "период времени в конце дня, обычно с примерно 18:00 до времени сна.",
-        "descriptionDE": "die Zeit am Ende des Tages, normalerweise von etwa 18:00 Uhr bis zur Schlafenszeit."
+        "descriptionDE": "die Zeit am Ende des Tages, normalerweise von etwa 18:00 Uhr bis zur Schlafenszeit.",
+        "descriptionTR": "Günün sonunda, genellikle akşam 6'dan yatma vaktine kadar olan zaman dilimi.",
+        "descriptionAZ": "Günün sonunda, adətən axşam saat 6-dan yatma vaxtına qədər olan dövr.",
+        "descriptionUK": "період часу наприкінці дня, зазвичай приблизно з 18:00 до часу сну."
     }, {
         "de": "der Park",
         "en": "park",
         "ru": "парк",
+        "tr": "park",
+        "az": "park",
+        "uk": "парк",
         "descriptionEN": "a large public green area in a town used for recreation.",
         "descriptionRU": "большая общественная зеленая зона в городе, используемая для отдыха.",
-        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird."
+        "descriptionDE": "ein großer öffentlicher Grünbereich in einer Stadt, der zur Erholung genutzt wird.",
+        "descriptionTR": "Bir kasabada rekreasyon için kullanılan geniş bir halka açık yeşil alan.",
+        "descriptionAZ": "Bir şəhərdə istirahət üçün istifadə olunan geniş ictimai yaşıl sahə.",
+        "descriptionUK": "велика громадська зелена зона в місті, що використовується для відпочинку."
     }, {
         "de": "der Garten",
         "en": "garden",
         "ru": "сад",
+        "tr": "bahçe",
+        "az": "bağça",
+        "uk": "сад",
         "descriptionEN": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
         "descriptionRU": "участок земли, часто рядом с домом, используемый для выращивания цветов, фруктов или овощей.",
-        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird."
+        "descriptionDE": "ein Stück Land, oft in der Nähe eines Hauses, das zum Anbau von Blumen, Obst oder Gemüse verwendet wird.",
+        "descriptionTR": "Genellikle bir evin yakınında, çiçek, meyve veya sebze yetiştirmek için kullanılan bir arazi parçası.",
+        "descriptionAZ": "Tez-tez evin yaxınlığında, gül, meyvə və ya tərəvəz yetişdirmək üçün istifadə olunan bir sahə.",
+        "descriptionUK": "ділянка землі, часто біля будинку, яка використовується для вирощування квітів, фруктів або овочів."
     }, {
         "de": "die Bank",
         "en": "bench",
         "ru": "скамейка",
+        "tr": "bank",
+        "az": "skamya",
+        "uk": "лавка",
         "descriptionEN": "a long seat for several people, typically made of wood or stone.",
         "descriptionRU": "длинное сиденье для нескольких человек, обычно из дерева или камня.",
-        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen, typischerweise aus Holz oder Stein."
+        "descriptionDE": "eine lange Sitzgelegenheit für mehrere Personen, typischerweise aus Holz oder Stein.",
+        "descriptionTR": "Genellikle ahşap veya taştan yapılmış, birden fazla kişi için uzun bir oturma yeri.",
+        "descriptionAZ": "Adətən taxta və ya daşdan hazırlanmış, bir neçə nəfərlik uzun oturacaq.",
+        "descriptionUK": "довга лавка для кількох людей, зазвичай виготовлена з дерева або каменю."
     }, {
         "de": "die Kurzgeschichte",
         "en": "short story",
         "ru": "рассказ",
+        "tr": "kısa hikaye",
+        "az": "qısa hekayə",
+        "uk": "оповідання",
         "descriptionEN": "a story with a fully developed theme but significantly shorter and less elaborate than a novel.",
         "descriptionRU": "история с разработанной темой, но значительно более короткая и менее развернутая, чем роман.",
-        "descriptionDE": "eine Geschichte mit einem vollständig entwickelten Thema, aber wesentlich kürzer und weniger aufwendig als ein Roman."
+        "descriptionDE": "eine Geschichte mit einem vollständig entwickelten Thema, aber wesentlich kürzer und weniger aufwendig als ein Roman.",
+        "descriptionTR": "Tamamen geliştirilmiş bir temaya sahip, ancak bir romandan önemli ölçüde daha kısa ve daha az ayrıntılı bir hikaye.",
+        "descriptionAZ": "Tam inkişaf etmiş mövzusu olan, lakin romandan əhəmiyyətli dərəcədə qısa və daha az mürəkkəb hekayə.",
+        "descriptionUK": "історія з повністю розробленою темою, але значно коротша і менш розгорнута, ніж роман."
     }, {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
         "descriptionEN": "a person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
         "descriptionRU": "человек, с которым у вас есть связь взаимной любви, обычно исключающая сексуальные или семейные отношения.",
-        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise eine ausschließlich der sexuellen oder familiären Beziehungen."
+        "descriptionDE": "eine Person, mit der man eine Bindung gegenseitiger Zuneigung hat, typischerweise eine ausschließlich der sexuellen oder familiären Beziehungen.",
+        "descriptionTR": "Genellikle cinsel veya aile ilişkileri dışında, karşılıklı sevgi bağı olan bir kişi.",
+        "descriptionAZ": "Bir-biri ilə qarşılıqlı sevgi əlaqəsi olan, adətən cinsi və ya ailə münasibətlərindən kənar bir insan.",
+        "descriptionUK": "людина, з якою є зв'язок взаємної прихильності, як правило, виключаючи сексуальні або сімейні стосунки."
     }, {
         "de": "der Hund",
         "en": "dog",
         "ru": "собака",
+        "tr": "köpek",
+        "az": "it",
+        "uk": "собака",
         "descriptionEN": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractile claws, and a barking, howling, or whining voice.",
         "descriptionRU": "домашнее хищное млекопитающее, которое обычно имеет длинный мордочка, острое обоняние, неретрактируемые когти и лающий, воющий или плачущий голос.",
-        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn, nicht zurückziehbare Krallen und eine bellende, heulende oder weinende Stimme hat."
+        "descriptionDE": "ein domestiziertes fleischfressendes Säugetier, das typischerweise eine lange Schnauze, einen scharfen Geruchssinn, nicht zurückziehbare Krallen und eine bellende, heulende oder weinende Stimme hat.",
+        "descriptionTR": "Genellikle uzun burunlu, keskin koku alma duyusuna, içeri çekilemeyen pençelere ve havlama, uluma veya sızlanma sesine sahip evcilleştirilmiş etçil bir memeli.",
+        "descriptionAZ": "Tipik olaraq uzun burun, kəskin iybilmə qabiliyyəti, geri çəkilməyən caynaqlar və hürmə, ulamə və ya vızıldayan səsi olan evcil ətçil məməli.",
+        "descriptionUK": "одомашнений хижий ссавець, який зазвичай має довгу морду, гострий нюх, невтяжні кігті та гавкаючий, виючий або скиглячий голос."
     }, {
         "de": "der Lachen",
         "en": "laughter",
         "ru": "смех",
+        "tr": "kahkaha",
+        "az": "gülüş",
+        "uk": "сміх",
         "descriptionEN": "the action or sound of laughing.",
         "descriptionRU": "действие или звук смеха.",
-        "descriptionDE": "die Handlung oder der Klang des Lachens."
+        "descriptionDE": "die Handlung oder der Klang des Lachens.",
+        "descriptionTR": "Gülme eylemi veya sesi.",
+        "descriptionAZ": "Gülmək hərəkəti və ya səsi.",
+        "descriptionUK": "дія або звук сміху."
     }, {
         "de": "die Freunde",
         "en": "friends",
         "ru": "друзья",
+        "tr": "arkadaşlar",
+        "az": "dostlar",
+        "uk": "друзі",
         "descriptionEN": "a group of people with whom one has a bond of mutual affection.",
         "descriptionRU": "группа людей, с которыми у вас есть связь взаимной любви.",
-        "descriptionDE": "eine Gruppe von Personen, mit denen man eine Bindung gegenseitiger Zuneigung hat."
+        "descriptionDE": "eine Gruppe von Personen, mit denen man eine Bindung gegenseitiger Zuneigung hat.",
+        "descriptionTR": "Karşılıklı sevgi bağı olan bir grup insan.",
+        "descriptionAZ": "Bir-biri ilə qarşılıqlı sevgi əlaqəsi olan bir qrup insan.",
+        "descriptionUK": "група людей, з якими є зв'язок взаємної прихильності."
     }, {
         "de": "die Zeit",
         "en": "time",
         "ru": "время",
+        "tr": "zaman",
+        "az": "vaxt",
+        "uk": "час",
         "descriptionEN": "the indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
         "descriptionRU": "неопределенное продолжительное продвижение существования и событий в прошлом, настоящем и будущем, рассматриваемое в целом.",
-        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft, der als Ganzes betrachtet wird."
+        "descriptionDE": "der unbestimmte fortgesetzte Fortschritt von Existenz und Ereignissen in der Vergangenheit, Gegenwart und Zukunft, der als Ganzes betrachtet wird.",
+        "descriptionTR": "Geçmişte, şimdiki zamanda ve gelecekte varoluşun ve olayların bir bütün olarak kabul edilen belirsiz devam eden ilerlemesi.",
+        "descriptionAZ": "Keçmişdə, indiki zamanda və gələcəkdə mövcudluğun və hadisələrin bütövlükdə qəbul edilən qeyri-müəyyən davamlı inkişafı.",
+        "descriptionUK": "невизначений безперервний прогрес існування та подій у минулому, теперішньому та майбутньому, що розглядається як єдине ціле."
     }, {
         "de": "die Spaß",
         "en": "fun",
         "ru": "веселье",
+        "tr": "eğlence",
+        "az": "əyləncə",
+        "uk": "розвага",
         "descriptionEN": "enjoyment, amusement, or lighthearted pleasure.",
         "descriptionRU": "удовольствие, развлечение или легкое удовольствие.",
-        "descriptionDE": "Genuss, Unterhaltung oder unbeschwertes Vergnügen."
+        "descriptionDE": "Genuss, Unterhaltung oder unbeschwertes Vergnügen.",
+        "descriptionTR": "Keyif, eğlence veya neşeli zevk.",
+        "descriptionAZ": "Zövq, əyləncə və ya yüngül həzz.",
+        "descriptionUK": "насолода, розвага або безтурботне задоволення."
     }, {
         "de": "lesen",
         "en": "read",
         "ru": "читать",
+        "tr": "okumak",
+        "az": "oxumaq",
+        "uk": "читати",
         "descriptionEN": "to look at and understand the meaning of written or printed matter by interpreting the characters or symbols of which it is composed.",
         "descriptionRU": "смотреть и понимать значение письменного или печатного текста, интерпретируя символы, из которых он состоит.",
-        "descriptionDE": "auf geschriebenes oder gedrucktes Material schauen und seine Bedeutung verstehen, indem man die Zeichen oder Symbole interpretiert, aus denen es besteht."
+        "descriptionDE": "auf geschriebenes oder gedrucktes Material schauen und seine Bedeutung verstehen, indem man die Zeichen oder Symbole interpretiert, aus denen es besteht.",
+        "descriptionTR": "Yazılı veya basılı materyalin anlamını, onu oluşturan karakterleri veya sembolleri yorumlayarak bakmak ve anlamak.",
+        "descriptionAZ": "Yazılı və ya çap edilmiş materialın mənasını, onu təşkil edən simvolları şərh edərək baxmaq və anlamaq.",
+        "descriptionUK": "дивитися та розуміти значення написаного або надрукованого тексту шляхом інтерпретації символів, з яких він складається."
     }, {
         "de": "kommen",
         "en": "come",
         "ru": "приходить",
+        "tr": "gelmek",
+        "az": "gəlmək",
+        "uk": "приходити",
         "descriptionEN": "to move or travel toward or into a place thought of as near or familiar to the speaker.",
         "descriptionRU": "двигаться или путешествовать к месту, рассматриваемому как близкое или знакомое говорящему.",
-        "descriptionDE": "sich in Richtung oder in einen Ort bewegen oder reisen, der vom Sprecher als nahe oder vertraut betrachtet wird."
+        "descriptionDE": "sich in Richtung oder in einen Ort bewegen oder reisen, der vom Sprecher als nahe oder vertraut betrachtet wird.",
+        "descriptionTR": "Konuşmacıya yakın veya tanıdık olarak düşünülen bir yere doğru veya o yere gitmek veya seyahat etmek.",
+        "descriptionAZ": "Natiqə yaxın və ya tanış hesab edilən bir yerə doğru və ya ora getmək, səyahət etmək.",
+        "descriptionUK": "рухатися або подорожувати до місця, яке вважається близьким або знайомим для мовця."
     }, {
         "de": "wohnen",
         "en": "live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "to have one's home in a particular place or with a particular person.",
         "descriptionRU": "иметь свой дом в определенном месте или с определенным человеком.",
-        "descriptionDE": "sein Zuhause an einem bestimmten Ort oder bei einer bestimmten Person haben."
+        "descriptionDE": "sein Zuhause an einem bestimmten Ort oder bei einer bestimmten Person haben.",
+        "descriptionTR": "Birinin evinin belirli bir yerde veya belirli bir kişiyle olması.",
+        "descriptionAZ": "Evini müəyyən bir yerdə və ya müəyyən bir insanla birlikdə saxlamaq.",
+        "descriptionUK": "мати свій дім у певному місці або з певною особою."
     }, {
         "de": "sitzen",
         "en": "sit",
         "ru": "сидеть",
+        "tr": "oturmak",
+        "az": "oturmaq",
+        "uk": "сидіти",
         "descriptionEN": "to rest with the body supported by the buttocks or thighs; be seated.",
         "descriptionRU": "отдыхать, поддерживая тело ягодицами или бедрами; сидеть.",
-        "descriptionDE": "mit dem Körper auf den Gesäß oder Oberschenkeln ruhen; sitzen."
+        "descriptionDE": "mit dem Körper auf den Gesäß oder Oberschenkeln ruhen; sitzen.",
+        "descriptionTR": "Vücudun kalçalar veya uyluklarla desteklenerek dinlenmesi; oturmak.",
+        "descriptionAZ": "Bədəni omba və ya budlarla dəstəkləyərək dincəlmək; oturmaq.",
+        "descriptionUK": "відпочивати, підтримуючи тіло сідницями або стегнами; сидіти."
     }, {
         "de": "spielen",
         "en": "play",
         "ru": "играть",
+        "tr": "oynamak",
+        "az": "oynamaq",
+        "uk": "грати",
         "descriptionEN": "to engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
         "descriptionRU": "заниматься деятельностью для удовольствия и развлечения, а не серьезной или практической цели.",
-        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen, anstatt einem ernsthaften oder praktischen Zweck."
+        "descriptionDE": "sich an einer Aktivität zur Unterhaltung und Erholung beteiligen, anstatt einem ernsthaften oder praktischen Zweck.",
+        "descriptionTR": "Ciddi veya pratik bir amaçtan ziyade keyif ve eğlence için bir etkinliğe katılmak.",
+        "descriptionAZ": "Ciddi və ya praktik bir məqsəddən daha çox əyləncə və istirahət üçün fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "займатися діяльністю для задоволення та відпочинку, а не для серйозної чи практичної мети."
     }, {
         "de": "bringen",
         "en": "bring",
         "ru": "приносить",
+        "tr": "getirmek",
+        "az": "gətirmək",
+        "uk": "приносити",
         "descriptionEN": "to take or go with (someone or something) to a place.",
         "descriptionRU": "взять или пойти с (кем-то или чем-то) в место.",
-        "descriptionDE": "jemanden oder etwas an einen Ort bringen oder mitnehmen."
+        "descriptionDE": "jemanden oder etwas an einen Ort bringen oder mitnehmen.",
+        "descriptionTR": "Birini veya bir şeyi bir yere götürmek veya birlikte gitmek.",
+        "descriptionAZ": "Birini və ya bir şeyi bir yerə aparmaq və ya onunla birlikdə getmək.",
+        "descriptionUK": "брати або йти з (кимсь або чимось) до місця."
     }, {
         "de": "verbringen",
         "en": "spend",
         "ru": "провести",
+        "tr": "geçirmek",
+        "az": "keçirmək",
+        "uk": "провести",
         "descriptionEN": "to pass (time) in a specified way or in a particular place.",
         "descriptionRU": "проводить (время) определенным образом или в определенном месте.",
-        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen."
+        "descriptionDE": "eine bestimmte Zeit oder an einem bestimmten Ort verbringen.",
+        "descriptionTR": "Belirli bir şekilde veya belirli bir yerde (zamanı) geçirmek.",
+        "descriptionAZ": "Müəyyən bir şəkildə və ya müəyyən bir yerdə (vaxt) keçirmək.",
+        "descriptionUK": "проводити (час) певним чином або в певному місці."
     }, {
         "de": "heißen",
         "en": "be named",
         "ru": "называться",
+        "tr": "adlandırılmak",
+        "az": "adlanmaq",
+        "uk": "називатися",
         "descriptionEN": "to have as one's name.",
         "descriptionRU": "иметь в качестве своего имени.",
-        "descriptionDE": "als seinen Namen haben."
+        "descriptionDE": "als seinen Namen haben.",
+        "descriptionTR": "Adı olmak.",
+        "descriptionAZ": "Adı olmaq.",
+        "descriptionUK": "мати як своє ім'я."
     }, {
         "de": "gehen",
         "en": "go",
         "ru": "идти",
+        "tr": "gitmek",
+        "az": "getmək",
+        "uk": "йти",
         "descriptionEN": "to move or proceed, especially to or from a place.",
         "descriptionRU": "двигаться или продолжать, особенно к или от места.",
-        "descriptionDE": "sich bewegen oder weitergehen, insbesondere zu oder von einem Ort."
+        "descriptionDE": "sich bewegen oder weitergehen, insbesondere zu oder von einem Ort.",
+        "descriptionTR": "Hareket etmek veya ilerlemek, özellikle bir yere doğru veya bir yerden.",
+        "descriptionAZ": "Hərəkət etmək və ya irəliləmək, xüsusilə bir yerə və ya bir yerdən.",
+        "descriptionUK": "рухатися або йти, особливо до або від місця."
     }, {
         "de": "lernen",
         "en": "learn",
         "ru": "учить",
+        "tr": "öğrenmek",
+        "az": "öyrənmək",
+        "uk": "навчатися",
         "descriptionEN": "to gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
         "descriptionRU": "приобретать или осваивать знания или навыки в чем-либо путем изучения, опыта или обучения.",
-        "descriptionDE": "Wissen oder Fähigkeiten in etwas durch Studium, Erfahrung oder Unterricht erlangen oder erwerben."
+        "descriptionDE": "Wissen oder Fähigkeiten in etwas durch Studium, Erfahrung oder Unterricht erlangen oder erwerben.",
+        "descriptionTR": "Çalışma, deneyim veya öğretilme yoluyla (bir şeyde) bilgi veya beceri kazanmak veya edinmek.",
+        "descriptionAZ": "Öyrənmə, təcrübə və ya öyrədilməklə (nədəsə) bilik və ya bacarıq əldə etmək.",
+        "descriptionUK": "отримувати або набувати знання або навички (чогось) шляхом навчання, досвіду або викладання."
     }
 ]

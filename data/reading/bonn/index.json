@@ -3,12 +3,18 @@
         "name": {
             "de": "Lebensfreude in Bonn",
             "en": "Joy of Life in Bonn",
-            "ru": "Радость жизни в Бонне"
+            "ru": "Радость жизни в Бонне",
+            "tr": "Bonn'da Yaşam Sevinci", 
+            "az": "Bonn'da Həyat Sevinci", 
+            "uk": "Радість життя в Бонні" 
         },
         "description": {
             "de": "Ein Tag im Leben von Anna",
             "en": "A Day in Anna's Life",
-            "ru": "День в жизни Анны"
+            "ru": "День в жизни Анны",
+            "tr": "Anna'nın Hayatında Bir Gün", 
+            "az": "Annənin Həyatında Bir Gün", 
+            "uk": "День у житті Анни" 
         },
         "level": "A2",
         "image": "Anna.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "de": "Süße Geheimnisse",
             "en": "Sweet Secrets",
-            "ru": "Сладкие тайны"
+            "ru": "Сладкие тайны",
+            "tr": "Tatlı Sırlar", 
+            "az": "Şirin Sirlər", 
+            "uk": "Солодкі таємниці" 
         },
         "description": {
             "de": "Die phantasievolle Süßigkeitenkarte von Maria Schmidt",
             "en": "Maria Schmidt's Whimsical Candy Map",
-            "ru": "Волшебная карта конфет от Марии Шмидт"
+            "ru": "Волшебная карта конфет от Марии Шмидт",
+            "tr": "Maria Schmidt'in Hayalperest Şeker Haritası", 
+            "az": "Maria Şmidtin Fantaziya Konfet Xəritəsi", 
+            "uk": "Чарівна карта цукерок від Марії Шмідт" 
         },
         "level": "A2",
         "image": "Geheimnisse.jpg",
@@ -35,12 +47,18 @@
         "name": {
             "de": "Gesundheitsberatung",
             "en": "Health Consultation",
-            "ru": "Опыт консультации по здоровью"
+            "ru": "Опыт консультации по здоровью",
+            "tr": "Sağlık Danışmanlığı", 
+            "az": "Sağlamlıq Məsləhəti", 
+            "uk": "Консультація зі здоров'я" 
         },
         "description": {
             "de": "Besuch beim Arzt",
             "en": "A Visit to the Doctor",
-            "ru": "Визит к врачу"
+            "ru": "Визит к врачу",
+            "tr": "Doktor Ziyareti", 
+            "az": "Həkim Ziyarəti", 
+            "uk": "Візит до лікаря" 
         },
         "level": "A2",
         "image": "Krankheit.jpg",
@@ -51,12 +69,18 @@
         "name": {
             "de": "Schönes Wochenende",
             "en": "Warm Weekend",
-            "ru": "Теплый выходной"
+            "ru": "Теплый выходной",
+            "tr": "Güzel Hafta Sonu", 
+            "az": "Gözəl Həftə Sonu", 
+            "uk": "Теплий вихідний" 
         },
         "description": {
             "de": "Bonn Rückzug",
             "en": "Bonn Retreat",
-            "ru": "Отдых в Бонне"
+            "ru": "Отдых в Бонне",
+            "tr": "Bonn'da İnziva", 
+            "az": "Bonn'da Təxəllüs", 
+            "uk": "Відпочинок у Бонні" 
         },
         "level": "A2",
         "image": "Weekend.jpg",
@@ -67,12 +91,18 @@
         "name": {
             "de": "Wohnungssuche",
             "en": "Flat search",
-            "ru": "Поиск жилья"
+            "ru": "Поиск жилья",
+            "tr": "Daire Arama", 
+            "az": "Mənzil Axtarışı", 
+            "uk": "Пошук житла" 
         },
         "description": {
             "de": "Annas neue Wohnung",
             "en": "Anna's New Home",
-            "ru": "Новая квартира Анны"
+            "ru": "Новая квартира Анны",
+            "tr": "Anna'nın Yeni Evi", 
+            "az": "Annənin Yeni Evi", 
+            "uk": "Нова квартира Анни" 
         },
         "level": "A2",
         "image": "Wohnung.jpg",
@@ -83,12 +113,18 @@
         "name": {
             "de": "Der rosa Zwischenfall",
             "en": "The Pink Incident",
-            "ru": "Розовый инцидент"
+            "ru": "Розовый инцидент",
+            "tr": "Pembe Olay", 
+            "az": "Çəhrayı Hadisə", 
+            "uk": "Рожевий інцидент" 
         },
         "description": {
             "de": "Die verlorene Geldbörse",
             "en": "The Lost Wallet",
-            "ru": "Потерянный кошелек"
+            "ru": "Потерянный кошелек",
+            "tr": "Kayıp Cüzdan", 
+            "az": "İtirilmiş Pulqabı", 
+            "uk": "Загублений гаманець" 
         },
         "level": "A2",
         "image": "PinkIncident.jpg",
@@ -99,12 +135,18 @@
         "name": {
             "de": "Karnevalsfreude",
             "en": "Carnival joy",
-            "ru": "Радость карнавала"
+            "ru": "Радость карнавала",
+            "tr": "Karnaval Sevinci", 
+            "az": "Karnaval Sevinci", 
+            "uk": "Радість карнавалу" 
         },
         "description": {
             "de": "Bonner Farben",
             "en": "Colors of Bonn",
-            "ru": "Краски Бонна"
+            "ru": "Краски Бонна",
+            "tr": "Bonn'un Renkleri", 
+            "az": "Bonn'un Rəngləri", 
+            "uk": "Кольори Бонна" 
         },
         "level": "B1",
         "image": "Karnevalsfreude.jpg",
@@ -115,12 +157,18 @@
         "name": {
             "de": "Warum Bonn?",
             "en": "Why Bonn?",
-            "ru": "Почему Бонн?"
+            "ru": "Почему Бонн?",
+            "tr": "Neden Bonn?", 
+            "az": "Niyə Bonn?", 
+            "uk": "Чому Бонн?" 
         },
         "description": {
             "de": "Bonner Charme",
             "en": "Charm in Bonn",
-            "ru": "Очарование Бонна"
+            "ru": "Очарование Бонна",
+            "tr": "Bonn'un Cazibesi", 
+            "az": "Bonn'un Cazibəsi", 
+            "uk": "Чарівність Бонна" 
         },
         "level": "A2",
         "image": "Bonn.jpg",
@@ -131,12 +179,18 @@
         "name": {
             "de": "Diamanten und Täuschung",
             "en": "Diamonds and deception",
-            "ru": "Бриллианты и обман"
+            "ru": "Бриллианты и обман",
+            "tr": "Elmaslar ve Aldatma", 
+            "az": "Brilyantlar və Aldatma", 
+            "uk": "Брильянти та обман" 
         },
         "description": {
             "de": "Der letzte Fall von Frank",
             "en": "The last case of Frank",
-            "ru": "Последнее дело Фрэнка"
+            "ru": "Последнее дело Фрэнка",
+            "tr": "Frank'ın Son Davası", 
+            "az": "Frank'ın Son İşi", 
+            "uk": "Остання справа Френка" 
         },
         "level": "B1",
         "image": "Frank.jpg",
@@ -147,12 +201,18 @@
         "name": {
             "de": "Harmonien der Vergangenheit",
             "en": "Harmonies of the Past",
-            "ru": "Гармонии прошлого"
+            "ru": "Гармонии прошлого",
+            "tr": "Geçmişin Uyumu", 
+            "az": "Keçmişin Harmoniyaları", 
+            "uk": "Гармонії минулого" 
         },
         "description": {
             "de": "Eine Rock-Symphonie im Beethoven-Haus",
             "en": "A Rock Symphony in Beethoven's House",
-            "ru": "Рок-симфония в Доме Бетховена"
+            "ru": "Рок-симфония в Доме Бетховена",
+            "tr": "Beethoven'ın Evi'nde Bir Rock Senfonisi", 
+            "az": "Beethoven'ın Evində Rok Simfoniyası", 
+            "uk": "Рок-симфонія в Домі Бетховена" 
         },
         "level": "B1",
         "image": "Rock_Symphony.jpg",
@@ -163,12 +223,18 @@
         "name": {
             "de": "Wandern durch die Geschichte",
             "en": "Hiking through History",
-            "ru": "Путешествие в прошлое"
+            "ru": "Путешествие в прошлое",
+            "tr": "Tarih Boyunca Yürüyüş", 
+            "az": "Tarix Boyu Gəzinti", 
+            "uk": "Подорож у минуле" 
         },
         "description": {
             "de": "Maximilians Wochenendabenteuer",
             "en": "Maximilian's Weekend Adventure",
-            "ru": "Выходные Максимилиана"
+            "ru": "Выходные Максимилиана",
+            "tr": "Maximilian'ın Hafta Sonu Macerası", 
+            "az": "Maksimilyanın Həftə Sonu Macərası", 
+            "uk": "Вихідні Максиміліана" 
         },
         "level": "B2",
         "image": "Wandern.jpg",
@@ -179,12 +245,18 @@
         "name": {
             "de": "Karnevalsfeier",
             "en": "Carnival Celebration",
-            "ru": "Празднование карнавала"
+            "ru": "Празднование карнавала",
+            "tr": "Karnaval Kutlaması", 
+            "az": "Karnaval Bayramı", 
+            "uk": "Святкування карнавалу" 
         },
         "description": {
             "de": "Mein erster Rosenmontag",
             "en": "My first Rosenmontag",
-            "ru": "Мой первый Розенмонтаг"
+            "ru": "Мой первый Розенмонтаг",
+            "tr": "İlk Rosenmontag'ım", 
+            "az": "İlk Rosenmontag'ım", 
+            "uk": "Мій перший Розенмонтаг" 
         },
         "level": "B2",
         "image": "RosenmontagBonn.jpg",
@@ -195,12 +267,18 @@
         "name": {
             "de": "Zugverspätungen",
             "en": "Train Delays",
-            "ru": "Задержки поездов"
+            "ru": "Задержки поездов",
+            "tr": "Tren Gecikmeleri", 
+            "az": "Qatar Gecikmələri", 
+            "uk": "Затримки поїздів" 
         },
         "description": {
             "de": "Matej Nováks Erfahrungen",
             "en": "Matej Novák's Experience",
-            "ru": "Опыт Матея Новака"
+            "ru": "Опыт Матея Новака",
+            "tr": "Matej Novák'ın Deneyimi", 
+            "az": "Matej Novák'ın Təcrübəsi", 
+            "uk": "Досвід Матея Новака" 
         },
         "level": "B2",
         "image": "Zugverspetung.jpg",
@@ -211,12 +289,18 @@
         "name": {
             "de": "COVID mit Beethoven",
             "en": "COVID with Beethoven",
-            "ru": "КОВИД с Бетховеном"
+            "ru": "КОВИД с Бетховеном",
+            "tr": "Beethoven ile COVID", 
+            "az": "Beethoven ilə COVID", 
+            "uk": "COVID з Бетховеном" 
         },
         "description": {
             "de": "Beethovens Museum im Zeitalter des COVID-19",
             "en": "Beethoven's Museum in the Age of COVID-19",
-            "ru": "Музей Бетховена в эпоху COVID-19"
+            "ru": "Музей Бетховена в эпоху COVID-19",
+            "tr": "COVID-19 Çağında Beethoven'ın Müzesi", 
+            "az": "COVID-19 Dövründə Beethoven'ın Muzeyi", 
+            "uk": "Музей Бетховена в епоху COVID-19" 
         },
         "level": "B2",
         "image": "COVID_Beethoven.jpg",
@@ -227,12 +311,18 @@
         "name": {
             "de": "Das Arithmeum ",
             "en": "The Arithmeum",
-            "ru": "Аритмеум"
+            "ru": "Аритмеум",
+            "tr": "Aritmeum", 
+            "az": "Aritmeum", 
+            "uk": "Аритмеум" 
         },
         "description": {
             "de": "Eine Reise durch die Geschichte der Rechenmaschinen",
             "en": "A Journey through the History of Calculating Machines",
-            "ru": "Путешествие по истории вычислительных машин"
+            "ru": "Путешествие по истории вычислительных машин",
+            "tr": "Hesaplama Makinelerinin Tarihine Yolculuk", 
+            "az": "Hesablama Maşınlarının Tarixinə Səyahət", 
+            "uk": "Подорож історією обчислювальних машин" 
         },
         "level": "B2",
         "image": "Arithmeum.jpg",

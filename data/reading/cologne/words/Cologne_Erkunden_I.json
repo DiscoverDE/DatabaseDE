@@ -3,85 +3,157 @@
         "de": "die Geschichte",
         "en": "History",
         "ru": "История",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionDE": "Die Untersuchung vergangener Ereignisse, insbesondere in menschlichen Angelegenheiten.",
         "descriptionEN": "the study of past events, particularly in human affairs.",
-        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах."
+        "descriptionRU": "изучение прошлых событий, особенно в человеческих делах.",
+        "descriptionTR": "Özellikle insani meselelerde geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Xüsusilə insani məsələlərdə keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій, особливо в людських справах."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionDE": "Die Künste und andere Manifestationen menschlicher intellektueller Leistungen.",
         "descriptionEN": "the arts and other manifestations of human intellectual achievement.",
-        "descriptionRU": "искусство и другие проявления человеческих интеллектуальных достижений."
+        "descriptionRU": "искусство и другие проявления человеческих интеллектуальных достижений.",
+        "descriptionTR": "Sanatlar ve insani entelektüel başarının diğer tezahürleri.",
+        "descriptionAZ": "Sənət və insani intellektual nailiyyətlərin digər təzahürləri.",
+        "descriptionUK": "Мистецтво та інші прояви людських інтелектуальних досягнень."
     }, {
         "de": "der Dom",
         "en": "Cathedral",
         "ru": "Собор",
+        "tr": "katedral",
+        "az": "katedral",
+        "uk": "собор",
         "descriptionDE": "Eine große und wichtige Kirche.",
         "descriptionEN": "a large and important church.",
-        "descriptionRU": "большая и важная церковь."
+        "descriptionRU": "большая и важная церковь.",
+        "descriptionTR": "Büyük ve önemli bir kilise.",
+        "descriptionAZ": "Böyük və mühüm kilsə.",
+        "descriptionUK": "Велика та важлива церква."
     }, {
         "de": "die Altstadt",
         "en": "Old Town",
         "ru": "Старый город",
+        "tr": "eski şehir",
+        "az": "köhnə şəhər",
+        "uk": "старе місто",
         "descriptionDE": "Der historische, ältere Teil einer Stadt.",
         "descriptionEN": "the historic, older part of a city.",
-        "descriptionRU": "историческая, старая часть города."
+        "descriptionRU": "историческая, старая часть города.",
+        "descriptionTR": "Bir şehrin tarihi, eski kısmı.",
+        "descriptionAZ": "Şəhərin tarixi, köhnə hissəsi.",
+        "descriptionUK": "Історична, старша частина міста."
     }, {
         "de": "der Rhein",
         "en": "Rhine",
         "ru": "Рейн",
+        "tr": "Ren",
+        "az": "Reyn",
+        "uk": "Рейн",
         "descriptionDE": "Ein bedeutender europäischer Fluss, der durch Westdeutschland fließt.",
         "descriptionEN": "a major European river flowing through Western Germany.",
-        "descriptionRU": "крупная европейская река, протекающая через западную часть Германии."
+        "descriptionRU": "крупная европейская река, протекающая через западную часть Германии.",
+        "descriptionTR": "Batı Almanya'dan akan büyük bir Avrupa nehri.",
+        "descriptionAZ": "Qərbi Almaniyadan axan böyük Avropa çayı.",
+        "descriptionUK": "Велика європейська річка, що протікає через Західну Німеччину."
     }, {
         "de": "der Blick",
         "en": "View",
         "ru": "Вид",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "вид",
         "descriptionDE": "Ein Anblick oder Aussicht, normalerweise von attraktiver natürlicher Landschaft.",
         "descriptionEN": "a sight or prospect, typically of attractive natural scenery.",
-        "descriptionRU": "зрелище или перспектива, обычно привлекательного природного пейзажа."
+        "descriptionRU": "зрелище или перспектива, обычно привлекательного природного пейзажа.",
+        "descriptionTR": "Genellikle çekici doğal manzara olan bir görüntü veya manzara.",
+        "descriptionAZ": "Adətən cəlbedici təbii mənzərə olan görüntü və ya mənzərə.",
+        "descriptionUK": "Вигляд або перспектива, зазвичай привабливого природного пейзажу."
     }, {
         "de": "die Blume",
         "en": "Flower",
         "ru": "Цветок",
+        "tr": "çiçek",
+        "az": "gül",
+        "uk": "квітка",
         "descriptionDE": "Der samenbildende Teil einer Pflanze, oft in lebhaften Farben.",
         "descriptionEN": "the seed-bearing part of a plant, often brightly colored.",
-        "descriptionRU": "плодородная часть растения, часто ярко окрашенная."
+        "descriptionRU": "плодородная часть растения, часто ярко окрашенная.",
+        "descriptionTR": "Bitkinin tohum taşıyan kısmı, genellikle parlak renkli.",
+        "descriptionAZ": "Bitkinin toxum daşıyan hissəsi, adətən parlaq rəngli.",
+        "descriptionUK": "Насіннєносна частина рослини, часто яскраво забарвлена."
     }, {
         "de": "die Pflanze",
         "en": "Plant",
         "ru": "Растение",
+        "tr": "bitki",
+        "az": "bitki",
+        "uk": "рослина",
         "descriptionDE": "Ein lebendes Organismus, wie durch Bäume, Sträucher, Kräuter, Farne usw. verkörpert.",
         "descriptionEN": "a living organism of the kind exemplified by trees, shrubs, herbs, ferns, etc.",
-        "descriptionRU": "живой организм, подобный деревьям, кустам, травам, папоротникам и т. д."
+        "descriptionRU": "живой организм, подобный деревьям, кустам, травам, папоротникам и т. д.",
+        "descriptionTR": "Ağaçlar, çalılar, otlar, eğrelti otları vb. ile örneklenen türden canlı organizma.",
+        "descriptionAZ": "Ağaclar, kollar, otlar, qıjılar və s. ilə nümunələnən növdən canlı orqanizm.",
+        "descriptionUK": "Живий організм такого роду, як дерева, чагарники, трави, папороті тощо."
     }, {
         "de": "erfreuen",
         "en": "enjoy",
         "ru": "наслаждаться",
+        "tr": "keyif almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionDE": "Sich an einer Aktivität oder Gelegenheit erfreuen.",
         "descriptionEN": "take delight or pleasure in an activity or occasion.",
-        "descriptionRU": "наслаждаться удовольствием или удовольствием от занятия или случая."
+        "descriptionRU": "наслаждаться удовольствием или удовольствием от занятия или случая.",
+        "descriptionTR": "Bir aktivite veya fırsattan zevk veya memnuniyet almak.",
+        "descriptionAZ": "Bir fəaliyyət və ya fürsətdən həzz və ya məmnunluq almaq.",
+        "descriptionUK": "Отримувати задоволення або насолоду від діяльності або нагоди."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
+        "tr": "hayranlık duymak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionDE": "Mit Respekt oder warmer Zustimmung betrachten.",
         "descriptionEN": "regard with respect or warm approval.",
-        "descriptionRU": "рассматривать с уважением или теплым одобрением."
+        "descriptionRU": "рассматривать с уважением или теплым одобрением.",
+        "descriptionTR": "Saygı veya sıcak onay ile bakmak.",
+        "descriptionAZ": "Hörmət və ya isti təsdiq ilə baxmaq.",
+        "descriptionUK": "Дивитися з повагою або теплим схваленням."
     }, {
         "de": "kostenlos",
         "en": "free",
         "ru": "бесплатно",
+        "tr": "ücretsiz",
+        "az": "pulsuz",
+        "uk": "безкоштовно",
         "descriptionDE": "Nichts kosten oder berechnen.",
         "descriptionEN": "not costing or charging anything.",
-        "descriptionRU": "не стоит ничего или не берет ничего."
+        "descriptionRU": "не стоит ничего или не берет ничего.",
+        "descriptionTR": "Hiçbir şeye mal olmayan veya ücret almayan.",
+        "descriptionAZ": "Heç nəyə başa gəlməyən və ya ödəniş tələb etməyən.",
+        "descriptionUK": "Не коштує нічого або не стягує плату."
     }, {
         "de": "fantastisch",
         "en": "fantastic",
         "ru": "фантастический",
+        "tr": "fantastik",
+        "az": "fantastik",
+        "uk": "фантастичний",
         "descriptionDE": "Außergewöhnlich gut oder attraktiv.",
         "descriptionEN": "extraordinarily good or attractive.",
-        "descriptionRU": "чрезвычайно хороший или привлекательный."
+        "descriptionRU": "чрезвычайно хороший или привлекательный.",
+        "descriptionTR": "Olağanüstü iyi veya çekici.",
+        "descriptionAZ": "Fövqəladə yaxşı və ya cəlbedici.",
+        "descriptionUK": "Надзвичайно хороший або привабливий."
     }
 ]

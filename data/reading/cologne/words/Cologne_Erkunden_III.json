@@ -3,85 +3,157 @@
         "de": "das Gebäude",
         "en": "Building",
         "ru": "Здание",
+        "tr": "bina",
+        "az": "bina",
+        "uk": "будівля",
         "descriptionEN": "A structure with a roof and walls, such as a house or factory.",
         "descriptionRU": "Строение с крышей и стенами, такое как дом или завод.",
-        "descriptionDE": "eine Struktur mit einem Dach und Wänden, wie ein Haus oder eine Fabrik."
+        "descriptionDE": "eine Struktur mit einem Dach und Wänden, wie ein Haus oder eine Fabrik.",
+        "descriptionTR": "Ev veya fabrika gibi çatısı ve duvarları olan yapı.",
+        "descriptionAZ": "Ev və ya fabrik kimi damı və divarları olan quruluş.",
+        "descriptionUK": "Структура з дахом і стінами, така як будинок або фабрика."
     }, {
         "de": "die Gasse",
         "en": "Alley",
         "ru": "Переулок",
+        "tr": "geçit",
+        "az": "keçid",
+        "uk": "провулок",
         "descriptionEN": "A narrow passageway between or behind buildings, often pedestrian-only.",
         "descriptionRU": "Узкий проход между или за зданиями, часто только для пешеходов.",
-        "descriptionDE": "ein schmaler Durchgang zwischen oder hinter Gebäuden, oft nur für Fußgänger."
+        "descriptionDE": "ein schmaler Durchgang zwischen oder hinter Gebäuden, oft nur für Fußgänger.",
+        "descriptionTR": "Binalar arasında veya arkasında dar geçit, genellikle sadece yayalar için.",
+        "descriptionAZ": "Binalar arasında və ya arxasında dar keçid, adətən yalnız piyadalar üçün.",
+        "descriptionUK": "Вузький прохід між або за будівлями, часто тільки для пішоходів."
     }, {
         "de": "die Kathedrale",
         "en": "Cathedral",
         "ru": "Собор",
+        "tr": "katedral",
+        "az": "katedral",
+        "uk": "собор",
         "descriptionEN": "A large and important Christian church, typically with Gothic architecture.",
         "descriptionRU": "Большая и важная христианская церковь, обычно с готической архитектурой.",
-        "descriptionDE": "eine große und bedeutende christliche Kirche, normalerweise mit gotischer Architektur."
+        "descriptionDE": "eine große und bedeutende christliche Kirche, normalerweise mit gotischer Architektur.",
+        "descriptionTR": "Genellikle Gotik mimariye sahip büyük ve önemli Hristiyan kilisesi.",
+        "descriptionAZ": "Adətən Qotik memarlığa malik böyük və mühüm xristian kilsəsi.",
+        "descriptionUK": "Велика та важлива християнська церква, зазвичай з готичною архітектурою."
     }, {
         "de": "der Turm",
         "en": "Tower",
         "ru": "Башня",
+        "tr": "kule",
+        "az": "qüllə",
+        "uk": "вежа",
         "descriptionEN": "A tall structure, often freestanding, used for various purposes.",
         "descriptionRU": "Высокая конструкция, часто самостоятельно стоящая, используемая для различных целей.",
-        "descriptionDE": "eine hohe Struktur, oft freistehend, für verschiedene Zwecke verwendet."
+        "descriptionDE": "eine hohe Struktur, oft freistehend, für verschiedene Zwecke verwendet.",
+        "descriptionTR": "Genellikle bağımsız duran, çeşitli amaçlar için kullanılan yüksek yapı.",
+        "descriptionAZ": "Adətən müstəqil duran, müxtəlif məqsədlər üçün istifadə olunan hündür quruluş.",
+        "descriptionUK": "Висока структура, часто окремо стояча, що використовується для різних цілей."
     }, {
         "de": "die Loggia",
         "en": "Loggia",
         "ru": "Лоджия",
+        "tr": "loggia",
+        "az": "loggia",
+        "uk": "лоджія",
         "descriptionEN": "An architectural feature, a gallery or room with one or more open sides.",
         "descriptionRU": "Архитектурный элемент, галерея или комната с одним или несколькими открытыми сторонами.",
-        "descriptionDE": "ein architektonisches Merkmal, eine Galerie oder ein Raum mit einer oder mehreren offenen Seiten."
+        "descriptionDE": "ein architektonisches Merkmal, eine Galerie oder ein Raum mit einer oder mehreren offenen Seiten.",
+        "descriptionTR": "Bir veya daha fazla açık tarafı olan galeri veya oda olan mimari özellik.",
+        "descriptionAZ": "Bir və ya daha çox açıq tərəfi olan qalereya və ya otaq olan memarlıq xüsusiyyəti.",
+        "descriptionUK": "Архітектурна особливість, галерея або кімната з однією або кількома відкритими сторонами."
     }, {
         "de": "erkunden",
         "en": "Explore",
         "ru": "Исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel through an unfamiliar area in order to learn about it.",
         "descriptionRU": "Проходить через незнакомую территорию с целью изучения.",
-        "descriptionDE": "durch ein unbekanntes Gebiet reisen, um es kennenzulernen."
+        "descriptionDE": "durch ein unbekanntes Gebiet reisen, um es kennenzulernen.",
+        "descriptionTR": "Hakkında bilgi edinmek için tanımadığınız bir bölgede seyahat etmek.",
+        "descriptionAZ": "Haqqında məlumat əldə etmək üçün tanımadığınız ərazidə səyahət etmək.",
+        "descriptionUK": "Подорожувати незнайомою місцевістю, щоб дізнатися про неї."
     }, {
         "de": "genießen",
         "en": "Enjoy",
         "ru": "Наслаждаться",
+        "tr": "keyif almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "To take pleasure or satisfaction in an activity or experience.",
         "descriptionRU": "Испытывать удовольствие или удовлетворение от деятельности или опыта.",
-        "descriptionDE": "Freude oder Befriedigung an einer Aktivität oder Erfahrung empfinden."
+        "descriptionDE": "Freude oder Befriedigung an einer Aktivität oder Erfahrung empfinden.",
+        "descriptionTR": "Bir aktivite veya deneyimden zevk veya memnuniyet almak.",
+        "descriptionAZ": "Bir fəaliyyət və ya təcrübədən həzz və ya məmnunluq almaq.",
+        "descriptionUK": "Отримувати задоволення або задоволення від діяльності або досвіду."
     }, {
         "de": "bewundern",
         "en": "Admire",
         "ru": "Восхищаться",
+        "tr": "hayranlık duymak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
         "descriptionEN": "To regard with respect, approval, or pleasure.",
         "descriptionRU": "Рассматривать с уважением, одобрением или удовольствием.",
-        "descriptionDE": "mit Respekt, Zustimmung oder Freude betrachten."
+        "descriptionDE": "mit Respekt, Zustimmung oder Freude betrachten.",
+        "descriptionTR": "Saygı, onay veya zevkle bakmak.",
+        "descriptionAZ": "Hörmət, təsdiq və ya həzz ilə baxmaq.",
+        "descriptionUK": "Дивитися з повагою, схваленням або задоволенням."
     }, {
         "de": "historisch",
         "en": "Historic",
         "ru": "Исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Relating to the past, especially the history of a place or thing.",
         "descriptionRU": "Относящийся к прошлому, особенно к истории места или вещи.",
-        "descriptionDE": "sich auf die Vergangenheit beziehen, insbesondere auf die Geschichte eines Ortes oder Dinges."
+        "descriptionDE": "sich auf die Vergangenheit beziehen, insbesondere auf die Geschichte eines Ortes oder Dinges.",
+        "descriptionTR": "Geçmişle, özellikle bir yerin veya şeyin tarihiyle ilgili.",
+        "descriptionAZ": "Keçmişlə, xüsusilə bir yerin və ya şeyin tarixi ilə əlaqəli.",
+        "descriptionUK": "Що стосується минулого, особливо історії місця або речі."
     }, {
         "de": "zahlreich",
         "en": "Numerous",
         "ru": "Многочисленный",
+        "tr": "çok sayıda",
+        "az": "çoxsaylı",
+        "uk": "численний",
         "descriptionEN": "A large number or quantity of something.",
         "descriptionRU": "Большое количество чего-то.",
-        "descriptionDE": "eine große Anzahl oder Menge von etwas."
+        "descriptionDE": "eine große Anzahl oder Menge von etwas.",
+        "descriptionTR": "Bir şeyin büyük sayısı veya miktarı.",
+        "descriptionAZ": "Bir şeyin böyük sayısı və ya miqdarı.",
+        "descriptionUK": "Велика кількість або кількість чогось."
     }, {
         "de": "beeindruckend",
         "en": "Impressive",
         "ru": "Впечатляющий",
+        "tr": "etkileyici",
+        "az": "təsirli",
+        "uk": "вражаючий",
         "descriptionEN": "Evoking admiration through size, quality, or skill.",
         "descriptionRU": "Вызывающий восхищение размером, качеством или мастерством.",
-        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufen."
+        "descriptionDE": "Bewunderung durch Größe, Qualität oder Geschick hervorrufen.",
+        "descriptionTR": "Boyut, kalite veya beceri yoluyla hayranlık uyandıran.",
+        "descriptionAZ": "Ölçü, keyfiyyət və ya bacarıq vasitəsilə heyranlıq oyadan.",
+        "descriptionUK": "Що викликає захоплення розміром, якістю або майстерністю."
     }, {
         "de": "abwechslungsreich",
         "en": "Varied",
         "ru": "Разнообразный",
+        "tr": "çeşitli",
+        "az": "müxtəlif",
+        "uk": "різноманітний",
         "descriptionEN": "Diverse and having a range of different elements.",
         "descriptionRU": "Разнообразный и имеющий различные элементы.",
-        "descriptionDE": "vielfältig und mit einer Vielzahl von verschiedenen Elementen."
+        "descriptionDE": "vielfältig und mit einer Vielzahl von verschiedenen Elementen.",
+        "descriptionTR": "Çeşitli ve farklı unsurların bir aralığına sahip.",
+        "descriptionAZ": "Müxtəlif və fərqli elementlərin bir sırasına malik.",
+        "descriptionUK": "Різноманітний і має ряд різних елементів."
     }
 ]

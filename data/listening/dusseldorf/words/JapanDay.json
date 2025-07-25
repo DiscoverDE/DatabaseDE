@@ -1,130 +1,237 @@
 [
-
     {
         "de": "der Besucher",
         "en": "visitor",
         "ru": "посетитель",
+        "tr": "ziyaretçi",
+        "az": "ziyarətçi",
+        "uk": "відвідувач",
         "descriptionEN": "someone who visits a person or place",
         "descriptionRU": "человек, который посещает кого-то или что-то",
-        "descriptionDE": "jemand, der eine Person oder einen Ort besucht"
+        "descriptionDE": "jemand, der eine Person oder einen Ort besucht",
+        "descriptionTR": "bir kişiyi veya yeri ziyaret eden biri",
+        "descriptionAZ": "bir şəxsi və ya yeri ziyarət edən kimsə",
+        "descriptionUK": "людина, яка відвідує когось або щось"
     }, {
         "de": "die Veranstaltung",
         "en": "event",
         "ru": "событие",
+        "tr": "etkinlik",
+        "az": "tədbir",
+        "uk": "подія",
         "descriptionEN": "a planned public or social occasion",
         "descriptionRU": "запланированное публичное или социальное мероприятие",
-        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Veranstaltung"
+        "descriptionDE": "eine geplante öffentliche oder gesellschaftliche Veranstaltung",
+        "descriptionTR": "planlanmış bir halka açık veya sosyal etkinlik",
+        "descriptionAZ": "planlaşdırılmış ictimai və ya sosial tədbir",
+        "descriptionUK": "запланована публічна або соціальна подія"
     }, {
         "de": "der Aspekt",
         "en": "aspect",
         "ru": "аспект",
+        "tr": "bakış açısı",
+        "az": "aspekt",
+        "uk": "аспект",
         "descriptionEN": "a particular part or feature of something",
         "descriptionRU": "особая часть или характеристика чего-то",
-        "descriptionDE": "ein bestimmter Teil oder Aspekt von etwas"
+        "descriptionDE": "ein bestimmter Teil oder Aspekt von etwas",
+        "descriptionTR": "bir şeyin belirli bir parçası veya özelliği",
+        "descriptionAZ": "bir şeyin xüsusi hissəsi və ya xüsusiyyəti",
+        "descriptionUK": "особлива частина або характеристика чогось"
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionEN": "the arts and other manifestations of human intellectual achievement regarded collectively",
         "descriptionRU": "искусство и другие проявления интеллектуальных достижений человека, рассматриваемые в совокупности",
-        "descriptionDE": "die Künste und andere Manifestationen menschlicher geistiger Leistungen, die kollektiv betrachtet werden"
+        "descriptionDE": "die Künste und andere Manifestationen menschlicher geistiger Leistungen, die kollektiv betrachtet werden",
+        "descriptionTR": "toplu olarak değerlendirilen sanatlar ve diğer insan entelektüel başarı tezahürleri",
+        "descriptionAZ": "kollektiv şəkildə nəzərə alınan incəsənət və digər insan intellektual nailiyyət təzahürləri",
+        "descriptionUK": "мистецтво та інші прояви інтелектуальних досягнень людини, що розглядаються сукупно"
     }, {
         "de": "der Anstieg",
         "en": "increase",
         "ru": "увеличение",
+        "tr": "artış",
+        "az": "artım",
+        "uk": "збільшення",
         "descriptionEN": "a rise in amount, number, or level",
         "descriptionRU": "повышение количества, числа или уровня",
-        "descriptionDE": "ein Anstieg der Menge, Zahl oder Ebene"
+        "descriptionDE": "ein Anstieg der Menge, Zahl oder Ebene",
+        "descriptionTR": "miktar, sayı veya seviyede yükselme",
+        "descriptionAZ": "miqdar, say və ya səviyyədə artım",
+        "descriptionUK": "підвищення кількості, числа або рівня"
     }, {
         "de": "der Einfluss",
         "en": "influence",
         "ru": "влияние",
+        "tr": "etki",
+        "az": "təsir",
+        "uk": "вплив",
         "descriptionEN": "the capacity to have an effect on the character, development, or behavior of someone or something",
         "descriptionRU": "способность оказывать воздействие на характер, развитие или поведение кого-то или чего-то",
-        "descriptionDE": "die Fähigkeit, einen Einfluss auf den Charakter, die Entwicklung oder das Verhalten von jemandem oder etwas zu haben"
+        "descriptionDE": "die Fähigkeit, einen Einfluss auf den Charakter, die Entwicklung oder das Verhalten von jemandem oder etwas zu haben",
+        "descriptionTR": "birinin veya bir şeyin karakteri, gelişimi veya davranışı üzerinde etki yapma kapasitesi",
+        "descriptionAZ": "kiminsə və ya nəyinsə xarakterinə, inkişafına və ya davranışına təsir etmək qabiliyyəti",
+        "descriptionUK": "здатність впливати на характер, розвиток або поведінку когось або чогось"
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionEN": "a long-established custom or belief passed on from one generation to another",
         "descriptionRU": "долгосрочный обычай или вера, передаваемая из поколения в поколение",
-        "descriptionDE": "ein langjähriger Brauch oder Glaube, der von einer Generation an die nächste weitergegeben wird"
+        "descriptionDE": "ein langjähriger Brauch oder Glaube, der von einer Generation an die nächste weitergegeben wird",
+        "descriptionTR": "nesilden nesile aktarılan uzun süredir devam eden bir gelenek veya inanç",
+        "descriptionAZ": "nəsildən-nəslə ötürülən uzun müddətdir davam edən adət və ya inanc",
+        "descriptionUK": "довготривала звичка або віра, яка передається з покоління в покоління"
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
         "descriptionEN": "the state of being diverse; variety",
         "descriptionRU": "состояние разнообразия; разнообразие",
-        "descriptionDE": "der Zustand der Vielfalt; Vielfalt"
+        "descriptionDE": "der Zustand der Vielfalt; Vielfalt",
+        "descriptionTR": "çeşitli olma durumu; çeşitlilik",
+        "descriptionAZ": "müxtəlif olma vəziyyəti; müxtəliflik",
+        "descriptionUK": "стан різноманітності; різноманіття"
     }, {
         "de": "die Begegnung",
         "en": "encounter",
         "ru": "встреча",
+        "tr": "karşılaşma",
+        "az": "qarşılaşma",
+        "uk": "зустріч",
         "descriptionEN": "a brief or unexpected meeting",
         "descriptionRU": "краткая или неожиданная встреча",
-        "descriptionDE": "eine kurze oder unerwartete Begegnung"
+        "descriptionDE": "eine kurze oder unerwartete Begegnung",
+        "descriptionTR": "kısa veya beklenmedik bir buluşma",
+        "descriptionAZ": "qısa və ya gözlənilməz görüş",
+        "descriptionUK": "коротка або несподівана зустріч"
     }, {
         "de": "die Darbietung",
         "en": "performance",
         "ru": "выступление",
+        "tr": "performans",
+        "az": "performans",
+        "uk": "виступ",
         "descriptionEN": "an act of presenting a play, concert, or other form of entertainment",
         "descriptionRU": "акт представления пьесы, концерта или другой формы развлечения",
-        "descriptionDE": "eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird"
+        "descriptionDE": "eine Handlung, bei der ein Theaterstück, ein Konzert oder eine andere Form der Unterhaltung präsentiert wird",
+        "descriptionTR": "bir oyun, konser veya başka bir eğlence biçimi sunma eylemi",
+        "descriptionAZ": "bir pyes, konsert və ya digər əyləncə formasını təqdim etmək hərəkəti",
+        "descriptionUK": "акт представлення п'єси, концерту або іншої форми розваг"
     }, {
         "de": "der Besuch",
         "en": "visit",
         "ru": "посещение",
+        "tr": "ziyaret",
+        "az": "ziyarət",
+        "uk": "візит",
         "descriptionEN": "an instance of visiting someone or something",
         "descriptionRU": "случай посещения кого-то или чего-то",
-        "descriptionDE": "ein Fall, bei dem jemanden oder etwas besucht wird"
+        "descriptionDE": "ein Fall, bei dem jemanden oder etwas besucht wird",
+        "descriptionTR": "birini veya bir şeyi ziyaret etme örneği",
+        "descriptionAZ": "kiminsə və ya nəyinsə ziyarət edilməsi nümunəsi",
+        "descriptionUK": "випадок відвідування когось або чогось"
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
         "descriptionEN": "acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity",
         "descriptionRU": "отмечать (значительный или счастливый день или событие) общественным собранием или приятным занятием",
-        "descriptionDE": "ein bedeutendes oder freudiges Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen"
+        "descriptionDE": "ein bedeutendes oder freudiges Ereignis mit einem gesellschaftlichen Treffen oder einer angenehmen Aktivität anerkennen",
+        "descriptionTR": "sosyal bir toplantı veya keyifli bir aktivite ile (önemli veya mutlu bir günü veya olayı) kutlamak",
+        "descriptionAZ": "ictimai görüş və ya xoş bir fəaliyyətlə (mühüm və ya xoşbəxt bir günü və ya hadisəni) qeyd etmək",
+        "descriptionUK": "відзначати (значний або щасливий день чи подію) громадськими зборами або приємною діяльністю"
     }, {
         "de": "zeigen",
         "en": "show",
         "ru": "показывать",
+        "tr": "göstermek",
+        "az": "göstərmək",
+        "uk": "показувати",
         "descriptionEN": "allow to be seen; display",
         "descriptionRU": "разрешить увидеть; показывать",
-        "descriptionDE": "erlauben, gesehen zu werden; anzeigen"
+        "descriptionDE": "erlauben, gesehen zu werden; anzeigen",
+        "descriptionTR": "görülmesine izin vermek; göstermek",
+        "descriptionAZ": "görülməsinə icazə vermək; göstərmək",
+        "descriptionUK": "дозволити побачити; показувати"
     }, {
         "de": "erwarten",
         "en": "expect",
         "ru": "ожидать",
+        "tr": "beklemek",
+        "az": "gözləmək",
+        "uk": "очікувати",
         "descriptionEN": "regard (something) as likely to happen",
         "descriptionRU": "считать (что-то) вероятным",
-        "descriptionDE": "etwas als wahrscheinlich betrachten"
+        "descriptionDE": "etwas als wahrscheinlich betrachten",
+        "descriptionTR": "(bir şeyin) olmasını muhtemel görmek",
+        "descriptionAZ": "(bir şeyin) baş verməsini ehtimal etmək",
+        "descriptionUK": "вважати (щось) ймовірним"
     }, {
         "de": "pulsierend",
         "en": "vibrant",
         "ru": "живой",
+        "tr": "canlı",
+        "az": "canlı",
+        "uk": "жвавий",
         "descriptionEN": "full of energy and life",
         "descriptionRU": "полный энергии и жизни",
-        "descriptionDE": "voller Energie und Leben"
+        "descriptionDE": "voller Energie und Leben",
+        "descriptionTR": "enerji ve hayat dolu",
+        "descriptionAZ": "enerji və həyat dolu",
+        "descriptionUK": "сповнений енергії та життя"
     }, {
         "de": "mitreißend",
         "en": "captivating",
         "ru": "захватывающий",
+        "tr": "büyüleyici",
+        "az": "heyranedici",
+        "uk": "захоплюючий",
         "descriptionEN": "attracting interest or attention",
         "descriptionRU": "привлекающий интерес или внимание",
-        "descriptionDE": "Interessant oder aufmerksamkeitserregend"
+        "descriptionDE": "Interessant oder aufmerksamkeitserregend",
+        "descriptionTR": "ilgi veya dikkat çeken",
+        "descriptionAZ": "maraq və ya diqqət cəlb edən",
+        "descriptionUK": "що привертає інтерес або увагу"
     }, {
         "de": "farbenfroh",
         "en": "colorful",
         "ru": "красочный",
+        "tr": "renkli",
+        "az": "rəngarəng",
+        "uk": "барвистий",
         "descriptionEN": "having much or varied color",
         "descriptionRU": "имеющий много или разнообразный цвет",
-        "descriptionDE": "viel oder vielfältige Farben habend"
+        "descriptionDE": "viel oder vielfältige Farben habend",
+        "descriptionTR": "çok veya çeşitli renklere sahip olan",
+        "descriptionAZ": "çox və ya müxtəlif rənglərə malik olan",
+        "descriptionUK": "що має багато або різноманітний колір"
     }, {
         "de": "energieladene",
         "en": "energetic",
         "ru": "энергичный",
+        "tr": "enerjik",
+        "az": "enerjili",
+        "uk": "енергійний",
         "descriptionEN": "showing or involving great activity or vitality",
         "descriptionRU": "показывающий или включающий в себя большую активность или жизненную силу",
-        "descriptionDE": "zeigt oder beinhaltet große Aktivität oder Vitalität"
+        "descriptionDE": "zeigt oder beinhaltet große Aktivität oder Vitalität",
+        "descriptionTR": "büyük bir aktivite veya canlılık gösteren veya içeren",
+        "descriptionAZ": "böyük bir fəaliyyət və ya canlılıq göstərən və ya əhatə edən",
+        "descriptionUK": "що демонструє або включає велику активність або життєву силу"
     }
 ]

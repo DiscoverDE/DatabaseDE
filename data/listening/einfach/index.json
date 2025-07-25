@@ -3,12 +3,18 @@
         "name": {
             "en": "Family Celebration",
             "de": "Familienfeier",
-            "ru": "Семейное торжество"
+            "ru": "Семейное торжество",
+            "tr": "Aile Kutlaması",
+            "uk": "Сімейне свято",
+            "az": "Ailə Bayramı"
         },
         "description": {
             "en": "Grandma's Wish",
             "de": "Omas Wunsch",
-            "ru": "Бабушкин Желание"
+            "ru": "Бабушкин Желание",
+            "tr": "Büyükanne'nin Dileği",
+            "uk": "Бабусине бажання",
+            "az": "Nənənin Arzusu"
         },
         "level": "A2",
         "image": "Familienfeier.jpg",
@@ -19,12 +25,18 @@
         "name": {
             "en": "Nature's Haven",
             "de": "Naturparadies",
-            "ru": "Убежище природы"
+            "ru": "Убежище природы",
+            "tr": "Doğanın Sığınağı",
+            "uk": "Притулок природи",
+            "az": "Təbiətin Sığınacağı"
         },
         "description": {
             "en": "Quiet time in the woods",
             "de": "Ruhige Zeit im Wald",
-            "ru": "Тихое время в лесу"
+            "ru": "Тихое время в лесу",
+            "tr": "Ormanda Sessiz Zaman",
+            "uk": "Тихий час у лісі",
+            "az": "Meşədə Sakit Vaxt"
         },
         "level": "A2",
         "image": "Naturparadies.jpg",
@@ -32,51 +44,65 @@
         "words": "Naturparadies.json",
         "multi": "Naturparadies.json"
     }, {
-
         "name": {
             "en": "Pizza Dream",
             "de": "Pizzatraum",
-            "ru": "Мечта о пицце"
+            "ru": "Мечта о пицце",
+            "tr": "Pizza Hayali",
+            "uk": "Мрія про піцу",
+            "az": "Pizza Arzusu"
         },
         "description": {
             "en": "Passion over profession",
             "de": "Leidenschaft über Beruf",
-            "ru": "Страсть важнее профессии"
+            "ru": "Страсть важнее профессии",
+            "tr": "Meslekten Çok Tutku",
+            "uk": "Пристрасть важливіша за професію",
+            "az": "Peşədən Çox Ehtiras"
         },
         "level": "A2",
         "image": "Pizzatraum.png",
         "file": "Pizzatraum.mp3",
         "words": "Pizzatraum.json",
         "multi": "Pizzatraum.json"
-
     }, {
-
         "name": {
             "en": "Missis Wilson's Bike",
             "de": "Frau Wilsons Fahrrad",
-            "ru": "Велосипед Фрау Уилсон"
+            "ru": "Велосипед Фрау Уилсон",
+            "tr": "Bayan Wilson'ın Bisikleti",
+            "uk": "Велосипед пані Вілсон",
+            "az": "Xanım Wilson-un Velosipedi"
         },
         "description": {
             "en": "Learning to Ride",
             "de": "Radfahren lernen",
-            "ru": "Учимся ездить"
+            "ru": "Учимся ездить",
+            "tr": "Bisiklet Sürmeyi Öğrenmek",
+            "uk": "Вчимося їздити",
+            "az": "Velosiped Sürməyi Öyrənmək"
         },
         "level": "A2",
         "image": "Radfahren.jpg",
         "file": "Radfahren.mp3",
         "words": "Radfahren.json",
         "multi": "Radfahren.json"
-
     }, {
         "name": {
             "en": "Garden Success",
             "de": "Garten Erfolg",
-            "ru": "Успех сада"
+            "ru": "Успех сада",
+            "tr": "Bahçe Başarısı",
+            "uk": "Успіх саду",
+            "az": "Bağ Uğuru"
         },
         "description": {
             "en": "Tomatoes with patience",
             "de": "Tomaten mit Geduld",
-            "ru": "Помидоры с терпением"
+            "ru": "Помидоры с терпением",
+            "tr": "Sabırla Domatesler",
+            "uk": "Помідори з терпінням",
+            "az": "Səbrlə Pomidorlar"
         },
         "level": "A2",
         "image": "Tomaten.jpg",
@@ -87,12 +113,18 @@
         "name": {
             "en": "New Friend",
             "de": "Neue Freundin",
-            "ru": "Новая подруга"
+            "ru": "Новая подруга",
+            "tr": "Yeni Arkadaş",
+            "uk": "Нова подруга",
+            "az": "Yeni Dost"
         },
         "description": {
             "en": "Sofia, Emma, and Mia",
             "de": "Sofia, Emma und Mia",
-            "ru": "София, Эмма и Мия"
+            "ru": "София, Эмма и Мия",
+            "tr": "Sofia, Emma ve Mia",
+            "uk": "Софія, Емма та Мія",
+            "az": "Sofia, Emma və Mia"
         },
         "level": "A2",
         "image": "Freundin.jpg",
@@ -103,12 +135,18 @@
         "name": {
             "en": "Lily's Kindness",
             "de": "Lilys Güte",
-            "ru": "Доброта Лили"
+            "ru": "Доброта Лили",
+            "tr": "Lily'nin İyiliği",
+            "uk": "Доброта Лілі",
+            "az": "Lily-nin Xeyirxahlığı"
         },
         "description": {
             "en": "Lost puppy",
             "de": "Verlorener Welpe",
-            "ru": "Потерявшийся щенок"
+            "ru": "Потерявшийся щенок",
+            "tr": "Kayıp Yavru Köpek",
+            "uk": "Загублений цуценя",
+            "az": "İtirilmiş Köpək Balası"
         },
         "level": "A2",
         "image": "Verlorener.jpg",
@@ -119,12 +157,18 @@
         "name": {
             "en": "Dream Job",
             "de": "Traumjob",
-            "ru": "Работа мечты"
+            "ru": "Работа мечты",
+            "tr": "Hayalindeki İş",
+            "uk": "Робота мрії",
+            "az": "Xəyalındakı İş"
         },
         "description": {
             "en": "Passion for books",
             "de": "Leidenschaft für Bücher",
-            "ru": "Страсть к книгам"
+            "ru": "Страсть к книгам",
+            "tr": "Kitaplara Tutku",
+            "uk": "Пристрасть до книг",
+            "az": "Kitablara Ehtiras"
         },
         "level": "A2",
         "image": "Joel.png",
@@ -135,12 +179,18 @@
         "name": {
             "en": "Stormy Week",
             "de": "Stürmische Woche",
-            "ru": "Штормовая неделя"
+            "ru": "Штормовая неделя",
+            "tr": "Fırtınalı Hafta",
+            "uk": "Штормовий тиждень",
+            "az": "Fırtınalı Həftə"
         },
         "description": {
             "en": "Rain and aftermath",
             "de": "Regen und Nachwirkungen",
-            "ru": "Дождь и последствия"
+            "ru": "Дождь и последствия",
+            "tr": "Yağmur ve Sonrası",
+            "uk": "Дощ і наслідки",
+            "az": "Yağış və Nəticələri"
         },
         "level": "A2",
         "image": "Stormy.jpg",
@@ -151,12 +201,18 @@
         "name": {
             "en": "Sophie's Move",
             "de": "Sophies Umzug",
-            "ru": "Переезд Софи"
+            "ru": "Переезд Софи",
+            "tr": "Sophie'nin Taşınması",
+            "uk": "Переїзд Софії",
+            "az": "Sophie-nin Köçü"
         },
         "description": {
             "en": "New Beginnings",
             "de": "Neuanfänge",
-            "ru": "Новые Начала"
+            "ru": "Новые Начала",
+            "tr": "Yeni Başlangıçlar",
+            "uk": "Нові початки",
+            "az": "Yeni Başlanğıclar"
         },
         "level": "A2",
         "image": "Sophie.png",
@@ -167,12 +223,18 @@
         "name": {
             "en": "A Chef's Day",
             "de": "Ein Tag eines Kochs",
-            "ru": "День шеф-повара"
+            "ru": "День шеф-повара",
+            "tr": "Bir Şefin Günü",
+            "uk": "День шеф-кухаря",
+            "az": "Bir Şefin Günü"
         },
         "description": {
             "en": "German Culinary",
             "de": "Deutsche Kulinarik",
-            "ru": "Немецкая кулинария"
+            "ru": "Немецкая кулинария",
+            "tr": "Alman Mutfağı",
+            "uk": "Німецька кулінарія",
+            "az": "Alman Mətbəxi"
         },
         "level": "A2",
         "image": "KulinarikNew.png",
@@ -183,12 +245,18 @@
         "name": {
             "en": "Lena's Journey",
             "de": "Lenas Reise",
-            "ru": "Путешествие Лены"
+            "ru": "Путешествие Лены",
+            "tr": "Lena'nın Yolculuğu",
+            "uk": "Подорож Лени",
+            "az": "Lena-nın Səyahəti"
         },
         "description": {
             "en": "Summer language course",
             "de": "Sommer Sprachkurs",
-            "ru": "Летний языковой курс"
+            "ru": "Летний языковой курс",
+            "tr": "Yaz Dil Kursu",
+            "uk": "Літній мовний курс",
+            "az": "Yay Dil Kursu"
         },
         "level": "A2",
         "image": "Lena.png",
@@ -199,12 +267,18 @@
         "name": {
             "en": "Thomas's Favorites",
             "de": "Thomas' Favoriten",
-            "ru": "Любимое Томаса"
+            "ru": "Любимое Томаса",
+            "tr": "Thomas'ın Favorileri",
+            "uk": "Улюблене Томаса",
+            "az": "Thomas-ın Sevimliləri"
         },
         "description": {
             "en": "Fruits and vegetables",
             "de": "Obst und Gemüse",
-            "ru": "Фрукты и овощи"
+            "ru": "Фрукты и овощи",
+            "tr": "Meyve ve Sebzeler",
+            "uk": "Фрукти та овочі",
+            "az": "Meyvə və Tərəvəzlər"
         },
         "level": "A2",
         "image": "Thomas.jpg",
@@ -215,12 +289,18 @@
         "name": {
             "en": "Lily's Adventure",
             "de": "Lilys Abenteuer",
-            "ru": "Приключения Лили"
+            "ru": "Приключения Лили",
+            "tr": "Lily'nin Macerası",
+            "uk": "Пригоди Лілі",
+            "az": "Lily-nin Macərası"
         },
         "description": {
             "en": "Zoo Visit",
             "de": "Zoobesuch",
-            "ru": "Визит в зоопарк"
+            "ru": "Визит в зоопарк",
+            "tr": "Hayvanat Bahçesi Ziyareti",
+            "uk": "Візит до зоопарку",
+            "az": "Zoo Parkı Ziyarəti"
         },
         "level": "A2",
         "image": "Lily.jpg",
@@ -231,12 +311,18 @@
         "name": {
             "en": "Coffee Tradition",
             "de": "Kaffeetradition",
-            "ru": "Традиция кофе"
+            "ru": "Традиция кофе",
+            "tr": "Kahve Geleneği",
+            "uk": "Традиція кави",
+            "az": "Qəhvə Ənənəsi"
         },
         "description": {
             "en": "Friends share cakes",
             "de": "Freunde teilen Kuchen",
-            "ru": "Друзья делятся пирогами"
+            "ru": "Друзья делятся пирогами",
+            "tr": "Arkadaşlar Kek Paylaşır",
+            "uk": "Друзі діляться пирогами",
+            "az": "Dostlar Tort Bölüşür"
         },
         "level": "A2",
         "image": "Kaffeetradition.jpg",

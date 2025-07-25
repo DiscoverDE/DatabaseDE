@@ -3,106 +3,196 @@
         "de": "der Krimi",
         "en": "Crime",
         "ru": "Преступление",
+        "tr": "Suç",
+        "az": "Cinayət",
+        "uk": "Злочин",
         "descriptionEN": "A fictional narrative involving a crime, typically a mystery.",
         "descriptionRU": "Вымышленный рассказ, связанный с преступлением, обычно является загадкой.",
-        "descriptionDE": "Eine fiktive Erzählung, die ein Verbrechen betrifft, normalerweise ein Rätsel."
+        "descriptionDE": "Eine fiktive Erzählung, die ein Verbrechen betrifft, normalerweise ein Rätsel.",
+        "descriptionTR": "Genellikle bir gizem olan, suç içeren kurgusal bir anlatı.",
+        "descriptionAZ": "Adətən sirr olan, cinayəti əhatə edən uydurma hekayə.",
+        "descriptionUK": "Вигаданий оповідь, пов'язаний із злочином, зазвичай є загадкою."
     }, {
         "de": "das Feuerwerk",
         "en": "Fireworks",
         "ru": "Фейерверк",
+        "tr": "Havai fişek",
+        "az": "Hava fişəngləri",
+        "uk": "Феєрверк",
         "descriptionEN": "A display of fireworks for entertainment.",
         "descriptionRU": "Показ фейерверков для развлечения.",
-        "descriptionDE": "Eine Darbietung von Feuerwerk zur Unterhaltung."
+        "descriptionDE": "Eine Darbietung von Feuerwerk zur Unterhaltung.",
+        "descriptionTR": "Eğlence için havai fişek gösterisi.",
+        "descriptionAZ": "Əyləncə üçün hava fişəngləri nümayişi.",
+        "descriptionUK": "Показ феєрверків для розваги."
     }, {
         "de": "die Teilnehmer",
         "en": "Participants",
         "ru": "Участники",
+        "tr": "Katılımcılar",
+        "az": "İştirakçılar",
+        "uk": "Учасники",
         "descriptionEN": "People who take part in an event or activity.",
         "descriptionRU": "Люди, участвующие в событии или деятельности.",
-        "descriptionDE": "Menschen, die an einer Veranstaltung oder Aktivität teilnehmen."
+        "descriptionDE": "Menschen, die an einer Veranstaltung oder Aktivität teilnehmen.",
+        "descriptionTR": "Bir etkinliğe veya faaliyete katılan insanlar.",
+        "descriptionAZ": "Tədbirdə və ya fəaliyyətdə iştirak edən insanlar.",
+        "descriptionUK": "Люди, які беруть участь у події чи діяльності."
     }, {
         "de": "die Kultur",
         "en": "Culture",
         "ru": "Культура",
+        "tr": "Kültür",
+        "az": "Mədəniyyət",
+        "uk": "Культура",
         "descriptionEN": "The social behavior and norms found in human societies.",
         "descriptionRU": "Социальное поведение и нормы, присущие человеческим обществам.",
-        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind."
+        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind.",
+        "descriptionTR": "İnsan toplumlarında bulunan sosyal davranış ve normlar.",
+        "descriptionAZ": "İnsan cəmiyyətlərində tapılan sosial davranış və normalar.",
+        "descriptionUK": "Соціальна поведінка та норми, властиві людським суспільствам."
     }, {
         "de": "der Wein",
         "en": "Wine",
         "ru": "Вино",
+        "tr": "Şarap",
+        "az": "Şərab",
+        "uk": "Вино",
         "descriptionEN": "An alcoholic drink made from fermented grapes.",
         "descriptionRU": "Алкогольный напиток, изготовленный из ферментированных винограда.",
-        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird."
+        "descriptionDE": "Ein alkoholisches Getränk, das aus fermentierten Trauben hergestellt wird.",
+        "descriptionTR": "Fermente üzümlerden yapılan alkollü bir içecek.",
+        "descriptionAZ": "Qıcqırmış üzümlərdən hazırlanan spirtli içki.",
+        "descriptionUK": "Алкогольний напій, виготовлений із ферментованого винограду."
     }, {
         "de": "die Spannung",
         "en": "Tension",
         "ru": "Напряжение",
+        "tr": "Gerginlik",
+        "az": "Gərginlik",
+        "uk": "Напруга",
         "descriptionEN": "Mental or emotional strain or stress.",
         "descriptionRU": "Психическое или эмоциональное напряжение или стресс.",
-        "descriptionDE": "Mentale oder emotionale Anspannung oder Stress."
+        "descriptionDE": "Mentale oder emotionale Anspannung oder Stress.",
+        "descriptionTR": "Zihinsel veya duygusal gerginlik veya stres.",
+        "descriptionAZ": "Ruhi və ya emosional gərginlik və ya stress.",
+        "descriptionUK": "Психічна чи емоційна напруга чи стрес."
     }, {
         "de": "das Rätsel",
         "en": "Puzzle",
         "ru": "Головоломка",
+        "tr": "Bulmaca",
+        "az": "Başqası",
+        "uk": "Головоломка",
         "descriptionEN": "A game or problem that tests ingenuity.",
         "descriptionRU": "Игра или задача, проверяющая изобретательность.",
-        "descriptionDE": "Ein Spiel oder Problem, das die Einfallsreichtum testet."
+        "descriptionDE": "Ein Spiel oder Problem, das die Einfallsreichtum testet.",
+        "descriptionTR": "Yaratıcılığı test eden bir oyun veya problem.",
+        "descriptionAZ": "Yaradıcılığı yoxlayan oyun və ya problem.",
+        "descriptionUK": "Гра чи завдання, що перевіряє винахідливість."
     }, {
         "de": "der Schauspieler",
         "en": "Actor",
         "ru": "Актер",
+        "tr": "Oyuncu",
+        "az": "Aktyor",
+        "uk": "Актор",
         "descriptionEN": "A person who performs in plays, films, or television.",
         "descriptionRU": "Человек, выступающий в спектаклях, фильмах или телевидении.",
-        "descriptionDE": "Eine Person, die in Theaterstücken, Filmen oder im Fernsehen auftritt."
+        "descriptionDE": "Eine Person, die in Theaterstücken, Filmen oder im Fernsehen auftritt.",
+        "descriptionTR": "Tiyatro oyunlarında, filmlerde veya televizyonda oynayan kişi.",
+        "descriptionAZ": "Teatr tamaşalarında, filmlərdə və ya televiziyada çıxış edən şəxs.",
+        "descriptionUK": "Людина, яка виступає у виставах, фільмах чи на телебаченні."
     }, {
         "de": "die Teilnehmerin",
         "en": "Female participant",
         "ru": "Участница",
+        "tr": "Kadın katılımcı",
+        "az": "Qadın iştirakçı",
+        "uk": "Учасниця",
         "descriptionEN": "A woman who takes part in an event.",
         "descriptionRU": "Женщина, участвующая в событии.",
-        "descriptionDE": "Eine Frau, die an einer Veranstaltung teilnimmt."
+        "descriptionDE": "Eine Frau, die an einer Veranstaltung teilnimmt.",
+        "descriptionTR": "Bir etkinliğe katılan kadın.",
+        "descriptionAZ": "Tədbirdə iştirak edən qadın.",
+        "descriptionUK": "Жінка, яка бере участь у події."
     }, {
         "de": "die Kleidung",
         "en": "Clothing",
         "ru": "Одежда",
+        "tr": "Giyim",
+        "az": "Geyim",
+        "uk": "Одяг",
         "descriptionEN": "Garments worn on the body.",
         "descriptionRU": "Предметы одежды, носящиеся на теле.",
-        "descriptionDE": "Kleidungsstücke, die am Körper getragen werden."
+        "descriptionDE": "Kleidungsstücke, die am Körper getragen werden.",
+        "descriptionTR": "Vücutta giyilen giysiler.",
+        "descriptionAZ": "Bədəndə geyilən geyimlər.",
+        "descriptionUK": "Предмети одягу, які носяться на тілі."
     }, {
         "de": "probieren",
         "en": "To taste",
         "ru": "Пробовать",
+        "tr": "Tatmak",
+        "az": "Dadmaq",
+        "uk": "Пробувати",
         "descriptionEN": "To sample or experience the flavor of something.",
         "descriptionRU": "Пробовать или испытывать вкус чего-либо.",
-        "descriptionDE": "Etwas kosten oder den Geschmack von etwas erleben."
+        "descriptionDE": "Etwas kosten oder den Geschmack von etwas erleben.",
+        "descriptionTR": "Bir şeyin tadına bakmak veya deneyimlemek.",
+        "descriptionAZ": "Bir şeyin dadını çatdırmaq və ya yaşamaq.",
+        "descriptionUK": "Куштувати чи відчувати смак чогось."
     }, {
         "de": "mischen",
         "en": "To mix",
         "ru": "Смешивать",
+        "tr": "Karıştırmak",
+        "az": "Qarışdırmaq",
+        "uk": "Змішувати",
         "descriptionEN": "To combine two or more substances or elements.",
         "descriptionRU": "Объединять два или более вещества или элемента.",
-        "descriptionDE": "Zwei oder mehr Substanzen oder Elemente kombinieren."
+        "descriptionDE": "Zwei oder mehr Substanzen oder Elemente kombinieren.",
+        "descriptionTR": "İki veya daha fazla maddeyi veya elementi birleştirmek.",
+        "descriptionAZ": "İki və ya daha çox maddəni və ya elementi birləşdirmək.",
+        "descriptionUK": "Поєднувати дві чи більше речовини чи елементи."
     }, {
         "de": "tragen",
         "en": "To wear",
         "ru": "Носить",
+        "tr": "Giyinmek",
+        "az": "Geyinmək",
+        "uk": "Носити",
         "descriptionEN": "To have clothing or accessories on the body.",
         "descriptionRU": "Иметь одежду или аксессуары на теле.",
-        "descriptionDE": "Kleidung oder Accessoires am Körper haben."
+        "descriptionDE": "Kleidung oder Accessoires am Körper haben.",
+        "descriptionTR": "Vücutta kıyafet veya aksesuar taşımak.",
+        "descriptionAZ": "Bədəndə geyim və ya aksesuar daşımaq.",
+        "descriptionUK": "Мати одяг чи аксесуари на тілі."
     }, {
         "de": "arbeiten",
         "en": "To work",
         "ru": "Работать",
+        "tr": "Çalışmak",
+        "az": "İşləmək",
+        "uk": "Працювати",
         "descriptionEN": "To engage in physical or mental activity to achieve a purpose.",
         "descriptionRU": "Заниматься физической или умственной деятельностью для достижения цели.",
-        "descriptionDE": "Sich an körperlicher oder geistiger Arbeit beteiligen, um ein Ziel zu erreichen."
+        "descriptionDE": "Sich an körperlicher oder geistiger Arbeit beteiligen, um ein Ziel zu erreichen.",
+        "descriptionTR": "Bir amaca ulaşmak için fiziksel veya zihinsel aktiviteye katılmak.",
+        "descriptionAZ": "Məqsədə çatmaq üçün fiziki və ya zehni fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "Займатися фізичною чи розумовою діяльністю для досягнення мети."
     }, {
         "de": "lernen",
         "en": "To learn",
         "ru": "Учиться",
+        "tr": "Öğrenmek",
+        "az": "Öyrənmək",
+        "uk": "Вчитися",
         "descriptionEN": "To acquire knowledge or skill through experience.",
         "descriptionRU": "Приобретать знания или навыки через опыт.",
-        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung erwerben."
+        "descriptionDE": "Wissen oder Fähigkeiten durch Erfahrung erwerben.",
+        "descriptionTR": "Deneyim yoluyla bilgi veya beceri edinmek.",
+        "descriptionAZ": "Təcrübə yolu ilə bilik və ya bacarıq qazanmaq.",
+        "descriptionUK": "Отримувати знання чи навички через досвід."
     }
 ]

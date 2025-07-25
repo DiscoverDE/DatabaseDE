@@ -5,174 +5,324 @@
         "ru": "Дом",
         "descriptionEN": "A building for human habitation.",
         "descriptionRU": "Здание, предназначенное для проживания людей.",
-        "descriptionDE": "Ein Gebäude zum Wohnen."
+        "descriptionDE": "Ein Gebäude zum Wohnen.",
+        "tr": "Ev",
+        "az": "Ev",
+        "uk": "Будинок",
+        "descriptionTR": "İnsan yaşamı için bir bina.",
+        "descriptionAZ": "İnsan məskəni üçün bina.",
+        "descriptionUK": "Будівля для проживання людей."
     }, {
         "de": "die Familie",
         "en": "Family",
         "ru": "Семья",
         "descriptionEN": "A group consisting of parents and children living together.",
         "descriptionRU": "Группа людей, состоящая из родителей и детей, живущих вместе.",
-        "descriptionDE": "Eine Gruppe bestehend aus Eltern und Kindern, die zusammenleben."
+        "descriptionDE": "Eine Gruppe bestehend aus Eltern und Kindern, die zusammenleben.",
+        "tr": "Aile",
+        "az": "Ailə",
+        "uk": "Сім'я",
+        "descriptionTR": "Ebeveynler ve birlikte yaşayan çocuklardan oluşan bir grup.",
+        "descriptionAZ": "Birlikdə yaşayan valideynlər və uşaqlardan ibarət qrup.",
+        "descriptionUK": "Група, що складається з батьків та дітей, які живуть разом."
     }, {
         "de": "der Duft",
         "en": "Fragrance",
         "ru": "Аромат",
         "descriptionEN": "A pleasant, sweet smell.",
         "descriptionRU": "Приятный, сладкий запах.",
-        "descriptionDE": "Ein angenehmer, süßer Geruch."
+        "descriptionDE": "Ein angenehmer, süßer Geruch.",
+        "tr": "Koku",
+        "az": "Ətir",
+        "uk": "Аромат",
+        "descriptionTR": "Hoş, tatlı bir koku.",
+        "descriptionAZ": "Xoş, şirin qoxu.",
+        "descriptionUK": "Приємний, солодкий запах."
     }, {
         "de": "das Lachen",
         "en": "Laughter",
         "ru": "Смех",
         "descriptionEN": "The action or sound of laughing.",
         "descriptionRU": "Действие или звук смеха.",
-        "descriptionDE": "Die Handlung oder das Geräusch des Lachens."
+        "descriptionDE": "Die Handlung oder das Geräusch des Lachens.",
+        "tr": "Kahkaha",
+        "az": "Gülüş",
+        "uk": "Сміх",
+        "descriptionTR": "Gülme eylemi veya sesi.",
+        "descriptionAZ": "Gülmək hərəkəti və ya səsi.",
+        "descriptionUK": "Дія або звук сміху."
     }, {
         "de": "die Kerze",
         "en": "Candle",
         "ru": "Свеча",
         "descriptionEN": "A stick of wax with a wick that is burned to provide light.",
         "descriptionRU": "Палочка из воска с фитилем, которая сжигается для освещения.",
-        "descriptionDE": "Ein Wachsstab mit Docht, der zum Beleuchten angezündet wird."
+        "descriptionDE": "Ein Wachsstab mit Docht, der zum Beleuchten angezündet wird.",
+        "tr": "Mum",
+        "az": "Şam",
+        "uk": "Свічка",
+        "descriptionTR": "Işık sağlamak için yakılan fitilli bir balmumu çubuğu.",
+        "descriptionAZ": "İşıq vermək üçün yandırılan fitilli bir şam çubuğu.",
+        "descriptionUK": "Паличка воску з гнітом, яка горить, щоб давати світло."
     }, {
         "de": "der Kuchen",
         "en": "Cake",
         "ru": "Торт",
         "descriptionEN": "A sweet baked food made from flour, sugar, and other ingredients.",
         "descriptionRU": "Сладкое выпеченное блюдо, приготовленное из муки, сахара и других ингредиентов.",
-        "descriptionDE": "Ein süßes Gebäck, hergestellt aus Mehl, Zucker und anderen Zutaten."
+        "descriptionDE": "Ein süßes Gebäck, hergestellt aus Mehl, Zucker und anderen Zutaten.",
+        "tr": "Pasta",
+        "az": "Tort",
+        "uk": "Торт",
+        "descriptionTR": "Un, şeker ve diğer malzemelerden yapılan tatlı bir fırın yiyeceği.",
+        "descriptionAZ": "Un, şəkər və digər tərkiblərdən hazırlanan şirin bişirilmiş yemək.",
+        "descriptionUK": "Солодка випічка з борошна, цукру та інших інгредієнтів."
     }, {
         "de": "die Großmutter",
         "en": "Grandmother",
         "ru": "Бабушка",
         "descriptionEN": "The mother of one's father or mother.",
         "descriptionRU": "Мать отца или матери.",
-        "descriptionDE": "Die Mutter des Vaters oder der Mutter."
+        "descriptionDE": "Die Mutter des Vaters oder der Mutter.",
+        "tr": "Büyükanne",
+        "az": "Nənə",
+        "uk": "Бабуся",
+        "descriptionTR": "Birinin babasının veya annesinin annesi.",
+        "descriptionAZ": "Atanın və ya ananın anası.",
+        "descriptionUK": "Мати батька або матері."
     }, {
         "de": "das Geschenk",
         "en": "Gift",
         "ru": "Подарок",
         "descriptionEN": "Something given willingly to someone without payment.",
         "descriptionRU": "Что-то, что дарится кому-то без оплаты.",
-        "descriptionDE": "Etwas, das jemandem freiwillig ohne Bezahlung gegeben wird."
+        "descriptionDE": "Etwas, das jemandem freiwillig ohne Bezahlung gegeben wird.",
+        "tr": "Hediye",
+        "az": "Hədiyyə",
+        "uk": "Подарунок",
+        "descriptionTR": "Birine ödeme yapmadan isteyerek verilen bir şey.",
+        "descriptionAZ": "Kiməsə ödənişsiz olaraq könüllü verilən bir şey.",
+        "descriptionUK": "Щось, що дарується комусь без оплати."
     }, {
         "de": "der Schein",
         "en": "Glow",
         "ru": "Сияние",
         "descriptionEN": "A steady radiance of light or heat.",
         "descriptionRU": "Постоянное свечение света или тепла.",
-        "descriptionDE": "Ein stetiges Leuchten von Licht oder Wärme."
+        "descriptionDE": "Ein stetiges Leuchten von Licht oder Wärme.",
+        "tr": "Parlaklık",
+        "az": "Parıltı",
+        "uk": "Сяйво",
+        "descriptionTR": "Sabit bir ışık veya ısı ışıltısı.",
+        "descriptionAZ": "İşıq və ya istiliyin sabit parıltısı.",
+        "descriptionUK": "Стабільне світіння світла або тепла."
     }, {
         "de": "die Gesellschaft",
         "en": "Company",
         "ru": "Общество",
         "descriptionEN": "The presence of another person or people.",
         "descriptionRU": "Присутствие другого человека или людей.",
-        "descriptionDE": "Die Anwesenheit einer anderen Person oder Personen."
+        "descriptionDE": "Die Anwesenheit einer anderen Person oder Personen.",
+        "tr": "Şirket",
+        "az": "Cəmiyyət",
+        "uk": "Товариство",
+        "descriptionTR": "Başka bir kişinin veya insanların varlığı.",
+        "descriptionAZ": "Digər bir şəxsin və ya insanların iştirakı.",
+        "descriptionUK": "Присутність іншої людини або людей."
     }, {
         "de": "die Freude",
         "en": "Joy",
         "ru": "Радость",
         "descriptionEN": "A feeling of great pleasure and happiness.",
         "descriptionRU": "Чувство большого удовольствия и счастья.",
-        "descriptionDE": "Ein Gefühl großer Freude und Glücklichkeit."
+        "descriptionDE": "Ein Gefühl großer Freude und Glücklichkeit.",
+        "tr": "Neşe",
+        "az": "Sevinc",
+        "uk": "Радість",
+        "descriptionTR": "Büyük bir zevk ve mutluluk hissi.",
+        "descriptionAZ": "Böyük bir zövq və xoşbəxtlik hissi.",
+        "descriptionUK": "Почуття великого задоволення та щастя."
     }, {
         "de": "das Herz",
         "en": "Heart",
         "ru": "Сердце",
         "descriptionEN": "The central or most vital part of something.",
         "descriptionRU": "Центральная или наиболее важная часть чего-то.",
-        "descriptionDE": "Der zentrale oder wichtigste Teil von etwas."
+        "descriptionDE": "Der zentrale oder wichtigste Teil von etwas.",
+        "tr": "Kalp",
+        "az": "Ürək",
+        "uk": "Серце",
+        "descriptionTR": "Bir şeyin merkezi veya en hayati kısmı.",
+        "descriptionAZ": "Bir şeyin mərkəzi və ya ən vacib hissəsi.",
+        "descriptionUK": "Центральна або найважливіша частина чогось."
     }, {
         "de": "plaudern",
         "en": "to chat",
         "ru": "болтать",
         "descriptionEN": "To talk in a relaxed, informal way.",
         "descriptionRU": "Говорить в непринужденной, неформальной манере.",
-        "descriptionDE": "In entspannter, informeller Weise sprechen."
+        "descriptionDE": "In entspannter, informeller Weise sprechen.",
+        "tr": "sohbet etmek",
+        "az": "söhbət etmək",
+        "uk": "балакати",
+        "descriptionTR": "Rahat, resmi olmayan bir şekilde konuşmak.",
+        "descriptionAZ": "Rahat, qeyri-rəsmi şəkildə danışmaq.",
+        "descriptionUK": "Розмовляти у невимушеній, неформальній манері."
     }, {
         "de": "fühlen",
         "en": "to feel",
         "ru": "чувствовать",
         "descriptionEN": "To be aware of a physical or emotional sensation.",
         "descriptionRU": "Осознавать физическое или эмоциональное ощущение.",
-        "descriptionDE": "Ein körperliches oder emotionales Gefühl wahrnehmen."
+        "descriptionDE": "Ein körperliches oder emotionales Gefühl wahrnehmen.",
+        "tr": "hissetmek",
+        "az": "hiss etmək",
+        "uk": "відчувати",
+        "descriptionTR": "Fiziksel veya duygusal bir hissin farkında olmak.",
+        "descriptionAZ": "Fiziki və ya emosional hissiyyatdan xəbərdar olmaq.",
+        "descriptionUK": "Усвідомлювати фізичне або емоційне відчуття."
     }, {
         "de": "ansehen",
         "en": "to look at",
         "ru": "смотреть",
         "descriptionEN": "To direct one's gaze toward something.",
         "descriptionRU": "Направить свой взгляд на что-то.",
-        "descriptionDE": "Den Blick auf etwas richten."
+        "descriptionDE": "Den Blick auf etwas richten.",
+        "tr": "bakmak",
+        "az": "baxmaq",
+        "uk": "дивитися",
+        "descriptionTR": "Bakışlarını bir şeye doğru yöneltmek.",
+        "descriptionAZ": "Baxışlarını bir şeyə yönəltmək.",
+        "descriptionUK": "Спрямувати свій погляд на щось."
     }, {
         "de": "versammeln",
         "en": "to gather",
         "ru": "собираться",
         "descriptionEN": "To come together in a group.",
         "descriptionRU": "Собраться в группе.",
-        "descriptionDE": "Sich in einer Gruppe versammeln."
+        "descriptionDE": "Sich in einer Gruppe versammeln.",
+        "tr": "toplanmak",
+        "az": "toplaşmaq",
+        "uk": "збиратися",
+        "descriptionTR": "Bir grup halinde bir araya gelmek.",
+        "descriptionAZ": "Bir qrup halında bir araya gəlmək.",
+        "descriptionUK": "Збиратися в групу."
     }, {
         "de": "lächeln",
         "en": "to smile",
         "ru": "улыбаться",
         "descriptionEN": "To form one's features into a pleased expression.",
         "descriptionRU": "Придать лицу довольное выражение.",
-        "descriptionDE": "Die Gesichtszüge zu einem zufriedenen Ausdruck formen."
+        "descriptionDE": "Die Gesichtszüge zu einem zufriedenen Ausdruck formen.",
+        "tr": "gülümsemek",
+        "az": "gülümsəmək",
+        "uk": "посміхатися",
+        "descriptionTR": "Yüz hatlarını memnun bir ifadeye dönüştürmek.",
+        "descriptionAZ": "Üz cizgilərini məmnun bir ifadəyə çevirmək.",
+        "descriptionUK": "Надати обличчю задоволений вираз."
     }, {
         "de": "wünschen",
         "en": "to wish",
         "ru": "желать",
         "descriptionEN": "To hope for something to happen.",
         "descriptionRU": "Надеяться, что что-то произойдет.",
-        "descriptionDE": "Sich wünschen, dass etwas passiert."
+        "descriptionDE": "Sich wünschen, dass etwas passiert.",
+        "tr": "dilemek",
+        "az": "arzu etmək",
+        "uk": "бажати",
+        "descriptionTR": "Bir şeyin olmasını ummak.",
+        "descriptionAZ": "Bir şeyin baş verməsini arzu etmək.",
+        "descriptionUK": "Сподіватися, що щось станеться."
     }, {
         "de": "fröhlich",
         "en": "cheerful",
         "ru": "радостный",
         "descriptionEN": "Noticeably happy and optimistic.",
         "descriptionRU": "Замечательно счастливый и оптимистичный.",
-        "descriptionDE": "Erkennbar glücklich und optimistisch."
+        "descriptionDE": "Erkennbar glücklich und optimistisch.",
+        "tr": "neşeli",
+        "az": "şən",
+        "uk": "веселий",
+        "descriptionTR": "Fark edilir derecede mutlu ve iyimser.",
+        "descriptionAZ": "Nəzərəçarpacaq dərəcədə xoşbəxt və nikbin.",
+        "descriptionUK": "Помітно щасливий та оптимістичний."
     }, {
         "de": "sanft",
         "en": "gentle",
         "ru": "нежный",
         "descriptionEN": "Having or showing a mild, kind nature.",
         "descriptionRU": "Обладающий мягким, добрым характером.",
-        "descriptionDE": "Ein mildes, freundliches Wesen haben oder zeigen."
+        "descriptionDE": "Ein mildes, freundliches Wesen haben oder zeigen.",
+        "tr": "nazik",
+        "az": "zərif",
+        "uk": "ніжний",
+        "descriptionTR": "Nazik, kibar bir doğaya sahip olmak veya göstermek.",
+        "descriptionAZ": "Mülayim, xeyirxah xarakterə malik olmaq və ya göstərmək.",
+        "descriptionUK": "Мати або виявляти м'яку, добру натуру."
     }, {
         "de": "köstlich",
         "en": "delicious",
         "ru": "вкусный",
         "descriptionEN": "Highly pleasant to the taste.",
         "descriptionRU": "Очень приятный на вкус.",
-        "descriptionDE": "Sehr angenehm im Geschmack."
+        "descriptionDE": "Sehr angenehm im Geschmack.",
+        "tr": "lezzetli",
+        "az": "dadlı",
+        "uk": "смачний",
+        "descriptionTR": "Tadı çok hoş.",
+        "descriptionAZ": "Damağa çox xoş gələn.",
+        "descriptionUK": "Дуже приємний на смак."
     }, {
         "de": "weise",
         "en": "wise",
         "ru": "мудрый",
         "descriptionEN": "Having experience and good judgment.",
         "descriptionRU": "Обладающий опытом и здравым смыслом.",
-        "descriptionDE": "Mit Erfahrung und gutem Urteilsvermögen."
+        "descriptionDE": "Mit Erfahrung und gutem Urteilsvermögen.",
+        "tr": "bilge",
+        "az": "müdrik",
+        "uk": "мудрий",
+        "descriptionTR": "Deneyimli ve iyi muhakemeye sahip olmak.",
+        "descriptionAZ": "Təcrübəyə və yaxşı mühakimə qabiliyyətinə malik olmaq.",
+        "descriptionUK": "Мати досвід і добре судження."
     }, {
         "de": "flackernd",
         "en": "flickering",
         "ru": "мерцающий",
         "descriptionEN": "Shining unsteadily.",
         "descriptionRU": "Нестабильно сияющий.",
-        "descriptionDE": "Unruhig leuchtend."
+        "descriptionDE": "Unruhig leuchtend.",
+        "tr": "titreyen",
+        "az": "titrəyən",
+        "uk": "мерехтливий",
+        "descriptionTR": "Düzensiz bir şekilde parıldayan.",
+        "descriptionAZ": "Qeyri-sabit parıldayan.",
+        "descriptionUK": "Нерівномірно сяючий."
     }, {
         "de": "wertvoll",
         "en": "precious",
         "ru": "драгоценный",
         "descriptionEN": "Of great value or importance.",
         "descriptionRU": "Большой ценности или важности.",
-        "descriptionDE": "Von großem Wert oder großer Bedeutung."
+        "descriptionDE": "Von großem Wert oder großer Bedeutung.",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "дорогоцінний",
+        "descriptionTR": "Büyük değere veya öneme sahip.",
+        "descriptionAZ": "Böyük dəyər və ya əhəmiyyətə malik.",
+        "descriptionUK": "Великої цінності або важливості."
     }, {
         "de": "zusammen",
         "en": "together",
         "ru": "вместе",
         "descriptionEN": "With or in proximity to another person.",
         "descriptionRU": "С другим человеком или в его близости.",
-        "descriptionDE": "Mit einer anderen Person oder in ihrer Nähe."
+        "descriptionDE": "Mit einer anderen Person oder in ihrer Nähe.",
+        "tr": "birlikte",
+        "az": "birlikdə",
+        "uk": "разом",
+        "descriptionTR": "Başka bir kişiyle veya o kişinin yakınında.",
+        "descriptionAZ": "Başqa bir şəxslə və ya onun yaxınlığında.",
+        "descriptionUK": "З іншою особою або поруч з нею."
     }
 ]

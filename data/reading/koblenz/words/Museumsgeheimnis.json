@@ -3,148 +3,274 @@
         "de": "die Künstlerin",
         "en": "artist",
         "ru": "художница",
+        "tr": "sanatçı",
+        "az": "rəssam",
+        "uk": "художниця",
         "descriptionEN": "a person who creates art",
         "descriptionRU": "человек, создающий искусство",
-        "descriptionDE": "Eine Person, die Kunst schafft"
+        "descriptionDE": "Eine Person, die Kunst schafft",
+        "descriptionTR": "Sanat yapan kişi",
+        "descriptionAZ": "Sənət yaradan şəxs",
+        "descriptionUK": "людина, яка створює мистецтво"
     }, {
         "de": "das Museum",
         "en": "museum",
         "ru": "музей",
+        "tr": "müze",
+        "az": "muzey",
+        "uk": "музей",
         "descriptionEN": "a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed",
         "descriptionRU": "здание или место, где хранятся и выставляются произведения искусства, научные экспонаты или другие объекты постоянной ценности",
-        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von dauerhaftem Wert aufbewahrt und ausgestellt werden"
+        "descriptionDE": "Ein Gebäude oder Ort, an dem Kunstwerke, wissenschaftliche Exemplare oder andere Objekte von dauerhaftem Wert aufbewahrt und ausgestellt werden",
+        "descriptionTR": "Sanat eserleri, bilimsel örnekler veya kalıcı değeri olan diğer nesnelerin saklandığı ve sergilendiği bir bina veya yer",
+        "descriptionAZ": "Sənət əsərlərinin, elmi nümunələrin və ya digər daimi dəyərə malik əşyaların saxlandığı və sərgiləndiyi bina və ya yer",
+        "descriptionUK": "будівля або місце, де зберігаються та виставляються твори мистецтва, наукові зразки або інші об'єкти постійної цінності"
     }, {
         "de": "die Atmosphäre",
         "en": "atmosphere",
         "ru": "атмосфера",
+        "tr": "atmosfer",
+        "az": "atmosfer",
+        "uk": "атмосфера",
         "descriptionEN": "the pervading tone or mood of a place, situation, or creative work",
         "descriptionRU": "преобладающий тон или настроение места, ситуации или творческой работы",
-        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines kreativen Werkes"
+        "descriptionDE": "Der vorherrschende Ton oder die Stimmung eines Ortes, einer Situation oder eines kreativen Werkes",
+        "descriptionTR": "Bir yerin, durumun veya yaratıcı bir eserin yaygın tonu veya ruh hali",
+        "descriptionAZ": "Bir yerin, vəziyyətin və ya yaradıcı işin ümumi tonu və ya əhval-ruhiyyəsi",
+        "descriptionUK": "переважаючий тон або настрій місця, ситуації чи творчої роботи"
     }, {
         "de": "die Art",
         "en": "way",
         "ru": "способ",
+        "tr": "yol",
+        "az": "yol",
+        "uk": "спосіб",
         "descriptionEN": "a manner, method, or means of doing something",
         "descriptionRU": "способ, метод или средство сделать что-то",
-        "descriptionDE": "Eine Art, Methode oder Mittel, etwas zu tun"
+        "descriptionDE": "Eine Art, Methode oder Mittel, etwas zu tun",
+        "descriptionTR": "Bir şeyi yapma şekli, yöntemi veya aracı",
+        "descriptionAZ": "Bir şeyi etməyin bir tərzi, metodu və ya vasitəsi",
+        "descriptionUK": "манера, метод або засіб виконання чогось"
     }, {
         "de": "das Licht",
         "en": "light",
         "ru": "свет",
+        "tr": "ışık",
+        "az": "işıq",
+        "uk": "світло",
         "descriptionEN": "the natural agent that stimulates sight and makes things visible",
         "descriptionRU": "естественный агент, который стимулирует зрение и делает вещи видимыми",
-        "descriptionDE": "Der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht"
+        "descriptionDE": "Der natürliche Agent, der das Sehen stimuliert und Dinge sichtbar macht",
+        "descriptionTR": "Görmeyi uyaran ve nesneleri görünür kılan doğal ajan",
+        "descriptionAZ": "Görmə qabiliyyətini stimullaşdıran və əşyaları görünən edən təbii agent",
+        "descriptionUK": "природний агент, який стимулює зір і робить речі видимими"
     }, {
         "de": "das Gemälde",
         "en": "painting",
         "ru": "картина",
+        "tr": "resim",
+        "az": "rəsm",
+        "uk": "картина",
         "descriptionEN": "a picture or design executed in paints",
         "descriptionRU": "изображение или дизайн, выполненный красками",
-        "descriptionDE": "Ein Bild oder Design, das in Farben ausgeführt ist"
+        "descriptionDE": "Ein Bild oder Design, das in Farben ausgeführt ist",
+        "descriptionTR": "Boyalarla yapılmış bir resim veya tasarım",
+        "descriptionAZ": "Rənglərlə çəkilmiş şəkil və ya dizayn",
+        "descriptionUK": "зображення або дизайн, виконаний фарбами"
     }, {
         "de": "die Skulptur",
         "en": "sculpture",
         "ru": "скульптура",
+        "tr": "heykel",
+        "az": "heykəl",
+        "uk": "скульптура",
         "descriptionEN": "the art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster",
         "descriptionRU": "искусство создания двух- или трехмерных репрезентативных или абстрактных форм, особенно путем резьбы камня или дерева или литья металла или гипса",
-        "descriptionDE": "Die Kunst, zweidimensionale oder dreidimensionale repräsentative oder abstrakte Formen zu schaffen, insbesondere durch Stein- oder Holzschnitzerei oder durch Metall- oder Gipsformen"
+        "descriptionDE": "Die Kunst, zweidimensionale oder dreidimensionale repräsentative oder abstrakte Formen zu schaffen, insbesondere durch Stein- oder Holzschnitzerei oder durch Metall- oder Gipsformen",
+        "descriptionTR": "İki veya üç boyutlu temsili veya soyut formlar yapma sanatı, özellikle taş veya ahşap oyma veya metal veya alçı döküm yoluyla",
+        "descriptionAZ": "İki və ya üçölçülü təmsilçi və ya abstrakt formaların, xüsusilə daş və ya ağac yonmaqla, yaxud metal və ya gips tökməklə hazırlanması sənəti",
+        "descriptionUK": "мистецтво створення дво- або тривимірних репрезентативних чи абстрактних форм, особливо шляхом різьблення по каменю або дереву, або лиття металу чи гіпсу"
     }, {
         "de": "der Diebstahl",
         "en": "theft",
         "ru": "кража",
+        "tr": "hırsızlık",
+        "az": "oğurluq",
+        "uk": "крадіжка",
         "descriptionEN": "the action or crime of stealing",
         "descriptionRU": "действие или преступление воровства",
-        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls"
+        "descriptionDE": "Die Handlung oder das Verbrechen des Diebstahls",
+        "descriptionTR": "Çalma eylemi veya suçu",
+        "descriptionAZ": "Oğurluq hərəkəti və ya cinayəti",
+        "descriptionUK": "дія або злочин крадіжки"
     }, {
         "de": "der Detektiv",
         "en": "detective",
         "ru": "детектив",
+        "tr": "dedektif",
+        "az": "detektiv",
+        "uk": "детектив",
         "descriptionEN": "a person, especially a police officer, whose occupation is to investigate and solve crimes",
         "descriptionRU": "человек, особенно полицейский, чья профессия заключается в расследовании и разгадке преступлений",
-        "descriptionDE": "Eine Person, insbesondere ein Polizeibeamter, dessen Beruf es ist, Verbrechen zu untersuchen und zu lösen"
+        "descriptionDE": "Eine Person, insbesondere ein Polizeibeamter, dessen Beruf es ist, Verbrechen zu untersuchen und zu lösen",
+        "descriptionTR": "Özellikle bir polis memuru olmak üzere, mesleği suçları araştırmak ve çözmek olan kişi",
+        "descriptionAZ": "Bir şəxs, xüsusilə polis məmuru, peşəsi cinayətləri araşdırmaq və həll etmək olan şəxs",
+        "descriptionUK": "особа, особливо поліцейський, чия професія полягає в розслідуванні та розкритті злочинів"
     }, {
         "de": "der Kunstsammler",
         "en": "art collector",
         "ru": "коллекционер искусства",
+        "tr": "sanat koleksiyoncusu",
+        "az": "incəsənət kolleksiyaçısı",
+        "uk": "колекціонер мистецтва",
         "descriptionEN": "a person who collects art",
         "descriptionRU": "человек, собирающий искусство",
-        "descriptionDE": "Eine Person, die Kunst sammelt"
+        "descriptionDE": "Eine Person, die Kunst sammelt",
+        "descriptionTR": "Sanat toplayan kişi",
+        "descriptionAZ": "Sənət əsərləri toplayan şəxs",
+        "descriptionUK": "людина, яка колекціонує мистецтво"
     }, {
         "de": "der Mitarbeiter",
         "en": "employee",
         "ru": "сотрудник",
+        "tr": "çalışan",
+        "az": "işçi",
+        "uk": "співробітник",
         "descriptionEN": "a person employed for wages or salary, especially at nonexecutive level",
         "descriptionRU": "человек, нанятый за зарплату, особенно на невысоком уровне",
-        "descriptionDE": "Eine Person, die gegen Lohn oder Gehalt beschäftigt ist, insbesondere auf nicht leitender Ebene"
+        "descriptionDE": "Eine Person, die gegen Lohn oder Gehalt beschäftigt ist, insbesondere auf nicht leitender Ebene",
+        "descriptionTR": "Ücret veya maaş karşılığı çalışan kişi, özellikle yönetici olmayan düzeyde",
+        "descriptionAZ": "Əmək haqqı və ya maaşla işləyən şəxs, xüsusilə qeyri-idarəçi səviyyədə",
+        "descriptionUK": "особа, найнята за заробітну плату або оклад, особливо на невиконавчому рівні"
     }, {
         "de": "das Sicherheitssystem",
         "en": "security system",
         "ru": "система безопасности",
+        "tr": "güvenlik sistemi",
+        "az": "təhlükəsizlik sistemi",
+        "uk": "система безпеки",
         "descriptionEN": "a system designed to detect intrusion or unauthorized entry into a building or area",
         "descriptionRU": "система, разработанная для обнаружения вторжения или несанкционированного входа в здание или район",
-        "descriptionDE": "Ein System, das entwickelt wurde, um Eindringen oder nicht autorisierten Zugang zu einem Gebäude oder Bereich zu erkennen"
+        "descriptionDE": "Ein System, das entwickelt wurde, um Eindringen oder nicht autorisierten Zugang zu einem Gebäude oder Bereich zu erkennen",
+        "descriptionTR": "Bir binaya veya alana izinsiz girişi veya yetkisiz girişi tespit etmek için tasarlanmış bir sistem",
+        "descriptionAZ": "Bir binaya və ya əraziyə müdaxiləni və ya icazəsiz girişi aşkar etmək üçün nəzərdə tutulmuş sistem",
+        "descriptionUK": "система, призначена для виявлення вторгнення або несанкціонованого проникнення в будівлю чи на територію"
     }, {
         "de": "der Besucher",
         "en": "visitor",
         "ru": "посетитель",
+        "tr": "ziyaretçi",
+        "az": "ziyarətçi",
+        "uk": "відвідувач",
         "descriptionEN": "a person who visits a place",
         "descriptionRU": "человек, посещающий место",
-        "descriptionDE": "Eine Person, die einen Ort besucht"
+        "descriptionDE": "Eine Person, die einen Ort besucht",
+        "descriptionTR": "Bir yeri ziyaret eden kişi",
+        "descriptionAZ": "Bir yeri ziyarət edən şəxs",
+        "descriptionUK": "людина, яка відвідує місце"
     }, {
         "de": "wandern",
         "en": "to wander",
         "ru": "блуждать",
+        "tr": "dolaşmak",
+        "az": "gəzmək",
+        "uk": "блукати",
         "descriptionEN": "to walk or move in a leisurely, casual, or aimless way",
         "descriptionRU": "идти или двигаться медленно, неспешно или бесцельно",
-        "descriptionDE": "Langsam, zwanglos oder ziellos gehen oder sich bewegen"
+        "descriptionDE": "Langsam, zwanglos oder ziellos gehen oder sich bewegen",
+        "descriptionTR": "Keyifli, rahat veya amaçsız bir şekilde yürümek veya hareket etmek",
+        "descriptionAZ": "Sakit, təsadüfi və ya məqsədsiz şəkildə gəzmək və ya hərəkət etmək",
+        "descriptionUK": "ходити або рухатися неспішно, невимушено або безцільно"
     }, {
         "de": "studieren",
         "en": "to study",
         "ru": "изучать",
+        "tr": "ders çalışmak",
+        "az": "öyrənmək",
+        "uk": "вивчати",
         "descriptionEN": "to devote time and attention to gaining knowledge of a subject",
         "descriptionRU": "посвящать время и внимание приобретению знаний по теме",
-        "descriptionDE": "Zeit und Aufmerksamkeit darauf verwenden, Wissen über ein Thema zu erlangen"
+        "descriptionDE": "Zeit und Aufmerksamkeit darauf verwenden, Wissen über ein Thema zu erlangen",
+        "descriptionTR": "Bir konu hakkında bilgi edinmeye zaman ve dikkat ayırmak",
+        "descriptionAZ": "Bir mövzu haqqında bilik əldə etmək üçün vaxt və diqqət ayırmaq",
+        "descriptionUK": "присвячувати час і увагу здобуттю знань з предмета"
     }, {
         "de": "beobachten",
         "en": "to observe",
         "ru": "наблюдать",
+        "tr": "gözlemlemek",
+        "az": "müşahidə etmək",
+        "uk": "спостерігати",
         "descriptionEN": "to notice or perceive (something) and register it as being significant",
         "descriptionRU": "замечать или воспринимать (что-то) и регистрировать его как значимое",
-        "descriptionDE": "etwas bemerken oder wahrnehmen und es als bedeutend registrieren"
+        "descriptionDE": "etwas bemerken oder wahrnehmen und es als bedeutend registrieren",
+        "descriptionTR": "(Bir şeyi) fark etmek veya algılamak ve önemli olduğunu kaydetmek",
+        "descriptionAZ": "(Bir şeyi) fərq etmək və ya qəbul etmək və onu əhəmiyyətli olaraq qeyd etmək",
+        "descriptionUK": "помічати або сприймати (щось) і реєструвати це як значуще"
     }, {
         "de": "klären",
         "en": "to clarify",
         "ru": "разъяснять",
+        "tr": "açıklığa kavuşturmak",
+        "az": "aydınlaşdırmaq",
+        "uk": "уточнити",
         "descriptionEN": "to make (a statement or situation) less confused and more clearly comprehensible",
         "descriptionRU": "сделать (заявление или ситуацию) менее запутанными и более понятными",
-        "descriptionDE": "Etwas weniger verwirrt und verständlicher machen"
+        "descriptionDE": "Etwas weniger verwirrt und verständlicher machen",
+        "descriptionTR": "(Bir ifadeyi veya durumu) daha az karmaşık ve daha net anlaşılır hale getirmek",
+        "descriptionAZ": "(Bir bəyanatı və ya vəziyyəti) daha az qarışıq və daha aydın başa düşülən etmək",
+        "descriptionUK": "зробити (висловлювання або ситуацію) менш заплутаною та більш зрозумілою"
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "открывать",
+        "tr": "keşfetmek",
+        "az": "aşkar etmək",
+        "uk": "відкривати",
         "descriptionEN": "to find (something or someone) unexpectedly or in the course of a search",
         "descriptionRU": "найти (что-то или кого-то) неожиданно или в ходе поиска",
-        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Laufe einer Suche finden"
+        "descriptionDE": "Etwas (oder jemanden) unerwartet oder im Laufe einer Suche finden",
+        "descriptionTR": "(Bir şeyi veya birini) beklenmedik bir şekilde veya bir arama sırasında bulmak",
+        "descriptionAZ": "(Bir şeyi və ya kimisə) gözlənilmədən və ya axtarış zamanı tapmaq",
+        "descriptionUK": "знайти (щось або когось) несподівано або під час пошуку"
     }, {
         "de": "ertappen",
         "en": "to catch",
         "ru": "поймать",
+        "tr": "yakalamak",
+        "az": "tutmaq",
+        "uk": "спіймати",
         "descriptionEN": "to seize or capture, especially after pursuit",
         "descriptionRU": "захватить или поймать, особенно после преследования",
-        "descriptionDE": "Ergreifen oder Erfassen, besonders nach Verfolgung"
+        "descriptionDE": "Ergreifen oder Erfassen, besonders nach Verfolgung",
+        "descriptionTR": "Özellikle takip sonrası ele geçirmek veya yakalamak",
+        "descriptionAZ": "Tutmaq və ya ələ keçirmək, xüsusilə təqibdən sonra",
+        "descriptionUK": "схопити або спіймати, особливо після переслідування"
     }, {
         "de": "verhaften",
         "en": "to arrest",
         "ru": "арестовывать",
+        "tr": "tutuklamak",
+        "az": "həbs etmək",
+        "uk": "заарештувати",
         "descriptionEN": "to seize (someone) by legal authority and take them into custody",
         "descriptionRU": "захватить (кого-то) по законному поручению и поместить его под стражу",
-        "descriptionDE": "Jemanden aufgrund einer rechtlichen Anordnung festnehmen und in Gewahrsam nehmen"
+        "descriptionDE": "Jemanden aufgrund einer rechtlichen Anordnung festnehmen und in Gewahrsam nehmen",
+        "descriptionTR": "(Birini) yasal yetkiyle ele geçirmek ve gözaltına almak",
+        "descriptionAZ": "Hüquqi səlahiyyətlə (kimisə) ələ keçirmək və nəzarətə götürmək",
+        "descriptionUK": "затримати (когось) за законною владою та взяти під варту"
     }, {
         "de": "enthüllen",
         "en": "to reveal",
         "ru": "раскрыть",
+        "tr": "ortaya çıkarmak",
+        "az": "aşkar etmək",
+        "uk": "розкрити",
         "descriptionEN": "to make (previously unknown or secret information) known to others",
         "descriptionRU": "сделать (ранее неизвестную или секретную информацию) известной другим",
-        "descriptionDE": "Etwas (zuvor unbekannte oder geheime Informationen) anderen bekannt machen"
+        "descriptionDE": "Etwas (zuvor unbekannte oder geheime Informationen) anderen bekannt machen",
+        "descriptionTR": "(Daha önce bilinmeyen veya gizli bilgileri) başkalarına duyurmak",
+        "descriptionAZ": "(Daha əvvəl naməlum və ya gizli məlumatı) başqalarına bildirmək",
+        "descriptionUK": "зробити (раніше невідому або таємну інформацію) відомою іншим"
     }
 ]

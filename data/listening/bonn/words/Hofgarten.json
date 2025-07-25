@@ -3,155 +3,287 @@
         "de": "der Hofgarten",
         "en": "courtyard garden",
         "ru": "дворцовый сад",
+        "tr": "saray bahçesi",
+        "az": "saray bağı",
+        "uk": "палацовий сад",
         "descriptionDE": "Ein Garten, der sich vor dem Kurfürstenpalast befindet und historisch für verschiedene Veranstaltungen genutzt wurde.",
         "descriptionEN": "A garden located in front of the electoral palace, historically used for various events.",
-        "descriptionRU": "Сад, расположенный перед избирательным дворцом, исторически использовавшийся для различных мероприятий."
+        "descriptionRU": "Сад, расположенный перед избирательным дворцом, исторически использовавшийся для различных мероприятий.",
+        "descriptionTR": "Tarihsel olarak çeşitli etkinlikler için kullanılan, elektoral sarayın önünde bulunan bir bahçe.",
+        "descriptionAZ": "Tarixən müxtəlif tədbirlər üçün istifadə olunan, seçki sarayının qarşısında yerləşən bağ.",
+        "descriptionUK": "Сад, розташований перед виборчим палацом, історично використовувався для різних заходів."
     }, {
         "de": "die Universität",
         "en": "university",
         "ru": "университет",
+        "tr": "üniversite",
+        "az": "universitet",
+        "uk": "університет",
         "descriptionDE": "Eine Einrichtung für höhere Bildung und Forschung.",
         "descriptionEN": "An institution of higher education and research.",
-        "descriptionRU": "Учреждение высшего образования и научных исследований."
+        "descriptionRU": "Учреждение высшего образования и научных исследований.",
+        "descriptionTR": "Yüksek öğrenim ve araştırma kurumu.",
+        "descriptionAZ": "Ali təhsil və tədqiqat müəssisəsi.",
+        "descriptionUK": "Заклад вищої освіти та наукових досліджень."
     }, {
         "de": "der Rasen",
         "en": "lawn",
         "ru": "газон",
+        "tr": "çim",
+        "az": "qazon",
+        "uk": "газон",
         "descriptionDE": "Ein Bereich, der mit Gras bedeckt ist und typischerweise für Freizeitzwecke genutzt wird.",
         "descriptionEN": "An area covered with grass, typically used for recreational purposes.",
-        "descriptionRU": "Участок, покрытый травой, обычно используемый для отдыха."
+        "descriptionRU": "Участок, покрытый травой, обычно используемый для отдыха.",
+        "descriptionTR": "Tipik olarak eğlence amaçlı kullanılan, çimle kaplı bir alan.",
+        "descriptionAZ": "Adətən istirahət məqsədləri üçün istifadə olunan otla örtülmüş ərazi.",
+        "descriptionUK": "Ділянка, вкрита травою, зазвичай використовується для відпочинку."
     }, {
         "de": "die Manifestation",
         "en": "manifestation",
         "ru": "проявление",
+        "tr": "tezahür",
+        "az": "təzahür",
+        "uk": "прояв",
         "descriptionDE": "Eine öffentliche Darstellung oder Demonstration, oft zum Ausdruck einer bestimmten Idee oder Meinung.",
         "descriptionEN": "A public display or demonstration, often expressing a specific idea or opinion.",
-        "descriptionRU": "Публичное выражение или демонстрация, часто выражающая конкретную идею или мнение."
+        "descriptionRU": "Публичное выражение или демонстрация, часто выражающая конкретную идею или мнение.",
+        "descriptionTR": "Genellikle belirli bir fikir veya görüşü ifade eden kamusal bir gösteri veya gösteri.",
+        "descriptionAZ": "Çox vaxt müəyyən bir fikir və ya fikri ifadə edən ictimai nümayiş və ya nümayiş.",
+        "descriptionUK": "Публічний показ або демонстрація, часто виражає конкретну ідею чи думку."
     }, {
         "de": "der Aufmarsch",
         "en": "march",
         "ru": "шествие",
+        "tr": "yürüyüş",
+        "az": "yürüş",
+        "uk": "хода",
         "descriptionDE": "Eine organisierte Bewegung von Menschen, normalerweise für eine Demonstration oder Protest.",
         "descriptionEN": "A organized movement of people, typically for a demonstration or protest.",
-        "descriptionRU": "Организованное передвижение людей, обычно для демонстрации или протеста."
+        "descriptionRU": "Организованное передвижение людей, обычно для демонстрации или протеста.",
+        "descriptionTR": "Genellikle bir gösteri veya protesto için insanların organize hareketi.",
+        "descriptionAZ": "Adətən nümayiş və ya etiraz üçün insanların mütəşəkkil hərəkəti.",
+        "descriptionUK": "Організований рух людей, зазвичай для демонстрації чи протесту."
     }, {
         "de": "die Grundfreiheit",
         "en": "basic freedom",
         "ru": "основная свобода",
+        "tr": "temel özgürlük",
+        "az": "əsas azadlıq",
+        "uk": "основна свобода",
         "descriptionDE": "Grundrechte und Freiheiten, die Einzelpersonen garantiert sind.",
         "descriptionEN": "Fundamental rights and freedoms guaranteed to individuals.",
-        "descriptionRU": "Фундаментальные права и свободы, гарантированные человеку."
+        "descriptionRU": "Фундаментальные права и свободы, гарантированные человеку.",
+        "descriptionTR": "Bireylere garanti edilen temel hak ve özgürlükler.",
+        "descriptionAZ": "Fərdlərə zəmanət verilən əsas hüquq və azadlıqlar.",
+        "descriptionUK": "Фундаментальні права та свободи, гарантовані особам."
     }, {
         "de": "die Regierung",
         "en": "government",
         "ru": "правительство",
+        "tr": "hükümet",
+        "az": "hökumət",
+        "uk": "уряд",
         "descriptionDE": "Das leitende Organ einer Nation, eines Staates oder einer Gemeinschaft.",
         "descriptionEN": "The governing body of a nation, state, or community.",
-        "descriptionRU": "Управляющий орган нации, штата или общества."
+        "descriptionRU": "Управляющий орган нации, штата или общества.",
+        "descriptionTR": "Bir ulusun, devletin veya topluluğun yönetim organı.",
+        "descriptionAZ": "Bir millətin, dövlətin və ya icmanın idarəetmə orqanı.",
+        "descriptionUK": "Керівний орган нації, держави чи громади."
     }, {
         "de": "der Frieden",
         "en": "peace",
         "ru": "мир",
+        "tr": "barış",
+        "az": "sülh",
+        "uk": "мир",
         "descriptionDE": "Ein Zustand der Ruhe oder Stille; Abwesenheit von Störung oder Aufregung.",
         "descriptionEN": "A state of tranquility or quiet; absence of disturbance or agitation.",
-        "descriptionRU": "Состояние спокойствия или тишины; отсутствие беспокойства или возмущения."
+        "descriptionRU": "Состояние спокойствия или тишины; отсутствие беспокойства или возмущения.",
+        "descriptionTR": "Huzur veya sessizlik durumu; rahatsızlık veya ajitasyonun yokluğu.",
+        "descriptionAZ": "Sakitlik və ya sakitlik vəziyyəti; narahatlıq və ya ajitasiya olmaması.",
+        "descriptionUK": "Стан спокою чи тиші; відсутність хвилювання чи збудження."
     }, {
         "de": "protestieren",
         "en": "to protest",
         "ru": "протестовать",
+        "tr": "protesto etmek",
+        "az": "etiraz etmək",
+        "uk": "протестувати",
         "descriptionDE": "Starkes Missfallen oder Einwände gegen etwas ausdrücken.",
         "descriptionEN": "To express strong disapproval or objection to something.",
-        "descriptionRU": "Выражать крайнее несогласие или возражение по отношению к чему-либо."
+        "descriptionRU": "Выражать крайнее несогласие или возражение по отношению к чему-либо.",
+        "descriptionTR": "Bir şeye karşı güçlü bir hoşnutsuzluk veya itiraz ifade etmek.",
+        "descriptionAZ": "Bir şeyə qarşı güclü narazılıq və ya etiraz ifadə etmək.",
+        "descriptionUK": "Висловити рішуче несхвалення або заперечення чогось."
     }, {
         "de": "fordern",
         "en": "to demand",
         "ru": "требовать",
+        "tr": "talep etmek",
+        "az": "tələb etmək",
+        "uk": "вимагати",
         "descriptionDE": "Energisch oder dringend um etwas bitten.",
         "descriptionEN": "To request forcefully or urgently.",
-        "descriptionRU": "Требовать силой или настойчиво."
+        "descriptionRU": "Требовать силой или настойчиво.",
+        "descriptionTR": "Zorla veya acilen bir şey istemek.",
+        "descriptionAZ": "Güclü və ya təcili şəkildə bir şey istəmək.",
+        "descriptionUK": "Вимагати рішуче або терміново."
     }, {
         "de": "friedlich",
         "en": "peaceful",
         "ru": "мирный",
+        "tr": "huzurlu",
+        "az": "dinc",
+        "uk": "мирний",
         "descriptionDE": "Gekennzeichnet durch das Fehlen von Krieg oder Gewalt; ruhig.",
         "descriptionEN": "Characterized by the absence of war or violence; calm.",
-        "descriptionRU": "Характеризующийся отсутствием войны или насилия; спокойный."
+        "descriptionRU": "Характеризующийся отсутствием войны или насилия; спокойный.",
+        "descriptionTR": "Savaş veya şiddetin yokluğu ile karakterize edilen; sakin.",
+        "descriptionAZ": "Müharibə və ya zorakılığın olmaması ilə xarakterizə olunur; sakit.",
+        "descriptionUK": "Характеризується відсутністю війни чи насильства; спокійний."
     }, {
         "de": "groß",
         "en": "large",
         "ru": "большой",
+        "tr": "büyük",
+        "az": "böyük",
+        "uk": "великий",
         "descriptionDE": "Von beträchtlicher oder relativ großer Größe, Ausdehnung oder Kapazität.",
         "descriptionEN": "Of considerable or relatively great size, extent, or capacity.",
-        "descriptionRU": "Значительного или относительно большого размера, объема или вместимости."
+        "descriptionRU": "Значительного или относительно большого размера, объема или вместимости.",
+        "descriptionTR": "Önemli veya nispeten büyük boyut, kapsam veya kapasiteye sahip.",
+        "descriptionAZ": "Əhəmiyyətli və ya nisbətən böyük ölçülü, həcmli və ya tutumlu.",
+        "descriptionUK": "Значного або відносно великого розміру, обсягу чи місткості."
     }, {
         "de": "die Architektur",
         "en": "architecture",
         "ru": "архитектура",
+        "tr": "mimari",
+        "az": "memarlıq",
+        "uk": "архітектура",
         "descriptionDE": "Die Kunst und Wissenschaft des Entwerfens und Erstellens von Gebäuden und anderen physischen Strukturen.",
         "descriptionEN": "The art and science of designing and creating buildings and other physical structures.",
-        "descriptionRU": "Искусство и наука проектирования и создания зданий и других физических структур."
+        "descriptionRU": "Искусство и наука проектирования и создания зданий и других физических структур.",
+        "descriptionTR": "Binaların ve diğer fiziksel yapıların tasarlanması ve oluşturulması sanatı ve bilimi.",
+        "descriptionAZ": "Binaların və digər fiziki strukturların dizaynı və yaradılması sənəti və elmi.",
+        "descriptionUK": "Мистецтво та наука проектування та створення будівель та інших фізичних споруд."
     }, {
         "de": "das Jubiläum",
         "en": "anniversary",
         "ru": "юбилей",
+        "tr": "yıl dönümü",
+        "az": "yubiley",
+        "uk": "ювілей",
         "descriptionDE": "Eine Feier oder Gedenkveranstaltung eines bemerkenswerten Ereignisses oder Meilensteins.",
         "descriptionEN": "A celebration or commemoration of a notable event or milestone.",
-        "descriptionRU": "Празднование или памятное событие или веху."
+        "descriptionRU": "Празднование или памятное событие или веху.",
+        "descriptionTR": "Önemli bir olayın veya dönüm noktasının kutlaması veya anılması.",
+        "descriptionAZ": "Əlamətdar bir hadisənin və ya mərhələnin qeyd edilməsi və ya xatirəsi.",
+        "descriptionUK": "Святкування або вшанування знаменної події чи віхи."
     }, {
         "de": "die Gemeinschaft",
         "en": "community",
         "ru": "община",
+        "tr": "topluluk",
+        "az": "icma",
+        "uk": "спільнота",
         "descriptionDE": "Eine Gruppe von Menschen, die am selben Ort lebt oder eine bestimmte Eigenschaft gemeinsam hat.",
         "descriptionEN": "A group of people living in the same place or having a particular characteristic in common.",
-        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общий характер."
+        "descriptionRU": "Группа людей, живущих в одном месте или имеющих общий характер.",
+        "descriptionTR": "Aynı yerde yaşayan veya ortak bir özelliği olan bir grup insan.",
+        "descriptionAZ": "Eyni yerdə yaşayan və ya ümumi bir xüsusiyyətə sahib bir qrup insan.",
+        "descriptionUK": "Група людей, які живуть в одному місці або мають спільну особливість."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
         "descriptionDE": "Die Übertragung von Bräuchen oder Überzeugungen von Generation zu Generation.",
         "descriptionEN": "The transmission of customs or beliefs from generation to generation.",
-        "descriptionRU": "Передача обычаев или убеждений из поколения в поколение."
+        "descriptionRU": "Передача обычаев или убеждений из поколения в поколение.",
+        "descriptionTR": "Geleneklerin veya inançların nesilden nesile aktarılması.",
+        "descriptionAZ": "Adət və ya inancların nəsildən nəslə ötürülməsi.",
+        "descriptionUK": "Передача звичаїв або вірувань від покоління до покоління."
     }, {
         "de": "das Erbe",
         "en": "heritage",
         "ru": "наследие",
+        "tr": "miras",
+        "az": "miras",
+        "uk": "спадщина",
         "descriptionDE": "Etwas, das geerbt wird; eine Eigenschaft oder ein Vermächtnis, das von einer Generation an die nächste weitergegeben wird.",
         "descriptionEN": "Something that is inherited; a characteristic or legacy passed down from one generation to the next.",
-        "descriptionRU": "Что-то, что унаследовано; характеристика или наследие, переданное из поколения в поколение."
+        "descriptionRU": "Что-то, что унаследовано; характеристика или наследие, переданное из поколения в поколение.",
+        "descriptionTR": "Miras alınan bir şey; bir nesilden diğerine aktarılan bir özellik veya miras.",
+        "descriptionAZ": "Miras alınan bir şey; bir nəsildən digərinə ötürülən bir xüsusiyyət və ya miras.",
+        "descriptionUK": "Щось успадковане; характеристика або спадщина, передана від одного покоління до іншого."
     }, {
         "de": "die Vielfalt",
         "en": "diversity",
         "ru": "разнообразие",
+        "tr": "çeşitlilik",
+        "az": "müxtəliflik",
+        "uk": "різноманітність",
         "descriptionDE": "Der Zustand, verschiedene Formen, Elemente oder Qualitäten zu haben.",
         "descriptionEN": "The state of having different forms, elements, or qualities.",
-        "descriptionRU": "Состояние, при котором есть разные формы, элементы или качества."
+        "descriptionRU": "Состояние, при котором есть разные формы, элементы или качества.",
+        "descriptionTR": "Farklı biçimlere, unsurlara veya niteliklere sahip olma durumu.",
+        "descriptionAZ": "Müxtəlif forma, element və ya keyfiyyətlərə sahib olma vəziyyəti.",
+        "descriptionUK": "Стан, що має різні форми, елементи або якості."
     }, {
         "de": "die Brücke",
         "en": "bridge",
         "ru": "мост",
+        "tr": "köprü",
+        "az": "körpü",
+        "uk": "міст",
         "descriptionDE": "Eine Struktur, die einen Weg oder eine Straße über eine Vertiefung oder ein Hindernis trägt.",
         "descriptionEN": "A structure carrying a pathway or roadway over a depression or obstacle.",
-        "descriptionRU": "Конструкция, несущая путь или дорогу через впадину или препятствие."
+        "descriptionRU": "Конструкция, несущая путь или дорогу через впадину или препятствие.",
+        "descriptionTR": "Bir çöküntü veya engelin üzerinden bir yol veya yol taşıyan bir yapı.",
+        "descriptionAZ": "Çöküntü və ya maneə üzərində bir yol və ya yol daşıyan bir quruluş.",
+        "descriptionUK": "Конструкція, що несе шлях або дорогу через западину або перешкоду."
     }, {
         "de": "die Freiheit",
         "en": "freedom",
         "ru": "свобода",
+        "tr": "özgürlük",
+        "az": "azadlıq",
+        "uk": "свобода",
         "descriptionDE": "Die Macht oder das Recht, nach eigenem Ermessen ohne Hindernisse oder Beschränkungen zu handeln, zu sprechen oder zu denken.",
         "descriptionEN": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
-        "descriptionRU": "Сила или право действовать, говорить или думать так, как хочется, без препятствий или ограничений."
+        "descriptionRU": "Сила или право действовать, говорить или думать так, как хочется, без препятствий или ограничений.",
+        "descriptionTR": "Engelsiz veya kısıtlama olmaksızın kişinin istediği gibi hareket etme, konuşma veya düşünme gücü veya hakkı.",
+        "descriptionAZ": "Maneə və ya məhdudiyyət olmadan istədiyi kimi hərəkət etmək, danışmaq və ya düşünmək gücü və ya hüququ.",
+        "descriptionUK": "Право або сила діяти, говорити або думати так, як хочеться, без перешкод чи обмежень."
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionDE": "Die Künste, Bräuche und andere Manifestationen menschlicher intellektueller Leistungen.",
         "descriptionEN": "The arts, customs, and other manifestations of human intellectual achievement.",
-        "descriptionRU": "Искусство, обычаи и другие проявления интеллектуальных достижений человека."
+        "descriptionRU": "Искусство, обычаи и другие проявления интеллектуальных достижений человека.",
+        "descriptionTR": "İnsan entelektüel başarısının sanatları, gelenekleri ve diğer tezahürleri.",
+        "descriptionAZ": "İnsan intellektual nailiyyətinin sənəti, adətləri və digər təzahürləri.",
+        "descriptionUK": "Мистецтво, звичаї та інші прояви інтелектуальних досягнень людини."
     }, {
         "de": "die Begegnung",
         "en": "encounter",
         "ru": "встреча",
+        "tr": "karşılaşma",
+        "az": "görüş",
+        "uk": "зустріч",
         "descriptionDE": "Ein Treffen, besonders ein ungeplantes oder unerwartetes.",
         "descriptionEN": "A meeting, especially one that is unplanned or unexpected.",
-        "descriptionRU": "Встреча, особенно та, которая не запланирована или неожиданна."
+        "descriptionRU": "Встреча, особенно та, которая не запланирована или неожиданна.",
+        "descriptionTR": "Bir toplantı, özellikle planlanmamış veya beklenmedik bir toplantı.",
+        "descriptionAZ": "Görüş, xüsusən planlaşdırılmamış və ya gözlənilməz görüş.",
+        "descriptionUK": "Зустріч, особливо незапланована або несподівана."
     }
 ]

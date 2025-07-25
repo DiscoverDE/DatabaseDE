@@ -3,155 +3,287 @@
         "de": "die Landschaft",
         "en": "landscape",
         "ru": "пейзаж",
+        "tr": "manzara",
+        "az": "mənzərə",
+        "uk": "пейзаж",
         "descriptionEN": "All the visible features of an area of land.",
         "descriptionRU": "Все видимые особенности земельного участка.",
-        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs."
+        "descriptionDE": "Alle sichtbaren Merkmale eines Landstrichs.",
+        "descriptionTR": "Bir arazi parçasının tüm görünür özellikleri.",
+        "descriptionAZ": "Torpaq sahəsinin bütün görünən xüsusiyyətləri.",
+        "descriptionUK": "Усі видимі особливості земельної ділянки."
     }, {
         "de": "die Geschichte",
         "en": "history",
         "ru": "история",
+        "tr": "tarih",
+        "az": "tarix",
+        "uk": "історія",
         "descriptionEN": "The study of past events.",
         "descriptionRU": "Изучение прошлых событий.",
-        "descriptionDE": "Das Studium vergangener Ereignisse."
+        "descriptionDE": "Das Studium vergangener Ereignisse.",
+        "descriptionTR": "Geçmiş olayların incelenmesi.",
+        "descriptionAZ": "Keçmiş hadisələrin öyrənilməsi.",
+        "descriptionUK": "Вивчення минулих подій."
     }, {
         "de": "die Burg",
         "en": "castle",
         "ru": "замок",
+        "tr": "kale",
+        "az": "qala",
+        "uk": "замок",
         "descriptionEN": "A large fortified building or complex.",
         "descriptionRU": "Большое укрепленное здание или комплекс.",
-        "descriptionDE": "Ein großes befestigtes Gebäude oder Komplex."
+        "descriptionDE": "Ein großes befestigtes Gebäude oder Komplex.",
+        "descriptionTR": "Büyük tahkimli bir bina veya kompleks.",
+        "descriptionAZ": "Böyük möhkəmləndirilmiş bina və ya kompleks.",
+        "descriptionUK": "Велика укріплена будівля чи комплекс."
     }, {
         "de": "der Weinberg",
         "en": "vineyard",
         "ru": "виноградник",
+        "tr": "bağ",
+        "az": "üzüm bağı",
+        "uk": "виноградник",
         "descriptionEN": "An area of land planted with grapevines.",
         "descriptionRU": "Участок земли, засаженный виноградниками.",
-        "descriptionDE": "Ein Gebiet, das mit Reben bepflanzt ist."
+        "descriptionDE": "Ein Gebiet, das mit Reben bepflanzt ist.",
+        "descriptionTR": "Üzüm asmaları dikili bir arazi.",
+        "descriptionAZ": "Üzüm budaqları əkilmiş torpaq sahəsi.",
+        "descriptionUK": "Ділянка землі, засаджена виноградниками."
     }, {
         "de": "der Wald",
         "en": "forest",
         "ru": "лес",
+        "tr": "orman",
+        "az": "meşə",
+        "uk": "ліс",
         "descriptionEN": "A large area covered chiefly with trees and undergrowth.",
         "descriptionRU": "Большая территория, покрытая в основном деревьями и подлеском.",
-        "descriptionDE": "Ein großes Gebiet, das hauptsächlich mit Bäumen und Sträuchern bedeckt ist."
+        "descriptionDE": "Ein großes Gebiet, das hauptsächlich mit Bäumen und Sträuchern bedeckt ist.",
+        "descriptionTR": "Ağaçlar ve çalılarla kaplı geniş bir alan.",
+        "descriptionAZ": "Əsasən ağaclar və kollar ilə örtülmüş geniş ərazi.",
+        "descriptionUK": "Велика територія, вкрита переважно деревами та підліском."
     }, {
         "de": "die Region",
         "en": "region",
         "ru": "регион",
+        "tr": "bölge",
+        "az": "region",
+        "uk": "регіон",
         "descriptionEN": "An area or division, especially part of a country or the world.",
         "descriptionRU": "Область или подразделение, особенно часть страны или мира.",
-        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt."
+        "descriptionDE": "Ein Gebiet oder eine Abteilung, insbesondere ein Teil eines Landes oder der Welt.",
+        "descriptionTR": "Bir alan veya bölüm, özellikle bir ülkenin veya dünyanın parçası.",
+        "descriptionAZ": "Bir ərazi və ya bölmə, xüsusilə bir ölkənin və ya dünyanın hissəsi.",
+        "descriptionUK": "Область чи підрозділ, особливо частина країни чи світу."
     }, {
         "de": "die Verbindung",
         "en": "connection",
         "ru": "связь",
+        "tr": "bağlantı",
+        "az": "əlaqə",
+        "uk": "зв'язок",
         "descriptionEN": "A relationship or link between two or more things.",
         "descriptionRU": "Отношение или связь между двумя или более вещами.",
-        "descriptionDE": "Eine Beziehung oder ein Link zwischen zwei oder mehr Dingen."
+        "descriptionDE": "Eine Beziehung oder ein Link zwischen zwei oder mehr Dingen.",
+        "descriptionTR": "İki veya daha fazla şey arasındaki ilişki veya bağ.",
+        "descriptionAZ": "İki və ya daha çox şey arasındakı əlaqə və ya bağ.",
+        "descriptionUK": "Відношення чи зв'язок між двома чи більше речами."
     }, {
         "de": "die Kultur",
         "en": "culture",
         "ru": "культура",
+        "tr": "kültür",
+        "az": "mədəniyyət",
+        "uk": "культура",
         "descriptionEN": "The social behavior and norms found in human societies.",
         "descriptionRU": "Социальное поведение и нормы, присущие человеческим обществам.",
-        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind."
+        "descriptionDE": "Das soziale Verhalten und die Normen, die in menschlichen Gesellschaften zu finden sind.",
+        "descriptionTR": "İnsan toplumlarında bulunan sosyal davranış ve normlar.",
+        "descriptionAZ": "İnsan cəmiyyətlərində tapılan sosial davranış və normalar.",
+        "descriptionUK": "Соціальна поведінка та норми, властиві людським суспільствам."
     }, {
         "de": "der Tourismus",
         "en": "tourism",
         "ru": "туризм",
+        "tr": "turizm",
+        "az": "turizm",
+        "uk": "туризм",
         "descriptionEN": "The commercial organization and operation of vacations and visits to places of interest.",
         "descriptionRU": "Коммерческая организация и проведение отпусков и посещений интересных мест.",
-        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten."
+        "descriptionDE": "Die kommerzielle Organisation und Durchführung von Urlauben und Besuchen von Sehenswürdigkeiten.",
+        "descriptionTR": "Tatillerin ve ilgi çekici yerlere ziyaretlerin ticari organizasyonu ve işletilmesi.",
+        "descriptionAZ": "Tətil və maraqlı yerlərə səfərlərin kommersiya təşkili və həyata keçirilməsi.",
+        "descriptionUK": "Комерційна організація та проведення відпусток та відвідувань цікавих місць."
     }, {
         "de": "die Freiheit",
         "en": "freedom",
         "ru": "свобода",
+        "tr": "özgürlük",
+        "az": "azadlıq",
+        "uk": "свобода",
         "descriptionEN": "The power or right to act, speak, or think as one wants.",
         "descriptionRU": "Право или возможность действовать, говорить или думать по своему усмотрению.",
-        "descriptionDE": "Die Macht oder das Recht zu handeln, zu sprechen oder zu denken, wie man will."
+        "descriptionDE": "Die Macht oder das Recht zu handeln, zu sprechen oder zu denken, wie man will.",
+        "descriptionTR": "İstediği gibi hareket etme, konuşma veya düşünme gücü veya hakkı.",
+        "descriptionAZ": "İstədiyi kimi hərəkət etmək, danışmaq və ya düşünmək gücü və ya hüququ.",
+        "descriptionUK": "Право чи можливість діяти, говорити чи думати на свій розсуд."
     }, {
         "de": "wandern",
         "en": "to hike",
         "ru": "гулять",
+        "tr": "yürüyüş yapmak",
+        "az": "gəzmək",
+        "uk": "гуляти",
         "descriptionEN": "To walk for a long distance, especially in the countryside.",
         "descriptionRU": "Гулять на большие расстояния, особенно в сельской местности.",
-        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders auf dem Land."
+        "descriptionDE": "Lange Strecken zu Fuß gehen, besonders auf dem Land.",
+        "descriptionTR": "Uzun mesafeler yürümek, özellikle kırsalda.",
+        "descriptionAZ": "Uzun məsafələr gəzmək, xüsusilə kənd ərazisində.",
+        "descriptionUK": "Гуляти на великі відстані, особливо в сільській місцевості."
     }, {
         "de": "verbinden",
         "en": "to connect",
         "ru": "связывать",
+        "tr": "bağlamak",
+        "az": "bağlamaq",
+        "uk": "з'єднувати",
         "descriptionEN": "To bring two or more things together.",
         "descriptionRU": "Соединить два или более объекта.",
-        "descriptionDE": "Zwei oder mehr Dinge zusammenbringen."
+        "descriptionDE": "Zwei oder mehr Dinge zusammenbringen.",
+        "descriptionTR": "İki veya daha fazla şeyi bir araya getirmek.",
+        "descriptionAZ": "İki və ya daha çox şeyi bir araya gətirmək.",
+        "descriptionUK": "Поєднувати два чи більше об'єкти."
     }, {
         "de": "genießen",
         "en": "to enjoy",
         "ru": "наслаждаться",
+        "tr": "zevk almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
         "descriptionEN": "To take pleasure in something.",
         "descriptionRU": "Получать удовольствие от чего-то.",
-        "descriptionDE": "Etwas genießen und Freude daran haben."
+        "descriptionDE": "Etwas genießen und Freude daran haben.",
+        "descriptionTR": "Bir şeyden zevk almak.",
+        "descriptionAZ": "Bir şeydən həzz almaq.",
+        "descriptionUK": "Отримувати задоволення від чогось."
     }, {
         "de": "schön",
         "en": "beautiful",
         "ru": "красивый",
+        "tr": "güzel",
+        "az": "gözəl",
+        "uk": "красивий",
         "descriptionEN": "Pleasing the senses or mind aesthetically.",
         "descriptionRU": "Приятный для чувств или разума эстетически.",
-        "descriptionDE": "Angenehm für die Sinne oder den Geist."
+        "descriptionDE": "Angenehm für die Sinne oder den Geist.",
+        "descriptionTR": "Duyulara veya zihne estetik açıdan hoş gelen.",
+        "descriptionAZ": "Duyğulara və ya ağıla estetik cəhətdən xoş gələn.",
+        "descriptionUK": "Приємний для почуттів чи розуму естетично."
     }, {
         "de": "ruhig",
         "en": "calm",
         "ru": "спокойный",
+        "tr": "sakin",
+        "az": "sakit",
+        "uk": "спокійний",
         "descriptionEN": "Free from disturbance or agitation.",
         "descriptionRU": "Свободный от беспокойства или волнений.",
-        "descriptionDE": "Frei von Störungen oder Aufregung."
+        "descriptionDE": "Frei von Störungen oder Aufregung.",
+        "descriptionTR": "Huzursuzluk veya heyecandan uzak.",
+        "descriptionAZ": "Narahatlıq və ya həyəcandan uzaq.",
+        "descriptionUK": "Вільний від занепокоєння чи хвилювань."
     }, {
         "de": "reich",
         "en": "rich",
         "ru": "богатый",
+        "tr": "zengin",
+        "az": "varlı",
+        "uk": "багатий",
         "descriptionEN": "Having a great deal of money or assets.",
         "descriptionRU": "Имеющий много денег или активов.",
-        "descriptionDE": "Viel Geld oder Vermögen besitzen."
+        "descriptionDE": "Viel Geld oder Vermögen besitzen.",
+        "descriptionTR": "Çok miktarda para veya varlığa sahip olmak.",
+        "descriptionAZ": "Çoxlu pul və ya aktivə malik olmaq.",
+        "descriptionUK": "Мати багато грошей чи активів."
     }, {
         "de": "alt",
         "en": "old",
         "ru": "старый",
+        "tr": "eski",
+        "az": "köhnə",
+        "uk": "старий",
         "descriptionEN": "Having lived for a long time.",
         "descriptionRU": "Проживший долгое время.",
-        "descriptionDE": "Lange Zeit gelebt haben."
+        "descriptionDE": "Lange Zeit gelebt haben.",
+        "descriptionTR": "Uzun süre yaşamış.",
+        "descriptionAZ": "Uzun müddət yaşamış.",
+        "descriptionUK": "Прожилий довгий час."
     }, {
         "de": "traditionell",
         "en": "traditional",
         "ru": "традиционный",
+        "tr": "geleneksel",
+        "az": "ənənəvi",
+        "uk": "традиційний",
         "descriptionEN": "Relating to customs or beliefs passed down through generations.",
         "descriptionRU": "Относящийся к обычаям или верованиям, передаваемым из поколения в поколение.",
-        "descriptionDE": "Bezogen auf Bräuche oder Überzeugungen, die von Generation zu Generation weitergegeben werden."
+        "descriptionDE": "Bezogen auf Bräuche oder Überzeugungen, die von Generation zu Generation weitergegeben werden.",
+        "descriptionTR": "Nesilden nesile aktarılan gelenekler veya inançlarla ilgili.",
+        "descriptionAZ": "Nəsildən-nəslə ötürülən adət və ya inanclarla bağlı.",
+        "descriptionUK": "Стосується звичаїв чи вірувань, що передаються з покоління в покоління."
     }, {
         "de": "einzigartig",
         "en": "unique",
         "ru": "уникальный",
+        "tr": "eşsiz",
+        "az": "unikal",
+        "uk": "унікальний",
         "descriptionEN": "Being the only one of its kind.",
         "descriptionRU": "Будучи единственным в своем роде.",
-        "descriptionDE": "Das einzige seiner Art."
+        "descriptionDE": "Das einzige seiner Art.",
+        "descriptionTR": "Kendi türünün tek örneği olmak.",
+        "descriptionAZ": "Öz növünün tək nümunəsi olmaq.",
+        "descriptionUK": "Будучи єдиним у своєму роді."
     }, {
         "de": "ruhig",
         "en": "quiet",
         "ru": "тихий",
+        "tr": "sessiz",
+        "az": "sakit",
+        "uk": "тихий",
         "descriptionEN": "Making little or no noise.",
         "descriptionRU": "Издающий мало или совсем не издающий звуков.",
-        "descriptionDE": "Kaum oder keinen Lärm machen."
+        "descriptionDE": "Kaum oder keinen Lärm machen.",
+        "descriptionTR": "Çok az veya hiç ses çıkarmamak.",
+        "descriptionAZ": "Çox az və ya heç səs çıxarmamaq.",
+        "descriptionUK": "Видає мало чи взагалі не видає звуків."
     }, {
         "de": "interessant",
         "en": "interesting",
         "ru": "интересный",
+        "tr": "ilginç",
+        "az": "maraqlı",
+        "uk": "цікавий",
         "descriptionEN": "Arousing curiosity or interest.",
         "descriptionRU": "Пробуждающий любопытство или интерес.",
-        "descriptionDE": "Neugier oder Interesse wecken."
+        "descriptionDE": "Neugier oder Interesse wecken.",
+        "descriptionTR": "Merak veya ilgi uyandırmak.",
+        "descriptionAZ": "Maraq və ya həvəs oyatmaq.",
+        "descriptionUK": "Викликати цікавість чи інтерес."
     }, {
         "de": "kulturell",
         "en": "cultural",
         "ru": "культурный",
+        "tr": "kültürel",
+        "az": "mədəni",
+        "uk": "культурний",
         "descriptionEN": "Relating to culture, customs, or traditions.",
         "descriptionRU": "Относящийся к культуре, обычаям или традициям.",
-        "descriptionDE": "Bezogen auf Kultur, Bräuche oder Traditionen."
+        "descriptionDE": "Bezogen auf Kultur, Bräuche oder Traditionen.",
+        "descriptionTR": "Kültür, gelenekler veya adetlerle ilgili.",
+        "descriptionAZ": "Mədəniyyət, adət və ya ənənələrlə bağlı.",
+        "descriptionUK": "Стосується культури, звичаїв чи традицій."
     }
 ]

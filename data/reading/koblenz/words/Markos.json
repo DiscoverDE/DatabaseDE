@@ -3,162 +3,300 @@
         "de": "der Ingenieur",
         "en": "engineer",
         "ru": "инженер",
+        "tr": "mühendis",
+        "az": "mühəndis",
+        "uk": "інженер",
         "descriptionEN": "a person who designs, builds, or maintains engines, machines, or structures.",
         "descriptionRU": "человек, который проектирует, строит или обслуживает двигатели, машины или конструкции.",
-        "descriptionDE": "Eine Person, die Motoren, Maschinen oder Strukturen entwirft, baut oder instand hält."
+        "descriptionDE": "Eine Person, die Motoren, Maschinen oder Strukturen entwirft, baut oder instand hält.",
+        "descriptionTR": "Motorları, makineleri veya yapıları tasarlayan, inşa eden veya bakımını yapan kişi.",
+        "descriptionAZ": "Mühərrikləri, maşınları və ya strukturları layihələndirən, quran və ya təmir edən şəxs.",
+        "descriptionUK": "людина, яка проектує, будує або обслуговує двигуни, машини або конструкції."
     }, {
         "de": "die Gelegenheit",
         "en": "opportunity",
         "ru": "возможность",
+        "tr": "fırsat",
+        "az": "fürsət",
+        "uk": "можливість",
         "descriptionEN": "a set of circumstances that makes it possible to do something.",
         "descriptionRU": "совокупность обстоятельств, которые делают возможным совершение чего-либо.",
-        "descriptionDE": "Eine Reihe von Umständen, die es möglich machen, etwas zu tun."
+        "descriptionDE": "Eine Reihe von Umständen, die es möglich machen, etwas zu tun.",
+        "descriptionTR": "Bir şeyi yapmayı mümkün kılan koşullar bütünü.",
+        "descriptionAZ": "Bir şeyi etməyi mümkün edən şərait toplusu.",
+        "descriptionUK": "набір обставин, які уможливлюють щось зробити."
     }, {
         "de": "die Rolle",
         "en": "role",
         "ru": "роль",
+        "tr": "rol",
+        "az": "rol",
+        "uk": "роль",
         "descriptionEN": "the function assumed or part played by a person or thing in a particular situation.",
         "descriptionRU": "функция, которую принимает или играет человек или вещь в определенной ситуации.",
-        "descriptionDE": "Die Funktion, die eine Person oder Sache in einer bestimmten Situation annimmt oder spielt."
+        "descriptionDE": "Die Funktion, die eine Person oder Sache in einer bestimmten Situation annimmt oder spielt.",
+        "descriptionTR": "Bir kişi veya şeyin belirli bir durumda üstlendiği işlev veya oynadığı kısım.",
+        "descriptionAZ": "Şəxsin və ya əşyanın müəyyən bir vəziyyətdə öz üzərinə götürdüyü funksiya və ya oynadığı rol.",
+        "descriptionUK": "функція, яку виконує або роль, яку відіграє особа чи річ у певній ситуації."
     }, {
         "de": "die Aufgabe",
         "en": "task",
         "ru": "задача",
+        "tr": "görev",
+        "az": "tapşırıq",
+        "uk": "завдання",
         "descriptionEN": "a piece of work to be done or undertaken.",
         "descriptionRU": "работа, которую нужно выполнить или предпринять.",
-        "descriptionDE": "Eine Arbeit, die erledigt oder unternommen werden muss."
+        "descriptionDE": "Eine Arbeit, die erledigt oder unternommen werden muss.",
+        "descriptionTR": "Yapılması veya üstlenilmesi gereken bir iş parçası.",
+        "descriptionAZ": "Yerine yetirilməli və ya öhdəsinə götürülməli olan bir iş parçası.",
+        "descriptionUK": "частина роботи, яку потрібно виконати або взяти на себе."
     }, {
         "de": "der Kollege",
         "en": "colleague",
         "ru": "коллега",
+        "tr": "meslektaş",
+        "az": "həmkar",
+        "uk": "колега",
         "descriptionEN": "a person with whom one works in the same profession or organization.",
         "descriptionRU": "человек, с которым работаешь в той же профессии или организации.",
-        "descriptionDE": "Eine Person, mit der man in derselben Profession oder Organisation arbeitet."
+        "descriptionDE": "Eine Person, mit der man in derselben Profession oder Organisation arbeitet.",
+        "descriptionTR": "Aynı meslek veya organizasyonda birlikte çalışılan kişi.",
+        "descriptionAZ": "Eyni peşə və ya təşkilatda işlədiyi şəxs.",
+        "descriptionUK": "людина, з якою працюють в одній професії або організації."
     }, {
         "de": "die Fabrik",
         "en": "factory",
         "ru": "завод",
+        "tr": "fabrika",
+        "az": "zavod",
+        "uk": "фабрика",
         "descriptionEN": "a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
         "descriptionRU": "здание или группа зданий, где товары производятся или собираются в основном машинным способом.",
-        "descriptionDE": "Ein Gebäude oder eine Gruppe von Gebäuden, in denen Waren hauptsächlich maschinell hergestellt oder montiert werden."
+        "descriptionDE": "Ein Gebäude oder eine Gruppe von Gebäuden, in denen Waren hauptsächlich maschinell hergestellt oder montiert werden.",
+        "descriptionTR": "Malların esas olarak makineyle üretildiği veya monte edildiği bir bina veya binalar grubu.",
+        "descriptionAZ": "Malların əsasən maşınla istehsal olunduğu və ya yığıldığı bina və ya binalar qrupu.",
+        "descriptionUK": "будівля або група будівель, де товари виготовляються або збираються переважно машинами."
     }, {
         "de": "das Projekt",
         "en": "project",
         "ru": "проект",
+        "tr": "proje",
+        "az": "layihə",
+        "uk": "проєкт",
         "descriptionEN": "an individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
         "descriptionRU": "индивидуальное или совместное предприятие, которое тщательно планируется для достижения определенной цели.",
-        "descriptionDE": "Ein individuelles oder gemeinschaftliches Unternehmen, das sorgfältig geplant ist, um ein bestimmtes Ziel zu erreichen."
+        "descriptionDE": "Ein individuelles oder gemeinschaftliches Unternehmen, das sorgfältig geplant ist, um ein bestimmtes Ziel zu erreichen.",
+        "descriptionTR": "Belirli bir amaca ulaşmak için dikkatlice planlanmış bireysel veya işbirlikçi bir girişim.",
+        "descriptionAZ": "Müəyyən bir məqsədə nail olmaq üçün diqqətlə planlaşdırılan fərdi və ya birgə müəssisə.",
+        "descriptionUK": "індивідуальне або спільне підприємство, яке ретельно планується для досягнення певної мети."
     }, {
         "de": "das Flugzeug",
         "en": "airplane",
         "ru": "самолет",
+        "tr": "uçak",
+        "az": "təyyarə",
+        "uk": "літак",
         "descriptionEN": "a powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
         "descriptionRU": "летательное средство с двигателем с фиксированными крыльями и весом больше, чем вес воздуха, который оно вытесняет.",
-        "descriptionDE": "Ein motorisiertes Flugzeug mit starren Flügeln und einem Gewicht, das größer ist als das des verdrängten Luftvolumens."
+        "descriptionDE": "Ein motorisiertes Flugzeug mit starren Flügeln und einem Gewicht, das größer ist als das des verdrängten Luftvolumens.",
+        "descriptionTR": "Sabit kanatlı ve yer değiştirdiği havadan daha ağır olan motorlu bir uçan araç.",
+        "descriptionAZ": "Sabit qanadları olan və yerini dəyişdirdiyi havadan daha ağır olan güclü uçan vasitə.",
+        "descriptionUK": "літальний апарат з двигуном, нерухомими крилами та вагою, більшою за вагу повітря, яке він витісняє."
     }, {
         "de": "die Abwesenheit",
         "en": "absence",
         "ru": "отсутствие",
+        "tr": "yokluk",
+        "az": "yoxluq",
+        "uk": "відсутність",
         "descriptionEN": "the state of being away from a place or person.",
         "descriptionRU": "состояние отсутствия в определенном месте или от определенного человека.",
-        "descriptionDE": "Der Zustand, nicht an einem Ort oder bei einer Person zu sein."
+        "descriptionDE": "Der Zustand, nicht an einem Ort oder bei einer Person zu sein.",
+        "descriptionTR": "Bir yerden veya kişiden uzakta olma durumu.",
+        "descriptionAZ": "Bir yerdən və ya şəxsdən uzaqda olma vəziyyəti.",
+        "descriptionUK": "стан відсутності в певному місці або від певної особи."
     }, {
         "de": "das Gespräch",
         "en": "conversation",
         "ru": "разговор",
+        "tr": "konuşma",
+        "az": "söhbət",
+        "uk": "розмова",
         "descriptionEN": "a talk, especially an informal one, between two or more people, in which news and ideas are exchanged.",
         "descriptionRU": "беседа, особенно неформальная, между двумя или более людьми, в которой обмениваются новостями и идеями.",
-        "descriptionDE": "Ein Gespräch, insbesondere ein informelles, zwischen zwei oder mehr Personen, bei dem Nachrichten und Ideen ausgetauscht werden."
+        "descriptionDE": "Ein Gespräch, insbesondere ein informelles, zwischen zwei oder mehr Personen, bei dem Nachrichten und Ideen ausgetauscht werden.",
+        "descriptionTR": "Özellikle gayri resmi, iki veya daha fazla kişi arasında haber ve fikir alışverişinin yapıldığı bir konuşma.",
+        "descriptionAZ": "İki və ya daha çox insan arasında xəbər və fikir mübadiləsi aparılan söhbət, xüsusilə qeyri-rəsmi söhbət.",
+        "descriptionUK": "розмова, особливо неформальна, між двома або більше людьми, під час якої обмінюються новинами та ідеями."
     }, {
         "de": "die Heimatstadt",
         "en": "hometown",
         "ru": "родной город",
+        "tr": "memleket",
+        "az": "doğma şəhər",
+        "uk": "рідне місто",
         "descriptionEN": "the town or city where a person was born or grew up.",
         "descriptionRU": "город или населенный пункт, где человек родился или вырос.",
-        "descriptionDE": "Die Stadt, in der eine Person geboren wurde oder aufgewachsen ist."
+        "descriptionDE": "Die Stadt, in der eine Person geboren wurde oder aufgewachsen ist.",
+        "descriptionTR": "Bir kişinin doğduğu veya büyüdüğü kasaba veya şehir.",
+        "descriptionAZ": "Şəxsin doğulduğu və ya böyüdüyü qəsəbə və ya şəhər.",
+        "descriptionUK": "місто, де людина народилася або виросла."
     }, {
         "de": "das Büro",
         "en": "office",
         "ru": "офис",
+        "tr": "ofis",
+        "az": "ofis",
+        "uk": "офіс",
         "descriptionEN": "a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
         "descriptionRU": "комната, набор комнат или здание, используемое в качестве места для коммерческой, профессиональной или бюрократической работы.",
-        "descriptionDE": "Ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, professionelle oder bürokratische Arbeit dient."
+        "descriptionDE": "Ein Raum, eine Reihe von Räumen oder ein Gebäude, das als Ort für kommerzielle, professionelle oder bürokratische Arbeit dient.",
+        "descriptionTR": "Ticari, profesyonel veya bürokratik işler için kullanılan bir oda, bir dizi oda veya bina.",
+        "descriptionAZ": "Kommersiya, peşə və ya bürokratik iş üçün istifadə olunan otaq, otaqlar dəsti və ya bina.",
+        "descriptionUK": "кімната, набір кімнат або будівля, що використовується як місце для комерційної, професійної або бюрократичної роботи."
     }, {
         "de": "die Kommunikation",
         "en": "communication",
         "ru": "коммуникация",
+        "tr": "iletişim",
+        "az": "ünsiyyət",
+        "uk": "комунікація",
         "descriptionEN": "the imparting or exchanging of information by speaking, writing, or using some other medium.",
         "descriptionRU": "передача или обмен информацией путем говорения, письма или использования какого-либо другого средства.",
-        "descriptionDE": "Die Vermittlung oder der Austausch von Informationen durch Sprechen, Schreiben oder Verwendung eines anderen Mediums."
+        "descriptionDE": "Die Vermittlung oder der Austausch von Informationen durch Sprechen, Schreiben oder Verwendung eines anderen Mediums.",
+        "descriptionTR": "Konuşarak, yazarak veya başka bir ortam kullanarak bilgi aktarma veya alışverişi.",
+        "descriptionAZ": "Danışmaq, yazmaq və ya başqa bir vasitədən istifadə etməklə məlumatın ötürülməsi və ya mübadiləsi.",
+        "descriptionUK": "передача або обмін інформацією шляхом говоріння, письма або використання іншого засобу."
     }, {
         "de": "arbeiten",
         "en": "to work",
         "ru": "работать",
+        "tr": "çalışmak",
+        "az": "işləmək",
+        "uk": "працювати",
         "descriptionEN": "to engage in activity for the purpose of earning a living.",
         "descriptionRU": "заниматься деятельностью с целью заработка на жизнь.",
-        "descriptionDE": "Sich an einer Tätigkeit beteiligen, um den Lebensunterhalt zu verdienen."
+        "descriptionDE": "Sich an einer Tätigkeit beteiligen, um den Lebensunterhalt zu verdienen.",
+        "descriptionTR": "Geçimini sağlamak amacıyla bir faaliyette bulunmak.",
+        "descriptionAZ": "Yaşayış qazanmaq məqsədilə fəaliyyətlə məşğul olmaq.",
+        "descriptionUK": "займатися діяльністю з метою заробляння на життя."
     }, {
         "de": "leben",
         "en": "to live",
         "ru": "жить",
+        "tr": "yaşamak",
+        "az": "yaşamaq",
+        "uk": "жити",
         "descriptionEN": "to be alive; to have life.",
         "descriptionRU": "быть живым; иметь жизнь.",
-        "descriptionDE": "Am Leben sein; Leben haben."
+        "descriptionDE": "Am Leben sein; Leben haben.",
+        "descriptionTR": "Hayatta olmak; yaşama sahip olmak.",
+        "descriptionAZ": "Canlı olmaq; həyata malik olmaq.",
+        "descriptionUK": "бути живим; мати життя."
     }, {
         "de": "beginnen",
         "en": "to begin",
         "ru": "начинать",
+        "tr": "başlamak",
+        "az": "başlamaq",
+        "uk": "починати",
         "descriptionEN": "to start or commence (something).",
         "descriptionRU": "начать или начать (что-то).",
-        "descriptionDE": "Etwas beginnen oder in Angriff nehmen."
+        "descriptionDE": "Etwas beginnen oder in Angriff nehmen.",
+        "descriptionTR": "(Bir şeyi) başlatmak veya başlamak.",
+        "descriptionAZ": "(Bir şeyə) başlamaq və ya başlamaq.",
+        "descriptionUK": "почати або розпочати (щось)."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "досліджувати",
         "descriptionEN": "to travel through (an unfamiliar area) in order to learn about it.",
         "descriptionRU": "путешествовать по (незнакомой местности) с целью узнать о ней.",
-        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren."
+        "descriptionDE": "Durchreisen (eines unbekannten Gebiets), um mehr darüber zu erfahren.",
+        "descriptionTR": "Hakkında bilgi edinmek için (bilinmeyen bir bölgede) seyahat etmek.",
+        "descriptionAZ": "Haqqında öyrənmək üçün (naməlum bir ərazidən) səyahət etmək.",
+        "descriptionUK": "подорожувати (незнайомою територією), щоб дізнатися про неї."
     }, {
         "de": "aufgeregt",
         "en": "excited",
         "ru": "возбужденный",
+        "tr": "heyecanlı",
+        "az": "həyəcanlı",
+        "uk": "збуджений",
         "descriptionEN": "very enthusiastic and eager.",
         "descriptionRU": "очень восторженный и нетерпеливый.",
-        "descriptionDE": "Sehr enthusiastisch und eifrig."
+        "descriptionDE": "Sehr enthusiastisch und eifrig.",
+        "descriptionTR": "Çok hevesli ve istekli.",
+        "descriptionAZ": "Çox həvəsli və istəkli.",
+        "descriptionUK": "дуже захоплений і нетерплячий."
     }, {
         "de": "nervös",
         "en": "nervous",
         "ru": "нервный",
+        "tr": "gergin",
+        "az": "əsəbi",
+        "uk": "нервовий",
         "descriptionEN": "easily agitated or alarmed; tending to be anxious.",
         "descriptionRU": "легко возбуждается или тревожится; склонный к беспокойству.",
-        "descriptionDE": "Leicht erregt oder alarmiert; dazu neigend, ängstlich zu sein."
+        "descriptionDE": "Leicht erregt oder alarmiert; dazu neigend, ängstlich zu sein.",
+        "descriptionTR": "Kolayca tedirgin veya endişeli; kaygılı olmaya eğilimli.",
+        "descriptionAZ": "Asanlıqla qıcıqlanan və ya həyəcanlanan; narahat olmağa meylli.",
+        "descriptionUK": "легко збуджується або лякається; схильний до тривоги."
     }, {
         "de": "begrenzt",
         "en": "limited",
         "ru": "ограниченный",
+        "tr": "sınırlı",
+        "az": "məhdud",
+        "uk": "обмежений",
         "descriptionEN": "restricted in size, amount, or extent.",
         "descriptionRU": "ограничен по размеру, количеству или степени.",
-        "descriptionDE": "In Größe, Menge oder Umfang eingeschränkt."
+        "descriptionDE": "In Größe, Menge oder Umfang eingeschränkt.",
+        "descriptionTR": "Boyut, miktar veya kapsam açısından kısıtlanmış.",
+        "descriptionAZ": "Ölçü, miqdar və ya həcm baxımından məhdudlaşdırılmış.",
+        "descriptionUK": "обмежений у розмірі, кількості або обсязі."
     }, {
         "de": "schwierig",
         "en": "difficult",
         "ru": "трудный",
+        "tr": "zor",
+        "az": "çətin",
+        "uk": "складний",
         "descriptionEN": "needing much effort or skill to accomplish, deal with, or understand.",
         "descriptionRU": "требующий много усилий или навыков для выполнения, справления или понимания.",
-        "descriptionDE": "Erfordert viel Mühe oder Geschicklichkeit, um zu bewältigen, zu handhaben oder zu verstehen."
+        "descriptionDE": "Erfordert viel Mühe oder Geschicklichkeit, um zu bewältigen, zu handhaben oder zu verstehen.",
+        "descriptionTR": "Başarmak, başa çıkmak veya anlamak için çok çaba veya beceri gerektiren.",
+        "descriptionAZ": "Həyata keçirmək, həll etmək və ya başa düşmək üçün çox səy və ya bacarıq tələb edən.",
+        "descriptionUK": "потребує багато зусиль або майстерності для виконання, вирішення або розуміння."
     }, {
         "de": "wertvoll",
         "en": "valuable",
         "ru": "ценный",
+        "tr": "değerli",
+        "az": "dəyərli",
+        "uk": "цінний",
         "descriptionEN": "having considerable monetary worth; costing or bringing a high price.",
         "descriptionRU": "имеющий значительную денежную ценность; стоимость или приносящий высокую цену.",
-        "descriptionDE": "Mit erheblichem Geldwert; kostspielig oder zu einem hohen Preis."
+        "descriptionDE": "Mit erheblichem Geldwert; kostspielig oder zu einem hohen Preis.",
+        "descriptionTR": "Önemli parasal değeri olan; yüksek fiyata mal olan veya getiren.",
+        "descriptionAZ": "Əhəmiyyətli pul dəyəri olan; yüksək qiymətə başa gələn və ya gətirən.",
+        "descriptionUK": "має значну грошову вартість; коштує або приносить високу ціну."
     }, {
         "de": "lebenslang",
         "en": "lifelong",
         "ru": "пожизненный",
+        "tr": "ömür boyu",
+        "az": "ömürlük",
+        "uk": "довічний",
         "descriptionEN": "lasting or remaining in a particular state throughout a person's life.",
         "descriptionRU": "длительное или оставшееся в определенном состоянии на протяжении всей жизни человека.",
-        "descriptionDE": "Dauerhaft oder verbleibend in einem bestimmten Zustand während des gesamten Lebens einer Person."
+        "descriptionDE": "Dauerhaft oder verbleibend in einem bestimmten Zustand während des gesamten Lebens einer Person.",
+        "descriptionTR": "Bir kişinin hayatı boyunca belirli bir durumda süren veya kalan.",
+        "descriptionAZ": "Bir insanın həyatı boyu müəyyən bir vəziyyətdə davam edən və ya qalan.",
+        "descriptionUK": "триває або залишається в певному стані протягом усього життя людини."
     }
 ]

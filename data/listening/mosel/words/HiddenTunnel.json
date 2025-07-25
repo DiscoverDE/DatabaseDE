@@ -3,141 +3,261 @@
         "de": "der Zug",
         "en": "train",
         "ru": "поезд",
+        "tr": "tren",
+        "az": "qatar",
+        "uk": "поїзд",
         "descriptionEN": "A vehicle that runs on tracks and transports people or goods.",
         "descriptionRU": "Транспортное средство, движущееся по рельсам и перевозящее людей или грузы.",
-        "descriptionDE": "Ein Fahrzeug, das auf Schienen fährt und Personen oder Güter transportiert."
+        "descriptionDE": "Ein Fahrzeug, das auf Schienen fährt und Personen oder Güter transportiert.",
+        "descriptionTR": "Raylar üzerinde hareket eden ve insanları veya malları taşıyan bir araç.",
+        "descriptionAZ": "Relslər üzərində hərəkət edən və insanları və ya malları daşıyan nəqliyyat vasitəsi.",
+        "descriptionUK": "Транспортний засіб, який рухається по рейках і перевозить людей або вантажі."
     }, {
         "de": "die Altstadt",
         "en": "old town",
         "ru": "старый город",
+        "tr": "eski şehir",
+        "az": "köhnə şəhər",
+        "uk": "старе місто",
         "descriptionEN": "The historic center of a city, often with preserved architecture.",
         "descriptionRU": "Исторический центр города, часто с сохранившейся архитектурой.",
-        "descriptionDE": "Das historische Zentrum einer Stadt, oft mit erhaltener Architektur."
+        "descriptionDE": "Das historische Zentrum einer Stadt, oft mit erhaltener Architektur.",
+        "descriptionTR": "Genellikle korunmuş mimarisi olan bir şehrin tarihi merkezi.",
+        "descriptionAZ": "Tez-tez qorunmuş memarlığı olan şəhərin tarixi mərkəzi.",
+        "descriptionUK": "Історичний центр міста, часто із збереженою архітектурою."
     }, {
         "de": "der Weinkeller",
         "en": "wine cellar",
         "ru": "винный погреб",
+        "tr": "şarap mahzeni",
+        "az": "şərab zirzəmi",
+        "uk": "винний льох",
         "descriptionEN": "A cellar where wine is stored and sometimes aged.",
         "descriptionRU": "Подвал, в котором хранится и выдерживается вино.",
-        "descriptionDE": "Ein Keller, in dem Wein gelagert und manchmal gereift wird."
+        "descriptionDE": "Ein Keller, in dem Wein gelagert und manchmal gereift wird.",
+        "descriptionTR": "Şarabın saklandığı ve bazen olgunlaştırıldığı bir mahzen.",
+        "descriptionAZ": "Şərabın saxlandığı və bəzən yetişdirildiyi zirzəmi.",
+        "descriptionUK": "Підвал, де зберігається та витримується вино."
     }, {
         "de": "die Luft",
         "en": "air",
         "ru": "воздух",
+        "tr": "hava",
+        "az": "hava",
+        "uk": "повітря",
         "descriptionEN": "The invisible gas that surrounds the Earth and is breathed by living beings.",
         "descriptionRU": "Невидимый газ, окружающий Землю и вдыхаемый живыми существами.",
-        "descriptionDE": "Das unsichtbare Gas, das die Erde umgibt und von Lebewesen eingeatmet wird."
+        "descriptionDE": "Das unsichtbare Gas, das die Erde umgibt und von Lebewesen eingeatmet wird.",
+        "descriptionTR": "Dünyayı çevreleyen ve canlılar tarafından solunan görünmez gaz.",
+        "descriptionAZ": "Yeri əhatə edən və canlılar tərəfindən nəfəs alınan görünməz qaz.",
+        "descriptionUK": "Невидимий газ, який оточує Землю і яким дихають живі істоти."
     }, {
         "de": "der Führer",
         "en": "guide",
         "ru": "гид",
+        "tr": "rehber",
+        "az": "bələdçi",
+        "uk": "гід",
         "descriptionEN": "A person who shows and explains places of interest to visitors.",
         "descriptionRU": "Человек, показывающий и объясняющий достопримечательности посетителям.",
-        "descriptionDE": "Eine Person, die Besuchern Sehenswürdigkeiten zeigt und erklärt."
+        "descriptionDE": "Eine Person, die Besuchern Sehenswürdigkeiten zeigt und erklärt.",
+        "descriptionTR": "Ziyaretçilere ilgi çekici yerleri gösteren ve açıklayan kişi.",
+        "descriptionAZ": "Ziyarətçilərə maraqlı yerləri göstərən və izah edən şəxs.",
+        "descriptionUK": "Людина, яка показує та пояснює визначні місця відвідувачам."
     }, {
         "de": "der Tunnel",
         "en": "tunnel",
         "ru": "туннель",
+        "tr": "tünel",
+        "az": "tunel",
+        "uk": "тунель",
         "descriptionEN": "An underground passage for transportation or secret access.",
         "descriptionRU": "Подземный проход для транспорта или скрытого доступа.",
-        "descriptionDE": "Ein unterirdischer Durchgang für den Transport oder den geheimen Zugang."
+        "descriptionDE": "Ein unterirdischer Durchgang für den Transport oder den geheimen Zugang.",
+        "descriptionTR": "Ulaşım veya gizli erişim için yeraltı geçidi.",
+        "descriptionAZ": "Nəqliyyat və ya gizli giriş üçün yeraltı keçid.",
+        "descriptionUK": "Підземний прохід для транспорту або таємного доступу."
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
         "descriptionEN": "A set of written, printed, or blank pages bound together.",
         "descriptionRU": "Набор написанных, напечатанных или пустых страниц, скрепленных вместе.",
-        "descriptionDE": "Eine Sammlung geschriebener, gedruckter oder leerer Seiten, die zusammengebunden sind."
+        "descriptionDE": "Eine Sammlung geschriebener, gedruckter oder leerer Seiten, die zusammengebunden sind.",
+        "descriptionTR": "Bir araya getirilmiş yazılı, basılı veya boş sayfalar topluluğu.",
+        "descriptionAZ": "Bir araya cildlənmiş yazılı, çap olunmuş və ya boş səhifələr toplusu.",
+        "descriptionUK": "Набір написаних, надрукованих або порожніх сторінок, зшитих разом."
     }, {
         "de": "die Mauer",
         "en": "wall",
         "ru": "стена",
+        "tr": "duvar",
+        "az": "divar",
+        "uk": "стіна",
         "descriptionEN": "A vertical structure that encloses or divides spaces.",
         "descriptionRU": "Вертикальная структура, ограждающая или разделяющая пространства.",
-        "descriptionDE": "Eine vertikale Struktur, die Räume umschließt oder trennt."
+        "descriptionDE": "Eine vertikale Struktur, die Räume umschließt oder trennt.",
+        "descriptionTR": "Alanları çevreleyen veya bölen dikey yapı.",
+        "descriptionAZ": "Məkanları əhatə edən və ya ayıran şaquli quruluş.",
+        "descriptionUK": "Вертикальна структура, яка огороджує або поділяє простори."
     }, {
         "de": "die Kammer",
         "en": "chamber",
         "ru": "камера",
+        "tr": "oda",
+        "az": "otaq",
+        "uk": "камера",
         "descriptionEN": "A small enclosed space, often used for specific purposes.",
         "descriptionRU": "Небольшое закрытое пространство, часто используемое для определенных целей.",
-        "descriptionDE": "Ein kleiner abgeschlossener Raum, der oft für bestimmte Zwecke genutzt wird."
+        "descriptionDE": "Ein kleiner abgeschlossener Raum, der oft für bestimmte Zwecke genutzt wird.",
+        "descriptionTR": "Genellikle belirli amaçlar için kullanılan küçük kapalı alan.",
+        "descriptionAZ": "Tez-tez müəyyən məqsədlər üçün istifadə olunan kiçik bağlanmış məkan.",
+        "descriptionUK": "Невеликий закритий простір, який часто використовується для певних цілей."
     }, {
         "de": "die Flasche",
         "en": "bottle",
         "ru": "бутылка",
+        "tr": "şişe",
+        "az": "şüşə",
+        "uk": "пляшка",
         "descriptionEN": "A container, typically made of glass or plastic, for holding liquids.",
         "descriptionRU": "Сосуд, обычно сделанный из стекла или пластика, для хранения жидкостей.",
-        "descriptionDE": "Ein Behälter, typischerweise aus Glas oder Kunststoff, zum Aufbewahren von Flüssigkeiten."
+        "descriptionDE": "Ein Behälter, typischerweise aus Glas oder Kunststoff, zum Aufbewahren von Flüssigkeiten.",
+        "descriptionTR": "Genellikle cam veya plastikten yapılmış, sıvıları tutmak için bir kap.",
+        "descriptionAZ": "Adətən şüşə və ya plastikdən hazırlanmış, mayeləri saxlamaq üçün bir qab.",
+        "descriptionUK": "Посудина, зазвичай зроблена зі скла або пластику, для зберігання рідин."
     }, {
         "de": "ankommen",
         "en": "to arrive",
         "ru": "прибывать",
+        "tr": "varmak",
+        "az": "gəlmək",
+        "uk": "прибувати",
         "descriptionEN": "To reach a destination.",
         "descriptionRU": "Достичь места назначения.",
-        "descriptionDE": "Ein Ziel erreichen."
+        "descriptionDE": "Ein Ziel erreichen.",
+        "descriptionTR": "Bir varış noktasına ulaşmak.",
+        "descriptionAZ": "Bir təyinat yerinə çatmaq.",
+        "descriptionUK": "Досягти місця призначення."
     }, {
         "de": "erkunden",
         "en": "to explore",
         "ru": "исследовать",
+        "tr": "keşfetmek",
+        "az": "araşdırmaq",
+        "uk": "досліджувати",
         "descriptionEN": "To travel around and learn about a place.",
         "descriptionRU": "Путешествовать и узнавать о месте.",
-        "descriptionDE": "Herumreisen und einen Ort kennenlernen."
+        "descriptionDE": "Herumreisen und einen Ort kennenlernen.",
+        "descriptionTR": "Bir yeri gezerek öğrenmek.",
+        "descriptionAZ": "Bir yeri gəzib öyrənmək.",
+        "descriptionUK": "Подорожувати та дізнаватися про місце."
     }, {
         "de": "erzählen",
         "en": "to tell",
         "ru": "рассказывать",
+        "tr": "anlatmak",
+        "az": "danışmaq",
+        "uk": "розповідати",
         "descriptionEN": "To communicate information or a story.",
         "descriptionRU": "Передавать информацию или рассказывать историю.",
-        "descriptionDE": "Informationen oder eine Geschichte weitergeben."
+        "descriptionDE": "Informationen oder eine Geschichte weitergeben.",
+        "descriptionTR": "Bilgi veya bir hikaye aktarmak.",
+        "descriptionAZ": "Məlumat və ya hekayə çatdırmaq.",
+        "descriptionUK": "Передавати інформацію чи розповідати історію."
     }, {
         "de": "verschwinden",
         "en": "to disappear",
         "ru": "исчезать",
+        "tr": "kaybolmak",
+        "az": "yox olmaq",
+        "uk": "зникати",
         "descriptionEN": "To cease to be visible or exist.",
         "descriptionRU": "Переставать быть видимым или существовать.",
-        "descriptionDE": "Nicht mehr sichtbar oder vorhanden sein."
+        "descriptionDE": "Nicht mehr sichtbar oder vorhanden sein.",
+        "descriptionTR": "Görünür veya var olmaktan çıkmak.",
+        "descriptionAZ": "Görünən və ya mövcud olmağı dayandırmaq.",
+        "descriptionUK": "Перестати бути видимим або існувати."
     }, {
         "de": "öffnen",
         "en": "to open",
         "ru": "открывать",
+        "tr": "açmak",
+        "az": "açmaq",
+        "uk": "відкривати",
         "descriptionEN": "To make something accessible.",
         "descriptionRU": "Сделать что-то доступным.",
-        "descriptionDE": "Etwas zugänglich machen."
+        "descriptionDE": "Etwas zugänglich machen.",
+        "descriptionTR": "Bir şeyi erişilebilir hale getirmek.",
+        "descriptionAZ": "Bir şeyə girişi təmin etmək.",
+        "descriptionUK": "Зробити щось доступним."
     }, {
         "de": "entdecken",
         "en": "to discover",
         "ru": "обнаруживать",
+        "tr": "keşfetmek",
+        "az": "kəşf etmək",
+        "uk": "відкривати",
         "descriptionEN": "To find something previously unknown.",
         "descriptionRU": "Найти что-то ранее неизвестное.",
-        "descriptionDE": "Etwas zuvor Unbekanntes finden."
+        "descriptionDE": "Etwas zuvor Unbekanntes finden.",
+        "descriptionTR": "Daha önce bilinmeyen bir şeyi bulmak.",
+        "descriptionAZ": "Əvvəllər bilinməyən bir şeyi tapmaq.",
+        "descriptionUK": "Знайти щось раніше невідоме."
     }, {
         "de": "historisch",
         "en": "historical",
         "ru": "исторический",
+        "tr": "tarihi",
+        "az": "tarixi",
+        "uk": "історичний",
         "descriptionEN": "Related to history or past events.",
         "descriptionRU": "Связанный с историей или прошлыми событиями.",
-        "descriptionDE": "Mit Geschichte oder vergangenen Ereignissen verbunden."
+        "descriptionDE": "Mit Geschichte oder vergangenen Ereignissen verbunden.",
+        "descriptionTR": "Tarih veya geçmiş olaylarla ilgili.",
+        "descriptionAZ": "Tarix və ya keçmiş hadisələrlə bağlı.",
+        "descriptionUK": "Пов'язаний з історією або минулими подіями."
     }, {
         "de": "fasziniert",
         "en": "fascinated",
         "ru": "очарованный",
+        "tr": "büyülenmiş",
+        "az": "heyran qalmış",
+        "uk": "зачарований",
         "descriptionEN": "Deeply interested or captivated.",
         "descriptionRU": "Глубоко заинтересованный или захваченный.",
-        "descriptionDE": "Tief interessiert oder gefesselt."
+        "descriptionDE": "Tief interessiert oder gefesselt.",
+        "descriptionTR": "Derinden ilgili veya büyülenmiş.",
+        "descriptionAZ": "Dərin maraqlı və ya heyran qalmış.",
+        "descriptionUK": "Глибоко зацікавлений або захоплений."
     }, {
         "de": "verlassen",
         "en": "abandoned",
         "ru": "заброшенный",
+        "tr": "terkedilmiş",
+        "az": "tərk edilmiş",
+        "uk": "покинутий",
         "descriptionEN": "Left without care or maintenance.",
         "descriptionRU": "Оставленный без ухода или обслуживания.",
-        "descriptionDE": "Ohne Pflege oder Wartung zurückgelassen."
+        "descriptionDE": "Ohne Pflege oder Wartung zurückgelassen.",
+        "descriptionTR": "Bakım veya onarım olmadan bırakılmış.",
+        "descriptionAZ": "Qayğı və ya təmir olmadan buraxılmış.",
+        "descriptionUK": "Залишений без догляду чи обслуговування."
     }, {
         "de": "vorsichtig",
         "en": "carefully",
         "ru": "осторожно",
+        "tr": "dikkatlice",
+        "az": "diqqətlə",
+        "uk": "обережно",
         "descriptionEN": "With caution and attention to detail.",
         "descriptionRU": "С осторожностью и вниманием к деталям.",
-        "descriptionDE": "Mit Vorsicht und Aufmerksamkeit für Details."
+        "descriptionDE": "Mit Vorsicht und Aufmerksamkeit für Details.",
+        "descriptionTR": "Dikkat ve detaylara özen göstererek.",
+        "descriptionAZ": "Ehtiyat və detallara diqqət yetirərək.",
+        "descriptionUK": "З обережністю та увагою до деталей."
     }
 ]

@@ -5,223 +5,415 @@
         "ru": "карнавал",
         "descriptionEN": "a festive season which occurs before Lent, typically involving a public celebration or parade combining some elements of a circus, mask, and public street party.",
         "descriptionRU": "праздничный сезон, который происходит перед Великим постом, обычно включающий публичное празднование или парад, объединяющий некоторые элементы цирка, масок и уличных вечеринок.",
-        "descriptionDE": "eine festliche Jahreszeit, die vor der Fastenzeit stattfindet und typischerweise ein öffentliches Fest oder eine Parade umfasst, die einige Elemente eines Zirkus, einer Maske und einer öffentlichen Straßenparty kombiniert."
+        "descriptionDE": "eine festliche Jahreszeit, die vor der Fastenzeit stattfindet und typischerweise ein öffentliches Fest oder eine Parade umfasst, die einige Elemente eines Zirkus, einer Maske und einer öffentlichen Straßenparty kombiniert.",
+        "tr": "karnaval",
+        "az": "karnaval",
+        "uk": "карнавал",
+        "descriptionUK": "святковий сезон, що відбувається перед Великим постом, зазвичай включає громадське святкування або парад, що поєднує елементи цирку, масок та вуличних вечірок.",
+        "descriptionTR": "Büyük Perhiz'den önce gerçekleşen, genellikle sirk, maske ve halka açık sokak partisi unsurlarını birleştiren halka açık bir kutlama veya geçit törenini içeren şenlikli bir sezon.",
+        "descriptionAZ": "Böyük Pəhrizdən əvvəl baş verən, adətən sirk, maska və kütləvi küçə şənliyi elementlərini birləşdirən ictimai bayram və ya paradı əhatə edən şənlik mövsümü."
     }, {
         "de": "die Welt",
         "en": "world",
         "ru": "мир",
         "descriptionEN": "the earth, together with all of its countries, peoples, and natural features.",
         "descriptionRU": "земля вместе со всеми её странами, народами и природными особенностями.",
-        "descriptionDE": "die Erde zusammen mit all ihren Ländern, Völkern und natürlichen Merkmalen."
+        "descriptionDE": "die Erde zusammen mit all ihren Ländern, Völkern und natürlichen Merkmalen.",
+        "tr": "dünya",
+        "az": "dünya",
+        "uk": "світ",
+        "descriptionUK": "земля разом з усіма її країнами, народами та природними особливостями.",
+        "descriptionTR": "yeryüzü, tüm ülkeleri, halkları ve doğal özellikleriyle birlikte.",
+        "descriptionAZ": "yer kürəsi, bütün ölkələri, xalqları və təbii xüsusiyyətləri ilə birlikdə."
     }, {
         "de": "der Freund",
         "en": "friend",
         "ru": "друг",
         "descriptionEN": "a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
         "descriptionRU": "человек, которого кто-то знает и с кем у него есть связь взаимной привязанности, обычно исключающая сексуальные или семейные отношения.",
-        "descriptionDE": "eine Person, die man kennt und mit der man eine gegenseitige Zuneigung verbindet, die typischerweise sexuelle oder familiäre Beziehungen ausschließt."
+        "descriptionDE": "eine Person, die man kennt und mit der man eine gegenseitige Zuneigung verbindet, die typischerweise sexuelle oder familiäre Beziehungen ausschließt.",
+        "tr": "arkadaş",
+        "az": "dost",
+        "uk": "друг",
+        "descriptionUK": "людина, яку хтось знає і з якою має зв'язок взаємної прихильності, зазвичай виключаючи сексуальні або сімейні стосунки.",
+        "descriptionTR": "kişinin tanıdığı ve karşılıklı sevgi bağına sahip olduğu, genellikle cinsel veya ailevi ilişkiler dışında kalan kişi.",
+        "descriptionAZ": "birinin tanıdığı və qarşılıqlı məhəbbət bağı olan, adətən cinsi və ya ailə münasibətləri istisna olmaqla, şəxs."
     }, {
         "de": "der Fotograf",
         "en": "photographer",
         "ru": "фотограф",
         "descriptionEN": "a person who takes photographs, either as a hobby or a profession.",
         "descriptionRU": "человек, который фотографирует, как хобби или профессию.",
-        "descriptionDE": "eine Person, die Fotos macht, entweder als Hobby oder als Beruf."
+        "descriptionDE": "eine Person, die Fotos macht, entweder als Hobby oder als Beruf.",
+        "tr": "fotoğrafçı",
+        "az": "fotoqraf",
+        "uk": "фотограф",
+        "descriptionUK": "людина, яка фотографує, або як хобі, або як професію.",
+        "descriptionTR": "hobi olarak veya meslek olarak fotoğraf çeken kişi.",
+        "descriptionAZ": "hobbi və ya peşə kimi fotoşəkil çəkən şəxs."
     }, {
         "de": "der Webdesigner",
         "en": "web designer",
         "ru": "веб-дизайнер",
         "descriptionEN": "a person who designs websites.",
         "descriptionRU": "человек, который разрабатывает веб-сайты.",
-        "descriptionDE": "eine Person, die Websites gestaltet."
+        "descriptionDE": "eine Person, die Websites gestaltet.",
+        "tr": "web tasarımcısı",
+        "az": "veb dizayner",
+        "uk": "веб-дизайнер",
+        "descriptionUK": "людина, яка розробляє веб-сайти.",
+        "descriptionTR": "web siteleri tasarlayan kişi.",
+        "descriptionAZ": "veb saytları dizayn edən şəxs."
     }, {
         "de": "die Kneipe",
         "en": "pub",
         "ru": "паб",
         "descriptionEN": "an establishment where alcoholic drinks are served, typically a small, informal establishment.",
         "descriptionRU": "заведение, где подают алкогольные напитки, обычно небольшое, неформальное место.",
-        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke serviert werden, typischerweise eine kleine, informelle Einrichtung."
+        "descriptionDE": "eine Einrichtung, in der alkoholische Getränke serviert werden, typischerweise eine kleine, informelle Einrichtung.",
+        "tr": "bar",
+        "az": "pab",
+        "uk": "паб",
+        "descriptionUK": "заклад, де подають алкогольні напої, зазвичай невеликий, неформальний заклад.",
+        "descriptionTR": "alkollü içeceklerin servis edildiği, genellikle küçük, gayri resmi bir kuruluş.",
+        "descriptionAZ": "alkoqollu içkilərin təqdim edildiyi müəssisə, adətən kiçik, qeyri-rəsmi müəssisə."
     }, {
         "de": "die Straße",
         "en": "street",
         "ru": "улица",
         "descriptionEN": "a public road in a city or town, typically with houses and buildings on one or both sides.",
         "descriptionRU": "публичная дорога в городе или посёлке, обычно с домами и зданиями с одной или обеих сторон.",
-        "descriptionDE": "eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten."
+        "descriptionDE": "eine öffentliche Straße in einer Stadt oder einem Dorf, typischerweise mit Häusern und Gebäuden auf einer oder beiden Seiten.",
+        "tr": "sokak",
+        "az": "küçə",
+        "uk": "вулиця",
+        "descriptionUK": "громадська дорога в місті чи селищі, зазвичай з будинками та будівлями по одній або обох сторонах.",
+        "descriptionTR": "bir şehir veya kasabadaki, genellikle bir veya her iki tarafında evler ve binalar bulunan halka açık yol.",
+        "descriptionAZ": "şəhər və ya qəsəbədə, adətən bir və ya hər iki tərəfində evlər və binalar olan ictimai yol."
     }, {
         "de": "das Ereignis",
         "en": "event",
         "ru": "событие",
         "descriptionEN": "a thing that happens, especially one of importance.",
         "descriptionRU": "то, что происходит, особенно важное.",
-        "descriptionDE": "eine Sache, die passiert, besonders eine von Bedeutung."
+        "descriptionDE": "eine Sache, die passiert, besonders eine von Bedeutung.",
+        "tr": "olay",
+        "az": "hadisə",
+        "uk": "подія",
+        "descriptionUK": "річ, яка трапляється, особливо важлива.",
+        "descriptionTR": "olan bir şey, özellikle önemli olan.",
+        "descriptionAZ": "baş verən bir şey, xüsusən də əhəmiyyətli olan."
     }, {
         "de": "die Farbe",
         "en": "colour",
         "ru": "цвет",
         "descriptionEN": "the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.",
         "descriptionRU": "свойство, присущее объекту, вызывать разные ощущения на глазу вследствие того, как он отражает или испускает свет.",
-        "descriptionDE": "die Eigenschaft, die ein Objekt besitzt, um aufgrund seiner Lichtreflexion oder -emission unterschiedliche Empfindungen im Auge hervorzurufen."
+        "descriptionDE": "die Eigenschaft, die ein Objekt besitzt, um aufgrund seiner Lichtreflexion oder -emission unterschiedliche Empfindungen im Auge hervorzurufen.",
+        "tr": "renk",
+        "az": "rəng",
+        "uk": "колір",
+        "descriptionUK": "властивість, якою володіє об'єкт, викликати різні відчуття в оці внаслідок того, як він відбиває або випромінює світло.",
+        "descriptionTR": "bir nesnenin ışığı yansıtma veya yayma şeklinin bir sonucu olarak göz üzerinde farklı duyumlar üretme özelliği.",
+        "descriptionAZ": "bir obyektin işığı əks etdirmə və ya yayma tərzindən asılı olaraq gözdə fərqli duyğular yaratma xüsusiyyəti."
     }, {
         "de": "die Tradition",
         "en": "tradition",
         "ru": "традиция",
         "descriptionEN": "the transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.",
         "descriptionRU": "передача обычаев или верований от поколения к поколению, или факт передачи таким образом.",
-        "descriptionDE": "die Übermittlung von Bräuchen oder Überzeugungen von Generation zu Generation oder die Tatsache, dass sie auf diese Weise weitergegeben werden."
+        "descriptionDE": "die Übermittlung von Bräuchen oder Überzeugungen von Generation zu Generation oder die Tatsache, dass sie auf diese Weise weitergegeben werden.",
+        "tr": "gelenek",
+        "az": "ənənə",
+        "uk": "традиція",
+        "descriptionUK": "передача звичаїв або вірувань від покоління до покоління, або факт передачі таким чином.",
+        "descriptionTR": "adetlerin veya inançların nesilden nesile aktarılması veya bu şekilde aktarılma gerçeği.",
+        "descriptionAZ": "adət və ya inancların nəsildən-nəslə ötürülməsi və ya bu şəkildə ötürülməsi faktı."
     }, {
         "de": "die Diskussion",
         "en": "discussion",
         "ru": "дискуссия",
         "descriptionEN": "the action or process of talking about something in order to reach a decision or to exchange ideas.",
         "descriptionRU": "действие или процесс обсуждения чего-либо с целью принятия решения или обмена идеями.",
-        "descriptionDE": "die Handlung oder der Prozess des Gesprächs über etwas, um eine Entscheidung zu treffen oder Ideen auszutauschen."
+        "descriptionDE": "die Handlung oder der Prozess des Gesprächs über etwas, um eine Entscheidung zu treffen oder Ideen auszutauschen.",
+        "tr": "tartışma",
+        "az": "müzakirə",
+        "uk": "дискусія",
+        "descriptionUK": "дія або процес обговорення чогось з метою прийняття рішення або обміну ідеями.",
+        "descriptionTR": "bir karara varmak veya fikir alışverişinde bulunmak amacıyla bir şey hakkında konuşma eylemi veya süreci.",
+        "descriptionAZ": "bir qərara gəlmək və ya fikir mübadiləsi aparmaq üçün bir şey haqqında danışmaq hərəkəti və ya prosesi."
     }, {
         "de": "der Streit",
         "en": "argument",
         "ru": "аргумент",
         "descriptionEN": "an exchange of diverging or opposite views, typically a heated or angry one.",
         "descriptionRU": "обмен расходящимися или противоположными взглядами, обычно разгоряченный или злой.",
-        "descriptionDE": "ein Austausch abweichender oder entgegengesetzter Ansichten, typischerweise ein hitziger oder wütender."
+        "descriptionDE": "ein Austausch abweichender oder entgegengesetzter Ansichten, typischerweise ein hitziger oder wütender.",
+        "tr": "tartışma",
+        "az": "mübahisə",
+        "uk": "суперечка",
+        "descriptionUK": "обмін розбіжними або протилежними поглядами, зазвичай гарячий або сердитий.",
+        "descriptionTR": "farklı veya zıt görüşlerin değişimi, genellikle hararetli veya öfkeli.",
+        "descriptionAZ": "fərqli və ya əks baxışların mübadiləsi, adətən qızğın və ya qəzəbli."
     }, {
         "de": "die Zusammenarbeit",
         "en": "collaboration",
         "ru": "сотрудничество",
         "descriptionEN": "the action of working with someone to produce or create something.",
         "descriptionRU": "действие сотрудничества с кем-то для производства или создания чего-то.",
-        "descriptionDE": "die Handlung, mit jemandem zusammenzuarbeiten, um etwas zu produzieren oder zu schaffen."
+        "descriptionDE": "die Handlung, mit jemandem zusammenzuarbeiten, um etwas zu produzieren oder zu schaffen.",
+        "tr": "işbirliği",
+        "az": "əməkdaşlıq",
+        "uk": "співпраця",
+        "descriptionUK": "діяльність спільної роботи з кимось для виробництва або створення чогось.",
+        "descriptionTR": "bir şey üretmek veya yaratmak için biriyle birlikte çalışma eylemi.",
+        "descriptionAZ": "bir şey istehsal etmək və ya yaratmaq üçün kiminləsə işləmə hərəkəti."
     }, {
         "de": "die Erinnerung",
         "en": "memory",
         "ru": "память",
         "descriptionEN": "the faculty by which the mind stores and remembers information.",
         "descriptionRU": "способность разума хранить и помнить информацию.",
-        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich an sie zu erinnern."
+        "descriptionDE": "die Fähigkeit des Geistes, Informationen zu speichern und sich an sie zu erinnern.",
+        "tr": "hafıza",
+        "az": "yaddaş",
+        "uk": "пам'ять",
+        "descriptionUK": "здатність розуму зберігати та згадувати інформацію.",
+        "descriptionTR": "zihnin bilgiyi depoladığı ve hatırladığı yeti.",
+        "descriptionAZ": "şüurun məlumatı saxladığı və xatırladığı qabiliyyət."
     }, {
         "de": "die Feier",
         "en": "celebration",
         "ru": "празднование",
         "descriptionEN": "the action of marking one's pleasure at an important event or occasion by engaging in enjoyable, typically social, activity.",
         "descriptionRU": "действие выражения своего удовольствия по поводу важного события или случая, занимаясь приятной, обычно социальной, деятельностью.",
-        "descriptionDE": "die Handlung, die Freude über ein wichtiges Ereignis oder einen Anlass dadurch auszudrücken, dass man an angenehmen, typischerweise sozialen, Aktivitäten teilnimmt."
+        "descriptionDE": "die Handlung, die Freude über ein wichtiges Ereignis oder einen Anlass dadurch auszudrücken, dass man an angenehmen, typischerweise sozialen, Aktivitäten teilnimmt.",
+        "tr": "kutlama",
+        "az": "qeyd etmə",
+        "uk": "святкування",
+        "descriptionUK": "дія відзначення свого задоволення від важливої події або нагоди шляхом участі у приємній, зазвичай соціальній, діяльності.",
+        "descriptionTR": "önemli bir olay veya durum karşısında duyulan memnuniyeti, keyifli, genellikle sosyal bir aktiviteye katılarak belirtme eylemi.",
+        "descriptionAZ": "əhəmiyyətli bir hadisə və ya münasibətlə bağlı həzzini xoş, adətən sosial fəaliyyətlə məşğul olaraq qeyd etmə hərəkəti."
     }, {
         "de": "die Energie",
         "en": "energy",
         "ru": "энергия",
         "descriptionEN": "the strength and vitality required for sustained physical or mental activity.",
         "descriptionRU": "сила и жизненные силы, необходимые для устойчивой физической или умственной деятельности.",
-        "descriptionDE": "die Stärke und Vitalität, die für anhaltende physische oder geistige Aktivität erforderlich ist."
+        "descriptionDE": "die Stärke und Vitalität, die für anhaltende physische oder geistige Aktivität erforderlich ist.",
+        "tr": "enerji",
+        "az": "enerji",
+        "uk": "енергія",
+        "descriptionUK": "сила та життєва енергія, необхідні для тривалої фізичної або розумової діяльності.",
+        "descriptionTR": "sürekli fiziksel veya zihinsel aktivite için gereken güç ve canlılık.",
+        "descriptionAZ": "davamlı fiziki və ya əqli fəaliyyət üçün tələb olunan güc və canlılıq."
     }, {
         "de": "die Inspiration",
         "en": "inspiration",
         "ru": "вдохновение",
         "descriptionEN": "the process of being mentally stimulated to do or feel something, especially to do something creative.",
         "descriptionRU": "процесс ментального стимулирования для совершения или ощущения чего-либо, особенно для совершения чего-либо творческого.",
-        "descriptionDE": "der Prozess, mental angeregt zu werden, um etwas zu tun oder zu fühlen, insbesondere um etwas Kreatives zu tun."
+        "descriptionDE": "der Prozess, mental angeregt zu werden, um etwas zu tun oder zu fühlen, insbesondere um etwas Kreatives zu tun.",
+        "tr": "ilham",
+        "az": "ilham",
+        "uk": "натхнення",
+        "descriptionUK": "процес психічного стимулювання до дії або відчуття чогось, особливо до творчої діяльності.",
+        "descriptionTR": "zihinsel olarak bir şey yapmaya veya hissetmeye, özellikle yaratıcı bir şey yapmaya teşvik edilme süreci.",
+        "descriptionAZ": "bir şey etmək və ya hiss etmək, xüsusən də yaradıcı bir şey etmək üçün zehni olaraq stimullaşdırılma prosesi."
     }, {
         "de": "die Umarmung",
         "en": "hug",
         "ru": "объятие",
         "descriptionEN": "squeeze (someone) tightly in one's arms, typically to express affection.",
         "descriptionRU": "прижать (кого-то) крепко к себе в объятиях, обычно для выражения привязанности.",
-        "descriptionDE": "jemanden fest in die Arme drücken, typischerweise um Zuneigung auszudrücken."
+        "descriptionDE": "jemanden fest in die Arme drücken, typischerweise um Zuneigung auszudrücken.",
+        "tr": "sarılma",
+        "az": "qucaqlama",
+        "uk": "обійми",
+        "descriptionUK": "міцно стиснути (когось) у своїх обіймах, зазвичай для вираження прихильності.",
+        "descriptionTR": "birine kollarında sıkıca sarılmak, genellikle sevgi göstermek için.",
+        "descriptionAZ": "(kimisə) qollarında möhkəm sıxmaq, adətən məhəbbət ifadə etmək üçün."
     }, {
         "de": "die Bindung",
         "en": "bond",
         "ru": "связь",
         "descriptionEN": "a thing used to tie something or to fasten things together.",
         "descriptionRU": "вещь, используемая для привязывания чего-то или соединения вещей вместе.",
-        "descriptionDE": "eine Sache, die verwendet wird, um etwas zu binden oder Dinge zusammenzufügen."
+        "descriptionDE": "eine Sache, die verwendet wird, um etwas zu binden oder Dinge zusammenzufügen.",
+        "tr": "bağ",
+        "az": "bağ",
+        "uk": "зв'язок",
+        "descriptionUK": "річ, що використовується для зв'язування чогось або для скріплення речей.",
+        "descriptionTR": "bir şeyi bağlamak veya bir arada tutmak için kullanılan şey.",
+        "descriptionAZ": "bir şeyi bağlamaq və ya əşyaları bir-birinə bərkitmək üçün istifadə edilən əşya."
     }, {
         "de": "die Freundschaft",
         "en": "friendship",
         "ru": "дружба",
         "descriptionEN": "the emotions or conduct of friends; the state of being friends.",
         "descriptionRU": "эмоции или поведение друзей; состояние дружбы.",
-        "descriptionDE": "die Gefühle oder das Verhalten von Freunden; der Zustand, ein Freund zu sein."
+        "descriptionDE": "die Gefühle oder das Verhalten von Freunden; der Zustand, ein Freund zu sein.",
+        "tr": "arkadaşlık",
+        "az": "dostluq",
+        "uk": "дружба",
+        "descriptionUK": "емоції або поведінка друзів; стан дружби.",
+        "descriptionTR": "arkadaşların duyguları veya davranışları; arkadaş olma durumu.",
+        "descriptionAZ": "dostların duyğuları və ya davranışı; dost olmaq vəziyyəti."
     }, {
         "de": "feiern",
         "en": "celebrate",
         "ru": "праздновать",
         "descriptionEN": "to observe (a day or event) with ceremonies of respect, festivity, or rejoicing.",
         "descriptionRU": "отмечать (день или событие) с церемониями уважения, празднования или радости.",
-        "descriptionDE": "einen Tag oder ein Ereignis mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten."
+        "descriptionDE": "einen Tag oder ein Ereignis mit Zeremonien des Respekts, der Festlichkeit oder der Freude beobachten.",
+        "tr": "kutlamak",
+        "az": "qeyd etmək",
+        "uk": "святкувати",
+        "descriptionUK": "відзначати (день або подію) церемоніями поваги, святковості або радості.",
+        "descriptionTR": "(bir günü veya olayı) saygı, şenlik veya sevinç törenleriyle kutlamak.",
+        "descriptionAZ": "(bir günü və ya hadisəni) hörmət, şənlik və ya sevinc mərasimləri ilə qeyd etmək."
     }, {
         "de": "ankommen",
         "en": "arrive",
         "ru": "прибывать",
         "descriptionEN": "to reach a destination.",
         "descriptionRU": "достигать пункта назначения.",
-        "descriptionDE": "ein Ziel erreichen."
+        "descriptionDE": "ein Ziel erreichen.",
+        "tr": "varmak",
+        "az": "çatmaq",
+        "uk": "прибувати",
+        "descriptionUK": "досягти місця призначення.",
+        "descriptionTR": "bir varış noktasına ulaşmak.",
+        "descriptionAZ": "bir təyinat nöqtəsinə çatmaq."
     }, {
         "de": "genießen",
         "en": "enjoy",
         "ru": "наслаждаться",
         "descriptionEN": "to take pleasure in.",
         "descriptionRU": "получать удовольствие от.",
-        "descriptionDE": "Vergnügen daran haben."
+        "descriptionDE": "Vergnügen daran haben.",
+        "tr": "keyif almak",
+        "az": "həzz almaq",
+        "uk": "насолоджуватися",
+        "descriptionUK": "отримувати задоволення від.",
+        "descriptionTR": "zevk almak.",
+        "descriptionAZ": "həzz almaq."
     }, {
         "de": "diskutieren",
         "en": "discuss",
         "ru": "обсуждать",
         "descriptionEN": "to talk about (something) with another person or group.",
         "descriptionRU": "говорить о (чем-то) с другим человеком или группой.",
-        "descriptionDE": "mit einer anderen Person oder Gruppe über (etwas) sprechen."
+        "descriptionDE": "mit einer anderen Person oder Gruppe über (etwas) sprechen.",
+        "tr": "tartışmak",
+        "az": "müzakirə etmək",
+        "uk": "обговорювати",
+        "descriptionUK": "говорити про (щось) з іншою людиною або групою.",
+        "descriptionTR": "(bir şeyi) başka bir kişi veya grupla konuşmak.",
+        "descriptionAZ": "(bir şeyi) başqa bir şəxs və ya qrupla danışmaq."
     }, {
         "de": "entscheiden",
         "en": "decide",
         "ru": "решать",
         "descriptionEN": "to make a choice or come to a conclusion about something.",
         "descriptionRU": "сделать выбор или прийти к заключению о чем-то.",
-        "descriptionDE": "eine Wahl treffen oder zu einem Schluss über etwas kommen."
+        "descriptionDE": "eine Wahl treffen oder zu einem Schluss über etwas kommen.",
+        "tr": "karar vermek",
+        "az": "qərar vermək",
+        "uk": "вирішувати",
+        "descriptionUK": "зробити вибір або дійти висновку щодо чогось.",
+        "descriptionTR": "bir seçim yapmak veya bir şey hakkında bir sonuca varmak.",
+        "descriptionAZ": "bir seçim etmək və ya bir şey haqqında nəticəyə gəlmək."
     }, {
         "de": "vereinbaren",
         "en": "agree",
         "ru": "соглашаться",
         "descriptionEN": "to have the same opinion about something; concur.",
         "descriptionRU": "иметь одинаковое мнение о чем-то; соглашаться.",
-        "descriptionDE": "die gleiche Meinung zu etwas haben; übereinstimmen."
+        "descriptionDE": "die gleiche Meinung zu etwas haben; übereinstimmen.",
+        "tr": "anlaşmak",
+        "az": "razılaşmaq",
+        "uk": "погоджуватися",
+        "descriptionUK": "мати однакову думку щодо чогось; погоджуватися.",
+        "descriptionTR": "bir şey hakkında aynı fikre sahip olmak; aynı fikirde olmak.",
+        "descriptionAZ": "bir şey haqqında eyni fikirdə olmaq; razılaşmaq."
     }, {
         "de": "scheinen",
         "en": "shine",
         "ru": "сиять",
         "descriptionEN": "to emit light.",
         "descriptionRU": "испускать свет.",
-        "descriptionDE": "Licht abgeben."
+        "descriptionDE": "Licht abgeben.",
+        "tr": "parlamak",
+        "az": "parlamaq",
+        "uk": "світити",
+        "descriptionUK": "випромінювати світло.",
+        "descriptionTR": "ışık yaymak.",
+        "descriptionAZ": "işıq saçmaq."
     }, {
         "de": "betrachten",
         "en": "admire",
         "ru": "восхищаться",
         "descriptionEN": "to regard with pleasure, wonder, and approval.",
         "descriptionRU": "рассматривать с удовольствием, удивлением и одобрением.",
-        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten."
+        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten.",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionUK": "ставитися з задоволенням, подивом та схваленням.",
+        "descriptionTR": "zevk, hayret ve onay ile bakmak.",
+        "descriptionAZ": "zövq, heyrət və təqdir ilə baxmaq."
     }, {
         "de": "bewundern",
         "en": "admire",
         "ru": "восхищаться",
         "descriptionEN": "to regard with pleasure, wonder, and approval.",
         "descriptionRU": "рассматривать с удовольствием, удивлением и одобрением.",
-        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten."
+        "descriptionDE": "mit Vergnügen, Staunen und Zustimmung betrachten.",
+        "tr": "hayran olmak",
+        "az": "heyran olmaq",
+        "uk": "захоплюватися",
+        "descriptionUK": "ставитися з задоволенням, подивом та схваленням.",
+        "descriptionTR": "zevk, hayret ve onay ile bakmak.",
+        "descriptionAZ": "zövq, heyrət və təqdir ilə baxmaq."
     }, {
         "de": "freuen",
         "en": "rejoice",
         "ru": "радоваться",
         "descriptionEN": "to feel or show great joy or delight.",
         "descriptionRU": "чувствовать или показывать большую радость или восторг.",
-        "descriptionDE": "sich freuen oder große Freude oder Begeisterung zeigen."
+        "descriptionDE": "sich freuen oder große Freude oder Begeisterung zeigen.",
+        "tr": "sevinmek",
+        "az": "sevinmək",
+        "uk": "радіти",
+        "descriptionUK": "відчувати або виявляти велику радість або захоплення.",
+        "descriptionTR": "büyük bir neşe veya zevk hissetmek veya göstermek.",
+        "descriptionAZ": "böyük sevinc və ya həzz hiss etmək və ya göstərmək."
     }, {
         "de": "bewundernswert",
         "en": "admirable",
         "ru": "восхитительный",
         "descriptionEN": "worthy of admiration; inspiring approval, reverence, or affection.",
         "descriptionRU": "достойный восхищения; вдохновляющий одобрение, почтение или привязанность.",
-        "descriptionDE": "bewundernswert; inspirierendes Wohlwollen, Ehrfurcht oder Zuneigung."
+        "descriptionDE": "bewundernswert; inspirierendes Wohlwollen, Ehrfurcht oder Zuneigung.",
+        "tr": "takdire şayan",
+        "az": "təqdirəlayiq",
+        "uk": "гідний захоплення",
+        "descriptionUK": "гідний захоплення; що надихає схвалення, повагу чи прихильність.",
+        "descriptionTR": "hayranlığa layık; onay, saygı veya sevgi uyandıran.",
+        "descriptionAZ": "heyranlığa layiq; təqdir, ehtiram və ya məhəbbət ilhamlandıran."
     }, {
         "de": "sorgfältig",
         "en": "carefully",
         "ru": "внимательно",
         "descriptionEN": "with attention to detail; thoroughly.",
         "descriptionRU": "с вниманием к деталям; тщательно.",
-        "descriptionDE": "mit Augenmerk auf Details; gründlich."
+        "descriptionDE": "mit Augenmerk auf Details; gründlich.",
+        "tr": "dikkatlice",
+        "az": "diqqətlə",
+        "uk": "ретельно",
+        "descriptionUK": "з увагою до деталей; ретельно.",
+        "descriptionTR": "detaylara dikkat ederek; iyice.",
+        "descriptionAZ": "detallara diqqətlə; hərtərəfli."
     }
 ]

@@ -3,155 +3,287 @@
         "de": "der Weg",
         "en": "way",
         "ru": "путь",
+        "tr": "yol",
+        "az": "yol",
+        "uk": "шлях",
         "descriptionEN": "A route or course taken in getting from a starting point to a destination.",
         "descriptionRU": "Маршрут или путь, который используется для перемещения от начальной точки до пункта назначения.",
-        "descriptionDE": "Eine Route oder Strecke, die genommen wird, um von einem Startpunkt zu einem Ziel zu gelangen."
+        "descriptionDE": "Eine Route oder Strecke, die genommen wird, um von einem Startpunkt zu einem Ziel zu gelangen.",
+        "descriptionTR": "Bir başlangıç noktasından bir varış noktasına gitmek için alınan bir rota veya yol.",
+        "descriptionAZ": "Başlanğıc nöqtəsindən təyinat nöqtəsinə çatmaq üçün istifadə olunan bir marşrut və ya yol.",
+        "descriptionUK": "Маршрут або шлях, який використовується для переміщення від початкової точки до пункту призначення."
     }, {
         "de": "das Gebüsch",
         "en": "bush",
         "ru": "кустарник",
+        "tr": "çalı",
+        "az": "kol",
+        "uk": "кущ",
         "descriptionEN": "A dense cluster of shrubs or small trees.",
         "descriptionRU": "Густая группа кустарников или маленьких деревьев.",
-        "descriptionDE": "Eine dichte Gruppe von Sträuchern oder kleinen Bäumen."
+        "descriptionDE": "Eine dichte Gruppe von Sträuchern oder kleinen Bäumen.",
+        "descriptionTR": "Çalıların veya küçük ağaçların yoğun bir kümesi.",
+        "descriptionAZ": "Kolların və ya kiçik ağacların sıx qrupu.",
+        "descriptionUK": "Густа група чагарників або маленьких дерев."
     }, {
         "de": "der Welpe",
         "en": "puppy",
         "ru": "щенок",
+        "tr": "yavru köpek",
+        "az": "körpə it",
+        "uk": "цуценя",
         "descriptionEN": "A young dog.",
         "descriptionRU": "Молодая собака.",
-        "descriptionDE": "Ein junger Hund."
+        "descriptionDE": "Ein junger Hund.",
+        "descriptionTR": "Genç bir köpek.",
+        "descriptionAZ": "Gənc bir it.",
+        "descriptionUK": "Молода собака."
     }, {
         "de": "die Augen",
         "en": "eyes",
         "ru": "глаза",
+        "tr": "gözler",
+        "az": "gözlər",
+        "uk": "очі",
         "descriptionEN": "The organs of sight in humans and animals.",
         "descriptionRU": "Органы зрения у людей и животных.",
-        "descriptionDE": "Die Sehorgane bei Menschen und Tieren."
+        "descriptionDE": "Die Sehorgane bei Menschen und Tieren.",
+        "descriptionTR": "İnsanlarda ve hayvanlarda görme organları.",
+        "descriptionAZ": "İnsanlarda və heyvanlarda görmə orqanları.",
+        "descriptionUK": "Органи зору у людей та тварин."
     }, {
         "de": "die Mutter",
         "en": "mother",
         "ru": "мать",
+        "tr": "anne",
+        "az": "ana",
+        "uk": "мати",
         "descriptionEN": "A woman in relation to her child or children.",
         "descriptionRU": "Женщина по отношению к своему ребенку или детям.",
-        "descriptionDE": "Eine Frau in Bezug auf ihr Kind oder ihre Kinder."
+        "descriptionDE": "Eine Frau in Bezug auf ihr Kind oder ihre Kinder.",
+        "descriptionTR": "Çocuğu veya çocuklarıyla ilişkili bir kadın.",
+        "descriptionAZ": "Uşağı və ya uşaqları ilə əlaqəli bir qadın.",
+        "descriptionUK": "Жінка по відношенню до своєї дитини чи дітей."
     }, {
         "de": "das Wasser",
         "en": "water",
         "ru": "вода",
+        "tr": "su",
+        "az": "su",
+        "uk": "вода",
         "descriptionEN": "A transparent, tasteless, odorless, and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans.",
         "descriptionRU": "Прозрачное, безвкусное, без запаха и почти бесцветное химическое вещество, которое является основным компонентом рек, озер и океанов Земли.",
-        "descriptionDE": "Eine durchsichtige, geschmacklose, geruchslose und nahezu farblose chemische Substanz, die den Hauptbestandteil der Flüsse, Seen und Ozeane der Erde bildet."
+        "descriptionDE": "Eine durchsichtige, geschmacklose, geruchslose und nahezu farblose chemische Substanz, die den Hauptbestandteil der Flüsse, Seen und Ozeane der Erde bildet.",
+        "descriptionTR": "Dünya'nın akarsularının, göllerinin ve okyanuslarının ana bileşeni olan şeffaf, tatsız, kokusuz ve neredeyse renksiz bir kimyasal madde.",
+        "descriptionAZ": "Yerin çaylarının, göllərinin və okeanlarının əsas tərkib hissəsi olan şəffaf, dadsız, qoxusuz və demək olar ki, rəngsiz kimyəvi maddə.",
+        "descriptionUK": "Прозора, без смаку, без запаху і майже безбарвна хімічна речовина, яка є основним компонентом річок, озер і океанів Землі."
     }, {
         "de": "die Nachbarschaft",
         "en": "neighborhood",
         "ru": "соседство",
+        "tr": "mahalle",
+        "az": "qonşuluq",
+        "uk": "сусідство",
         "descriptionEN": "A district, especially one forming a community within a town or city.",
         "descriptionRU": "Район, особенно тот, который образует сообщество в городе или поселке.",
-        "descriptionDE": "Ein Bezirk, insbesondere einer, der eine Gemeinschaft innerhalb einer Stadt oder eines Ortes bildet."
+        "descriptionDE": "Ein Bezirk, insbesondere einer, der eine Gemeinschaft innerhalb einer Stadt oder eines Ortes bildet.",
+        "descriptionTR": "Bir ilçe, özellikle bir kasaba veya şehir içinde bir topluluk oluşturan.",
+        "descriptionAZ": "Bir rayon, xüsusən də bir şəhər və ya qəsəbə daxilində bir icma yaradan.",
+        "descriptionUK": "Район, особливо той, який утворює спільноту в місті чи селищі."
     }, {
         "de": "die Plakate",
         "en": "posters",
         "ru": "плакаты",
+        "tr": "posterler",
+        "az": "plakatlar",
+        "uk": "плакати",
         "descriptionEN": "Large printed pictures or announcements used for advertising or decoration.",
         "descriptionRU": "Большие напечатанные картинки или объявления, используемые для рекламы или украшения.",
-        "descriptionDE": "Große gedruckte Bilder oder Ankündigungen, die für Werbung oder Dekoration verwendet werden."
+        "descriptionDE": "Große gedruckte Bilder oder Ankündigungen, die für Werbung oder Dekoration verwendet werden.",
+        "descriptionTR": "Reklam veya dekorasyon için kullanılan büyük basılı resimler veya duyurular.",
+        "descriptionAZ": "Reklam və ya dekorasiya üçün istifadə olunan böyük çap olunmuş şəkillər və ya elanlar.",
+        "descriptionUK": "Великі друковані зображення чи оголошення, що використовуються для реклами чи прикраси."
     }, {
         "de": "die Freunde",
         "en": "friends",
         "ru": "друзья",
+        "tr": "arkadaşlar",
+        "az": "dostlar",
+        "uk": "друзі",
         "descriptionEN": "People whom one knows and with whom one has a bond of mutual affection.",
         "descriptionRU": "Люди, которых кто-то знает и с которыми у него есть взаимная привязанность.",
-        "descriptionDE": "Menschen, die man kennt und zu denen man eine Bindung gegenseitiger Zuneigung hat."
+        "descriptionDE": "Menschen, die man kennt und zu denen man eine Bindung gegenseitiger Zuneigung hat.",
+        "descriptionTR": "Birinin tanıdığı ve karşılıklı sevgi bağı olan insanlar.",
+        "descriptionAZ": "Birinin tanıdığı və qarşılıqlı məhəbbət əlaqəsi olan insanlar.",
+        "descriptionUK": "Люди, яких хтось знає та з якими має взаємну прихильність."
     }, {
         "de": "die Kekse",
         "en": "cookies",
         "ru": "печенье",
+        "tr": "kurabiyeler",
+        "az": "pecenye",
+        "uk": "печиво",
         "descriptionEN": "Small sweet cakes, typically round and flat, made from dough.",
         "descriptionRU": "Небольшие сладкие пирожные, обычно круглые и плоские, приготовленные из теста.",
-        "descriptionDE": "Kleine süße Kuchen, typischerweise rund und flach, aus Teig gemacht."
+        "descriptionDE": "Kleine süße Kuchen, typischerweise rund und flach, aus Teig gemacht.",
+        "descriptionTR": "Hamurdan yapılmış, genellikle yuvarlak ve düz, küçük tatlı kekler.",
+        "descriptionAZ": "Xəmirdən hazırlanmış, adətən yumru və düz, kiçik şirniyyatlar.",
+        "descriptionUK": "Невеликі солодкі тістечка, зазвичай круглі та плоскі, виготовлені з тіста."
     }, {
         "de": "das Herz",
         "en": "heart",
         "ru": "сердце",
+        "tr": "kalp",
+        "az": "ürək",
+        "uk": "серце",
         "descriptionEN": "The organ in your chest that sends blood around your body.",
         "descriptionRU": "Орган в вашей груди, который перекачивает кровь по всему телу.",
-        "descriptionDE": "Das Organ in Ihrer Brust, das das Blut durch den Körper pumpt."
+        "descriptionDE": "Das Organ in Ihrer Brust, das das Blut durch den Körper pumpt.",
+        "descriptionTR": "Vücudunuza kan pompalayan göğsünüzdeki organ.",
+        "descriptionAZ": "Bədəninizə qan pompalayan sinənizdəki orqan.",
+        "descriptionUK": "Орган у вашій грудній клітці, який перекачує кров по всьому тілу."
     }, {
         "de": "die Dankbarkeit",
         "en": "gratitude",
         "ru": "благодарность",
+        "tr": "minnettarlık",
+        "az": "minnətdarlıq",
+        "uk": "вдячність",
         "descriptionEN": "The quality of being thankful; readiness to show appreciation.",
         "descriptionRU": "Качество быть благодарным; готовность проявить признательность.",
-        "descriptionDE": "Die Eigenschaft, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen."
+        "descriptionDE": "Die Eigenschaft, dankbar zu sein; Bereitschaft, Wertschätzung zu zeigen.",
+        "descriptionTR": "Minnettar olma niteliği; takdir göstermeye hazır olma.",
+        "descriptionAZ": "Minnətdar olmaq keyfiyyəti; təqdir göstərməyə hazır olmaq.",
+        "descriptionUK": "Якість бути вдячним; готовність виявити вдячність."
     }, {
         "de": "knien",
         "en": "to kneel",
         "ru": "становиться на колени",
+        "tr": "diz çökmek",
+        "az": "diz çökmək",
+        "uk": "ставати на коліна",
         "descriptionEN": "To rest one's weight on one's knees.",
         "descriptionRU": "Опираясь на колени, становиться на колени.",
-        "descriptionDE": "Sein Gewicht auf die Knie legen."
+        "descriptionDE": "Sein Gewicht auf die Knie legen.",
+        "descriptionTR": "Ağırlığını dizlerinin üzerine vermek.",
+        "descriptionAZ": "Çəkisini dizlərinin üstünə vermək.",
+        "descriptionUK": "Спиратися на коліна, ставати на коліна."
     }, {
         "de": "strecken",
         "en": "to stretch",
         "ru": "тянуться",
+        "tr": "germek",
+        "az": "uzatmaq",
+        "uk": "тягнутися",
         "descriptionEN": "To extend one's limbs or muscles to their full length.",
         "descriptionRU": "Протягивать конечности или мышцы на всю длину.",
-        "descriptionDE": "Seine Glieder oder Muskeln auf ihre volle Länge ausdehnen."
+        "descriptionDE": "Seine Glieder oder Muskeln auf ihre volle Länge ausdehnen.",
+        "descriptionTR": "Uzuvlarını veya kaslarını tam uzunluklarına kadar uzatmak.",
+        "descriptionAZ": "Ətraflarını və ya əzələlərini tam uzunluğuna qədər uzatmaq.",
+        "descriptionUK": "Витягувати кінцівки чи м'язи на повну довжину."
     }, {
         "de": "geben",
         "en": "to give",
         "ru": "давать",
+        "tr": "vermek",
+        "az": "vermək",
+        "uk": "давати",
         "descriptionEN": "To present voluntarily without expecting something in return.",
         "descriptionRU": "Представить добровольно, не ожидая ничего взамен.",
-        "descriptionDE": "Freiwillig überreichen, ohne etwas im Gegenzug zu erwarten."
+        "descriptionDE": "Freiwillig überreichen, ohne etwas im Gegenzug zu erwarten.",
+        "descriptionTR": "Karşılık beklemeden gönüllü olarak sunmak.",
+        "descriptionAZ": "Qarşılığında bir şey gözləmədən könüllü olaraq təqdim etmək.",
+        "descriptionUK": "Представити добровільно, не очікуючи нічого натомість."
     }, {
         "de": "fragen",
         "en": "to ask",
         "ru": "спрашивать",
+        "tr": "sormak",
+        "az": "soruşmaq",
+        "uk": "питати",
         "descriptionEN": "To say something in order to obtain an answer or information.",
         "descriptionRU": "Сказать что-то, чтобы получить ответ или информацию.",
-        "descriptionDE": "Etwas sagen, um eine Antwort oder Information zu erhalten."
+        "descriptionDE": "Etwas sagen, um eine Antwort oder Information zu erhalten.",
+        "descriptionTR": "Bir cevap veya bilgi almak için bir şey söylemek.",
+        "descriptionAZ": "Cavab və ya məlumat almaq üçün bir şey demək.",
+        "descriptionUK": "Сказати щось, щоб отримати відповідь чи інформацію."
     }, {
         "de": "suchen",
         "en": "to search",
         "ru": "искать",
+        "tr": "aramak",
+        "az": "axtarmaq",
+        "uk": "шукати",
         "descriptionEN": "To try to find something by looking carefully.",
         "descriptionRU": "Попытка найти что-то, внимательно рассматривая.",
-        "descriptionDE": "Versuchen, etwas zu finden, indem man sorgfältig schaut."
+        "descriptionDE": "Versuchen, etwas zu finden, indem man sorgfältig schaut.",
+        "descriptionTR": "Dikkatlice bakarak bir şey bulmaya çalışmak.",
+        "descriptionAZ": "Diqqətlə baxaraq bir şey tapmağa çalışmaq.",
+        "descriptionUK": "Намагатися знайти щось, уважно розглядаючи."
     }, {
         "de": "winken",
         "en": "to wave",
         "ru": "махать",
+        "tr": "el sallamak",
+        "az": "əl yelləmək",
+        "uk": "махати",
         "descriptionEN": "To move one's hand to and fro in greeting or as a signal.",
         "descriptionRU": "Двигать рукой вперед и назад в приветствии или как сигнал.",
-        "descriptionDE": "Die Hand hin und her bewegen zum Gruß oder als Signal."
+        "descriptionDE": "Die Hand hin und her bewegen zum Gruß oder als Signal.",
+        "descriptionTR": "Selam vermek veya sinyal olarak elini ileri geri hareket ettirmek.",
+        "descriptionAZ": "Salam vermək və ya siqnal kimi əlini irəli-geri hərəkət etdirmək.",
+        "descriptionUK": "Рухати рукою вперед і назад у вітанні чи як сигнал."
     }, {
         "de": "klein",
         "en": "small",
         "ru": "маленький",
+        "tr": "küçük",
+        "az": "kiçik",
+        "uk": "маленький",
         "descriptionEN": "Of a size that is less than normal or usual.",
         "descriptionRU": "Размер меньше обычного или нормального.",
-        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist."
+        "descriptionDE": "Von einer Größe, die kleiner als normal oder üblich ist.",
+        "descriptionTR": "Normal veya alışılagelenden daha küçük bir boyutta.",
+        "descriptionAZ": "Normal və ya adi olanadan daha kiçik ölçüdə.",
+        "descriptionUK": "Розмір менший за звичайний чи нормальний."
     }, {
         "de": "traurig",
         "en": "sad",
         "ru": "грустный",
+        "tr": "üzgün",
+        "az": "kədərli",
+        "uk": "сумний",
         "descriptionEN": "Feeling or showing sorrow; unhappy.",
         "descriptionRU": "Испытывать или проявлять печаль; несчастный.",
-        "descriptionDE": "Traurigkeit empfinden oder zeigen; unglücklich."
+        "descriptionDE": "Traurigkeit empfinden oder zeigen; unglücklich.",
+        "descriptionTR": "Üzüntü hissetmek veya göstermek; mutsuz.",
+        "descriptionAZ": "Kədər hiss etmək və ya göstərmək; bədbəxt.",
+        "descriptionUK": "Відчувати чи виявляти печаль; нещасливий."
     }, {
         "de": "verloren",
         "en": "lost",
         "ru": "потерянный",
+        "tr": "kayıp",
+        "az": "itirmiş",
+        "uk": "загублений",
         "descriptionEN": "Unable to find one's way.",
         "descriptionRU": "Не в состоянии найти дорогу.",
-        "descriptionDE": "Unfähig, den Weg zu finden."
+        "descriptionDE": "Unfähig, den Weg zu finden.",
+        "descriptionTR": "Yolunu bulamama.",
+        "descriptionAZ": "Yolunu tapa bilməmək.",
+        "descriptionUK": "Не в змозі знайти дорогу."
     }, {
         "de": "dankbar",
         "en": "grateful",
         "ru": "благодарный",
+        "tr": "minnettar",
+        "az": "minnətdar",
+        "uk": "вдячний",
         "descriptionEN": "Feeling or showing an appreciation for something received.",
         "descriptionRU": "Чувство или проявление признательности за что-то полученное.",
-        "descriptionDE": "Gefühl oder Ausdruck der Wertschätzung für etwas Erhaltenes."
+        "descriptionDE": "Gefühl oder Ausdruck der Wertschätzung für etwas Erhaltenes.",
+        "descriptionTR": "Alınan bir şey için minnettarlık hissetmek veya göstermek.",
+        "descriptionAZ": "Alınan bir şey üçün minnətdarlıq hiss etmək və ya göstərmək.",
+        "descriptionUK": "Відчувати чи виявляти вдячність за щось отримане."
     }
 ]

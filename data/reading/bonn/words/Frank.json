@@ -3,260 +3,482 @@
         "de": "der Schreibtisch",
         "en": "desk",
         "ru": "письменный стол",
+        "tr": "çalışma masası",
+        "az": "yazı masası",
+        "uk": "письмовий стіл",
         "descriptionEN": "a piece of furniture with a flat or sloped surface for various uses, often for writing or reading",
         "descriptionRU": "мебель с плоской или наклонной поверхностью для различных нужд, часто для письма или чтения",
-        "descriptionDE": "Ein Möbelstück mit einer flachen oder geneigten Oberfläche für verschiedene Zwecke, oft zum Schreiben oder Lesen."
+        "descriptionDE": "Ein Möbelstück mit einer flachen oder geneigten Oberfläche für verschiedene Zwecke, oft zum Schreiben oder Lesen.",
+        "descriptionTR": "çeşitli amaçlar için düz veya eğimli bir yüzeye sahip bir mobilya parçası, genellikle yazmak veya okumak için",
+        "descriptionAZ": "müxtəlif məqsədlər üçün düz və ya maili səthi olan bir mebel parçası, çox vaxt yazmaq və ya oxumaq üçün",
+        "descriptionUK": "меблі з плоскою або похилою поверхнею для різних потреб, часто для письма чи читання"
     }, {
         "de": "das Fenster",
         "en": "window",
         "ru": "окно",
+        "tr": "pencere",
+        "az": "pəncərə",
+        "uk": "вікно",
         "descriptionEN": "an opening in a wall or door through which one can see and, usually, communicate with those outside",
         "descriptionRU": "отверстие в стене или двери, через которое можно видеть и, обычно, общаться с теми снаружи",
-        "descriptionDE": "Eine Öffnung in einer Wand oder Tür, durch die man sehen und in der Regel mit Personen außerhalb kommunizieren kann."
+        "descriptionDE": "Eine Öffnung in einer Wand oder Tür, durch die man sehen und in der Regel mit Personen außerhalb kommunizieren kann.",
+        "descriptionTR": "bir duvar veya kapıda dışarıyı görmeye ve genellikle dışarıdakilerle iletişim kurmaya yarayan açıklık",
+        "descriptionAZ": "divar və ya qapıda xaricdəkiləri görmək və ünsiyyət etmək üçün açılan boşluq",
+        "descriptionUK": "отвір у стіні чи дверях, через який можна бачити і, як правило, спілкуватися з тими, хто зовні"
     }, {
         "de": "das Auto",
         "en": "car",
         "ru": "автомобиль",
+        "tr": "araba",
+        "az": "avtomobil",
+        "uk": "автомобіль",
         "descriptionEN": "a road vehicle, typically with four wheels, powered by an internal combustion engine",
         "descriptionRU": "транспортное средство для движения по дорогам, обычно с четырьмя колесами, приводимое в движение внутренним сгоранием топлива",
-        "descriptionDE": "Ein Straßenfahrzeug, normalerweise mit vier Rädern, angetrieben von einem Verbrennungsmotor."
+        "descriptionDE": "Ein Straßenfahrzeug, normalerweise mit vier Rädern, angetrieben von einem Verbrennungsmotor.",
+        "descriptionTR": "genellikle dört tekerlekli, içten yanmalı motorla çalışan bir kara taşıtı",
+        "descriptionAZ": "adətən dörd təkərli, daxili yanma mühərriki ilə işləyən yol nəqliyyat vasitəsi",
+        "descriptionUK": "дорожній транспортний засіб, зазвичай з чотирма колесами, що приводиться в рух двигуном внутрішнього згоряння"
     }, {
         "de": "der Regen",
         "en": "rain",
         "ru": "дождь",
+        "tr": "yağmur",
+        "az": "yağış",
+        "uk": "дощ",
         "descriptionEN": "water falling in drops condensed from vapor in the atmosphere",
         "descriptionRU": "вода, падающая в каплях, образованных конденсацией пара в атмосфере",
-        "descriptionDE": "Wasser, das in Tropfen fällt, kondensiert aus Wasserdampf in der Atmosphäre."
+        "descriptionDE": "Wasser, das in Tropfen fällt, kondensiert aus Wasserdampf in der Atmosphäre.",
+        "descriptionTR": "atmosferdeki buharın yoğunlaşmasıyla damlalar halinde düşen su",
+        "descriptionAZ": "atmosferdə buxarın yoğunlaşması nəticəsində damcılar şəklində yağan su",
+        "descriptionUK": "вода, що падає краплями, утвореними конденсацією пари в атмосфері"
     }, {
         "de": "der Monat",
         "en": "month",
         "ru": "месяц",
+        "tr": "ay",
+        "az": "ay",
+        "uk": "місяць",
         "descriptionEN": "a period of time between the same dates in successive calendar months",
         "descriptionRU": "период времени между одинаковыми датами в последовательных календарных месяцах",
-        "descriptionDE": "Ein Zeitraum zwischen den gleichen Daten in aufeinanderfolgenden Kalendermonaten."
+        "descriptionDE": "Ein Zeitraum zwischen den gleichen Daten in aufeinanderfolgenden Kalendermonaten.",
+        "descriptionTR": "ardışık takvim aylarında aynı tarihler arasındaki zaman dilimi",
+        "descriptionAZ": "ardıcıl təqvim aylarında eyni tarixlər arasındakı zaman dövrü",
+        "descriptionUK": "період часу між однаковими датами у послідовних календарних місяцях"
     }, {
         "de": "die Ostküste",
         "en": "east coast",
         "ru": "восточное побережье",
+        "tr": "doğu kıyısı",
+        "az": "şərq sahili",
+        "uk": "східне узбережжя",
         "descriptionEN": "the eastern part of a country or continent, especially the coastline along an ocean or sea",
         "descriptionRU": "восточная часть страны или континента, особенно побережье вдоль океана или моря",
-        "descriptionDE": "Der östliche Teil eines Landes oder Kontinents, besonders die Küste entlang eines Ozeans oder Meeres."
+        "descriptionDE": "Der östliche Teil eines Landes oder Kontinents, besonders die Küste entlang eines Ozeans oder Meeres.",
+        "descriptionTR": "bir ülkenin veya kıtanın doğu kısmı, özellikle bir okyanus veya deniz boyunca uzanan kıyı şeridi",
+        "descriptionAZ": "ölkənin və ya qitənin şərq hissəsi, xüsusilə okean və ya dəniz boyunca uzanan sahil xətti",
+        "descriptionUK": "східна частина країни чи континенту, особливо узбережжя вздовж океану чи моря"
     }, {
         "de": "der Dienst",
         "en": "service",
         "ru": "служба",
+        "tr": "hizmet",
+        "az": "xidmət",
+        "uk": "служба",
         "descriptionEN": "the action of helping or doing work for someone",
         "descriptionRU": "действие по помощи или выполнению работы для кого-то",
-        "descriptionDE": "Die Handlung, jemandem zu helfen oder Arbeit für jemanden zu verrichten."
+        "descriptionDE": "Die Handlung, jemandem zu helfen oder Arbeit für jemanden zu verrichten.",
+        "descriptionTR": "birine yardım etme veya onun için iş yapma eylemi",
+        "descriptionAZ": "kiməsə kömək etmək və ya onun üçün iş görmək hərəkəti",
+        "descriptionUK": "дія допомоги або виконання роботи для когось"
     }, {
         "de": "das Geld",
         "en": "money",
         "ru": "деньги",
+        "tr": "para",
+        "az": "pul",
+        "uk": "гроші",
         "descriptionEN": "a medium of exchange in the form of coins and banknotes",
         "descriptionRU": "средство обмена в виде монет и банкнот",
-        "descriptionDE": "Ein Tauschmittel in Form von Münzen und Banknoten."
+        "descriptionDE": "Ein Tauschmittel in Form von Münzen und Banknoten.",
+        "descriptionTR": "madeni para ve banknot şeklinde bir değişim aracı",
+        "descriptionAZ": "sikkə və əsginas şəklində mübadilə vasitəsi",
+        "descriptionUK": "засіб обміну у вигляді монет і банкнот"
     }, {
         "de": "die Rente",
         "en": "retirement",
         "ru": "пенсия",
+        "tr": "emeklilik",
+        "az": "təqaüd",
+        "uk": "пенсія",
         "descriptionEN": "the action of leaving one's job and ceasing to work, typically upon reaching a certain age",
         "descriptionRU": "действие покидания своей работы и прекращения труда, обычно при достижении определенного возраста",
-        "descriptionDE": "Die Handlung, die eigene Arbeit zu verlassen und aufzuhören zu arbeiten, normalerweise beim Erreichen eines bestimmten Alters."
+        "descriptionDE": "Die Handlung, die eigene Arbeit zu verlassen und aufzuhören zu arbeiten, normalerweise beim Erreichen eines bestimmten Alters.",
+        "descriptionTR": "genellikle belirli bir yaşa ulaşıldığında işten ayrılma ve çalışmayı bırakma eylemi",
+        "descriptionAZ": "adətən müəyyən bir yaşa çatdıqda işdən çıxmaq və işləməyi dayandırmaq hərəkəti",
+        "descriptionUK": "дія залишення роботи та припинення праці, зазвичай після досягнення певного віку"
     }, {
         "de": "der Urlaub",
         "en": "vacation",
         "ru": "отпуск",
+        "tr": "tatil",
+        "az": "məzuniyyət",
+        "uk": "відпустка",
         "descriptionEN": "a period of time devoted to rest, travel, or recreation",
         "descriptionRU": "период времени, посвященный отдыху, путешествию или отдыху",
-        "descriptionDE": "Ein Zeitraum, der dem Ausruhen, Reisen oder Erholung gewidmet ist."
+        "descriptionDE": "Ein Zeitraum, der dem Ausruhen, Reisen oder Erholung gewidmet ist.",
+        "descriptionTR": "dinlenmeye, seyahate veya eğlenceye ayrılan bir zaman dilimi",
+        "descriptionAZ": "istirahət, səyahət və ya əyləncəyə həsr olunmuş bir müddət",
+        "descriptionUK": "період часу, присвячений відпочинку, подорожам чи рекреації"
     }, {
         "de": "der Inspektor",
         "en": "inspector",
         "ru": "инспектор",
+        "tr": "müfettiş",
+        "az": "inspektor",
+        "uk": "інспектор",
         "descriptionEN": "an official employed to ensure that official regulations are obeyed, especially in public services",
         "descriptionRU": "чиновник, назначенный для обеспечения соблюдения официальных норм, особенно в области общественных служб",
-        "descriptionDE": "Ein Beamter, der angestellt ist, um sicherzustellen, dass offizielle Vorschriften eingehalten werden, insbesondere in öffentlichen Dienstleistungen."
+        "descriptionDE": "Ein Beamter, der angestellt ist, um sicherzustellen, dass offizielle Vorschriften eingehalten werden, insbesondere in öffentlichen Dienstleistungen.",
+        "descriptionTR": "resmi düzenlemelere uyulduğundan emin olmak için görevlendirilen bir memur, özellikle kamu hizmetlerinde",
+        "descriptionAZ": "rəsmi qaydalara əməl olunduğuna əmin olmaq üçün işə götürülən rəsmi şəxs, xüsusilə ictimai xidmətlərdə",
+        "descriptionUK": "посадовець, призначений для забезпечення дотримання офіційних норм, особливо в сфері громадських служб"
     }, {
         "de": "die Hilfe",
         "en": "help",
         "ru": "помощь",
+        "tr": "yardım",
+        "az": "kömək",
+        "uk": "допомога",
         "descriptionEN": "the action of helping someone to do something; assistance",
         "descriptionRU": "действие помощи кому-то в чем-то; помощь",
-        "descriptionDE": "Die Handlung, jemandem bei etwas zu helfen; Unterstützung."
+        "descriptionDE": "Die Handlung, jemandem bei etwas zu helfen; Unterstützung.",
+        "descriptionTR": "birine bir şey yapmasında yardım etme eylemi; destek",
+        "descriptionAZ": "kiməsə bir şey etməyə kömək etmək hərəkəti; yardım",
+        "descriptionUK": "дія допомоги комусь у чомусь; підтримка"
     }, {
         "de": "die Frage",
         "en": "question",
         "ru": "вопрос",
+        "tr": "soru",
+        "az": "sual",
+        "uk": "питання",
         "descriptionEN": "a sentence worded or expressed so as to elicit information",
         "descriptionRU": "предложение, сформулированное или выраженное таким образом, чтобы извлечь информацию",
-        "descriptionDE": "Ein Satz, formuliert oder ausgedrückt, um Informationen zu erhalten."
+        "descriptionDE": "Ein Satz, formuliert oder ausgedrückt, um Informationen zu erhalten.",
+        "descriptionTR": "bilgi almak için ifade edilmiş veya söylenmiş bir cümle",
+        "descriptionAZ": "məlumat almaq üçün ifadə edilmiş və ya deyilmiş cümlə",
+        "descriptionUK": "речення, сформульоване чи виражене таким чином, щоб отримати інформацію"
     }, {
         "de": "der Plan",
         "en": "plan",
         "ru": "план",
+        "tr": "plan",
+        "az": "plan",
+        "uk": "план",
         "descriptionEN": "a detailed proposal for doing or achieving something",
         "descriptionRU": "детальное предложение о том, как что-то делать или достигать",
-        "descriptionDE": "Ein detaillierter Vorschlag, etwas zu tun oder zu erreichen."
+        "descriptionDE": "Ein detaillierter Vorschlag, etwas zu tun oder zu erreichen.",
+        "descriptionTR": "bir şeyi yapmak veya başarmak için detaylı bir öneri",
+        "descriptionAZ": "bir şey etmək və ya nail olmaq üçün ətraflı təklif",
+        "descriptionUK": "детальна пропозиція щодо того, як щось робити чи досягати"
     }, {
         "de": "der Diamant",
         "en": "diamond",
         "ru": "алмаз",
+        "tr": "elmas",
+        "az": "almaz",
+        "uk": "алмаз",
         "descriptionEN": "a precious stone consisting of a clear and typically colorless crystalline form of pure carbon",
         "descriptionRU": "драгоценный камень, состоящий из прозрачной и обычно бесцветной кристаллической формы чистого углерода",
-        "descriptionDE": "Ein Edelstein, bestehend aus einer klaren und typischerweise farblosen kristallinen Form von reinem Kohlenstoff."
+        "descriptionDE": "Ein Edelstein, bestehend aus einer klaren und typischerweise farblosen kristallinen Form von reinem Kohlenstoff.",
+        "descriptionTR": "saf karbonun berrak ve genellikle renksiz kristal formundan oluşan değerli bir taş",
+        "descriptionAZ": "təmiz karbonun şəffaf və adətən rəngsiz kristal formasından ibarət qiymətli daş",
+        "descriptionUK": "дорогоцінний камінь, що складається з прозорої та зазвичай безбарвної кристалічної форми чистого вуглецю"
     }, {
         "de": "der Kriminelle",
         "en": "criminal",
         "ru": "преступник",
+        "tr": "suçlu",
+        "az": "cinayətkar",
+        "uk": "злочинець",
         "descriptionEN": "a person who has committed a crime",
         "descriptionRU": "человек, совершивший преступление",
-        "descriptionDE": "Eine Person, die ein Verbrechen begangen hat."
+        "descriptionDE": "Eine Person, die ein Verbrechen begangen hat.",
+        "descriptionTR": "bir suç işlemiş kişi",
+        "descriptionAZ": "cinayət törətmiş şəxs",
+        "descriptionUK": "людина, яка вчинила злочин"
     }, {
         "de": "der Alarmsystem",
         "en": "alarm system",
         "ru": "система сигнализации",
+        "tr": "alarm sistemi",
+        "az": "siqnalizasiya sistemi",
+        "uk": "система сигналізації",
         "descriptionEN": "a system designed to detect intrusion, unauthorized entry, or other suspicious activities",
         "descriptionRU": "система, предназначенная для обнаружения проникновения, несанкционированного входа или других подозрительных действий",
-        "descriptionDE": "Ein System, das entwickelt wurde, um Eindringen, unbefugten Zugang oder andere verdächtige Aktivitäten zu erkennen."
+        "descriptionDE": "Ein System, das entwickelt wurde, um Eindringen, unbefugten Zugang oder andere verdächtige Aktivitäten zu erkennen.",
+        "descriptionTR": "izinsiz girişi, yetkisiz erişimi veya diğer şüpheli faaliyetleri tespit etmek için tasarlanmış bir sistem",
+        "descriptionAZ": "qanunsuz girişi, icazəsiz daxil olmanı və ya digər şübhəli fəaliyyətləri aşkar etmək üçün hazırlanmış sistem",
+        "descriptionUK": "система, призначена для виявлення проникнення, несанкціонованого входу чи інших підозрілих дій"
     }, {
         "de": "die Vitrine",
         "en": "display case",
         "ru": "витрина",
+        "tr": "vitrin",
+        "az": "vitrin",
+        "uk": "вітрина",
         "descriptionEN": "a glass case or cabinet for displaying articles in a museum or shop",
         "descriptionRU": "стеклянный ящик или шкаф для выставки предметов в музее или магазине",
-        "descriptionDE": "Ein Glasgehäuse oder Schrank zur Präsentation von Gegenständen in einem Museum oder Geschäft."
+        "descriptionDE": "Ein Glasgehäuse oder Schrank zur Präsentation von Gegenständen in einem Museum oder Geschäft.",
+        "descriptionTR": "bir müzede veya mağazada eşyaları sergilemek için cam dolap veya vitrin",
+        "descriptionAZ": "muzeydə və ya mağazada əşyaları nümayiş etdirmək üçün şüşə şkaf və ya vitrin",
+        "descriptionUK": "скляна шафа чи вітрина для виставлення предметів у музеї чи магазині"
     }, {
         "de": "der Beamte",
         "en": "officer",
         "ru": "служащий",
+        "tr": "memur",
+        "az": "məmur",
+        "uk": "службовець",
         "descriptionEN": "a person in a position of authority, especially in the armed forces or the government",
         "descriptionRU": "человек на должности власти, особенно в вооруженных силах или правительстве",
-        "descriptionDE": "Eine Person in einer Machtposition, insbesondere in den Streitkräften oder der Regierung."
+        "descriptionDE": "Eine Person in einer Machtposition, insbesondere in den Streitkräften oder der Regierung.",
+        "descriptionTR": "yetkili bir pozisyonda bulunan kişi, özellikle silahlı kuvvetlerde veya hükümette",
+        "descriptionAZ": "səlahiyyətli vəzifədə olan şəxs, xüsusilə silahlı qüvvələrdə və ya hökumətdə",
+        "descriptionUK": "особа на посаді влади, особливо у збройних силах чи уряді"
     }, {
         "de": "die Strafe",
         "en": "penalty",
         "ru": "наказание",
+        "tr": "ceza",
+        "az": "cəza",
+        "uk": "покарання",
         "descriptionEN": "a punishment imposed for breaking a law, rule, or contract",
         "descriptionRU": "наказание, наложенное за нарушение закона, правила или контракта",
-        "descriptionDE": "Eine Strafe, die für das Brechen eines Gesetzes, einer Regel oder eines Vertrags verhängt wird."
+        "descriptionDE": "Eine Strafe, die für das Brechen eines Gesetzes, einer Regel oder eines Vertrags verhängt wird.",
+        "descriptionTR": "bir yasayı, kuralı veya sözleşmeyi ihlal etme karşılığında uygulanan bir ceza",
+        "descriptionAZ": "qanun, qayda və ya müqaviləni pozduğuna görə verilən cəza",
+        "descriptionUK": "покарання, накладене за порушення закону, правила чи контракту"
     }, {
         "de": "der Fall",
         "en": "case",
         "ru": "случай",
+        "tr": "durum",
+        "az": "hal",
+        "uk": "випадок",
         "descriptionEN": "an instance of a particular situation; an example of something occurring",
         "descriptionRU": "случай определенной ситуации; пример того, что происходит",
-        "descriptionDE": "Ein Beispiel für eine bestimmte Situation; ein Beispiel für das, was geschieht."
+        "descriptionDE": "Ein Beispiel für eine bestimmte Situation; ein Beispiel für das, was geschieht.",
+        "descriptionTR": "belirli bir durumun örneği; meydana gelen bir şeyin örneği",
+        "descriptionAZ": "müəyyən bir vəziyyətin nümunəsi; baş verən bir şeyin nümunəsi",
+        "descriptionUK": "приклад певної ситуації; приклад того, що відбувається"
     }, {
         "de": "das Licht",
         "en": "light",
         "ru": "свет",
+        "tr": "ışık",
+        "az": "işıq",
+        "uk": "світло",
         "descriptionEN": "the natural agent that stimulates sight and makes things visible",
         "descriptionRU": "естественное средство, стимулирующее зрение и делающее вещи видимыми",
-        "descriptionDE": "Das natürliche Mittel, das das Sehvermögen stimuliert und Dinge sichtbar macht."
+        "descriptionDE": "Das natürliche Mittel, das das Sehvermögen stimuliert und Dinge sichtbar macht.",
+        "descriptionTR": "görmeyi uyaran ve nesneleri görünür kılan doğal etken",
+        "descriptionAZ": "görmə qabiliyyətini stimullaşdıran və əşyaları görünən edən təbii vasitə",
+        "descriptionUK": "природний засіб, що стимулює зір і робить речі видимими"
     }, {
         "de": "der Mond",
         "en": "moon",
         "ru": "луна",
+        "tr": "ay",
+        "az": "ay",
+        "uk": "місяць",
         "descriptionEN": "the natural satellite of the earth, visible by reflection of sunlight and having a slightly elliptical orbit",
         "descriptionRU": "естественный спутник Земли, видимый отражением солнечного света и имеющий слегка эллиптическую орбиту",
-        "descriptionDE": "Der natürliche Satellit der Erde, sichtbar durch die Reflektion von Sonnenlicht und mit einer leicht elliptischen Umlaufbahn."
+        "descriptionDE": "Der natürliche Satellit der Erde, sichtbar durch die Reflektion von Sonnenlicht und mit einer leicht elliptischen Umlaufbahn.",
+        "descriptionTR": "güneş ışığının yansımasıyla görülebilen ve hafif eliptik bir yörüngeye sahip olan dünyanın doğal uydusu",
+        "descriptionAZ": "günəş işığının əks olunması ilə görünən və yüngül elliptik orbiti olan Yerin təbii peyki",
+        "descriptionUK": "природний супутник Землі, видимий завдяки відбиттю сонячного світла і має трохи еліптичну орбіту"
     }, {
         "de": "der Champagner",
         "en": "champagne",
         "ru": "шампанское",
+        "tr": "şampanya",
+        "az": "şampan",
+        "uk": "шампанське",
         "descriptionEN": "a sparkling wine produced in the Champagne region of France",
         "descriptionRU": "игристое вино, произведенное в регионе Шампань во Франции",
-        "descriptionDE": "Ein Schaumwein, der in der Champagne-Region Frankreichs produziert wird."
+        "descriptionDE": "Ein Schaumwein, der in der Champagne-Region Frankreichs produziert wird.",
+        "descriptionTR": "Fransa'nın Champagne bölgesinde üretilen köpüklü bir şarap",
+        "descriptionAZ": "Fransanın Şampan bölgəsində istehsal olunan köpüklü şərab",
+        "descriptionUK": "ігристе вино, вироблене в регіоні Шампань у Франції"
     }, {
         "de": "die Katze",
         "en": "cat",
         "ru": "кошка",
+        "tr": "kedi",
+        "az": "pişik",
+        "uk": "кіт",
         "descriptionEN": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws",
         "descriptionRU": "небольшое домашнее плотоядное млекопитающее с мягкой шерстью, коротким мордочкой и убираемыми когтями",
-        "descriptionDE": "Ein kleines, domestiziertes, fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und einziehbaren Krallen."
+        "descriptionDE": "Ein kleines, domestiziertes, fleischfressendes Säugetier mit weichem Fell, einer kurzen Schnauze und einziehbaren Krallen.",
+        "descriptionTR": "yumuşak tüylü, kısa burunlu ve geri çekilebilir pençeleri olan küçük evcil bir etçil memeli",
+        "descriptionAZ": "yumşaq tüklü, qısa burunlu və geri çəkilə bilən dırnaqları olan kiçik evcil yırtıcı məməli",
+        "descriptionUK": "невеликий домашній хижий ссавець з м'якою шерстю, короткою мордою та втяжними кігтями"
     }, {
         "de": "die Zeitung",
         "en": "newspaper",
         "ru": "газета",
+        "tr": "gazete",
+        "az": "qəzet",
+        "uk": "газета",
         "descriptionEN": "a printed publication consisting of folded unstapled sheets containing news, feature articles, and advertising",
         "descriptionRU": "печатное издание, состоящее из сложенных листов без скрепок, содержащее новости, статьи и рекламу",
-        "descriptionDE": "Eine gedruckte Publikation, bestehend aus gefalteten, unvernähten Blättern mit Nachrichten, Artikeln und Werbung."
+        "descriptionDE": "Eine gedruckte Publikation, bestehend aus gefalteten, unvernähten Blättern mit Nachrichten, Artikeln und Werbung.",
+        "descriptionTR": "haberler, makaleler ve reklamlar içeren, zımbalanmamış katlanmış sayfalardan oluşan basılı bir yayın",
+        "descriptionAZ": "xəbərlər, məqalələr və reklamlar ehtiva edən, sancaqlanmamış qatlanmış vərəqlərdən ibarət çap nəşri",
+        "descriptionUK": "друковане видання, що складається зі складених аркушів без скріплення, яке містить новини, статті та рекламу"
     }, {
         "de": "die Zigarette",
         "en": "cigarette",
         "ru": "сигарета",
+        "tr": "sigara",
+        "az": "siqaret",
+        "uk": "сигарета",
         "descriptionEN": "a thin cylinder of finely cut tobacco rolled in paper for smoking",
         "descriptionRU": "тонкий цилиндр из мелко нарезанного табака, завернутый в бумагу для курения",
-        "descriptionDE": "Ein dünn geschnittener Tabakzylinder, in Papier gerollt zum Rauchen."
+        "descriptionDE": "Ein dünn geschnittener Tabakzylinder, in Papier gerollt zum Rauchen.",
+        "descriptionTR": "ince kesilmiş tütünün kağıda sarılarak içilmek üzere hazırlanmış ince silindir",
+        "descriptionAZ": "incə doğranmış tütünün kağıza sarılaraq çəkmək üçün hazırlanmış nazik silindr",
+        "descriptionUK": "тонкий циліндр із дрібно нарізаного тютюну, загорнутий у папір для куріння"
     }, {
         "de": "das Glas",
         "en": "glass",
         "ru": "стекло",
+        "tr": "cam",
+        "az": "şüşə",
+        "uk": "скло",
         "descriptionEN": "a hard, brittle substance, typically transparent or translucent, made by fusing sand with soda and lime",
         "descriptionRU": "твердое, хрупкое вещество, обычно прозрачное или полупрозрачное, изготовленное путем плавления песка с содой и известью",
-        "descriptionDE": "Eine harte, spröde Substanz, normalerweise transparent oder durchscheinend, hergestellt durch Verschmelzen von Sand mit Soda und Kalk."
+        "descriptionDE": "Eine harte, spröde Substanz, normalerweise transparent oder durchscheinend, hergestellt durch Verschmelzen von Sand mit Soda und Kalk.",
+        "descriptionTR": "kumun soda ve kireçle eritilmesiyle yapılan, genellikle şeffaf veya yarı şeffaf, sert ve kırılgan bir madde",
+        "descriptionAZ": "qumun soda və əhənglə əridilməsi ilə hazırlanan, adətən şəffaf və ya yarı şəffaf, sərt və kövrək maddə",
+        "descriptionUK": "тверда, крихка речовина, зазвичай прозора або напівпрозора, виготовлена шляхом плавлення піску з содою та вапном"
     }, {
         "de": "der Tisch",
         "en": "table",
         "ru": "стол",
+        "tr": "masa",
+        "az": "stol",
+        "uk": "стіл",
         "descriptionEN": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed",
         "descriptionRU": "мебель с плоской верхней частью и одной или несколькими ногами, обеспечивающая равномерную поверхность, на которую можно поместить объекты",
-        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können."
+        "descriptionDE": "Ein Möbelstück mit einer flachen Oberseite und einem oder mehreren Beinen, das eine ebene Fläche bietet, auf der Gegenstände platziert werden können.",
+        "descriptionTR": "düz bir üst yüzeyi ve bir veya daha fazla ayağı olan, üzerine nesnelerin yerleştirilebileceği düz bir yüzey sağlayan bir mobilya parçası",
+        "descriptionAZ": "düz üst səthi və bir və ya bir neçə ayağı olan, üzərinə əşyalar qoyula bilən düz səth təmin edən bir mebel parçası",
+        "descriptionUK": "меблі з плоскою верхньою частиною та однією або кількома ніжками, що забезпечує рівну поверхню для розміщення предметів"
     }, {
         "de": "die Tasche",
         "en": "bag",
         "ru": "сумка",
+        "tr": "çanta",
+        "az": "çanta",
+        "uk": "сумка",
         "descriptionEN": "a flexible container with an opening at the top, used for carrying things",
         "descriptionRU": "гибкий контейнер с отверстием сверху, используемый для переноски вещей",
-        "descriptionDE": "Ein flexibler Behälter mit einer Öffnung oben, der zum Tragen von Dingen verwendet wird."
+        "descriptionDE": "Ein flexibler Behälter mit einer Öffnung oben, der zum Tragen von Dingen verwendet wird.",
+        "descriptionTR": "üst kısmında açıklığı olan, eşya taşımak için kullanılan esnek bir kap",
+        "descriptionAZ": "üst hissəsində açılışı olan, əşya daşımaq üçün istifadə olunan elastik qab",
+        "descriptionUK": "гнучка ємність з отвором у верхній частині, що використовується для перенесення речей"
     }, {
         "de": "die Blume",
         "en": "flower",
         "ru": "цветок",
+        "tr": "çiçek",
+        "az": "çiçək",
+        "uk": "квітка",
         "descriptionEN": "the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla",
         "descriptionRU": "содержащая семена часть растения, состоящая из репродуктивных органов, обычно окруженных ярко окрашенной чашелистиками",
-        "descriptionDE": "Der samenbildende Teil einer Pflanze, bestehend aus reproduktiven Organen, die normalerweise von einer farbenfrohen Krone umgeben sind."
+        "descriptionDE": "Der samenbildende Teil einer Pflanze, bestehend aus reproduktiven Organen, die normalerweise von einer farbenfrohen Krone umgeben sind.",
+        "descriptionTR": "bitkinin tohum taşıyan kısmı, genellikle parlak renkli taç yapraklarla çevrili üreme organlarından oluşur",
+        "descriptionAZ": "bitkinin toxum daşıyan hissəsi, adətən parlaq rəngli çiçək yarpaqları ilə əhatə olunmuş çoxalma orqanlarından ibarətdir",
+        "descriptionUK": "частина рослини, що містить насіння, складається з репродуктивних органів, зазвичай оточених яскраво забарвленими пелюстками"
     }, {
         "de": "der Himmel",
         "en": "sky",
         "ru": "небо",
+        "tr": "gökyüzü",
+        "az": "səma",
+        "uk": "небо",
         "descriptionEN": "the region of the atmosphere and outer space seen from the earth",
         "descriptionRU": "область атмосферы и космического пространства, видимая с Земли",
-        "descriptionDE": "Die Region der Atmosphäre und des Weltraums, die von der Erde aus sichtbar ist."
+        "descriptionDE": "Die Region der Atmosphäre und des Weltraums, die von der Erde aus sichtbar ist.",
+        "descriptionTR": "dünyadan görülen atmosfer ve uzay bölgesi",
+        "descriptionAZ": "Yerdən görünən atmosfer və kosmos bölgəsi",
+        "descriptionUK": "область атмосфери та космічного простору, видима з Землі"
     }, {
         "de": "das Buch",
         "en": "book",
         "ru": "книга",
+        "tr": "kitap",
+        "az": "kitab",
+        "uk": "книга",
         "descriptionEN": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers",
         "descriptionRU": "письменное или печатное произведение, состоящее из страниц, склеенных или сшитых вдоль одной стороны и обложенных",
-        "descriptionDE": "Ein schriftliches oder gedrucktes Werk, bestehend aus an einer Seite zusammengeklebten oder genähten Seiten und gebunden in Umschläge."
+        "descriptionDE": "Ein schriftliches oder gedrucktes Werk, bestehend aus an einer Seite zusammengeklebten oder genähten Seiten und gebunden in Umschläge.",
+        "descriptionTR": "bir kenarından yapıştırılmış veya dikilmiş sayfalardan oluşan ve kapaklarla ciltlenmiş yazılı veya basılı bir eser",
+        "descriptionAZ": "bir kənarından yapışdırılmış və ya tikilmiş səhifələrdən ibarət və cildlənmiş yazılı və ya çap əsər",
+        "descriptionUK": "письмовий або друкований твір, що складається зі сторінок, склеєних або зшитих уздовж одного боку та палітурених"
     }, {
         "de": "der Kaffee",
         "en": "coffee",
         "ru": "кофе",
+        "tr": "kahve",
+        "az": "qəhvə",
+        "uk": "кава",
         "descriptionEN": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub",
         "descriptionRU": "горячий напиток, приготовленный из обжаренных и измельченных семян (кофейных зерен) тропического кустарника",
-        "descriptionDE": "Ein heißes Getränk, hergestellt aus gerösteten und gemahlenen Samen (Kaffeebohnen) eines tropischen Strauchs."
+        "descriptionDE": "Ein heißes Getränk, hergestellt aus gerösteten und gemahlenen Samen (Kaffeebohnen) eines tropischen Strauchs.",
+        "descriptionTR": "tropikal bir çalının kavrulmuş ve öğütülmüş tohumlarından (kahve çekirdekleri) yapılan sıcak bir içecek",
+        "descriptionAZ": "tropik bir koldan qovrulmuş və üyüdülmüş toxumlardan (qəhvə dənələri) hazırlanmış isti içki",
+        "descriptionUK": "гарячий напій, приготований з обсмажених і подрібнених насінин (кавових зерен) тропічного куща"
     }, {
         "de": "das Wasser",
         "en": "water",
         "ru": "вода",
+        "tr": "su",
+        "az": "su",
+        "uk": "вода",
         "descriptionEN": "a colorless, transparent, odorless, and tasteless liquid that forms the seas, lakes, rivers, and rain",
         "descriptionRU": "бесцветная, прозрачная, без запаха и вкуса жидкость, образующая моря, озера, реки и дождь",
-        "descriptionDE": "Eine farblose, transparente, geruchlose und geschmacklose Flüssigkeit, die Meere, Seen, Flüsse und Regen bildet."
+        "descriptionDE": "Eine farblose, transparente, geruchlose und geschmacklose Flüssigkeit, die Meere, Seen, Flüsse und Regen bildet.",
+        "descriptionTR": "denizleri, gölleri, nehirleri ve yağmuru oluşturan renksiz, şeffaf, kokusuz ve tatsız bir sıvı",
+        "descriptionAZ": "dənizləri, gölləri, çayları və yağışı təşkil edən rəngsiz, şəffaf, qoxusuz və dadsız maye",
+        "descriptionUK": "безбарвна, прозора, без запаху та смаку рідина, що утворює моря, озера, річки та дощ"
     }, {
         "de": "die Musik",
         "en": "music",
         "ru": "музыка",
+        "tr": "müzik",
+        "az": "musiqi",
+        "uk": "музика",
         "descriptionEN": "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion",
         "descriptionRU": "вокальные или инструментальные звуки (или и то, и другое), объединенные таким образом, чтобы создавать красоту формы, гармонию и выражение эмоций",
-        "descriptionDE": "Vokale oder instrumentale Klänge (oder beides), die auf eine Weise kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen erzeugen."
+        "descriptionDE": "Vokale oder instrumentale Klänge (oder beides), die auf eine Weise kombiniert sind, dass sie Schönheit der Form, Harmonie und Ausdruck von Emotionen erzeugen.",
+        "descriptionTR": "biçim güzelliği, uyum ve duygu ifadesi üretecek şekilde birleştirilmiş vokal veya enstrümantal sesler (veya her ikisi)",
+        "descriptionAZ": "forma gözəlliyi, ahəng və emosiya ifadəsi yaradan şəkildə birləşdirilmiş vokal və ya instrumental səslər (və ya hər ikisi)",
+        "descriptionUK": "вокальні чи інструментальні звуки (або обидва), поєднані таким чином, щоб створювати красу форми, гармонію та вираз емоцій"
     }, {
         "de": "die Bibliothek",
         "en": "library",
         "ru": "библиотека",
+        "tr": "kütüphane",
+        "az": "kitabxana",
+        "uk": "бібліотека",
         "descriptionEN": "a building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to",
         "descriptionRU": "здание или комната с коллекциями книг, периодических изданий и иногда фильмов и записанной музыки для чтения, заимствования или ссылки",
-        "descriptionDE": "Ein Gebäude oder Raum mit Sammlungen von Büchern, Zeitschriften und manchmal Filmen und aufgezeichneter Musik, die Menschen zum Lesen, Ausleihen oder Nachschlagen dienen."
+        "descriptionDE": "Ein Gebäude oder Raum mit Sammlungen von Büchern, Zeitschriften und manchmal Filmen und aufgezeichneter Musik, die Menschen zum Lesen, Ausleihen oder Nachschlagen dienen.",
+        "descriptionTR": "insanların okuması, ödünç alması veya başvurması için kitaplar, süreli yayınlar ve bazen filmler ve kaydedilmiş müzik koleksiyonlarını içeren bir bina veya oda",
+        "descriptionAZ": "insanların oxuması, borc alması və ya istinad etməsi üçün kitablar, jurnallar və bəzən filmlər və yazılı musiqilərdən ibarət kolleksiyaları ehtiva edən bina və ya otaq",
+        "descriptionUK": "будівля чи кімната, що містить колекції книг, періодичних видань, а іноді й фільмів та записаної музики для читання, позичання чи посилання"
     }
 ]
